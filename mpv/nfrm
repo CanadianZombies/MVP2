@@ -1,0 +1,61 @@
+void
+do_nfrm (CHAR_DATA * ch, char *argy)
+{
+  int board_here;
+  SINGLE_OBJECT *obj;
+  NOTE_DATA *pnote;
+  int count = 0;
+  char buf[STD_LENGTH];
+  char buf1[STD_LENGTH * 8];
+  int vnum;
+  DEFINE_COMMAND ("nfrm", do_nfrm, POSITION_DEAD, 0, LOG_NORMAL, "Shows the number of unread notes.")
+  if (IS_MOB (ch)) return;
+  board_here = 0;
+  obj = get_obj_here (ch, "board", SEARCH_ROOM_FIRST);
+  if (obj == NULL)
+    board_here = 1;
+  else
+    board_here = obj->pIndexData->value[9];
+  buf1[0] = '\0';
+  sprintf(buf1,"\x1B[34;1m------------------------------------------------------------------------\x1B[37;0m\n\r");
+  sprintf(buf1+strlen(buf1),"\x1B[36;1m New  ###  Sender/From         Subject\x1B[37;0m\n\r");
+  sprintf(buf1+strlen(buf1),"\x1B[34;1m------------------------------------------------------------------------\x1B[37;0m\n\r");
+  for (pnote = note_list; pnote != NULL; pnote = pnote->next)
+  {
+    if (is_note_to (ch, pnote) &&
+        (board_here == pnote->board_num || IS_IMMORTAL (ch)) &&
+        str_cmp (NAME (ch), pnote->sender) &&
+        !has_read_note (ch, pnote))
+    {
+      count++;
+      if (pnote->subject && strlen(pnote->subject)>35)
+        pnote->subject[35]='\0';
+      sprintf (buf, "\x1B[34;1m(New) \x1B[37;1m%3d\x1B[37;0m  From \x1B[35;1m%-14s\x1B[37;0m '\x1B[37;1m%s\x1B[37;0m'\n\r",
+          vnum, pnote->sender, pnote->subject ? pnote->subject : "(no subject)");
+      strcat (buf1, buf);
+      vnum++;
+    }
+    else
+      vnum++;
+    if (strlen (buf1) > (STD_LENGTH * 7))
+    {
+      strcat (buf1, "\n\rTOO MANY NOTES.. WAIT UNTIL A GOD REMOVES SOME!\n\r");
+      break;
+    }
+  }
+  if (count == 0)
+  {
+    sprintf (buf1, "You have no unread notes.\n\r");
+    send_to_char (buf1, ch);
+  }
+  else
+  {
+    sprintf(buf1+strlen(buf1),"\x1B[34;1m------------------------------------------------------------------------\x1B[37;0m\n\r");
+    page_to_char (buf1, ch);
+    sprintf (buf1, "You have %d unread note%s.\n\r",
+             count, (count == 1 ? "" : "s"));
+    send_to_char (buf1, ch);
+  }
+  return;
+}
+

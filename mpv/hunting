@@ -1,0 +1,1251 @@
+alien.c:      victim->hit -= damm;
+alien.c:      if (ch->fgt && ch->fgt->field && victim && victim->fgt && victim->fgt->field)
+alien.c:	  java_hit_field (ch->fgt->field, ch, ch->fgt->pos_x, ch->fgt->pos_y, victim->fgt->pos_x, victim->fgt->pos_y);
+alien.c:      victim->hit -= number_range (1, (get_curr_str (ch) / 3));
+alien.c:      if (victim->hit < 1)
+alien.c:	victim->hit = 1;
+alien.c:      if (ch->fgt && ch->fgt->field && victim && victim->fgt && victim->fgt->field)
+alien.c:	  java_hit_field (ch->fgt->field, ch, ch->fgt->pos_x, ch->fgt->pos_y, victim->fgt->pos_x, victim->fgt->pos_y);
+alien.c:      victim->hit += damm;
+alien.c:      if (victim->hit > victim->max_hit)
+alien.c:          victim->hit = victim->max_hit;
+alien.c:  if (ch->height - 60 > victim->height)
+alien.c:	  if (victim->hit < 1)
+alien.c:	    victim->hit = 1;
+alien.c:	  if (ch->fgt && ch->fgt->field && victim && victim->fgt && victim->fgt->field)
+alien.c:	      java_hit_field (ch->fgt->field, ch, ch->fgt->pos_x, ch->fgt->pos_y, victim->fgt->pos_x, victim->fgt->pos_y);
+alien.c:  if (ch->height + 12 < victim->height)
+alien.c:	  victim->hit -= dam;
+alien.c:	  if (victim->hit < 1)
+alien.c:	    victim->hit = 1;
+alien.c:	  if (ch->fgt && ch->fgt->field && victim && victim->fgt && victim->fgt->field)
+alien.c:	      java_hit_field (ch->fgt->field, ch, ch->fgt->pos_x, ch->fgt->pos_y, victim->fgt->pos_x, victim->fgt->pos_y);
+alien.c:	  victim->hit -= dam;
+alien.c:	  if (victim->hit < 1)
+alien.c:	    victim->hit = 1;
+alien.c:	  if (ch->fgt && ch->fgt->field && victim && victim->fgt
+alien.c:	      && victim->fgt->field)
+alien.c:			      ch->fgt->pos_y, victim->fgt->pos_x,
+alien.c:			      victim->fgt->pos_y);
+alien.c:	  victim->hit -= dam;
+alien.c:	  if (victim->hit < 1)
+alien.c:	    victim->hit = 1;
+alien.c:	  if (ch->fgt && ch->fgt->field && victim && victim->fgt
+alien.c:	      && victim->fgt->field)
+alien.c:			      ch->fgt->pos_y, victim->fgt->pos_x,
+alien.c:			      victim->fgt->pos_y);
+ar.c:      !IS_SET (victim->act, ACT_MOUNTABLE) && !IS_IMMORTAL (ch))
+ar.c:/*if (victim->level>ch->level) 
+ar.c:  victim->fgt->mounted_by = ch;
+ar.c:    if (victim && ch->in_room == victim->in_room && can_see(ch, victim))
+ar.c:      if (tr->dir_left == 10 || (victim && victim->in_room == ch->in_room))
+arena.c:      victim->pcdata->bank += biddata.bids[k];
+arena.c:  victim->fgt->challenge = 10;
+arena.c:  if (victim->desc == NULL)
+arena.c:  if (victim->hit < victim->max_hit)
+arena.c:  if ((victim->in_room->area->vnum != 1 && victim->in_room->area->vnum != 2)
+arena.c:      || (IS_EVIL (victim) && victim->in_room->area->vnum == 1)
+arena.c:      || (!IS_EVIL (victim) && victim->in_room->area->vnum == 2))
+arena.c:  victim->pcdata->challenge_time = 0;
+arena.c:  victim->pcdata->challenge_time = 0;
+arena.c:  if (victim->desc == NULL)
+arena.c:  if (victim->pcdata->bounty != 0)
+arena.c:  if (victim->pcdata->challenge_on == FALSE)
+arena.c:  if (victim->pcdata->challenged_by && argy != "" && argy[0] != '\0'
+arena.c:      && !str_cmp (NAME (ch), victim->pcdata->challenged_by))
+arena.c:      if (victim->pcdata->challenged_by)
+arena.c:	  free_string (victim->pcdata->challenged_by);
+arena.c:	  victim->pcdata->challenged_by = NULL;
+arena.c:  if (victim->pcdata->challenged_by)
+arena.c:      free_string (victim->pcdata->challenged_by);
+arena.c:      victim->pcdata->challenged_by = NULL;
+arena.c:  victim->pcdata->challenged_by = str_dup (NAME (ch));
+arena.c:  victim->ced->wasroom = victim->in_room->vnum;
+aw.c:    victim->pcdata->learned[i] = -100;
+aw.c:  victim->pcdata->practice = 10 + ((LEVEL (victim) - 1) *
+aw.c:  victim->pcdata->practice = 1 + ((LEVEL (victim) - 1) *
+aw.c:    victim->pcdata->learn = (LEVEL (victim) * 2);
+aw.c:    victim->pcdata->learn = 6 + (LEVEL (victim) - 3);
+aw.c:    if (d == victim->desc)
+aw.c:    return victim->in_room;
+aw.c:  /*if (victim->in_room == ch->in_room)
+aw.c:      && victim->pcdata->beamout
+aw.c:      && (victim->pcdata->beamout[0] !=
+aw.c:        '\0')) act (victim->pcdata->beamout, victim, NULL,
+aw.c:  if (IS_PLAYER (victim) && victim->pcdata->beamin) act (victim->pcdata->beamin, victim, NULL, NULL, TO_ROOM);
+aw.c:  if (IS_PLAYER (victim) && victim->pcdata->resist_summon == -10)
+aw.c:    noibm = victim->pcdata->noibm;
+aw.c:    kk = victim->pcdata->kk;
+aw.c:    mb = victim->pcdata->mb;
+aw.c:    dbs = victim->pcdata->dbs;
+aw.c:    gotoxy (victim, 1, victim->pcdata->pagelen);
+aw.c:  if (LEVEL (ch) > 100 && LEVEL (ch) < 110 && victim->in_room
+aw.c:      && victim->in_room->area->open != 0)
+aw.c:      victim->pIndexData->area->vnum,
+aw.c:      victim->pIndexData->area->name);
+aw.c:      victim->height, victim->height / 12,
+aw.c:      victim->height % 12); send_to_char (buf, ch);
+aw.c:          victim->pIndexData->vnum,
+aw.c:          victim->in_room ==
+aw.c:          NULL ? 0 : victim->in_room->vnum);
+aw.c:      sprintf (buf, "Hp: %d/%d  Moves: %d/%d\n\r", victim->hit,
+aw.c:          victim->max_hit, victim->move, victim->max_move);
+aw.c:          victim->exp); send_to_char (buf, ch);
+aw.c:              GET_HITROLL (victim) + victim->pIndexData->hitroll,
+aw.c:              GET_DAMROLL (victim), victim->position);
+aw.c:          if (victim->position == POSITION_FIGHTING)
+aw.c:            sprintf (buf, "Fighting: %s.\n\r", FIGHTING (victim) ? NAME (victim->fgt-> fighting) : "(none)");
+aw.c:          sprintf (buf, "Act: \x1B[37;1m%s\x1B[37;0m  Act3: \x1B[37;1m%s\x1B[37;0m\n\r", act_bit_name (victim->act),
+aw.c:              act3_bit_name (victim->pIndexData->act3));
+aw.c:          sprintf (buf, "Mobtype: %s  ", mob_type_name (victim->pIndexData->mobtype));
+aw.c:            sprintf (buf, "Hunting: %s  ", victim->fgt->hunting);
+aw.c:              MASTER (victim) ? NAME (victim->fgt->
+aw.c:              LEADER (victim) ? NAME (victim->fgt->
+aw.c:              affect_bit_name (victim->affected_by),
+aw.c:              affect_bit_name_two (victim->more_affected_by));
+aw.c:              if (victim->pIndexData->spec_fun != NULL)
+aw.c:                    victim->pIndexData->spec_name);
+aw.c:              if (victim->pIndexData->alt_vnum != 0)
+aw.c:                    victim->pIndexData->alt_vnum);
+aw.c:              for (paf = victim->affected; paf != NULL; paf = paf->next)
+aw.c:      victim = victim->next)
+aw.c:        && victim->in_room != NULL
+aw.c:          victim->pIndexData->vnum,
+aw.c:          victim->in_room->vnum,
+aw.c:          victim->in_room->name);
+aw.c:      race_info[victim->pcdata->race].name,
+aw.c:      victim->pcdata->race,
+aw.c:      victim->pcdata->email); 
+aw.c:    sprintf (buf, "Rp: %s\n", victim->pcdata->rpwd);
+aw.c:      (int) victim->pcdata->played,
+aw.c:      plr_bit_name (victim->act));
+aw.c:      victim->in_room ==
+aw.c:      NULL ? 0 : victim->in_room->vnum,
+aw.c:      position_name (victim->position));
+aw.c:  if (victim->position == POSITION_FIGHTING
+aw.c:        NAME (victim->fgt->fighting));
+aw.c:      victim->pcdata->carry_number,
+aw.c:      (int) victim->pcdata->carry_weight,
+aw.c:      victim->pcdata->bank);
+aw.c:      victim->pcdata->condition[COND_THIRST],
+aw.c:      victim->pcdata->condition[COND_FULL],
+aw.c:      victim->pcdata->condition[COND_DRUNK],
+aw.c:      victim->pcdata->saving_throw);
+aw.c:      victim->pcdata->learn, victim->pcdata->practice,
+aw.c:      victim->pcdata->security); 
+aw.c:      victim->hit, victim->max_hit, LEVEL (victim),
+aw.c:      victim->move, victim->max_move,
+aw.c:      victim->pcdata->alignment, GET_HITROLL (victim));
+aw.c:      !victim->ced ? 0 : victim->ced->wimpy);
+aw.c:      FIND_EXP (LEVEL (victim), victim) - victim->exp,
+aw.c:      victim->pcdata->warpoints,
+aw.c:      victim->pcdata->totalkills);
+aw.c:      victim->pcdata->remort_times,
+aw.c:      victim->pcdata->deaths,
+aw.c:      victim->pcdata->killpoints);
+aw.c:  show_guilds (ch, victim->pcdata->guilds);
+aw.c:      MASTER (victim) ? NAME (victim->fgt->
+aw.c:      LEADER (victim) ? NAME (victim->fgt->
+aw.c:      affect_bit_name (victim->affected_by),
+aw.c:      affect_bit_name_two (victim->more_affected_by));
+aw.c:      victim->pcdata->nat_armor, GET_AC (victim));
+aw.c:  if (victim->pcdata->nat_abilities != 0)
+aw.c:    sprintf (buf, "Natural Abilities: %s\n\r", natural_abilities (victim->pcdata->nat_abilities));
+aw.c:    if (victim->pcdata->beamin)
+aw.c:      sprintf (buf, "Beamin : %s\n\r", victim->pcdata->beamin);
+aw.c:    if (victim->pcdata->beamout)
+aw.c:      sprintf (buf, "Beamout: %s\n\r", victim->pcdata->beamout);
+aw.c:  for (paf = victim->affected; paf != NULL; paf = paf->next)
+aw.c:  if (IS_MOB (victim) || victim->desc == NULL)
+aw.c:  if (victim->desc->snoop_by != NULL)
+aw.c:  victim->desc->snoop_by = ch->desc;
+aw.c:  victim->desc = ch->desc;
+aw.c:    vnext = victim->next_in_room;
+aw.c:    if (IS_MOB (victim) && victim->desc == NULL)
+aw.c:        for (obj = victim->carrying; obj != NULL; obj = next_obj)
+aw.c:        victim->pcdata->level = 1;
+aw.c:        victim->exp = FIND_EXP (level - 1, 0); victim->max_hit = 25;
+aw.c:        victim->max_move = 70; for (sn = 0; sn < SKILL_COUNT;
+aw.c:            sn++) victim->pcdata->
+aw.c:          learned[sn] = -100; victim->pcdata->practice = 0;
+aw.c:        victim->hit = victim->max_hit; upd_hps (victim);
+aw.c:        victim->move = victim->max_move; upd_mps (victim);
+aw.c:        victim->pcdata->level += 1; advance_level (victim);
+aw.c:      victim->exp = FIND_EXP (LEVEL (victim) - 1, 0);
+aw.c:  if (IS_SET (victim->act, PLR_FREEZE))
+aw.c:    REMOVE_BIT (victim->act, PLR_FREEZE);
+aw.c:    SET_BIT (victim->act, PLR_FREEZE);
+aw.c:  if (IS_SET (victim->act, PLR_LOG))
+aw.c:    REMOVE_BIT (victim->act, PLR_LOG);
+aw.c:    SET_BIT (victim->act, PLR_LOG);
+aw.c:  if (IS_SET (victim->pcdata->act2, PLR_SILENCE))
+aw.c:    REMOVE_BIT (victim->pcdata->act2, PLR_SILENCE);
+aw.c:    SET_BIT (victim->pcdata->act2, PLR_SILENCE);
+aw.c:        victim->pcdata->learned[sn] = (value == 0 ? -100 : value);
+aw.c:    victim->pcdata->learned[spell->gsn] =
+aw.c:  if (LEVEL (ch) < 110 && victim->in_room
+aw.c:      && victim->in_room->area->open != 0)
+aw.c:    victim->max_hit = value; return;
+aw.c:    victim->max_move = value; upd_mps (ch); return;
+aw.c:    victim->timer = value; return;
+aw.c:    victim->pcdata->practice = value; return;
+aw.c:    check_fgt (victim); if (victim->fgt->hunting != NULL)
+aw.c:      free_string (victim->fgt->hunting);
+aw.c:      victim->fgt->hunting = NULL;
+aw.c:    victim->fgt->hunting = str_dup (arg3);
+aw.c:      victim->fgt->master = NULL; return;
+aw.c:    victim->fgt->master = get_char_world (ch, arg3); return;
+aw.c:      victim->fgt->leader = NULL; return;
+aw.c:    victim->fgt->leader = get_char_world (ch, arg3); return;
+aw.c:    victim->affected_by = value; return;
+aw.c:    victim->pIndexData->spec_fun = spec_lookup (arg3);
+aw.c:    victim->pIndexData->spec_name = str_dup (arg3); return;
+aw.c:      victim->pcdata->cool_skills ^= COOL_SKILL_VIEW_MOBS;
+aw.c:    victim->pcdata->cool_skills |= COOL_SKILL_VIEW_MOBS; return;
+aw.c:        if (victim->pcdata->script_flags[ik]
+aw.c:            && victim->pcdata->script_flags[ik][0] != '\0'
+aw.c:            && !str_cmp (victim->pcdata->script_flags[ik], arg3))
+aw.c:          free_string (victim->pcdata->script_flags[ik]);
+aw.c:          victim->pcdata->script_flags[ik] = NULL; return;
+aw.c:        if (!victim->pcdata->script_flags[ik])
+aw.c:        if (!str_cmp (victim->pcdata->script_flags[ik], arg3))
+aw.c:        if (victim->pcdata->script_flags[ik]
+aw.c:            && victim->pcdata->script_flags[ik][0] !=
+aw.c:        victim->pcdata->script_flags[ik] = str_dup (arg3); return;
+aw.c:      victim->pcdata->profession_flag ^= bit;
+aw.c:    victim->exp = (FIND_EXP ((value - 1), 1));
+aw.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_FLYING))
+aw.c:      victim->pcdata->nat_abilities -= AFF_FLYING;
+aw.c:      victim->pcdata->nat_abilities += AFF_FLYING;
+aw.c:    victim->pcdata->remort[REMORT_DAM] = value;
+aw.c:    victim->pcdata->remort[REMORT_PRAC] = value;
+aw.c:    victim->pcdata->remort[REMORT_HP] = value;
+aw.c:    victim->pcdata->remort[REMORT_MOVE] = value;
+aw.c:    victim->pcdata->remort[REMORT_MANA] = value;
+aw.c:          victim, TO_CHAR); victim->pcdata->remort_times++;
+aw.c:      if (victim->pcdata->remort_times)
+aw.c:            victim, TO_CHAR); victim->pcdata->remort_times--;
+aw.c:        && (victim->pcdata->perm_stat[STR_I] < 35))
+aw.c:      victim->pcdata->perm_stat[STR_I]++;
+aw.c:      if (victim->pcdata->perm_stat[STR_I] > 3)
+aw.c:        victim->pcdata->perm_stat[STR_I]--;
+aw.c:        && (victim->pcdata->perm_stat[CON_I] < 35))
+aw.c:      victim->pcdata->perm_stat[CON_I]++;
+aw.c:      if (victim->pcdata->perm_stat[CON_I] > 3)
+aw.c:        victim->pcdata->perm_stat[CON_I]--;
+aw.c:        && (victim->pcdata->perm_stat[DEX_I] < 35))
+aw.c:      victim->pcdata->perm_stat[DEX_I]++;
+aw.c:      if (victim->pcdata->perm_stat[DEX_I] > 3)
+aw.c:        victim->pcdata->perm_stat[DEX_I]--;
+aw.c:        && (victim->pcdata->perm_stat[INT_I] < 35))
+aw.c:      victim->pcdata->perm_stat[INT_I]++;
+aw.c:      if (victim->pcdata->perm_stat[INT_I] > 3)
+aw.c:        victim->pcdata->perm_stat[INT_I]--;
+aw.c:        && (victim->pcdata->perm_stat[WIS_I] < 35))
+aw.c:      victim->pcdata->perm_stat[WIS_I]++;
+aw.c:      if (victim->pcdata->perm_stat[WIS_I] > 3)
+aw.c:            victim, TO_CHAR); victim->pcdata->perm_stat[WIS_I]--;
+aw.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_INFRARED))
+aw.c:      victim->pcdata->nat_abilities -= AFF_INFRARED;
+aw.c:      victim->pcdata->nat_abilities += AFF_INFRARED;
+aw.c:        (victim->pcdata->nat_abilities, AFF_DETECT_HIDDEN))
+aw.c:      victim->pcdata->nat_abilities -= AFF_DETECT_HIDDEN;
+aw.c:      victim->pcdata->nat_abilities += AFF_DETECT_HIDDEN;
+aw.c:        (victim->pcdata->nat_abilities, AFF_DETECT_INVIS))
+aw.c:      victim->pcdata->nat_abilities -= AFF_DETECT_INVIS;
+aw.c:      victim->pcdata->nat_abilities += AFF_DETECT_INVIS;
+aw.c:        (victim->pcdata->nat_abilities, AFF_BREATH_WATER))
+aw.c:      victim->pcdata->nat_abilities -= AFF_BREATH_WATER;
+aw.c:      victim->pcdata->nat_abilities += AFF_BREATH_WATER;
+aw.c:    if (victim->pcdata->complete[i])
+aw.c:      victim->pcdata->complete[i] = FALSE;
+aw.c:    if (!victim->pcdata->complete[i])
+aw.c:      victim->pcdata->complete[i] = TRUE;
+aw.c:    if (victim->pcdata->in_progress[i])
+aw.c:      victim->pcdata->in_progress[i] = FALSE;
+aw.c:    if (!victim->pcdata->in_progress[i])
+aw.c:      victim->pcdata->in_progress[i] = TRUE;
+aw.c:    if (victim->pcdata->temp_flag[i])
+aw.c:      victim->pcdata->temp_flag[i] = FALSE;
+aw.c:    if (!victim->pcdata->temp_flag[i])
+aw.c:      victim->pcdata->temp_flag[i] = TRUE;
+aw.c:    victim->pcdata->complete[i] = TRUE;
+aw.c:    victim->pcdata->in_progress[i] = TRUE;
+aw.c:    victim->pcdata->temp_flag[i] = TRUE;
+aw.c:    victim->pcdata->complete[i] = FALSE;
+aw.c:    victim->pcdata->in_progress[i] = FALSE;
+aw.c:    victim->pcdata->temp_flag[i] = FALSE;
+aw.c:    victim->hitroll = value;
+aw.c:    victim->height = value;
+aw.c:    victim->pcdata->tps = value;
+aw.c:    victim->pcdata->tps += value;
+aw.c:    victim->pcdata->warpoints += value;
+aw.c:    victim->pcdata->killpoints += value;
+aw.c:    victim->max_hit += value;
+aw.c:    if (victim->hit < 1) victim->hit = 1; 
+aw.c:    victim->pcdata->tps -= value;
+aw.c:    victim->max_hit -= value;
+aw.c:    if (victim->hit < 1) victim->hit = 1;
+aw.c:    victim->pcdata->warpoints -= value;
+aw.c:    victim->pcdata->warpoints -= value;
+aw.c:    victim->exp -= value;
+aw.c:    victim->pcdata->bank = value;
+aw.c:    victim->damroll = value;
+aw.c:    victim->pcdata->nat_armor = value;
+aw.c:    int wp; if (ad) wp = victim->pcdata->warpoints + value;
+aw.c:      if (sb) wp = victim->pcdata->warpoints + value;
+aw.c:    victim->pcdata->warpoints = wp;
+aw.c:    victim->pcdata->deaths = wp;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_TATICS))
+aw.c:        victim->pcdata->guilds ^= ACT3_TATICS;
+aw.c:        victim->pcdata->guilds ^= ACT3_TATICS;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_SHAMAN))
+aw.c:        victim->pcdata->guilds ^= ACT3_SHAMAN;
+aw.c:        victim->pcdata->guilds ^= ACT3_SHAMAN;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_MYSTICS))
+aw.c:        victim->pcdata->guilds ^= ACT3_MYSTICS;
+aw.c:        victim->pcdata->guilds ^= ACT3_MYSTICS;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_TINKER))
+aw.c:        victim->pcdata->guilds ^= ACT3_TINKER;
+aw.c:        victim->pcdata->guilds ^= ACT3_TINKER;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_WARRIOR))
+aw.c:        victim->pcdata->guilds ^= ACT3_WARRIOR;
+aw.c:        victim->pcdata->guilds ^= ACT3_WARRIOR;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_HEALER))
+aw.c:        victim->pcdata->guilds ^= ACT3_HEALER;
+aw.c:        victim->pcdata->guilds ^= ACT3_HEALER;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_WIZARD))
+aw.c:        victim->pcdata->guilds ^= ACT3_WIZARD;
+aw.c:        victim->pcdata->guilds ^= ACT3_WIZARD;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_THIEFG))
+aw.c:        victim->pcdata->guilds ^= ACT3_THIEFG;
+aw.c:        victim->pcdata->guilds ^= ACT3_THIEFG;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_RANGER))
+aw.c:        victim->pcdata->guilds ^= ACT3_RANGER;
+aw.c:        victim->pcdata->guilds ^= ACT3_RANGER;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_ASSASSIN))
+aw.c:        victim->pcdata->guilds ^= ACT3_ASSASSIN;
+aw.c:        victim->pcdata->guilds ^= ACT3_ASSASSIN;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_PALADIN))
+aw.c:        victim->pcdata->guilds ^= ACT3_PALADIN;
+aw.c:        victim->pcdata->guilds ^= ACT3_PALADIN;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_ELEMENTAL))
+aw.c:        victim->pcdata->guilds ^= ACT3_ELEMENTAL;
+aw.c:        victim->pcdata->guilds ^= ACT3_ELEMENTAL;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_BATTLEMAGE))
+aw.c:        victim->pcdata->guilds ^= ACT3_BATTLEMAGE;
+aw.c:        victim->pcdata->guilds ^= ACT3_BATTLEMAGE;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_MARAUDER))
+aw.c:        victim->pcdata->guilds ^= ACT3_MARAUDER;
+aw.c:        victim->pcdata->guilds ^= ACT3_MARAUDER;
+aw.c:      if (IS_SET (victim->pcdata->guilds, ACT3_NECROMANCER))
+aw.c:        victim->pcdata->guilds ^= ACT3_NECROMANCER;
+aw.c:        victim->pcdata->guilds ^= ACT3_NECROMANCER;
+aw.c:    victim->pcdata->perm_stat[STR_I] = value; return;
+aw.c:    victim->pcdata->perm_stat[CON_I] = value; return;
+aw.c:    victim->pcdata->perm_stat[DEX_I] = value; return;
+aw.c:    victim->pcdata->perm_stat[INT_I] = value; return;
+aw.c:    victim->pcdata->perm_stat[WIS_I] = value; return;
+aw.c:    victim->pcdata->killpoints = value; return;
+aw.c:    victim->pcdata->sex = value; return;
+aw.c:    victim->pcdata->race = value; return;
+aw.c:    victim->max_hit = value; upd_hps (ch); return;
+aw.c:    victim->max_move = value; return;
+aw.c:    victim->pcdata->practice = value; return;
+aw.c:    victim->pcdata->learn = value; return;
+aw.c:    victim->pcdata->alignment = value;
+aw.c:    victim->pcdata->condition[COND_THIRST] = value; return;
+aw.c:    victim->pcdata->condition[COND_DRUNK] = value; return;
+aw.c:    victim->pcdata->condition[COND_FULL] = value; return;
+aw.c:      victim->fgt->master = NULL; return;
+aw.c:    victim->fgt->master = get_char_world (ch, arg3); return;
+aw.c:      victim->fgt->leader = NULL; return;
+aw.c:    victim->fgt->leader = get_char_world (ch, arg3); return;
+aw.c:    if (victim->pcdata->short_descr
+aw.c:        && victim->pcdata->short_descr !=
+aw.c:        NULL) free_string (victim->pcdata->short_descr);
+aw.c:    victim->pcdata->short_descr = str_dup (arg3); return;
+aw.c:    ch->desc->pString = &victim->pcdata->long_descr; return;
+aw.c:      victim->pcdata->complete[value] = 1;
+aw.c:      victim->pcdata->complete[value] = 0;
+aw.c:    if (IS_PLAYER (ch) && victim->in_room->area->open == 1
+boat.c:  if (!victim->ced || !ch->ced)
+channels.c:      || (IS_MOB (victim) && victim->in_room != ch->in_room) ||
+channels.c:  if (victim->timer > 49)
+channels.c:  if (IS_PLAYER (victim) && victim->pcdata->quiet == 2)
+channels.c:  if (IS_PLAYER (victim) && victim->desc == NULL)
+channels.c:	       color_table[victim->pcdata->colors[COLOR_TELL]].code, name,
+channels.c:		color_table[victim->pcdata->colors[COLOR_TELL]].act_code),
+channels.c:		color_table[victim->pcdata->colors[COLOR_TELL]].act_code),
+channels.c:  position = victim->position;
+channels.c:  victim->position = POSITION_STANDING;
+channels.c:  victim->position = position;
+channels.c:	  if (victim->pIndexData->vnum == tr->attached_to_mob)
+channels.c:  victim->ced->reply = ch;
+channels.c:  if (victim->timer > 49)
+channels.c:  if (IS_PLAYER (victim) && victim->pcdata->quiet == 2)
+channels.c:  position = victim->position;
+channels.c:  victim->position = POSITION_STANDING;
+channels.c:  victim->position = position;
+channels.c:  victim->ced->reply = ch;
+clan.c:     ((IS_SET (victim->pcdata->raceflag, RC_EVILRACE)
+clan.c:      || (!IS_SET (victim->pcdata->raceflag, RC_EVILRACE)
+combat.c:  if (!ch->fgt || !victim->fgt)
+combat.c:  if (cf != victim->fgt->field)
+combat.c:  x = victim->fgt->pos_x;
+combat.c:  y = victim->fgt->pos_y;
+combat.c:  if (!ch->fgt || !victim->fgt)
+combat.c:  if (cf != victim->fgt->field)
+combat.c:  x = victim->fgt->pos_x;
+combat.c:  y = victim->fgt->pos_y;
+combat.c:  if (ch->fgt->field && ch->fgt->field != victim->fgt->field)
+combat.c:  if (victim->fgt->field)
+combat.c:      cf = victim->fgt->field;
+combat.c:      xx = victim->fgt->pos_x;
+combat.c:      yy = victim->fgt->pos_y;
+config.c:	  && LEVEL (victim->fgt->fighting) + 10 < LEVEL (ch))
+config.c:  ch->fgt->fighting = victim->fgt->fighting;
+config.c:  set_fighting (ch, victim->fgt->fighting);
+consid.c:  vtemp_hps = victim->hit;
+consid.c:      if (vtemp_hps < (victim->max_hit / 15))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 10))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 7))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 5))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 4))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 2))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 2)))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 3)))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 4)))
+consid.c:	  if (vtemp_hps < (victim->max_hit - 60))
+consid.c:	  else if (vtemp_hps < (victim->max_hit - 25))
+consid.c:  vtemp_hps = victim->hit;
+consid.c:      if (vtemp_hps < (victim->max_hit / 15))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 10))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 7))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 5))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 4))
+consid.c:      else if (vtemp_hps < (victim->max_hit / 2))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 2)))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 3)))
+consid.c:      else if (vtemp_hps < (victim->max_hit - (victim->max_hit / 4)))
+consid.c:	  if (vtemp_hps < (victim->max_hit - 60))
+consid.c:	  else if (vtemp_hps < (victim->max_hit - 25))
+dam.c:  if (!IS_SET (victim->pcdata->act3, ACT3_MAPPING) ||
+dam.c:      IS_SET (victim->pcdata->act3, ACT3_DISABLED))
+dam.c:      sprintf (b, "\x1B[9;%dr", victim->pcdata->pagelen);
+dam.c:  java_send_field (victim->fgt->field, victim);
+dam.c:  if (victim->desc && IS_JAVA (victim))
+dam.c:      write_to_buffer (victim->desc, buf, 0);
+dam.c:  if (victim->desc && !IS_JAVA (victim))
+dam.c:			|| victim->pIndexData->java[0] == '\0')
+dam.c:			       victim->pIndexData->java[0],
+dam.c:			       victim->pIndexData->java[1]);
+dam.c:  if (IS_PLAYER (victim) || victim->pIndexData->java[0] == '\0')
+dam.c:      sprintf (buf + strlen (buf), "%c%c", victim->pIndexData->java[0],
+dam.c:	       victim->pIndexData->java[1]);
+dam.c:      sprintf (buf + strlen (buf), "%s%c%s%c", victim->pIndexData->name,
+dam.c:	       (char) 1, victim->pIndexData->short_descr, (char) 1);
+dam.c:	   victim->pIndexData->name, (char) 24);
+dam.c:	   victim->pIndexData->name, (char) 24);
+dam.c:	   (IS_MOB (victim) ? victim->pIndexData->name : NAME (victim)),
+dam.c:  if (IS_PLAYER (victim) || victim->pIndexData->java[0] == '\0')
+dam.c:      sprintf (buf + strlen (buf), "%c%c", victim->pIndexData->java[0],
+dam.c:	       victim->pIndexData->java[1]);
+dam.c:      sprintf (buf + strlen (buf), "%s%c%s%c", victim->pIndexData->name,
+dam.c:	       (char) 1, victim->pIndexData->short_descr, (char) 1);
+death.c:	  if (victim->pcdata->learned[i] < 5)
+death.c:	  victim->pcdata->learned[i] -= pow.amount_lost_on_death;
+death.c:	  if (victim->pcdata->learned[i] < 1)
+death.c:	    victim->pcdata->learned[i] = 1;
+death.c:    gain_exp (victim, UMAX (-6000, -(signed) (victim->exp / 23)));
+death.c:    gain_exp (victim, UMAX (-18000, -(signed) (victim->exp / 12)));
+death.c:    gain_exp (victim, UMAX (-58000, -(signed) (victim->exp / 15)));
+death.c:    gain_exp (victim, UMAX (-138655, -(signed) (victim->exp / 24)));
+death.c:    gain_exp (victim, UMAX (-355744, -(signed) (victim->exp / 38)));
+death.c:    gain_exp (victim, UMAX (-557007, -(signed) (victim->exp / 45)));
+death.c:    gain_exp (victim, UMAX (-895101, -(signed) (victim->exp / 65)));
+death.c:    gain_exp (victim, UMAX (-1584573, -(signed) (victim->exp / 100)));
+death.c:      victim->hit = 1;
+death.c:      victim->hit = 1;
+death.c:      victim->hit = 1;
+death.c:  victim->ced->attackers[0] = NULL;
+death.c:  victim->ced->attackers[1] = NULL;
+death.c:  victim->ced->attackers[2] = NULL;
+death.c:  victim->ced->attackers[3] = NULL;
+death.c:  if (victim->fgt && FIGHTING (victim) && FIGHTING (victim) != NULL
+death.c:      check_fgt (victim->fgt->fighting);
+death.c:      victim->fgt->fighting->fgt->fighting = NULL;
+death.c:      NEW_POSITION (victim->fgt->fighting, POSITION_STANDING);
+death.c:  if (victim->fgt)
+death.c:    victim->fgt->fighting = NULL;
+death.c:      && victim->pcdata->carry_number > 0)
+death.c:      if (victim->in_room && tmpch->in_room
+death.c:	  && victim->in_room->area == tmpch->in_room->area
+death.c:      check_fgt (victim->fgt->mounted_by);
+death.c:	   victim, NULL, victim->fgt->mounted_by, TO_VICT);
+death.c:	   victim->fgt->mounted_by, TO_NOTVICT);
+death.c:      check_fgt (victim->fgt->mounted_by);
+death.c:      victim->fgt->mounted_by->fgt->riding = NULL;
+death.c:      NEW_POSITION (victim->fgt->mounted_by, POSITION_RESTING);
+death.c:      victim->fgt->mounted_by = NULL;
+death.c:	   victim, NULL, victim->fgt->riding, TO_VICT);
+death.c:      check_fgt (victim->fgt->riding);
+death.c:      victim->fgt->riding->fgt->mounted_by = NULL;
+death.c:      victim->fgt->riding = NULL;
+death.c:      victim->pIndexData->killed++;
+death.c:  while (victim->affected)
+death.c:    affect_remove (victim, victim->affected);
+death.c:    victim->affected_by = victim->pcdata->nat_abilities;
+death.c:  victim->armor = 100;
+death.c:  victim->hit = UMAX (5, victim->hit);
+death.c:  victim->move = UMAX (5, victim->move);
+death.c:    xp = (int) (((float) victim->exp *
+death.c:    xp = (victim->exp);
+death.c:    if (victim->pIndexData && victim->pIndexData->hpmult >= 1000)
+death.c:      xp = (xp * (victim->pIndexData->hpmult / 1000)) / 10;
+death.c:          && !IS_SET (victim->pcdata->raceflag, RC_EVILRACE))
+death.c:          && IS_SET (victim->pcdata->raceflag, RC_EVILRACE))
+death.c:  if (victim->data_type != 50)
+death.c:  if (victim->data_type != 50)
+death.c:  if (victim->data_type != 50)
+death.c:  if (victim->data_type != 50)
+death.c:  if (hitop && ch->fgt && ch->fgt->field && victim && victim->fgt && victim->fgt->field)
+death.c:      java_hit_field (ch->fgt->field, ch, ch->fgt->pos_x, ch->fgt->pos_y, victim->fgt->pos_x, victim->fgt->pos_y);
+fgt.c:  if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:      for (obj = victim->carrying; obj != NULL; obj = obj->next_content)
+fgt.c:  if (victim->ced && IS_SET (victim->ced->fight_ops, F_GROUND))
+fgt.c:  victim->ced->ground_pos = 0;
+fgt.c:      check_fgt (victim->fgt->riding);
+fgt.c:      victim->fgt->riding->fgt->mounted_by = NULL;
+fgt.c:      victim->fgt->riding = NULL;
+fgt.c:  victim->fgt->fighting = ch;
+fgt.c:  victim->ced->ground_pos = 0;
+fgt.c:	  victim->fgt->fighting = ch;
+fgt.c:      if (IS_AWAKE (ch) && ch->in_room == victim->in_room)
+fgt.c:	  posorg = victim->position;
+fgt.c:	      && victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:	      && victim->position != POSITION_CASTING)
+fgt.c:		victim->pcdata->tickcounts = 0;
+fgt.c:  if (ch->in_room != victim->in_room)
+fgt.c:      victim->fgt->fighting = NULL;
+fgt.c:      victim->position = POSITION_STANDING;
+fgt.c:      if (IS_MOB (victim) && victim && IS_SET (victim->act, ACT_UNTOUCHABLE))
+fgt.c:      if (victim->in_room == NULL || ch->in_room == NULL)
+fgt.c:	  victim->ced->attackers[0] = ch;
+fgt.c:	  victim->ced->attackers[0] = ch;	/*Set him in position 1 attacking */
+fgt.c:      for (vch = victim->in_room->more->people; vch != NULL;
+fgt.c:		      if (victim->ced->attackers[gmembers] == NULL ||
+fgt.c:			  victim->ced->attackers[gmembers]->in_room !=
+fgt.c:			  victim->in_room)
+fgt.c:			  victim->ced->attackers[gmembers] = vch;
+fgt.c:      if (victim->position == POSITION_DEAD)
+fgt.c:	      && victim->hit > 15 && !IS_AFFECTED (ch, AFF_FLYING)
+fgt.c:		  || victim->hit * (double) 1.7 < victim->max_hit))
+fgt.c:		  || !IS_SET (victim->ced->fight_ops, F_GROUND)
+fgt.c:		  || victim->position == POSITION_GROUNDFIGHTING
+fgt.c:      for (o = victim->carrying; o != NULL; o = o->next_content)
+fgt.c:      if (IS_MOB (victim) && (victim->pIndexData->mobtype == MOB_GHOST))
+fgt.c:  if (victim->position == POSITION_RESTING
+fgt.c:      || victim->position == POSITION_SLEEPING
+fgt.c:      || victim->position == POSITION_STANDING)
+fgt.c:	  if (victim->hit < 1)
+fgt.c:	    victim->hit = 1;
+fgt.c:  if (ch->in_room != victim->in_room)
+fgt.c:    victim->fgt->fighting = NULL;
+fgt.c:    victim->position = POSITION_STANDING;
+fgt.c:  if (victim && ch && victim->height > ch->height + 22
+fgt.c:    if (victim->position == POSITION_DEAD || ch->in_room != victim->in_room)
+fgt.c:      victim->fgt->fighting = NULL;
+fgt.c:      victim->fgt->mounted_by = NULL;
+fgt.c:       (!IS_SET (victim->ced->fight_ops, F_AGGRESSIVE) ? 8 : 0)));
+fgt.c:        && victim->position != POSITION_BASHED && number_range (1, 7) == 4
+fgt.c:        && victim->position != POSITION_BASHED && number_range (1, 11) == 4
+fgt.c:        && victim->position != POSITION_BASHED && number_range (1, 34) == 6
+fgt.c:    if (victim->position == POSITION_RESTING)
+fgt.c:  if (victim->data_type == 50)
+fgt.c:  if (!ch->in_room || !victim->in_room)
+fgt.c:  if (ch->in_room != victim->in_room)
+fgt.c:      victim->fgt->fighting = NULL;
+fgt.c:      victim->position = POSITION_STANDING;
+fgt.c:  if (!victim->in_room || !victim->in_room->area ||
+fgt.c:       && victim->in_room && victim->in_room->area
+fgt.c:       && victim->in_room->area->open == 1))
+fgt.c:      victim->fgt->fighting = NULL;
+fgt.c:  if (victim->position == POSITION_DEAD)
+fgt.c:      && !(victim->position == POSITION_GROUNDFIGHTING
+fgt.c:      && victim->position != POSITION_CASTING
+fgt.c:      && victim->position != POSITION_BASHED
+fgt.c:      && victim->position != POSITION_GROUNDFIGHTING)
+fgt.c:  if (victim->position == POSITION_DEAD)
+fgt.c:	  victim->pcdata->no_quit = 2;
+fgt.c:	  victim->pcdata->no_quit_pk = 5;
+fgt.c:      if (can_yell (victim) && victim->hit < 8 && victim->max_hit > 100
+fgt.c:      if (victim->position > POSITION_STUNNED && dam > 0)
+fgt.c:      if (victim->position > POSITION_STUNNED)
+fgt.c:		  victim->position != POSITION_GROUNDFIGHTING
+fgt.c:		  && victim->position != POSITION_CASTING)
+fgt.c:	      victim->position != POSITION_GROUNDFIGHTING && can_trip (ch) &&
+fgt.c:	      victim->position != POSITION_CASTING && can_trip (victim)
+fgt.c:	      && victim->fgt->combat_delay_count < 0 && ch->move > 10)
+fgt.c:	      if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:  if (victim->fgt && victim->fgt->field)
+fgt.c:      handle_gs_da (victim, victim->fgt->pos_x, victim->fgt->pos_y);
+fgt.c:	  absorb += (victim->pcdata->remort_times);
+fgt.c:      if (victim->position == POSITION_CASTING && dam > absorb)
+fgt.c:      && LEVEL (victim) >= LEVEL_IMMORTAL && victim->hit < 1)
+fgt.c:    victim->hit = 1;
+fgt.c:  switch (victim->position)
+fgt.c:      if (dam > victim->max_hit / 5)
+fgt.c:      if (victim->hit < victim->max_hit / 8)
+fgt.c:  if (victim->position == POSITION_DEAD)
+fgt.c:	  char_to_room (victim, get_room_index (victim->fgt->wasroomtwo));
+fgt.c:	  victim->fgt->fighting = NULL;
+fgt.c:	  victim->pcdata->deaths++;
+fgt.c:	  victim->pcdata->no_quit = 0;
+fgt.c:	      && victim->pcdata->bounty < 10)
+fgt.c:		       NAME (victim), NAME (ch), victim->in_room->vnum);
+fgt.c:	  sprintf (log_buf, "%s killed by %s at %d", NAME (victim), NAME (ch), victim->in_room->vnum);
+fgt.c:	     if (victim->pcdata->warpoints - (1 + (LEVEL (victim) / 6)) >= 0)
+fgt.c:	     victim->pcdata->warpoints -= (1 + (LEVEL (victim) / 6));
+fgt.c:		  if (victim->pcdata->warpoints -
+fgt.c:		      victim->pcdata->warpoints -= (1 + (LEVEL (victim) / 6));
+fgt.c:		      if (victim->pcdata->warpoints > 0)
+fgt.c:				   victim->pcdata->warpoints,
+fgt.c:				   victim->pcdata->warpoints == 1 ? "" : "s");
+fgt.c:			  victim->pcdata->warpoints = 0;
+fgt.c:		  victim->pcdata->no_quit_pk = 0;
+fgt.c:  if (IS_PLAYER (victim) && victim->desc == NULL)
+fgt.c:      if (number_range (0, victim->wait) < 2)
+fgt.c:      if ((IS_SET (victim->act, ACT_WIMPY) && number_bits (1) == 0
+fgt.c:	   && victim->hit < victim->max_hit / 6))
+fgt.c:    if (victim->ced && victim->hit <= victim->ced->wimpy
+fgt.c:	&& victim->position != POSITION_BASHED)
+fgt.c:  if (!victim->in_room)
+fgt.c:  for (tch = victim->in_room->more->people; tch != NULL;
+fgt.c:      victim->fgt->fighting = NULL;
+fgt.c:  if (victim->move <= 5)
+fgt.c:  if (!IS_AWAKE (victim) || victim->position <= POSITION_STUNNED)
+fgt.c:      chance = victim->pIndexData->parry +
+fgt.c:      chance = victim->pcdata->learned[gsn_parry] / (2 * number);
+fgt.c:  if (victim->move <= 5)
+fgt.c:      if (victim->pcdata->carry_weight > (get_curr_str (victim) * 2))
+fgt.c:      if (victim->pcdata->carry_weight > (get_curr_str (victim) * 3))
+fgt.c:      if (victim->pcdata->carry_weight > (get_curr_str (victim) * 4))
+fgt.c:      if (victim->pcdata->carry_weight > (get_curr_str (victim) * 5))
+fgt.c:      if (victim->pcdata->carry_weight > (get_curr_str (victim) * 6))
+fgt.c:  if (!IS_AWAKE (victim) || victim->position <= POSITION_STUNNED)
+fgt.c:      chance = victim->pIndexData->dodge + ((LEVEL (victim) / 3) / (number)); //took out UMIN(75,
+fgt.c:      chance = victim->pcdata->learned[gsn_dodge] + ((LEVEL (victim) / 3) / (number));
+fgt.c:      if (victim->position != POSITION_BASHED)
+fgt.c:      chance = victim->pcdata->learned[gsn_shield_block] / (number / 2.0);
+fgt.c:  if (victim->position == POSITION_STANDING && victim->fgt
+fgt.c:      && victim->fgt->field)
+fgt.c:  if (victim->hit > 0)
+fgt.c:      if (victim->position <= POSITION_STUNNED && victim->position >= 0)
+fgt.c:  if (IS_MOB (victim) || victim->hit <= -5)
+fgt.c:  if (victim->hit <= -3)
+fgt.c:  else if (victim->hit <= -1)
+fgt.c:	  && IS_PLAYER (FIGHTING (victim)) && !victim->ced->has_yelled
+fgt.c:	  && victim->pIndexData->yeller_number != 0
+fgt.c:	  if (!IS_SET (victim->pIndexData->act4, ACT4_SOLOYELL))
+fgt.c:	      for (witness = victim->in_room->more->people; witness != NULL;
+fgt.c:		      victim->pIndexData->yeller_number)
+fgt.c:			  && tempch->in_room->area != victim->in_room->area)
+fgt.c:			  victim->pIndexData->yeller_number && tempch->in_room
+fgt.c:			  && tempch->in_room->area == victim->in_room->area
+fgt.c:		  victim->ced->has_yelled = TRUE;
+fgt.c:		      && tempch->in_room->area != victim->in_room->area)
+fgt.c:		      victim->pIndexData->yeller_number && tempch->in_room
+fgt.c:		      && tempch->in_room->area == victim->in_room->area
+fgt.c:	      victim->ced->has_yelled = TRUE;
+fgt.c:    obj_to (obj, victim->in_room);
+fgt.c:  if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:  if (victim->fgt->combat_delay_count < -2)
+fgt.c:  if (victim->position == POSITION_BASHED)
+fgt.c:    tmpi = (15 + get_curr_dex (victim) + (victim->pcdata->learned[gsn_dodge] / 6));
+fgt.c:      check_fgt (victim->fgt->riding);
+fgt.c:      victim->fgt->riding->fgt->mounted_by = NULL;
+fgt.c:      victim->fgt->riding = NULL;
+fgt.c:	  victim->fgt->fighting = ch;
+fgt.c:    victim->fgt->combat_delay_count = 4;
+fgt.c:    if (victim->position != POSITION_FIGHTING)
+fgt.c:      victim->fgt->fighting = ch;
+fgt.c:    victim->position = POSITION_BASHED;
+fgt.c:    victim->fgt->ears = 10 + (s->casting_time);
+fgt.c:  victim->fgt->combat_delay_count = UMAX (1, dice (1, 5 - get_curr_dex (victim) / 6));
+fgt.c:  if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:	  && victim->pIndexData != NULL
+fgt.c:	  && victim->pIndexData->vnum == fch->pIndexData->guard)
+fgt.c:  if (victim->fgt->combat_delay_count >= 0)
+fgt.c:      victim->fgt->combat_delay_count = -1;
+fgt.c:  if (victim->position != POSITION_FIGHTING &&
+fgt.c:      victim->position != POSITION_GROUNDFIGHTING &&
+fgt.c:      victim->position != POSITION_BASHED)
+fgt.c:    victim->fgt->fighting = ch;
+fgt.c:  if (victim->data_type != 50)
+fgt.c:  if (hitop && ch->fgt && ch->fgt->field && victim && victim->fgt
+fgt.c:      && victim->fgt->field)
+fgt.c:		      victim->fgt->pos_x, victim->fgt->pos_y);
+fgt.c:  if (IS_MOB (victim) && (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR) 
+fgt.c:      || IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_EVIL) 
+fgt.c:      || IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_GOOD) 
+fgt.c:      || victim->pIndexData->clan_guard_1 || victim->pIndexData->clan_guard_2))
+fgt.c:      if (victim->position == POSITION_DEAD)
+fgt.c:	  || (IS_MOB (victim) && (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR)
+fgt.c:		  || (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_EVIL) && IS_EVIL (ch))
+fgt.c:		  || (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_GOOD) && !IS_EVIL (ch))) 
+fgt.c:                     && victim->pIndexData && victim->pIndexData->guard == door) 
+fgt.c:		      && (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR)
+fgt.c:			  || (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_EVIL) && IS_EVIL (ch))
+fgt.c:			  || (IS_SET (victim->pIndexData->act3, ACT3_GUARD_DOOR_GOOD) && !IS_EVIL (ch))) && victim->pIndexData && victim->pIndexData->guard == tdoor) 
+fgt.c:  if (victim->position != POSITION_FIGHTING)
+fgt.c:  if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:  if (victim->position == POSITION_GROUNDFIGHTING)
+fgt.c:  temp = victim->fgt->combat_delay_count;
+fgt.c:  victim->fgt->combat_delay_count = temp;
+fgt.c:  victim->fgt->combat_delay_count = temp;
+fgt.c:  if (victim->data_type == 50)
+fgt.c:	    victim->fgt->fighting = ch;
+fgt.c:  if (victim->data_type==50) return;
+fgt.c:	  gain_exp (ch, victim->exp);
+fgt.c:	  victim->pIndexData->killed++;
+fgt.c:      while (victim->affected)
+fgt.c:	affect_remove (victim, victim->affected);
+fgt.c:	victim->affected_by = victim->pcdata->nat_abilities;
+fgt.c:      victim->armor = 100;
+fgt.c:      victim->hit = UMAX (1, victim->hit);
+fgt.c:      victim->move = UMAX (1, victim->move);
+give.c:      victim->gold += amount;
+give.c:/*     if ( IS_MOB(victim) && victim->npcdata->hire == ch )
+give.c:   victim->npcdata->paid += (amount*100);
+give.c:   if ( victim->npcdata->wage > victim->npcdata->paid )
+give.c:   name_amount(victim->npcdata->wage - victim->npcdata->paid ));
+give.c:   victim->leader = ch;
+give.c:   victim->master = ch;
+give.c:      victim->copper += amount;
+give.c:/*     if ( IS_MOB(victim) && victim->npcdata->hire == ch )
+give.c:   victim->npcdata->paid += (amount);
+give.c:   if ( victim->npcdata->wage > victim->npcdata->paid )
+give.c:   name_amount(victim->npcdata->wage - victim->npcdata->paid ));
+give.c:   victim->leader = ch;
+give.c:   victim->master = ch;
+give.c:	  if (victim->pIndexData->vnum == tr->attached_to_mob)
+give.c:	      sprintf (tmp, "%d", victim->pIndexData->vnum);
+give.c:  if (victim->level > 99)
+give.c:      if (victim->position == POSITION_FIGHTING
+give.c:							     && victim->
+grnd.c:      victim->hit -= dam;
+grnd.c:  victim->hit -= dam;
+grnd.c:	  victim->hit -= 9;
+grnd.c:      victim->ced->ground_pos = FP_CHOKE_1;
+grnd.c:      victim->ced->ground_pos = FP_CHOKE_1;
+grnd.c:  victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:  victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:  victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:	  victim->hit -= dam;
+grnd.c:      victim->hit -= dam;
+grnd.c:  if (victim->position == POSITION_DEAD)
+grnd.c:	 (victim->position == POSITION_GROUNDFIGHTING
+grnd.c:  victim->fgt->fighting = ch;
+grnd.c:  if (victim->ced->ground_pos == FP_CHOKE_1)
+grnd.c:      victim->hit -= 15;
+grnd.c:	  && victim->fgt->ears > 0)
+grnd.c:	  victim->fgt->ears--;
+grnd.c:  switch (victim->position)
+grnd.c:	  victim->pcdata->condition[COND_FULL] = 48;
+grnd.c:	  victim->pcdata->condition[COND_THIRST] = 48;
+grnd.c:  if (victim->position == POSITION_DEAD)
+grnd.c:	  char_to_room (victim, get_room_index (victim->fgt->wasroomtwo));
+grnd.c:	  victim->hit = victim->max_hit;
+grnd.c:	  victim->pcdata->no_quit = 0;
+grnd.c:		   NAME (victim), NAME (ch), victim->in_room->vnum);
+grnd.c:	     if (victim->pcdata->warpoints - (1 + (LEVEL (victim) / 6)) >= 0)
+grnd.c:	     victim->pcdata->warpoints -= (1 + (LEVEL (victim) / 6));
+grnd.c:		  if (victim->pcdata->warpoints -
+grnd.c:		      victim->pcdata->warpoints -= (1 + (LEVEL (victim) / 6));
+grnd.c:		      if (victim->pcdata->warpoints > 0)
+grnd.c:				   victim->pcdata->warpoints,
+grnd.c:				   victim->pcdata->warpoints == 1 ? "" : "s");
+grnd.c:			  victim->pcdata->warpoints = 0;
+grnd.c:		  victim->pcdata->no_quit_pk = 0;
+grnd.c:  if (IS_PLAYER (victim) && victim->desc == NULL)
+grnd.c:      if (number_range (0, victim->wait) == 0)
+hnd.c:      && victim->pcdata->wizinvis >= LEVEL (ch)
+hnd.c:  if (IS_PLAYER (victim) && victim->pcdata->wizinvis >= ch->pcdata->level)
+hnd.c:  if (room_is_dark (victim->in_room) && !IS_AFFECTED (ch, AFF_INFRARED))	/*This is the only change */
+int.c:            && victim->pIndexData->mobtype != MOB_CANINE
+int.c:            && victim->pIndexData->mobtype != MOB_RODENT
+int.c:            && victim->pIndexData->mobtype != MOB_INSECT
+int.c:            && victim->pIndexData->mobtype != MOB_UNDEAD
+int.c:            && victim->pIndexData->mobtype != MOB_BIRD
+int.c:            && victim->pIndexData->mobtype != MOB_FISH
+int.c:            && victim->pIndexData->mobtype != MOB_STATUE
+int.c:            && victim->pIndexData->mobtype != MOB_PLANT
+int.c:            && victim->pIndexData->mobtype != MOB_GHOST
+int.c:            && victim->pIndexData->mobtype != MOB_FELINE
+int.c:            && victim->pIndexData->mobtype != MOB_REPTILE
+int.c:            && victim->pIndexData->mobtype != MOB_GENERAL_ANIMAL
+int.c:            && IS_AWAKE (victim) && victim->desc == NULL)
+look.c:	  if (!victim->in_room)
+look.c:			   victim->in_room->area ==
+look.c:			   victim->in_room->vnum,
+look.c:					     (ch, victim->in_room->name)));
+look.c:		  if ((victim->in_room->area == ch->in_room->area) &&
+look.c:						  victim->in_room->name)));
+look.c:	      !IS_IMMORTAL (victim) && victim->in_room)
+look.c:	    alist[victim->in_room->area->vnum][IS_EVIL (victim)] = TRUE;
+look.c:      && (victim->ced && victim->ced->in_boat != NULL))
+look.c:      && victim->fgt->mounted_by->in_room == ch->in_room
+look.c:  if (IS_PLAYER (victim) && victim->desc == NULL)
+look.c:      if (victim->position == POSITION_STANDING && RIDING (victim) == NULL
+look.c:      for (paf = victim->affected; paf; paf = paf->next)
+look.c:      if (victim->is_undead == TRUE)
+look.c:         strlen (victim->pcdata->title) < 39)
+look.c:         strcat (buf, victim->pcdata->title);
+look.c:	  && victim->fgt->riding->in_room == victim->in_room)
+look.c:	  switch (victim->position)
+look.c:		       && victim->in_room == victim->fgt->fighting->in_room)
+look.c:		       && victim->in_room == victim->fgt->fighting->in_room)
+look.c:  if (victim->position != POSITION_FIGHTING &&
+look.c:      victim->position != POSITION_GROUNDFIGHTING
+look.c:      && victim->position != POSITION_BASHED)
+look.c:	  if (IS_PLAYER (victim) && victim->pcdata->bounty > 0)
+look.c:	  for (paf = victim->affected; paf; paf = paf->next)
+look.c:      AFFECT_DATA *paf = victim->affected;
+look.c:      if (victim->position != POSITION_FIGHTING
+look.c:	  && victim->position != POSITION_BASHED
+look.c:	  && victim->position != POSITION_GROUNDFIGHTING && (tflag
+look.c:      for (paf = victim->affected; paf; paf = paf->next)
+look.c:      send_to_char (victim->pcdata->name, ch);
+look.c:      send_to_char (race_info[victim->pcdata->race].name, ch);
+look.c:      if (ch->height > victim->height)
+look.c:      else if (ch->height < victim->height)
+look.c:  if (victim->max_hit > 0)
+look.c:    percent = (100 * victim->hit) / victim->max_hit;
+look.c:  if (victim->max_move > 0)
+look.c:    percent2 = (100 * victim->move) / victim->max_move;
+look.c:      show_list_to_char (victim->carrying, ch, TRUE, FALSE);
+look.c:      if (victim->max_hit > 0)
+look.c:	percent = (100 * victim->hit) / victim->max_hit;
+look.c:      if (victim->max_move > 0)
+look.c:	percent2 = (100 * victim->move) / victim->max_move;
+look.c:	  IS_SET (victim->act, ACT_ATTITUDE) && can_see (victim, ch) &&
+mgc.c:    50 + (((LEVEL (victim) - level) - (victim->pcdata->saving_throw * 5)));
+mgc.c:      if (victim && victim->data_type == 50)
+mgc.c:	      victim->fgt->fighting = ch;
+move.c:  if (victim->hit < 1)
+oc.c:    sprintf (buf, "%d", victim->vnum);
+oc.c:        victim->vnum, victim->level,
+oc.c:        (victim->sex == SEX_MALE ? "male" : victim->sex ==
+oc.c:         SEX_FEMALE ? "female" : "neutral"), victim->money,
+oc.c:        ((double) victim->hpmult / (double) 10),
+oc.c:        victim->killed, victim->java[0], victim->java[1]);
+oc.c:    if (victim->armcls == 101) sprintf (minibuf, "Auto");
+oc.c:      sprintf (minibuf, "%d", victim->armcls);
+oc.c:        victim->name, victim->alignment, minibuf,
+oc.c:        victim->area->vnum); send_to_char (buf, ch);
+oc.c:        victim->short_descr,
+oc.c:        (victim->spec_name ==
+oc.c:         NULL ? "None" : victim->spec_name),
+oc.c:        victim->alt_vnum); send_to_char (buf, ch);
+oc.c:        act_bit_name (victim->act),
+oc.c:        act3_bit_name (victim->act3),
+oc.c:        act4_bit_name (victim->act4),
+oc.c:        race_bit_name (victim->race_hate));
+oc.c:    sprintf (buf, "\x1B[4;50fMaxIW: %d", victim->max_in_world);
+oc.c:    if (victim->height == -1) sprintf (buf,
+oc.c:          victim->height, victim->height / 12,
+oc.c:          victim->height % 12); send_to_char (buf, ch);
+oc.c:        affect_bit_name (victim->affected_by),
+oc.c:        affect_bit_name_two (victim->more_affected_by));
+oc.c:    if (victim->attackname
+oc.c:          victim->attackname)) sprintf (minibuf, "%s",
+oc.c:          victim->
+oc.c:      sprintf (minibuf, "%s", mob_type_attack (victim->mobtype));
+oc.c:        victim->guard, victim->yeller_number,
+oc.c:        victim->will_help, minibuf,
+oc.c:        mob_type_name (victim->mobtype));
+oc.c:        victim->long_descr);
+oc.c:      && victim->area->open != 0)
+oc.c:      victim->name, victim->points);
+oc.c:        victim->area->vnum,
+oc.c:        victim->area->name); send_to_char (buf, ch);
+oc.c:  if (victim->race_hate != 0)
+oc.c:        race_bit_name (victim->race_hate));
+oc.c:  if (victim->yeller_number != 0)
+oc.c:          victim->yeller_number, victim->will_help);
+oc.c:          victim->yeller_number, victim->will_help);
+oc.c:      act_bit_name (victim->act));
+oc.c:  send_to_char (buf, ch); linect++; if (victim->act3 != 0)
+oc.c:    if (victim->act4 == 0)
+oc.c:          act3_bit_name (victim->act3));
+oc.c:          act3_bit_name (victim->act3),
+oc.c:          act4_bit_name (victim->act4));
+oc.c:  if (victim->act4 != 0 && victim->act3 == 0)
+oc.c:        act4_bit_name (victim->act4));
+oc.c:  if (victim->height == -1) sprintf (buf,
+oc.c:        victim->height,
+oc.c:        victim->height / 12,
+oc.c:        victim->height % 12);
+oc.c:  send_to_char (buf, ch); if (victim->guard != -1)
+oc.c:    if (str_cmp ("N/A", victim->attackname)
+oc.c:        && victim->attackname != NULL) sprintf (buf,
+oc.c:          victim->guard,
+oc.c:          victim->
+oc.c:          victim->guard); send_to_char (buf, ch); linect++;
+oc.c:  if (victim->attackname
+oc.c:      && str_cmp ("N/A", victim->attackname)
+oc.c:      && victim->guard == -1)
+oc.c:    sprintf (buf, "Attack String: %s\n\r", victim->attackname);
+oc.c:      victim->vnum, victim->killed,
+oc.c:      victim->sex == SEX_MALE ? "male" : victim->sex ==
+oc.c:      victim->level, victim->alignment, victim->money);
+oc.c:  if (victim->affected_by != 0)
+oc.c:        affect_bit_name (victim->affected_by));
+oc.c:  if (victim->more_affected_by != 0)
+oc.c:        affect_bit_name_two (victim->more_affected_by));
+oc.c:      victim->short_descr, victim->long_descr);
+oc.c:  if (victim->clan_guard_1 != 0 || victim->clan_guard_2 != 0)
+oc.c:        victim->clan_guard_1, victim->clan_guard_2);
+oc.c:  if (victim->mobtype >= 0 && victim->mobtype < MAX_MOB_TYPE)
+oc.c:        mob_type_name (victim->mobtype));
+oc.c:  if (victim->alt_vnum !=
+oc.c:      0 /*victim->mobtype == MOB_LYCAN */ )
+oc.c:        victim->alt_vnum); send_to_char (buf, ch);
+oc.c:  if (victim->hpmult != 10)
+oc.c:    if (victim->hpmult > 1000)
+oc.c:          (victim->hpmult / 1000),
+oc.c:          ((double) (victim->hpmult % 1000) / (double) 10));
+oc.c:          (double) victim->hpmult / (double) 10);
+oc.c:  if (victim->hitroll > 0)
+oc.c:    sprintf (buf, "Hitroll: %d.  ", victim->hitroll);
+oc.c:  if (victim->damroll != 0)
+oc.c:    sprintf (buf, "Damroll: %d.  ", victim->damroll);
+oc.c:  if (victim->dodge > 0)
+oc.c:    sprintf (buf, "Dodge: %d.  ", victim->dodge);
+oc.c:  if (victim->parry > 0)
+oc.c:    sprintf (buf, "Parry: %d.  ", victim->parry);
+oc.c:  if (victim->spec_fun != NULL)
+oc.c:        victim->spec_name); send_to_char (buf, ch);
+oc.c:  if (victim->armcls == 101)
+oc.c:    sprintf (buf, "Armor Class: (%d)\n\r", victim->armcls);
+oc.c:  if (IS_SET (victim->act, ACT_PRACTICE) && victim->opt)
+oc.c:    cnt = 0; while (victim->opt->skltaught[cnt] != 0)
+oc.c:      if (victim->opt->skltaught[cnt] == 0)
+oc.c:        sprintf (buf, "%d: ", victim->opt->skltaught[cnt]);
+oc.c:                victim->opt->skltaught[cnt])) == NULL)
+oc.c:  if (victim->opt)
+oc.c:      if (victim->opt->cast_spells[i] != NULL)
+oc.c:        sprintf (buff, "Casts %-30s", victim->opt->cast_spells[i]);
+oc.c:        victim->opt->cast_percent,
+oc.c:        victim->opt->warrior_percent,
+oc.c:        (victim->opt->flurries ? "Yes" : "No"),
+oc.c:        (victim->opt->kicks ? "Yes" : "No"),
+oc.c:        (victim->opt->tackles ? "Yes" : "No"));
+oc.c:  if (victim->script_fn != NULL)
+oc.c:        victim->script_fn);
+oc.c:  if (victim->pShop != NULL)
+oc.c:    pShop = victim->pShop;
+pal.c:     if (victim->fgt != NULL && victim->fgt->hunting != NULL) {
+pal.c:	free_string(victim->fgt->hunting);
+pal.c:        victim->fgt->hunting=NULL;
+pal.c:  if (victim->position == POSITION_GROUNDFIGHTING) 
+pal.c:   if (victim->fgt->combat_delay_count < -2)
+pal.c:    if (victim->position == POSITION_BASHED)
+pal.c:       tmpi = (15 + get_curr_dex (victim) + (victim->pcdata->learned[gsn_dodge] / 6));
+pal.c:        victim->hit -= dam;
+pal.c:          check_fgt (victim->fgt->riding);
+pal.c:      victim->fgt->riding->fgt->mounted_by = NULL;
+pal.c:         victim->fgt->riding = NULL;
+pal.c:        victim->hit -= dam;
+pal.c:       victim->fgt->fighting = ch;
+pal.c:    if(victim != NULL && victim->fgt != NULL && victim->fgt->fighting != NULL) 
+pal.c:   victim->fgt->combat_delay_count = 4;
+pal.c:  if (victim->position != POSITION_FIGHTING)
+pal.c:   victim->fgt->fighting = ch;
+pal.c:   victim->position = POSITION_BASHED;
+pal.c:   victim->fgt->ears = 10 + (s->casting_time);
+pedit.c:	   race_info[victim->pcdata->race].name, victim->pcdata->race,
+pedit.c:	   (victim->pcdata->sex == SEX_MALE ? "M" : victim->pcdata->sex ==
+pedit.c:	    SEX_FEMALE ? "F" : "N"), victim->pcdata->email);
+pedit.c:	   victim->pcdata->alignment, victim->pcdata->remort_times);
+pedit.c:      sprintf (buf, "%s%d", (tt > 0 ? "/" : ""), victim->pcdata->remort[tt]);
+pedit.c:	   victim->armor, victim->pcdata->deaths, victim->pcdata->warpoints);
+pedit.c:	   (victim->in_room ? victim->in_room->vnum : 0),
+pedit.c:	   victim->pcdata->bank, victim->pcdata->practice,
+pedit.c:	   victim->pcdata->learn);
+pedit.c:	   victim->pcdata->totalkills, victim->pcdata->killpoints,
+pedit.c:	   victim->hit, victim->max_hit, victim->move, victim->max_move);
+pedit.c:	   victim->pcdata->condition[COND_THIRST],
+pedit.c:	   victim->pcdata->condition[COND_FULL],
+pedit.c:	   victim->pcdata->condition[COND_DRUNK]);
+pedit.c:	   victim->pcdata->saving_throw, victim->pcdata->carry_number,
+pedit.c:	   victim->pcdata->carry_weight, get_age (victim),
+pedit.c:	   victim->pcdata->donated, victim->pcdata->tps);
+pedit.c:	       victim->pcdata->hours_purchased / 3600,
+pedit.c:	       (victim->pcdata->hours_purchased / 60) -
+pedit.c:	       (((victim->pcdata->hours_purchased / 3600) * 60)),
+pedit.c:	       victim->pcdata->monthly_pass);
+pedit.c:  print_profs (god, victim->pcdata->profession_flag);
+pedit.c:	   victim->desc ? "Player currently online" : "Player not logged in");
+pedit.c:	   get_curr_str (victim), victim->pcdata->perm_stat[STR_I],
+pedit.c:	   get_curr_con (victim), victim->pcdata->perm_stat[CON_I],
+pedit.c:	   get_curr_dex (victim), victim->pcdata->perm_stat[DEX_I],
+pedit.c:	   get_curr_int (victim), victim->pcdata->perm_stat[INT_I],
+pedit.c:	   get_curr_wis (victim), victim->pcdata->perm_stat[WIS_I]);
+pedit.c:  sprintf (buf, "Use Smd, Cmd, Dmd, Imd, and Wmd to set stat modifiers.   Exp: %ld\n\r", victim->exp);
+pedit.c:  if (victim->pcdata->cool_skills != 0)
+pedit.c:  if (victim->pcdata->nat_abilities != 0)
+pedit.c:      send_to_char (natural_abilities (victim->pcdata->nat_abilities), god);
+pedit.c:  show_guilds (god, victim->pcdata->guilds);
+pedit.c:  if (IS_SET (victim->pcdata->act2, PLR_SILENCE))
+pedit.c:  if (IS_SET (victim->act, PLR_FREEZE))
+pedit.c:  if (IS_SET (victim->act, ACT_UNVAL))
+pedit.c:      if (victim->pcdata->learned[tt] > 0)
+pedit.c:		       victim->pcdata->learned[tt]);
+pedit.c:  for (obj = victim->carrying; obj != NULL; obj = obj->next_content)
+pedit.c:      if (victim->pcdata->storage[tt] == NULL)
+pedit.c:	       victim->pcdata->storage[tt]->pIndexData->vnum);
+pedit.c:      victim->pcdata->profession_flag ^= bit;
+pedit.c:    if (IS_SET (victim->act, ACT_UNVAL))
+pedit.c:      REMOVE_BIT (victim->act, ACT_UNVAL);
+pedit.c:      SET_BIT (victim->act, ACT_UNVAL);
+pedit.c:    victim->pcdata->level = 1;
+pedit.c:    victim->height = value;
+pedit.c:    free_string (victim->pcdata->name);
+pedit.c:    victim->pcdata->name = str_dup (capitalize (arg2));
+pedit.c:    victim->pcdata->tps += value;
+pedit.c:    victim->pcdata->donated = value;
+pedit.c:    victim->pcdata->race = value;
+pedit.c:    victim->pcdata->nat_armor = race_info[victim->pcdata->race].natarmor;
+pedit.c:    victim->pcdata->nat_abilities =
+pedit.c:      race_info[victim->pcdata->race].affect_bits;
+pedit.c:    victim->pcdata->sex = value;
+pedit.c:    victim->pcdata->remort_times = value;
+pedit.c:    victim->pcdata->remort[REMORT_DAM] = value;
+pedit.c:    victim->pcdata->remort[REMORT_PRAC] = value;
+pedit.c:    victim->pcdata->remort[REMORT_MANA] = value;
+pedit.c:    victim->pcdata->remort[REMORT_HP] = value;
+pedit.c:    victim->pcdata->remort[REMORT_MOVE] = value;
+pedit.c:    strcpy (victim->pcdata->email, arg2);
+pedit.c:    victim->pcdata->nat_armor = value;
+pedit.c:    victim->pcdata->deaths = value;
+pedit.c:    victim->pcdata->warpoints = value;
+pedit.c:    victim->in_room = rd;
+pedit.c:    victim->pcdata->bank = value;
+pedit.c:    victim->pcdata->practice = value;
+pedit.c:    victim->pcdata->learn = value;
+pedit.c:    victim->pcdata->totalkills = value;
+pedit.c:    victim->pcdata->killpoints = value;
+pedit.c:    victim->armor = 100;
+pedit.c:    victim->hit = value;
+pedit.c:    victim->max_hit = value;
+pedit.c:    victim->move = value;
+pedit.c:    victim->max_move = value;
+pedit.c:    victim->pcdata->perm_stat[WIS_I] = value;
+pedit.c:    victim->pcdata->perm_stat[DEX_I] = value;
+pedit.c:    victim->pcdata->perm_stat[CON_I] = value;
+pedit.c:    victim->pcdata->perm_stat[INT_I] = value;
+pedit.c:    victim->pcdata->perm_stat[STR_I] = value;
+pedit.c:    victim->pcdata->mod_stat[WIS_I] = value;
+pedit.c:    victim->pcdata->mod_stat[DEX_I] = value;
+pedit.c:    victim->pcdata->mod_stat[INT_I] = value;
+pedit.c:    victim->pcdata->mod_stat[CON_I] = value;
+pedit.c:    victim->pcdata->mod_stat[STR_I] = value;
+pedit.c:    victim->pcdata->security = value;
+pedit.c:    victim->hitroll = value;
+pedit.c:    victim->damroll = value;
+pedit.c:    victim->pcdata->condition[COND_THIRST] = value;
+pedit.c:    victim->pcdata->condition[COND_FULL] = value;
+pedit.c:    victim->pcdata->condition[COND_DRUNK] = value;
+pedit.c:    victim->pcdata->saving_throw = value;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_HUNGER;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_HUNGER;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_THIRST;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_THIRST;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_CHEAP_RECALL;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_CHEAP_RECALL;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_VIEW_MOBS;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_VIEW_MOBS;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_PKILL;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_NO_PKILL;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_ARCHMAGE;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_ARCHMAGE;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_MARTIAL_ARTIST;
+pedit.c:        victim->pcdata->cool_skills ^= COOL_SKILL_MARTIAL_ARTIST;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_TINKER))
+pedit.c:        victim->pcdata->guilds ^= ACT3_TINKER;
+pedit.c:        victim->pcdata->guilds ^= ACT3_TINKER;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_WARRIOR))
+pedit.c:        victim->pcdata->guilds ^= ACT3_WARRIOR;
+pedit.c:        victim->pcdata->guilds ^= ACT3_WARRIOR;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_HEALER))
+pedit.c:        victim->pcdata->guilds ^= ACT3_HEALER;
+pedit.c:        victim->pcdata->guilds ^= ACT3_HEALER;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_WIZARD))
+pedit.c:        victim->pcdata->guilds ^= ACT3_WIZARD;
+pedit.c:        victim->pcdata->guilds ^= ACT3_WIZARD;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_THIEFG))
+pedit.c:        victim->pcdata->guilds ^= ACT3_THIEFG;
+pedit.c:        victim->pcdata->guilds ^= ACT3_THIEFG;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_RANGER))
+pedit.c:        victim->pcdata->guilds ^= ACT3_RANGER;
+pedit.c:        victim->pcdata->guilds ^= ACT3_RANGER;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_ASSASSIN))
+pedit.c:        victim->pcdata->guilds ^= ACT3_ASSASSIN;
+pedit.c:        victim->pcdata->guilds ^= ACT3_ASSASSIN;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_PALADIN))
+pedit.c:        victim->pcdata->guilds ^= ACT3_PALADIN;
+pedit.c:        victim->pcdata->guilds ^= ACT3_PALADIN;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_MARAUDER)) 
+pedit.c:        victim->pcdata->guilds ^= ACT3_MARAUDER; 
+pedit.c:        victim->pcdata->guilds ^= ACT3_MARAUDER; 
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_BATTLEMAGE)) 
+pedit.c:        victim->pcdata->guilds ^= ACT3_BATTLEMAGE; 
+pedit.c:        victim->pcdata->guilds ^= ACT3_BATTLEMAGE; 
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_ELEMENTAL)) 
+pedit.c:        victim->pcdata->guilds ^= ACT3_ELEMENTAL; 
+pedit.c:        victim->pcdata->guilds ^= ACT3_ELEMENTAL; 
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_NECROMANCER))
+pedit.c:        victim->pcdata->guilds ^= ACT3_NECROMANCER;
+pedit.c:        victim->pcdata->guilds ^= ACT3_NECROMANCER;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_MYSTICS))
+pedit.c:        victim->pcdata->guilds ^= ACT3_MYSTICS;
+pedit.c:        victim->pcdata->guilds ^= ACT3_MYSTICS;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_TATICS))
+pedit.c:        victim->pcdata->guilds ^= ACT3_TATICS;
+pedit.c:        victim->pcdata->guilds ^= ACT3_TATICS;
+pedit.c:      if (IS_SET (victim->pcdata->guilds, ACT3_SHAMAN))
+pedit.c:        victim->pcdata->guilds ^= ACT3_SHAMAN;
+pedit.c:        victim->pcdata->guilds ^= ACT3_SHAMAN;
+pedit.c:    victim->exp = (FIND_EXP ((value - 1), 1));
+pedit.c:    victim->pcdata->alignment = value;
+pedit.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_FLYING))
+pedit.c:      victim->pcdata->nat_abilities -= AFF_FLYING;
+pedit.c:      victim->pcdata->nat_abilities += AFF_FLYING;
+pedit.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_INFRARED))
+pedit.c:      victim->pcdata->nat_abilities -= AFF_INFRARED;
+pedit.c:      victim->pcdata->nat_abilities += AFF_INFRARED;
+pedit.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_DETECT_HIDDEN))
+pedit.c:      victim->pcdata->nat_abilities -= AFF_DETECT_HIDDEN;
+pedit.c:      victim->pcdata->nat_abilities += AFF_DETECT_HIDDEN;
+pedit.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_DETECT_INVIS))
+pedit.c:      victim->pcdata->nat_abilities -= AFF_DETECT_INVIS;
+pedit.c:      victim->pcdata->nat_abilities += AFF_DETECT_INVIS;
+pedit.c:    if (IS_SET (victim->pcdata->nat_abilities, AFF_BREATH_WATER))
+pedit.c:      victim->pcdata->nat_abilities -= AFF_BREATH_WATER;
+pedit.c:      victim->pcdata->nat_abilities += AFF_BREATH_WATER;
+pedit.c:    victim->pcdata->learned[value] = set_to;
+pedit.c:      for (otr = victim->carrying; otr != NULL; otr = otr->next_content)
+pedit.c:        if (victim->pcdata->storage[otr] == NULL)
+pedit.c:        if (victim->pcdata->storage[otr]->pIndexData->vnum == value)
+pedit.c:          ofnd = victim->pcdata->storage[otr];
+pedit.c:      free_it (victim->pcdata->storage[otr]);
+pedit.c:      victim->pcdata->storage[otr] = NULL;
+pedit.c:    victim->pcdata->act2 ^= PLR_SILENCE;
+pedit.c:    victim->act ^= PLR_FREEZE;
+pinfo.c:  for (victim = char_list; victim != NULL; victim = victim->next)
+pinfo.c:      if (victim->in_room != NULL
+pinfo.c:	  && !IS_SET (victim->in_room->room_flags, ROOM_UNTRACKABLE)
+pinfo.c:	  sprintf (buf, "\x1B[0;31m%s is sitting in \x1B[1;30m%s.\x1B[37;0m\n\r", PERS (victim, ch), show_room_name (victim, victim->in_room->name));
+pinfo.c:  for (victim = char_list; victim != NULL; victim = victim->next)
+pinfo.c:      if (victim->in_room != NULL
+pinfo.c:	  && !IS_SET (victim->in_room->room_flags, ROOM_UNTRACKABLE)
+pinfo.c:	   race_info[victim->pcdata->race].name);
+pinfo.c:  if (LEVEL (ch) > 107 && victim->pcdata->email[0] != '\0')
+pinfo.c:      sprintf (buf, "God Info: Email: %s.\n\r", victim->pcdata->email);
+quest.c:	    if (ch->questmob == -1 && ch->questgiver->victim->short_descr != NULL)
+quest.c:		sprintf(buf, "Your quest is ALMOST complete!\n\rGet back to %s before your time runs out!\n\r",ch->questgiver->victim->short_descr);
+quest.c:	            sprintf(buf, "You are on a quest to slay the dreaded %s!\n\r",questinfo->victim->short_descr);
+quest.c:    if ( ( room = find_location( ch, victim->NAME(ch) ) ) == NULL )
+quest.c:        sprintf(buf, "An enemy of mine, %s, is making vile threats against the crown.",victim->short_descr);
+quest.c:	sprintf(buf, "Marneth's most heinous criminal, %s, has escaped from the dungeon!",victim->short_descr);
+quest.c:	sprintf(buf, "Since the escape, %s has murdered %d civillians!",victim->short_descr, number_range(2,20));
+quest.c:        sprintf(buf, "Seek %s out somewhere in the vicinity of %s!",victim->short_descr,room->name);
+quest.c:    ch->questmob = victim->pIndexData->vnum;
+quit.c:   if (victim->number_of_mob_followers != 0)
+quit.c:    victim->fgt->leader = NULL;
+quit.c:  check_fgt (victim); victim->fgt->leader = ch;
+script.c:	  victim->pcdata->complete[i] = FALSE;
+script.c:      if ((list_flag || victim->pcdata->complete[i]) && questname[i] != NULL)
+script.c:	  if (victim->pcdata->complete[i])
+spec.c:      v_next = victim->next_in_room;
+spec.c:      v_next = victim->next_in_room;
+spec.c:      v_next = victim->next_in_room;
+spec.c:      v_next = victim->next_in_room;
+spec.c:      if (victim->pcdata->bounty >= 40)
+spec.c:       victim = victim->next_in_room)
+spec.c:      if (IS_PLAYER (victim) && victim->pcdata->bounty > 20)
+spec.c:      if (get_room_index (victim->in_room->area->jail) == NULL)
+spec.c:	  if (victim->pcdata->warned < 5)
+spec.c:	      victim->pcdata->warned++;
+spec.c:	  if (victim->pcdata->warned == 5)
+spec.c:	      victim->pcdata->warned++;
+spec.c:	  if (victim->pcdata->warned > 5)
+spec.c:      v_next = victim->next_in_room;
+spec.c:	  if (victim->pcdata->carry_number == 0)
+spec.c:	  chance = 100 / victim->pcdata->carry_number;
+spec.c:	  for (obj2 = victim->carrying; obj2 != NULL;
+spl.c:      if (victim->hit < 0)
+spl.c:		  strcat (rvp, (star_a (dam, victim->max_hit)));
+spl.c:	if (((I_SPRAY *) spray->more)->repels[i] == victim->pIndexData->vnum)
+spl.c:		  victim->fgt->hunting = NULL;
+spl.c:  if (victim->affected_by == 0
+spl.c:      if (IS_SET (victim->affected_by, affected_by))
+spl.c:  REMOVE_BIT (victim->affected_by, affected_by);*/
+spl.c:	  next = victim->next_in_room;
+spl.c:	&& (!victim || (victim && victim->data_type != 50))); victim = next)
+spl.c:	  next = victim->next_in_room;
+spl.c:	next = victim->next_in_room;
+spl.c:	  victim->move += translate (spell->damage, level, ch);
+spl.c:	  if (victim->move > victim->max_move)
+spl.c:	      victim->move = victim->max_move;
+spl.c:	  if (victim->move < 1)
+spl.c:	      victim->move = 1;
+spl.c:	  victim->hit += translate (spell->damage, level, ch);
+spl.c:            victim->hit += ch->pcdata->plus_heal;
+spl.c:	  if (victim->hit > victim->max_hit)
+spl.c:	    victim->hit = victim->max_hit;
+spl.c:		      && victim->pIndexData->mobtype != MOB_GHOST
+spl.c:		      && victim->pIndexData->mobtype != MOB_UNDEAD)))
+spl.c:	        if (victim->data_type == 50)
+spl.c:	        if (victim->data_type == 50)
+spl.c:	        if (victim->data_type == 50)
+spl.c:  if (IS_MOB (victim) && (victim->pIndexData->mobtype == MOB_GHOST))
+spl.c:  if (IS_MOB (victim) && IS_SET (victim->act, ACT_UNTOUCHABLE))
+spl.c:      for (obj_lose = victim->carrying; obj_lose != NULL; obj_lose = obj_next)
+spl.c:		    victim->armor += apply_ac (obj_lose, iWear);
+spl.c:		    victim->armor -= apply_ac (obj_lose, iWear);
+spl.c:		  for (cont = victim->carrying; cont; cont = cont_next)
+spl.c:      for (obj_lose = victim->carrying; obj_lose != NULL; obj_lose = obj_next)
+toptr.c:    if (victim->pcdata->remort_times == 0)
+toptr.c:    if (victim->pcdata->remort_times == 1)
+toptr.c:    if (victim->pcdata->remort_times == 2)
+toptr.c:    if (victim->pcdata->remort_times == 3)
+toptr.c:    if (victim->pcdata->remort_times == 4)
+toptr.c:    if (victim->pcdata->remort_times == 5)
+toptr.c:    if (victim->pcdata->remort_times == 6)
+toptr.c:    if (victim->pcdata->remort_times == 7)
+toptr.c:    if (victim->pcdata->remort_times == 8)
+toptr.c:    if (victim->pcdata->remort_times == 9)
+toptr.c:    if (victim->pcdata->remort_times == 0)
+toptr.c:    if (victim->pcdata->remort_times == 1)
+toptr.c:    if (victim->pcdata->remort_times == 2)
+toptr.c:    if (victim->pcdata->remort_times == 3)
+toptr.c:    if (victim->pcdata->remort_times == 4)
+toptr.c:    if (victim->pcdata->remort_times == 5)
+toptr.c:    if (victim->pcdata->remort_times == 6)
+toptr.c:    if (victim->pcdata->remort_times == 7)
+toptr.c:    if (victim->pcdata->remort_times == 8)
+toptr.c:    if (victim->pcdata->remort_times == 9)
+upd.c:	      if (!IS_SET (ch->pIndexData->act3, ACT3_MUTE) && (FIGHTING (victim) != NULL && victim->fgt->fighting->position != POSITION_GROUNDFIGHTING))

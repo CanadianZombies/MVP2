@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"add_buf"
+			],
+			[
+				"NULL",
+				"NULL"
+			],
+			[
+				"arg",
+				"arg"
+			],
+			[
+				"ar",
+				"argument"
+			],
+			[
+				"bv",
+				"bvector"
+			],
+			[
+				"b",
+				"bvector"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"showstr_",
+				"showstr_head"
+			],
+			[
+				"show",
+				"showstr_point"
+			],
+			[
+				"sho",
+				"showstr_head"
+			],
+			[
+				"showstr",
+				"showstr_point"
+			],
+			[
+				"pObj",
+				"pObjIndex"
+			],
+			[
+				"pO",
+				"pObjIndex"
+			],
+			[
+				"pMob",
+				"pMobIndex"
+			],
+			[
+				"IS_N",
+				"IS_NULLSTR"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"Write",
+				"WriteNumber"
+			],
+			[
+				"IS",
+				"IS_NULLSTR"
+			],
+			[
+				"WRite",
+				"WriteNumber"
+			],
+			[
+				"WR",
+				"WriteLong"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"pr",
+				"profession"
+			],
+			[
+				"race",
+				"race_lookup"
+			],
+			[
+				"ST",
+				"STAT_STR"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"STAT",
+				"STAT_STA"
+			],
+			[
+				"stat",
+				"statcount"
+			],
+			[
+				"send",
+				"send_to_char"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 128 files for \"void save_mob\"\n\nC:\\Users\\bmorris2\\Documents\\GitHub\\MPV2\\mud\\mpv\\oc.c:\n 2445  }\n 2446  \n 2447: void save_mobiles (FILE * fp, AREA_DATA * pArea)\n 2448  {\n 2449    int iHash;\n\nC:\\Users\\bmorris2\\Documents\\GitHub\\MPV2\\mud\\mpv\\tags:\n 3650  save_limited	oc.c	/^void save_limited (int vnum)$/;\"	f\n 3651  save_limited	oc.c	/^void save_limited (void)$/;\"	f\n 3652: save_mobiles	oc.c	/^void save_mobiles (FILE * fp, AREA_DATA * pArea)$/;\"	f\n 3653  save_monthly_key	comm.c	/^save_monthly_key (void)$/;\"	f\n 3654  save_new_socials	db2.c	/^save_new_socials (void)$/;\"	f\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "oc.c",
+			"settings":
+			{
+				"buffer_size": 100244,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/armor.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/mgc.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/mpv.sublime-workspace",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/death.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/conflict.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/db2.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/oc.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/emlen.h",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/mush.h",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/toptr.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/upd.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/give.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/hnd.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/dam2.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/fgt.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/dam.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/tags",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/aw.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/aedit.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/oedit.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/redit.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/utils.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/guild.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/char.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/boat.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/move.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/cmd.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/quit.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/db.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/db2.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/Makefile",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/poll.h",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/mob_1514.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/power.c",
+		"/C/Users/bmorris2/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/sv.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/mpv/comm.c",
+		"/C/Users/bmorris2/Documents/GitHub/MPV2/mud/plr/Uriel",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/handler.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/tables.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/merc.h",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/const.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_wiz.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/magic.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/special.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_info.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/data/class/thief.class",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/data/class/warrior.class",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/comm.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_comm.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/skills.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/update.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/fight.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/save.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/mem.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/recycle.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/scan.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/hedit.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/healer.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/effects.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/wizlist.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/note.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/music.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/mob_cmds.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/magic2.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/bit.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/ban.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/alias.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_obj.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_move.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/act_enter.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/olc_act.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/olc_save.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/olc_mpcode.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/mob_prog.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/data/class/cleric.class",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/interp.h",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/interp.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/lookup.c",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/string.c",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/class-remove/class-remove/Class_Snippet/README",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/class-remove/class-remove/Class_Snippet/class.class",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/class-remove/class-remove/Class_Snippet/snippet.c",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/class-remove/class-remove/Class_Snippet/install.txt",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/clan-2.2/install.txt",
+		"/E/Brandon/Course_Development/aemud/Archive/Snippets/Completed/protocol/README.TXT",
+		"/C/Users/bmorris2/Documents/GitHub/dungeonworld/src/.version",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/special_table.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/special.h",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/Makefile",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/special.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/save.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/comm.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/db.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc_mat.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/act_comm.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/act_info.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/hedit.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc_act.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/mob_prog.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/mob_cmds.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/lookup.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/interp.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/act_wiz.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/merc.h",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/handler.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/version.h",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/string.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc.h",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/scan.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/recycle.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/mem.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/healer.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/magic.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/db2.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/fight.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/ban.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc_save.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/note.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/tables.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/update.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/wizlist.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/skills.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/music.h",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/olc_mpcode.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/music.c",
+		"/C/Users/valpo/Documents/GitHub/dungeonworld/src/alias.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"void save_mob",
+			"brand new",
+			"fireball",
+			"fread_room",
+			"load_room",
+			"fread_object",
+			"load_obj",
+			"fread_mobile",
+			"fread_mobiles",
+			"AREA_DATA",
+			"load_area",
+			"fread_mobile",
+			"load_mob",
+			"save_mob",
+			"\"world\"",
+			"world",
+			".lst",
+			"\".are\"",
+			".dat",
+			"world",
+			"/world",
+			"/area",
+			"../area",
+			"area",
+			"are",
+			".are",
+			"void save_area",
+			"save_area_list",
+			"zone",
+			"do_asave",
+			"save_area_list",
+			"do_asave",
+			"asave",
+			"are",
+			"*.are",
+			"save_area",
+			"load_area",
+			"do_butcher",
+			"APPLY_BACKSTAB_DAMAGE",
+			"backstab",
+			"do_backstab",
+			"backstab",
+			"rcopy",
+			"hugebuf_o",
+			"reset_room",
+			"reset_world",
+			"loading note",
+			"load note",
+			"rd->vnum",
+			"move_char",
+			"do_south",
+			"fread_room",
+			"load_room",
+			"lvalue",
+			"load_room",
+			"reset_room",
+			"reset_world",
+			"Loading notes",
+			"load_room",
+			"poll.h",
+			"MAXMANA",
+			"add_level_bonuses",
+			"upd_hps",
+			"level",
+			"hit_gain",
+			"do_advance",
+			"natural_mana",
+			"LOOP",
+			"BEAST",
+			"sword",
+			"FORM_",
+			"FORM_UNDEAD",
+			"spell_poison",
+			"spec_poison",
+			"spec_spec",
+			"troll",
+			"FORM_SENT",
+			"FORM_MAMMAL",
+			"FORM_",
+			"page_to_char",
+			"do_mfind",
+			"page_to_char",
+			"do_mfind",
+			"add_buf",
+			"do_mfind",
+			"Buffer overflow",
+			"warrior",
+			"xp_compute",
+			"exp_per_level",
+			"TNL",
+			"exp_per_level",
+			"disappear",
+			"void",
+			"Write_to_descriptor:",
+			"Write_to_descriptor: Resource",
+			"Resource temporarily unavailable",
+			"Buffer overflow",
+			"Buffer overflowing",
+			"Buffer overflowing. Closing.",
+			"oldstyle",
+			"/tYObjects",
+			"/aYObjects",
+			"{YObjects",
+			"{",
+			"{YObjects",
+			"hitp",
+			"con_app_type",
+			"con_app",
+			"advance_level",
+			"warrior",
+			"sword",
+			"send_to_char( buf",
+			"do_memory",
+			"send_to_char( buf",
+			"int ",
+			"spell_acid_blast",
+			"spell_fireball",
+			"fireball",
+			"int",
+			"send_to_char( buf",
+			"send_to_char(buf",
+			"do_wimpy",
+			"send_to_char(buf",
+			"sprintf",
+			"do_prefi",
+			"sprintf",
+			"Wrist",
+			"WRIST"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ROOM_VNUM_JAIL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										119,
+										132
+									],
+									[
+										399,
+										412
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "oc.c",
+					"settings":
+					{
+						"buffer_size": 100244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74305,
+								80727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 38771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true
+}
