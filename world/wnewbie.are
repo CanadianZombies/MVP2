@@ -1,0 +1,3342 @@
+#AREADATA 
+Name Corridors of Light~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear the scampering of feet as a soft breeze rustle the branches of a near by tree.~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Maglor Ululatus~
+VNUMs 24051 24186
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#24127
+Name caretakers assistant~
+Short a caretakers assistant~
+Long 
+A caretakers assistant wanders around making sure things stay neat.
+~
+Descr
+~
+AMax 100
+NHeight 72
+ActBits 4
+Money 25
+Level 25
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24128
+Name chipmunk~
+Short a chipmunk~
+Long 
+A chipmunk is here foraging for food.
+~
+Descr
+~
+AMax 40
+NHeight 32
+Money 10
+Level 10
+Sex 1
+MobType 7
+Guard 0
+End
+
+#24129
+Name wood elf~
+Short a wood elf~
+Long 
+A wood elf is here playing in the sun.
+~
+Descr
+~
+AMax 20
+NHeight 72
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24130
+Name guard~
+Short a guard of light~
+Long 
+A guard of Light keeps an eye out for evil.
+~
+Descr
+~
+AMax 2
+NHeight 72
+ActBits 134217728
+ActBits4 4096
+Money 40
+Level 40
+Sex 1
+Guard 0
+End
+
+#24131
+Name aone light~
+Short a princess of light~
+Long 
+Light smiles at you as you walk through her garden.
+~
+Descr
+~
+AMax 1
+NHeight 78
+Alignment 1000
+Money 35
+Level 35
+Sex 2
+MobType 1
+Guard 0
+BCasts blind~
+BCasts magic missile~
+BCast_P 50
+End
+
+#24170
+Name giant mouse~
+Short a giant mouse~
+Long 
+A giant mouse stands here looking for food.
+~
+Descr
+~
+AMax 10
+NHeight 0
+Money 25
+Level 25
+Sex 1
+MobType 7
+Guard 0
+End
+
+#24178
+Name bolo~
+Short bolo~
+Long 
+Bolo the caretaker stands here looking for his lost hoe.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Money 100
+Level 100
+Sex 1
+MobType 1
+Guard 0
+End
+
+#24186
+Name thief~
+Short a thief~
+Long 
+A thief is here hiding from Bolo.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 65536
+Money 35
+Level 35
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#24200
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#24051
+Name fountain~
+Short a fountain~
+Descr
+[36mA [33mfountain [36mis here providing water for Light and her guests
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+End
+
+#24141
+Name secretdown~
+Short one of many~
+Descr
+One of many.
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 1 1 20 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#24051
+Name The Fountain of Light~
+Descr
+Here stands the great Fountain of Light. On all sides of it grow
+flowers and lush patches of grass. The place radiates an aura of
+tranquility inviting you to sit and rest. It seems almost perfect
+except for the moss growing on the sides of the fountain. The 
+trees seem to part in a circle to let the sun in and make it feel
+almost like home.
+~
+Flags 2097152
+Shd 1
+Sector 3
+Reset O 24051 -5 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24130 2 100
+Reset M 24130 2 100
+Reset M 24131 1 100
+Door 0 0 0 24054 0 0
+~
+~
+Door 1 0 0 24052 0 0
+~
+~
+Door 2 0 0 24055 0 0
+~
+~
+Door 3 0 0 24053 0 0
+~
+~
+End
+
+#24052
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24061 0 0
+~
+~
+Door 1 0 0 24059 0 0
+~
+~
+Door 2 0 0 24060 0 0
+~
+~
+Door 3 0 0 24051 0 0
+~
+~
+End
+
+#24053
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24056 0 0
+~
+~
+Door 1 0 0 24051 0 0
+~
+~
+Door 2 0 0 24057 0 0
+~
+~
+Door 3 0 0 24058 0 0
+~
+~
+End
+
+#24054
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24082 0 0
+~
+~
+Door 1 0 0 24061 0 0
+~
+~
+Door 2 0 0 24051 0 0
+~
+~
+Door 3 0 0 24056 0 0
+~
+~
+End
+
+#24055
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24051 0 0
+~
+~
+Door 1 0 0 24060 0 0
+~
+~
+Door 2 0 0 24075 0 0
+~
+~
+Door 3 0 0 24057 0 0
+~
+~
+End
+
+#24056
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24081 0 0
+~
+~
+Door 1 0 0 24054 0 0
+~
+~
+Door 2 0 0 24053 0 0
+~
+~
+Door 3 0 0 24064 0 0
+~
+~
+End
+
+#24057
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24053 0 0
+~
+~
+Door 1 0 0 24055 0 0
+~
+~
+Door 2 0 0 24074 0 0
+~
+~
+Door 3 0 0 24065 0 0
+~
+~
+End
+
+#24058
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24064 0 0
+~
+~
+Door 1 0 0 24053 0 0
+~
+~
+Door 2 0 0 24065 0 0
+~
+~
+Door 3 0 0 24070 0 0
+~
+~
+End
+
+#24059
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24062 0 0
+~
+~
+Door 1 0 0 24066 0 0
+~
+~
+Door 2 0 0 24063 0 0
+~
+~
+Door 3 0 0 24052 0 0
+~
+~
+End
+
+#24060
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24052 0 0
+~
+~
+Door 1 0 0 24063 0 0
+~
+~
+Door 2 0 0 24076 0 0
+~
+~
+Door 3 0 0 24055 0 0
+~
+~
+End
+
+#24061
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24083 0 0
+~
+~
+Door 1 0 0 24062 0 0
+~
+~
+Door 2 0 0 24052 0 0
+~
+~
+Door 3 0 0 24054 0 0
+~
+~
+End
+
+#24062
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24084 0 0
+~
+~
+Door 1 0 0 24068 0 0
+~
+~
+Door 2 0 0 24059 0 0
+~
+~
+Door 3 0 0 24061 0 0
+~
+~
+End
+
+#24063
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24059 0 0
+~
+~
+Door 1 0 0 24067 0 0
+~
+~
+Door 2 0 0 24077 0 0
+~
+~
+Door 3 0 0 24060 0 0
+~
+~
+End
+
+#24064
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24080 0 0
+~
+~
+Door 1 0 0 24056 0 0
+~
+~
+Door 2 0 0 24058 0 0
+~
+~
+Door 3 0 0 24069 0 0
+~
+~
+End
+
+#24065
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24058 0 0
+~
+~
+Door 1 0 0 24057 0 0
+~
+~
+Door 2 0 0 24073 0 0
+~
+~
+Door 3 0 0 24071 0 0
+~
+~
+End
+
+#24066
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24068 0 0
+~
+~
+Door 1 0 0 24088 0 0
+~
+~
+Door 2 0 0 24067 0 0
+~
+~
+Door 3 0 0 24059 0 0
+~
+~
+End
+
+#24067
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24066 0 0
+~
+~
+Door 1 0 0 24089 0 0
+~
+~
+Door 2 0 0 24078 0 0
+~
+~
+Door 3 0 0 24063 0 0
+~
+~
+End
+
+#24068
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24085 0 0
+~
+~
+Door 1 0 0 24087 0 0
+~
+~
+Door 2 0 0 24066 0 0
+~
+~
+Door 3 0 0 24062 0 0
+~
+~
+End
+
+#24069
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24079 0 0
+~
+~
+Door 1 0 0 24064 0 0
+~
+~
+Door 2 0 0 24070 0 0
+~
+~
+Door 3 0 0 24094 0 0
+~
+~
+End
+
+#24070
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24069 0 0
+~
+~
+Door 1 0 0 24058 0 0
+~
+~
+Door 2 0 0 24071 0 0
+~
+~
+Door 3 0 0 24093 0 0
+~
+~
+End
+
+#24071
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24070 0 0
+~
+~
+Door 1 0 0 24065 0 0
+~
+~
+Door 2 0 0 24072 0 0
+~
+~
+Door 3 0 0 24092 0 0
+~
+~
+End
+
+#24072
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24071 0 0
+~
+~
+Door 1 0 0 24073 0 0
+~
+~
+Door 2 0 0 24119 0 0
+~
+~
+Door 3 0 0 24091 0 0
+~
+~
+End
+
+#24073
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24065 0 0
+~
+~
+Door 1 0 0 24074 0 0
+~
+~
+Door 2 0 0 24118 0 0
+~
+~
+Door 3 0 0 24072 0 0
+~
+~
+End
+
+#24074
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24057 0 0
+~
+~
+Door 1 0 0 24075 0 0
+~
+~
+Door 2 0 0 24117 0 0
+~
+~
+Door 3 0 0 24073 0 0
+~
+~
+End
+
+#24075
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24055 0 0
+~
+~
+Door 1 0 0 24076 0 0
+~
+~
+Door 2 0 0 24116 0 0
+~
+~
+Door 3 0 0 24074 0 0
+~
+~
+End
+
+#24076
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24060 0 0
+~
+~
+Door 1 0 0 24077 0 0
+~
+~
+Door 2 0 0 24115 0 0
+~
+~
+Door 3 0 0 24075 0 0
+~
+~
+End
+
+#24077
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24063 0 0
+~
+~
+Door 1 0 0 24078 0 0
+~
+~
+Door 2 0 0 24114 0 0
+~
+~
+Door 3 0 0 24076 0 0
+~
+~
+End
+
+#24078
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24067 0 0
+~
+~
+Door 1 0 0 24090 0 0
+~
+~
+Door 2 0 0 24113 0 0
+~
+~
+Door 3 0 0 24077 0 0
+~
+~
+End
+
+#24079
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24097 0 0
+~
+~
+Door 1 0 0 24080 0 0
+~
+~
+Door 2 0 0 24069 0 0
+~
+~
+Door 3 0 0 24095 0 0
+~
+~
+End
+
+#24080
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24098 0 0
+~
+~
+Door 1 0 0 24081 0 0
+~
+~
+Door 2 0 0 24064 0 0
+~
+~
+Door 3 0 0 24079 0 0
+~
+~
+End
+
+#24081
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24099 0 0
+~
+~
+Door 1 0 0 24082 0 0
+~
+~
+Door 2 0 0 24056 0 0
+~
+~
+Door 3 0 0 24080 0 0
+~
+~
+End
+
+#24082
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24100 0 0
+~
+~
+Door 1 0 0 24083 0 0
+~
+~
+Door 2 0 0 24054 0 0
+~
+~
+Door 3 0 0 24081 0 0
+~
+~
+End
+
+#24083
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24101 0 0
+~
+~
+Door 1 0 0 24084 0 0
+~
+~
+Door 2 0 0 24061 0 0
+~
+~
+Door 3 0 0 24082 0 0
+~
+~
+End
+
+#24084
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24102 0 0
+~
+~
+Door 1 0 0 24085 0 0
+~
+~
+Door 2 0 0 24062 0 0
+~
+~
+Door 3 0 0 24083 0 0
+~
+~
+End
+
+#24085
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Door 0 0 0 24103 0 0
+~
+~
+Door 1 0 0 24086 0 0
+~
+~
+Door 2 0 0 24068 0 0
+~
+~
+Door 3 0 0 24084 0 0
+~
+~
+End
+
+#24086
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Door 0 0 0 24104 0 0
+~
+~
+Door 1 0 0 24106 0 0
+~
+~
+Door 2 0 0 24087 0 0
+~
+~
+Door 3 0 0 24085 0 0
+~
+~
+End
+
+#24087
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Door 0 0 0 24086 0 0
+~
+~
+Door 1 0 0 24107 0 0
+~
+~
+Door 2 0 0 24088 0 0
+~
+~
+Door 3 0 0 24068 0 0
+~
+~
+End
+
+#24088
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24128 1 100
+Door 0 0 0 24087 0 0
+~
+~
+Door 1 0 0 24108 0 0
+~
+~
+Door 2 0 0 24089 0 0
+~
+~
+Door 3 0 0 24066 0 0
+~
+~
+End
+
+#24089
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24088 0 0
+~
+~
+Door 1 0 0 24109 0 0
+~
+~
+Door 2 0 0 24090 0 0
+~
+~
+Door 3 0 0 24067 0 0
+~
+~
+End
+
+#24090
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24089 0 0
+~
+~
+Door 1 0 0 24110 0 0
+~
+~
+Door 2 0 0 24112 0 0
+~
+~
+Door 3 0 0 24078 0 0
+~
+~
+End
+
+#24091
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24092 0 0
+~
+~
+Door 1 0 0 24072 0 0
+~
+~
+Door 2 0 0 24120 0 0
+~
+~
+Door 3 0 0 24122 0 0
+~
+~
+End
+
+#24092
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24093 0 0
+~
+~
+Door 1 0 0 24071 0 0
+~
+~
+Door 2 0 0 24091 0 0
+~
+~
+Door 3 0 0 24123 0 0
+~
+~
+End
+
+#24093
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24094 0 0
+~
+~
+Door 1 0 0 24070 0 0
+~
+~
+Door 2 0 0 24092 0 0
+~
+~
+Door 3 0 0 24124 0 0
+~
+~
+End
+
+#24094
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24095 0 0
+~
+~
+Door 1 0 0 24069 0 0
+~
+~
+Door 2 0 0 24093 0 0
+~
+~
+Door 3 0 0 24125 0 0
+~
+~
+End
+
+#24095
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24096 0 0
+~
+~
+Door 1 0 0 24079 0 0
+~
+~
+Door 2 0 0 24094 0 0
+~
+~
+Door 3 0 0 24126 0 0
+~
+~
+End
+
+#24096
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24129 0 0
+~
+~
+Door 1 0 0 24097 0 0
+~
+~
+Door 2 0 0 24095 0 0
+~
+~
+Door 3 0 0 24127 0 0
+~
+~
+End
+
+#24097
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24130 0 0
+~
+~
+Door 1 0 0 24098 0 0
+~
+~
+Door 2 0 0 24079 0 0
+~
+~
+Door 3 0 0 24096 0 0
+~
+~
+End
+
+#24098
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24131 0 0
+~
+~
+Door 1 0 0 24099 0 0
+~
+~
+Door 2 0 0 24080 0 0
+~
+~
+Door 3 0 0 24097 0 0
+~
+~
+End
+
+#24099
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24132 0 0
+~
+~
+Door 1 0 0 24100 0 0
+~
+~
+Door 2 0 0 24081 0 0
+~
+~
+Door 3 0 0 24098 0 0
+~
+~
+End
+
+#24100
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24133 0 0
+~
+~
+Door 1 0 0 24101 0 0
+~
+~
+Door 2 0 0 24082 0 0
+~
+~
+Door 3 0 0 24099 0 0
+~
+~
+End
+
+#24101
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24134 0 0
+~
+~
+Door 1 0 0 24102 0 0
+~
+~
+Door 2 0 0 24083 0 0
+~
+~
+Door 3 0 0 24100 0 0
+~
+~
+End
+
+#24102
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24135 0 0
+~
+~
+Door 1 0 0 24103 0 0
+~
+~
+Door 2 0 0 24084 0 0
+~
+~
+Door 3 0 0 24101 0 0
+~
+~
+End
+
+#24103
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24136 0 0
+~
+~
+Door 1 0 0 24104 0 0
+~
+~
+Door 2 0 0 24085 0 0
+~
+~
+Door 3 0 0 24102 0 0
+~
+~
+End
+
+#24104
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24137 0 0
+~
+~
+Door 1 0 0 24105 0 0
+~
+~
+Door 2 0 0 24086 0 0
+~
+~
+Door 3 0 0 24103 0 0
+~
+~
+End
+
+#24105
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Reset M 24128 1 100
+Door 0 0 0 24138 0 0
+~
+~
+Door 1 0 0 24140 0 0
+~
+~
+Door 2 0 0 24106 0 0
+~
+~
+Door 3 0 0 24104 0 0
+~
+~
+End
+
+#24106
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Door 0 0 0 24105 0 0
+~
+~
+Door 1 0 0 24141 0 0
+~
+~
+Door 2 0 0 24107 0 0
+~
+~
+Door 3 0 0 24086 0 0
+~
+~
+End
+
+#24107
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Door 0 0 0 24106 0 0
+~
+~
+Door 1 0 0 24142 0 0
+~
+~
+Door 2 0 0 24108 0 0
+~
+~
+Door 3 0 0 24087 0 0
+~
+~
+End
+
+#24108
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24128 1 100
+Door 0 0 0 24107 0 0
+~
+~
+Door 1 0 0 24143 0 0
+~
+~
+Door 2 0 0 24109 0 0
+~
+~
+Door 3 0 0 24088 0 0
+~
+~
+End
+
+#24109
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24108 0 0
+~
+~
+Door 1 0 0 24144 0 0
+~
+~
+Door 2 0 0 24110 0 0
+~
+~
+Door 3 0 0 24089 0 0
+~
+~
+End
+
+#24110
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24109 0 0
+~
+~
+Door 1 0 0 24145 0 0
+~
+~
+Door 2 0 0 24111 0 0
+~
+~
+Door 3 0 0 24090 0 0
+~
+~
+End
+
+#24111
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24110 0 0
+~
+~
+Door 1 0 0 24146 0 0
+~
+~
+Door 2 0 0 24148 0 0
+~
+~
+Door 3 0 0 24112 0 0
+~
+~
+End
+
+#24112
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24090 0 0
+~
+~
+Door 1 0 0 24111 0 0
+~
+~
+Door 2 0 0 24149 0 0
+~
+~
+Door 3 0 0 24113 0 0
+~
+~
+End
+
+#24113
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24078 0 0
+~
+~
+Door 1 0 0 24112 0 0
+~
+~
+Door 2 0 0 24150 0 0
+~
+~
+Door 3 0 0 24114 0 0
+~
+~
+End
+
+#24114
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24077 0 0
+~
+~
+Door 1 0 0 24113 0 0
+~
+~
+Door 2 0 0 24151 0 0
+~
+~
+Door 3 0 0 24115 0 0
+~
+~
+End
+
+#24115
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24076 0 0
+~
+~
+Door 1 0 0 24114 0 0
+~
+~
+Door 2 0 0 24152 0 0
+~
+~
+Door 3 0 0 24116 0 0
+~
+~
+End
+
+#24116
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24075 0 0
+~
+~
+Door 1 0 0 24115 0 0
+~
+~
+Door 2 0 0 24153 0 0
+~
+~
+Door 3 0 0 24117 0 0
+~
+~
+End
+
+#24117
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24074 0 0
+~
+~
+Door 1 0 0 24116 0 0
+~
+~
+Door 2 0 0 24154 0 0
+~
+~
+Door 3 0 0 24118 0 0
+~
+~
+End
+
+#24118
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24073 0 0
+~
+~
+Door 1 0 0 24117 0 0
+~
+~
+Door 2 0 0 24155 0 0
+~
+~
+Door 3 0 0 24119 0 0
+~
+~
+End
+
+#24119
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24072 0 0
+~
+~
+Door 1 0 0 24118 0 0
+~
+~
+Door 2 0 0 24156 0 0
+~
+~
+Door 3 0 0 24120 0 0
+~
+~
+End
+
+#24120
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24091 0 0
+~
+~
+Door 1 0 0 24119 0 0
+~
+~
+Door 2 0 0 24157 0 0
+~
+~
+Door 3 0 0 24121 0 0
+~
+~
+End
+
+#24121
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24122 0 0
+~
+~
+Door 1 0 0 24120 0 0
+~
+~
+Door 2 0 0 24158 0 0
+~
+~
+Door 3 0 0 24160 0 0
+~
+~
+End
+
+#24122
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24123 0 0
+~
+~
+Door 1 0 0 24091 0 0
+~
+~
+Door 2 0 0 24121 0 0
+~
+~
+Door 3 0 0 24161 0 0
+~
+~
+End
+
+#24123
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24124 0 0
+~
+~
+Door 1 0 0 24092 0 0
+~
+~
+Door 2 0 0 24122 0 0
+~
+~
+Door 3 0 0 24162 0 0
+~
+~
+End
+
+#24124
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24125 0 0
+~
+~
+Door 1 0 0 24093 0 0
+~
+~
+Door 2 0 0 24123 0 0
+~
+~
+Door 3 0 0 24163 0 0
+~
+~
+End
+
+#24125
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24126 0 0
+~
+~
+Door 1 0 0 24094 0 0
+~
+~
+Door 2 0 0 24124 0 0
+~
+~
+Door 3 0 0 24164 0 0
+~
+~
+End
+
+#24126
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24127 0 0
+~
+~
+Door 1 0 0 24095 0 0
+~
+~
+Door 2 0 0 24125 0 0
+~
+~
+Door 3 0 0 24165 0 0
+~
+~
+End
+
+#24127
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24128 0 0
+~
+~
+Door 1 0 0 24096 0 0
+~
+~
+Door 2 0 0 24126 0 0
+~
+~
+Door 3 0 0 24166 0 0
+~
+~
+End
+
+#24128
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24129 0 0
+~
+~
+Door 2 0 0 24127 0 0
+~
+~
+Door 3 0 0 24167 0 0
+~
+~
+End
+
+#24129
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 259 0 24170 30 30
+~
+Shed~
+Door 1 0 0 24130 0 0
+~
+~
+Door 2 0 0 24096 0 0
+~
+~
+Door 3 0 0 24128 0 0
+~
+~
+End
+
+#24130
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24131 0 0
+~
+~
+Door 2 0 0 24097 0 0
+~
+~
+Door 3 0 0 24129 0 0
+~
+~
+End
+
+#24131
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24132 0 0
+~
+~
+Door 2 0 0 24098 0 0
+~
+~
+Door 3 0 0 24130 0 0
+~
+~
+End
+
+#24132
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24133 0 0
+~
+~
+Door 2 0 0 24099 0 0
+~
+~
+Door 3 0 0 24131 0 0
+~
+~
+End
+
+#24133
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24134 0 0
+~
+~
+Door 2 0 0 24100 0 0
+~
+~
+Door 3 0 0 24132 0 0
+~
+~
+End
+
+#24134
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24135 0 0
+~
+~
+Door 2 0 0 24101 0 0
+~
+~
+Door 3 0 0 24133 0 0
+~
+~
+End
+
+#24135
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24136 0 0
+~
+~
+Door 2 0 0 24102 0 0
+~
+~
+Door 3 0 0 24134 0 0
+~
+~
+End
+
+#24136
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24137 0 0
+~
+~
+Door 2 0 0 24103 0 0
+~
+~
+Door 3 0 0 24135 0 0
+~
+~
+End
+
+#24137
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24138 0 0
+~
+~
+Door 2 0 0 24104 0 0
+~
+~
+Door 3 0 0 24136 0 0
+~
+~
+End
+
+#24138
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 1 0 0 24139 0 0
+~
+~
+Door 2 0 0 24105 0 0
+~
+~
+Door 3 0 0 24137 0 0
+~
+~
+End
+
+#24139
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24128 1 100
+Door 2 0 0 24140 0 0
+~
+~
+Door 3 0 0 24138 0 0
+~
+~
+End
+
+#24140
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24139 0 0
+~
+~
+Door 2 0 0 24141 0 0
+~
+~
+Door 3 0 0 24105 0 0
+~
+~
+End
+
+#24141
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24140 0 0
+~
+~
+Door 2 0 0 24142 0 0
+~
+~
+Door 3 0 0 24106 0 0
+~
+~
+Door 4 259 0 24205 30 30
+~
+trapdoor~
+End
+
+#24142
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24128 1 100
+Door 0 0 0 24141 0 0
+~
+~
+Door 2 0 0 24143 0 0
+~
+~
+Door 3 0 0 24107 0 0
+~
+~
+End
+
+#24143
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24128 1 100
+Door 0 0 0 24142 0 0
+~
+~
+Door 2 0 0 24144 0 0
+~
+~
+Door 3 0 0 24108 0 0
+~
+~
+End
+
+#24144
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24143 0 0
+~
+~
+Door 2 0 0 24145 0 0
+~
+~
+Door 3 0 0 24109 0 0
+~
+~
+End
+
+#24145
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24144 0 0
+~
+~
+Door 2 0 0 24146 0 0
+~
+~
+Door 3 0 0 24110 0 0
+~
+~
+End
+
+#24146
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24128 1 100
+Door 0 0 0 24145 0 0
+~
+~
+Door 2 0 0 24147 0 0
+~
+~
+Door 3 0 0 24111 0 0
+~
+~
+End
+
+#24147
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24128 1 100
+Door 0 0 0 24146 0 0
+~
+~
+Door 3 0 0 24148 0 0
+~
+~
+End
+
+#24148
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24111 0 0
+~
+~
+Door 1 0 0 24147 0 0
+~
+~
+Door 3 0 0 24149 0 0
+~
+~
+End
+
+#24149
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24112 0 0
+~
+~
+Door 1 0 0 24148 0 0
+~
+~
+Door 3 0 0 24150 0 0
+~
+~
+End
+
+#24150
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24113 0 0
+~
+~
+Door 1 0 0 24149 0 0
+~
+~
+Door 3 0 0 24151 0 0
+~
+~
+End
+
+#24151
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24114 0 0
+~
+~
+Door 1 0 0 24150 0 0
+~
+~
+Door 3 0 0 24152 0 0
+~
+~
+End
+
+#24152
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24115 0 0
+~
+~
+Door 1 0 0 24151 0 0
+~
+~
+Door 3 0 0 24153 0 0
+~
+~
+End
+
+#24153
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24116 0 0
+~
+~
+Door 1 0 0 24152 0 0
+~
+~
+Door 3 0 0 24154 0 0
+~
+~
+End
+
+#24154
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24117 0 0
+~
+~
+Door 1 0 0 24153 0 0
+~
+~
+Door 3 0 0 24155 0 0
+~
+~
+End
+
+#24155
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24118 0 0
+~
+~
+Door 1 0 0 24154 0 0
+~
+~
+Door 3 0 0 24156 0 0
+~
+~
+End
+
+#24156
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24119 0 0
+~
+~
+Door 1 0 0 24155 0 0
+~
+~
+Door 3 0 0 24157 0 0
+~
+~
+End
+
+#24157
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24120 0 0
+~
+~
+Door 1 0 0 24156 0 0
+~
+~
+Door 3 0 0 24158 0 0
+~
+~
+End
+
+#24158
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24121 0 0
+~
+~
+Door 1 0 0 24157 0 0
+~
+~
+Door 3 0 0 24159 0 0
+~
+~
+End
+
+#24159
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24160 0 0
+~
+~
+Door 1 0 0 24158 0 0
+~
+~
+Door 2 3 0 24289 30 30
+~
+glassdoor~
+End
+
+#24160
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Shd 1
+Reset M 24127 1 100
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Door 0 0 0 24161 0 0
+~
+~
+Door 1 0 0 24121 0 0
+~
+~
+Door 2 0 0 24159 0 0
+~
+~
+End
+
+#24161
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24162 0 0
+~
+~
+Door 1 0 0 24122 0 0
+~
+~
+Door 2 0 0 24160 0 0
+~
+~
+End
+
+#24162
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Door 0 0 0 24163 0 0
+~
+~
+Door 1 0 0 24123 0 0
+~
+~
+Door 2 0 0 24161 0 0
+~
+~
+End
+
+#24163
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24164 0 0
+~
+~
+Door 1 0 0 24124 0 0
+~
+~
+Door 2 0 0 24162 0 0
+~
+~
+End
+
+#24164
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24127 1 100
+Door 0 0 0 24165 0 0
+~
+~
+Door 1 0 0 24125 0 0
+~
+~
+Door 2 0 0 24163 0 0
+~
+~
+End
+
+#24165
+Name Garden of Light~
+Descr
+All around you lies a lush field field with grass and towering
+trees who's branchs stretch far from the base make them a nice
+shady place to nap or practice your skills. Small animals run 
+around your feet not seeming to even care you are here.
+~
+Flags 4
+Reset M 24129 1 100
+Reset M 24129 1 100
+Reset M 24127 1 100
+Reset M 24128 1 100
+Door 0 0 0 24166 0 0
+~
+~
+Door 1 0 0 24126 0 0
+~
+~
+Door 2 0 0 24164 0 0
+~
+~
+End
+
+#24166
+Name Garden of Light~
+Descr
+~
+Flags 4
+Door 0 0 0 24167 0 0
+~
+~
+Door 1 0 0 24127 0 0
+~
+~
+Door 2 0 0 24165 0 0
+~
+~
+End
+
+#24167
+Name Garden of Light~
+Descr
+~
+Flags 4
+Door 1 0 0 24128 0 0
+~
+~
+Door 2 0 0 24166 0 0
+~
+~
+End
+
+#24170
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Flags 2
+Door 0 0 0 24171 0 0
+~
+~
+Door 2 259 0 24129 30 30
+~
+Shed~
+End
+
+#24171
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Flags 2
+Door 0 0 0 24174 0 0
+~
+~
+Door 2 0 0 24170 0 0
+~
+~
+End
+
+#24172
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Flags 4
+Reset M 24170 30 100
+Door 0 0 0 24173 0 0
+~
+~
+End
+
+#24173
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Reset M 24170 30 100
+Door 2 0 0 24172 0 0
+~
+~
+Door 3 0 0 24174 0 0
+~
+~
+End
+
+#24174
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Flags 2113542
+Door 0 259 0 24182 30 30
+~
+Tool Shed~
+Door 1 0 0 24173 0 0
+~
+~
+Door 2 0 0 24171 0 0
+~
+~
+Door 3 0 0 24175 0 0
+~
+~
+End
+
+#24175
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Reset M 24170 30 100
+Door 1 0 0 24174 0 0
+~
+~
+Door 2 0 0 24176 0 0
+~
+~
+End
+
+#24176
+Name A Caretakers Shed~
+Descr
+This small wooden shed sits here with tables and chairs. It looks
+like it would be a nice place to take a break from all the hard 
+work it takes to maintain the garden. A few tools lie in the corner
+and a picture of Light and Bolo hangs on the north wall.
+~
+Reset M 24170 30 100
+Door 0 0 0 24175 0 0
+~
+~
+End
+
+#24177
+Name ~
+Descr
+~
+Flags 4
+End
+
+#24178
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Flags 4
+Reset M 24178 1 100
+Reset O 54 1 100
+Door 0 0 0 24179 0 0
+~
+~
+End
+
+#24179
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 0 0 0 24180 0 0
+~
+~
+Door 2 0 0 24178 0 0
+~
+~
+End
+
+#24180
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 1 0 0 24181 0 0
+~
+~
+Door 2 0 0 24179 0 0
+~
+~
+End
+
+#24181
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 1 0 0 24182 0 0
+~
+~
+Door 3 0 0 24180 0 0
+~
+~
+End
+
+#24182
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Flags 2
+Door 1 0 0 24183 0 0
+~
+~
+Door 2 259 0 24174 30 30
+~
+Tool Shed~
+Door 3 0 0 24181 0 0
+~
+~
+End
+
+#24183
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 1 0 0 24184 0 0
+~
+~
+Door 3 0 0 24182 0 0
+~
+~
+End
+
+#24184
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 2 0 0 24185 0 0
+~
+~
+Door 3 0 0 24183 0 0
+~
+~
+End
+
+#24185
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24170 30 100
+Door 0 0 0 24184 0 0
+~
+~
+Door 2 0 0 24186 0 0
+~
+~
+End
+
+#24186
+Name A Tool Shed~
+Descr
+Tools are scattered about here in no praticular order. Some of 
+them are covered with dust while others are covered in mud.
+The floor is damp and musty but the Shed seems to be pretty well
+maintained by Bolo since he spends little time in the garden.
+~
+Reset M 24186 1 100
+Door 0 0 0 24185 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

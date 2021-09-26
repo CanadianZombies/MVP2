@@ -1,0 +1,9610 @@
+#AREADATA 
+Name The City of Gnargnoc~
+Repop [1;30m[1;30mThe city has begun a new day. 
+~[0;37m
+SRepop 40
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Xenobia  Mobius~
+VNUMs 14001 14499
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#14237
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#14001
+Name elite dwarven guard cityguard~
+Short an elite dwarven guard of the watch~
+Long 
+An elite dwarven guard of the watch is here, protecting the innocent.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 100
+Level 100
+MobType 2
+Hp 25
+Guard 0
+End
+
+#14002
+Name elite dwarven guard cityguard AONE~
+Short an elite dwarven guard of the watch~
+Long 
+An elite dwarven guard of the watch is here, protecting the innocent.
+~
+Descr
+This guard is specially trained to protect the innocent. He is an expert
+swordsman and looks as if he is much more skilled in battle than you. As
+you looks at him he glances at you then goes back to his post.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment 1000
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 25
+End
+
+#14003
+Name elite dwarven cityguard gateguard guard AONE~
+Short an elite dwarven gate guard~
+Long 
+An elite dwarven gate guard is here, looking bored.
+~
+Descr
+This guard is specially trained to protect the innocent. He sits here all
+day unwavering from his post. He is trained specially as a swordsman, and
+looks as if he could easily defeat you in a battle.
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Alignment 1000
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 25
+Guard 2
+End
+
+#14004
+Name elite dwarven gateguard cityguard guard AONE~
+Short an elite dwarven gate guard~
+Long 
+An elite dwarven gate guard is here, looking bored.
+~
+Descr
+This guard is specially trained to protect the innocent. He sits here all
+day unwavering from his post. He is an expert swordsman, and looks as if
+he can defeat you easily in a battle.
+~
+AMax 0
+NHeight 0
+ActBits 3
+ActBits3 4096
+Affect_By 8
+Alignment 1000
+Money 80
+Level 80
+Sex 1
+MobType 2
+Hp 25
+Guard 3
+End
+
+#14005
+Name elite guard dwarven cityguard gateguard AONE~
+Short an elite dwarven gate guard~
+Long 
+An elite dwarven gate guard is here, looking bored.
+~
+Descr
+This guard is specially trained to protect the innocent. He sits here all
+day unwavering from his post. He is an expert swordsman, and looks as if he
+could easily defeat you in a battle.
+~
+AMax 4
+NHeight 0
+ActBits -2147483645
+Affect_By 544
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 25
+Guard 1
+End
+
+#14006
+Name lothair dwarven armorer~
+Short Lothair, the dwarven armorer~
+Long 
+Lothair, the dwarven armorer is here, waiting to serve you.
+~
+Descr
+This man is very large from working to forge all this armor over the years.
+As you look at him he looks up from his work, smiles, then goes back about
+his buisness.
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 40
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Spec spec_warrior
+Shop    0   9   0   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14007
+Name erridian dwarven weaponsmith~
+Short Erridian, the dwarven weaponsmith~
+Long 
+Erridian, the dwarven weaponsmith is here, waiting for you to buy something.
+~
+Descr
+Erridian looks as if he works hard all day. He has a one hour lunch break
+then he is back to work at the forge, carving weapons. Erridian is very big
+and looks as if he could easily defeat you in a battle.
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Spec spec_warrior
+Shop    0   5   0   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14008
+Name katari manager dwarven~
+Short Katahri, the dwarven pet shop manager~
+Long 
+Katahri, the dwarven pet shop manager is here, waiting to see what pet you want.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 170
+Level 170
+Sex 2
+MobType 2
+Hp 25
+Shop    0   0   0   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14009
+Name large flying pegasus~
+Short a large flying pegasus~
+Long 
+A large flying pegasus waits for your command, but won't let you ride him.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 65
+Affect_By 524296
+Alignment 1000
+Money 14
+Level 14
+MobType 18
+Hp 15
+End
+
+#14010
+Name large white stallion~
+Short a large white stallion~
+Long 
+A large white stallion is here, prodding at the ground.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 65
+Alignment 1000
+Money 6
+Level 6
+MobType 18
+End
+
+#14011
+Name ohmsford dwarven supply shop mamager~
+Short Ohmsford, the dwarven supply shop manager~
+Long 
+Ohmsford, the supply shop manager is here, waiting for you to buy something.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Shop    0  15  19   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14012
+Name dwarven noble~
+Short a dwarven noble~
+Long 
+A dwarven noble is here, spitting in the face of trash like you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 8
+Alignment -1000
+Money 50
+Level 50
+Sex 1
+MobType 2
+Hp 25
+End
+
+#14013
+Name myriad wizard shopkeeper~
+Short Myriad, the wizard of Gnargnoc~
+Long 
+Myriad, the wizard of Gnargnoc is here, concocting more potions.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 40
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Shop    0   2   3  10   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14014
+Name gloin bartender~
+Short Gloin, the Bartender~
+Long 
+Gloin, the Bartender of the Gnarled Beard is here, getting people drunk.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 40
+Alignment 1000
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 25
+Shop    0  17   0   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14015
+Name drunk dwarf drunken~
+Short a drunken dwarf~
+Long 
+A drunken dwarf is here, making a fool out of himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 500
+Money 2
+Level 2
+Sex 1
+MobType 2
+End
+
+#14016
+Name dwarven banker~
+Short The banker of Gnargnoc~
+Long 
+The banker of Gnargnoc is here, waiting to take your money.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131075
+Affect_By 40
+Alignment 1000
+Money 110
+Level 110
+Sex 1
+MobType 2
+Hp 25
+End
+
+#14017
+Name kasana dwarven jewler~
+Short Kasana, the dwarven jewler~
+Long 
+Kasana, the dwarven jewler is here, polishing her jewlery.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 40
+Alignment 1000
+Money 170
+Level 170
+Sex 2
+MobType 2
+Hp 25
+Shop    0  21   8  18   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14018
+Name grumbaul dwarven baker~
+Short Grumbaul, the dwarven baker~
+Long 
+Grumbaul, the dwarven baker is here, making more delicious deserts.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Shop    0   0   0   0   0 110 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#14019
+Name small dwarven boy ATWO~
+Short a small dwarven boy~
+Long 
+A small dwarven boy is here, being miscievous.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 2
+Level 2
+Sex 1
+MobType 2
+End
+
+#14020
+Name small dwarven girl ATWO~
+Short a small dwarven girl~
+Long 
+A small dwarven girl is here, looking for her mommy.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 1000
+Money 1
+Level 1
+Sex 2
+MobType 2
+End
+
+#14021
+Name dwarven street cleaner ATWO~
+Short a dwarven street cleaner~
+Long 
+A dwarven street cleaner is here, picking up trash.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 1
+Level 1
+Sex 1
+MobType 2
+Spec spec_janitor
+End
+
+#14022
+Name dwarven cityguard guard patrol dr~
+Short a dwarven cityguard~
+Long 
+A dwarven cityguard is here, keeping the peace.
+~
+Descr
+This guard roams about, making sure no one causes trouble in Gnargnoc. He has
+been specially trained in the arts of combat, and he will assist his the
+citzens of this town without even thinking about it. As you look as him he
+smiles at you then goes back to his work.
+~
+AMax 1
+NHeight 0
+ActBits 402653201
+Affect_By 552
+Money 34
+Level 34
+Sex 1
+MobType 2
+Spec spec_warrior
+End
+
+#14023
+Name beautiful buxom prostitute~
+Short a beautiful buxom prostitute~
+Long 
+A beautiful and buxom prostitute is here, looking for some fun.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 500
+Money 10
+Level 10
+Sex 2
+MobType 2
+Hp 15
+Guard 0
+End
+
+#14024
+Name wandering dwarven drunken idiot~
+Short a drunken dwarf~
+Long 
+A drunken dwarf is here, making a fool out of himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 1000
+Money 3
+Level 3
+Sex 1
+MobType 2
+Guard 0
+End
+
+#14025
+Name dwarven male commoner ATWO~
+Short a dwarven male commoner~
+Long 
+A dwarven commoner is here, going about his buisness.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 1000
+Money 7
+Level 7
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+End
+
+#14026
+Name dwarven female commoner AONE~
+Short a dwarven female commoner~
+Long 
+A dwarven female commoner is here, wandering with an aimless intent.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 1000
+Money 5
+Level 5
+Sex 2
+MobType 2
+Guard 0
+End
+
+#14027
+Name dwarven dwarf thief PRTCT~
+Short a dwarven thief~
+Long 
+A dwarven thief is here, fading in and out of the shadows.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 134217729
+Affect_By 32808
+Alignment -1000
+Money 40
+Level 40
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+Spec spec_thief
+End
+
+#14028
+Name dwarf dwarven warrior~
+Short a dwarven warrior~
+Long 
+A dwarven warrior is here, showing off his skills.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 8
+Money 27
+Level 27
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#14029
+Name dwarven mercenary~
+Short a dwarven mercenary~
+Long 
+A dwarven mercenary is here, looking to make a deal.
+~
+Descr
+This mercenary looks as if he has seen the roughest days of the world;
+his face is scarred and cut, and his huge, bulky form looms above you.  He
+is exceptionally tall for a dwarf, yet still stocky and muscular.  He looks
+like an incredible opponent.  
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 68
+Level 68
+Sex 1
+MobType 2
+Hp 22
+Guard 0
+Spec spec_warrior
+End
+
+#14030
+Name drunken dwarf mercenary~
+Short a drunken dwarven mercenary~
+Long 
+A drunken dwarven mercenary is here, making a fool of himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 500
+Money 110
+Level 110
+Sex 1
+MobType 2
+Hp 2
+Guard 0
+Spec spec_warrior
+End
+
+#14031
+Name gimli battlemaster battle dwarf teacher~
+Short Gimli, the battlemaster~
+Long 
+Gimli, the battlemaster of Gnargnoc is here, training people to be fighters
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 680
+Money 120
+Level 120
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+Spec spec_warrior
+End
+
+#14032
+Name galadriel healer teacher~
+Short Galadriel, the healer~
+Long 
+Galadriel, the healer of Gnargnoc is here, teaching people the arts of healing.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+ActBits3 1048576
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 220
+Level 220
+Sex 2
+MobType 2
+Hp 15
+Guard 0
+End
+
+#14033
+Name dwarven dwarf cleric~
+Short a dwarven cleric~
+Long 
+A dwarven cleric is here, practicing the arts of healing.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment 1000
+Money 15
+Level 15
+Sex 2
+MobType 2
+Hp 15
+Guard 0
+End
+
+#14034
+Name dwarven trainee warrior dwarf~
+Short a dwarven trainee warrior~
+Long 
+A dwarven trainee warrior is here, practicing his skills.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment -100
+Money 17
+Level 17
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#14035
+Name guard gateguard AONE~
+Short a palace gateguard~
+Long 
+A palace gateguard is here, guarding the gates for eternity.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 134217731
+Affect_By 552
+Alignment 1000
+Money 80
+Level 80
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+End
+
+#14036
+Name royal guard~
+Short a royal guard~
+Long 
+A royal guard is here, making sure no one disturbs the king.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Affect_By 552
+Alignment 1000
+Money 80
+Level 80
+Sex 1
+MobType 2
+Hp 25
+Guard 2
+End
+
+#14037
+Name king morodor dwarven dwarf PRTCT~
+Short King Morodor~
+Long 
+King Morodor, the king of dwarves is here, doing what's best for his people.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 402653201
+Affect_By 552
+Alignment 1000
+Money 120
+Level 120
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+End
+
+#14038
+Name breslyn owner~
+Short Breslyn, the shop owner~
+Long 
+Breslyn, the store owner is here, waiting for you to choose something.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+Shop    0   0   0   0   0 110 50 1 23
+Shopd2 5
+Shopd3 4
+End
+
+#14039
+Name extremely old dwarf~
+Short an extremely old dwarf~
+Long 
+An extremely old dwarf sits here, repairing various armors.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3145731
+ActBits4 8192
+Affect_By 552
+Alignment 1000
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+End
+
+#14040
+Name dwarf dwarven maid~
+Short a dwarven maid~
+Long 
+A dwarven maid is here, cleaning up the palace.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 1000
+Money 5
+Level 5
+Sex 2
+MobType 2
+Hp 15
+Guard 0
+Spec spec_janitor
+End
+
+#14041
+Name dwarven dwarf servant~
+Short a dwarven servant~
+Long 
+A dwarven servant is here, attending to the king's needs.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 1000
+Money 7
+Level 7
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+End
+
+#14042
+Name private body bodyguard guard AONE~
+Short a bodyguard~
+Long 
+A bodyguard stands here, guarding his master.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 4194307
+ActBits3 262144
+Affect_By 40
+Alignment -90
+Money 29
+Level 29
+Sex 1
+MobType 2
+Guard 0
+End
+
+#14043
+Name elite dwarven guard AONE~
+Short an elite dwarven guard~
+Long 
+An elite dwarven guard is here, protecting the king.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 272629761
+ActBits3 262148
+Affect_By 552
+Alignment 1000
+Money 40
+Level 40
+Sex 1
+MobType 2
+Hp 17
+Guard -43
+End
+
+#14044
+Name elite dwarven guard ATWO~
+Short an elite dwarven guard~
+Long 
+An elite dwarven guard is here, protecting the king.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 142606337
+ActBits3 262148
+Affect_By 552
+Alignment 1000
+Money 40
+Level 40
+Sex 1
+MobType 2
+Hp 17
+Guard -43
+End
+
+#14045
+Name bromir teacher archmage mage~
+Short Bromir, the archmage~
+Long 
+Bromir, the archmage is here, teaching people the arts of magic.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 680
+Money 220
+Level 220
+Sex 1
+MobType 2
+Hp 15
+Guard 0
+Spec spec_warrior
+BCasts Balefire~
+BCast_P 10
+ASklTaught 0 165
+End
+
+#14046
+Name dwarven mage~
+Short a dwarven mage~
+Long 
+A dwarven mage is here, practicing the arts.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 8
+Alignment -100
+Money 15
+Level 15
+Sex 1
+MobType 2
+Guard 0
+End
+
+#14047
+Name Tritor~
+Short tritor, warrior of good~
+Long 
+The ultimate warrior, Tritor is sickfighting a small man here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Money 120
+Level 120
+Sex 1
+MobType 0
+Hp 30
+Guard 0
+Spec spec_warrior
+End
+
+#14048
+Name wimpy gladiator~
+Short a wimpy gladiator~
+Long 
+A wimpy gladiator is here, trying to hold his own against Tritor, and failing.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 40
+Level 40
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#14049
+Name weak old miner~
+Short an old miner~
+Long 
+A very weak, old-aged miner is here, digging to support his family.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Money 5
+Level 5
+Sex 1
+MobType 0
+Guard 0
+End
+
+#14050
+Name mining foreman man~
+Short the foreman~
+Long 
+The mining foreman looms over you with his huge muscled body.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 40
+Money 45
+Level 45
+Sex 1
+MobType 0
+Guard 0
+End
+
+#14051
+Name miner husky~
+Short a husky miner~
+Long 
+A husky miner is ripping open the ground with his pickaxe.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 14
+Level 14
+MobType 0
+Hp 14
+Guard 0
+End
+
+#14052
+Name miner bathed clean~
+Short a clean miner~
+Long 
+A newly bathed miner stands here, nice and clean.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 12
+Level 12
+MobType 0
+Guard 0
+End
+
+#14055
+Name guard caribou home cg~
+Short a caribou guard~
+Long 
+A guard of the caribou home is here, twiddling his thumbs.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+ActBits3 4096
+Affect_By 552
+Money 46
+Level 46
+MobType 2
+Guard 2
+End
+
+#14056
+Name guard caribou home cg~
+Short a caribou guard~
+Long 
+A guard of the caribou home is here, twiddling his thumbs.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+ActBits3 4096
+Affect_By 552
+Alignment 400
+Money 46
+Level 46
+MobType 2
+Guard 3
+End
+
+#14060
+Name elite guard dwarven cityguard~
+Short an elite dwarven gate guard~
+Long 
+An elite dwarven gate guard is here, looking bored.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits -2147483645
+Affect_By 544
+Alignment 1000
+Money 100
+Level 100
+MobType 2
+Guard 3
+End
+
+#0
+
+
+
+#OBJDATA
+#14499
+Name statue~
+Short a statue~
+Descr
+A crystal clear staue stands here completely unseen.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14414 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#985
+Name staff magi~
+Short [34m[1ma staff of magi[0m~
+Descr
+[34m[1mA staff that glows with a natural light lies here, unnoticed.[0m
+[0;36m~
+Type 21
+Extra 536870977
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 50 75 50 0 0 0 3 6 0
+Weight 4
+Cost 90000
+End
+
+#986
+Name chainmail leggings~
+Short some chainmail leggings~
+Descr
+Some chainmail leggings have been left here, they looks useable still.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 6
+Cost 975
+Affect 17 -1 1 0 0
+End
+
+#14002
+Name large water fountain~
+Short [34m[1ma large water fountain[0m~
+Descr
+[34m[1mA Large Water Fountain is here, gushing fourth sparkling waters.[0m
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 10000
+Cost 0
+ExtraDescr fountain large water~
+This is a beautiful marble fountain. It gushes out crystal clear waters, and
+
+
+just invites you to take a drink.
+
+
+~
+End
+
+#14003
+Name pair leather gloves~
+Short a pair of leather gloves~
+Descr
+A pair of leather gloves have been left on the ground here, discarded.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 50 50 0 0
+Weight 1
+Cost 45
+Affect 17 -1 1 0 0
+End
+
+#14004
+Name iron rations~
+Short [30m[1msome iron rations[0m~
+Descr
+[30m[1mSome iron rations are on the ground here, they still look fresh.[0m
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5
+End
+
+#14005
+Name dwarven halberd~
+Short a dwarven halberd~
+Descr
+A halberd is on the ground here, unnoticed.
+[0;36m~
+Type 5
+Extra 2097153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 3 5 0
+Weight 4
+Cost 10000
+Affect 18 1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#14006
+Name glowing purple potion~
+Short [35ma glowing purple potion[0m~
+Descr
+[35mA purple potion has been left on the ground here, discarded.
+[0;36m~
+Type 10
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 23 -1 1 0 0 0 0 0 0
+Weight 1
+Cost 9500
+End
+
+#14007
+Name glowing steel breast plate breastplate~
+Short [37m[1ma steel breastplate~
+Descr
+[37m[1mA steel breast plate is here, glowing powerfully.[0m
+[0;36m~
+Type 9
+Extra 1
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 10
+Cost 6540
+End
+
+#14008
+Name glowing ivory staff~
+Short [37m[1ma glowing ivory staff[0m~
+Descr
+[37m[1mA staff which looks to be made out of ivory is here, discarded.[0m
+[0;36m~
+Type 3
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 5 5 1 0 0 0 0 0 0
+Weight 2
+Cost 6500
+End
+
+#14009
+Name whiskey bottle~
+Short a bottle of whiskey~
+Descr
+A bottle of whiskey has been left on the the ground here, discarded.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 5 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14010
+Name bottle dwarven ale~
+Short a bottle of dwarven ale~
+Descr
+A bottle of golden ale sits here, waiting to be picked up.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 5 3 0 0 0 0 0 0 0
+Weight 1
+Cost 20
+End
+
+#14011
+Name bottle beer~
+Short a bottle of beer~
+Descr
+A bottle of beer lies on the ground here, unnoticed.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 1 0 0 0 0 0 0 0
+Weight 1
+Cost 15
+End
+
+#14012
+Name glowing violet gemstone~
+Short [35ma glowing violet gemstone[0m~
+Descr
+[35mA violet gem is lying on the ground here, gleaming in the light.[0m
+[0;36m~
+Type 8
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 3950
+Affect 17 -5 1 0 0
+End
+
+#14013
+Name small green emerald~
+Short [32ma small green emerald[0m~
+Descr
+[32mA small emerald lies here, unnoticed.[0m
+[0;36m~
+Type 8
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5950
+Affect 18 1 1 0 0
+End
+
+#14014
+Name strawberry pastry~
+Short [35m[1ma strawberry pastry[0m~
+Descr
+[35m[1mA pastry oozing with strawberries is on the ground here, discarded.[0m
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 38
+End
+
+#14015
+Name lemon pastry~
+Short [33m[1ma lemon filled pastry[0m~
+Descr
+[33m[1mA pastry oozing with lemon is here, waiting to be picked up.[0m
+[0;36m~
+Type 19
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 41
+End
+
+#14016
+Name blueberry blue berry muffin~
+Short a [34m[1mblueberry[0m muffin~
+Descr
+A muffin was left on the ground here, it looks fresh.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 31
+End
+
+#14018
+Name dwarven sword longsword~
+Short a dwarven longsword~
+Descr
+A sword has been left on the ground here, discarded.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 3 0 0 0 4 4 0
+Weight 3
+Cost 3944
+Affect 18 1 1 0 0
+End
+
+#14019
+Name dress skimpy~
+Short [30m[1ma very skimpy dress[0m~
+Descr
+[30m[1mA dress has been left on the ground here.[0m
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 20 20 0 0
+Weight 1
+Cost 14
+End
+
+#14020
+Name large bag~
+Short a large bag~
+Descr
+A bag has been left here, discarded.
+[0;36m~
+Type 15
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14021
+Name pair dwarven boots~
+Short [33m[1ma pair of dwarven boots[0m~
+Descr
+[33m[1mA pair of boots are lying on the ground here, unnoticed.[0m
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 3
+Cost 20255
+Affect 22 1 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#14022
+Name crimson facemask mask~
+Short [31ma crimson mask[0m~
+Descr
+[31mA mask has been left on the ground here, it glows a crimson hue.[0m
+[0;36m~
+Type 9
+Extra 536870912
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 12 12 0 0
+Weight 2
+Cost 13549
+End
+
+#14023
+Name small dirk~
+Short a small dirk~
+Descr
+A dirk has been discarded here, it looks still usable.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 11 0 0 0 2 5 0
+Weight 3
+Cost 2055
+Affect 18 -1 1 0 0
+End
+
+#14024
+Name large plaque sign~
+Short a large plaque~
+Descr
+A Large Plaque is here, demanding your attention.
+[0;36m~
+Type 11
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+ExtraDescr sign large plaque~
+This Plaque Reads as Follows:
+
+
+=============================
+
+
+ 
+
+
+Welcome All Travelers! All Ye who be wandering into my kingdom of Gnargnoc are
+
+
+welcome to stay for a while. Our spirits are high, and our ale is the best
+
+
+around, But don't ye be causing any trouble or you'll be thrown in the jail
+
+
+over yonder.
+
+
+
+ 
+
+
+-King Morodor
+
+
+~
+End
+
+#14025
+Name suit mithril chain chainmail~
+Short [34m[1ma suit of mithril chainmail[0m~
+Descr
+[34m[1mA suit of chainmail was left here, it glows with a natural light.[0m
+[0;36m~
+Type 9
+Extra 536870913
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 5 1 0 0 0 75 75 0 0
+Weight 9
+Cost 21594
+Affect 13 10 1 0 0
+Affect 18 1 1 0 0
+End
+
+#14026
+Name dwarven battle-axe battle axe~
+Short [37ma double-bladed dwarven axe[0m~
+Descr
+[37mA Huge attle axe has been left here; it looks quite heavy.[0m
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 5 3 0
+Weight 10
+Cost 11950
+Affect 19 3 1 0 0
+Affect 18 3 1 0 0
+End
+
+#14027
+Name set climbing gear~
+Short a set of climbing gear~
+Descr
+Some climbing gear has bn left here, discarded.
+[0;36m~
+Type 22
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 3
+Cost 2950
+End
+
+#14028
+Name set lockpick picks pick~
+Short [30m[1ma set of lockpicks[0m~
+Descr
+[30m[1mSome lock picks have been left here; they still look useable.[0m
+[0;36m~
+Type 27
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 1 1 0 0 0 0 0 0 0
+Weight 1
+Cost 70
+End
+
+#14029
+Name black leather armor~
+Short [30m[1msome black leather armor[0m~
+Descr
+[30m[1mSome black leather armor was left here; it still looks wearable.[0m
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 5
+Cost 1320
+End
+
+#14030
+Name finely crafted silver longsword sword~
+Short [1m[37ma silver longsword[0m~
+Descr
+[37m[1mA silver longsword has been left here, discarded.[0m
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 3 0 0 0 2 7 0
+Weight 8
+Cost 5995
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#14031
+Name small mace~
+Short a small mace~
+Descr
+A mace was left here, it looks in good condition.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 1 8 0
+Weight 4
+Cost 402
+End
+
+#14032
+Name dwarven shield~
+Short [33m[1ma dwarven shield[0m~
+Descr
+[33m[1mA shield which looks to be crafted by dwarves is here, discarded.[0m
+[0;36m~
+Type 9
+Extra 536870912
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 5 0 1 0 0 70 70 0 0
+Weight 8
+Cost 6500
+Affect 19 1 1 0 0
+Affect 18 -3 1 0 0
+Affect 14 -10 1 0 0
+Affect 2 -1 1 0 0
+ExtraDescr shield dwarven~
+This shield looks very solid and sturdy. It was crafted by the dwarven smiths
+
+
+to protect it's user from attacks. It is a large shield, and it looks as if it
+
+
+would be a good shield for bashing.
+
+
+~
+End
+
+#14033
+Name scroll identify id~
+Short a scroll of identify~
+Descr
+A scroll has been discarded here, it looks as if it is still useable.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 16 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 4250
+End
+
+#14036
+Name large dwarven key~
+Short [33m[1ma large dwarven key[0m~
+Descr
+[33m[1mA large dwarven key was left here, discarded.[0m
+[0;36m~
+Type 18
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14037
+Name large obsidian mace~
+Short [30m[1ma large obsidian mace[0m~
+Descr
+[30m[1mA mace which looks to be carved of obsidian lies here, unnoticed.[0m
+[0;36m~
+Type 5
+Extra 524289
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 30 0 8 0 0 0 3 6 0
+Weight 10
+Cost 59504
+Affect 19 3 1 0 0
+Affect 18 2 1 0 0
+End
+
+#14038
+Name juicy ribs~
+Short [31m[1msome juicy ribs[0m~
+Descr
+[31m[1mSome ribs were discarded on the ground here, they still look fresh.[0m
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 95
+End
+
+#14039
+Name big juicy steak~
+Short [31m[1ma big juicy steak[0m~
+Descr
+[31m[1mA big juicy steak was left on the ground here, it look edible.[0m
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 55
+End
+
+#14042
+Name pair leather sleeves~
+Short a pair of leather sleeves~
+Descr
+A pair of leather sleeves have been left here, discarded.
+[0;36m~
+Type 9
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 1
+Cost 200
+End
+
+#14043
+Name axe pickaxe pick~
+Short a pickaxe~
+Descr
+A sharply tapered pickaxe lays here, waiting to be thrust into rock.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 11 0 1 0 0 0 3 4 0
+Weight 0
+Cost 0
+Affect 19 1 1 0 0
+Affect 18 -1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#14076
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14077 30 30
+~
+door~
+Door 3 0 0 14075 30 30
+~
+door~
+End
+
+#14077
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14079 30 30
+~
+door~
+Door 3 0 0 14076 30 30
+~
+door~
+End
+
+#14079
+Name Bend in a Road Along a City Wall~
+Descr
+~
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 14080 30 30
+~
+door~
+Door 3 0 0 14077 30 30
+~
+door~
+Door 4 0 0 14210 0 0
+~
+~
+End
+
+#14080
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14079 30 30
+~
+door~
+Door 2 0 0 14081 30 30
+~
+door~
+End
+
+#14081
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14080 30 30
+~
+door~
+Door 2 0 0 14082 30 30
+~
+door~
+End
+
+#14082
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14081 30 30
+~
+door~
+Door 2 0 0 14083 30 30
+~
+door~
+End
+
+#14083
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14082 30 30
+~
+door~
+Door 2 0 0 14084 30 30
+~
+door~
+End
+
+#14084
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14083 30 30
+~
+door~
+Door 2 0 0 14085 30 30
+~
+door~
+End
+
+#14085
+Name Road Along a City Wall~
+Descr
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14084 30 30
+~
+door~
+Door 2 0 0 14086 30 30
+~
+door~
+End
+
+#14086
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14085 30 30
+~
+door~
+Door 2 0 0 14020 30 30
+~
+door~
+End
+
+#14087
+Name Road Along a City wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14020 30 30
+~
+door~
+Door 2 0 0 14088 30 30
+~
+door~
+End
+
+#14088
+Name Road Along a City wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14087 30 30
+~
+door~
+Door 2 0 0 14089 30 30
+~
+door~
+End
+
+#14089
+Name Road Along a City wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14088 30 30
+~
+door~
+Door 2 0 0 14090 30 30
+~
+door~
+End
+
+#14090
+Name Road Along a City wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Flags 2
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14089 30 30
+~
+door~
+Door 2 0 0 14091 30 30
+~
+door~
+End
+
+#14091
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. To the west you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14090 30 30
+~
+door~
+Door 2 0 0 14136 30 30
+~
+door~
+Door 3 0 0 14099 30 30
+~
+door~
+End
+
+#14092
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14093 30 30
+~
+door~
+Door 3 0 0 14043 30 30
+~
+door~
+End
+
+#14093
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14094 30 30
+~
+door~
+Door 3 0 0 14092 30 30
+~
+door~
+End
+
+#14094
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. 
+This part of town seems darker than the rest of Gnargnoc, it also seems
+dreary and dank.  This part of town is rumored to be the bad part, where the
+dwarven thieves and other lowlifes hang out.  This alley continues on to the
+east and west, stretching towards the city boundaries.  
+~
+Movemess
+(null)~
+Door 1 0 0 14095 30 30
+~
+door~
+Door 3 0 0 14093 30 30
+~
+door~
+End
+
+#14095
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. 
+This part of town seems darker than the rest of Gnargnoc, it also seems
+dreary and dank.  This part of town is rumored to be the bad part, where the
+dwarven thieves and other lowlifes hang out.  This alley continues on to the
+east and west, stretching towards the city boundaries.  
+~
+Movemess
+(null)~
+Door 1 0 0 14096 30 30
+~
+door~
+Door 3 0 0 14094 30 30
+~
+door~
+End
+
+#14096
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. To the north you can hear the sounds of
+drunken singing. This alley continues on to the east and west, stretching
+towards the city boundaries.
+~
+Movemess
+(null)~
+Door 0 3 0 14112 20 20
+~
+door~
+Door 1 0 0 14097 30 30
+~
+door~
+Door 3 0 0 14095 30 30
+~
+door~
+End
+
+#14097
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14098 30 30
+~
+door~
+Door 3 0 0 14096 30 30
+~
+door~
+End
+
+#14098
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14216 0 0
+~
+~
+Door 3 0 0 14097 30 30
+~
+door~
+End
+
+#14099
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14091 30 30
+~
+door~
+Door 2 3 0 14319 80 80
+~
+door~
+Door 3 0 0 14216 0 0
+~
+~
+End
+
+#14100
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14043 30 30
+~
+door~
+Door 3 0 0 14101 30 30
+~
+door~
+End
+
+#14101
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14100 30 30
+~
+door~
+Door 2 3 0 14311 80 80
+~
+door~
+Door 3 0 0 14102 30 30
+~
+door~
+End
+
+#14102
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14101 30 30
+~
+door~
+Door 3 0 0 14103 30 30
+~
+door~
+End
+
+#14103
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14102 30 30
+~
+door~
+Door 3 0 0 14104 30 30
+~
+door~
+End
+
+#14104
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14103 30 30
+~
+door~
+Door 3 0 0 14105 30 30
+~
+door~
+End
+
+#14105
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 14297 0 0
+~
+~
+Door 1 0 0 14104 30 30
+~
+door~
+Door 3 0 0 14218 0 0
+~
+~
+End
+
+#14106
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14217 0 0
+~
+~
+Door 3 0 0 14111 0 0
+~
+~
+End
+
+#14107
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14011 30 30
+~
+door~
+Door 2 0 0 14108 30 30
+~
+door~
+End
+
+#14108
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14107 30 30
+~
+door~
+Door 2 0 0 14109 30 30
+~
+door~
+End
+
+#14109
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14108 30 30
+~
+door~
+Door 2 0 0 14110 30 30
+~
+door~
+End
+
+#14110
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Flags 2
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14109 30 30
+~
+door~
+Door 2 0 0 14111 30 30
+~
+door~
+End
+
+#14111
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+west, and it appears to be very sturdy. To the east you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14110 30 30
+~
+door~
+Door 1 0 0 14106 0 0
+~
+~
+Door 2 0 0 14126 30 30
+~
+door~
+End
+
+#14112
+Name Within A Shady Pub~
+Descr
+This is a small shady pub, one is which all the mercenaries come to get
+drunk after a hard days work.  This pub wreaks especially of dwarven ale,
+which seems to be the only thing they serve here.  The only exit is to the
+south, from which you just came.  
+~
+Flags 4
+Sector 0
+Reset M 14030 3 100
+Reset O 14010 22 100
+Movemess
+(null)~
+Door 0 0 0 14232 0 0
+~
+~
+Door 1 0 0 14229 0 0
+~
+~
+Door 2 3 0 14096 20 20
+~
+door~
+Door 3 0 0 14230 0 0
+~
+~
+End
+
+#14113
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Reset M 14029 12 100
+Reset O 14021 7 45
+Movemess
+(null)~
+Door 0 0 0 14043 30 30
+~
+door~
+Door 2 0 0 14114 30 30
+~
+door~
+End
+
+#14114
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The road splits here, to the east and west you can see a dark alley,
+and to the north and south the Nenuial road continues on, farther than the
+eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14113 30 30
+~
+door~
+Door 1 0 0 14127 30 30
+~
+door~
+Door 2 0 0 14115 30 30
+~
+door~
+Door 3 0 0 14119 30 30
+~
+door~
+End
+
+#14115
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Reset M 14028 10 100
+Reset O 14032 10 2
+Movemess
+(null)~
+Door 0 0 0 14114 30 30
+~
+door~
+Door 2 0 0 14116 30 30
+~
+door~
+End
+
+#14116
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14115 30 30
+~
+door~
+Door 2 0 0 14117 30 30
+~
+door~
+End
+
+#14117
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The road splits here, to the east and west you can see a dark alley,
+and to the north and south the Nenuial road continues on, farther than the
+eye can see.
+~
+Reset M 14027 3 100
+Reset O 14028 21 16
+Reset O 14022 25 1
+Reset O 14023 -1 45
+Reset M 14042 3 100
+Movemess
+(null)~
+Door 0 0 0 14116 30 30
+~
+door~
+Door 1 0 0 14151 30 30
+~
+door~
+Door 2 0 0 14118 30 30
+~
+door~
+Door 3 0 0 14141 30 30
+~
+door~
+End
+
+#14118
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14117 30 30
+~
+door~
+Door 2 0 0 14166 30 30
+~
+door~
+End
+
+#14119
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14114 30 30
+~
+door~
+Door 3 0 0 14120 30 30
+~
+door~
+End
+
+#14120
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14119 30 30
+~
+door~
+Door 3 0 0 14121 30 30
+~
+door~
+End
+
+#14121
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14120 30 30
+~
+door~
+Door 3 0 0 14122 30 30
+~
+door~
+End
+
+#14122
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to e the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hand out. To the south you
+can see a small road, that cuts through to another alleyway. This Alley
+continues on to the east and west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14121 30 30
+~
+door~
+Door 2 0 0 14139 30 30
+~
+door~
+Door 3 0 0 14123 30 30
+~
+door~
+End
+
+#14123
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 0 3 0 14316 80 80
+~
+door~
+Door 1 0 0 14122 30 30
+~
+door~
+Door 3 0 0 14124 30 30
+~
+door~
+End
+
+#14124
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14123 30 30
+~
+door~
+Door 3 0 0 14220 0 0
+~
+~
+End
+
+#14125
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14219 0 0
+~
+~
+Door 3 0 0 14134 30 30
+~
+door~
+End
+
+#14126
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14111 30 30
+~
+door~
+Door 2 0 0 14134 30 30
+~
+door~
+End
+
+#14127
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14128 30 30
+~
+door~
+Door 3 0 0 14114 30 30
+~
+door~
+End
+
+#14128
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14129 30 30
+~
+door~
+Door 3 0 0 14127 30 30
+~
+door~
+End
+
+#14129
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14130 30 30
+~
+door~
+Door 3 0 0 14128 30 30
+~
+door~
+End
+
+#14130
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to e the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hand out. To the south you
+can see a small road, that cuts through to another alleyway. This Alley
+continues on to the east and west, stretching towards the city boundaries.
+~
+Movemess
+(null)~
+Door 1 0 0 14131 30 30
+~
+door~
+Door 2 0 0 14137 30 30
+~
+door~
+Door 3 0 0 14129 30 30
+~
+door~
+End
+
+#14131
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14132 30 30
+~
+door~
+Door 3 0 0 14130 30 30
+~
+door~
+End
+
+#14132
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 0 3 0 14317 80 80
+~
+door~
+Door 1 0 0 14222 0 0
+~
+~
+Door 3 0 0 14131 30 30
+~
+door~
+End
+
+#14133
+Name A Dark and Dank Alley~
+Descr
+This Alleyway is more dark than the rest of the city, and it feels very
+foggy and moist. This part of town is known to be the bad part, where all the
+thieves and other lowlifes of the dwarven crowd hang out. This alleyway
+continues to the east and west, stretching towards the boundaries of town.
+~
+Movemess
+(null)~
+Door 1 0 0 14135 30 30
+~
+door~
+Door 3 0 0 14221 0 0
+~
+~
+End
+
+#14134
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+west, and it appears to be very sturdy. To the east you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14126 30 30
+~
+door~
+Door 1 0 0 14125 30 30
+~
+door~
+Door 2 0 0 14148 30 30
+~
+door~
+End
+
+#14135
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. To the west you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14136 30 30
+~
+door~
+Door 2 0 0 14158 30 30
+~
+door~
+Door 3 0 0 14133 30 30
+~
+door~
+End
+
+#14136
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14091 30 30
+~
+door~
+Door 2 0 0 14135 30 30
+~
+door~
+End
+
+#14137
+Name A Narrow Paved Road~
+Descr
+This is a narrow road, and it is paved for some reason. It dosen't look as if
+it is used much, but it looks unusually clean comapred to the other alleys
+around here. This Road continues to the north and south, adjoining two 
+alleyways.
+~
+Movemess
+(null)~
+Door 0 0 0 14130 30 30
+~
+door~
+Door 2 0 0 14138 30 30
+~
+door~
+End
+
+#14138
+Name A Narrow Paved Road~
+Descr
+This is a narrow road, and it is paved for some reason. It dosen't look as if
+it is used much, but it looks unusually clean comapred to the other alleys
+around here. This Road continues to the north and south, adjoining two 
+alleyways.
+~
+Movemess
+(null)~
+Door 0 0 0 14137 30 30
+~
+door~
+Door 2 0 0 14154 30 30
+~
+door~
+End
+
+#14139
+Name A Narrow Paved Road~
+Descr
+This is a narrow road, and it is paved for some reason. It dosen't look as if
+it is used much, but it looks unusually clean comapred to the other alleys
+around here. This Road continues to the north and south, adjoining two 
+alleyways.
+~
+Movemess
+(null)~
+Door 0 0 0 14122 30 30
+~
+door~
+Door 2 0 0 14140 30 30
+~
+door~
+End
+
+#14140
+Name A Narrow Paved Road~
+Descr
+This is a narrow road, and it is paved for some reason. It dosen't look as if
+it is used much, but it looks unusually clean comapred to the other alleys
+around here. This Road continues to the north and south, adjoining two 
+alleyways.
+~
+Movemess
+(null)~
+Door 0 0 0 14139 30 30
+~
+door~
+Door 2 0 0 14144 30 30
+~
+door~
+End
+
+#14141
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 0 3 0 14330 80 80
+~
+door~
+Door 1 0 0 14117 30 30
+~
+door~
+Door 3 0 0 14142 30 30
+~
+door~
+End
+
+#14142
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14141 30 30
+~
+door~
+Door 3 0 0 14143 30 30
+~
+door~
+End
+
+#14143
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14142 30 30
+~
+door~
+Door 3 0 0 14144 30 30
+~
+door~
+End
+
+#14144
+Name An Intersection of Pathways~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road
+is very dark and dank also, which seems to be only in the southern part
+of Gnargnoc. To the north you can see a small paved road, and to the east and
+west A Dirty Trash Covered Road continues on.
+~
+Movemess
+(null)~
+Door 0 0 0 14140 30 30
+~
+door~
+Door 1 0 0 14143 30 30
+~
+door~
+Door 3 0 0 14145 30 30
+~
+door~
+End
+
+#14145
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 0 3 0 14334 80 80
+~
+door~
+Door 1 0 0 14144 30 30
+~
+door~
+Door 3 0 0 14146 30 30
+~
+door~
+End
+
+#14146
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14145 30 30
+~
+door~
+Door 3 0 0 14228 0 0
+~
+~
+End
+
+#14147
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14227 0 0
+~
+~
+Door 3 0 0 14150 30 30
+~
+door~
+End
+
+#14148
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14134 30 30
+~
+door~
+Door 2 0 0 14149 30 30
+~
+door~
+End
+
+#14149
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14148 30 30
+~
+door~
+Door 2 0 0 14150 30 30
+~
+door~
+End
+
+#14150
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+west, and it appears to be very sturdy. To the east you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14149 30 30
+~
+door~
+Door 1 0 0 14147 30 30
+~
+door~
+Door 4 0 0 14212 0 0
+~
+~
+End
+
+#14151
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 0 3 0 14326 80 80
+~
+door~
+Door 1 0 0 14152 30 30
+~
+door~
+Door 3 0 0 14117 30 30
+~
+door~
+End
+
+#14152
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14153 30 30
+~
+door~
+Door 3 0 0 14151 30 30
+~
+door~
+End
+
+#14153
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14154 30 30
+~
+door~
+Door 3 0 0 14152 30 30
+~
+door~
+End
+
+#14154
+Name An Intersection of Pathways~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road
+is very dark and dank also, which seems to be only in the southern part
+of Gnargnoc. To the north you can see a small paved road, and to the east and
+west A Dirty Trash Covered Road continues on.
+~
+Movemess
+(null)~
+Door 0 0 0 14138 30 30
+~
+door~
+Door 1 0 0 14155 30 30
+~
+door~
+Door 3 0 0 14153 30 30
+~
+door~
+End
+
+#14155
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 0 3 0 14320 80 80
+~
+door~
+Door 1 0 0 14156 30 30
+~
+door~
+Door 3 0 0 14154 30 30
+~
+door~
+End
+
+#14156
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14224 0 0
+~
+~
+Door 3 0 0 14155 30 30
+~
+door~
+End
+
+#14157
+Name A Dirty Trash Covered Road~
+Descr
+This road is paved, but it does not look like it is kept in good condition.
+There is trash all over this road, scattered all over the place. This road 
+is dark and dank also, as are the other alleys in Gnargnoc. This Road continues
+to the east and west, going to the city limits.
+~
+Movemess
+(null)~
+Door 1 0 0 14160 30 30
+~
+door~
+Door 3 0 0 14223 0 0
+~
+~
+End
+
+#14158
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14135 30 30
+~
+door~
+Door 2 0 0 14159 30 30
+~
+door~
+End
+
+#14159
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14158 30 30
+~
+door~
+Door 2 0 0 14160 30 30
+~
+door~
+End
+
+#14160
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. To the west you can see a dark alleyway
+and to the north and south this road continues, following the city wall.
+~
+Movemess
+(null)~
+Door 0 0 0 14159 30 30
+~
+door~
+Door 3 0 0 14157 30 30
+~
+door~
+Door 4 0 0 14211 0 0
+~
+~
+End
+
+#14161
+Name Entrance to the Hall of Warriors~
+Descr
+From within this doorway you hear the clashing of weapons coming from the
+hall before you.  There are warriors streaming in and out of the training
+hall as they aquire new skills and come to practice.  At the far end of the
+hall, you see the mighty warrior trainer of Gnargnoc, come to train the
+refugees from Xylar.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14162 30 30
+~
+door~
+Door 3 0 0 14024 30 30
+~
+door~
+End
+
+#14162
+Name Inside the Hall~
+Descr
+From this vantage point, you see the truly massive scale on which
+warriors are being trained for battle.  It seems that the forces of good are
+determined not to let the raiders from Masque destroy their new home city. 
+Weapons hang on all of the walls, warriors stand everywhere talking about
+past victories, and the warrior master towers above them all, ready to
+combat anything.  
+~
+Flags 4
+Sector 0
+Reset M 14034 8 100
+Reset M 14034 8 100
+Movemess
+(null)~
+Door 0 0 0 14295 0 0
+~
+~
+Door 1 0 0 14163 30 30
+~
+door~
+Door 2 0 0 14296 0 0
+~
+~
+Door 3 0 0 14161 30 30
+~
+door~
+End
+
+#14163
+Name At Gimli's Station~
+Descr
+Here is where Gimli, one of the two survivers from Xylar, resides and
+trains the men of Gnargnoc.  Said to have been brought in by Tritor, and the
+only warrior equal to him in battle, he is a dangerous opponent, and an
+amazing trainer.  His skills are devoted in full to the defence of Gnargnoc,
+and he will not put aside this duty until he lies unable to do so, on the
+brink of death.  
+~
+Flags 4
+Sector 0
+Reset M 14031 1 100
+Reset M 14034 8 100
+Movemess
+(null)~
+Door 0 0 0 14165 30 30
+~
+door~
+Door 2 0 0 14164 30 30
+~
+door~
+Door 3 0 0 14162 30 30
+~
+door~
+End
+
+#14164
+Name Inside the Hall~
+Descr
+Here and there you see men milling about, either taking a break or
+waiting for their instruction.  You also see men fighting with wooden swords
+and long poles.  Having only heard of the Xylarian massacre, you are sure
+that if these preperations had been taken, it never would have happened.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14163 30 30
+~
+door~
+Door 3 0 0 14296 0 0
+~
+~
+End
+
+#14165
+Name Inside the Hall~
+Descr
+Here and there you see men milling about, either taking a break or
+waiting for their instruction.  You also see men fighting with wooden swords
+and long poles.  Having only heard of the Xylarian massacre, you are sure
+that if these preperations had been taken, it never would have happened.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 14163 30 30
+~
+door~
+Door 3 0 0 14295 0 0
+~
+~
+End
+
+#14166
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 14118 30 30
+~
+door~
+Door 2 0 0 14167 30 30
+~
+door~
+End
+
+#14167
+Name The Southern Gates of Gnargnoc~
+Descr
+The Neunial road ends here, and you stand before these huge gates.  These
+are massive iron gates, they look as if nothing could break them.  There are
+several guards here, keeping evil out of the city.  The only other exit is
+to the north, back on the Neunial road.  
+~
+Reset M 14001 4 100
+Movemess
+(null)~
+Door 0 0 0 14166 30 30
+~
+door~
+Door 2 0 0 14198 0 0
+~
+~
+End
+
+#14168
+Name Within the Palace Hallways~
+Descr
+This is a immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east south and west.
+~
+Flags 4
+Reset M 14040 4 100
+Reset M 14041 4 100
+Movemess
+(null)~
+Door 0 3 0 14167 30 30
+~
+palace gates~
+Door 1 0 0 14184 30 30
+~
+door~
+Door 2 0 0 14169 30 30
+~
+door~
+Door 3 0 0 14174 30 30
+~
+door~
+End
+
+#14169
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14168 30 30
+~
+door~
+Door 2 0 0 14171 0 0
+~
+~
+End
+
+#14170
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+End
+
+#14171
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14169 0 0
+~
+~
+Door 2 0 0 14172 30 30
+~
+door~
+End
+
+#14172
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14171 30 30
+~
+door~
+Door 2 0 0 14173 30 30
+~
+door~
+End
+
+#14173
+Name The End of the Palace Hallway~
+Descr
+This is am immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway comes to an
+abrupt stop here, a guard is posted at the door to the south, and the hallway
+goes back north.
+~
+Flags 4
+Reset M 14036 1 100
+Reset O 14036 -1 100
+Movemess
+(null)~
+Door 0 0 0 14172 30 30
+~
+door~
+End
+
+#14174
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14168 30 30
+~
+door~
+Door 3 0 0 14175 30 30
+~
+door~
+End
+
+#14175
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14174 30 30
+~
+door~
+Door 2 0 0 14176 30 30
+~
+door~
+End
+
+#14176
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14175 30 30
+~
+door~
+Door 2 0 0 14177 30 30
+~
+door~
+End
+
+#14177
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14176 30 30
+~
+door~
+Door 2 0 0 14178 30 30
+~
+door~
+End
+
+#14178
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14177 30 30
+~
+door~
+Door 2 0 0 14179 30 30
+~
+door~
+End
+
+#14179
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14178 30 30
+~
+door~
+Door 2 0 0 14180 30 30
+~
+door~
+End
+
+#14180
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14179 30 30
+~
+door~
+Door 2 0 0 14181 30 30
+~
+door~
+End
+
+#14181
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and east.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14180 30 30
+~
+door~
+Door 1 0 0 14344 30 30
+~
+door~
+Door 2 0 0 14354 0 0
+~
+~
+Door 3 3 0 14394 80 80
+~
+door~
+End
+
+#14182
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14183 30 30
+~
+door~
+Door 3 0 0 14356 30 30
+~
+door~
+End
+
+#14183
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14193 0 0
+~
+~
+Door 2 0 0 14357 0 0
+~
+~
+Door 3 0 0 14182 30 30
+~
+door~
+End
+
+#14184
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14185 30 30
+~
+door~
+Door 3 0 0 14168 30 30
+~
+door~
+End
+
+#14185
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the west and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 2 0 0 14186 30 30
+~
+door~
+Door 3 0 0 14184 30 30
+~
+door~
+End
+
+#14186
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14185 30 30
+~
+door~
+Door 2 0 0 14187 30 30
+~
+door~
+End
+
+#14187
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14186 30 30
+~
+door~
+Door 2 0 0 14188 30 30
+~
+door~
+End
+
+#14188
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14187 30 30
+~
+door~
+Door 2 0 0 14189 30 30
+~
+door~
+End
+
+#14189
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14188 30 30
+~
+door~
+Door 2 0 0 14190 30 30
+~
+door~
+End
+
+#14190
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and south.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14189 30 30
+~
+door~
+Door 2 0 0 14191 30 30
+~
+door~
+End
+
+#14191
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the north and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14190 30 30
+~
+door~
+Door 1 3 0 14374 40 40
+~
+door~
+Door 2 0 0 14351 0 0
+~
+~
+Door 3 0 0 14348 30 30
+~
+door~
+End
+
+#14192
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+End
+
+#14193
+Name Within the Palace Hallways~
+Descr
+This is an immense hallway. It runs through the whole palace, and it is very
+clean and tidy. It looks as if this hallway is taken care of extra special.
+You can see maids and servants running around here, making sure everything
+is perfect in the palace, as to not upset the king. This hallway continues
+on to the east and west.
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 14353 0 0
+~
+~
+Door 3 0 0 14183 0 0
+~
+~
+End
+
+#14194
+Name The Throne of King Morodor~
+Descr
+This is the throne room of King Morodor. It is an extremely large room, it is
+covered with all kinds of decorations. On the walls are painting of all the
+previous kings, and in the center is a picture of King Morodor. There is a
+large throne here, which looks to be specially crafted for the king. There is
+a Large door to the north, which is the only exit out of this room.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 14342 0 0
+~
+~
+Door 1 0 0 14350 0 0
+~
+~
+Door 3 0 0 14346 0 0
+~
+~
+End
+
+#14195
+Name The Repair Shop of Gnargnoc~
+Descr
+This is the repair shop of Gnargnoc. This shop is rumored to be able to fix
+any kind of armor, no matter how damaged it is. There is an extremely old
+dwarven man sitting behind the counter here, repairing armors. The only exit
+out of this shop is to the west, from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14039 1 100
+Movemess
+(null)~
+Door 3 0 0 14040 30 30
+~
+door~
+End
+
+#14196
+Name Breslyn's Ribs and More~
+Descr
+This shop is fairly large, and it looks quite clean. As you enter this shop
+you almost get knocked over by the smell of ribs, and Breslyn's secret sauce.
+Breslyn stands behind a small counter in this shop, making more ribs to his
+customers satisfaction. The only exit out of this shop is to the east, from
+which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14038 1 100
+Reset O 14039 40 100
+Reset O 14038 40 1000
+Movemess
+(null)~
+Door 1 0 0 14040 30 30
+~
+door~
+End
+
+#14197
+Name The Great Hall of Magicks~
+Descr
+This is an extremely large hall, it is said that Bromir can teach anyone the
+studies of magic. All around this room are various magical symbols, and
+various ingridients to spells. Adorned on the walls are paintings of famous
+necromancers practicing the arts. In the middle of this room stand Bromir,
+ready to teach anyone who wants to learn, the art of magic. The only exit
+from this room is west, from which you just came.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 14163 30 30
+~
+(null)~
+End
+
+#14198
+Name Outside the Southern Gates of Gnargnoc~
+Descr
+You stand before some huge iron gates, to the west and east you can see a
+path covered in dirt and gravel.  To the north you can see a huge city, it
+looks very nice at night with all the liten lanterns.  
+~
+Door 0 0 0 14167 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#14200
+Name Lower Level Of The Mages Tower~
+Descr
+After climbing up the steep stairs and opening the trapdoor, you find
+yourself in a small chamber, which seems to continue to the north.  This
+chamber seems to be devoid of any dust and is suprisingly clean for a tower
+of its vintage.  Strange sounds seem to come an go overhead making you,
+wonder what could possibly be going on up there.  Every once in a while you
+hear a small explosion followed by a brief moment of silence.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14201 0 0
+~
+~
+Door 5 7 0 14054 30 30
+~
+trapdoor~
+End
+
+#14201
+Name Lower Level Of The Mage Tower~
+Descr
+Continuing along this chamber you begin to notice that this is more of a
+twisting hallway than a long chamber.  As you start to scan this area you
+notice another thing of intrest, that although there are no light sources
+this area is very well light.  A loud knocking sound can be heard up above
+on occasion.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14200 0 0
+~
+~
+Door 3 0 0 14202 0 0
+~
+~
+End
+
+#14202
+Name Lower Level Of The Mage Tower~
+Descr
+This hallway seems to be curling around itself as if it were some great
+snake.  The walls here seem to reach ten feet into the air before they are
+meet by the ceiling.  This part of the hallway is very bright and
+meticulously clean.  Great crashing sounds seem to occassionally rumble from
+above.  A strong sense of magic seems to follow through the walls here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14201 0 0
+~
+~
+Door 2 0 0 14203 0 0
+~
+~
+End
+
+#14203
+Name Lower Level Of The Mage Tower~
+Descr
+The hallway seems to end abruptly here followed by a sharp ascending
+stairs leading upward.  Loud noises can be heard even more clearly echoing
+down from the stairs above.  Lookid around this part of the room you notice
+that the room seems to radiate light from an unknown source it is almost
+magical.  A strange feeling seems to come over you here as if someone knows
+you here and can see your every move.   
+~
+Flags 4
+Sector 0
+Door 0 0 0 14202 0 0
+~
+~
+Door 4 0 0 14204 0 0
+~
+~
+End
+
+#14204
+Name Large Hallway~
+Descr
+A long blackened hallway seems to stretch out before you here.  The
+hallway seems to have an illustrious enamel coating the wall cause light to
+mirror and refract all around you.  The hallway seems to occasionally flash
+with brilliantly red, yellow, and orange hues.  In the distance you hear the
+chattering of people.  
+~
+Flags 4
+Sector 0
+Door 0 257 0 14205 80 80
+~
+falsewall~
+Door 1 0 0 14206 0 0
+~
+~
+Door 5 0 0 14203 0 0
+~
+~
+End
+
+#14205
+Name Small Apothecary~
+Descr
+After entering in to this room through the secret door, you find yourself
+amidst a pluthra of apothecary equiptment.  Everything seems roughly
+scattered about the room, even some of the flasks can be found lying on
+their sides partially leakinfg onto the ground..  F 
+~
+Flags 4
+Sector 0
+Reset M 14046 1 100
+Door 2 257 0 14204 80 80
+~
+falsewall~
+End
+
+#14206
+Name Large Hallway~
+Descr
+In the center of this hallway lies a circular staircase, extending
+through the ceiling.  Several novitiate mages are also wandering the halls,
+either talking or practicing the incantations for a spell.  Suddenly, a
+scream sounds from the far side of the hall, and a mage disappears in a
+flash of fire.  So much for the safeness of spells.  
+~
+Flags 4
+Sector 0
+Reset M 14046 5 84
+Door 3 0 0 14204 0 0
+~
+~
+Door 4 0 0 14207 0 0
+~
+~
+End
+
+#14207
+Name Mages' Training Grounds~
+Descr
+In these rooms, many more mages are practicing more advanced spells and
+incantations.  Occationally, there is a small battle of mages resulting in
+the demise of one of the competetors.  This would explain the lack of battle
+mages with low casting ability in the city. 
+~
+Flags 4
+Sector 0
+Reset M 14046 5 75
+Door 0 0 0 14208 0 0
+~
+~
+Door 5 0 0 14206 0 0
+~
+~
+End
+
+#14208
+Name Mages' Training Grounds~
+Descr
+In these rooms, many more mages are practicing more advanced spells and
+incantations.  Occationally, there is a small battle of mages resulting in
+the demise of one of the competetors.  This would explain the lack of battle
+mages with low casting ability in the city. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 14207 0 0
+~
+~
+Door 4 0 0 14209 0 0
+~
+~
+End
+
+#14209
+Name Huge Pulsating White Room~
+Descr
+Here is where Bromir, rumored to be the most powerful warlock in the
+known world, teaches those aspiring the the arts of magic.  The room itself
+seems to pulse magic energy and you feel enlightened, almost a part of the
+pure, concentrated magic.  
+~
+Flags 2097156
+Sector 0
+Reset M 14045 1 100
+Reset O 985 -1 1
+Door 5 0 0 14208 0 0
+~
+~
+End
+
+#14210
+Name North East Guard Tower~
+Descr
+~
+Flags 4
+Sector 0
+Door 5 0 0 14079 0 0
+~
+~
+End
+
+#14211
+Name South East Guard Tower~
+Descr
+~
+Flags 4
+Sector 0
+Door 5 0 0 14160 0 0
+~
+~
+End
+
+#14212
+Name South West Guard Tower~
+Descr
+~
+Flags 4
+Sector 0
+Door 5 0 0 14150 0 0
+~
+~
+End
+
+#14214
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Door 1 0 0 14009 0 0
+~
+~
+Door 3 0 0 14010 0 0
+~
+~
+End
+
+#14215
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Door 1 0 0 14019 0 0
+~
+~
+Door 3 0 0 14018 0 0
+~
+~
+End
+
+#14216
+Name A Dark Alleyway~
+Descr
+This alleyway is fairly large, and it looks as if it is used frequently. This
+part of town seems darker than the rest of Gnargnoc, it also seems dreary and
+dank. This part of town is rumored to be the bad part, where the dwarven
+thieves and other lowlifes hang out. This alley continues on to the east and
+west, stretching towards the city boundaries.
+~
+Door 1 0 0 14099 0 0
+~
+~
+Door 3 0 0 14098 0 0
+~
+~
+End
+
+#14217
+Name ~
+Descr
+~
+Door 1 0 0 14218 0 0
+~
+~
+Door 2 3 0 14310 75 75
+~
+door~
+Door 3 0 0 14106 0 0
+~
+~
+End
+
+#14218
+Name ~
+Descr
+~
+Door 1 0 0 14105 0 0
+~
+~
+Door 3 0 0 14217 0 0
+~
+~
+End
+
+#14219
+Name ~
+Descr
+~
+Door 1 0 0 14220 0 0
+~
+~
+Door 3 0 0 14125 0 0
+~
+~
+End
+
+#14220
+Name ~
+Descr
+~
+Door 1 0 0 14124 0 0
+~
+~
+Door 3 0 0 14219 0 0
+~
+~
+End
+
+#14221
+Name ~
+Descr
+~
+Door 1 0 0 14133 0 0
+~
+~
+Door 3 0 0 14222 0 0
+~
+~
+End
+
+#14222
+Name ~
+Descr
+~
+Door 1 0 0 14221 0 0
+~
+~
+Door 3 0 0 14132 0 0
+~
+~
+End
+
+#14223
+Name ~
+Descr
+~
+Door 1 0 0 14157 0 0
+~
+~
+Door 3 0 0 14224 0 0
+~
+~
+End
+
+#14224
+Name ~
+Descr
+~
+Door 1 0 0 14223 0 0
+~
+~
+Door 3 0 0 14156 0 0
+~
+~
+End
+
+#14227
+Name ~
+Descr
+~
+Door 1 0 0 14228 0 0
+~
+~
+Door 3 0 0 14147 0 0
+~
+~
+End
+
+#14228
+Name ~
+Descr
+~
+Door 1 0 0 14146 0 0
+~
+~
+Door 3 0 0 14227 0 0
+~
+~
+End
+
+#14229
+Name Within A Shady Pub~
+Descr
+After entering the small pub, your party begins walking around the bar,
+carefully glancing at the patrons before you decide to order.  Summoning up
+the courage to approach the gruff looking bartender, you step up to the bar.
+~
+Flags 4
+Sector 0
+Door 0 0 0 14233 0 0
+~
+~
+Door 3 0 0 14112 0 0
+~
+~
+End
+
+#14230
+Name Within A Shady Pub~
+Descr
+Walking through the drunken dwarves loudly singing proud songs of war
+over mugs of stout ale, you carefully navigate your way to an open table,
+being sure to avoid tripping over one of the drunken mercenaries or
+offending them in anyway.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14231 0 0
+~
+~
+Door 1 0 0 14112 0 0
+~
+~
+End
+
+#14231
+Name Within A Shady Pub~
+Descr
+Reaching an open table, your party draws up chairs and sits down to enjoy
+your ale.  This pub seems much more friendly now that you have begun to
+drink and you slowly relax.  Listening to the stout little mercenaries tell
+their tales of warfare, you are amused at the way they brag to each other.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14236 0 0
+~
+~
+Door 1 0 0 14232 0 0
+~
+~
+Door 2 0 0 14230 0 0
+~
+~
+End
+
+#14232
+Name Before A Large Bar~
+Descr
+Stepping up to the bar, you loudly thump your fist on its wooden surface
+and demand a stout ale from the stubby little barkeep.  He glares silently
+at you, then slowly proceeds to draw up a mug and charge you.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14235 0 0
+~
+~
+Door 1 0 0 14233 0 0
+~
+~
+Door 2 0 0 14112 0 0
+~
+~
+Door 3 0 0 14231 0 0
+~
+~
+End
+
+#14233
+Name Within A Shady Pub~
+Descr
+This appears to be the quietest room in the pub.  Glancing around you see
+some dwarves playing a quiet game you don't recognize, while at another
+table twwo dwarves whispering quietly to each other cease as they see you
+enter the room.  Although seemingly peaceful, you rapidly leave the room to
+baleful stares in your back.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14234 0 0
+~
+~
+Door 2 0 0 14229 0 0
+~
+~
+Door 3 0 0 14232 0 0
+~
+~
+End
+
+#14234
+Name Within A Shady Pub~
+Descr
+The most drunken of the dwarves apparently inhabit this back corner of
+the pub, for you can see many small bodies passed out on the floor.  Perhaps
+it is the constant hangovers they live with that make these dwarves so
+unsociable.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14233 0 0
+~
+~
+Door 3 0 0 14235 0 0
+~
+~
+End
+
+#14235
+Name Within A Shady Pub~
+Descr
+A small line of dwarves has formed here as they wait for their mugs to be
+refilled by the barkeep to the south.  Each seems eager to drink more and
+you doubt they will leave untill their gold is completely separated from
+them.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14234 0 0
+~
+~
+Door 2 0 0 14232 0 0
+~
+~
+Door 3 0 0 14236 0 0
+~
+~
+End
+
+#14236
+Name Within A Shady Pub~
+Descr
+You find yourself standing in the northwest corner of a small pub with a
+somewhat shady atmosphere.  Casually glancing around you see many drunken
+dwarves downing huge steins of dark ale.  You quickly resume watching your
+own party members as you catch one dwarf scowling threateningly at you.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14235 0 0
+~
+~
+Door 2 0 0 14231 0 0
+~
+~
+End
+
+#14237
+Name Great Golden Hall~
+Descr
+You are standing in a great hall constructed by the finest gold collected
+from the nearby dwarven mines.  The gold, enchanted by the great dwarven
+archmage Bromir, funnels magical energies into this room.  You can feel its
+magical effects course through your body as you watch old wounds begin to
+heal rapidly before your eyes.  
+~
+Flags 3145732
+Sector 0
+Door 2 0 0 14012 0 0
+~
+~
+Door 3 0 0 14021 0 0
+~
+~
+End
+
+#14238
+Name Just Inside The Church Of Valaya~
+Descr
+As you enter the church it becomes vastly open, it has cathedreal
+ceilings over 50 feet high.  There is a marble floor lined with quartz and
+obsidian giving it a blackish tiny just at the entrance.  The ceilings are
+made of some marble with white stone insets, ths sight of this place is
+amazing, only a great artist with great skill could have created a place
+this magnificint 
+~
+Flags 4
+Sector 0
+Door 0 0 0 14239 0 0
+~
+~
+Door 1 0 0 14259 0 0
+~
+~
+Door 2 3 0 14017 80 80
+~
+door~
+Door 3 0 0 14249 0 0
+~
+~
+End
+
+#14239
+Name Large Decorated Aisle~
+Descr
+This whole aisle along the huge rows of pews is a magnificint sight to
+see.  There is a huge red carpet running along the whole area of the aisle,
+it is decorated with brilliant colors as well as many types of gems.  There
+are huge candles lining each pew made of gold and diamond.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14240 0 0
+~
+~
+Door 1 0 0 14258 0 0
+~
+~
+Door 2 0 0 14238 0 0
+~
+~
+Door 3 0 0 14248 0 0
+~
+~
+End
+
+#14240
+Name Large Decorated Aisle~
+Descr
+This whole aisle along the huge rows of pews is a magnificint sight to
+see.  There is a huge red carpet running along the whole area of the aisle,
+it is decorated with brilliant colors as well as many types of gems.  There
+are huge candles lining each pew made of gold and diamond.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14241 0 0
+~
+~
+Door 1 0 0 14257 0 0
+~
+~
+Door 2 0 0 14239 0 0
+~
+~
+Door 3 0 0 14247 0 0
+~
+~
+End
+
+#14241
+Name Large Decorated Aisle~
+Descr
+This whole aisle along the huge rows of pews is a magnificint sight to
+see.  There is a huge red carpet running along the whole area of the aisle,
+it is decorated with brilliant colors as well as many types of gems.  There
+are huge candles lining each pew made of gold and diamond.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14242 0 0
+~
+~
+Door 1 0 0 14256 0 0
+~
+~
+Door 2 0 0 14240 0 0
+~
+~
+Door 3 0 0 14246 0 0
+~
+~
+End
+
+#14242
+Name Large Decorated Aisle~
+Descr
+This whole aisle along the huge rows of pews is a magnificint sight to
+see.  There is a huge red carpet running along the whole area of the aisle,
+it is decorated with brilliant colors as well as many types of gems.  There
+are huge candles lining each pew made of gold and diamond.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14243 0 0
+~
+~
+Door 1 0 0 14255 0 0
+~
+~
+Door 2 0 0 14241 0 0
+~
+~
+Door 3 0 0 14245 0 0
+~
+~
+End
+
+#14243
+Name Before A Large Altar~
+Descr
+This room is a praying room of the healer Galadriel, He is one of the
+most powerful healers known to the world.  This private room of Galadriel
+was once a major healing spot of the Xylarians during the Holocost.  It is
+still used today by Galadriel himself, as well as to teach any priests that
+want to follow in his footsteps.  
+~
+Flags 2097156
+Sector 0
+Reset M 14032 1 100
+Reset O 14025 4 1
+Reset M 14033 10 100
+Reset M 14033 10 100
+Door 1 0 0 14254 0 0
+~
+~
+Door 2 0 0 14242 0 0
+~
+~
+Door 3 0 0 14244 0 0
+~
+~
+End
+
+#14244
+Name Before A Large Altar~
+Descr
+This altar room was used as a side healing area by Galadriel.  The many
+wounded Xylarians that suffered through the Holocust came to these altars to
+be healed and protected from the violence of the world, but many few of them
+survived.  The altars are becomming very dusty because they have not been
+used in years, but if there is ever any violence in the world these altars
+will be used once more.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14243 0 0
+~
+~
+Door 2 0 0 14245 0 0
+~
+~
+End
+
+#14245
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14244 0 0
+~
+~
+Door 1 0 0 14242 0 0
+~
+~
+Door 2 0 0 14246 0 0
+~
+~
+Door 3 0 0 14250 0 0
+~
+~
+End
+
+#14246
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14245 0 0
+~
+~
+Door 1 0 0 14241 0 0
+~
+~
+Door 2 0 0 14247 0 0
+~
+~
+Door 3 0 0 14251 0 0
+~
+~
+End
+
+#14247
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14246 0 0
+~
+~
+Door 1 0 0 14240 0 0
+~
+~
+Door 2 0 0 14248 0 0
+~
+~
+Door 3 0 0 14252 0 0
+~
+~
+End
+
+#14248
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14247 0 0
+~
+~
+Door 1 0 0 14239 0 0
+~
+~
+Door 2 0 0 14249 0 0
+~
+~
+Door 3 0 0 14253 0 0
+~
+~
+End
+
+#14249
+Name Just Inside The Church Of Valaya~
+Descr
+As you enter the church it becomes vastly open, it has cathedreal
+ceilings over 50 feet high.  There is a marble floor lined with quartz and
+obsidian giving it a blackish tiny just at the entrance.  The ceilings are
+made of some marble with white stone insets, ths sight of this place is
+amazing, only a great artist with great skill could have created a place
+this magnificint 
+~
+Flags 4
+Sector 0
+Door 0 0 0 14248 0 0
+~
+~
+Door 1 0 0 14238 0 0
+~
+~
+End
+
+#14250
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14245 0 0
+~
+~
+Door 2 0 0 14251 0 0
+~
+~
+End
+
+#14251
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14250 0 0
+~
+~
+Door 1 0 0 14246 0 0
+~
+~
+Door 2 0 0 14252 0 0
+~
+~
+End
+
+#14252
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14251 0 0
+~
+~
+Door 1 0 0 14247 0 0
+~
+~
+Door 2 0 0 14253 0 0
+~
+~
+End
+
+#14253
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14252 0 0
+~
+~
+Door 1 0 0 14248 0 0
+~
+~
+End
+
+#14254
+Name Before A Large Altar~
+Descr
+This altar room was used as a side healing area by Galadriel.  The many
+wounded Xylarians that suffered through the Holocust came to these altars to
+be healed and protected from the violence of the world, but many few of them
+survived.  The altars are becomming very dusty because they have not been
+used in years, but if there is ever any violence in the world these altars
+will be used once more.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14255 0 0
+~
+~
+Door 3 0 0 14243 0 0
+~
+~
+End
+
+#14255
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14254 0 0
+~
+~
+Door 1 0 0 14260 0 0
+~
+~
+Door 2 0 0 14256 0 0
+~
+~
+Door 3 0 0 14242 0 0
+~
+~
+End
+
+#14256
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14255 0 0
+~
+~
+Door 1 0 0 14261 0 0
+~
+~
+Door 2 0 0 14257 0 0
+~
+~
+Door 3 0 0 14241 0 0
+~
+~
+End
+
+#14257
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14256 0 0
+~
+~
+Door 1 0 0 14262 0 0
+~
+~
+Door 2 0 0 14258 0 0
+~
+~
+Door 3 0 0 14240 0 0
+~
+~
+End
+
+#14258
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14257 0 0
+~
+~
+Door 1 0 0 14263 0 0
+~
+~
+Door 2 0 0 14259 0 0
+~
+~
+Door 3 0 0 14239 0 0
+~
+~
+End
+
+#14259
+Name Just Inside The Church Of Valaya~
+Descr
+As you enter the church it becomes vastly open, it has cathedreal
+ceilings over 50 feet high.  There is a marble floor lined with quartz and
+obsidian giving it a blackish tiny just at the entrance.  The ceilings are
+made of some marble with white stone insets, ths sight of this place is
+amazing, only a great artist with great skill could have created a place
+this magnificint 
+~
+Flags 4
+Sector 0
+Door 0 0 0 14258 0 0
+~
+~
+Door 3 0 0 14238 0 0
+~
+~
+End
+
+#14260
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14261 0 0
+~
+~
+Door 3 0 0 14255 0 0
+~
+~
+End
+
+#14261
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14260 0 0
+~
+~
+Door 2 0 0 14262 0 0
+~
+~
+Door 3 0 0 14256 0 0
+~
+~
+End
+
+#14262
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14261 0 0
+~
+~
+Door 2 0 0 14263 0 0
+~
+~
+Door 3 0 0 14257 0 0
+~
+~
+End
+
+#14263
+Name A Row Of Pews~
+Descr
+Inside this area of the temple pews line the whole area.  They are made
+of huge oak and are gleaming with magical power.  This whole area shows a
+sign of peace and stability.  There are many clerics and priests praying in
+the pews, as well as the great Galadriel preaching in the northern part of
+the temple.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14262 0 0
+~
+~
+Door 3 0 0 14258 0 0
+~
+~
+End
+
+#14264
+Name Entrance To The Great Hall Of Miners~
+Descr
+Entering into the Great Hall of Miners, you gaze in awe around you at all
+the gems inlaid in the gold walls.  Obviously much of the wealth from the
+dwarven mines lays in this building, decorating it so the miners will feel
+at home when they come here to rest from their longs months in the mines.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 14266 0 0
+~
+~
+Door 2 3 0 14009 80 80
+~
+door~
+End
+
+#14265
+Name Great Hall Of Miners~
+Descr
+Several dwarven miners are currently in this room, gambling away their
+wages as they play cards here.  You start to ask them if you may join, then
+decide it would probably be wiser if you didn't intrude on their game,
+unless they ask you to join.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14268 0 0
+~
+~
+Door 1 0 0 14266 0 0
+~
+~
+End
+
+#14266
+Name Great Hall Of Miners~
+Descr
+All around you there are dirty miners lounging on benches while they wait
+to clean up and go visit their families.  You wonder by the amounts of dirt
+on them how long it's been since they were in civilization.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14269 0 0
+~
+~
+Door 1 0 0 14267 0 0
+~
+~
+Door 2 0 0 14264 0 0
+~
+~
+Door 3 0 0 14265 0 0
+~
+~
+End
+
+#14267
+Name Great Hall Of Miners~
+Descr
+A line of miners stands here, waiting to collect their pay for the long
+months they have spent in the mines.  They slowly file to the north as the
+paymaster disributes their wages.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14270 0 0
+~
+~
+Door 3 0 0 14266 0 0
+~
+~
+End
+
+#14268
+Name Great Hall Of Miners~
+Descr
+Here you see a provisionary room stocked with bedrolls and packs for new
+miners to purchase before they head off to the mines for the first time. 
+All the items are stacked in neat rows and seem to be very high quality as
+well.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14276 0 0
+~
+~
+Door 1 0 0 14269 0 0
+~
+~
+Door 2 0 0 14265 0 0
+~
+~
+End
+
+#14269
+Name Great Hall Of Miners~
+Descr
+This room appears to be a sort of repair area.  There are a couple of
+dwarves looking over broken tools, trying to repair them.  Occasionally
+shaking their heads, they throw irrepairable tools on an ever growing pile. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 14277 0 0
+~
+~
+Door 1 0 0 14270 0 0
+~
+~
+Door 2 0 0 14266 0 0
+~
+~
+Door 3 0 0 14268 0 0
+~
+~
+End
+
+#14270
+Name Great Hall Of Miners~
+Descr
+A paymaster stands here, slowly distributing wages to the miners as they
+file by him.  He seems to know them all by name and has a question about
+each man's family to ask, and an encouraging word to offer them.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14278 0 0
+~
+~
+Door 1 0 0 14271 0 0
+~
+~
+Door 2 0 0 14267 0 0
+~
+~
+Door 3 0 0 14269 0 0
+~
+~
+End
+
+#14271
+Name Great Hall Of Miners~
+Descr
+Still more items are scattered around this room, you can see mainly packs
+and bedrolls here.  A few personaly belongings also lie around, but you
+don't think it would be wise to annoy these stout litle miners by searching
+through their things.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14279 0 0
+~
+~
+Door 1 0 0 14272 0 0
+~
+~
+Door 3 0 0 14270 0 0
+~
+~
+End
+
+#14272
+Name Great Hall Of Miners~
+Descr
+Here you can see more personal belongings of the miners laying around,
+scattered packs of clothes and food lay on the floor here.  For all their
+normal neatness, these dwarves have left quite a mess here.  
+~
+Flags 4
+Sector 0
+Reset M 14051 99 100
+Reset O 14043 -1 77
+Door 0 0 0 14280 0 0
+~
+~
+Door 1 0 0 14273 0 0
+~
+~
+Door 3 0 0 14271 0 0
+~
+~
+End
+
+#14273
+Name Great Hall Of Miners~
+Descr
+This seems to be at least one of the rooms where the miners have dropped
+of their tools before they begin to relax.  You can see tools scattered all
+around the room, from shovels to pickaxes, all are well worn and look
+ancient.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14281 0 0
+~
+~
+Door 1 0 0 14274 0 0
+~
+~
+Door 3 0 0 14272 0 0
+~
+~
+End
+
+#14274
+Name Great Hall Of Miners~
+Descr
+In this corner of the great hall, more miners are relaxing and conversing
+with each other before they return to their homes.  These dwarves almost
+seem jolly and you assume it's because they finally get to see their
+families again.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14282 0 0
+~
+~
+Door 3 0 0 14273 0 0
+~
+~
+End
+
+#14275
+Name Entrance To Great Hall Of Miners~
+Descr
+Entering into the Great Hall of Miners, you gaze in awe around you at all
+the gems inlaid in the gold walls.  Obviously much of the wealth from the
+dwarven mines lays in this building, decorating it so the miners will feel
+at home when they come here to rest from their longs months in the mines.  
+~
+Flags 6
+Sector 0
+Door 1 0 0 14276 0 0
+~
+~
+Door 3 3 0 14058 80 80
+~
+door~
+End
+
+#14276
+Name Great Hall Of Miners~
+Descr
+All around you there are dirty miners lounging on benches while they wait
+to clean up and go visit their families.  Covered in dirt and smelling
+musty, miners glance up at you as you hasten by them on your way to the
+interior of the great hall.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14284 0 0
+~
+~
+Door 1 0 0 14277 0 0
+~
+~
+Door 2 0 0 14268 0 0
+~
+~
+Door 3 0 0 14275 0 0
+~
+~
+End
+
+#14277
+Name Great Hall Of Miners~
+Descr
+Here lies the heart of this mining operation, the mines themselves.  You
+see glints of metals and gems reflecting the light of the miners as they
+work at their monotonous labor.  This is were all the money and raw
+materials that this city runs on come from.  Found in an ideal location, the
+city was built on top of the mines, and quickly spread to be a population
+center and a massive defensive city.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14285 0 0
+~
+~
+Door 1 0 0 14278 0 0
+~
+~
+Door 2 0 0 14269 0 0
+~
+~
+Door 3 0 0 14276 0 0
+~
+~
+End
+
+#14278
+Name Great Hall Of Miners~
+Descr
+Here lies the heart of this mining operation, the mines themselves.  You
+see glints of metals and gems reflecting the light of the miners as they
+work at their monotonous labor.  This is were all the money and raw
+materials that this city runs on come from.  Found in an ideal location, the
+city was built on top of the mines, and quickly spread to be a population
+center and a massive defensive city.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14286 0 0
+~
+~
+Door 1 0 0 14279 0 0
+~
+~
+Door 2 0 0 14270 0 0
+~
+~
+Door 3 0 0 14277 0 0
+~
+~
+End
+
+#14279
+Name Great Hall Of Miners~
+Descr
+Here lies the heart of this mining operation, the mines themselves.  You
+see glints of metals and gems reflecting the light of the miners as they
+work at their monotonous labor.  This is were all the money and raw
+materials that this city runs on come from.  Found in an ideal location, the
+city was built on top of the mines, and quickly spread to be a population
+center and a massive defensive city.  
+~
+Flags 4
+Sector 0
+Reset M 14051 99 100
+Door 0 0 0 14287 0 0
+~
+~
+Door 1 0 0 14280 0 0
+~
+~
+Door 2 0 0 14271 0 0
+~
+~
+Door 3 0 0 14278 0 0
+~
+~
+End
+
+#14280
+Name Great Hall Of Miners~
+Descr
+Here lies the heart of this mining operation, the mines themselves.  You
+see glints of metals and gems reflecting the light of the miners as they
+work at their monotonous labor.  This is were all the money and raw
+materials that this city runs on come from.  Found in an ideal location, the
+city was built on top of the mines, and quickly spread to be a population
+center and a massive defensive city.  
+~
+Flags 4
+Sector 0
+Reset M 14051 99 100
+Reset O 14043 -1 73
+Reset M 14051 99 100
+Reset O 14043 -1 78
+Reset M 14051 99 100
+Reset O 14043 -1 67
+Door 0 0 0 14288 0 0
+~
+~
+Door 1 0 0 14281 0 0
+~
+~
+Door 2 0 0 14272 0 0
+~
+~
+Door 3 0 0 14279 0 0
+~
+~
+End
+
+#14281
+Name Great Hall Of Miners~
+Descr
+Here lies the heart of this mining operation, the mines themselves.  You
+see glints of metals and gems reflecting the light of the miners as they
+work at their monotonous labor.  This is were all the money and raw
+materials that this city runs on come from.  Found in an ideal location, the
+city was built on top of the mines, and quickly spread to be a population
+center and a massive defensive city.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14289 0 0
+~
+~
+Door 1 0 0 14282 0 0
+~
+~
+Door 2 0 0 14273 0 0
+~
+~
+Door 3 0 0 14280 0 0
+~
+~
+End
+
+#14282
+Name Great Hall Of Miners~
+Descr
+All around you there are dirty miners lounging on benches while they wait
+to clean up and go visit their families.  You wonder how long it has been
+since they've seen civilization, by the dirt encrusted on their bodies
+you're sure it has been a while.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14290 0 0
+~
+~
+Door 1 0 0 14283 0 0
+~
+~
+Door 2 0 0 14274 0 0
+~
+~
+Door 3 0 0 14281 0 0
+~
+~
+End
+
+#14283
+Name Entrace To The Great Hall Of Miners~
+Descr
+Entering into the Great Hall of Miners, you gaze in awe around you at all
+the gems inlaid in the gold walls.  Obviously much of the wealth from the
+dwarven mines lays in this building, decorating it so the miners will feel
+at home when they come here to rest from their longs months in the mines.  
+~
+Flags 6
+Sector 0
+Door 1 3 0 14024 80 80
+~
+door~
+Door 3 0 0 14282 0 0
+~
+~
+End
+
+#14284
+Name Great Hall Of Miners~
+Descr
+Many haggard looking miners are leaning against the walls, or sitting on
+benches here, as they wait for doctors to check over the various injuries
+they have incurred while in the mines.  The doctor rapidly bandages them up,
+then motions for them to be gone so he can get on with his work.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14291 0 0
+~
+~
+Door 1 0 0 14285 0 0
+~
+~
+Door 2 0 0 14276 0 0
+~
+~
+End
+
+#14285
+Name Great Hall Of Miners~
+Descr
+All around you there are dirty miners lounging on benches while they wait
+to clean up and go visit their families.  From the look of the dirt covering
+their bodies, you realize that these miners have been in the mines for
+months.  You wonder how they can work that long away from home and what it
+is that keeps them going.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14292 0 0
+~
+~
+Door 1 0 0 14286 0 0
+~
+~
+Door 2 0 0 14277 0 0
+~
+~
+Door 3 0 0 14284 0 0
+~
+~
+End
+
+#14286
+Name Great Hall Of Miners~
+Descr
+In the back corner of this room, a couple of miners have curled up in
+their bedrolls and gone to sleep.  They are oblivious to your entry, and
+continue to snore loudly while you pass through the room.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14293 0 0
+~
+~
+Door 1 0 0 14287 0 0
+~
+~
+Door 2 0 0 14278 0 0
+~
+~
+Door 3 0 0 14285 0 0
+~
+~
+End
+
+#14287
+Name Great Hall Of Miners~
+Descr
+In the back corner of this room, a couple of miners have curled up in
+their bedrolls and gone to sleep.  They are oblivious to your entry, and
+continue to snore loudly while you pass through the room.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14288 0 0
+~
+~
+Door 2 0 0 14279 0 0
+~
+~
+Door 3 0 0 14286 0 0
+~
+~
+End
+
+#14288
+Name Great Hall Of Miners~
+Descr
+Miners filing out of the baths to the east are converging here to talk
+the foreman and find out when they must return to the mines.  After he
+informs them, they quickly scatter to other parts of the great hall to relax
+and converse with each other before returning to their homes.  
+~
+Flags 4
+Sector 0
+Reset M 14052 2 100
+Reset M 14052 2 100
+Reset M 14050 1 100
+Door 1 0 0 14289 0 0
+~
+~
+Door 2 0 0 14280 0 0
+~
+~
+Door 3 0 0 14287 0 0
+~
+~
+End
+
+#14289
+Name Great Hall Of Miners~
+Descr
+Here you can see the dirty miners enter a door to the north, while clean
+miners are filing out.  You can surmise that this is where the baths lay so
+that the miners my clean up before they return home, but you are not allowed
+inside.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14290 0 0
+~
+~
+Door 2 0 0 14281 0 0
+~
+~
+Door 3 0 0 14288 0 0
+~
+~
+End
+
+#14290
+Name Great Hall of Miners~
+Descr
+About fifteen miners are lounging in the corner here, busy talking to one
+another and just relaxing from their recent stint of labor in the mines.  As
+you watch some leave to visit their families, while others who have just
+gotten cleaned up take their places in the conversations.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14282 0 0
+~
+~
+Door 3 0 0 14289 0 0
+~
+~
+End
+
+#14291
+Name Great Hall Of Miners~
+Descr
+Here in the corner of this great hall a few of the dwarves have gathered
+to play cards while they wait for their payment to be delivered.  They
+casually talk about the time spent in the mines and how long of a break they
+have.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14292 0 0
+~
+~
+Door 2 0 0 14284 0 0
+~
+~
+End
+
+#14292
+Name Great Hall Of Miners~
+Descr
+All around you there are dirty miners lounging on benches while they wait
+to clean up and go visit their families.  From the look of the dirt covering
+their bodies, you realize that these miners have been in the mines for
+months.  You wonder how they can work that long away from home and what it
+is that keeps them going.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 14294 0 0
+~
+~
+Door 1 0 0 14293 0 0
+~
+~
+Door 2 0 0 14285 0 0
+~
+~
+Door 3 0 0 14291 0 0
+~
+~
+End
+
+#14293
+Name Great Hall Of Miners~
+Descr
+In this room, you can see new tools neatly stacked along the walls,
+waiting to replace broken tools that the miners have brought back with them.
+A lone dwarf sits here, waiting to hand them out to needy miners.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 14286 0 0
+~
+~
+Door 3 0 0 14292 0 0
+~
+~
+End
+
+#14294
+Name Entrance To The Great Hall Of Miners~
+Descr
+Entering into the Great Hall of Miners, you gaze in awe around you at all
+the gems inlaid in the gold walls.  Obviously much of the wealth from the
+dwarven mines lays in this building, decorating it so the miners will feel
+at home when they come here to rest from their longs months in the mines.  
+~
+Flags 6
+Sector 0
+Door 0 3 0 14050 80 80
+~
+door~
+Door 2 0 0 14292 0 0
+~
+~
+End
+
+#14295
+Name Inside the Hall~
+Descr
+Here and there you see men milling about, either taking a break or
+waiting for their instruction.  You also see men fighting with wooden swords
+and long poles.  Having only heard of the Xylarian massacre, you are sure
+that if these preperations had been taken, it never would have happened.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 14165 0 0
+~
+~
+Door 2 0 0 14162 0 0
+~
+~
+End
+
+#14296
+Name A Small Fighting Ring~
+Descr
+At this point in the hall, there seems to be a staff fight going on.  One
+of the combatents is drasticly overmatched with the other, and almost seems
+to be casually deflecting every blow aimed at him.  From the crowd you
+quickly learn why.  He is Tritor, the savior of the race of good, defender
+of right.  It was he that fought back the forces of evil from Xylar and led
+the people of good to Gnargnoc.  
+~
+Flags 4
+Sector 0
+Reset M 14047 1 100
+Reset M 14048 1 100
+Door 0 0 0 14162 0 0
+~
+~
+Door 1 0 0 14164 0 0
+~
+~
+End
+
+#14297
+Name Uninviting Alleyway~
+Descr
+~
+Door 0 0 0 14298 0 0
+~
+~
+Door 2 0 0 14105 0 0
+~
+~
+End
+
+#14298
+Name Uninviting Alleyway~
+Descr
+~
+Door 2 0 0 14297 0 0
+~
+~
+Door 3 0 0 14299 0 0
+~
+~
+End
+
+#14299
+Name Uninviting Alleyway~
+Descr
+~
+Door 1 0 0 14298 0 0
+~
+~
+Door 3 0 0 14300 0 0
+~
+~
+End
+
+#14300
+Name Uninviting Alleyway~
+Descr
+~
+Door 0 0 0 14301 0 0
+~
+~
+Door 1 0 0 14299 0 0
+~
+~
+End
+
+#14301
+Name Uninviting Alleyway~
+Descr
+~
+Door 1 0 0 14302 0 0
+~
+~
+Door 2 0 0 14300 0 0
+~
+~
+End
+
+#14302
+Name Uninviting Alleyway~
+Descr
+~
+Door 1 0 0 14303 0 0
+~
+~
+Door 3 0 0 14301 0 0
+~
+~
+End
+
+#14303
+Name Uninviting Alleyway~
+Descr
+~
+Door 1 0 0 14304 0 0
+~
+~
+Door 3 0 0 14302 0 0
+~
+~
+End
+
+#14304
+Name Uninviting Alleyway~
+Descr
+~
+Door 1 0 0 14305 0 0
+~
+~
+Door 3 0 0 14303 0 0
+~
+~
+End
+
+#14305
+Name Uninviting Alleyway~
+Descr
+~
+Door 2 3 0 14306 30 30
+~
+door~
+Door 3 0 0 14304 0 0
+~
+~
+End
+
+#14306
+Name Small Hideout~
+Descr
+~
+Door 0 3 0 14305 30 30
+~
+door~
+Door 1 0 0 14309 0 0
+~
+~
+Door 2 0 0 14307 0 0
+~
+~
+End
+
+#14307
+Name Small Hideout~
+Descr
+~
+Door 0 0 0 14306 0 0
+~
+~
+Door 1 0 0 14308 0 0
+~
+~
+End
+
+#14308
+Name Small Hideout~
+Descr
+~
+Door 0 0 0 14309 0 0
+~
+~
+Door 3 0 0 14307 0 0
+~
+~
+End
+
+#14309
+Name Small Hideout~
+Descr
+~
+Door 2 0 0 14308 0 0
+~
+~
+Door 3 0 0 14306 0 0
+~
+~
+End
+
+#14310
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 3 0 14217 75 75
+~
+door~
+End
+
+#14311
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 3 0 14101 80 80
+~
+door~
+Door 4 0 0 14312 0 0
+~
+~
+End
+
+#14312
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14313 0 0
+~
+~
+Door 3 0 0 14314 0 0
+~
+~
+Door 5 0 0 14311 0 0
+~
+~
+End
+
+#14313
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14312 0 0
+~
+~
+End
+
+#14314
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14312 0 0
+~
+~
+Door 4 259 0 14315 80 80
+~
+attic~
+End
+
+#14315
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 5 3 0 14314 80 80
+~
+attic~
+End
+
+#14316
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 3 0 14123 80 80
+~
+door~
+End
+
+#14317
+Name ~
+Descr
+Entering this small dwarven cottage, you are suprised at how small it is.
+You can see a bed lying on the floor in the corner, and a table with some
+chairs takes up the center of the room.  
+~
+Flags 4
+Sector 0
+Door 2 3 0 14132 80 80
+~
+door~
+End
+
+#14318
+Name Thales crappy room~
+Descr
+This room is filled with thales crappy shit, you want to run screaming
+from this place when you enter.  You can only hope that the pictures of
+prophits burning soul hanging on the walls won't haunt your dreams for the
+rest of your life.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 14094 80 80
+~
+door~
+End
+
+#14319
+Name ~
+Descr
+You are standing inside the small, yet neatly furnished house of a
+dwarven family.  You can see the table is neatly carved and laid out with
+fine dishes, possibly to welcome home one of the returning miners.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 14099 80 80
+~
+~
+End
+
+#14320
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14323 0 0
+~
+~
+Door 1 0 0 14321 0 0
+~
+~
+Door 2 3 0 14155 80 80
+~
+door~
+End
+
+#14321
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14324 0 0
+~
+~
+Door 1 0 0 14322 0 0
+~
+~
+Door 3 0 0 14320 0 0
+~
+~
+End
+
+#14322
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14325 0 0
+~
+~
+Door 3 0 0 14321 0 0
+~
+~
+End
+
+#14323
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14324 0 0
+~
+~
+Door 2 0 0 14320 0 0
+~
+~
+End
+
+#14324
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14325 0 0
+~
+~
+Door 2 0 0 14321 0 0
+~
+~
+Door 3 0 0 14323 0 0
+~
+~
+End
+
+#14325
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14322 0 0
+~
+~
+Door 3 0 0 14324 0 0
+~
+~
+End
+
+#14326
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14329 0 0
+~
+~
+Door 1 0 0 14327 0 0
+~
+~
+Door 2 3 0 14151 80 80
+~
+door~
+End
+
+#14327
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14328 0 0
+~
+~
+Door 3 0 0 14326 0 0
+~
+~
+End
+
+#14328
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14329 0 0
+~
+~
+Door 2 0 0 14327 0 0
+~
+~
+End
+
+#14329
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14326 0 0
+~
+~
+Door 3 0 0 14328 0 0
+~
+~
+End
+
+#14330
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14333 0 0
+~
+~
+Door 2 3 0 14141 80 80
+~
+door~
+Door 3 0 0 14331 0 0
+~
+~
+End
+
+#14331
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14332 0 0
+~
+~
+Door 1 0 0 14330 0 0
+~
+~
+End
+
+#14332
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14333 0 0
+~
+~
+Door 2 0 0 14331 0 0
+~
+~
+End
+
+#14333
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14330 0 0
+~
+~
+Door 3 0 0 14332 0 0
+~
+~
+End
+
+#14334
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14339 0 0
+~
+~
+Door 2 3 0 14145 80 80
+~
+door~
+Door 3 0 0 14335 0 0
+~
+~
+End
+
+#14335
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14338 0 0
+~
+~
+Door 1 0 0 14334 0 0
+~
+~
+Door 3 0 0 14336 0 0
+~
+~
+End
+
+#14336
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14337 0 0
+~
+~
+Door 1 0 0 14335 0 0
+~
+~
+End
+
+#14337
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14338 0 0
+~
+~
+Door 2 0 0 14336 0 0
+~
+~
+End
+
+#14338
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14339 0 0
+~
+~
+Door 2 0 0 14335 0 0
+~
+~
+Door 3 0 0 14337 0 0
+~
+~
+End
+
+#14339
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14334 0 0
+~
+~
+Door 3 0 0 14338 0 0
+~
+~
+End
+
+#14340
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14173 0 0
+~
+~
+Door 1 0 0 14347 0 0
+~
+~
+Door 2 0 0 14341 0 0
+~
+~
+Door 3 0 0 14343 0 0
+~
+~
+End
+
+#14341
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14340 0 0
+~
+~
+Door 1 0 0 14348 0 0
+~
+~
+Door 2 0 0 14342 0 0
+~
+~
+Door 3 0 0 14344 0 0
+~
+~
+End
+
+#14342
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14341 0 0
+~
+~
+Door 1 0 0 14349 0 0
+~
+~
+Door 2 0 0 14194 0 0
+~
+~
+Door 3 0 0 14345 0 0
+~
+~
+End
+
+#14343
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14340 0 0
+~
+~
+Door 2 0 0 14344 0 0
+~
+~
+End
+
+#14344
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14343 0 0
+~
+~
+Door 1 0 0 14341 0 0
+~
+~
+Door 2 0 0 14345 0 0
+~
+~
+Door 3 0 0 14181 0 0
+~
+~
+End
+
+#14345
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14344 0 0
+~
+~
+Door 1 0 0 14342 0 0
+~
+~
+Door 2 0 0 14346 0 0
+~
+~
+End
+
+#14346
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14345 0 0
+~
+~
+Door 1 0 0 14194 0 0
+~
+~
+End
+
+#14347
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14348 0 0
+~
+~
+Door 3 0 0 14340 0 0
+~
+~
+End
+
+#14348
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14347 0 0
+~
+~
+Door 1 0 0 14191 0 0
+~
+~
+Door 2 0 0 14349 0 0
+~
+~
+Door 3 0 0 14341 0 0
+~
+~
+End
+
+#14349
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14348 0 0
+~
+~
+Door 2 0 0 14350 0 0
+~
+~
+Door 3 0 0 14342 0 0
+~
+~
+End
+
+#14350
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14349 0 0
+~
+~
+Door 3 0 0 14194 0 0
+~
+~
+End
+
+#14351
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14191 0 0
+~
+~
+Door 2 0 0 14352 0 0
+~
+~
+End
+
+#14352
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14351 0 0
+~
+~
+Door 2 0 0 14353 0 0
+~
+~
+End
+
+#14353
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14352 0 0
+~
+~
+Door 3 0 0 14193 0 0
+~
+~
+End
+
+#14354
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14181 0 0
+~
+~
+Door 2 0 0 14355 0 0
+~
+~
+End
+
+#14355
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14354 0 0
+~
+~
+Door 2 0 0 14356 0 0
+~
+~
+End
+
+#14356
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14355 0 0
+~
+~
+Door 1 0 0 14182 0 0
+~
+~
+End
+
+#14357
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14183 0 0
+~
+~
+Door 2 0 0 14358 0 0
+~
+~
+End
+
+#14358
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14357 0 0
+~
+~
+Door 1 3 0 14369 80 80
+~
+door~
+Door 2 0 0 14359 0 0
+~
+~
+Door 3 3 0 14364 80 80
+~
+door~
+End
+
+#14359
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14358 0 0
+~
+~
+Door 1 3 0 14370 80 80
+~
+door~
+Door 2 0 0 14360 0 0
+~
+~
+Door 3 3 0 14365 80 80
+~
+door~
+End
+
+#14360
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14359 0 0
+~
+~
+Door 2 3 0 14361 80 80
+~
+Iron door~
+End
+
+#14361
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 3 0 14360 80 80
+~
+iron door~
+Door 1 0 0 14371 0 0
+~
+~
+Door 2 0 0 14362 0 0
+~
+~
+Door 3 0 0 14366 0 0
+~
+~
+End
+
+#14362
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Reset O 14499 -5 100
+Door 0 0 0 14361 0 0
+~
+~
+Door 1 0 0 14372 0 0
+~
+~
+Door 2 0 0 14363 0 0
+~
+~
+Door 3 0 0 14367 0 0
+~
+~
+End
+
+#14363
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14362 0 0
+~
+~
+Door 1 0 0 14373 0 0
+~
+~
+Door 3 0 0 14368 0 0
+~
+~
+End
+
+#14364
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 3 0 14358 80 80
+~
+door~
+End
+
+#14365
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 3 0 14359 80 80
+~
+door~
+End
+
+#14366
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14361 0 0
+~
+~
+Door 2 0 0 14367 0 0
+~
+~
+End
+
+#14367
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14366 0 0
+~
+~
+Door 1 0 0 14362 0 0
+~
+~
+Door 2 0 0 14368 0 0
+~
+~
+End
+
+#14368
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14367 0 0
+~
+~
+Door 1 0 0 14363 0 0
+~
+~
+End
+
+#14369
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 3 1 0 14358 80 80
+~
+door~
+End
+
+#14370
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 3 3 0 14359 80 80
+~
+door~
+End
+
+#14371
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14372 0 0
+~
+~
+Door 3 0 0 14361 0 0
+~
+~
+End
+
+#14372
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14371 0 0
+~
+~
+Door 2 0 0 14373 0 0
+~
+~
+Door 3 0 0 14362 0 0
+~
+~
+End
+
+#14373
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14372 0 0
+~
+~
+Door 3 0 0 14363 0 0
+~
+~
+End
+
+#14374
+Name ~
+Descr
+~
+Door 0 0 0 14379 0 0
+~
+~
+Door 1 0 0 14375 0 0
+~
+~
+Door 2 0 0 14384 0 0
+~
+~
+Door 3 3 0 14191 40 40
+~
+door~
+End
+
+#14375
+Name ~
+Descr
+~
+Door 0 0 0 14380 0 0
+~
+~
+Door 1 0 0 14376 0 0
+~
+~
+Door 2 0 0 14385 0 0
+~
+~
+Door 3 0 0 14374 0 0
+~
+~
+End
+
+#14376
+Name ~
+Descr
+~
+Door 0 0 0 14381 0 0
+~
+~
+Door 1 0 0 14377 0 0
+~
+~
+Door 2 0 0 14386 0 0
+~
+~
+Door 3 0 0 14375 0 0
+~
+~
+End
+
+#14377
+Name ~
+Descr
+~
+Door 0 0 0 14382 0 0
+~
+~
+Door 1 0 0 14378 0 0
+~
+~
+Door 2 0 0 14387 0 0
+~
+~
+Door 3 0 0 14376 0 0
+~
+~
+End
+
+#14378
+Name ~
+Descr
+~
+Door 0 0 0 14383 0 0
+~
+~
+Door 2 0 0 14388 0 0
+~
+~
+Door 3 0 0 14377 0 0
+~
+~
+End
+
+#14379
+Name ~
+Descr
+~
+Door 1 0 0 14380 0 0
+~
+~
+Door 2 0 0 14374 0 0
+~
+~
+End
+
+#14380
+Name ~
+Descr
+~
+Door 1 0 0 14381 0 0
+~
+~
+Door 2 0 0 14375 0 0
+~
+~
+Door 3 0 0 14379 0 0
+~
+~
+End
+
+#14381
+Name ~
+Descr
+~
+Door 1 0 0 14382 0 0
+~
+~
+Door 2 0 0 14376 0 0
+~
+~
+Door 3 0 0 14380 0 0
+~
+~
+End
+
+#14382
+Name ~
+Descr
+~
+Door 1 0 0 14383 0 0
+~
+~
+Door 2 0 0 14377 0 0
+~
+~
+Door 3 0 0 14381 0 0
+~
+~
+End
+
+#14383
+Name ~
+Descr
+~
+Door 2 0 0 14378 0 0
+~
+~
+Door 3 0 0 14382 0 0
+~
+~
+End
+
+#14384
+Name ~
+Descr
+~
+Door 0 0 0 14374 0 0
+~
+~
+Door 1 0 0 14385 0 0
+~
+~
+End
+
+#14385
+Name ~
+Descr
+~
+Door 0 0 0 14375 0 0
+~
+~
+Door 1 0 0 14386 0 0
+~
+~
+Door 3 0 0 14384 0 0
+~
+~
+End
+
+#14386
+Name ~
+Descr
+~
+Door 0 0 0 14376 0 0
+~
+~
+Door 1 0 0 14387 0 0
+~
+~
+Door 3 0 0 14385 0 0
+~
+~
+End
+
+#14387
+Name ~
+Descr
+~
+Door 0 0 0 14377 0 0
+~
+~
+Door 1 0 0 14388 0 0
+~
+~
+Door 3 0 0 14386 0 0
+~
+~
+End
+
+#14388
+Name ~
+Descr
+~
+Door 0 0 0 14378 0 0
+~
+~
+Door 2 3 0 14389 80 80
+~
+kitchen door~
+Door 3 0 0 14387 0 0
+~
+~
+End
+
+#14389
+Name ~
+Descr
+~
+Door 0 3 0 14388 80 80
+~
+Kitchen door~
+Door 2 0 0 14390 0 0
+~
+~
+End
+
+#14390
+Name ~
+Descr
+~
+Door 0 0 0 14389 0 0
+~
+~
+Door 1 0 0 14391 0 0
+~
+~
+Door 2 0 0 14392 0 0
+~
+~
+End
+
+#14391
+Name ~
+Descr
+~
+Door 2 0 0 14393 0 0
+~
+~
+Door 3 0 0 14390 0 0
+~
+~
+End
+
+#14392
+Name ~
+Descr
+~
+Door 0 0 0 14390 0 0
+~
+~
+Door 1 0 0 14393 0 0
+~
+~
+End
+
+#14393
+Name ~
+Descr
+~
+Door 0 0 0 14391 0 0
+~
+~
+Door 3 0 0 14392 0 0
+~
+~
+End
+
+#14394
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14399 0 0
+~
+~
+Door 1 3 0 14181 80 80
+~
+door~
+Door 2 0 0 14404 0 0
+~
+~
+Door 3 0 0 14395 0 0
+~
+~
+End
+
+#14395
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14400 0 0
+~
+~
+Door 1 0 0 14394 0 0
+~
+~
+Door 2 0 0 14405 0 0
+~
+~
+Door 3 0 0 14396 0 0
+~
+~
+End
+
+#14396
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14401 0 0
+~
+~
+Door 1 0 0 14395 0 0
+~
+~
+Door 2 0 0 14406 0 0
+~
+~
+Door 3 0 0 14397 0 0
+~
+~
+End
+
+#14397
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14402 0 0
+~
+~
+Door 1 0 0 14396 0 0
+~
+~
+Door 2 0 0 14407 0 0
+~
+~
+Door 3 0 0 14398 0 0
+~
+~
+End
+
+#14398
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14403 0 0
+~
+~
+Door 1 0 0 14397 0 0
+~
+~
+Door 2 0 0 14408 0 0
+~
+~
+End
+
+#14399
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 14394 0 0
+~
+~
+Door 3 0 0 14400 0 0
+~
+~
+End
+
+#14400
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14399 0 0
+~
+~
+Door 2 0 0 14395 0 0
+~
+~
+Door 3 0 0 14401 0 0
+~
+~
+End
+
+#14401
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14400 0 0
+~
+~
+Door 2 0 0 14396 0 0
+~
+~
+Door 3 0 0 14402 0 0
+~
+~
+End
+
+#14402
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14401 0 0
+~
+~
+Door 2 0 0 14397 0 0
+~
+~
+Door 3 0 0 14403 0 0
+~
+~
+End
+
+#14403
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14398 0 0
+~
+~
+Door 1 0 0 14402 0 0
+~
+~
+Door 2 0 0 14398 0 0
+~
+~
+End
+
+#14404
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14394 0 0
+~
+~
+Door 3 0 0 14405 0 0
+~
+~
+End
+
+#14405
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14395 0 0
+~
+~
+Door 1 0 0 14404 0 0
+~
+~
+Door 3 0 0 14406 0 0
+~
+~
+End
+
+#14406
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14396 0 0
+~
+~
+Door 1 0 0 14405 0 0
+~
+~
+Door 3 0 0 14407 0 0
+~
+~
+End
+
+#14407
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14397 0 0
+~
+~
+Door 1 0 0 14406 0 0
+~
+~
+Door 3 0 0 14408 0 0
+~
+~
+End
+
+#14408
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14398 0 0
+~
+~
+Door 1 0 0 14407 0 0
+~
+~
+Door 2 3 0 14409 80 80
+~
+door~
+End
+
+#14409
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 3 0 14408 80 80
+~
+door~
+Door 2 0 0 14410 0 0
+~
+~
+End
+
+#14410
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14409 0 0
+~
+~
+Door 2 0 0 14411 0 0
+~
+~
+Door 3 0 0 14413 0 0
+~
+~
+End
+
+#14411
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14410 0 0
+~
+~
+Door 3 0 0 14412 0 0
+~
+~
+End
+
+#14412
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14413 0 0
+~
+~
+Door 1 0 0 14411 0 0
+~
+~
+End
+
+#14413
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 14410 0 0
+~
+~
+Door 2 0 0 14412 0 0
+~
+~
+End
+
+#14414
+Name King's Hidding Place~
+Descr
+~
+Flags 11536388
+Sector 0
+Door 4 0 0 14362 0 0
+~
+~
+End
+
+#14420
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 14409 0 0
+~
+~
+Door 2 0 0 14411 0 0
+~
+~
+End
+
+#14449
+Name Rainforest End~
+Descr
+Wet leaves brush against your face, and plants along the ground seem to
+grab at your legs.  The air is dense and you feel almost as if you were on
+some strange world, covered in mist.  
+~
+Flags 1024
+Reset M 14055 2 100
+Reset M 14055 2 100
+Reset M 14056 2 100
+Reset M 14056 2 100
+Door 1 0 0 50377 0 0
+~
+~
+End
+
+#14002
+Name The Great Fountain of Gnargnoc~
+Descr
+This is the main fountain of Gnargnoc. It is the most busy place in all of
+Gnargnoc from what you can see. Dwarves are rushing through here, going about
+their daily buisness, and some people just come here to sit and relax. You
+can see guards walks through on their patrol's every once in a while. There
+is a large fountain in the center of the street here, it is filled with
+crystal clear waters. To the north and south the Nenuial road stretches on, 
+and to the east and west you can see strelehem street.
+~
+Sector 0
+Reset O 14002 -5 100
+Reset M 14002 1 100
+Reset O 14005 21 40
+Reset O 14024 -5 100
+Reset M 14037 1 100
+Reset O 14037 21 3
+Reset M 14043 1 100
+Reset M 14044 1 100
+Movemess
+(null)~
+Door 0 0 0 14021 30 30
+~
+door~
+Door 1 0 0 14012 30 30
+~
+door~
+Door 2 0 0 14039 30 30
+~
+door~
+Door 3 0 0 14003 30 30
+~
+door~
+End
+
+#14003
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north of it.
+It runs straight through the city towards the Great Fountain also.  To the
+north and south you can hear the sounds of a smithys hammer.  Strelehem
+street continues on to the east and west, stretching towards the gates.  A
+faint smell of baking breads and pastries seems to waft into this area from
+the south.  
+~
+Sector 0
+Reset M 14020 15 100
+Movemess
+(null)~
+Door 0 0 0 14034 30 30
+~
+door~
+Door 1 0 0 14002 30 30
+~
+door~
+Door 2 0 0 14068 0 0
+~
+~
+Door 3 0 0 14004 30 30
+~
+door~
+End
+
+#14004
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  In runs straight through the city to the Great Fountain also. 
+Strelehem street continues on to the east and west, stretching towards the
+gates.  To the north the clanking of steel can be heard.  You watch as
+people hurry in and out of the shop looking at the owners various weapons.  
+~
+Sector 0
+Reset M 14025 10 100
+Movemess
+(null)~
+Door 0 0 0 14035 0 0
+~
+~
+Door 1 0 0 14003 30 30
+~
+door~
+Door 3 0 0 14005 30 30
+~
+door~
+End
+
+#14005
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  Strelehem street continues on to the east and west, stretching
+towards the gates.  A large gem shop seems to lie to the north, a great
+magical radiance seems to radiate from there.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14067 0 0
+~
+~
+Door 1 0 0 14004 30 30
+~
+door~
+Door 3 0 0 14006 30 30
+~
+door~
+End
+
+#14006
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14005 30 30
+~
+door~
+Door 3 0 0 14007 30 30
+~
+door~
+End
+
+#14007
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14006 30 30
+~
+door~
+Door 3 0 0 14008 30 30
+~
+door~
+End
+
+#14008
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14007 30 30
+~
+door~
+Door 3 0 0 14009 30 30
+~
+door~
+End
+
+#14009
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  Strelehem street continues on to the east and west, stretching
+towards the gates.  North of here lies the entrance to the great hall of
+miners, dedicated to dwaves that slave away their lives mining gold and gems
+to enrich the empire.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14264 80 80
+~
+door~
+Door 1 0 0 14008 30 30
+~
+door~
+Door 3 0 0 14214 0 0
+~
+~
+End
+
+#14010
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14214 0 0
+~
+~
+Door 3 0 0 14011 30 30
+~
+door~
+End
+
+#14011
+Name The Western Gates of Gnargnoc~
+Descr
+Strelehem Street ends here, and you now stand before the western city gates.
+These are massive gates, made completely out of iron, and they tower above
+you to the height of the city walls. There are many guards stationed here,
+all protecting the gates from intruders. Strelehem street runs east back into
+the city, and the gates lead out of Gnargnoc into a mountainous region.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14062 30 30
+~
+door~
+Door 1 0 0 14010 30 30
+~
+door~
+Door 2 0 0 14107 30 30
+~
+door~
+Door 3 3 0 14032 55 55
+~
+large iron gate~
+End
+
+#14012
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  To the Strelehem street continues on to the east and west, stretching
+towards the gates.  To the north the sounds of hearty adventurers telling
+their tales can be heard, and a large bank seems to be located to the south.
+~
+Sector 0
+Reset M 14021 10 100
+Movemess
+(null)~
+Door 0 0 0 14237 0 0
+~
+~
+Door 1 0 0 14013 30 30
+~
+door~
+Door 2 0 0 14066 0 0
+~
+~
+Door 3 0 0 14002 30 30
+~
+door~
+End
+
+#14013
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  You can see a strange aura of magic flow out of the shop to the
+north.  Strelehem street continues on to the east and west, stretching
+towards the gates.  To the south the sounds and smells of animals can be
+heard.  A loud drunken dwarf seems to be calling out for you to look at his
+beautiful pets.  
+~
+Sector 0
+Reset M 14026 15 100
+Movemess
+(null)~
+Door 0 0 0 14044 30 30
+~
+door~
+Door 1 0 0 14014 30 30
+~
+door~
+Door 2 0 0 14036 0 0
+~
+~
+Door 3 0 0 14012 30 30
+~
+door~
+End
+
+#14014
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  Strelehem street continues on to the east and west, stretching
+towards the gates.  To the south there appears to be a provisionary whom is
+selling goods so that you adventures may be more fruitful.  
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14015 30 30
+~
+door~
+Door 2 0 0 14038 0 0
+~
+~
+Door 3 0 0 14013 30 30
+~
+door~
+End
+
+#14015
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14016 30 30
+~
+door~
+Door 3 0 0 14014 30 30
+~
+door~
+End
+
+#14016
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14017 30 30
+~
+door~
+Door 3 0 0 14015 30 30
+~
+door~
+End
+
+#14017
+Name Strelehem Street~
+Descr
+This is an average size road.  It runs east and west through the city,
+all the way to the gates.  This road is lined with shops to the north and
+south of it.  It runs straight through the city towards the Great Fountain
+also.  Strelehem street continues on to the east and west, stretching
+towards the gates.  To the north a two huge doors seem to tower over you
+marking the entrance to the church of Valaya.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14238 80 80
+~
+door~
+Door 1 0 0 14018 30 30
+~
+door~
+Door 3 0 0 14016 30 30
+~
+door~
+End
+
+#14018
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14215 0 0
+~
+~
+Door 3 0 0 14017 30 30
+~
+door~
+End
+
+#14019
+Name Strelehem Street~
+Descr
+This is an average size road. It runs east and west through the city, all the
+way to the gates. This road is lined with shops to the north and south of it.
+It runs straight through the city towards the Great Fountain also. Strelehem
+street continues on to the east and west, stretching towards the gates.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14020 30 30
+~
+door~
+Door 3 0 0 14215 0 0
+~
+~
+End
+
+#14020
+Name The Eastern Gates of Gnargnoc~
+Descr
+Strelehem street ends here, and you now stand before the eastern city gates.
+These are massive gates, made completely out of iron, and they tower above
+you to the height of the city walls. There are many guards stationed here, 
+all protecting the city gates from intruders. Strelehem street runs west back
+into the city, and the gates lead out of Gnargnoc into a mountanious region.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14086 30 30
+~
+door~
+Door 1 3 0 14031 55 55
+~
+large iron gate~
+Door 2 0 0 14087 30 30
+~
+door~
+Door 3 0 0 14019 30 30
+~
+door~
+End
+
+#14021
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across.  This is one
+of the main roads of Gnargnoc.  It runs straight through the heart of the
+city.  This road looks clean, and from what you can see it is taken care of
+very well.  The Nenuial road continues on to the north and south, farther
+than the eye can see.  To the west you can hear the pounding of hammer on
+anvil, and to the east the chatter of adventures telling the tales of their
+most recent adventures in the Great Golden Hall.  
+~
+Sector 0
+Reset M 14012 3 100
+Reset O 14030 -1 50
+Reset M 14022 15 100
+Reset O 14018 -1 45
+Movemess
+(null)~
+Door 0 0 0 14022 30 30
+~
+door~
+Door 1 0 0 14237 0 0
+~
+~
+Door 2 0 0 14002 30 30
+~
+door~
+Door 3 0 0 14034 0 0
+~
+~
+End
+
+#14022
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Reset O 1065 -5 100
+Movemess
+(null)~
+Door 0 0 0 14023 30 30
+~
+door~
+Door 2 0 0 14021 30 30
+~
+door~
+End
+
+#14023
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14024 30 30
+~
+door~
+Door 2 0 0 14022 30 30
+~
+door~
+End
+
+#14024
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across.  This is one
+of the main road of Gnargnoc.  It runs straight through the heart of the
+city.  This road looks clean, and from what you can see it is taken care of
+very well.  To the east you can hear the snoring of guardsmen, and the
+clashing of swords.  The Nenuial road continues on to the north and south,
+father than the eye can see.  West of you lies the eastern entrance to the
+great hall of miners, dedicated to the many dwarves laboring away in gold
+and gem mines.  
+~
+Flags 2
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14025 30 30
+~
+door~
+Door 1 0 0 14161 30 30
+~
+door~
+Door 2 0 0 14023 30 30
+~
+door~
+Door 3 3 0 14283 80 80
+~
+door~
+End
+
+#14025
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14026 30 30
+~
+door~
+Door 2 0 0 14024 30 30
+~
+door~
+End
+
+#14026
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14027 30 30
+~
+door~
+Door 2 0 0 14025 30 30
+~
+door~
+End
+
+#14027
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Reset M 14027 1 100
+Movemess
+(null)~
+Door 0 0 0 14028 30 30
+~
+door~
+Door 2 0 0 14026 30 30
+~
+door~
+End
+
+#14028
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial Road splits here, leaving you a choice of all directions.
+To the east and west you can see roads traveling the lengths of the city 
+walls. To the north and south, the Nenuial Roads continues, farther than the
+eye can see.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14029 30 30
+~
+door~
+Door 1 0 0 14069 30 30
+~
+door~
+Door 2 0 0 14027 30 30
+~
+door~
+Door 3 0 0 14045 30 30
+~
+door~
+End
+
+#14029
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14030 30 30
+~
+door~
+Door 2 0 0 14028 30 30
+~
+door~
+End
+
+#14030
+Name The Northern Gates of Gnargnoc~
+Descr
+The Nenuial Road ends here, and you now stand before the northern city gates.
+These are massive gates made completely out if iron, and they tower above you
+to the height of the city walls. There are many guards stationed here, all
+protecting the gates from intruders. The Nenuial Road runs south back into
+the city, and the gates lead out of Gnargnoc into a mountainous region.
+~
+Sector 0
+Reset M 14003 5 100
+Reset O 14005 21 15
+Movemess
+(null)~
+Door 0 3 0 14033 55 55
+~
+large iron gates~
+Door 2 0 0 14029 30 30
+~
+door~
+End
+
+#14031
+Name Outside the Eastern Gates of Gnargnoc~
+Descr
+You are standing outside the eastern gates of gnargnoc.  To the west you
+can make out the sweet scent of fresh breads, pastrys, and meats.  You can
+see why the whities chose to move into such a beautiful area.  
+~
+Reset M 14060 4 100
+Reset M 14060 4 100
+Reset M 14060 4 100
+Reset M 14060 4 100
+Movemess
+(null)~
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 34154 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 3 0 14020 55 55
+~
+large iron gate~
+End
+
+#14032
+Name Outside the Western Gates of Gnargnoc~
+Descr
+This is the joining point between the Minhiriath Road, and the western
+gate of Gnargnoc.  To the east, you can see the huge gates of Gnargnoc
+towering over you, and to the west, you can see the Minhiriath Road,
+surrounded by The Great Anorien Plains.  
+~
+Flags 2
+Reset M 14005 4 100
+Reset M 14005 4 100
+Reset M 14005 4 100
+Reset M 14005 4 100
+Movemess
+(null)~
+Door 0 0 0 0 0 0
+~
+~
+Door 1 3 0 14011 55 55
+~
+large iron gate~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 27501 30 30
+~
+(null)~
+End
+
+#14033
+Name Outside the Northern Gates of Gnargnoc~
+Descr
+You stand before some huge iron gates, to the east and west you can see a
+grassy path.  You don't know where it leads to though.  As you look around,
+to the south you can see a huge city, this is probally where all the whities
+stay.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 16251 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 3 0 14030 55 55
+~
+large iron gates~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#14034
+Name The Armorer of Gnargnoc~
+Descr
+This shop is of average size. Hung upon the walls are all sorts of pieces of
+armor. They range from chainmail shirts, to glowing breastplates. As you walk
+in you notice Lothair is repairing a new piece of armor. Lothair glances at
+you as you walk in, and waits for you to make your selection. The only exit to
+this shop is to the south, from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14006 1 100
+Reset O 14003 -1 100
+Reset O 14007 -1 100
+Reset O 14029 -1 100
+Reset O 986 -1 100
+Reset O 14042 -1 100
+Movemess
+(null)~
+Door 1 0 0 14021 0 0
+~
+~
+Door 2 0 0 14003 30 30
+~
+door~
+End
+
+#14035
+Name The Weaponsmith of Gnargnoc~
+Descr
+This shop looks small, but it is actually quite large. Adorned on the walls
+are finely crafted longswords, maces, and warhammers. This shop if very hot
+due to the fact that Erridian is forging new weapons all the time. As you
+enter Erridian steps out from the forge, and waits for you to pick a weapon.
+The only exit to this shop is north, from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14007 1 100
+Reset O 236 -1 100
+Reset O 237 -1 100
+Reset O 14031 -1 100
+Movemess
+(null)~
+Door 2 0 0 14004 0 0
+~
+~
+End
+
+#14036
+Name The Pet Shop of Gnargnoc~
+Descr
+This shop is an average sized one. There is a large counter in front of you,
+and Katahri is sitting behind it, waiting to serve you. You can hear pets
+making noises somewhere to the north of you. The only exit out of this shop
+is to the south, from which you just came.
+~
+Flags 84
+Sector 0
+Reset M 14008 1 100
+Movemess
+(null)~
+Door 0 0 0 14013 0 0
+~
+~
+End
+
+#14037
+Name Storage Room of Pets~
+Descr
+~
+Flags 6
+Reset M 14009 1 100
+Reset M 14010 1 100
+Movemess
+(null)~
+End
+
+#14038
+Name Ohmsford's Goods and Supplies~
+Descr
+This shop is a fairly large one, it has all hiking and other supplies hung
+on the walls. This shop is the Supply shop of Gnargnoc. It is rumored to
+be the best supply shop in the town. Ohmsford stands here, waiting to serve
+you. The only exit from this shop is the the north, from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14011 1 100
+Reset O 14004 -1 100
+Reset O 32 -1 100
+Reset O 14020 -1 100
+Reset O 33 20 100
+Reset O 39 20 100
+Reset O 14027 -1 100
+Movemess
+(null)~
+Door 0 0 0 14014 0 0
+~
+~
+End
+
+#14039
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can s it is taken care of very
+well. Smells of pastry and fresh bread waft out of the shop to the east,
+while you can see nobleman going into the bank to the west to deposit their
+money. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Sector 0
+Reset M 14019 20 100
+Movemess
+(null)~
+Door 0 0 0 14002 30 30
+~
+door~
+Door 1 0 0 14066 0 0
+~
+~
+Door 2 0 0 14040 30 30
+~
+door~
+Door 3 0 0 14068 0 0
+~
+~
+End
+
+#14040
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. To the west, you can smell the sweet aroma of ribs and steak, and to
+the east you can see a small repair shop. The Nenuial road continues on to
+the north and south, farther than the eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14039 30 30
+~
+door~
+Door 1 0 0 14195 30 30
+~
+door~
+Door 2 0 0 14041 30 30
+~
+door~
+Door 3 0 0 14196 30 30
+~
+door~
+End
+
+#14041
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14040 30 30
+~
+door~
+Door 2 0 0 14042 30 30
+~
+door~
+End
+
+#14042
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The Nenuial road continues on to the north and south, farther than the
+eye can see.
+~
+Movemess
+(null)~
+Door 0 0 0 14041 30 30
+~
+door~
+Door 2 0 0 14043 30 30
+~
+door~
+End
+
+#14043
+Name The Nenuial Road~
+Descr
+This road is very large, it spans almost thirty feet across. This is one of
+the main roads of Gnargnoc. It runs straight through the heart of the city.
+This road looks clean, and from what you can see it is taken care of very
+well. The road splits here, to the east and west you can see a dark alley,
+and to the north and south the Nenuial road continues on, farther than the
+eye can see.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 14042 30 30
+~
+door~
+Door 1 0 0 14092 30 30
+~
+door~
+Door 2 0 0 14113 30 30
+~
+door~
+Door 3 0 0 14100 30 30
+~
+door~
+End
+
+#14044
+Name The Magic Shop of Gnargnoc~
+Descr
+This shop is a very large one. The walls are adorned with all sorts of 
+magical symbols. As you enter, you feel a strange aura of magic surround you.
+When you look around, you see that this must be the famed magic shop of
+Gnargnoc. There is a large counter to the north of you, and Myriad the wizard
+steps out from behind the curtains to help you.
+~
+Flags 20
+Sector 0
+Reset M 14013 1 100
+Reset O 14008 -1 100
+Reset O 14033 -1 34
+Reset O 14006 -1 100
+Movemess
+(null)~
+Door 2 0 0 14013 30 30
+~
+door~
+End
+
+#14045
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14028 30 30
+~
+door~
+Door 3 0 0 14046 30 30
+~
+door~
+End
+
+#14046
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14045 30 30
+~
+door~
+Door 3 0 0 14047 30 30
+~
+door~
+End
+
+#14047
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and it appears to be very sturdy. To the south you can hear the shouts
+and singing of some merry drunks. This road continues on to the east and
+west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14046 30 30
+~
+door~
+Door 2 0 0 14063 30 30
+~
+door~
+Door 3 0 0 14048 30 30
+~
+door~
+End
+
+#14048
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14047 30 30
+~
+door~
+Door 3 0 0 14049 30 30
+~
+door~
+End
+
+#14049
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14048 30 30
+~
+door~
+Door 3 0 0 14050 30 30
+~
+door~
+End
+
+#14050
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls.  It is a large path, and it runs
+all the way to the boundaries of the city.  A huge wall towers above you to
+the north, and they appear to be very sturdy.  This road continues on to the
+east and west, following the city wall.  South of you lies the northern
+entrance to the great hall of miners, dedicated to the dwarves that work in
+the gold and gem mines of the empire.  
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14049 30 30
+~
+door~
+Door 2 3 0 14294 80 80
+~
+door~
+Door 3 0 0 14051 30 30
+~
+door~
+End
+
+#14051
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14050 30 30
+~
+door~
+Door 3 0 0 14052 30 30
+~
+door~
+End
+
+#14052
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14051 30 30
+~
+door~
+Door 3 0 0 14053 30 30
+~
+door~
+End
+
+#14053
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14052 30 30
+~
+door~
+Door 3 0 0 14054 30 30
+~
+door~
+End
+
+#14054
+Name Bend in a Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Flags 2
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14053 30 30
+~
+door~
+Door 2 0 0 14055 30 30
+~
+door~
+Door 4 7 0 14200 30 30
+~
+Trapdoor~
+End
+
+#14055
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14054 30 30
+~
+door~
+Door 2 0 0 14056 30 30
+~
+door~
+End
+
+#14056
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14055 30 30
+~
+door~
+Door 2 0 0 14057 30 30
+~
+door~
+End
+
+#14057
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14056 30 30
+~
+door~
+Door 2 0 0 14058 30 30
+~
+door~
+End
+
+#14058
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls.  It is a large path, and it runs
+all the way to the boundaries of the city.  A huge wall towers above you to
+the east, and it appears to be very sturdy.  This road continues on to the
+north and south, following the city wall.  East of you lies the western
+entrance to the great hall of miners, dedicated to the dwarves that slave
+away in the gem and gold mines. 
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14057 30 30
+~
+door~
+Door 1 3 0 14275 80 80
+~
+door~
+Door 2 0 0 14059 30 30
+~
+door~
+End
+
+#14059
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14058 30 30
+~
+door~
+Door 2 0 0 14060 30 30
+~
+door~
+End
+
+#14060
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14059 30 30
+~
+door~
+Door 2 0 0 14061 30 30
+~
+door~
+End
+
+#14061
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14060 30 30
+~
+door~
+Door 2 0 0 14062 30 30
+~
+door~
+End
+
+#14062
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+east, and it appears to be very sturdy. This road continues on to the north
+and south, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14061 30 30
+~
+door~
+Door 2 0 0 14011 30 30
+~
+door~
+End
+
+#14063
+Name Entrance to the Pub of the Gnarled Beard~
+Descr
+This is the entrance to the pub of the Gnarled Beard. It seems to be a
+popular pub, one in which the everyday people can come and have a good time.
+This bar wreaks of dwarven ale, which seems to be their specialty. To the
+south is the actual bar, and to the north is the exit to this pub.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14047 30 30
+~
+door~
+Door 2 0 0 14064 30 30
+~
+door~
+End
+
+#14064
+Name Within the Pub of the Gnarled Beard~
+Descr
+This is the pub of the Gnarled Beard. It seems to be a popular pub, one in
+which everyday people can come and have a good time. This whole bar wreaks of
+dwarven ale, which seems to be their specialty. Gloin, the bartender is here
+making sure the people of Gnargnoc have as much liqour as they want. To the
+north is the entrance to this pub, and to the west you can see a back room.
+~
+Flags 4
+Sector 0
+Reset M 14014 1 100
+Reset O 14009 -1 100
+Reset O 14010 -1 100
+Reset O 14011 -1 100
+Reset M 14023 2 100
+Reset O 14019 11 100
+Reset M 14024 3 100
+Movemess
+(null)~
+Door 0 0 0 14063 30 30
+~
+door~
+Door 3 0 0 14065 30 30
+~
+door~
+End
+
+#14065
+Name Back Room of the Gnarled Beard~
+Descr
+This is the back room in the pub of the Gnarled Beard. This pub seems to be
+a popular one, you can see everyday people here, having a good time. This
+whole bar wreaks of dwarvel ale, which seems to be their specialty. To the 
+east you can see the main room of the pub, which is where you just came
+from.
+~
+Flags 4
+Sector 0
+Reset M 14015 5 100
+Reset O 14010 22 100
+Movemess
+(null)~
+Door 1 0 0 14064 30 30
+~
+door~
+End
+
+#14066
+Name The Bank of Gnargnoc~
+Descr
+This bank has a large counter in which you can make all your transactions.
+There is a huge safe in the back, in which the banker stores everyones
+money. The banker of Gnargnoc is waiting here, trying to figure out how
+much money you'll deposit. To only exit to this shop is east, from which you
+just came.
+~
+Flags 20
+Sector 0
+Reset M 14016 1 100
+Movemess
+(null)~
+Door 0 0 0 14012 0 0
+~
+~
+Door 3 0 0 14039 0 0
+~
+~
+End
+
+#14067
+Name The Jewler of Gnargnoc~
+Descr
+This shop is fairly small, but it suits it's purpose well. People run in and
+out of here, getting their jewels appraised. There is a large counter that
+displays all the gems that Kasana has got to sell. Kasana stands behind the
+counter polishing her gems and jewels. The only exit to this shop is to the
+south from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14017 1 100
+Reset O 14013 -1 100
+Reset O 14012 -1 100
+Movemess
+(null)~
+Door 2 0 0 14005 0 0
+~
+~
+End
+
+#14068
+Name The Baker of Gnargnoc~
+Descr
+This shop is fairly large. It is very hot due to the fact that they are
+making more delicious deserts all the time. This shop is rumored to be the
+best baking shop around. Grumbaul stands behind the counter here, seeing
+what your sweet tooth craves. The only exit from this shop is to the west
+from which you just came.
+~
+Flags 20
+Sector 0
+Reset M 14018 1 100
+Reset O 14014 -1 100
+Reset O 14015 -1 100
+Reset O 14016 -1 100
+Reset O 37 20 100
+Movemess
+(null)~
+Door 0 0 0 14003 0 0
+~
+~
+Door 1 0 0 14039 0 0
+~
+~
+End
+
+#14069
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14070 30 30
+~
+door~
+Door 3 0 0 14028 30 30
+~
+door~
+End
+
+#14070
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14071 30 30
+~
+door~
+Door 3 0 0 14069 30 30
+~
+door~
+End
+
+#14071
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14072 30 30
+~
+door~
+Door 3 0 0 14070 30 30
+~
+door~
+End
+
+#14072
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14073 30 30
+~
+door~
+Door 3 0 0 14071 30 30
+~
+door~
+End
+
+#14073
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14074 30 30
+~
+door~
+Door 3 0 0 14072 30 30
+~
+door~
+End
+
+#14074
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14075 30 30
+~
+door~
+Door 3 0 0 14073 30 30
+~
+door~
+End
+
+#14075
+Name Road Along a City Wall~
+Descr
+This is a path following the city walls. It is a large path, and it runs all
+the way to the boundaries of the city. A huge wall towers above you to the
+north, and they appear to be very sturdy. This road continues on to the east
+and west, following the city wall.
+~
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 14076 30 30
+~
+door~
+Door 3 0 0 14074 30 30
+~
+door~
+End
+
+#0
+
+
+
+#$

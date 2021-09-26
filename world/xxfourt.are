@@ -1,0 +1,564 @@
+#AREADATA 
+Name Secret Forest~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mAn eerie feeling washes over you, then is gone.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 25001 25200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#25001
+Name assassin guild guildmaster~
+Short The Assassin Guildmaster~
+Long 
+The Assassin Guildmaster stands here, cloaked in the shadows of the room.
+~
+Descr
+This famous guildmaster looks regal, yet very suspicious and shifty... 
+You have the strange feeling that this man could slit your throat so fast
+you wouldn't even know what hit you if he wanted to.  
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+ActBits3 1024
+Affect_By 552
+Alignment -900
+Money 195
+Level 300
+Sex 1
+MobType 0
+Guard 0
+End
+
+#25002
+Name assassin guard~
+Short an assassin guard~
+Long 
+A large, assassin guard stands here, hiding in the corner.
+~
+Descr
+This guard is strong and powerful, but also looks very fast.  She looks
+very loyal and dedicated to her master, the assassin's guildmaster.  
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+Affect_By 66088
+Alignment -900
+Money 66
+Level 66
+Sex 2
+MobType 0
+Guard 0
+End
+
+#25003
+Name stone gnome~
+Short a stone gnome~
+Long 
+A strange gnome made of stone is here, and he doesn't look happy!
+~
+Descr
+This is the strangest gnome you have ever seen; he's more stone than
+living flesh, and you worry that he is not quite as mentally stable as some
+of his more peaceful gnome counterparts.  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 552
+Money 43
+Level 43
+Sex 1
+MobType 15
+Guard 0
+ArmorClass -255
+End
+
+#25004
+Name forest assassin~
+Short a forest assassin~
+Long 
+A forest assassin stands here in the shadows.
+~
+Descr
+This shady assassin looks like he is out make a buck or two on wandering
+adventurers, or perhaps he is guarding something...  
+~
+AMax 4
+NHeight 0
+ActBits 9
+Affect_By 66088
+Alignment -200
+Money 27
+Level 27
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#25005
+Name large black bat~
+Short a black bat~
+Long 
+A strange black bat cruises around here, very low to the ground.
+~
+Descr
+You've never seen anything like this creature...  It seems to fly close
+to the ground to avoid branches, and from the blood-stains on its fangs you
+can tell it is no vegetarian.  
+~
+AMax 6
+NHeight 0
+ActBits 9
+Affect_By 512
+Money 9
+Level 9
+Sex 1
+MobType 18
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#25001
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Flags 2
+Sector 3
+Reset M 25005 5 100
+Door 0 0 0 3312 0 0
+~
+~
+Door 1 0 0 25002 0 0
+~
+~
+End
+
+#25002
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Sector 3
+Door 2 0 0 25003 0 0
+~
+~
+Door 3 0 0 25001 0 0
+~
+~
+End
+
+#25003
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Sector 3
+Reset M 25004 4 100
+Door 0 0 0 25002 0 0
+~
+~
+Door 1 0 0 25018 0 0
+~
+~
+Door 2 0 0 25004 0 0
+~
+~
+Door 3 0 0 25017 0 0
+~
+~
+End
+
+#25004
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Reset M 25005 5 100
+Door 0 0 0 25003 0 0
+~
+~
+Door 1 0 0 25005 0 0
+~
+~
+Door 2 0 0 25017 0 0
+~
+~
+Door 3 0 0 25018 0 0
+~
+~
+End
+
+#25005
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Door 0 0 0 25019 0 0
+~
+~
+Door 1 0 0 25020 0 0
+~
+~
+Door 2 0 0 25006 0 0
+~
+~
+Door 3 0 0 25004 0 0
+~
+~
+End
+
+#25006
+Name A Path through the Woods~
+Descr
+You walk along a strange path, leading through some massive woods.  You
+have a strange feeling that it would be better to stay on the path here, as
+these trees look slightly eerie even in broad daylight.  
+~
+Shd 1
+Reset M 25004 4 100
+Door 0 0 0 25005 0 0
+~
+~
+Door 1 0 0 25018 0 0
+~
+~
+Door 2 0 0 25007 0 0
+~
+~
+Door 3 0 0 25020 0 0
+~
+~
+End
+
+#25007
+Name A Path through the Woods~
+Descr
+The path leads north here, and the trees here seem to watch your every
+motion.  You feel unwelcome here, and the path underfoot seems almost
+completely untravelled.  
+~
+Shd 1
+Door 0 0 0 25006 0 0
+~
+~
+Door 1 0 0 25019 0 0
+~
+~
+Door 2 259 0 25008 30 30
+~
+shrubbery~
+Door 3 0 0 25017 0 0
+~
+~
+End
+
+#25008
+Name A Dark Path~
+Descr
+This dark path is covered with a soft, black soil, that you sink into
+when you walk upon.  The trees seem to bend around the path, forming twisted
+and unnatural shapes above you.  
+~
+Shd 1
+Reset M 25004 4 100
+Door 0 259 0 25007 30 30
+~
+shrubbery~
+Door 1 0 0 25019 0 0
+~
+~
+Door 2 0 0 25009 0 0
+~
+~
+Door 3 0 0 25017 0 0
+~
+~
+End
+
+#25009
+Name A Dark Path~
+Descr
+This strange path all looks the same, and you have the strange sense of
+being totally lost.  You feel as if strange, robed figures are watching you
+from unseen hiding places amongst the trees.  
+~
+Shd 1
+Door 0 0 0 25008 0 0
+~
+~
+Door 1 0 0 25010 0 0
+~
+~
+Door 2 0 0 25017 0 0
+~
+~
+Door 3 0 0 25020 0 0
+~
+~
+End
+
+#25010
+Name A Dark Path~
+Descr
+This strange path all looks the same, and you have the strange sense of
+being totally lost.  You feel as if strange, robed figures are watching you
+from unseen hiding places amongst the trees.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 29059 0 0
+~
+~
+Door 2 0 0 25011 0 0
+~
+~
+End
+
+#25011
+Name A Dark Path~
+Descr
+This strange path all looks the same, and you have the strange sense of
+being totally lost.  You feel as if strange, robed figures are watching you
+from unseen hiding places amongst the trees.  
+~
+Shd 1
+Sector 3
+Reset M 25005 5 100
+Reset M 25005 5 100
+Door 0 0 0 25010 0 0
+~
+~
+Door 2 0 0 25012 0 0
+~
+~
+End
+
+#25012
+Name Before a Strange House~
+Descr
+The outside of this house is plain, but looks suprisingly well kept up. 
+You have a strange feeling someone is watching your every move; almost as if
+there is an assassin in the trees, ready to strike at any moment.  
+~
+Shd 1
+Reset M 25005 5 100
+Door 0 0 0 25011 0 0
+~
+~
+Door 3 3 0 25013 30 30
+~
+door~
+End
+
+#25013
+Name Inside a Large Mansion~
+Descr
+This large mansion has been furnished with no money limit in mind... 
+Beautiful paintings and other works of art can be seen all around.  The air
+here is fresh, and an open window seems to carry the pleasant scent of the
+forest into this large, one-room mansion.  
+~
+Flags 4
+Sector 0
+Reset M 25003 2 100
+Door 1 3 0 25012 30 30
+~
+door~
+Door 2 0 0 25014 0 0
+~
+~
+End
+
+#25014
+Name Inside a Large Mansion~
+Descr
+This large mansion has been furnished with no money limit in mind... 
+Beautiful paintings and other works of art can be seen all around.  The air
+here is fresh, and an open window seems to carry the pleasant scent of the
+forest into this large, one-room mansion.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 25013 0 0
+~
+~
+Door 3 259 0 25015 30 30
+~
+stonewall~
+End
+
+#25015
+Name Inside a Secret Room~
+Descr
+This strange room looks like it was once a back getaway route for thieves
+or the previous owners of this mansion.  Unfortunately, the door has been
+completely walled in, and the only exit from here appears to be the way you
+came in from.  
+~
+Flags 6
+Sector 0
+Reset M 25003 2 100
+Door 1 259 0 25014 30 30
+~
+stonewall~
+Door 5 259 0 25016 30 30
+~
+trapdoor~
+End
+
+#25016
+Name Inside the Assassin's Guild~
+Descr
+You stand inside this curious room in which the shadows seem to shift and
+swim before your eyes.  You realize in a matter of seconds that you stand in
+the legendary assassin's guild, whose guildmaster offers a pleathora of
+training techniques for its members.  
+~
+Flags 6
+Sector 0
+Reset M 25001 1 100
+Reset O 42871 -1 3
+Reset O 237 21 100
+Reset M 25002 2 100
+Reset O 237 21 20
+Reset M 25002 2 100
+Reset O 236 -1 100
+Door 4 259 0 25015 30 30
+~
+trapdoor~
+End
+
+#25017
+Name A Dark, Tangled Forest~
+Descr
+My god you are lost!  This forest looks scary, and you have no idea where
+you possibly are in relation to the path.  The dark, foreboding trees seem
+to laugh at you, and you notice no sunlight hits the forest floor here.  
+~
+Flags 2
+Shd 1
+Sector 3
+Reset M 25005 5 100
+Reset M 25004 4 100
+Door 0 0 0 25020 0 0
+~
+~
+Door 1 0 0 25018 0 0
+~
+~
+Door 2 0 0 25019 0 0
+~
+~
+Door 3 0 0 25019 0 0
+~
+~
+End
+
+#25018
+Name A Dark, Tangled Forest~
+Descr
+My god you are lost!  This forest looks scary, and you have no idea where
+you possibly are in relation to the path.  The dark, foreboding trees seem
+to laugh at you, and you notice no sunlight hits the forest floor here.  
+~
+Flags 2
+Shd 1
+Sector 3
+Door 0 0 0 25019 0 0
+~
+~
+Door 1 0 0 0 30 30
+A huge tree blocks your way to the east.  
+~
+~
+Door 2 0 0 25017 0 0
+~
+~
+Door 3 0 0 25017 0 0
+~
+~
+End
+
+#25019
+Name A Dark, Tangled Forest~
+Descr
+My god you are lost!  This forest looks scary, and you have no idea where
+you possibly are in relation to the path.  The dark, foreboding trees seem
+to laugh at you, and you notice no sunlight hits the forest floor here.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 25017 0 0
+~
+~
+Door 1 0 0 25020 0 0
+~
+~
+Door 2 0 0 25018 0 0
+~
+~
+Door 3 0 0 25017 0 0
+~
+~
+End
+
+#25020
+Name A Dark, Tangled Forest~
+Descr
+My god you are lost!  This forest looks scary, and you have no idea where
+you possibly are in relation to the path.  The dark, foreboding trees seem
+to laugh at you, and you notice no sunlight hits the forest floor here.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 25017 0 0
+~
+~
+Door 1 0 0 25018 0 0
+~
+~
+Door 2 0 0 25003 0 0
+~
+~
+Door 3 0 0 25019 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

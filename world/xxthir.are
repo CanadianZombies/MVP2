@@ -1,0 +1,2003 @@
+#AREADATA 
+Name Minotaur Caves~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear the roar of an enormous beast in the distance!  
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Entity~
+VNUMs 24800 25000
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#24800
+Name minotaur male~
+Short a male minotaur~
+Long 
+A large humanoid figure with the head of a bull rests here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 19
+Affect_By 512
+Alignment -140
+Money 13
+Level 13
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24801
+Name guardian minotaur~
+Short a minotaur guardian~
+Long 
+A strong, durable minotaur guardian stands here, guarding the caves.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 552
+Alignment -500
+Money 23
+Level 23
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24802
+Name elite guard minotaur~
+Short an elite minotaur guard~
+Long 
+An elite minotaur guard watches you closely for any sign of aggression.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Affect_By 544
+Alignment -250
+Money 53
+Level 53
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24803
+Name human slave scared~
+Short a scared human slave~
+Long 
+A scared human slave lies here, trembling at an unknown presence.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 536870915
+Alignment 500
+Money 5
+Level 5
+MobType 0
+Guard 0
+End
+
+#24804
+Name minotaur commoner~
+Short a minotaur commoner~
+Long 
+A minotaur commoner wanders about, looking for something interesting.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Affect_By 512
+Alignment -100
+Money 18
+Level 18
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24805
+Name female minotaur~
+Short a female minotaur~
+Long 
+A ugly-looking female minotaur stares at you with a confused expression.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 19
+Affect_By 512
+Money 11
+Level 11
+Sex 2
+MobType 0
+Guard 0
+End
+
+#24806
+Name minotaur battle master enormous~
+Short the minotaur battle master~
+Long 
+An ENORMOUS minotaur stands here, training all whom approach.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483373
+Affect_By 552
+Alignment -1000
+Money 170
+Level 170
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#24807
+Name trainee minotaur~
+Short a minotaur trainee~
+Long 
+A small minotaur trainee poses here, trying to gain fighting experience.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 19
+Affect_By 512
+Money 17
+Level 17
+Sex 1
+Guard 0
+End
+
+#24808
+Name Ghapthz minotaur sage~
+Short Ghapthz~
+Long 
+[Teacher] Ghapthz, the famous and powerful sage of the minotaurs is here, praying.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67109139
+Affect_By 522
+Alignment -200
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+Spec spec_breath_any
+BCasts blindness~
+BCasts fireball~
+BCasts burning hands~
+BCasts poison~
+ASklTaught 0 16
+ASklTaught 1 91
+ASklTaught 2 86
+End
+
+#24810
+Name priest minotaur~
+Short a minotaur priest~
+Long 
+A minotaur is preaching here, readying the prisoners for their deaths.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 680
+Alignment -200
+Money 40
+Level 40
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24811
+Name skilled warrior minotaur~
+Short a skilled warrior minotaur~
+Long 
+A very skilled-looking minotaur passes you a cold stare.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 19
+Alignment -200
+Money 48
+Level 48
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#24812
+Name apprentice sage minotaur~
+Short an apprentice minotaur sage~
+Long 
+A small apprentice minotaur sage stands here, serving her master.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 19
+Affect_By 522
+Alignment -200
+Money 38
+Level 38
+Sex 2
+MobType 0
+Guard 0
+End
+
+#24814
+Name A Prison Cell~
+Short a human prisoner~
+Long 
+A scared human prisoner stands here, cringing away from your presence.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 19
+Affect_By 131072
+Alignment 150
+Money 200
+Level 35
+Sex 1
+MobType 0
+Guard 0
+ArmorClass 90
+End
+
+#24816
+Name sheriff minotaur AONE~
+Short the minotaur sheriff~
+Long 
+The large minotaur sheriff walks around here, looking for trouble.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 838860833
+ActBits3 4194304
+ActBits4 4096
+Affect_By 552
+Alignment -250
+Money 125
+Level 125
+Sex 1
+Guard 0
+Spec spec_warrior
+End
+
+#24817
+Name minotaur deputy ATWO~
+Short a minotaur deputy~
+Long 
+A medium-sized minotaur deputy wanders about here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 134217745
+Affect_By 520
+Alignment -200
+Money 43
+Level 43
+Sex 1
+Guard 0
+RaceHate 335544320
+End
+
+#24818
+Name enormous klazor beast~
+Short an enormous klazor beast~
+Long 
+An enormous beast reers up before you, ready to begin it's feast.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870939
+ActBits3 2
+Affect_By 552
+Money 500
+Level 60
+MobType 18
+Hp 15
+Guard 0
+End
+
+#24819
+Name drazza minotaur outlaw woman~
+Short Drazza, the minotaur outlaw~
+Long 
+A small, yet sneaky woman dressed in black stands here and grins.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Alignment -200
+Money 500
+Level 100
+Sex 2
+Guard 0
+Shop    0  21  26   0   0 105 50 0 24
+Shopd2 5
+Shopd3 4
+End
+
+#24998
+Name human prisoner~
+Short a human prisoner~
+Long 
+A buffed up human prisoner is here, tied up in chains.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 131073
+Money 200
+Level 35
+MobType 0
+Guard 0
+End
+
+#24999
+Name human prisoner~
+Short A human prisoner~
+Long 
+A human prisoner is here, tied up in chains.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 131072
+Money 200
+Level 35
+MobType 0
+Guard 0
+End
+
+#25000
+Name human prisoner~
+Short A human prisoner~
+Long 
+A buffed up human prisoner is here, tied up in chains.
+~
+Descr
+~
+AMax 2
+NHeight 60
+ActBits 3
+Affect_By 131072
+Money 200
+Level 35
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#905
+Name flaming gauntlets power~
+Short some [0m[31mf[1ml[1m[33ma[37mm[33mi[31mn[0m[31mg[0m gauntlets of [1m[35mp[0m[35mowe[1m[35mr[0m~
+Descr
+A large pair of flaming gauntlets lie here.
+[0;36m~
+Type 9
+Extra 1
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 60 60 0 0
+Weight 2
+Cost 4505
+Affect 3 -1 1 0 0
+Affect 1 1 1 0 0
+End
+
+#906
+Name sign engraving stone~
+Short an engraving in the mountain-side~
+Descr
+A small, yet eye-catching engraving has been scratched into the mountain wall.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr engraving sign~
+Begone foolish mortals, you have no place within our outpost and we do
+
+not wish to have to deal with your ignorance.  If you decide to journey
+
+onward, then youu're on your own thus do not bitch and whine if we decide
+
+that you are unworthy and kill you.  - The Minotaurs 
+
+~
+End
+
+#980
+Name minotaur hooves~
+Short a set of minotaur [33mhooves~
+Descr
+A brown pair of minotaur hooves lie here, unclaimed.
+[0;36m~
+Type 9
+Wear 65
+Timer 100
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 20 20 0 0
+Weight 5
+Cost 150
+End
+
+#981
+Name shield razors dancing dancing-razors~
+Short [1m[30ma shield of [37mdancing[0m-[31mrazors~
+Descr
+A shield displaying an array of razors sits here.
+[0;36m~
+Type 9
+Extra 18
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 0 0 50 50 0 0
+Weight 8
+Cost 7500
+Affect 19 1 1 0 0
+Affect 23 -10 2 0 0
+End
+
+#988
+Name black heart gem~
+Short a [1m[30mblack[0m[37m heart~
+Descr
+A pulsating black heart lies in the dirt here.
+[0;36m~
+Type 21
+Extra 536871425
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 100 100 35 0 0 0 0 0 0
+Weight 1
+Cost 60000
+End
+
+#989
+Name red mushrooms shrooms~
+Short some [31m[1mred [0mmushrooms~
+Descr
+A small amount of red mushrooms grow here in the soil.
+[0;36m~
+Type 26
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 35 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 1750
+End
+
+#24800
+Name red hanging~
+Short a red hanging~
+Descr
+[31m[1mA mammoth red hanging is hung here, displaying the symbol of death.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 0
+End
+
+#24801
+Name bloody human corpse~
+Short A bloody human corpse~
+Descr
+[31mA bloody human corpse lies here, headless.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 250
+Cost 0
+End
+
+#24802
+Name minotaur war talisman~
+Short [31ma minotaur [1mwar [0m[31mtalisman~
+Descr
+A large talisman lies here, glowing with a dark aura.
+[0;36m~
+Type 9
+Extra 512
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 75 75 0 0
+Weight 2
+Cost 1750
+Affect 13 5 1 0 0
+End
+
+#24803
+Name bracer defense~
+Short a bracer of defense~
+Descr
+A large, yet protective bracer lies here.
+[0;36m~
+Type 9
+Maxinroom 2
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 75 75 0 0
+Weight 1
+Cost 1500
+Affect 17 -2 1 0 0
+End
+
+#24806
+Name small black scimitar~
+Short a small [30m[1mblack [0m[37mscimitar~
+Descr
+A small black scimitar lies here, collecting dust.
+[0;36m~
+Type 5
+Extra 4194304
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 3 0 0 0 5 2 0
+Weight 2
+Cost 750
+Affect 19 -1 1 0 0
+End
+
+#24809
+Name large oaken desk~
+Short a large oaken desk~
+Descr
+A large oaken desk sits here, displaying a sign on it's surface.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 150
+Cost 0
+ExtraDescr desk oaken~
+Gone out to lunch - do not open the door to the crazy one, for it has not
+
+been fed in days.  I will prepare the human slaves for his next feeding when
+
+I come back.  - The Minotaur Sheriff 
+
+~
+ExtraDescr sign~
+~
+ExtraDescr sign~
+You look at the sign..  It reads: You notice that it is in a minotauric
+
+language, so you begin to think back to your younger years of second
+
+language classes.  Gone to lunch, will be back soon.  Do not visit the crazy
+
+one, for it has not been fed for days.  We will prepare the slaves soon for
+
+it's fest.  - Kalis the Minotaur Sheriff 
+
+~
+End
+
+#24810
+Name shroud robe priest unholy flaming~
+Short [30m[1man unholy [0m[31mflaming [30m[1mpriests' shroud~
+Descr
+A large unholy looking priests' shroud lies here in a bundle.
+[0;36m~
+Type 9
+Extra 2560
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 100 100 0 0
+Weight 0
+Cost 2000
+Affect 18 2 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#24811
+Name wall of fire~
+Short [0m[31ma HUGE wall of [1mfire[0m~
+Descr
+A HUGE wall of fire burns here endlessly.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1500
+Affect 13 5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#24812
+Name two-handed two mithril sword~
+Short a two-handed sword of [1mmithril~
+Descr
+A large two-handed sword of mithril lies here.
+[0;36m~
+Type 5
+Extra 2097232
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 35 0 3 0 0 0 4 4 0
+Weight 10
+Cost 3000
+Affect 19 1 1 0 0
+End
+
+#24813
+Name ring bone~
+Short a circular ring of [1mbone~
+Descr
+A circular ring of bone lies in the dirt here.
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 3 3 0 0
+Weight 1
+Cost 750
+End
+
+#24814
+Name whirlwind air whirl wind~
+Short [34ma whirlwind of [1mair~
+Descr
+A large whirlwind of air twirls around in circles here.
+[0;36m~
+Type 9
+Extra 64
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24815
+Name fusion whip~
+Short [31ma chaotic whip of fire~
+Descr
+A chaotic whip lies here, glowing with an evil aura.
+[0;36m~
+Type 5
+Extra 1050641
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 4 0 0 0 7 2 0
+Weight 1
+Cost 2500
+Affect 19 1 1 0 0
+End
+
+#24816
+Name the axe of execution~
+Short the [1maxe [0mof [30m[1mexecution~
+Descr
+An enormous axe lies in the dirt, ready to execute.
+[0;36m~
+Type 5
+Extra 538968129
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 35 0 3 0 0 0 4 4 0
+Weight 18
+Cost 7500
+End
+
+#24817
+Name human bones chest plate~
+Short a chest plate of human [1mbones~
+Descr
+A large chest plate of human bones rests here.
+[0;36m~
+Type 9
+Extra 2624
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 9
+Cost 6500
+Affect 17 -1 1 0 0
+End
+
+#24818
+Name titanium riot armor~
+Short [1mtitanium [0mriot armor~
+Descr
+A large, heavy suit of riot armor rests here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 10 10 50 50 10 1
+Weight 3
+Cost 1500
+End
+
+#24819
+Name klazor claws~
+Short a [1m[37msharp [0m[37mpair of [1m[30mklazor [0m[31mbeast [1m[30mclaws[0m[37m~
+Descr
+A large pair of sharp looking claws lies here, unclaimed.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 50 50 0 0
+Weight 4
+Cost 1000
+Affect 18 1 1 0 0
+Affect 19 1 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#24822
+Name gapti root~
+Short [32msome [1mgapti [0m[32mroot~
+Descr
+A large root sits here, unclaimed.
+[0;36m~
+Type 26
+Extra 65
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 995
+End
+
+#24823
+Name jug nothingless~
+Short a [1m[30mjug [0m[37mof [33mnothingless[0m[37m~
+Descr
+A strange jug lies here on the ground.
+[0;36m~
+Type 17
+Extra 64
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 100 0 0 0 0 0 0 0 0
+Weight 0
+Cost 710
+End
+
+#24824
+Name earring Cjakel'Dehz Symbol~
+Short an earring of the Cjakel'Dehz symbol~
+Descr
+A large earring displaying the symbol of death lies here.
+[0;36m~
+Type 9
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 50 50 0 0
+Weight 0
+Cost 1000
+Affect 17 -3 1 0 0
+End
+
+#24825
+Name key~
+Short a key~
+Descr
+A key lies on the ground here.
+[0;36m~
+Type 18
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24826
+Name earring cjakel dehz anklet death~
+Short an anklet of the Cjakel'Dehz symbol~
+Descr
+A large anklet  displaying the symbol of death lies here.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 50 50 0 0
+Weight 0
+Cost 1000
+Affect 17 -3 1 0 0
+End
+
+#24827
+Name small black ring~
+Short a small [1m[30mblack [0m[37mring~
+Descr
+a small black ring lies here on the ground.
+[0;36m~
+Type 8
+Extra 536870979
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 13 5 1 0 0
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#24800
+Name The Mouth of a Yawning Cave~
+Descr
+Directly east of here lies an entrance to a mammoth cave resembling that of
+a yawning mouth.  Vegitation of various hues and sizes block your passage to
+both the north and southern exits.  West of your current position a small trail
+consisting of small pebbles and rocks continues back to safer grounds.
+~
+Flags 2
+Shd 1
+Reset O 906 -5 100
+Door 1 0 0 24801 0 0
+~
+~
+Door 3 0 0 24852 0 0
+~
+~
+End
+
+#24801
+Name Inside the Cave Mouth~
+Descr
+You stand within an ancient cave that seems to have been aged by
+thousands of weathering years.  West of here the light of day shines into
+the main vestibule of the cave, illuminating this section with an unearthly
+aura.  The main tunnels continue both north and south, leading into darker
+and explored territory.  
+~
+Flags 4
+Sector 0
+Reset M 24801 5 100
+Reset O 980 7 100
+Reset O 24803 -1 7
+Reset M 24801 5 100
+Reset O 24803 -1 7
+Reset O 980 7 100
+Door 0 0 0 24802 0 0
+~
+~
+Door 1 259 0 24809 30 30
+As you take a closer look at the wall east of here, you notice that a small
+granite slab has been served twice on both the top and bottom sections.
+~
+slab of granite~
+Door 2 0 0 24808 0 0
+~
+~
+Door 3 0 0 24800 0 0
+~
+~
+End
+
+#24802
+Name A Bend in a Dark Tunnel~
+Descr
+You have wandered upon a very dark, dimly lit section of these tunnels. 
+On the walls around you, large sections of granite have been gorged from
+it's natural jagged shape, creating many primitive drawings of minotaur
+deities and former clanleaders.  The main tunnel continues into darkness
+east of here, and extends south back to the main cave vestibule.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 24803 0 0
+~
+~
+Door 2 0 0 24801 0 0
+~
+~
+End
+
+#24803
+Name A Dark Tunnel~
+Descr
+As you walk along in the cave you become increasingly nervous.  Many
+sounds beasts and other hideous creatures can be heard echoing off the stone
+cold granite walls which engulf your frigid soul.  The main tunnel continues
+both east deeper into the caves, and west where the illumination begins to
+increase.  
+~
+Flags 5
+Sector 0
+Reset M 24804 3 100
+Reset O 980 7 100
+Door 1 0 0 24804 0 0
+~
+~
+Door 3 0 0 24802 0 0
+~
+~
+End
+
+#24804
+Name An Intersection of Tunnels~
+Descr
+Various tunnels merge together at this point in the caves, creating a
+small, yet comforting room with three main exits leading north, south and
+west.  Just south of here, blood covers the ground and walls, casting a
+fearful sensation upon your mortal soul.  
+~
+Flags 5
+Sector 0
+Reset M 24801 5 100
+Reset O 24803 -1 7
+Reset O 980 7 100
+Door 0 0 0 24811 0 0
+~
+~
+Door 2 0 0 24805 0 0
+~
+~
+Door 3 0 0 24803 0 0
+~
+~
+End
+
+#24805
+Name A Bloody Intersection~
+Descr
+The tunnels within this intersection branch out in many directions, the
+main ones extending north and south.  Directly in the center of the room, a
+human lies on the ground in a bloody heap; his head severed and hung upon
+the western wall as a minotaur war trophy.  A small deep-red trail of blood
+extends east into a smaller, yet darker tunnel.  
+~
+Flags 5
+Sector 0
+Reset M 24803 2 100
+Reset M 24803 2 100
+Reset O 24801 -5 100
+Door 0 0 0 24804 0 0
+~
+~
+Door 1 0 0 24822 0 0
+~
+~
+Door 2 0 0 24806 0 0
+~
+~
+End
+
+#24806
+Name An Intersection of Tunnels~
+Descr
+The smell of unwashed bodies and fur permeiates the air as grunts of some
+unknown creature can be heard in the distance.  The intersection in which
+you stand within branches north, south and west; all exits leading into total
+darkness.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 24805 0 0
+~
+~
+Door 2 0 0 24821 0 0
+~
+~
+Door 3 0 0 24807 0 0
+~
+~
+End
+
+#24807
+Name A Dark Tunnel~
+Descr
+You trudge along a dark, putrid smelling tunnel as your heart begins to speed
+to a greater rate.  Many primitive scetches of minotaur deities and the such
+litter the walls that engulf your trembling, weak soul.  East of here the
+tunnel branches out, creating a small intersection.
+~
+Flags 5
+Sector 0
+Door 1 0 0 24806 0 0
+~
+~
+Door 3 0 0 24808 0 0
+~
+~
+End
+
+#24808
+Name A Bend in a Dark Tunnel~
+Descr
+You have wandered upon a very dark, dimly lit section of these tunnels. 
+On the walls around you, large sections of granite have been gorged from
+it's natural jagged shape, creating many primitive drawings of minotaur
+deities and former clanleaders.  The main tunnel continues into darkness
+east of here, and extends north back to the main cave vestibule.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 24801 0 0
+~
+~
+Door 1 0 0 24807 0 0
+~
+~
+End
+
+#24809
+Name Guardian Chambers~
+Descr
+As you walk into this well decorated, yet dismal room you can't help but
+feel a sensation of insecurity.  Along the northern section of the chambers,
+many stone hard slabs have been lined against the wall, providing room and
+board for the senior minotaur guards.  To your west a large, almost hidden
+gratite slab has been set into the cave wall; it probably leads back out to
+the cave entrance, where the main guard outpost stands firmly.  
+~
+Flags 4
+Sector 0
+Reset M 24802 2 75
+Reset O 24815 21 25
+Reset O 24802 2 20
+Reset M 24802 2 75
+Reset O 24802 2 20
+Reset O 24815 21 25
+Door 3 3 0 24801 30 30
+~
+slab of granite~
+End
+
+#24810
+Name A Small Gravel Path~
+Descr
+You stand upon a well-travelled, dusty gravel path that leads north into
+the large dark gates of a huge outpost.  South of here, the path continues
+towards many large mountains that can be seen in the near distance.  
+~
+Door 0 0 0 40045 0 0
+~
+~
+Door 2 0 0 24844 0 0
+~
+~
+End
+
+#24811
+Name A Dark Tunnel~
+Descr
+Darkness surrounds your very soul as you trudge along these dark, foggy
+tunnels within these caves.  To your west, a large wooden door has been set
+into the wall, probably the home to a mammoth minotaur.  The main tunnels
+continue both north and south into un-explored territory.  
+~
+Flags 5
+Sector 0
+Reset M 24804 3 100
+Reset O 980 7 100
+Door 0 0 0 24813 0 0
+~
+~
+Door 2 0 0 24804 0 0
+~
+~
+Door 3 3 0 24812 30 30
+~
+large wooden door~
+End
+
+#24812
+Name A Minotaur's Home~
+Descr
+You have wandered within a family of small, yet strong minotaurs.  As you
+begin to survey your new surroundings, one minotaur points at you and grunts
+- probably not very pleased with your presence.  A large wooden door lies
+east of you, leading back out into the main tunnel in which you came from.  
+~
+Flags 4
+Sector 0
+Reset M 24800 3 100
+Reset M 24805 3 100
+Door 1 3 0 24811 30 30
+~
+large wooden door~
+End
+
+#24813
+Name A Bend in a Dark Tunnel~
+Descr
+You have wandered upon a section of the caves where the main tunnel makes
+a sharp turn eastward.  A large wooden door has been set into the northern
+wall, most likey the home to a family of minotaur.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 24819 30 30
+~
+large wooden door~
+Door 1 0 0 24814 0 0
+~
+~
+Door 2 0 0 24811 0 0
+~
+~
+End
+
+#24814
+Name A Dark Tunnel~
+Descr
+As you trudge along this dark tunnel is these dark, strange caves, you
+begin to feel as if you're not wanted.  On the northern wall many
+strange-looking torches flicker in the dimly-lit atmosphere, making
+visibility poor.  South of here lies a large door, set into granite rock
+wall.  
+~
+Flags 7
+Sector 0
+Door 1 0 0 24815 0 0
+~
+~
+Door 2 3 0 24820 30 30
+~
+large wooden door~
+Door 3 0 0 24813 0 0
+~
+~
+End
+
+#24815
+Name The Minotaur Training Grounds~
+Descr
+You stand just before a large minotaur training ground, where many sounds
+of clashing swords and metal can be heard echoing off the walls.  The main
+training grounds extend both east and south.  
+~
+Flags 4
+Sector 0
+Reset M 24811 4 100
+Reset O 24812 -1 5
+Reset O 24813 -1 8
+Door 1 0 0 24817 0 0
+~
+~
+Door 2 0 0 24816 0 0
+~
+~
+Door 3 0 0 24814 0 0
+~
+~
+End
+
+#24816
+Name The Minotaur Training Grounds~
+Descr
+Within this section of the training grounds, many strong, ugly-looking
+minotaurs pose with their weapons, ready to shed blood upon one-another. 
+The grounds extend north towards the main vestibule, and east into the
+south-eastern corner.  
+~
+Flags 4
+Sector 0
+Reset M 24811 4 100
+Reset O 24813 -1 5
+Reset O 24812 -1 5
+Reset M 24807 4 100
+Door 0 0 0 24815 0 0
+~
+~
+Door 1 0 0 24818 0 0
+~
+~
+End
+
+#24817
+Name The Minotaur Training Grounds~
+Descr
+You stand in the north-eastern section of the minotaur training grounds,
+attempting not to get hit by any of the powerful forces that are practicing
+here.  The training grounds continue south towards the south-east corner,
+and west towards a large vestibule.  
+~
+Flags 2097156
+Sector 0
+Reset M 24811 4 100
+Reset O 24812 -1 5
+Reset O 24813 1 20
+Reset M 24807 4 100
+Reset O 24806 21 80
+Door 2 0 0 24818 0 0
+~
+~
+Door 3 0 0 24815 0 0
+~
+~
+End
+
+#24818
+Name The Minotaur Training Grounds~
+Descr
+Here in the south-eastern corner of the training grounds, stands a
+mammoth minotaur ready to train anyone in need..  Most likey a jack of all
+trades!  The walls in this section of the training grounds have been
+splattered with newly shed blood and flesh as battles continuously take
+part.  
+~
+Flags 6
+Sector 0
+Reset M 24807 4 100
+Reset O 24806 21 80
+Reset M 24807 4 100
+Reset O 24806 21 80
+Reset M 24806 1 100
+Reset O 981 10 1
+Door 0 0 0 24817 0 0
+~
+~
+Door 3 0 0 24816 0 0
+~
+~
+End
+
+#24819
+Name A Minotaur's Home~
+Descr
+You have wandered within a family of small, yet strong minotaurs.  As you
+begin to survey your new surroundings, one minotaur points at you and grunts
+- probably not very pleased with your presence.  A large wooden door lies
+south of you, leading back out into the main tunnel in which you came from. 
+~
+Flags 4
+Sector 0
+Reset M 24800 3 100
+Reset M 24805 3 100
+Door 2 3 0 24813 30 30
+~
+large wooden door~
+End
+
+#24820
+Name A Minotaur's Home~
+Descr
+You have wandered within a family of small, yet strong minotaurs.  As you
+begin to survey your new surroundings, one minotaur points at you and grunts
+- probably not very pleased with your presence.  A large wooden door lies
+north of you, leading back out into the main tunnel in which you came from. 
+~
+Flags 4
+Reset M 24800 3 100
+Reset M 24805 3 100
+Door 0 3 0 24814 30 30
+~
+large wooden door~
+End
+
+#24821
+Name A Large Shrine~
+Descr
+On the east and western sides of this room, a large obisidian pillar jets
+up from the cold granite ground that you stand upon, touching the high-set
+twenty-foot ceiling that dominates the area above your head.  On the
+southern wall, a mammoth red hanging has been hung, displaying the
+Cjakel'Dehz Symbol; a crimson rapier surrounded by 5 human eyeballs -
+promoting death and suffering.  North of here the shrine exits in a darker,
+yet smaller area.  
+~
+Flags 4
+Reset O 24800 -5 100
+Reset M 24808 1 100
+Reset O 24827 0 1
+Reset O 980 7 100
+Reset O 24824 26 10
+Reset O 24826 28 10
+Reset O 905 8 1
+Reset O 24814 15 20
+Reset M 24812 2 100
+Reset O 980 7 100
+Reset M 24812 2 100
+Reset O 980 7 100
+Door 0 0 0 24806 0 0
+~
+~
+End
+
+#24822
+Name A Small, Blood-Filled Tunnel~
+Descr
+You stomach turns in disgust as you enter this blood and flesh filled
+tunnel of total gore.  Whatever happened here must of been a total massucure
+of some sort..  Question is, in who's favour?  The bloody tunnel continues
+north towards another turn, and back west to a bloody intersection.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 24823 0 0
+~
+~
+Door 3 0 0 24805 0 0
+~
+~
+End
+
+#24823
+Name A Small, Blood-Filled Tunnel~
+Descr
+This blood-filled, disgusting tunnel makes a sharp turn to the east as
+you continue to trudge through the flesh scattered upon the ground.  You can
+hear a couple voices coming from the south, shouting in fear for their
+mortal lives.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 24824 0 0
+~
+~
+Door 2 0 0 24822 0 0
+~
+~
+End
+
+#24824
+Name A Small, Blood-Filled Tunnel~
+Descr
+You cover your nose as you breathe in the most putrid smell you've ever
+sensed in your lifetime - surely coming from the rotting flesh.  The main
+tunnel extends both to the south and west.  
+~
+Flags 4
+Sector 0
+Reset M 24810 1 100
+Reset O 24810 11 10
+Reset O 24811 15 25
+Door 2 0 0 24825 0 0
+~
+~
+Door 3 0 0 24823 0 0
+~
+~
+End
+
+#24825
+Name A Small, Blood-Filled Tunnel~
+Descr
+As you move closer in the eastern direction, you can faintly hear people
+yelling in pain as some humming machine rips away at their mortal shell. 
+You begin to have second thoughts about advancing towards them, maybe you
+should just make your way back to safer grounds northward.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 24824 0 0
+~
+~
+Door 1 0 0 24826 0 0
+~
+~
+End
+
+#24826
+Name A Small, Blood-Filled Tunnel~
+Descr
+The blood-filled tunnel you trudge along makes a sharp turn southward,
+almost opposite it's western exit that you may have entered from.  Echoing
+off the walls, screams of mercy and deathcries can be heard..  Maybe you
+better consider your options before proceeding.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 24827 0 0
+~
+~
+Door 3 0 0 24825 0 0
+~
+~
+End
+
+#24827
+Name A Small, Blood-Filled Tunnel~
+Descr
+Your face twitches in fear as a deathcry from the western tunnel startles
+you.  The trail of flesh and blood that litter the ground continues to both
+the north and west, leading off into unknown territories.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 24826 0 0
+~
+~
+Door 3 0 0 24828 0 0
+~
+~
+End
+
+#24828
+Name A Small, Blood-Filled Tunnel~
+Descr
+As you walk along this horrid scene of bloodly intestines and rotting
+flesh, you can't help but cover your nose.  The main passageway continues
+western, towards a less-bloody tunnel that later vectors southward into a
+brighty lit section of the caves.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 24827 0 0
+~
+~
+Door 3 0 0 24829 0 0
+~
+~
+End
+
+#24829
+Name Before a Large Titanium Hallway~
+Descr
+You stand just before a large hallway, covered and outfitted with
+titanium walls, floors, and ordiments.  To your east the walls are no longer
+covered of titanium, yet they show only their bare, natural granite surface.
+As you examine the eastern tunnel more closely, you notice that it has been
+splattered with flesh and blood, most likey of some unfortunate slaves.  
+~
+Flags 6
+Sector 0
+Door 1 0 0 24828 0 0
+~
+~
+Door 2 0 0 24830 0 0
+~
+~
+End
+
+#24830
+Name A Large Titanium Hallway~
+Descr
+Your feet emit a heavy clunk as you walk along these cold floors of pure
+titanium.  Just then you begin to wonder why a cave would need to be
+outifitted in such a dense material - maybe because whatever lies here is of
+great value to the minotaurs, or it may just be that this could be a prison
+of some sort.  The titanium hallways continue both east and south.  
+~
+Flags 4
+Sector 0
+Reset M 24817 5 100
+Reset O 24825 21 8
+Reset O 24818 4 5
+Reset M 24817 5 100
+Reset O 24825 21 8
+Reset O 24818 4 5
+Door 0 0 0 24829 0 0
+~
+~
+Door 1 0 0 24839 0 0
+~
+~
+Door 2 0 0 24831 0 0
+~
+~
+End
+
+#24831
+Name A Large Titanium Hallway~
+Descr
+Various screams of mercy and pleads for help are heard as you make your
+way along this chilling titanium hallway.  There is a large grated door to
+your east, it probably leads to a prison cell.  The large hallway in which
+you travel along extends both north and south.  
+~
+Flags 2097156
+Sector 0
+Door 0 0 0 24830 0 0
+~
+~
+Door 1 519 0 24835 48 48
+~
+prisondoor~
+Door 2 0 0 24832 0 0
+~
+~
+Door 3 3 0 24998 30 30
+~
+celldoor~
+End
+
+#24832
+Name A Large Titanium Hallway~
+Descr
+Considering you are deep within a granite cave, you are quite impressed
+with how clean and intricate this titanium hallway is.  There seems to be a
+large grated cell door to your west, it would probably take quite a bit of
+force to open it without a key.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 24831 0 0
+~
+~
+Door 1 3 0 24999 30 30
+~
+celldoor~
+Door 2 0 0 24833 0 0
+~
+~
+Door 3 519 0 24836 30 30
+~
+large cell door~
+End
+
+#24833
+Name A Large Titanium Hallway~
+Descr
+As you walk southern along this gleaming, and clean titanium hallway, you
+can see the end of the hall approaching slowly.  A large prison door lies
+directly to your west, keeping you seperated from the accused.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 24832 0 0
+~
+~
+Door 1 519 0 24837 30 30
+~
+large cell door~
+Door 2 0 0 24834 0 0
+~
+~
+Door 3 3 0 25000 30 30
+~
+celldoor~
+End
+
+#24834
+Name The End of a Titanium Hallway~
+Descr
+You have reached the end of this long, clean titanium hallway.  There is
+a small wooden desk sitting here with a small brown sign sitting on top. 
+The chair that is tucked neatly under the table does not seem to be occupied
+at the present time, but most likey is one of the sheriff's outposts.  To
+your west a large red door stands very high and solid..  It looks much
+better than most of the other prison doors.  Just then you begin to wonder
+what could possibly lie behind it's grasp.  
+~
+Flags 2052
+Sector 0
+Reset O 24809 -5 100
+Door 0 0 0 24833 0 0
+~
+~
+Door 3 519 0 24838 30 30
+~
+large solid red door~
+End
+
+#24835
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your west lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 5
+Sector 0
+Reset M 24814 1 100
+Reset M 24814 1 100
+Door 3 519 0 24831 48 48
+~
+prisondoor~
+End
+
+#24836
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your east lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 4
+Sector 0
+Reset M 24814 15 75
+Reset M 24814 15 75
+Door 1 519 0 24832 30 30
+~
+large cell door~
+End
+
+#24837
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your west lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 5
+Sector 0
+Door 3 519 0 24833 30 30
+~
+large cell door~
+End
+
+#24838
+Name A Large, Red Prison Cell~
+Descr
+This dark, putrid cell is very large indeed..  Much different from the
+former cells that you have visited within this small prison complex.  Just
+then, you begin to hear a slight clicking sound.  As you begin to turn
+around and look up, you see a HUGE, crazy looking beast that is readying
+itself for it's next big feast.  Only problem is, there doesn't seem to be
+any food around, so he begins to eye your soft fleshy shell.  A large red
+door lies directly east of you, leading back out into safer grounds.  
+~
+Flags 4
+Sector 0
+Reset M 24818 1 100
+Reset O 24801 -5 100
+Reset O 24819 -1 5
+Door 1 519 0 24834 30 30
+~
+large solid red door~
+Door 5 259 0 24843 40 40
+~
+secretdoor~
+End
+
+#24839
+Name A Large Titanium Hallway~
+Descr
+As you walk along this section of the titanium hall, you begin to hear
+faint talking coming from the eastern direction.  West of here lies a small
+three-way intersection of tunnels.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 24840 0 0
+~
+~
+Door 3 0 0 24830 0 0
+~
+~
+End
+
+#24840
+Name A Large Titanium Hallway~
+Descr
+Not far east of here lies a large mithril coated door where many voices
+carrying a certain authority can be heard.  The main tunnel continues east
+towards the end of this short tunnel, and back west towards a small
+three-way intersection.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 24841 0 0
+~
+~
+Door 3 0 0 24839 0 0
+~
+~
+End
+
+#24841
+Name The End of a Large Titanium Hallway~
+Descr
+You have reached the end of this short, yet solid titanium hallway.  To
+the east of you lies a large mithril coated door - whatever lies behind it
+must contain some importance.  
+~
+Flags 6
+Sector 0
+Reset M 24817 5 100
+Reset O 24818 4 5
+Door 1 7 24825 24842 30 30
+~
+mithril doorway~
+Door 3 0 0 24840 0 0
+~
+~
+End
+
+#24842
+Name The Sheriff's Quarters~
+Descr
+You stand directly in the center of a large, well-decorated room of great
+importance.  Many paintings and trophies have been hung upon the walls,
+displaying the sheriff's great fighting powers.  To the west of you lies a
+mithril doorway, leading back out into a large titanium hallway.  
+~
+Flags 4
+Reset M 24816 1 100
+Reset O 24816 21 1
+Reset O 24817 4 25
+Reset M 24817 5 75
+Reset O 24818 4 10
+Reset M 24817 5 75
+Reset O 24818 4 10
+Door 3 7 0 24841 30 30
+~
+mithril doorway~
+End
+
+#24843
+Name Inside a Secret Alcove~
+Descr
+You stand just under a large red prison cell, inside some sort of strange
+granite alcove.  A large woman displaying a variety of wares stands in the
+corner of the room shows you her small black market of items.  A large door
+lies in the ceiling of this room, leading back into a prison cell.  
+~
+Flags 4
+Reset M 24819 1 100
+Reset O 988 -1 1
+Reset O 989 3 100
+Reset O 24822 3 100
+Reset O 24813 -1 100
+Door 4 259 0 24838 30 30
+~
+secretdoor~
+End
+
+#24844
+Name A Small Gravel Path~
+Descr
+As you trudge along this small gravel path, you observe a large outpost
+just north of your current position.  It would probably make a nice
+sanctuary from the outside world - a place were you can find a nice bar and
+catch a nap.  South of here the gravel path continues towards many large
+mountains situated in the south-east.  
+~
+Shd 1
+Door 0 0 0 24810 0 0
+~
+~
+Door 2 0 0 24845 0 0
+~
+~
+End
+
+#24845
+Name A Small Gravel Path~
+Descr
+Many large bugs fly around in circles as you make your way along this
+small gravel path.  In the far north you can see a small evil-looking
+outpost of some sort.  
+~
+Shd 1
+Door 0 0 0 24844 0 0
+~
+~
+Door 2 0 0 24846 0 0
+~
+~
+End
+
+#24846
+Name A Small Gravel Path~
+Descr
+The gravel path in which you trudge along makes a sharp turn to the east
+in this area - it seems to be leading towards a set of large mountains.  In
+the very far northern distance you can see a large evil outpost.  
+~
+Shd 1
+Door 0 0 0 24845 0 0
+~
+~
+Door 1 0 0 24847 0 0
+~
+~
+End
+
+#24847
+Name A Small Gravel Path~
+Descr
+Your feet make a loud crunching noise as they walk over the small gravel
+rocks that have been scattered all about this small path leading south and
+west.  
+~
+Shd 1
+Door 2 0 0 24848 0 0
+~
+~
+Door 3 0 0 24846 0 0
+~
+~
+End
+
+#24848
+Name A Small Gravel Path~
+Descr
+As you walk southern on this gravel path, the mountains that you could
+see earlier have become of an enormous size.  As you begin to wonder what
+possibly may lie within their frigid grasp, you decide that a quick beline
+towards the outpost north of here might be a better decision.  
+~
+Shd 1
+Door 0 0 0 24847 0 0
+~
+~
+Door 2 0 0 24849 0 0
+~
+~
+End
+
+#24849
+Name A Small Gravel Path~
+Descr
+Directly east of you lies a large mountain constructed of pure granite
+stone and rocks.  Not too far to the south, the gravel path in which you
+travel upon curves east into what seems to be the main vestibule to these
+enormous mountains.  
+~
+Shd 1
+Door 0 0 0 24848 0 0
+~
+~
+Door 2 0 0 24850 0 0
+~
+~
+End
+
+#24850
+Name A Small Gravel Path~
+Descr
+The gravel path you trudge along quickly makes a sharp turn eastern,
+leading onto a less-travelled path.  You become dizzy as you look straight
+up and attempt to glimpse at the very top of these large mountains.  
+~
+Shd 1
+Door 0 0 0 24849 0 0
+~
+~
+Door 1 0 0 24851 0 0
+~
+~
+End
+
+#24851
+Name A Worn Dusty Path~
+Descr
+Your feet become dusty as you walk along this un-packed path leading
+towards the main entrance of some enormous mountains that lie just east of
+here.  To your west the path transforms into a hard-packed, travel surface
+that begins to lead northward to safer grounds.  
+~
+Door 1 0 0 24852 0 0
+~
+~
+Door 3 0 0 24850 0 0
+~
+~
+End
+
+#24852
+Name A Worn Dusty Path~
+Descr
+East of here lies the large mouth of a yawning cave, leading into the dark,
+frigid mountains.  Your instinct tells you that it would probably be a good
+idea to make your way back to town at this point, and discontinue travelling
+eastward.  
+~
+Door 1 0 0 24800 0 0
+~
+~
+Door 3 0 0 24851 0 0
+~
+~
+End
+
+#24998
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your east lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 5
+Sector 0
+Reset M 24998 1 100
+Reset M 24998 1 100
+Door 1 0 0 24831 0 0
+~
+~
+End
+
+#24999
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your west lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 5
+Sector 0
+Reset M 24999 1 100
+Reset M 24999 1 100
+Door 3 0 0 24832 0 0
+~
+~
+End
+
+#25000
+Name A Prison Cell~
+Descr
+You stand within a cold, dirty prison cell that has been probably never
+been cleaned in decades.  Rats crawl along the floor, looking for a shread
+of meat to munch on, for they look very hungry indeed.  To your east lies
+the prison door that leads back out to a titanium hallway.  
+~
+Flags 2097157
+Sector 0
+Reset M 25000 1 100
+Reset M 25000 1 100
+Door 1 3 0 24833 30 30
+~
+cell~
+End
+
+#0
+
+
+
+#$

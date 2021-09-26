@@ -1,0 +1,1390 @@
+#AREADATA 
+Name Gnoll's Cave~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA Gnoll's deathcry startles you.
+~[0;37m
+SRepop 55
+SJail 13010
+SOutJail 13013
+SCZone 0
+Builders Wage~
+VNUMs 13001 13050
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#13001
+Name gnoll miner~
+Short a gnoll miner~
+Long 
+An outcast Gnoll Miner Stands here, helping the elven slaves escape to freedom.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 15
+Money 50
+Level 50
+Sex 1
+MobType 22
+End
+
+#13004
+Name Gnoll Soldier~
+Short a gnoll soldier~
+Long 
+A stupid looking gnoll soldier stands here, grinning idly.
+~
+Descr
+This is the legendary gnoll soldier.  It is very stupid, but somewhat
+harmful.  For more powerful adventurers, he should prove no problem.  This
+gnoll looks at you and it occurs to you that he may have just
+short-circuited between his ears.  
+ 
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -333
+Money 50
+Level 50
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13005
+Name Ant~
+Short an ant~
+Long 
+An ant is crawling in the dirt here.
+~
+Descr
+This ant is minding its own business, crawling through the cracks on the
+floor with a crumb on its back.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 15
+Money 30
+Level 30
+MobType 27
+Guard 0
+End
+
+#13006
+Name Gnoll child~
+Short a gnoll child~
+Long 
+A gnoll child sits here, looking for its mother.
+~
+Descr
+This is a small, exact replica of a gnoll woman.  The only difference is
+that it is smaller.  As you peer at it, it snarls at you, and you can see a
+red gleam in its eye.  Watch out.  
+ 
+~
+Attackmsg bite~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 512
+Alignment -200
+Money 35
+Level 35
+Sex 2
+MobType 22
+Guard 0
+End
+
+#13007
+Name gnoll woman~
+Short a gnoll woman~
+Long 
+A gnoll woman stands here, grinning evilly.
+~
+Descr
+This lady is super ugly.  She is as ugly as the beaty pageant winners are
+pretty.  Her eyes flash red, and her skin is a puke-green.  She grins an
+extremely evil grin at you, and laughs menacingly.  
+~
+Attackmsg bite~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -300
+Money 40
+Level 40
+Sex 2
+MobType 22
+Guard 0
+End
+
+#13008
+Name female whore gnoll gnoll-whore~
+Short a gnoll-whore~
+Long 
+A gnoll-whore stands here, chattering uneasily.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870947
+ActBits3 65536
+Affect_By 256
+Alignment -100
+Money 35
+Level 35
+Sex 2
+MobType 22
+Guard 0
+End
+
+#13009
+Name gnoll worker~
+Short a gnoll worker~
+Long 
+A gnoll worker is here holding his whip, ready for action.
+~
+Descr
+This guy makes your flesh crawl.  He looks at you and says, 'You better
+have some good reason to be here, or I'm gonna whip you.  Come to think of
+it, I'm gonna whip you anyway.  ' 
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -266
+Money 50
+Level 50
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13010
+Name Gnoll Guardian~
+Short the gnoll guardian~
+Long 
+A *humongous* gnoll guardian stands here, asking for your appointment card.
+~
+Descr
+This is one huge gnoll warrior.  It radiates power from its presence. 
+This gnoll takes tickets to see the king, and protects the king.  You should
+not mess with him!  
+~
+AMax 1
+NHeight 0
+ActBits 536870919
+Affect_By 512
+Alignment -200
+Money 101
+Level 101
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13011
+Name gnoll miner~
+Short a gnoll miner~
+Long 
+A gnoll miner stands here, chipping away at the rock.
+~
+Descr
+This is a miner.  He is one of the gnoll king's primary sources of
+income.  He looks at you, and says 'Get outta my face.  ' 
+~
+AMax 2
+NHeight 0
+ActBits 37
+Affect_By 33554432
+Alignment -315
+Money 50
+Level 50
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13014
+Name slave elven~
+Short an elven slave~
+Long 
+An elven slave is here, crawling on the ground.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 100
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+End
+
+#13015
+Name gnoll king~
+Short the gnoll king~
+Long 
+The gnoll king is sitting in his throne here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 40
+Alignment -450
+Money 150
+Level 150
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13016
+Name gnoll guard~
+Short the gnoll king's guard~
+Long 
+The gnoll king's guard stands here, ready to help the king.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 4194305
+Affect_By 1048576
+Alignment -300
+Money 60
+Level 60
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13017
+Name gnoll miner~
+Short a gnoll miner~
+Long 
+A tough, squat gnoll miner eyes you cautiously.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment -200
+Money 50
+Level 50
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13018
+Name disgruntled gnoll miner~
+Short an unhappy gnoll miner~
+Long 
+A disgruntled-looking gnoll miner stands here, sulking.
+~
+Descr
+This is a mean-looking gnoll miner.  He seems to be unhappy with his job,
+and wants to go out and have adventures.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -250
+Money 50
+Level 50
+Sex 1
+MobType 22
+Guard 0
+End
+
+#13019
+Name elven slave~
+Short an elven slave~
+Long 
+An elven slave sits here, chipping rock away with his fingers.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment 200
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#13002
+Name gnoll helmet iron~
+Short a gnollish [0m[37miron[0m helmet~
+Descr
+A gnoll soldier's iron helmet is on the floor here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 50 50 0 0
+Weight 3
+Cost 240
+Affect 17 -1 1 0 0
+End
+
+#13003
+Name miner's helmet gnoll~
+Short a miner's helmet~
+Descr
+A gnoll miner's helmet is lighting the room here.
+[0;36m~
+Type 1
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 50 1 1 0 0 0 0 0 0
+Weight 2
+Cost 400
+Affect 17 -1 1 0 0
+ExtraDescr miner's helmet gnoll~
+This is a gnoll miner's helmet.  It lights your way by a light fixed to
+
+the front of it.  
+
+~
+End
+
+#13007
+Name Bed~
+Short a bed~
+Descr
+A bed is sitting here, gathering dust.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13008
+Name a green chair~
+Short a green chair~
+Descr
+A green chair is on the ground in one corner.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13009
+Name hard leather armor~
+Short some hard [0m[33mleather[0m armor~
+Descr
+Some padded leather armor lies discarded here.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 60 60 0 0
+Weight 3
+Cost 740
+Affect 13 5 1 0 0
+End
+
+#13010
+Name A sign pointing north~
+Short a sign pointing north~
+Descr
+A sign is here in the mud, pointing north.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+This sign is pointing north.  The sign says: Beware fellow adventurers! 
+
+The cave north of here is treacherous.  Be careful what you do.  Sure, the
+
+gnoll soldiers and their kin are sissies, but the king.  Eww, he makes me
+
+shudder!  Beware him, and don't betray him.  -Worlic the adventurer.  
+
+~
+End
+
+#13011
+Name green sword~
+Short a [1m[37mg[0m[37ml[1mi[0m[37mt[1mt[0m[37me[1mr[0m[37mi[1mn[0m[37mg [1m[32mgreen [0m[37msword[0m~
+Descr
+A glittering green sword is lying here, gathering dust.
+[0;36m~
+Type 5
+Extra 4194304
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 9 0 3 0 0 0 2 9 0
+Weight 2
+Cost 120
+Affect 17 -2 1 0 0
+Affect 18 3 1 0 0
+End
+
+#13012
+Name A small piece of beef~
+Short a piece of [1m[31mb[0m[31me[1me[0m[31mf[0m~
+Descr
+You notice a foul smelling piece of beef here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 16
+End
+
+#13013
+Name whip~
+Short a [0m[37mchain[0m whip~
+Descr
+A whip lies here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 25 0 4 0 0 0 2 3 0
+Weight 1
+Cost 200
+End
+
+#13015
+Name slime~
+Short a green slime~
+Descr
+You notice a slime oozing along the floor here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 1 0 0 0 0 0 0
+Weight 0
+Cost 1
+End
+
+#13016
+Name couch~
+Short a couch~
+Descr
+A brown waiting-couch is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13017
+Name green long sword longsword~
+Short a [1m[37mg[0m[37ml[1mi[0m[37mt[1mt[0m[37me[1mr[0m[37mi[1mn[0m[37mg [1m[32mgreen [0m[37mlongsword[0m~
+Descr
+You notice a green sword with a glittering long blade gathering dust here.
+[0;36m~
+Type 5
+Extra 2098178
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 3 0 0 0 3 5 0
+Weight 10
+Cost 3150
+Affect 17 -1 1 0 0
+Affect 13 5 1 0 0
+Affect 18 2 1 0 0
+End
+
+#13018
+Name huge cross shield~
+Short a [31mred[1m[31m-crossed [0mshield~
+Descr
+[36mA huge shield with a [31mred [36mcross across it sits here.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 1 2 10 10 40 40 0 0
+Weight 2
+Cost 3500
+Affect 17 -1 1 0 0
+Affect 13 5 1 0 0
+End
+
+#13019
+Name large pile coins gold platinum copper silver~
+Short a large pile of assorted coins~
+Descr
+A large pile of coins.
+[0;36m~
+Type 20
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 41 3 0 0 0 0 0 0 0 0
+Weight 0
+Cost 41
+End
+
+#13020
+Name throne~
+Short a throne~
+Descr
+A beatifully decorated throne is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13021
+Name pickaxe~
+Short a gnollish pickaxe~
+Descr
+A pickaxe is laying in the dirt here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 35 0 11 0 0 0 3 2 0
+Weight 0
+Cost 275
+End
+
+#13022
+Name king's crown~
+Short a crown~
+Descr
+A crown lies in the dust radiating light.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 10 10 50 50 10 1
+Weight 1
+Cost 2000
+End
+
+#13023
+Name golden scepter APB club concussion~
+Short a [1m[33mgolden scepter[0m~
+Descr
+A golden scepter lies here on the ground, waiting to be claimed.
+[0;36m~
+Type 5
+Extra 524290
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 15 0 8 0 0 0 2 9 0
+Weight 6
+Cost 4355
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#13001
+Name Cave entrance.~
+Descr
+You are standing in a shady area here, under a tree.  There is a small
+breeze ruffling through your hair, and you feel fine.  To the north is a
+small cave entrance it looks like a tight squeeze, but you could probably
+make it.  It seems foreboding, however, and it would probably be unwise to
+enter that dark area unless you were properly equipped.  
+~
+Flags 2
+Shd 1
+Sector 2
+Reset O 13010 -5 100
+Movemess
+(null)~
+Door 0 0 0 13002 30 30
+The cave is in a northerly direction.
+~
+door~
+Door 2 0 0 9908 30 30
+~
+(null)~
+End
+
+#13002
+Name Inside the cave.~
+Descr
+This room has an evil, foreboding sense to it.  It smells of doom, and
+stinks of hatred.  Strangely, it seems to make you want to venture further
+into its depths.  The room is so uncannily dark that you can't tell left
+from right, east from west.  
+~
+Shd 1
+Sector 3
+Reset M 13004 15 100
+Reset O 13009 4 25
+Reset O 13002 5 25
+Reset O 13011 21 25
+Movemess
+(null)~
+Door 0 0 0 13009 30 30
+The prison lies that way, you can tell by the stink of rotting flesh.  
+~
+(null)~
+Door 1 0 0 13003 30 30
+You can barely make out the hall in that direction.  
+~
+door~
+Door 2 0 0 13001 30 30
+You see the entrance to the cave in that direction.
+~
+door~
+End
+
+#13003
+Name The hall.~
+Descr
+You are in a large hall.  From cracks in the ceiling flows a seemingly
+ungodly bright light.  After looking at the light a moment, your mind swims,
+and all reality is lost.  After a few seconds, the feeling subsides, and you
+feel ok again.  A thick green slime is oozing from the walls.  Better make
+way fast before it engulfs you!  
+~
+Sector 3
+ExtraDescr slime~
+This is a thick, ugly, gooey slime.  Ick!  You put your hand into it, and
+
+it engulfs your hand.  Ewww!  
+
+ 
+
+~
+Reset M 13005 10 100
+Movemess
+(null)~
+Door 0 0 0 13005 30 30
+The kitchen is that way.  
+~
+door~
+Door 1 0 0 13004 30 30
+The living quarters are in that direction.
+~
+door~
+Door 2 0 0 13030 30 30
+The south hall is over there.  
+~
+(null)~
+Door 3 0 0 13002 30 30
+You can see a small room in that direction.  
+~
+door~
+End
+
+#13004
+Name The living quarters.~
+Descr
+You are standing in a small room.  This looks like a nice place for a
+gnoll, but not for anybody else.  It stinks!  It's ugly!  There is very
+sparse furniture here: A chair in one edge of the room, and a bed in the
+other.  A crude light fixture is affixed to the ceiling somehow, and it is
+bathing the room in a greenish light.  
+~
+ExtraDescr light fixture~
+This is barely hanging on the ceiling.  Cover your head!  It looks as if
+
+it will break off and fall to the ground any moment.  
+
+~
+Reset O 13008 -5 100
+Reset O 13007 -5 100
+Reset M 13006 2 100
+Movemess
+(null)~
+Door 3 0 0 13003 30 30
+~
+door~
+End
+
+#13005
+Name The gnoll kitchen.~
+Descr
+You are in a small kitchen.  There is a putrid smell of burning meat. 
+Not appetising to you, perhaps, but to a gnoll soldier, well, it knows of
+nothing better to eat.  There is a stove in one corner, but not much else. 
+Pretty bare, even compared to the rest of the gnoll's quarters.  
+~
+Flags 1
+ExtraDescr stove~
+This is a large stove.  It seems to be baking some sort of beef.  
+
+~
+Reset M 13007 3 100
+Movemess
+(null)~
+Door 0 0 0 13017 30 30
+You can see the miner's path that way.  
+ 
+~
+(null)~
+Door 1 0 0 13006 30 30
+You see over that way the storage room.  
+~
+door~
+Door 2 0 0 13003 30 30
+The hall is over there.  
+~
+door~
+End
+
+#13006
+Name The storage area.~
+Descr
+This room is definitely the storage place.  The walls are lined with
+baskets of disgusting-looking bits of beef and other less desirable
+creatures.  The smell kind of makes you want to puke, but you are able to
+control the gag reflex.  This place alone is enough of a turn-off to keep
+you from continuing further into gnoll territory, but there are also
+scrawlings on the wall warning you not to continue further.  
+~
+Flags 1
+ExtraDescr scrawlings wall~
+The scrawlings are:
+
+DON'T Contin?e this ?ay.
+
+Only bad ?hin?s could ha??en.
+
+D? no? go in t? see the gno?? kin?
+
+unles? you have a? appointme?t card!
+
+~
+Reset O 13012 -5 100
+Movemess
+(null)~
+Door 1 0 0 13007 30 30
+Over there are the servants quarters.  
+~
+door~
+Door 3 0 0 13005 30 30
+You can see the kitchen thataways.  
+~
+door~
+End
+
+#13007
+Name The servant's quarters.~
+Descr
+This room fits your mental picture of a 'harem' from medeval times. 
+There are many whore-like female gnolls in this room, chattering uneasily. 
+The king comes in this room to choose a new girl after he is done with the
+last.  
+~
+Reset M 13008 4 100
+Movemess
+(null)~
+Door 0 0 0 13012 30 30
+There is the waiting quarters.  
+~
+(null)~
+Door 3 0 0 13006 30 30
+The storage lies in that direction.  
+~
+door~
+End
+
+#13009
+Name The torture chamber.~
+Descr
+This place stinks of sweat.  The floor is littered with corpses from the
+dead prisoners.  Some elven slaves are here.  Ever since the gnolls took
+over the elven forest, they have always oppressed the elven slaves.  In the
+corner of the room stands an iron maiden.  
+~
+Flags 1
+ExtraDescr iron maiden~
+This is one of many medeval torture devices.  When you look at it, you
+
+can see a head hanging on one of its many spikes.  As you look down, you can
+
+see an opening.  Perhaps if you opened the maiden a little wider...  
+
+~
+ExtraDescr iron maiden~
+This is one of many medeval torture devices.  When you look at it, you can see a head hanging on one of its many spikes.
+
+As you look down, you can see an opening.  Perhaps if you opened the maiden a little wider...
+
+~
+ExtraDescr maiden~
+This is a medeval torture device.  It is a large, humanoid-shaped case,
+
+filled with spikes.  In fact, as you look at it, you can see a rotting head
+
+hanging from a spike!  
+
+~
+Reset M 13014 2 100
+Reset M 13009 2 100
+Reset O 13013 21 100
+Movemess
+(null)~
+Door 2 0 0 13002 30 30
+The cave room is over there.  
+~
+(null)~
+Door 5 0 0 13031 30 30
+~
+iron maiden~
+End
+
+#13010
+Name The prison.~
+Descr
+Here it is.  The prison.  It has slime dripping off of the walls, and a
+single solitary barred window in the northern corner.  Everything in here
+looks like it has been untouched for centuries.  Even the air is extremely
+musty.  You can here the moans of agony from the torture chamber next to
+you.  
+~
+Flags 1154
+Reset O 13015 -5 100
+Movemess
+(null)~
+End
+
+#13011
+Name The king's waiting room.~
+Descr
+~
+Flags 2
+Movemess
+(null)~
+End
+
+#13012
+Name The king's waiting quarters.~
+Descr
+Lights adorn the walls here, and mirrors are everywhere.  This is the
+glamorous waiting quarters for the king.  All those that need to see the
+king with a reservation.  Unfortunately, there is no place to sign in, so
+you wil probably have to wait or do something else.  
+~
+Flags 3
+ExtraDescr mirror~
+Hmm.  This almost looks like some kind of door.  Hmmm.  
+
+~
+Reset O 13016 -5 100
+Movemess
+(null)~
+Door 1 787 0 13013 55 55
+You see a large glimmering mirror that way.  
+~
+mirror~
+Door 2 0 0 13007 30 30
+You can see the 'harem' over there.  
+~
+(null)~
+End
+
+#13013
+Name The king's chambers.~
+Descr
+This is the king's chambers.  You can see an extremely wicked looking
+place here.  
+~
+Flags 1
+Reset M 13010 1 100
+Reset O 13017 21 40
+Reset O 13018 10 75
+Reset M 13016 2 100
+Movemess
+(null)~
+Door 0 0 0 13016 30 30
+There's the study.  
+~
+(null)~
+Door 3 1 0 13012 55 55
+You can see the hidden mirror-door leading to the king's waiting quarters
+over there.  
+~
+mirror~
+End
+
+#13014
+Name The throne room.~
+Descr
+This is the king's throne room.  There are rich, beautiful tapestries
+covering all the walls.  A glowing green throne sits in the center of the
+room.  
+~
+Reset O 13020 -5 100
+Reset M 13015 1 100
+Reset O 13023 21 4
+Reset O 13022 5 70
+Movemess
+(null)~
+Door 0 0 0 13013 30 30
+The king's chamber is over there.  
+~
+(null)~
+Door 1 3 0 13015 50 50
+You see a tapestry wrapped around a bar.  Wait!  That's a secret
+entrance...  
+~
+Tapestry~
+End
+
+#13015
+Name The treasury~
+Descr
+This is a very beatiful room.  The walls are ligned with silver and
+gold.  This is the king's secret money-hiding place.  All the gnoll family's
+gold comes here.  
+~
+Reset O 13019 -5 100
+Movemess
+(null)~
+Door 3 259 0 13014 50 50
+Over there is the throne room, through the tapestry-door.  
+~
+ord~
+End
+
+#13016
+Name The Study.~
+Descr
+This is the King's study.  Towering bookshelves line all the walls, and
+as you look up, they all seem to converge at the top of the large room. 
+After looking up for a second, you start to become dizzy, and lose your
+balance.  Just before you are about to faint, you look down, and your senses
+come swirling back.  
+~
+ExtraDescr books bookshelves bookshelf~
+So many books, they boggle your mind.  There are many different color
+
+ones, and many different shaped ones.  
+
+~
+Movemess
+(null)~
+Door 2 0 0 13013 30 30
+The King's Chamber can be seen.  
+~
+(null)~
+End
+
+#13017
+Name The Miners Path.~
+Descr
+This is a path in the caves that the gnoll miners travel to go digging
+for jewels.  The path leads west into the darkness.  Right here, however,
+there is a electrical line giving power to a series of lanterns.  
+~
+Flags 2
+ExtraDescr lanterns~
+A long string of lanterns are draped around this room.  
+
+~
+Movemess
+(null)~
+Door 2 0 0 13005 30 30
+You can see the kitchen over there.  
+~
+(null)~
+Door 3 0 0 13018 30 30
+You can see the rickety old bridge over there.  
+~
+(null)~
+End
+
+#13018
+Name The Rickety Bridge.~
+Descr
+You are standing on a rickety old bridge, spanning a great chasm.  It
+looks as if it goes down for miles on end.  This is the way the gnoll miners
+take when they go looking for gold.  
+~
+Flags 1
+Reset M 13017 15 100
+Reset O 13021 21 100
+Movemess
+(null)~
+Door 1 0 0 13017 30 30
+That way is a continuation of the miner's path.  
+~
+(null)~
+Door 3 0 0 13019 30 30
+~
+(null)~
+End
+
+#13019
+Name The Mining Room.~
+Descr
+This is a non-descript gnoll mining hall.  It has a few holes in the
+walls leading off in various directions, but looks no different than any
+other room around here.  
+~
+Flags 1
+Movemess
+(null)~
+Door 1 0 0 13018 30 30
+You can see the rickety old bridge over there.  
+ 
+~
+(null)~
+Door 3 0 0 13020 30 30
+~
+(null)~
+End
+
+#13020
+Name The dusty miner's path.~
+Descr
+This is a dusty path, leading in a north-south direction.  It has a layer
+of extremely fine dust on the ground.  The dust is a bright, amber color,
+and has been ground into a path by the many gnoll miner's footsteps.  
+~
+Flags 1
+ExtraDescr dust~
+Wow!  Real gold!  You plunge your hands through it, and you can just feel
+
+the greed running through your veins.  Ahh!  
+
+ 
+
+~
+Movemess
+(null)~
+Door 0 0 0 13021 30 30
+You can see a continuation of this path.  
+~
+(null)~
+Door 1 0 0 13019 30 30
+The mining hall is over there.  
+~
+(null)~
+Door 2 0 0 13022 30 30
+~
+(null)~
+Door 3 0 0 13027 30 30
+~
+(null)~
+End
+
+#13021
+Name The northward gold-dust path.~
+Descr
+You are on a north-south path.  The floor is made of gold dust, beaten
+into the ground by the feet of the many miners that walk these ways every
+day.  
+~
+Flags 1
+Movemess
+(null)~
+Door 0 0 0 13024 30 30
+That way is the miner's golden path.  
+~
+(null)~
+Door 2 0 0 13020 30 30
+You can see the beginning of the gold-dust path.  
+~
+(null)~
+End
+
+#13022
+Name The southward golden path.~
+Descr
+This is the path the miners take to go to their work.  It is beaten down,
+and looks like it has been heavily trodden on, by the many miners in these
+caves.  
+ 
+~
+Flags 1
+Movemess
+(null)~
+Door 0 0 0 13020 30 30
+The beginning of the miner's path is over there.  
+~
+(null)~
+Door 2 0 0 13023 30 30
+The end of the southern miners path is that way.  
+~
+(null)~
+End
+
+#13023
+Name The southern end of the miner's path.~
+Descr
+This is the end of the miner's path.  There are many holes in the walls
+going southwards.  Those are the miner's attempts to continue the tunnel. 
+It will probably be finished that way shortly.  
+~
+Flags 1
+ExtraDescr X\²~
+You can see large holes, formed by pickaxes.  These holes look like small
+
+tunnels.  They will probably be big enough to walk in in a few more days.  
+
+~
+ExtraDescr holes~
+You can see large holes here, formed by pickaxes.  They are going to
+
+continue the tunnel southwards soon.  
+
+~
+Reset M 13017 15 100
+Movemess
+(null)~
+Door 0 0 0 13022 30 30
+The southern miners path is that way.  
+~
+(null)~
+End
+
+#13024
+Name The golden room.~
+Descr
+This is the area where the miners go to dig for gold.  Pickaxe marks are
+in all the walls.  You can see a vein of gold going through the sides of the
+room.  Your heart suddenly leaps for greed, and you feel the urge to start
+digging.  
+~
+Flags 1
+ExtraDescr vein~
+A large vein of gold runs through the rock.  It is brightly-colored, and
+
+has a lot of chip marks in it, where miners have tried to dig it out.  
+
+~
+Movemess
+(null)~
+Door 2 0 0 13021 30 30
+That is the miner's path.  
+~
+(null)~
+Door 3 0 0 13025 30 30
+~
+(null)~
+End
+
+#13025
+Name The Silver Path~
+Descr
+This is a path leading about the caves.  This one, unlike the others, is
+littered with silverdust.  
+~
+Flags 1
+Reset M 13017 15 100
+Movemess
+(null)~
+Door 1 0 0 13024 30 30
+You can see the golden room over there.  
+~
+(null)~
+Door 2 0 0 13026 30 30
+~
+(null)~
+Door 3 0 0 13028 30 30
+The Ruby path.  
+~
+(null)~
+End
+
+#13026
+Name The Silver Path~
+Descr
+This is a path sprinkled with silverdust, used by the miners.  You can
+see their small, footprints leading north and south.  
+~
+Flags 1
+Reset M 13011 10 100
+Reset O 13003 5 100
+Movemess
+(null)~
+Door 0 0 0 13025 30 30
+The silver path continues on that way.  
+~
+(null)~
+Door 2 0 0 13027 30 30
+~
+(null)~
+End
+
+#13027
+Name The slimey cave~
+Descr
+This is a slimey cave.  Shadows are created here, and echoes abound. 
+Small miner's footprints are here.  They almost seem like little children's
+feet.  
+~
+Flags 1
+ExtraDescr shadows~
+Shadows are created by your light source, and some seem almost real, as
+
+if they could not have been created by anything natural.  
+
+~
+ExtraDescr feet~
+Nice little feet prints.  How cute!  
+
+~
+Reset M 13011 10 100
+Movemess
+(null)~
+Door 0 0 0 13026 30 30
+That way is the silver path.  
+~
+(null)~
+Door 1 0 0 13020 30 30
+Over there is the dusty path.  
+~
+(null)~
+End
+
+#13028
+Name The Ruby Path~
+Descr
+This is a path made of rubies.  They are set in all the walls.  The whole
+place sparkles with a bright red light.  
+~
+Flags 1
+ExtraDescr ruby rubies~
+Bright red rubies are in all the walls, ready to be plucked for the
+
+taking.  
+
+~
+Reset M 13018 2 100
+Movemess
+(null)~
+Door 1 0 0 13025 30 30
+The silver path.  
+~
+(null)~
+Door 2 0 0 13029 30 30
+~
+(null)~
+End
+
+#13029
+Name The Ruby Path~
+Descr
+This is a path made from rubies dropped by miners.  The whole path
+sparkles with red light, and you can see many rubies set into the walls,
+ready to be dug out.  
+ 
+~
+Flags 1
+ExtraDescr rubies ruby path wall walls~
+Beatiful rubies adorn the wall and path.  They are bright red.  If only
+
+you could dig them out...  
+
+~
+Movemess
+(null)~
+Door 0 0 0 13028 30 30
+~
+(null)~
+End
+
+#13030
+Name The southern hall.~
+Descr
+This is the southern end of the large hall in the cave.  It has the same
+slime coming from the wall, and the same light streaming from cracks in the
+ceiling.  
+ 
+~
+Movemess
+(null)~
+Door 0 0 0 13003 30 30
+The hall is over there.  
+ 
+~
+(null)~
+End
+
+#13031
+Name The place under the torture chamber.~
+Descr
+This place is under the torture chamber.  Someone or thing seems to have
+dug it out.  Tunnels are forming, going in all directions, trying to help
+the elven slaves escape.  
+~
+Flags 1
+Reset M 13001 3 100
+Reset M 13019 3 100
+Movemess
+(null)~
+Door 3 0 0 13032 30 30
+Over there is a tunnel leading into the depths of the cave.  
+~
+(null)~
+Door 4 0 0 13009 30 30
+Up there is the torture chamber.  
+ 
+~
+iron maiden~
+End
+
+#13032
+Name A small tunnel.~
+Descr
+This is one of the elven slave's tunnels leading to freedom.  It is kind
+of small, but if you hunch over, you can freely look around.  There are
+mounds of dirt all around you, and when you look up you can see daylight.  
+~
+Movemess
+(null)~
+Door 1 0 0 13031 30 30
+Over there is the place below the torture chamber.  
+ 
+~
+(null)~
+End
+
+#0
+
+
+
+#$

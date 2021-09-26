@@ -1,0 +1,2802 @@
+#AREADATA 
+Name Area near Gnargnoc~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA strong gust of hot air fills the room.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Xenobia~
+VNUMs 27501 27600
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#27501
+Name large buffalo~
+Short a large buffalo~
+Long 
+A large buffalo is here, grazing on the tall grass.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 12
+Level 12
+MobType 18
+Guard 0
+End
+
+#27502
+Name wild horse~
+Short a wild horse~
+Long 
+A wild horse is here, running free.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 8209
+Alignment 40
+Money 20
+Level 20
+MobType 18
+Guard 0
+End
+
+#27503
+Name wild deer~
+Short a wild deer~
+Long 
+A wild deer is here, frolicking through the tall grass.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 4
+Level 4
+MobType 18
+Guard 0
+End
+
+#27504
+Name wandering adventurer~
+Short a wandering adventurer~
+Long 
+A wandering adventurer is here, looking for some excitement.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 552
+Money 70
+Level 70
+Sex 1
+MobType 0
+Guard 0
+End
+
+#27505
+Name buffalo large~
+Short a large buffalo~
+Long 
+A large buffalo is here, grazing on the tall grass.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 12
+Level 12
+MobType 18
+Guard 0
+End
+
+#27506
+Name wild horse~
+Short a wild horse~
+Long 
+A wild horse is here, running free.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 8209
+Money 20
+Level 20
+MobType 18
+Guard 0
+End
+
+#27507
+Name wild deer~
+Short a wild deer~
+Long 
+A wild deer is here, frolicking through the tall grass.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 5
+Level 5
+MobType 18
+Guard 0
+End
+
+#27508
+Name cute little bunny~
+Short a cute little bunny~
+Long 
+A cute little bunny is here, hopping around.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 1
+Level 1
+MobType 18
+Guard 0
+End
+
+#27509
+Name cute little bunny~
+Short a cute little bunny~
+Long 
+A cute little bunny is here, hopping around.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 1
+Level 1
+MobType 18
+Guard 0
+End
+
+#27510
+Name groundhog~
+Short a groundhog~
+Long 
+A groundhog is here, peeping in and out of his hole.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#27511
+Name groundhog~
+Short a groundhog~
+Long 
+A groundhog is here, peeping in and out of his hole.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#27512
+Name small war horse~
+Short a small war horse~
+Long 
+A small, but muscular horse is grazing here.
+~
+Descr
+The horse stands proud and gleeming with honor.  It has no fear of you as
+you look on, but it does look a little nervious, as it is a small, young
+horse.
+~
+AMax 2
+NHeight 0
+ActBits 8193
+Alignment 130
+Money 20
+Level 20
+Sex 1
+MobType 18
+Guard 0
+End
+
+#27513
+Name large war horse~
+Short a large war horse~
+Long 
+A large, strong looking horse is grazing here.
+~
+Descr
+You see a mighty looking steed, white and pure as the mountain snowcaps.
+His stance looks poised for battle, ready to take on all who challenge
+him. He isn't even startled by your presence.
+~
+AMax 1
+NHeight 0
+ActBits 8193
+Affect_By 32
+Alignment 500
+Money 20
+Level 20
+Sex 1
+MobType 18
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#27501
+Name jade sword longsword~
+Short [32ma jade sword[0m~
+Descr
+[32mA sword what looks to be made of jade is here, discarded.[0m
+[0;36m~
+Type 5
+Extra 8650818
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 3 0 0 0 4 3 0
+Weight 5
+Cost 4000
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#27501
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27502 30 30
+~
+(null)~
+Door 1 0 0 14032 0 0
+~
+~
+Door 2 0 0 27503 30 30
+~
+(null)~
+Door 3 0 0 27504 30 30
+~
+(null)~
+End
+
+#27502
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see to the south. These plains continue to
+the west, expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27522 30 30
+~
+(null)~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27501 30 30
+~
+(null)~
+Door 3 0 0 27505 30 30
+~
+(null)~
+End
+
+#27503
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see to the north. These plains continue to
+the north and west, expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27501 30 30
+~
+(null)~
+Door 2 0 0 27529 30 30
+~
+(null)~
+Door 3 0 0 27506 30 30
+~
+(null)~
+End
+
+#27504
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27505 30 30
+~
+(null)~
+Door 1 0 0 27501 30 30
+~
+(null)~
+Door 2 0 0 27506 30 30
+~
+(null)~
+Door 3 0 0 27507 30 30
+~
+(null)~
+End
+
+#27505
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27523 30 30
+~
+(null)~
+Door 1 0 0 27502 30 30
+~
+(null)~
+Door 2 0 0 27504 30 30
+~
+(null)~
+Door 3 0 0 27511 30 30
+~
+(null)~
+End
+
+#27506
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27504 30 30
+~
+(null)~
+Door 1 0 0 27503 30 30
+~
+(null)~
+Door 2 0 0 27530 30 30
+~
+(null)~
+Door 3 0 0 27516 30 30
+~
+(null)~
+End
+
+#27507
+Name The Minhiraith Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27511 30 30
+~
+(null)~
+Door 1 0 0 27504 30 30
+~
+(null)~
+Door 2 0 0 27516 30 30
+~
+(null)~
+Door 3 0 0 27508 30 30
+~
+(null)~
+End
+
+#27508
+Name The Minhiraith Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27512 30 30
+~
+(null)~
+Door 1 0 0 27507 30 30
+~
+(null)~
+Door 2 0 0 27517 30 30
+~
+(null)~
+Door 3 0 0 27509 30 30
+~
+(null)~
+End
+
+#27509
+Name The Minhiraith Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27513 30 30
+~
+(null)~
+Door 1 0 0 27508 30 30
+~
+(null)~
+Door 2 0 0 27518 30 30
+~
+(null)~
+Door 3 0 0 27510 30 30
+~
+(null)~
+End
+
+#27510
+Name The Minhiraith Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27514 30 30
+~
+(null)~
+Door 1 0 0 27509 30 30
+~
+(null)~
+Door 2 0 0 27519 30 30
+~
+(null)~
+Door 3 0 0 27521 30 30
+~
+(null)~
+End
+
+#27511
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27524 30 30
+~
+(null)~
+Door 1 0 0 27505 30 30
+~
+(null)~
+Door 2 0 0 27507 30 30
+~
+(null)~
+Door 3 0 0 27512 30 30
+~
+(null)~
+End
+
+#27512
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27525 30 30
+~
+(null)~
+Door 1 0 0 27511 30 30
+~
+(null)~
+Door 2 0 0 27508 30 30
+~
+(null)~
+Door 3 0 0 27513 30 30
+~
+(null)~
+End
+
+#27513
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see to the south These plains continues to
+the east, west, and north expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27526 30 30
+~
+(null)~
+Door 1 0 0 27512 30 30
+~
+(null)~
+Door 2 0 0 27509 30 30
+~
+(null)~
+Door 3 0 0 27514 30 30
+~
+(null)~
+End
+
+#27514
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27527 30 30
+~
+(null)~
+Door 1 0 0 27513 30 30
+~
+(null)~
+Door 2 0 0 27510 30 30
+~
+(null)~
+Door 3 0 0 27515 30 30
+~
+(null)~
+End
+
+#27515
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27528 30 30
+~
+(null)~
+Door 1 0 0 27514 30 30
+~
+(null)~
+Door 2 0 0 27521 30 30
+~
+(null)~
+Door 3 0 0 27559 30 30
+~
+(null)~
+End
+
+#27516
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27507 30 30
+~
+(null)~
+Door 1 0 0 27506 30 30
+~
+(null)~
+Door 2 0 0 27531 30 30
+~
+(null)~
+Door 3 0 0 27517 30 30
+~
+(null)~
+End
+
+#27517
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Reset M 27512 3 60
+Movemess
+(null)~
+Door 0 0 0 27508 30 30
+~
+(null)~
+Door 1 0 0 27516 30 30
+~
+(null)~
+Door 2 0 0 27532 30 30
+~
+(null)~
+Door 3 0 0 27518 30 30
+~
+(null)~
+End
+
+#27518
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27509 30 30
+~
+(null)~
+Door 1 0 0 27517 30 30
+~
+(null)~
+Door 2 0 0 27533 30 30
+~
+(null)~
+Door 3 0 0 27519 30 30
+~
+(null)~
+End
+
+#27519
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+ExtraDescr clue~
+If you have found this first you have won the quest and the prize.  If
+
+you didnt find it first thanks for participating and I hope you had a good
+
+time.  Look forward to me new and interesting quests in the weeks to come.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 27510 30 30
+~
+(null)~
+Door 1 0 0 27518 30 30
+~
+(null)~
+Door 2 0 0 27534 30 30
+~
+(null)~
+Door 3 0 0 27520 30 30
+~
+(null)~
+End
+
+#27520
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27521 30 30
+~
+(null)~
+Door 1 0 0 27519 30 30
+~
+(null)~
+Door 2 0 0 27535 30 30
+~
+(null)~
+Door 3 0 0 27583 30 30
+~
+(null)~
+End
+
+#27521
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27515 30 30
+~
+(null)~
+Door 1 0 0 27510 30 30
+~
+(null)~
+Door 2 0 0 27520 30 30
+~
+(null)~
+Door 3 0 0 27550 30 30
+~
+(null)~
+End
+
+#27522
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the south, and west expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27536 30 30
+~
+(null)~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27502 30 30
+~
+(null)~
+Door 3 0 0 27523 30 30
+~
+(null)~
+End
+
+#27523
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27537 30 30
+~
+(null)~
+Door 1 0 0 27522 30 30
+~
+(null)~
+Door 2 0 0 27505 30 30
+~
+(null)~
+Door 3 0 0 27524 30 30
+~
+(null)~
+End
+
+#27524
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Reset M 27508 10 100
+Reset M 27511 10 100
+Movemess
+(null)~
+Door 0 0 0 27538 30 30
+~
+(null)~
+Door 1 0 0 27523 30 30
+~
+(null)~
+Door 2 0 0 27511 30 30
+~
+(null)~
+Door 3 0 0 27525 30 30
+~
+(null)~
+End
+
+#27525
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27539 30 30
+~
+(null)~
+Door 1 0 0 27524 30 30
+~
+(null)~
+Door 2 0 0 27512 30 30
+~
+(null)~
+Door 3 0 0 27526 30 30
+~
+(null)~
+End
+
+#27526
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27540 30 30
+~
+(null)~
+Door 1 0 0 27525 30 30
+~
+(null)~
+Door 2 0 0 27513 30 30
+~
+(null)~
+Door 3 0 0 27527 30 30
+~
+(null)~
+End
+
+#27527
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27541 30 30
+~
+(null)~
+Door 1 0 0 27526 30 30
+~
+(null)~
+Door 2 0 0 27514 30 30
+~
+(null)~
+Door 3 0 0 27528 30 30
+~
+(null)~
+End
+
+#27528
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Reset M 27504 1 100
+Reset O 27501 21 50
+Movemess
+(null)~
+Door 0 0 0 27542 30 30
+~
+(null)~
+Door 1 0 0 27527 30 30
+~
+(null)~
+Door 2 0 0 27515 30 30
+~
+(null)~
+Door 3 0 0 27567 30 30
+~
+(null)~
+End
+
+#27529
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north and west, expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27503 30 30
+~
+(null)~
+Door 2 0 0 27543 30 30
+~
+(null)~
+Door 3 0 0 27530 30 30
+~
+(null)~
+End
+
+#27530
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Reset M 27513 2 50
+Movemess
+(null)~
+Door 0 0 0 27506 30 30
+~
+(null)~
+Door 1 0 0 27529 30 30
+~
+(null)~
+Door 2 0 0 27544 30 30
+~
+(null)~
+Door 3 0 0 27531 30 30
+~
+(null)~
+End
+
+#27531
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Reset M 27509 10 100
+Reset M 27510 10 100
+Movemess
+(null)~
+Door 0 0 0 27516 30 30
+~
+(null)~
+Door 1 0 0 27530 30 30
+~
+(null)~
+Door 2 0 0 27545 30 30
+~
+(null)~
+Door 3 0 0 27532 30 30
+~
+(null)~
+End
+
+#27532
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27517 30 30
+~
+(null)~
+Door 1 0 0 27531 30 30
+~
+(null)~
+Door 2 0 0 27546 30 30
+~
+(null)~
+Door 3 0 0 27533 30 30
+~
+(null)~
+End
+
+#27533
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27518 30 30
+~
+(null)~
+Door 1 0 0 27532 30 30
+~
+(null)~
+Door 2 0 0 27547 30 30
+~
+(null)~
+Door 3 0 0 27534 30 30
+~
+(null)~
+End
+
+#27534
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27519 30 30
+~
+(null)~
+Door 1 0 0 27533 30 30
+~
+(null)~
+Door 2 0 0 27548 30 30
+~
+(null)~
+Door 3 0 0 27535 30 30
+~
+(null)~
+End
+
+#27535
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Reset M 27505 10 100
+Reset M 27506 7 100
+Reset M 27507 5 100
+Movemess
+(null)~
+Door 0 0 0 27520 30 30
+~
+(null)~
+Door 1 0 0 27534 30 30
+~
+(null)~
+Door 2 0 0 27549 30 30
+~
+(null)~
+Door 3 0 0 27591 30 30
+~
+(null)~
+End
+
+#27536
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the south, and west expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27522 30 30
+~
+(null)~
+Door 3 0 0 27537 30 30
+~
+(null)~
+End
+
+#27537
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Reset M 27512 4 70
+Movemess
+(null)~
+Door 1 0 0 27536 30 30
+~
+(null)~
+Door 2 0 0 27523 30 30
+~
+(null)~
+Door 3 0 0 27538 30 30
+~
+(null)~
+End
+
+#27538
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27537 30 30
+~
+(null)~
+Door 2 0 0 27524 30 30
+~
+(null)~
+Door 3 0 0 27539 30 30
+~
+(null)~
+End
+
+#27539
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27538 30 30
+~
+(null)~
+Door 2 0 0 27525 30 30
+~
+(null)~
+Door 3 0 0 27540 30 30
+~
+(null)~
+End
+
+#27540
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27539 30 30
+~
+(null)~
+Door 2 0 0 27526 30 30
+~
+(null)~
+Door 3 0 0 27541 30 30
+~
+(null)~
+End
+
+#27541
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27540 30 30
+~
+(null)~
+Door 2 0 0 27527 30 30
+~
+(null)~
+Door 3 0 0 27542 30 30
+~
+(null)~
+End
+
+#27542
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27541 30 30
+~
+(null)~
+Door 2 0 0 27528 30 30
+~
+(null)~
+Door 3 0 0 27575 30 30
+~
+(null)~
+End
+
+#27543
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north and west, expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27529 30 30
+~
+(null)~
+Door 3 0 0 27544 30 30
+~
+(null)~
+End
+
+#27544
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27530 30 30
+~
+(null)~
+Door 1 0 0 27543 30 30
+~
+(null)~
+Door 3 0 0 27545 30 30
+~
+(null)~
+End
+
+#27545
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27531 30 30
+~
+(null)~
+Door 1 0 0 27544 30 30
+~
+(null)~
+Door 3 0 0 27546 30 30
+~
+(null)~
+End
+
+#27546
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27532 30 30
+~
+(null)~
+Door 1 0 0 27545 30 30
+~
+(null)~
+Door 3 0 0 27547 30 30
+~
+(null)~
+End
+
+#27547
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27533 30 30
+~
+(null)~
+Door 1 0 0 27546 30 30
+~
+(null)~
+Door 3 0 0 27548 30 30
+~
+(null)~
+End
+
+#27548
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27534 30 30
+~
+(null)~
+Door 1 0 0 27547 30 30
+~
+(null)~
+Door 3 0 0 27549 30 30
+~
+(null)~
+End
+
+#27549
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27535 30 30
+~
+(null)~
+Door 1 0 0 27548 30 30
+~
+(null)~
+Door 3 0 0 27599 30 30
+~
+(null)~
+End
+
+#27550
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27559 30 30
+~
+(null)~
+Door 1 0 0 27521 30 30
+~
+(null)~
+Door 2 0 0 27583 30 30
+~
+(null)~
+Door 3 0 0 27551 30 30
+~
+(null)~
+End
+
+#27551
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27560 30 30
+~
+(null)~
+Door 1 0 0 27550 30 30
+~
+(null)~
+Door 2 0 0 27584 30 30
+~
+(null)~
+Door 3 0 0 27552 30 30
+~
+(null)~
+End
+
+#27552
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27561 30 30
+~
+(null)~
+Door 1 0 0 27551 30 30
+~
+(null)~
+Door 2 0 0 27585 30 30
+~
+(null)~
+Door 3 0 0 27553 30 30
+~
+(null)~
+End
+
+#27553
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27562 30 30
+~
+(null)~
+Door 1 0 0 27552 30 30
+~
+(null)~
+Door 2 0 0 27586 30 30
+~
+(null)~
+Door 3 0 0 27554 30 30
+~
+(null)~
+End
+
+#27554
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27563 30 30
+~
+(null)~
+Door 1 0 0 27553 30 30
+~
+(null)~
+Door 2 0 0 27587 30 30
+~
+(null)~
+Door 3 0 0 27555 30 30
+~
+(null)~
+End
+
+#27555
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27564 30 30
+~
+(null)~
+Door 1 0 0 27554 30 30
+~
+(null)~
+Door 2 0 0 27588 30 30
+~
+(null)~
+Door 3 0 0 27556 30 30
+~
+(null)~
+End
+
+#27556
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27565 30 30
+~
+(null)~
+Door 1 0 0 27555 30 30
+~
+(null)~
+Door 2 0 0 27589 30 30
+~
+(null)~
+Door 3 0 0 27557 30 30
+~
+(null)~
+End
+
+#27557
+Name The Minhiriath Road~
+Descr
+This road is an immense one, it spans about fifty feet across. Running along
+this road are The Great Anorien Plains, which seem to go on forever. To the
+north and south of you, you can see deer prancing through the tall grass, and
+buffalo are grazing. This road stretches far to the west, farther than the
+eye can see. To the east, you can see the city walls of the kingdom of
+Gnargnoc.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27566 30 30
+~
+(null)~
+Door 1 0 0 27556 30 30
+~
+(null)~
+Door 2 0 0 27590 30 30
+~
+(null)~
+Door 3 0 0 27558 30 30
+~
+(null)~
+End
+
+#27558
+Name The Minhiriath Road~
+Descr
+This large road stretches far to the east, ending eventually at the
+western gates of Gnargnoc.  The road grows smaller to the west, and large
+mountains rise up, trying to touch the sky.  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 27557 30 30
+~
+(null)~
+Door 3 0 0 9869 30 30
+~
+(null)~
+End
+
+#27559
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27567 30 30
+~
+(null)~
+Door 1 0 0 27515 30 30
+~
+(null)~
+Door 2 0 0 27550 30 30
+~
+(null)~
+Door 3 0 0 27560 30 30
+~
+(null)~
+End
+
+#27560
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27568 30 30
+~
+(null)~
+Door 1 0 0 27559 30 30
+~
+(null)~
+Door 2 0 0 27551 30 30
+~
+(null)~
+Door 3 0 0 27561 30 30
+~
+(null)~
+End
+
+#27561
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27569 30 30
+~
+(null)~
+Door 1 0 0 27560 30 30
+~
+(null)~
+Door 2 0 0 27552 30 30
+~
+(null)~
+Door 3 0 0 27562 30 30
+~
+(null)~
+End
+
+#27562
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27570 30 30
+~
+(null)~
+Door 1 0 0 27561 30 30
+~
+(null)~
+Door 2 0 0 27553 30 30
+~
+(null)~
+Door 3 0 0 27563 30 30
+~
+(null)~
+End
+
+#27563
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27571 30 30
+~
+(null)~
+Door 1 0 0 27562 30 30
+~
+(null)~
+Door 2 0 0 27554 30 30
+~
+(null)~
+Door 3 0 0 27564 30 30
+~
+(null)~
+End
+
+#27564
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27572 30 30
+~
+(null)~
+Door 1 0 0 27563 30 30
+~
+(null)~
+Door 2 0 0 27555 30 30
+~
+(null)~
+Door 3 0 0 27565 30 30
+~
+(null)~
+End
+
+#27565
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the south.  These plains continue to
+the east, west, and north expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27573 30 30
+~
+(null)~
+Door 1 0 0 27564 30 30
+~
+(null)~
+Door 2 0 0 27556 30 30
+~
+(null)~
+Door 3 0 0 27566 30 30
+~
+(null)~
+End
+
+#27566
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhirirath Road, which you can see to the south. These plains continue to
+the east, and north expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27574 30 30
+~
+(null)~
+Door 1 0 0 27565 30 30
+~
+(null)~
+Door 2 0 0 27557 30 30
+~
+(null)~
+End
+
+#27567
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27575 30 30
+~
+(null)~
+Door 1 0 0 27528 30 30
+~
+(null)~
+Door 2 0 0 27559 30 30
+~
+(null)~
+Door 3 0 0 27568 30 30
+~
+(null)~
+End
+
+#27568
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27576 30 30
+~
+(null)~
+Door 1 0 0 27567 30 30
+~
+(null)~
+Door 2 0 0 27560 30 30
+~
+(null)~
+Door 3 0 0 27569 30 30
+~
+(null)~
+End
+
+#27569
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27577 30 30
+~
+(null)~
+Door 1 0 0 27568 30 30
+~
+(null)~
+Door 2 0 0 27561 30 30
+~
+(null)~
+Door 3 0 0 27570 30 30
+~
+(null)~
+End
+
+#27570
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27578 30 30
+~
+(null)~
+Door 1 0 0 27569 30 30
+~
+(null)~
+Door 2 0 0 27562 30 30
+~
+(null)~
+Door 3 0 0 27571 30 30
+~
+(null)~
+End
+
+#27571
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Reset M 27501 10 100
+Reset M 27502 8 100
+Reset M 27503 6 100
+Movemess
+(null)~
+Door 0 0 0 27579 30 30
+~
+(null)~
+Door 1 0 0 27570 30 30
+~
+(null)~
+Door 2 0 0 27563 30 30
+~
+(null)~
+Door 3 0 0 27572 30 30
+~
+(null)~
+End
+
+#27572
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27580 30 30
+~
+(null)~
+Door 1 0 0 27571 30 30
+~
+(null)~
+Door 2 0 0 27564 30 30
+~
+(null)~
+Door 3 0 0 27573 30 30
+~
+(null)~
+End
+
+#27573
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27581 30 30
+~
+(null)~
+Door 1 0 0 27572 30 30
+~
+(null)~
+Door 2 0 0 27565 30 30
+~
+(null)~
+Door 3 0 0 27574 30 30
+~
+(null)~
+End
+
+#27574
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the north, east, south, and west leaving you a choice of all directions.
+~
+Sector 2
+ExtraDescr This is the final place, if you were the first you have won! If not, thanks for participating.~
+This is the final place, if you were the first you have won!
+
+Thanks for participating and I hope to have more quests soon.
+
+~
+Movemess
+(null)~
+Door 0 0 0 27582 30 30
+~
+(null)~
+Door 1 0 0 27573 30 30
+~
+(null)~
+Door 2 0 0 27566 30 30
+~
+(null)~
+End
+
+#27575
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27542 30 30
+~
+(null)~
+Door 2 0 0 27567 30 30
+~
+(null)~
+Door 3 0 0 27576 30 30
+~
+(null)~
+End
+
+#27576
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27575 30 30
+~
+(null)~
+Door 2 0 0 27568 30 30
+~
+(null)~
+Door 3 0 0 27577 30 30
+~
+(null)~
+End
+
+#27577
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27576 30 30
+~
+(null)~
+Door 2 0 0 27569 30 30
+~
+(null)~
+Door 3 0 0 27578 30 30
+~
+(null)~
+End
+
+#27578
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27577 30 30
+~
+(null)~
+Door 2 0 0 27570 30 30
+~
+(null)~
+Door 3 0 0 27579 30 30
+~
+(null)~
+End
+
+#27579
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27578 30 30
+~
+(null)~
+Door 2 0 0 27571 30 30
+~
+(null)~
+Door 3 0 0 27580 30 30
+~
+(null)~
+End
+
+#27580
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27579 30 30
+~
+(null)~
+Door 2 0 0 27572 30 30
+~
+(null)~
+Door 3 0 0 27581 30 30
+~
+(null)~
+End
+
+#27581
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east south and west, stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27580 30 30
+~
+(null)~
+Door 2 0 0 27573 30 30
+~
+(null)~
+Door 3 0 0 27582 30 30
+~
+(null)~
+End
+
+#27582
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the south. These plains continue
+to the east and south stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 27581 30 30
+~
+(null)~
+Door 2 0 0 27574 30 30
+~
+(null)~
+End
+
+#27583
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see to the north. These plains continue to
+the east, west, and south expanding over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27550 30 30
+~
+(null)~
+Door 1 0 0 27520 30 30
+~
+(null)~
+Door 2 0 0 27591 30 30
+~
+(null)~
+Door 3 0 0 27584 30 30
+~
+(null)~
+End
+
+#27584
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27551 30 30
+~
+(null)~
+Door 1 0 0 27583 30 30
+~
+(null)~
+Door 2 0 0 27592 30 30
+~
+(null)~
+Door 3 0 0 27585 30 30
+~
+(null)~
+End
+
+#27585
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27552 30 30
+~
+(null)~
+Door 1 0 0 27584 30 30
+~
+(null)~
+Door 2 0 0 27593 30 30
+~
+(null)~
+Door 3 0 0 27586 30 30
+~
+(null)~
+End
+
+#27586
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27553 30 30
+~
+(null)~
+Door 1 0 0 27585 30 30
+~
+(null)~
+Door 2 0 0 27594 30 30
+~
+(null)~
+Door 3 0 0 27587 30 30
+~
+(null)~
+End
+
+#27587
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27554 30 30
+~
+(null)~
+Door 1 0 0 27586 30 30
+~
+(null)~
+Door 2 0 0 27595 30 30
+~
+(null)~
+Door 3 0 0 27588 30 30
+~
+(null)~
+End
+
+#27588
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27555 30 30
+~
+(null)~
+Door 1 0 0 27587 30 30
+~
+(null)~
+Door 2 0 0 27596 30 30
+~
+(null)~
+Door 3 0 0 27589 30 30
+~
+(null)~
+End
+
+#27589
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27556 30 30
+~
+(null)~
+Door 1 0 0 27588 30 30
+~
+(null)~
+Door 2 0 0 27597 30 30
+~
+(null)~
+Door 3 0 0 27590 30 30
+~
+(null)~
+End
+
+#27590
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass.  There are deer prancing around here, and you
+can see buffalo grazing on the tall grass.  This field seems to follow The
+Minhiriath Road, which you can see to the north.  These plains continue to
+the east, west, and south expanding over a vast area of land.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27557 30 30
+~
+(null)~
+Door 1 0 0 27589 30 30
+~
+(null)~
+Door 2 0 0 27598 30 30
+~
+(null)~
+End
+
+#27591
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27583 30 30
+~
+(null)~
+Door 1 0 0 27535 30 30
+~
+(null)~
+Door 2 0 0 27599 30 30
+~
+(null)~
+Door 3 0 0 27592 30 30
+~
+(null)~
+End
+
+#27592
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27584 30 30
+~
+(null)~
+Door 1 0 0 27591 30 30
+~
+(null)~
+Door 2 0 0 27600 30 30
+~
+(null)~
+Door 3 0 0 27593 30 30
+~
+(null)~
+End
+
+#27593
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27585 30 30
+~
+(null)~
+Door 1 0 0 27592 30 30
+~
+(null)~
+Door 3 0 0 27594 30 30
+~
+(null)~
+End
+
+#27594
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27586 30 30
+~
+(null)~
+Door 1 0 0 27593 30 30
+~
+(null)~
+Door 3 0 0 27595 30 30
+~
+(null)~
+End
+
+#27595
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27587 30 30
+~
+(null)~
+Door 1 0 0 27594 30 30
+~
+(null)~
+Door 3 0 0 27596 30 30
+~
+(null)~
+End
+
+#27596
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27588 30 30
+~
+(null)~
+Door 1 0 0 27595 30 30
+~
+(null)~
+Door 3 0 0 27597 30 30
+~
+(null)~
+End
+
+#27597
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, south, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27589 30 30
+~
+(null)~
+Door 1 0 0 27596 30 30
+~
+(null)~
+Door 3 0 0 27598 30 30
+~
+(null)~
+End
+
+#27598
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow The
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, and east stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27590 30 30
+~
+(null)~
+Door 1 0 0 27597 30 30
+~
+(null)~
+End
+
+#27599
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27591 30 30
+~
+(null)~
+Door 1 0 0 27549 30 30
+~
+(null)~
+Door 3 0 0 27600 30 30
+~
+(null)~
+End
+
+#27600
+Name The Great Anorien Plains~
+Descr
+The Great Anorien Plains stand before you, they seem like a vast endless
+field of tall wavering grass. There are deer prancing around here, and you
+can see buffalo grazing on the tall grass. This field seems to follow the
+Minhiriath Road, which you can see a ways to the north. These plains continue
+to the north, east, and west stretching over a vast area of land.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 27592 30 30
+~
+(null)~
+Door 1 0 0 27599 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

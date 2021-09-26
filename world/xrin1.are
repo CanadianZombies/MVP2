@@ -1,0 +1,2088 @@
+#AREADATA 
+Name Zourch Void~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Xrin~
+VNUMs 23100 23200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#23100
+Name zourchling~
+Short zourchling~
+Long 
+A zourchling is here crawling around the spawning pool.
+~
+Descr
+~
+AMax 32
+NHeight 54
+ActBits 24
+ActBits3 524288
+ActBits4 4096
+Affect_By 544
+Money 18
+Level 18
+MobType 8
+Guard 0
+Spec spec_poison
+ArmorClass 10
+End
+
+#23101
+Name spawned warrior~
+Short a spawned warrior~
+Long 
+A spawned warrior is here protecting the spawning pool.
+~
+Descr
+~
+AMax 8
+NHeight 45
+ActBits 8
+Affect_By 512
+Money 25
+Level 25
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#23102
+Name ire floating~
+Short a floating ire~
+Long 
+A floating ire is here enjoying his unheeded existance.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits4 4096
+Affect_By 524808
+Money 50
+Level 50
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#23103
+Name zourch warrior~
+Short a zourch warrior~
+Long 
+A zourch warrior is here protecting the hive.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits 10
+Affect_By 512
+Money 80
+Level 80
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#23104
+Name spawnling~
+Short a spawnling~
+Long 
+A newly hatched spawnling is here eating his brothers and sisters.
+~
+Descr
+~
+AMax 14
+NHeight 0
+ActBits 10
+Affect_By 512
+Money 50
+Level 50
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#23105
+Name enslaved yrn~
+Short an enslaved yrn~
+Long 
+An enslaved yrn is here repairing the hive walls.
+~
+Descr
+~
+AMax 9
+NHeight 0
+Affect_By 520
+Money 65
+Level 65
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#23106
+Name the zourth queen PRAC~
+Short the Zourch Queen~
+Long 
+The Zourch Queen is here hatching new pouches of spawn eggs.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 266
+Affect_By 512
+Money 220
+Level 220
+Sex 2
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#23107
+Name mutated spawnling~
+Short a mutated spawnling~
+Long 
+A mutated spawnling is here protected its queen.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 70
+Level 70
+MobType 8
+Guard 1
+Spec spec_warrior
+End
+
+#23108
+Name fighting syzerin~
+Short a fighting syzerin~
+Long 
+A fighting syzerin is here guarding his own hive.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 10
+Affect_By 512
+Money 75
+Level 75
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#23109
+Name greater syzerin~
+Short a greater syzerin~
+Long 
+A greater syzerin is here protecting the hive from intruders.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 10
+Affect_By 512
+Money 101
+Level 101
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#23110
+Name hive overlord~
+Short the hive Overlord~
+Long 
+The hive Overlord is here guiding the forces of the hive.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 258
+Affect_By 520
+Money 121
+Level 121
+Sex 1
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#23111
+Name zourchling~
+Short a zourchling~
+Long 
+A zourchling is here infesting the cavern of the hive.
+~
+Descr
+~
+AMax 22
+NHeight 0
+ActBits 8
+Affect_By 512
+Money 22
+Level 22
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#0
+
+
+
+#OBJDATA
+#23100
+Name dead tree~
+Short a dead tree~
+Descr
+A dead tree is here resting on a large mound of velvety grass.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 23126 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23101
+Name pool~
+Short a pool of muck~
+Descr
+A pool of muck is here boiling slightly.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23125 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23102
+Name dead tree~
+Short a dead tree~
+Descr
+A dead tree rests here on a mound of velvety grass.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 23146 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23103
+Name pool dirty~
+Short a dirty pool~
+Descr
+A dirty pool is here nearing a searing boil.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23113 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23105
+Name shifting wall~
+Short a shifting wall~
+Descr
+A shifting wall is here but can barely be seen.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23101 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23106
+Name glowing pool~
+Short a glowing pool~
+Descr
+A glowing pool is here shifting with the void.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23100 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23110
+Name egg~
+Short a zourch egg~
+Descr
+A zourch egg is lieing here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#23111
+Name shell~
+Short [1m[30mthe shell of a spawned zourch[0m~
+Descr
+The shell of a spawn zourch is here.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 4 0 1 15 15 100 100 15 12
+Weight 4
+Cost 120
+End
+
+#23112
+Name stinger~
+Short [1m[30ma zourch stinger[0m~
+Descr
+The stinger of a zourch warrior is here.
+[0;36m~
+Type 5
+Extra 131137
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 11 0 0 0 3 4 0
+Weight 4
+Cost 120
+Affect 14 10 1 0 0
+End
+
+#23113
+Name shell zourch~
+Short [31ma large Zourch shell[0m~
+Descr
+A Zourch shell is here.
+[0;36m~
+Type 9
+Extra 1
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 5 2 1 15 15 15 15 15 12
+Weight 8
+Cost 240
+Affect 13 6 1 0 0
+End
+
+#23114
+Name face plate zourch~
+Short a zourch faceplate~
+Descr
+A zourch faceplate is here on the floor.
+[0;36m~
+Type 9
+Extra 2
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 15 15 15 15 15 12
+Weight 4
+Cost 120
+End
+
+#23115
+Name queen zourch carapace~
+Short [1m[36mthe carapace of the Zourch [30mQueen[0m~
+Descr
+The carapace of the Zourch Queen is here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 2 2 15 15 15 15 15 12
+Weight 5
+Cost 4000
+Affect 17 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#23116
+Name mandible~
+Short a mutated mandible~
+Descr
+A mutated mandible is ehre.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 15 15 15 15 15 12
+Weight 9
+Cost 500
+Affect 18 1 1 0 0
+Affect 20 -2 1 0 0
+End
+
+#23117
+Name eye ball eyeball hive overlord lord over~
+Short [31mthe eyeball [33mof the Hive Overlord[0m~
+Descr
+The eyeball of the Hive Overlord is here on the floor!
+[0;36m~
+Type 21
+Extra 536870976
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 40 60 55 0 0 0 0 0 0
+Weight 3
+Cost 5000
+End
+
+#23118
+Name syzerin leg plates~
+Short a pair of syzerin leg plates~
+Descr
+A paair of syzerin leg plates are here.
+[0;36m~
+Type 9
+Extra 4096
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 15 15 15 15 15 12
+Weight 8
+Cost 400
+Affect 18 2 1 0 0
+End
+
+#23119
+Name syzerin arm plates~
+Short a pair of syzerin arm plates~
+Descr
+A pair of syzerin arm plates are here.
+[0;36m~
+Type 9
+Extra 4096
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 15 15 15 15 15 12
+Weight 8
+Cost 400
+Affect 18 2 1 0 0
+End
+
+#23120
+Name mandible syzerin~
+Short a syzerin mandible~
+Descr
+(no description)~
+Type 9
+Extra 4096
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 15 15 15 15 15 12
+Weight 10
+Cost 400
+Affect 18 2 1 0 0
+End
+
+#23121
+Name syzerin stinger~
+Short a syzerin stinger~
+Descr
+A syzerin stinger is here.
+[0;36m~
+Type 5
+Extra 131074
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 11 0 0 0 4 4 0
+Weight 4
+Cost 500
+End
+
+#23122
+Name syzerin klaw~
+Short a bloodied syzerin claw~
+Descr
+A bloodied syzerin claw is here.
+[0;36m~
+Type 9
+Extra 262144
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 3 15 15 15 15 15 12
+Weight 7
+Cost 500
+Affect 18 2 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#23100
+Name A Dark Cave Full of Vegetation~
+Descr
+The dark inclave is full of vegetation and musty air. The inclave doesn't
+go in more than five feet. The back wall shimmers slightly as if it were
+made of water. All other sides are full of vines and ugly looking flowers.
+The ground is hard and full of rock. 
+~
+Sector 3
+Reset O 23105 -5 100
+Door 2 0 0 0 0 0
+~
+~
+Door 4 257 0 24548 30 30
+~
+Slime~
+Door 5 259 0 23101 30 30
+~
+Slippery Rock~
+End
+
+#23101
+Name A Floating Vegetation Mound~
+Descr
+Floating in the middle of a spacial void of another reality is a small
+grass mound. The grass has a feel of velvet and softness that you have never
+felt before you in your life. In the distance you can see other mounts with
+roots thrithing and reaching from the underneath. 
+~
+Flags 3145728
+Reset O 23106 -5 100
+Door 0 0 0 23102 0 0
+~
+~
+Door 1 0 0 23108 0 0
+~
+~
+Door 2 0 0 23114 0 0
+~
+~
+Door 3 0 0 23120 0 0
+~
+~
+Door 4 258 0 23100 30 30
+~
+~
+End
+
+#23102
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Reset M 23102 6 100
+Reset M 23102 6 100
+Door 0 0 0 23103 0 0
+~
+~
+Door 2 0 0 23101 0 0
+~
+~
+End
+
+#23103
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Door 0 0 0 23104 0 0
+~
+~
+Door 2 0 0 23102 0 0
+~
+~
+End
+
+#23104
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Reset O 23111 100 17
+Door 0 0 0 23107 0 0
+~
+~
+Door 1 0 0 23105 0 0
+~
+~
+Door 2 0 0 23103 0 0
+~
+~
+End
+
+#23105
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Reset O 23111 100 40
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Door 0 0 0 23106 0 0
+~
+~
+Door 3 0 0 23104 0 0
+~
+~
+End
+
+#23106
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Door 2 0 0 23105 0 0
+~
+~
+Door 3 0 0 23107 0 0
+~
+~
+End
+
+#23107
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset M 23100 32 100
+Reset M 23100 32 100
+Door 1 0 0 23106 0 0
+~
+~
+Door 2 0 0 23104 0 0
+~
+~
+End
+
+#23108
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Reset M 23102 6 100
+Reset M 23102 6 100
+Door 1 0 0 23109 0 0
+~
+~
+Door 3 0 0 23101 0 0
+~
+~
+End
+
+#23109
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Door 1 0 0 23110 0 0
+~
+~
+Door 3 0 0 23108 0 0
+~
+~
+End
+
+#23110
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Reset O 23112 1000 24
+Door 1 0 0 23113 0 0
+~
+~
+Door 2 0 0 23111 0 0
+~
+~
+Door 3 0 0 23109 0 0
+~
+~
+End
+
+#23111
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Door 0 0 0 23110 0 0
+~
+~
+Door 1 0 0 23112 0 0
+~
+~
+End
+
+#23112
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Door 0 0 0 23113 0 0
+~
+~
+Door 3 0 0 23111 0 0
+~
+~
+End
+
+#23113
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23102 -5 100
+Door 2 0 0 23112 0 0
+~
+~
+Door 3 0 0 23110 0 0
+~
+~
+End
+
+#23114
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Reset M 23102 6 100
+Reset M 23102 6 100
+Door 0 0 0 23101 0 0
+~
+~
+Door 2 0 0 23115 0 0
+~
+~
+End
+
+#23115
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Door 0 0 0 23114 0 0
+~
+~
+Door 2 0 0 23116 0 0
+~
+~
+End
+
+#23116
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Reset O 23111 100 20
+Door 0 0 0 23115 0 0
+~
+~
+Door 2 0 0 23119 0 0
+~
+~
+Door 3 0 0 23117 0 0
+~
+~
+End
+
+#23117
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Door 1 0 0 23116 0 0
+~
+~
+Door 2 0 0 23118 0 0
+~
+~
+End
+
+#23118
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Door 0 0 0 23117 0 0
+~
+~
+Door 1 0 0 23119 0 0
+~
+~
+End
+
+#23119
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Door 0 0 0 23116 0 0
+~
+~
+Door 3 0 0 23118 0 0
+~
+~
+End
+
+#23120
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Reset M 23102 6 100
+Reset M 23102 6 100
+Door 1 0 0 23101 0 0
+~
+~
+Door 3 0 0 23121 0 0
+~
+~
+End
+
+#23121
+Name In Midair~
+Descr
+You are in midair.
+~
+Sector 9
+Door 1 0 0 23120 0 0
+~
+~
+Door 3 0 0 23122 0 0
+~
+~
+End
+
+#23122
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Reset O 23112 100 14
+Reset O 23111 1000 25
+Door 0 0 0 23123 0 0
+~
+~
+Door 1 0 0 23121 0 0
+~
+~
+Door 3 0 0 23125 0 0
+~
+~
+End
+
+#23123
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23101 8 100
+Door 2 0 0 23122 0 0
+~
+~
+Door 3 0 0 23124 0 0
+~
+~
+End
+
+#23124
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset M 23100 32 100
+Door 1 0 0 23123 0 0
+~
+~
+Door 2 0 0 23125 0 0
+~
+~
+End
+
+#23125
+Name A Floating Spawning Pool~
+Descr
+Floating in the void is a large pool that mimics the feels and smells of
+a swamp. The water itself floats in a plasmic field like dust in a gravity
+well. Inside the pool are small bodies squiggling in their own filth. The
+water, disgustingly odorous, is near the temperature of boiling. 
+~
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset M 23100 32 100
+Reset O 23110 10000 65
+Reset O 23110 10000 65
+Reset M 23100 32 100
+Reset O 23100 -5 100
+Door 0 0 0 23124 0 0
+~
+~
+Door 1 0 0 23122 0 0
+~
+~
+Door 4 257 0 23126 30 30
+~
+Ooze~
+End
+
+#23126
+Name A Cavern of Dark Crysalis~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset O 23101 -5 100
+Door 3 0 0 23127 0 0
+~
+~
+Door 5 257 0 23125 30 30
+~
+Ooze~
+End
+
+#23127
+Name A Cavern of Dark Crysalis~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 23126 0 0
+~
+~
+Door 2 0 0 23128 0 0
+~
+~
+End
+
+#23128
+Name A Cavern of Dark Crysalis~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23103 6 100
+Reset O 23113 100 20
+Reset M 23103 6 100
+Door 0 0 0 23127 0 0
+~
+~
+Door 2 0 0 23129 0 0
+~
+~
+End
+
+#23129
+Name A Cavern of Dark Crysalis~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Reset M 23105 9 100
+Door 0 0 0 23128 0 0
+~
+~
+Door 2 3 0 23130 30 30
+~
+cavehole~
+End
+
+#23130
+Name A Small Junction in the Cavern~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23103 6 100
+Reset M 23103 6 100
+Door 0 3 0 23129 30 30
+~
+cavehole~
+Door 1 0 0 23131 0 0
+~
+~
+Door 2 0 0 23132 0 0
+~
+~
+End
+
+#23131
+Name A Cavern of Dark Crysalis~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 23137 0 0
+~
+~
+Door 3 0 0 23130 0 0
+~
+~
+End
+
+#23132
+Name A Musky Cavern of Vaporous Gases~
+Descr
+The cavern is made from a dark crysalis from the voids deepest pits. The
+crysalis glows with a energy with a taint that would make your skin crawl.
+The cavern floor is small and narrow only allow a few people to walk side by
+side. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23111 22 100
+Door 0 0 0 23130 0 0
+~
+~
+Door 2 0 0 23133 0 0
+~
+~
+End
+
+#23133
+Name A Large Hatchery~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 23132 0 0
+~
+~
+Door 2 0 0 23134 0 0
+~
+~
+Door 3 0 0 23136 0 0
+~
+~
+End
+
+#23134
+Name A Large Hatchery~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 7 100
+Reset M 23104 7 100
+Reset M 23104 7 100
+Door 0 0 0 23133 0 0
+~
+~
+Door 3 0 0 23135 0 0
+~
+~
+End
+
+#23135
+Name A Large Hatchery~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 7 100
+Reset M 23104 7 100
+Door 0 0 0 23136 0 0
+~
+~
+Door 1 0 0 23134 0 0
+~
+~
+End
+
+#23136
+Name A Large Hatchery~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 7 100
+Reset M 23104 7 100
+Door 1 0 0 23133 0 0
+~
+~
+Door 2 0 0 23135 0 0
+~
+~
+End
+
+#23137
+Name A Corroded Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23103 6 100
+Reset M 23103 6 100
+Reset O 23114 100 20
+Door 1 0 0 23138 0 0
+~
+~
+Door 3 0 0 23131 0 0
+~
+~
+End
+
+#23138
+Name A Corroded Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23105 9 100
+Door 1 0 0 23139 0 0
+~
+~
+Door 3 0 0 23137 0 0
+~
+~
+End
+
+#23139
+Name A Cluttered Junction Full of Bone~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23111 22 100
+Door 0 0 0 23141 0 0
+~
+~
+Door 1 0 0 23140 0 0
+~
+~
+Door 2 0 0 23142 0 0
+~
+~
+Door 3 0 0 23138 0 0
+~
+~
+End
+
+#23140
+Name A Corroded Flagstone Alcove~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Reset M 23105 9 100
+Door 3 0 0 23139 0 0
+~
+~
+End
+
+#23141
+Name A Web~
+Descr
+You're trapped!
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23124 30 30
+~
+web~
+End
+
+#23142
+Name A Corroded Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23105 9 100
+Door 0 0 0 23139 0 0
+~
+~
+Door 2 0 0 23144 0 0
+~
+~
+Door 3 0 0 23143 0 0
+~
+~
+End
+
+#23143
+Name A Web~
+Descr
+You're trapped!
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23123 30 30
+~
+web~
+End
+
+#23144
+Name An Open Cavern of Glowing Crysalis~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23107 3 100
+Reset O 23116 100 20
+Reset M 23107 3 100
+Reset M 23107 3 100
+Reset O 23116 100 10
+Door 0 0 0 23142 0 0
+~
+~
+Door 1 0 0 23145 0 0
+~
+~
+End
+
+#23145
+Name A Large Breeding Nest~
+Descr
+The room is just a large nest. In the center you can see the queen of the
+hive. She lays all of the eggs you've been seeing all over the place. 
+~
+Flags 4
+Sector 0
+Reset M 23106 1 100
+Reset O 23115 4 2
+Door 3 0 0 23144 0 0
+~
+~
+End
+
+#23146
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset O 23103 -5 100
+Door 1 0 0 23147 0 0
+~
+~
+End
+
+#23147
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Door 1 0 0 23148 0 0
+~
+~
+Door 3 0 0 23146 0 0
+~
+~
+End
+
+#23148
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23108 8 100
+Reset O 23119 100 40
+Reset O 23118 100 40
+Reset M 23108 8 100
+Reset M 23108 5 100
+Reset O 23118 100 30
+Reset O 23120 100 30
+Door 1 3 0 23149 30 30
+~
+cavehole~
+Door 3 0 0 23147 0 0
+~
+~
+End
+
+#23149
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 23151 0 0
+~
+~
+Door 2 0 0 23150 0 0
+~
+~
+Door 3 3 0 23148 30 30
+~
+cave hole~
+End
+
+#23150
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23108 8 100
+Reset M 23108 8 100
+Door 0 0 0 23149 0 0
+~
+~
+Door 2 0 0 23152 0 0
+~
+~
+End
+
+#23151
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Door 2 0 0 23156 0 0
+~
+~
+Door 3 0 0 23149 0 0
+~
+~
+End
+
+#23152
+Name A Large Hatchery Pit~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 23150 0 0
+~
+~
+Door 2 0 0 23153 0 0
+~
+~
+Door 3 0 0 23155 0 0
+~
+~
+End
+
+#23153
+Name A Large Hatchery Pit~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 14 100
+Reset M 23104 14 100
+Reset M 23104 14 100
+Door 0 0 0 23152 0 0
+~
+~
+Door 3 0 0 23154 0 0
+~
+~
+End
+
+#23154
+Name A Large Hatchery Pit~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 14 100
+Reset M 23104 14 100
+Reset M 23104 14 100
+Door 0 0 0 23155 0 0
+~
+~
+Door 1 0 0 23153 0 0
+~
+~
+End
+
+#23155
+Name A Large Hatchery Pit~
+Descr
+The floor is a large mound of greyish muck that pulsates like it is
+breathing. The large balls of glowing plasma are eggs that house living
+creatures. Each holds about two or three creatures that may hatch at any
+moment. The air in this room is full of gases that have a tint of blue to
+them. It is hard to breath. 
+~
+Flags 4
+Sector 0
+Reset M 23104 14 100
+Door 1 0 0 23152 0 0
+~
+~
+Door 2 0 0 23154 0 0
+~
+~
+End
+
+#23156
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Door 0 0 0 23151 0 0
+~
+~
+Door 1 0 0 23157 0 0
+~
+~
+End
+
+#23157
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23108 8 100
+Reset O 23119 100 30
+Reset O 23118 100 30
+Reset M 23108 8 100
+Reset O 23120 100 30
+Door 0 0 0 23158 0 0
+~
+~
+Door 1 0 0 23160 0 0
+~
+~
+Door 2 0 0 23159 0 0
+~
+~
+Door 3 0 0 23156 0 0
+~
+~
+End
+
+#23158
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23111 30 30
+~
+web~
+End
+
+#23159
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23110 30 30
+~
+web~
+End
+
+#23160
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23105 9 100
+Door 2 0 0 23161 0 0
+~
+~
+Door 3 0 0 23157 0 0
+~
+~
+End
+
+#23161
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23105 9 100
+Door 0 0 0 23160 0 0
+~
+~
+Door 1 0 0 23162 0 0
+~
+~
+Door 2 0 0 23164 0 0
+~
+~
+End
+
+#23162
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23109 8 100
+Reset O 23118 100 40
+Reset M 23108 8 100
+Reset O 23121 100 15
+Reset O 23120 100 40
+Door 0 0 0 23163 0 0
+~
+~
+Door 1 0 0 23165 0 0
+~
+~
+Door 3 0 0 23161 0 0
+~
+~
+End
+
+#23163
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23110 30 30
+~
+web~
+End
+
+#23164
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23112 30 30
+~
+web~
+End
+
+#23165
+Name A Mud Filled Cavern~
+Descr
+The muddy cavern is full of body parts of various species. The mud on the
+floor is made of several layers. The first six inch layer is soft, the secon
+is slightly harder and about the same size, the last is like quicksand. Mud
+drips from the ceiling making plopping sounds on the floor. 
+~
+Flags 4
+Sector 0
+Reset M 23105 9 100
+Reset M 23109 8 100
+Reset O 23120 100 40
+Door 3 0 0 23162 0 0
+~
+~
+Door 4 0 0 23166 0 0
+~
+~
+End
+
+#23166
+Name A Tainted Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 23167 0 0
+~
+~
+Door 5 0 0 23165 0 0
+~
+~
+End
+
+#23167
+Name A Small Junction Full of Grayish Muck~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23105 9 100
+Reset M 23109 8 100
+Reset O 23118 100 30
+Door 0 0 0 23169 0 0
+~
+~
+Door 1 0 0 23168 0 0
+~
+~
+Door 2 3 0 23171 30 30
+~
+cavehole~
+Door 3 0 0 23166 0 0
+~
+~
+End
+
+#23168
+Name A Tainted Flagstone Halway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23109 8 100
+Door 3 0 0 23167 0 0
+~
+~
+End
+
+#23169
+Name A Tainted Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Door 2 0 0 23167 0 0
+~
+~
+Door 3 0 0 23170 0 0
+~
+~
+End
+
+#23170
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23158 30 30
+~
+tangle~
+End
+
+#23171
+Name A Tainted Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23105 9 100
+Reset M 23109 8 100
+Reset M 23109 8 100
+Door 0 3 0 23167 30 30
+~
+cavehole~
+Door 2 0 0 23173 0 0
+~
+~
+Door 3 0 0 23172 0 0
+~
+~
+End
+
+#23172
+Name A Web~
+Descr
+You're trapped.
+~
+Flags 50331652
+Sector 0
+Door 5 259 0 23159 30 30
+~
+tangle~
+End
+
+#23173
+Name A Tainted Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Reset M 23111 22 100
+Reset M 23111 22 100
+Reset M 23109 8 100
+Reset O 23120 100 40
+Reset O 23122 100 15
+Reset O 23119 100 40
+Reset O 23118 100 40
+Reset M 23109 8 100
+Reset O 23120 100 40
+Reset O 23119 100 40
+Reset O 23118 100 40
+Door 0 0 0 23171 0 0
+~
+~
+Door 1 0 0 23174 0 0
+~
+~
+End
+
+#23174
+Name A Tainted Flagstone Hallway~
+Descr
+The hallway is ancient flagstone, adopted from a long dead castles and
+keeps from other realities and brought here. The flagstone is glossy and has
+a greenish taint. There are piles of mold and sticky substances all over the
+place. The stone gives off an earie glow. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 23175 0 0
+~
+~
+Door 3 0 0 23173 0 0
+~
+~
+End
+
+#23175
+Name The Hive Overlord's Lair~
+Descr
+The hive of the overlord is a room that contains just his body. A large
+creature sits in the middle with thousands of tenticles going all over the
+place. It has a large mouth and a single eye. The room smells of bodily
+waste and death. 
+~
+Flags 4
+Sector 0
+Reset M 23110 1 100
+Reset O 23117 100 2
+Door 0 0 0 23174 0 0
+~
+~
+End
+
+#23340
+Name ~
+Descr
+~
+Flags 129
+End
+
+#0
+
+
+
+#$

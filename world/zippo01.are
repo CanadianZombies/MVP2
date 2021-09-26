@@ -1,0 +1,3122 @@
+#AREADATA 
+Name Volcano~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mHellish screams fill the corridors of the tunnels.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Zippo~
+VNUMs 20250 20399
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#20332
+Name guard~
+Short a fearsome looking guard~
+Long 
+A fearsome looking guard stands guarding the door to the west.
+~
+Descr
+~
+AMax 1
+NHeight 90
+ActBits 2
+ActBits3 2
+Money 60
+Level 60
+MobType 0
+Guard 3
+Spec spec_warrior
+End
+
+#20334
+Name melgraf wizard majestic~
+Short melgarf, the majestic wizard~
+Long 
+Melgarf stands here waiting for you to say something.
+~
+Descr
+~
+AMax 1
+NHeight 48
+ActBits 258
+Affect_By 168
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+End
+
+#20340
+Name no name~
+Short the Armourer~
+Long 
+The Armourer stands here ready to repair anything you have.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3145730
+Affect_By 552
+Money 10
+Level 10
+MobType 0
+Guard 0
+End
+
+#20345
+Name mob~
+Short a man~
+Long 
+A man.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Money 10
+Level 10
+MobType 0
+Guard 0
+End
+
+#20348
+Name demon guard huge~
+Short a huge demon guard~
+Long 
+A HUGE demon guard stand here like a statue.
+~
+Descr
+~
+AMax 1
+NHeight 132
+ActBits 2
+ActBits3 2
+Affect_By 552
+Alignment -500
+Money 70
+Level 70
+MobType 11
+Guard 1
+End
+
+#20349
+Name large demon guard~
+Short a large demon~
+Long 
+A large demon guards the western door.
+~
+Descr
+~
+AMax 1
+NHeight 96
+ActBits 2
+ActBits3 2
+Affect_By 552
+Money 60
+Level 60
+MobType 11
+Guard 3
+Spec spec_warrior
+End
+
+#20355
+Name wise old sage pract~
+Short a wise sage~
+Long 
+A wize sage sits in the corner.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 2
+Affect_By 168
+Money 110
+Level 110
+MobType 0
+Guard 0
+End
+
+#20370
+Name exiled demon~
+Short an exiled demon~
+Long 
+An exiled demon stands here waiting to tear you apart.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Alignment -1000
+Money 150
+Level 150
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#20371
+Name fire elemental~
+Short a ^FIRE^ Elemental~
+Long 
+A ^FIRE^ elemental bubbles up out of the lava.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 2
+Affect_By 128
+AffectTWO 4194304
+Alignment -200
+Money 300
+Level 300
+Sex 1
+MobType 11
+Guard 0
+End
+
+#20372
+Name demon guard exiled~
+Short an exiled demon guard~
+Long 
+An exiled demon stands here guarding the caverns.
+~
+Descr
+~
+AMax 1
+NHeight 99
+ActBits 2
+Alignment -1500
+Money 75
+Level 75
+MobType 11
+Guard 0
+End
+
+#20373
+Name large demon guard~
+Short a large demon guard~
+Long 
+A large demon guards the passage to the east.
+~
+Descr
+~
+AMax 1
+NHeight 190
+ActBits 2
+ActBits3 2
+Affect_By 40
+Alignment -5000
+Money 90
+Level 90
+MobType 11
+Guard 1
+Spec spec_warrior
+End
+
+#20374
+Name fire giant~
+Short a fire giant~
+Long 
+A fire giant stands here warning you of the evil which lies inside.
+~
+Descr
+This ma, who seems old, stand over the hole saying this, "Don't go in!  There
+is a demon in there... a demon lord!"  With that he screams loudly and is silent.
+~
+AMax 1
+NHeight 280
+ActBits 2
+AffectTWO 4194304
+Money 125
+Level 125
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#20375
+Name demon lord exiled~
+Short an exiled demon lord~
+Long 
+An enormous exiled demon lord stands here deciding on how he will kill you.
+~
+Descr
+~
+AMax 1
+NHeight 300
+ActBits 2
+Affect_By 168
+Alignment -9999
+Money 175
+Level 175
+MobType 11
+Guard 0
+End
+
+#20250
+Name pit Fiend~
+Short a pit fiend~
+Long 
+A dark pit-fiend stands here taunting you with flames.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108866
+Affect_By 128
+AffectTWO 4194304
+Alignment -750
+Money 400
+Level 400
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#20251
+Name aboshai guard~
+Short a green aboshai guard~
+Long 
+A green aboshai guards the chamber to the north.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 2
+Alignment -500
+Money 50
+Level 50
+Sex 1
+MobType 20
+Guard 0
+End
+
+#20252
+Name lich~
+Short a lich~
+Long 
+A lich stands here, under his master's command.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Alignment -200
+Money 90
+Level 90
+MobType 9
+Guard 0
+End
+
+#20254
+Name zombie~
+Short a zombie~
+Long 
+A zombie is here stroking his cock(animal).
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 1
+Level 1
+MobType 9
+Guard 0
+End
+
+#20258
+Name bah~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 10
+Level 10
+Guard 0
+End
+
+#20286
+Name priest demon exiled~
+Short an exiled demon-priest~
+Long 
+An exiled demon stands here as the priest of this horrid temple.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Alignment -100
+Money 125
+Level 125
+MobType 11
+Guard 0
+End
+
+#20300
+Name troll large~
+Short a large troll~
+Long 
+A large troll stands here.
+~
+Descr
+This ferocious and quite smelly troll will not let you pass the bridge wit
+hout a fight.
+~
+AMax 1
+NHeight 150
+ActBits 2
+ActBits3 2
+Money 69
+Level 69
+Sex 1
+MobType 12
+Guard 3
+Spec spec_warrior
+End
+
+#20301
+Name beautiful elven princess PRACT~
+Short a beautiful elven princess~
+Long 
+A beautiful elven princess stands here admiring the beauty of the valley.
+~
+Descr
+Andaria, the beautiful elven princess, stands here waiting to share her
+magical powers with you. She is 5' 11" tall and is quite possibly the most
+beautiful elf you have ever seen. There is an aura of calm around her.
+~
+AMax 1
+NHeight 71
+ActBits 258
+Affect_By 168
+Alignment 1000
+Money 140
+Level 140
+Sex 2
+MobType 1
+Guard 0
+End
+
+#20309
+Name huge wandering obsidian golem Rolan~
+Short rolan~
+Long 
+Rolan, the wandering obsidian golem, walks about aimlessly here.
+~
+Descr
+~
+AMax 1
+NHeight 155
+ActBits4 4096
+Affect_By 8872
+Money 225
+Level 225
+MobType 10
+Guard 0
+Spec spec_warrior
+BCasts balefire~
+BCasts 'balefire'~
+BCast_P 5
+End
+
+#20330
+Name wizard guard large~
+Short a large guard of the wizard is here~
+Long 
+A guardian of the wizard stands here at attention.
+~
+Descr
+~
+AMax 5
+NHeight 112
+ActBits 2
+ActBits3 2
+Affect_By 40
+Money 40
+Level 40
+MobType 0
+Guard 3
+End
+
+#20331
+Name obsidian golem~
+Short a jet-black obsidian golem~
+Long 
+A jet-black golem stands here, guarding the door to the west.
+~
+Descr
+~
+AMax 1
+NHeight 99
+ActBits 2
+ActBits3 2
+Affect_By 40
+Money 125
+Level 125
+MobType 10
+Guard 3
+End
+
+#0
+
+
+
+#OBJDATA
+#20334
+Name staff Melgraf~
+Short (no short description)~
+Descr
+(no description)~
+Type 4
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20340
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20345
+Name ring ashwood~
+Short an [1m[30mas[37mh[0m[37mw[1m[37mo[30mod[0m [1m[37mr[30min[37mg~
+Descr
+A small ashwood ring lies here forgotten in time.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 100 100 10 0
+Weight 1
+Cost 3500
+Affect 20 -5 1 0 0
+Affect 26 5 1 0 0
+Affect 19 -2 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#20350
+Name helmet horned pit fiend APB head~
+Short a [1m[31mh[0m[31morne[1m[31md[0m[37m helmet[0m of the [0m[31mP[1mi[0m[31mt[32m-[0m[31mF[1mien[0m[31md[0m~
+Descr
+A helmet of the Pit-Fiend lies here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 6 0 0 0 100 100 0 0
+Weight 2
+Cost 10000
+Affect 19 1 1 0 0
+Affect 18 3 1 0 0
+End
+
+#20351
+Name odsidian spiked anklet~
+Short a [0m[34ms[37mp[1mik[0m[37me[34md [1m[37mo[30mb[37ms[30mi[37md[30mi[37ma[30mn[0m anklet~
+Descr
+A large circular hunk of obsidian lies here with spikes prodruding from all sides.
+[0;36m~
+Type 9
+Extra 536870976
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 10 10 100 100 10 0
+Weight 1
+Cost 10000
+Affect 22 3 1 0 0
+Affect 19 1 1 0 0
+End
+
+#20355
+Name long dark blue cloak~
+Short a long [34mdark blue[0m cloak~
+Descr
+A long blue cloak floats in mid-air. unmoving in an erie way.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 8 3 4 10 10 100 100 10 10
+Weight 1
+Cost 5000
+Affect 19 1 1 0 0
+Affect 25 4 1 0 0
+Affect 18 3 1 0 0
+End
+
+#20358
+Name dagger black obsidian~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 131136
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 11 0 0 0 5 3 0
+Weight 1
+Cost 0
+Affect 18 1 1 0 0
+End
+
+#20374
+Name no name~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20375
+Name throne blood flowing~
+Short a throne of flowing [31mblood[0m~
+Descr
+The sorce of the blood in the halls is found here, with a large throne which has blood flowing freely from all parts.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 999
+Cost 0
+End
+
+#20386
+Name evil altar horrid~
+Short an evil altar~
+Descr
+A large blood stained altar stands by the southern wall here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20387
+Name floater~
+Short a floater~
+Descr
+A floater is floating here.
+[0;36m~
+Type 9
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 17 -2 1 0 0
+End
+
+#20388
+Name bionic arm~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 10 1 0
+Weight 12
+Cost 0
+End
+
+#20399
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20250
+Name sword steel~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 4194304
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 14 0 0 0 3 5 0
+Weight 2
+Cost 1000
+Affect 19 -1 1 0 0
+End
+
+#20251
+Name flaming gauntlet gauntlets DAM~
+Short some [0m[31mf[1ml[33ma[37mm[37mi[31mn[0m[31mg[0m gauntlets~
+Descr
+A pair of gloves are on fire here!
+[0;36m~
+Type 9
+Extra 536870913
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 10 10 50 50 10 3
+Weight 3
+Cost 10000
+Affect 13 20 1 0 0
+Affect 17 -1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#20252
+Name boots steel~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 12 100 100 0 5
+Weight 0
+Cost 0
+Affect 18 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#20253
+Name unholy symbol neck~
+Short an [1m[30mUnholy symbol~
+Descr
+A symbol of an evil god lies here.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 100 100 0 0
+Weight 1
+Cost 1000
+Affect 18 1 1 0 0
+Affect 13 5 1 0 0
+Affect 27 -5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#20254
+Name cheat cheater item~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 2097154
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 3
+Weight 6
+Cost 20000
+End
+
+#20255
+Name scythe wicked~
+Short a [1m[30mwickedly[0m serrated scythe~
+Descr
+A bladed arm-piece lies on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 50 50 10 3
+Weight 0
+Cost 0
+Affect 18 -1 1 0 0
+Affect 19 1 1 0 0
+Affect 13 -3 1 0 0
+End
+
+#20256
+Name vambraces~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 10 10 50 50 10 3
+Weight 0
+Cost 0
+End
+
+#20257
+Name colored multi stones~
+Short some [1m[34mm[32mu[36ml[31mt[35mi[33m-[37mc[34mo[32ml[35mo[31mr[36me[33md[0m stones~
+Descr
+Some strangely colored stones float in a perfect circle in the air.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 4
+Weight 0
+Cost 15000
+Affect 19 1 1 0 0
+End
+
+#20258
+Name mithril helm~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 100 100 0 15
+Weight 1
+Cost 0
+Affect 17 -5 1 0 0
+End
+
+#20259
+Name no name~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20260
+Name altar~
+Short an altar~
+Descr
+An unholy altar is here, blood dripping from it...
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20261
+Name poop~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#20262
+Name flowing purple robe~
+Short a flowing [35mpurple [0mrobe~
+Descr
+A nice-looking robe lies on the ground here.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 7 4 5 10 10 50 50 10 3
+Weight 1
+Cost 5000
+Affect 17 -1 1 0 0
+End
+
+#20263
+Name short sword~
+Short a strange [31mred[0m shortsword[0m~
+Descr
+A finely crafted red shortsword leans against the wall.
+[0;36m~
+Type 5
+Extra 131073
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 18 0 2 0 0 0 2 7 0
+Weight 2
+Cost 1700
+Affect 18 3 1 0 0
+End
+
+#20265
+Name torch~
+Short a torch~
+Descr
+A torch hangs on the wall here.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20280
+Name bookshelf~
+Short a huge bookshelf houses well over 300 books~
+Descr
+A huge bookshelf houses well over 300 books here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20281
+Name anklet~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#20285
+Name a burned sign.~
+Short a huge bookshelf~
+Descr
+A huge bookshelf has been carved into the west wall.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20287
+Name demon mask~
+Short a [1m[30mm[0m[31mas[1m[30mk [0m[33mof [34ma [31mD[1m[30me[0m[31mm[1m[30mo[0m[31mn[0m~
+Descr
+A mask in the form of a demon's face lies on the ground.
+[0;36m~
+Type 9
+Extra 2
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 6 0 10 10 50 50 10 3
+Weight 3
+Cost 15000
+Affect 18 1 1 0 0
+Affect 27 4 1 0 0
+End
+
+#20288
+Name flaming necklace~
+Short a [31mf[1m[31ml[33ma[37mm[33mi[31mn[1m[31mg[0m necklace~
+Descr
+A dark unholy looking necklace lies here on fire.
+[0;36m~
+Type 9
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 10 10 100 100 10 0
+Weight 2
+Cost 500
+Affect 18 3 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#20291
+Name dagger ancients BS DAM HIT~
+Short [1m[30mThe dagger of the Ancients[0m~
+Descr
+An unworldy dagger lies here.
+[0;36m~
+Type 5
+Extra 537001984
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 7 4 0
+Weight 2
+Cost 30000
+Affect 18 3 1 0 0
+Affect 19 1 1 0 0
+Affect 25 5 1 0 0
+End
+
+#20292
+Name the biggest goddamn stick you have ever seen.~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 5 4 0 0
+Weight 0
+Cost 0
+End
+
+#20297
+Name staff~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 3
+Weight 0
+Cost 0
+End
+
+#20298
+Name staff~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 2
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 3
+Weight 2
+Cost 0
+Affect 13 6 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#20299
+Name wail banshee MAGICDAM~
+Short [1m[30mW[37ma[37mi[30ml of the [34mBanshee[0m~
+Descr
+There is a glowing aura producing a sound here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 4 2 0 0 100 100 0 0
+Weight 0
+Cost 30000
+Affect 26 5 1 0 0
+Affect 17 -3 1 0 0
+Affect 18 2 1 0 0
+End
+
+#20300
+Name obsidian earring DAM~
+Short an [1m[37mo[30mb[37ms[30mi[37md[30mi[37ma[30mn[0m earring~
+Descr
+An earring made of obsidian lies here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 10 10 100 100 10 5
+Weight 2
+Cost 15000
+Affect 19 1 1 0 0
+End
+
+#20301
+Name runed obsidian wristband HEALBONUS~
+Short a [1m[33mruned [1m[37mo[30mb[37ms[30mi[37md[30mi[37ma[30mn [0m[34mw[1mris[37mt[33mban[0m[33md[0m~
+Descr
+A runed band of obsidian lies in the dust.
+[0;36m~
+Type 9
+Extra 1
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 50 50 10 3
+Weight 1
+Cost 5000
+Affect 27 3 1 0 0
+Affect 20 -3 1 0 0
+Affect 13 15 1 0 0
+Affect 18 2 1 0 0
+End
+
+#20302
+Name spiked obsidian corselet APB~
+Short a [0m[34ms[37mp[1mik[0m[37me[34md [1m[37mo[30mb[37ms[30mi[37md[30mi[37ma[30mn co[0m[31mr[1mse[0m[31ml[1m[30met[0m~
+Descr
+A piece of titanium lies here with spikes prudruding from every side.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 10 0 3 20 10 100 100 10 0
+Weight 4
+Cost 14000
+Affect 18 -3 1 0 0
+Affect 17 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#20303
+Name flaming leg plates~
+Short some [0m[31mf[1ml[33ma[37mm[37mi[31mn[0m[31mg[0m leg plates~
+Descr
+A pair of [31mflaming[0m leg plates lie here.
+[0;36m~
+Type 9
+Extra 2
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 20 20 100 100 20 0
+Weight 5
+Cost 15000
+Affect 22 5 1 0 0
+End
+
+#20304
+Name spiked flaming shield APB~
+Short a [0m[31mf[1ml[33ma[37mm[37mi[31mn[0m[31mg [0m[34ms[37mp[1mik[0m[37me[34md[0m shield~
+Descr
+A spiked shield is on fire!
+[0;36m~
+Type 9
+Extra 536870914
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 6 3 5 20 10 100 100 10 0
+Weight 5
+Cost 10000
+Affect 18 2 1 0 0
+Affect 17 3 1 0 0
+Affect 19 2 1 0 0
+End
+
+#20305
+Name titanium spiked belt APB~
+Short a [0m[34ms[37mp[1mik[0m[37me[34md[0m [37mt[1mi[0m[37mt[1ma[0m[37mn[1mi[0m[37mu[1mm[0m belt~
+Descr
+A large spiked belt made of titanium.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 10241
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 6 0 0 10 10 100 100 10 0
+Weight 2
+Cost 4000
+Affect 19 1 1 0 0
+End
+
+#20306
+Name ring lucifer~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20307
+Name flaming shoulder plate MAGICDAM~
+Short a [31mf[1m[31ml[33ma[37mm[33mi[31mn[0m[31mg[0m shoulder-guard~
+Descr
+A flaming shoulder plate lies here burning with rage.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 2 3 20 0 100 100 20 0
+Weight 2
+Cost 10000
+Affect 19 -1 1 0 0
+Affect 13 5 1 0 0
+Affect 26 4 1 0 0
+End
+
+#20308
+Name spiked huge obsidian gleaming club APB~
+Short a huge [1m[37mg[0m[37ml[1m[37me[0m[37ma[1m[37mm[0m[37mi[1m[37mn[0m[37mg[0m [34ms[37mp[1m[37mik[0m[37me[34md[0m [1m[30modsidian club~
+Descr
+A huge spiked piece of obsidian gleams wildly.
+[0;36m~
+Type 5
+Extra 537395202
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 8 0 0 0 8 3 0
+Weight 12
+Cost 20000
+Affect 19 2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#20309
+Name long staff ashwood~
+Short a [1m[37mlong[0m [33mst[1m[37ma[0m[33mff[0m of [1m[30mas[0m[37mh[1m[37mw[0m[37mo[1m[30mod[0m~
+Descr
+A long piece of ash wood lies here.
+[0;36m~
+Type 5
+Extra 524289
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 7 0 0 0 5 3 0
+Weight 2
+Cost 32100
+Affect 26 3 1 0 0
+Affect 18 2 1 0 0
+End
+
+#20310
+Name andarian dagger BS~
+Short the [1m[37mD[33ma[37mg[33mg[37me[33mr [37mo[33mf [0m[34mA[1m[34mnd[37mar[34mia[0m[34mn[0m~
+Descr
+A long slender dagger with the name Andarian engraved on it lies on the ground.
+[0;36m~
+Type 5
+Extra 131073
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 4 4 0
+Weight 2
+Cost 10000
+Affect 18 2 1 0 0
+Affect 25 2 1 0 0
+End
+
+#20311
+Name red leather boots~
+Short some [31mred leather[0m boots~
+Descr
+A pair of red leather boots.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 10 10 0 100 100 0
+Weight 2
+Cost 0
+Affect 22 2 1 0 0
+Affect 25 2 1 0 0
+Affect 14 10 1 0 0
+End
+
+#20312
+Name ashwood bracelet wrist band wristband MAGICDAM~
+Short an [1m[30mas[0m[37mh[1m[37mw[0m[37mo[1m[30mod[0m [33mb[32mra[1m[37mce[0m[32mle[33mt~
+Descr
+A wristband made of ashwood lies here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 90 90 10 0
+Weight 1
+Cost 100
+Affect 20 -3 1 0 0
+Affect 14 15 1 0 0
+Affect 18 -1 1 0 0
+Affect 26 4 1 0 0
+End
+
+#20330
+Name ankle runed bracelet~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 50 50 10 3
+Weight 0
+Cost 0
+Affect 14 10 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#20332
+Name Before a Pair of Golden Doors~
+Descr
+~
+Flags 4
+Reset M 20331 1 100
+Reset O 20305 -1 5
+Reset O 20303 -1 30
+Reset O 20302 -1 5
+Door 1 3 0 20330 30 30
+~
+a large ornately decorated door~
+Door 3 3 0 20333 30 30
+~
+large set of golden doors~
+End
+
+#20333
+Name Wizard's Labratory~
+Descr
+~
+Flags 4
+Sector 3
+Reset M 20334 1 100
+Reset O 20312 -1 5
+Reset O 20309 21 7
+Reset O 20345 -1 5
+Door 1 3 0 20332 30 30
+~
+large set of golden doors~
+End
+
+#20335
+Name Obsidian Fields, Near a River~
+Descr
+~
+Sector 2
+Door 0 0 0 20346 0 0
+~
+~
+Door 1 0 0 20336 0 0
+~
+~
+Door 2 0 0 20297 0 0
+~
+~
+End
+
+#20336
+Name Obsidian Fields~
+Descr
+~
+Sector 2
+Door 0 0 0 20347 0 0
+~
+~
+Door 1 0 0 20337 0 0
+~
+~
+Door 2 0 0 20294 0 0
+~
+~
+Door 3 0 0 20335 0 0
+~
+~
+End
+
+#20337
+Name Obsidian Fields~
+Descr
+~
+Sector 2
+Door 0 0 0 20348 0 0
+~
+~
+Door 1 0 0 20342 0 0
+~
+~
+Door 2 0 0 20292 0 0
+~
+~
+Door 3 0 0 20336 0 0
+~
+~
+End
+
+#20338
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20342 0 0
+~
+~
+Door 1 0 0 20339 0 0
+~
+~
+Door 3 0 0 20292 0 0
+~
+~
+End
+
+#20339
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20343 0 0
+~
+~
+Door 1 0 0 20340 0 0
+~
+~
+Door 3 0 0 20338 0 0
+~
+~
+End
+
+#20340
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20344 0 0
+~
+~
+Door 1 0 0 20341 0 0
+~
+~
+Door 3 0 0 20339 0 0
+~
+~
+End
+
+#20341
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20345 0 0
+~
+~
+Door 3 0 0 20340 0 0
+~
+~
+End
+
+#20342
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20349 0 0
+~
+~
+Door 1 0 0 20343 0 0
+~
+~
+Door 2 0 0 20338 0 0
+~
+~
+Door 3 0 0 20337 0 0
+~
+~
+End
+
+#20343
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20350 0 0
+~
+~
+Door 1 0 0 20344 0 0
+~
+~
+Door 2 0 0 20339 0 0
+~
+~
+Door 3 0 0 20342 0 0
+~
+~
+End
+
+#20344
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20351 0 0
+~
+~
+Door 1 0 0 20345 0 0
+~
+~
+Door 2 0 0 20340 0 0
+~
+~
+Door 3 0 0 20343 0 0
+~
+~
+End
+
+#20345
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20352 0 0
+~
+~
+Door 2 0 0 20341 0 0
+~
+~
+Door 3 0 0 20344 0 0
+~
+~
+End
+
+#20346
+Name Obsidian Fields, Near a River~
+Descr
+~
+Sector 2
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 20347 0 0
+~
+~
+Door 2 0 0 20335 0 0
+~
+~
+End
+
+#20347
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 1 0 0 20348 0 0
+~
+~
+Door 2 0 0 20336 0 0
+~
+~
+Door 3 0 0 20346 0 0
+~
+~
+End
+
+#20348
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 1 0 0 20349 0 0
+~
+~
+Door 2 0 0 20337 0 0
+~
+~
+Door 3 0 0 20347 0 0
+~
+~
+End
+
+#20349
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 1 0 0 20350 0 0
+~
+~
+Door 2 0 0 20342 0 0
+~
+~
+Door 3 0 0 20348 0 0
+~
+~
+End
+
+#20350
+Name Obsidian Field~
+Descr
+~
+Flags 2097152
+Sector 2
+Reset M 20309 1 100
+Reset O 20351 -1 5
+Reset O 20257 -1 75
+Reset O 20300 26 1
+Reset O 20308 -1 5
+Door 1 0 0 20351 0 0
+~
+~
+Door 2 0 0 20343 0 0
+~
+~
+Door 3 0 0 20349 0 0
+~
+~
+End
+
+#20351
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 259 0 20354 31 31
+~
+Obsidian~
+Door 1 0 0 20352 0 0
+~
+~
+Door 2 0 0 20344 0 0
+~
+~
+Door 3 0 0 20350 0 0
+~
+~
+End
+
+#20352
+Name Obsidian Field~
+Descr
+~
+Sector 2
+Door 0 0 0 20353 0 0
+~
+~
+Door 2 0 0 20345 0 0
+~
+~
+Door 3 0 0 20351 0 0
+~
+~
+End
+
+#20353
+Name A Small Obsidian Cave~
+Descr
+~
+Flags 3145740
+Sector 0
+Door 2 0 0 20352 0 0
+~
+~
+End
+
+#20354
+Name A Strange Library~
+Descr
+~
+Flags 3145740
+Sector 0
+Reset M 20355 1 100
+Reset O 20285 -5 100
+Door 2 256 0 20351 31 31
+~
+~
+End
+
+#20355
+Name A Hole in the Ground~
+Descr
+As you look over the edge of the whole you see it is an underground caver
+with lava flowing freely. After deciding it is safe to venture in you
+continue on your way.
+~
+Flags 2
+Sector 2
+Reset M 20374 1 100
+Reset O 20307 -1 5
+Door 0 0 0 20295 0 0
+~
+~
+Door 5 0 0 20356 0 0
+~
+~
+End
+
+#20356
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Door 1 0 0 20387 0 0
+~
+~
+Door 3 0 0 20388 0 0
+~
+~
+Door 4 0 0 20355 0 0
+~
+~
+End
+
+#20359
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Reset M 20372 1 100
+Door 2 0 0 20388 0 0
+~
+~
+Door 3 0 0 20360 0 0
+~
+~
+End
+
+#20360
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Door 1 0 0 20359 0 0
+~
+~
+Door 2 0 0 20361 0 0
+~
+~
+End
+
+#20361
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Door 0 0 0 20360 0 0
+~
+~
+Door 2 0 0 20362 0 0
+~
+~
+End
+
+#20362
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+You notice a burning door west of here.
+~
+Flags 4
+Reset M 20370 1 100
+Door 0 0 0 20361 0 0
+~
+~
+Door 2 0 0 20367 0 0
+~
+~
+Door 3 3 0 20363 30 30
+~
+bloodstained doors.~
+End
+
+#20363
+Name An Evil Temple~
+Descr
+This horrid temple is set up to worship a god of unspeakable evil.  You notice
+a large altar standing to the west, which is blood stained.  About this orrid
+altar are numerous animal and humanoid sacrifices.
+~
+Flags 4
+Reset M 20286 1 100
+Reset O 20288 -1 30
+Reset O 20287 25 7
+Reset O 20386 -5 100
+Door 1 3 0 20362 30 30
+~
+huge bloodstained doors~
+End
+
+#20367
+Name A Lava Filled Cavern~
+Descr
+~
+Flags 4
+Door 0 0 0 20362 0 0
+~
+~
+Door 2 0 0 20368 0 0
+~
+~
+End
+
+#20368
+Name A Lava Filled Cavern~
+Descr
+~
+Flags 4
+Door 0 0 0 20367 0 0
+~
+~
+Door 1 0 0 20369 0 0
+~
+~
+End
+
+#20369
+Name A Lava Filled Cavern~
+Descr
+~
+Flags 4
+Door 1 0 0 20370 0 0
+~
+~
+Door 3 0 0 20368 0 0
+~
+~
+End
+
+#20370
+Name At the Rim of a Lava Pool~
+Descr
+~
+Flags 4
+Reset M 20371 1 100
+Reset O 63 -1 5
+Door 3 0 0 20369 0 0
+~
+~
+End
+
+#20371
+Name A Bloodstained Corridor~
+Descr
+~
+Flags 4
+Door 1 0 0 20372 0 0
+~
+~
+Door 3 0 0 20387 0 0
+~
+~
+End
+
+#20372
+Name A Bloodstained Corridor~
+Descr
+~
+Flags 4
+Reset M 20373 1 100
+Door 1 1 0 20373 30 30
+~
+unholy door~
+Door 3 0 0 20371 0 0
+~
+~
+End
+
+#20373
+Name A Bloodstained Hallway~
+Descr
+~
+Flags 4
+Reset M 20349 1 100
+Door 1 0 0 20374 0 0
+~
+~
+Door 3 3 0 20372 30 30
+~
+unholy door~
+End
+
+#20374
+Name A Bloodfilled Hallway~
+Descr
+~
+Flags 4
+Door 1 0 0 20375 0 0
+~
+~
+Door 3 0 0 20373 0 0
+~
+~
+End
+
+#20375
+Name A Bloodfilled Hallway~
+Descr
+~
+Flags 4
+Reset M 20348 1 100
+Door 1 3 0 20376 30 30
+~
+door of flowing blood~
+Door 3 0 0 20374 0 0
+~
+~
+End
+
+#20376
+Name A Bloodfilled Throne Room~
+Descr
+~
+Flags 4
+Reset O 20375 -5 100
+Reset M 20375 1 100
+Reset O 20301 -1 45
+Reset O 20304 -1 5
+Reset O 20299 -1 5
+Door 3 3 0 20375 30 30
+~
+door of flowing blood~
+End
+
+#20382
+Name A Courtyard Along the Northern Wall~
+Descr
+This room is the first room of the castle courtyard. People swarm about
+shoping and so forth. Many wild flowers grow here. And A strange yellow-red
+grass grows from everywhere. There are many wagon rutts leading in all
+directions.
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#20387
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Door 1 0 0 20371 0 0
+~
+~
+Door 3 0 0 20356 0 0
+~
+~
+End
+
+#20388
+Name A Large Lava Filled Cavern~
+Descr
+Lava runs about 30 feet away from you here, and the heat is almost unbareable.
+The caverns look the same everywhere, and you begin to think of where you are.
+~
+Flags 4
+Door 0 0 0 20359 0 0
+~
+~
+Door 1 0 0 20356 0 0
+~
+~
+End
+
+#20250
+Name Center of a Volcano~
+Descr
+~
+Flags 2097164
+Sector 0
+Reset M 20250 1 100
+Reset O 20291 -1 5
+Reset O 20251 -1 5
+Reset O 20350 -1 5
+Reset O 20262 -1 75
+Reset O 20260 -5 100
+Door 2 0 0 20251 0 0
+~
+~
+End
+
+#20251
+Name Entryway to the Altar~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20251 2 100
+Reset O 20263 -1 90
+Reset M 20251 1 100
+Reset O 20263 -1 90
+Door 0 1 0 20250 18 18
+~
+rock slab~
+Door 2 0 0 20252 0 0
+~
+~
+End
+
+#20252
+Name Large Open Cavern~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20251 0 0
+~
+~
+Door 2 0 0 20253 0 0
+~
+~
+End
+
+#20253
+Name Large Open Cavern~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20252 0 0
+~
+~
+Door 1 0 0 20254 0 0
+~
+~
+End
+
+#20254
+Name Large Open Cavern~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20255 0 0
+~
+~
+Door 3 0 0 20253 0 0
+~
+~
+End
+
+#20255
+Name The Corridor Widens~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20252 1 100
+Door 1 0 0 20256 0 0
+~
+~
+Door 3 0 0 20254 0 0
+~
+~
+End
+
+#20256
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20252 1 100
+Door 0 0 0 20257 0 0
+~
+~
+Door 1 259 0 4320 30 30
+~
+pumice~
+Door 3 0 0 20255 0 0
+~
+~
+End
+
+#20257
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20258 0 0
+~
+~
+Door 2 0 0 20256 0 0
+~
+~
+End
+
+#20258
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20259 0 0
+~
+~
+Door 2 0 0 20257 0 0
+~
+~
+End
+
+#20259
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20258 0 0
+~
+~
+Door 3 0 0 20260 0 0
+~
+~
+End
+
+#20260
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20259 0 0
+~
+~
+Door 3 0 0 20261 0 0
+~
+~
+End
+
+#20261
+Name A Very hot Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20252 1 100
+Door 1 0 0 20260 0 0
+~
+~
+Door 4 0 0 20262 0 0
+~
+~
+End
+
+#20262
+Name A Small Hole~
+Descr
+There is a small hole in the tunnel at this dead end, barely large enough
+for one person to slide through at a time. There is intense heat coming from
+the hole, which makes you wonder just how close you are to the lava. Every
+once in a while, a roar that shakes the ground beneath you eminates through
+the tunnels. Only the gods know what hellish horrors await you.
+~
+Flags 12
+Sector 0
+Door 1 0 0 20263 0 0
+~
+~
+Door 5 0 0 20261 0 0
+~
+~
+End
+
+#20263
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20264 0 0
+~
+~
+Door 3 0 0 20262 0 0
+~
+~
+End
+
+#20264
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20265 0 0
+~
+~
+Door 3 0 0 20263 0 0
+~
+~
+End
+
+#20265
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20264 0 0
+~
+~
+Door 2 0 0 20266 0 0
+~
+~
+End
+
+#20266
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20265 0 0
+~
+~
+Door 2 0 0 20267 0 0
+~
+~
+End
+
+#20267
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20266 0 0
+~
+~
+Door 3 0 0 20268 0 0
+~
+~
+End
+
+#20268
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20267 0 0
+~
+~
+Door 3 0 0 20269 0 0
+~
+~
+End
+
+#20269
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20252 1 100
+Door 1 0 0 20268 0 0
+~
+~
+Door 3 0 0 20270 0 0
+~
+~
+End
+
+#20270
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20271 0 0
+~
+~
+Door 1 0 0 20269 0 0
+~
+~
+End
+
+#20271
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20272 0 0
+~
+~
+Door 2 0 0 20270 0 0
+~
+~
+End
+
+#20272
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20273 0 0
+~
+~
+Door 2 0 0 20271 0 0
+~
+~
+End
+
+#20273
+Name A Warm Tunnel~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20272 0 0
+~
+~
+Door 4 0 0 20274 0 0
+~
+~
+End
+
+#20274
+Name A Large Hole~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20275 0 0
+~
+~
+Door 5 0 0 20273 0 0
+~
+~
+End
+
+#20275
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20276 0 0
+~
+~
+Door 3 0 0 20274 0 0
+~
+~
+End
+
+#20276
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20277 0 0
+~
+~
+Door 3 0 0 20275 0 0
+~
+~
+End
+
+#20277
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20278 0 0
+~
+~
+Door 2 0 0 20276 0 0
+~
+~
+End
+
+#20278
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20279 0 0
+~
+~
+Door 2 0 0 20277 0 0
+~
+~
+End
+
+#20279
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20280 0 0
+~
+~
+Door 3 0 0 20278 0 0
+~
+~
+End
+
+#20280
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20281 0 0
+~
+~
+Door 2 0 0 20279 0 0
+~
+~
+End
+
+#20281
+Name Narrow Corridor~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20280 0 0
+~
+~
+Door 3 0 0 20282 0 0
+~
+~
+End
+
+#20282
+Name Narrowing Corridor of Magma Rock~
+Descr
+~
+Flags 12
+Sector 0
+Reset M 20252 1 100
+Door 0 0 0 20283 0 0
+~
+~
+Door 1 0 0 20281 0 0
+~
+~
+End
+
+#20283
+Name Narrowing Corridor of Magma Rock~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20282 0 0
+~
+~
+Door 3 0 0 20284 0 0
+~
+~
+End
+
+#20284
+Name Narrowing Corridor of Magma Rock~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20283 0 0
+~
+~
+Door 3 0 0 20285 0 0
+~
+~
+End
+
+#20285
+Name Entrance to the Strange Tunnel~
+Descr
+~
+Sector 4
+Door 1 0 0 20284 0 0
+~
+~
+Door 3 0 0 20288 0 0
+~
+~
+End
+
+#20286
+Name A Hardened Lava Flow~
+Descr
+This hardened flow of lava appears to be very old. It seems stable and continues on to the east.
+~
+Door 1 0 0 20287 0 0
+~
+~
+End
+
+#20287
+Name ~
+Descr
+~
+Door 3 0 0 20286 0 0
+~
+~
+End
+
+#20288
+Name An Odd Road~
+Descr
+This road is composed entirely of obsidian. It stretches for miles around you
+in an endless stream of black.  The road continues to the east and west.
+~
+Sector 4
+Door 1 0 0 20285 0 0
+~
+~
+Door 3 0 0 20289 0 0
+~
+~
+End
+
+#20289
+Name An Odd Road~
+Descr
+This road is composed entirely of obsidian. It stretches for miles around you
+in an endless stream of black.  The road continues to the east and west.
+~
+Sector 4
+Door 1 0 0 20288 0 0
+~
+~
+Door 3 0 0 20290 0 0
+~
+~
+End
+
+#20290
+Name An Odd Road~
+Descr
+The obsidian road seems to spread out in a sea of obsidian here. Luckily
+you can still follow the path, thanks to the wheel rutts from wagons. You
+feel as if you are being watched here... l
+~
+Sector 2
+Door 0 0 0 20292 0 0
+~
+~
+Door 1 0 0 20289 0 0
+~
+~
+Door 2 0 0 20293 0 0
+~
+~
+Door 3 0 0 20291 0 0
+~
+~
+End
+
+#20291
+Name A Path of Wagon Rutts Through an Obsidian Field~
+Descr
+The obsidian road seems to spread out in a sea of obsidian here. Luckily
+you can still follow the path, thanks to the wheel rutts from wagons. You
+feel as if you are being watched here... l
+~
+Sector 2
+Door 0 0 0 20294 0 0
+~
+~
+Door 1 0 0 20290 0 0
+~
+~
+Door 2 0 0 20295 0 0
+~
+~
+Door 3 0 0 20296 0 0
+~
+~
+End
+
+#20292
+Name Field of Obsidian, Near the Path~
+Descr
+This jet black area seems to go on forever in every direction, and the
+heat from the sun blurs your vision. You notice the path to the south,
+and nothingness in every other direction.
+~
+Sector 2
+Door 0 0 0 20337 0 0
+~
+~
+Door 1 0 0 20338 0 0
+~
+~
+Door 2 0 0 20290 0 0
+~
+~
+Door 3 0 0 20294 0 0
+~
+~
+End
+
+#20293
+Name Field of Obsidian, Near the Path~
+Descr
+This jet black area seems to go on forever in every direction, and
+the heat from the sun blurs your vision. You notice the path to the
+north, and nothingness in every other direction.
+~
+Sector 2
+Door 0 0 0 20290 0 0
+~
+~
+Door 3 0 0 20295 0 0
+~
+~
+End
+
+#20294
+Name Field of Obsidian, Near the Path~
+Descr
+This jet black area seems to go on forever in every direction, and
+the heat from the sun blurs your vision. You notice the path to the
+south, and nothingness in every other direction.
+~
+Sector 2
+Door 0 0 0 20336 0 0
+~
+~
+Door 1 0 0 20292 0 0
+~
+~
+Door 2 0 0 20291 0 0
+~
+~
+Door 3 0 0 20297 0 0
+~
+~
+End
+
+#20295
+Name Field of Obsidian, Near the Path~
+Descr
+This jet black area seems to go on forever in every direction, and
+the heat from the sun blurs your vision. You notice the path to the
+north, and nothingness in every other direction.
+~
+Sector 2
+Door 0 0 0 20291 0 0
+~
+~
+Door 1 0 0 20293 0 0
+~
+~
+Door 2 0 0 20355 0 0
+~
+~
+Door 3 0 0 20298 0 0
+~
+~
+End
+
+#20296
+Name A Path Nearing the Mundharan River~
+Descr
+The path continues east and west here.  To the west you notice a rather large
+house. The Mundharan River is to the west as well.
+l
+~
+Sector 2
+Door 0 0 0 20297 0 0
+~
+~
+Door 1 0 0 20291 0 0
+~
+~
+Door 2 0 0 20298 0 0
+~
+~
+Door 3 0 0 20300 0 0
+~
+~
+End
+
+#20297
+Name Edge of the Field~
+Descr
+The field ends abrubtly here as a river flows through the land.  You may go
+north, east, and south here.
+~
+Sector 2
+Door 0 0 0 20335 0 0
+~
+~
+Door 1 0 0 20294 0 0
+~
+~
+Door 2 0 0 20296 0 0
+~
+~
+End
+
+#20298
+Name Edge of a Field~
+Descr
+The field ends abrubtly here as a river flows through the land.  You may go
+north, east, and south here.
+~
+Sector 2
+Door 0 0 0 20296 0 0
+~
+~
+Door 1 0 0 20295 0 0
+~
+~
+End
+
+#20299
+Name ~
+Descr
+~
+End
+
+#20300
+Name Approaching a Bridge~
+Descr
+The bridge is only about 30 feet away now... but as you continue a large
+troll approaches. To the north is a house.
+~
+Sector 2
+Door 0 0 0 20302 0 0
+~
+~
+Door 1 0 0 20296 0 0
+~
+~
+Door 3 0 0 20301 0 0
+~
+~
+End
+
+#20301
+Name On a Bridge~
+Descr
+You are on a bridge over looking a river.
+~
+Sector 4
+Reset M 20300 1 100
+Door 1 0 0 20300 0 0
+~
+~
+Door 3 0 0 20303 0 0
+~
+~
+End
+
+#20302
+Name A Cramped House~
+Descr
+This is where the troll must have lived... you wonder how this could be
+as you notice how small and cramped it is.
+~
+Flags 4
+Sector 0
+Door 2 0 0 20300 0 0
+~
+~
+End
+
+#20303
+Name West of A Bridge~
+Descr
+~
+Sector 4
+Door 1 0 0 20301 0 0
+~
+~
+Door 3 0 0 20304 0 0
+~
+~
+End
+
+#20304
+Name Turn in the Road~
+Descr
+~
+Sector 4
+Door 1 0 0 20303 0 0
+~
+~
+Door 2 0 0 20305 0 0
+~
+~
+End
+
+#20305
+Name Twist in the Road~
+Descr
+~
+Sector 4
+Door 0 0 0 20304 0 0
+~
+~
+Door 1 0 0 20306 0 0
+~
+~
+End
+
+#20306
+Name Junction on the Road~
+Descr
+~
+Sector 4
+Door 1 0 0 20307 0 0
+~
+~
+Door 2 0 0 20308 0 0
+~
+~
+Door 3 0 0 20305 0 0
+~
+~
+End
+
+#20307
+Name A Large Chasm~
+Descr
+~
+Sector 4
+Door 3 0 0 20306 0 0
+~
+~
+End
+
+#20308
+Name Nearing the Tower~
+Descr
+~
+Sector 4
+Door 0 0 0 20306 0 0
+~
+~
+Door 2 0 0 20309 0 0
+~
+~
+End
+
+#20309
+Name East of a Tower~
+Descr
+~
+Sector 4
+Door 0 0 0 20308 0 0
+~
+~
+Door 3 0 0 20310 0 0
+~
+~
+End
+
+#20310
+Name Entrance to a Huge Tower~
+Descr
+~
+Flags 12
+Sector 0
+Door 0 0 0 20311 0 0
+~
+~
+Door 1 0 0 20309 0 0
+~
+~
+Door 3 0 0 20312 0 0
+~
+~
+End
+
+#20311
+Name The Cloak Room~
+Descr
+~
+Flags 12
+Sector 0
+Door 2 0 0 20310 0 0
+~
+~
+End
+
+#20312
+Name The Beginning of the Stairs~
+Descr
+~
+Flags 12
+Sector 0
+Door 1 0 0 20310 0 0
+~
+~
+Door 4 0 0 20313 0 0
+~
+~
+End
+
+#20313
+Name A Large, and Dangerous, Staircase~
+Descr
+~
+Flags 4
+Door 3 0 0 20314 0 0
+~
+~
+Door 4 0 0 20315 0 0
+~
+~
+Door 5 0 0 20312 0 0
+~
+~
+End
+
+#20314
+Name Guard Post~
+Descr
+~
+Flags 4
+Door 1 0 0 20313 0 0
+~
+~
+End
+
+#20315
+Name Second Floor of the Tower~
+Descr
+~
+Flags 4
+Door 0 0 0 20316 0 0
+~
+~
+Door 5 0 0 20313 0 0
+~
+~
+End
+
+#20316
+Name Hallway Through the Tower~
+Descr
+~
+Flags 4
+Door 2 0 0 20315 0 0
+~
+~
+Door 3 0 0 20317 0 0
+~
+~
+End
+
+#20317
+Name Guest's Quarters~
+Descr
+~
+Flags 4
+Door 0 3 0 20318 30 30
+~
+door~
+Door 1 0 0 20316 0 0
+~
+~
+Door 2 3 0 20319 30 30
+~
+~
+Door 3 0 0 20320 0 0
+~
+~
+End
+
+#20318
+Name Guest Room~
+Descr
+~
+Flags 4
+Door 2 3 0 20317 30 30
+~
+door~
+End
+
+#20319
+Name Guest Room~
+Descr
+~
+Flags 4
+Door 0 3 0 20317 30 30
+~
+door~
+End
+
+#20320
+Name Guest's Quarters~
+Descr
+~
+Flags 4
+Door 0 3 0 20321 30 30
+~
+~
+Door 1 0 0 20317 0 0
+~
+~
+Door 2 3 0 20322 30 30
+~
+~
+Door 3 0 0 20323 0 0
+~
+~
+End
+
+#20321
+Name Guest Room~
+Descr
+~
+Flags 4
+Door 2 3 0 20320 30 30
+~
+door~
+End
+
+#20322
+Name Guest Room~
+Descr
+~
+Flags 4
+Door 0 3 0 20320 30 30
+~
+door~
+End
+
+#20323
+Name Spiral Staircase~
+Descr
+~
+Flags 4
+Door 1 0 0 20320 0 0
+~
+~
+Door 4 0 0 20324 0 0
+~
+~
+End
+
+#20324
+Name Spiral Staircase~
+Descr
+~
+Flags 4
+Door 4 0 0 20325 0 0
+~
+~
+Door 5 0 0 20323 0 0
+~
+~
+End
+
+#20325
+Name Top of a Spiral Staircase~
+Descr
+~
+Flags 4
+Door 1 1 0 20326 30 30
+~
+a screen door to the balcony~
+Door 3 0 0 20330 0 0
+~
+~
+Door 5 0 0 20324 0 0
+~
+~
+End
+
+#20326
+Name A Balcony~
+Descr
+~
+Flags 3145732
+Reset M 20301 1 100
+Reset O 20355 -1 5
+Reset O 20311 -1 5
+Reset O 20310 -1 5
+Door 3 1 0 20325 30 30
+~
+a screen door to the hall~
+End
+
+#20330
+Name Ornate Passage~
+Descr
+~
+Flags 3145732
+Reset M 20332 1 100
+Reset O 206 21 100
+Door 1 0 0 20325 0 0
+~
+~
+Door 3 3 0 20332 30 30
+~
+an ornately decorated door~
+End
+
+#20331
+Name ~
+Descr
+~
+Door 1 0 0 20330 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

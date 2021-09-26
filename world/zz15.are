@@ -1,0 +1,3753 @@
+#AREADATA 
+Name Castle of Krynn~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA strong wind blows in your face.  
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Demos Auroch~
+VNUMs 60000 60150
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#60000
+Name gate guard~
+Short a gateguard~
+Long 
+A HUGE gateguard is here, keeping intruders out.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits -2147483645
+ActBits3 2048
+Affect_By 552
+Money 200
+Level 40
+MobType 25
+Guard 1
+RaceHate 335544320
+End
+
+#60001
+Name death knight krynn guard~
+Short a death knight~
+Long 
+A death knight of krynn stands here, protecting his castle.
+~
+Descr
+~
+AMax 2
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits -2147483645
+ActBits4 8192
+Affect_By 552
+Money 300
+Level 45
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#60002
+Name Krynn Solder~
+Short a soldier~
+Long 
+A dedicated soldier of krynn is here, protecting the citizens.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits -2147483627
+Affect_By 4194312
+Money 25
+Level 25
+MobType 25
+Guard 0
+End
+
+#60003
+Name Ishtar~
+Short Ishtar~
+Long 
+Ishtar, the HUGE orc sits here on his stool.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 300
+Level 55
+Sex 1
+MobType 25
+Guard 0
+RaceHate 67108864
+End
+
+#60004
+Name Gizmo Dog~
+Short Gizmo~
+Long 
+Gizmo the dog sits here, happily wagging his tail.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147475439
+Affect_By 40
+Money 300
+Level 55
+Sex 1
+MobType 6
+Guard 0
+End
+
+#60007
+Name death knight~
+Short death knight krynn~
+Long 
+A Death Knight of Krynn stands here, wielding a massive sword.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Money 300
+Level 45
+Guard 0
+RaceHate 335544320
+End
+
+#60008
+Name commoner krynn weak~
+Short a weak commoner~
+Long 
+A small commoner of the castle wanders here, looking for somthing to eat.
+~
+Descr
+~
+AMax 7
+NHeight 0
+ActBits 21
+ActBits4 4096
+Affect_By 4194304
+Money 15
+Level 15
+Sex 1
+MobType 25
+Guard 0
+End
+
+#60009
+Name female krynn commoner~
+Short a female commoner~
+Long 
+A half naked female lies on the ground, shivering with cold.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 21
+Affect_By 4194304
+Money 10
+Level 10
+MobType 25
+Guard 0
+End
+
+#60010
+Name Minhir~
+Short Minhir~
+Long 
+Minhir, the orcish cook, is here making somthing quite unsavory.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483389
+Money 250
+Level 55
+Sex 1
+MobType 25
+Guard 0
+End
+
+#60011
+Name ulftar krynn weapon~
+Short Ulftar the weaponsmith~
+Long 
+The weaponsmith for Krynn is carefully fixing a sword.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2146435069
+Affect_By 552
+Money 75
+Level 51
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   5   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#60012
+Name black dragon~
+Short a black dragon~
+Long 
+A small black dragon is here, claws unsheathed.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+ActBits4 4096
+Affect_By 520
+Money 300
+Level 45
+MobType 12
+Guard 0
+ArmorClass -100
+End
+
+#60013
+Name escaped prisoner~
+Short an escaped prisoner~
+Long 
+An escaped prisoner is running about, trying to escape the castle.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 5
+Level 5
+Sex 1
+MobType 1
+Guard 0
+Spec spec_thief
+RaceHate 469762048
+End
+
+#60014
+Name bubba chained wall~
+Short chained-up bubba~
+Long 
+Bubba, the ancient paladin, has been captured and sent here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 40
+Money 50
+Level 50
+Sex 1
+Guard 0
+RaceHate 335544320
+End
+
+#60015
+Name assassin~
+Short an assassin~
+Long 
+A huge assassin stands over bubba, torturing him.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 300
+Level 45
+Sex 1
+MobType 25
+Guard 0
+End
+
+#60016
+Name large dragon demoss~
+Short a large dragon~
+Long 
+A MASSIVE dragon stands here, guarding his treasures.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483389
+ActBits3 2
+Affect_By 524328
+Money 125
+Level 45
+MobType 5
+Guard 1
+Spec spec_breath_fire
+ArmorClass -100
+End
+
+#60017
+Name sir psycho~
+Short SirPsycho~
+Long 
+SirPsycho, the krynn armorer, stands here mending a shirt.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2145386493
+Affect_By 552
+Money 15000
+Level 51
+MobType 25
+Guard 0
+Shop    9   0   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 335544320
+End
+
+#60018
+Name Gazelda~
+Short Gazelda~
+Long 
+Gazelda, the magic shopkeeper, is flying here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 524840
+Money 15000
+Level 51
+Sex 2
+MobType 5
+Guard 0
+Shop    0  21   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 335544320
+End
+
+#60019
+Name Bograh~
+Short Bograh~
+Long 
+Bograh, the huge troll, stands here running the market.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 75
+Level 75
+Sex 1
+MobType 12
+Guard 0
+Shop    0   0  19   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 67108864
+End
+
+#60020
+Name a preacher~
+Short a preacher~
+Long 
+A babbling peacher stands here, preacing to noone.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 40
+Alignment -500
+Money 89
+Level 89
+Sex 1
+MobType 0
+Guard 0
+End
+
+#60021
+Name court castle guard krynn~
+Short a court guard~
+Long 
+A guard of the court is here, watching the rotyalty.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits -2147483645
+Affect_By 40
+Money 55
+Level 55
+Sex 1
+MobType 0
+Guard 0
+End
+
+#60022
+Name a large royal guardian~
+Short a large royal guardian~
+Long 
+A large royal guard is protecting the king from those who would harm him.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+ActBits3 2
+Affect_By 552
+Money 75
+Level 75
+Sex 1
+MobType 25
+Guard 1
+RaceHate 67108864
+End
+
+#60023
+Name Krynn Prince Ersit~
+Short Ersit~
+Long 
+Ersit, the krynn prince is here, looking tired.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 131624
+Money 96
+Level 96
+Sex 1
+MobType 25
+Guard 0
+End
+
+#60024
+Name Truffle~
+Short Truffle, master of animals~
+Long 
+Truffle, the animal trainer stands here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 300
+Level 50
+MobType 0
+Guard 0
+RaceHate 335544320
+End
+
+#60025
+Name princess krynn lia~
+Short Lia~
+Long 
+Lia, the krynn princess, is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 520
+Money 67
+Level 67
+Sex 2
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#60026
+Name muck monster krynn~
+Short a muck monster~
+Long 
+A huge muck monster is looking for its next victim.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 11
+ActBits3 2
+Affect_By 552
+Money 80
+Level 80
+Sex 1
+MobType 12
+Guard 0
+RaceHate 335544320
+End
+
+#60027
+Name Solam king~
+Short Solam~
+Long 
+Solam, the king of the castle is here, looking high and mighty.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 220
+Level 55
+Sex 1
+MobType 25
+Guard 0
+End
+
+#60028
+Name king krynn bodyguard~
+Short a krynn bodyguard~
+Long 
+The king's own personal guard is here, watching you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+ActBits3 4
+Affect_By 552
+Money 300
+Level 40
+MobType 12
+Guard 60027
+RaceHate 335544320
+End
+
+#60029
+Name queen krynn~
+Short the queen~
+Long 
+The queen of krynn stands here, in her finest outfits.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 55
+Level 55
+Sex 2
+MobType 0
+Guard 0
+End
+
+#60030
+Name krynn tower guard~
+Short a krynn tower guard~
+Long 
+A guard on tower duty is carefully watching the horizon.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 520
+Money 36
+Level 36
+Sex 1
+MobType 12
+Guard 0
+End
+
+#60031
+Name noble squire~
+Short a nobel squire~
+Long 
+A noble squire stands here with pride on his face.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits -2147483631
+Affect_By 512
+Money 300
+Level 45
+MobType 0
+Guard 0
+End
+
+#60047
+Name a barmaid~
+Short a barmaid~
+Long 
+A busty barmaid pushes through the hordes of groping men.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 300
+Level 45
+Sex 2
+Guard 0
+RaceHate 335544320
+End
+
+#60048
+Name Sacrificial Priestess~
+Short A Sacrificial Priestess~
+Long 
+A Priestess is here, waiting for the right time to make the offering.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+RaceHate 335544320
+End
+
+#60049
+Name Chaple Guard Krynn~
+Short Chaple Guard of Krynn~
+Long 
+A Chapel Guard of Krynn is here, glowering over you.
+~
+Descr
+~
+AMax 2
+NHeight 76
+ActBits -2147483645
+ActBits3 4
+Affect_By 552
+Money 60
+Level 60
+Guard 0
+RaceHate 335544320
+End
+
+#60050
+Name Shackled Sacrificial Virgin~
+Short A Shackled Sacrificial Virgin~
+Long 
+A Shackled Sacrificial Virgin is here, waiting for death.
+~
+Descr
+~
+AMax 7
+NHeight 64
+ActBits 3
+Level 0
+Guard 0
+RaceHate 335544320
+End
+
+#60051
+Name Sacrificial Priestess~
+Short A sacrificial Priestess~
+Long 
+A Sacrificial Priestess is here, waiting for the time of death.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 3
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+RaceHate 335544320
+End
+
+#60053
+Name young boy~
+Short a young boy~
+Long 
+A young boy looks pale and sick, and is shivering despite the heat.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 4194304
+Level 0
+Guard 0
+RaceHate 335544320
+End
+
+#60054
+Name mother~
+Short Mother of small boy~
+Long 
+A woman who appears to be the boys mother is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 4194304
+Level 0
+Sex 2
+Guard 0
+RaceHate 335544320
+End
+
+#60055
+Name Dad~
+Short a father~
+Long 
+A father is standing in the street, looking sad.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 4194304
+Level 0
+Guard 0
+RaceHate 335544320
+End
+
+#60089
+Name shade~
+Short a shade~
+Long 
+A dark and evil looking shade is floating above the ground.
+~
+Descr
+~
+AMax 7
+NHeight 0
+ActBits 21
+Affect_By 524328
+Money 55
+Level 55
+MobType 21
+Guard 0
+End
+
+#60100
+Name cult member~
+Short a Mage's cult member~
+Long 
+A Mage's cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 9150
+ShopCS A cult member snaps his fingers and a token appears out of thin air.~
+End
+
+#60102
+Name newmob~
+Short (please set short description)~
+Long 
+(please set long description)
+~
+Descr
+~
+AMax 1
+NHeight 0
+Level 0
+Sex 1
+Guard 0
+End
+
+#60150
+Name sewer rat~
+Short a dirty rat~
+Long 
+A dirty, filthy rat is here, licking its paws.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits -2147483619
+Affect_By 512
+Money 15
+Level 15
+Sex 1
+MobType 6
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#60000
+Name steel sword blackened~
+Short a [1m[30mblackened [0m[36msteel [1m[30msword[0m~
+Descr
+A razor sharp sword, with a black glow is lying here.
+[0;36m~
+Type 5
+Extra 2097682
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 37 0 3 0 0 0 2 7 0
+Weight 10
+Cost 2000
+End
+
+#60001
+Name flaming key~
+Short [1m[31ma flaming key~
+Descr
+A key burning with great power, lays on the ground.
+[0;36m~
+Type 18
+Extra 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60002
+Name helmet bone HIT~
+Short helmet of [1mbone~
+Descr
+A helmet made from bone lies here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 60 60 0 0
+Weight 0
+Cost 1000
+Affect 18 1 1 0 0
+End
+
+#60003
+Name pile bones~
+Short [1m[37ma pile of bones~
+Descr
+A pile of bones lies here, rotting.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60004
+Name gizmo flaming collar BS APB~
+Short [1m[31mgizmo's flaming collar~
+Descr
+A flaming collar lays here, waiting for an owner.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 37 37 0 0
+Weight 2
+Cost 3000
+Affect 25 5 1 0 0
+Affect 19 1 1 0 0
+End
+
+#60005
+Name black dragon claws~
+Short [1m[30mblack-dragon claws~
+Descr
+Some black claws are lying in the dirt.
+[0;36m~
+Type 9
+Extra 2
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 3
+Cost 1020
+Affect 17 -1 1 0 0
+End
+
+#60006
+Name chest~
+Short a treasure chest~
+Descr
+A beautifully carved chest sits here, locked.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 0
+End
+
+#60007
+Name well cooked steak~
+Short [1m[30ma well cooked steak~
+Descr
+You see a steak, lying before you.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 30
+End
+
+#60008
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60009
+Name blood-red bible book~
+Short [1m[31ma blood-red bible~
+Descr
+You see a book, in the color of blood red before your feet.
+[0;36m~
+Type 2
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 132 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1000
+End
+
+#60010
+Name a golden key~
+Short [1m[33ma golden key~
+Descr
+A key shining like a gold coin lays on the ground.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60011
+Name bed~
+Short a large bed~
+Descr
+A large, comfortable bed is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60016
+Name a sack~
+Short [33ma sack~
+Descr
+A large, dirty sack sits here.
+[0;36m~
+Type 15
+Wear 49153
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 1 0 0 0 0 0 0 0 0
+Weight 1
+Cost 100
+End
+
+#60022
+Name muck boots krynn muddy~
+Short [33ma pair of muddy boots~
+Descr
+A pair of boots, covered in mud lay here on the ground.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 20 20 0 0
+Weight 7
+Cost 0
+End
+
+#60023
+Name bright yell portal~
+Short [1m[33ma bright yellow portal~
+Descr
+[0m[37mA [1m[33mbright-yellow[0m[37m portal is here, glowing intensly.
+[0;36m~
+Type 12
+Wear 0
+Timer 10
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60007 60007 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60024
+Name glowing broadsword HIT~
+Short [1m[30ma [0m[34mg[1m[34ml[37mowing broadsw[34mo[0m[34mr[1m[30md~
+Descr
+A sword glowing with intense power is here.[0m
+[0;36m~
+Type 5
+Extra 2097154
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 3 0 0 0 3 7 0
+Weight 7
+Cost 25000
+Affect 18 1 1 0 0
+End
+
+#60025
+Name nothing~
+Short nothing~
+Descr
+nothing
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60026
+Name Cubbord~
+Short container~
+LEffect 65536
+Descr
+container
+[0;36m~
+Type 15
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 1 0 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+End
+
+#60027
+Name Poop~
+Short poop~
+Descr
+poop
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 102 86 61 0 0 0 0 0 0
+Weight 0
+Cost 500
+End
+
+#60028
+Name it~
+Short a funny thing~
+Descr
+a strange thing lies here
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 32 28 29 0 0 0 0 0 0
+Weight 0
+Cost 500
+End
+
+#60029
+Name dude~
+Short dude~
+Descr
+dude
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 500 66 67 78 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60030
+Name sparking chain chainmail~
+Short a [1m[37msparkling [0mchainmail suit~
+Descr
+A glowing chainmail suit lies here on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 10 10 50 50 10 1
+Weight 7
+Cost 12034
+End
+
+#60031
+Name a sparkling chest~
+Short a sparkling chest~
+Descr
+A sparkling chest lies here, glimmering with color.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 200 5 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60032
+Name crystal shortsword~
+Short [1m[37ma crystal shortsword~
+Descr
+A crystal shortsword lies here, glowing.
+[0;36m~
+Type 5
+Extra 4194305
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 3 0 0 0 3 3 0
+Weight 2
+Cost 3000
+End
+
+#60033
+Name anklet stone AC HIT HP~
+Short A stone anklet~
+Descr
+A stone rock hard anklet lies here.
+[0;36m~
+Type 9
+Extra 2
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 3
+Cost 4304
+Affect 13 5 5 0 0
+Affect 18 1 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#60034
+Name dagger dark red~
+Short [1m[30mA dark [0m[31mred [1m[30mdagger~
+Descr
+A glowing dark red dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 2 6 0
+Weight 4
+Cost 40021
+Affect 18 1 1 0 0
+Affect 25 1 1 0 0
+End
+
+#60039
+Name ruby necklace~
+Short [1m[30mA [0m[31mruby [1m[31mnecklace~
+Descr
+A very bright ruby necklace lies here glowing with power.
+[0;36m~
+Type 9
+Extra 66
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 26 26 0 0
+Weight 1
+Cost 8065
+Affect 18 3 3 0 0
+End
+
+#60040
+Name Ivory tooth Dagger~
+Short An Ivory tooth Dagger~
+Descr
+An Ivory tooth dagger is here on the ground....
+[0;36m~
+Type 5
+Extra 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 50 10 0 0 0 1 2 0
+Weight 5
+Cost 4000
+End
+
+#60046
+Name Mug Ale~
+Short mug of ale~
+Descr
+A mug of ale rests, waiting for you to drink it.
+[0;36m~
+Type 17
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 3 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#60050
+Name Marble Speaking Podium~
+Short a marble speaking podium~
+Descr
+A Marble Speaking Podium is centered in the room...
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+End
+
+#60051
+Name shining veil AC~
+Short [0ma [1mshining [0mveil~
+Descr
+A shining veil lies here, you feel obligated to pick it up.
+[0;36m~
+Type 9
+Extra 65
+Wear 17
+Timer 50
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 60 60 0 0
+Weight 1
+Cost 2000
+Affect 17 -1 1 0 0
+End
+
+#60052
+Name ring trainer~
+Short the ring of the trainer~
+Descr
+A ring of Truffle lies on the ground, half buried.
+[0;36m~
+Type 9
+Extra 64
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 50 50 0 0
+Weight 3
+Cost 500
+End
+
+#60053
+Name opulent belt~
+Short the [1m[37mopulent[0m belt of [1m[34mpo[0m[34mw[1mer[0m~
+Descr
+A belt that looks like any other is here, but draws you towards it.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 10241
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 0 0 0 0 0 0 0 0
+Weight 4
+Cost 5000
+Affect 14 10 1 0 0
+Affect 18 3 1 0 0
+End
+
+#60054
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60130
+Name ring doom APB BS~
+Short [1m[30mr[0m[31min[1m[30mg of d[0m[31moo[1m[30mm~
+Descr
+A magnificent ring lies here, just waiting to be worn.
+[0;36m~
+Type 9
+Extra 536871011
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 5 10 10 5 1
+Weight 0
+Cost 3000
+Affect 25 5 1 0 0
+Affect 19 1 1 0 0
+End
+
+#60140
+Name ring purity RANDOM APB2~
+Short [1m[37mring [0mof [1m[37mpurity~
+Descr
+On the ground lies a magnificent ring gleaming with power.
+[0;36m~
+Type 9
+Extra 321
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 1 2 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 19 2 1 0 0
+End
+
+#60141
+Name lips eltara~
+Short amsterdamian lips~
+Descr
+some lips are here
+[0;36m~
+Type 9
+Wear 81921
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60142
+Name shiny glowing plate mail APB~
+Short [1m[30msome [0m[34ms[1mh[37miny glowing pla[34mt[0m[34me[1m[30mmail[0m~
+Descr
+On the ground lies some very shiny armor.
+[0;36m~
+Type 9
+Extra 536870977
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 5 2 2 20 20 30 30 20 20
+Weight 3
+Cost 0
+Affect 18 3 1 0 0
+Affect 19 1 1 0 0
+Affect 13 -5 1 0 0
+End
+
+#60143
+Name ring mystery RANDOM~
+Short [0ma [1m[30mring [31mof [1m[30mmystery[0m~
+LEffect 536871054
+Descr
+Here lies the famous ring of mystery, wonder what it does.
+[0;36m~
+Type 25
+Extra 16643
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 5 0 0 0 0 0 0
+Weight 0
+Cost 30000
+Affect 19 1 1 0 0
+End
+
+#60144
+Name dagger red dark HP HIT~
+Short [1m[30mA dark [0m[31mred [1m[30mdagger~
+Descr
+[36ma glowing dark red dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131073
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 8 1 0
+Weight 4
+Cost 40021
+Affect 18 2 2 0 0
+Affect 13 20 20 0 0
+End
+
+#60145
+Name ring of ultimate power~
+Short [1m[30mring of ultimate power~
+LEffect 128
+Descr
+A ring glows and hums beckoning you to pick it up.
+[0;36m~
+Type 9
+Extra 16387
+Wear 3
+Timer 1000
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60146
+Name fountain~
+Short [1m[30mfountain of power~
+Descr
+[1m[30mhere is the master fountain
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 45 31 35 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60147
+Name gloop~
+Short gizmo bowl~
+Descr
+gizmo's dish of water
+[0;36m~
+Type 25
+Extra 65568
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9999 31 45 35 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60149
+Name table~
+Short a Marble Table~
+Descr
+A marble table has been placed here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60145 60145 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#60000
+Name A Long, Stone Trail~
+Descr
+As you continue along the road, you can't help but feel the evil that
+permeates the air from the surrounding forest. The stones that make up the
+path look well worn, as if they are crossed very often. You see the western
+gates of Masque off to the east, and the path continues off to the west. 
+~
+Flags 2
+Door 0 0 0 6516 0 0
+~
+~
+Door 1 0 0 5905 0 0
+~
+~
+Door 2 0 0 6492 0 0
+~
+~
+Door 3 1 0 60001 30 30
+~
+gate~
+Door 4 259 0 620 30 30
+~
+~
+End
+
+#60001
+Name A Long, Stone Trail~
+Descr
+As you continue along the road, you can't help but feel the evil that
+permeates the air from the surrounding forest.  The stones that make up the
+path look well worn, as if they are crossed very often.  You see the western
+gates of Masque off to the east, and the path continues off to the west.  
+~
+Flags 2
+Door 0 0 0 6517 0 0
+~
+~
+Door 1 1 0 60000 30 30
+~
+gate~
+Door 2 0 0 6493 0 0
+~
+~
+Door 3 0 0 60002 0 0
+~
+~
+End
+
+#60002
+Name A Long, Stone Trail~
+Descr
+Goin further along the path, you are suddenly startled by a horrible
+scream from the forest from the north.  At first you believe it is a cry of
+pain from some huge animal, but you then realize with a grin that it is a
+call of triumph.  Your humor turns to dread as you decide that the creature
+capable of making that sound would be able to crush you without a second
+thought.  The gates of Masque loom off to the east and the path seems to be
+destroyed to the west.  
+~
+Door 0 0 0 6518 0 0
+~
+~
+Door 1 0 0 60001 0 0
+~
+~
+Door 2 0 0 6494 0 0
+~
+~
+Door 3 0 0 60003 0 0
+~
+~
+End
+
+#60003
+Name A Broken Section of Trail~
+Descr
+The stones that make up this part of the path look to have crumbled to
+dust.  Upon closer examination, you find that these stones were not old
+enough to crumble, and that someone must have smashed them.  Then once again
+you have a feeling of dread as you realize the size of creature it would
+take to smash these massive stones.  The feeling of evil that existed
+earlier is at its peak at this point on the path, and suddenly you hear that
+horrible cry again.  Off to the west you see that the path is repaired, and
+it continues off to the east.  
+~
+Door 0 0 0 6519 0 0
+~
+~
+Door 1 0 0 60002 0 0
+~
+~
+Door 2 0 0 6507 0 0
+~
+~
+Door 3 0 0 60004 0 0
+~
+~
+End
+
+#60004
+Name A Long, Stone Trail~
+Descr
+The feeling of evil is noticibly dimished here and you see a turn in the
+trail off to the west.  The forest around you seems alive and you realize
+that on the rest of the path you had not heard one animal sound except that
+horrible scream.  The trail here is in good repair and it appears to get
+even better the further you go.  
+~
+Door 0 0 0 6520 0 0
+~
+~
+Door 1 0 0 60003 0 0
+~
+~
+Door 2 0 0 6508 0 0
+~
+~
+Door 3 0 0 60005 0 0
+~
+~
+End
+
+#60005
+Name A Turn in the Stone Trail~
+Descr
+From this junction, you see the road to Krynn going off to the north, and
+in the distance, the castle gates themselves.  You notice that the stones
+here are shined and polished and almost seem to glow in the light.  The
+feeling of evil that dominated the atmosphere to the east is gone, as if the
+source of that evil can not come here.  You can continue onward to Krynn, or
+go back to the east.  
+~
+Door 0 0 0 60006 0 0
+~
+~
+Door 1 0 0 60004 0 0
+~
+~
+Door 2 0 0 6509 0 0
+~
+~
+End
+
+#60006
+Name The Road to Krynn~
+Descr
+The path is constructed up of large stone tablets.  You are very near to
+the castle now and you feel a sense of pride just looking at the massive
+battlemounts and towers.  This truely is a fortress of darkness and evil. 
+The trail here has been replaced by black stone slabs and they seem to
+absorb all the light that touches them.  You almost feel drawn to their
+opaque surface but turn away as you again think of the great Castle of
+Krynn.  
+~
+Flags 2
+Door 0 0 0 60007 0 0
+~
+~
+Door 2 0 0 60005 0 0
+~
+~
+End
+
+#60007
+Name Entrance to Castle of Krynn~
+Descr
+You stand befor e the massive gates of the awesome Castle of Krynn.  You
+notice with satisfaction that the two legendary death knights are guarding
+the gates.  These powerful paladins of evil are said to have defeated even
+the white knight in times of battle.  The castle itself looks even more
+impregnable from up close.  You can see that it has been made to withstand a
+huge army of soldiers and siege engines for any amount of time.  The road
+itself seems to lead into the gates to the north and also goes back to the
+south.  
+~
+Reset M 60001 2 100
+Reset O 60000 21 100
+Reset M 60001 2 100
+Reset O 60000 21 100
+Door 0 3 0 60008 30 30
+~
+gate~
+Door 2 0 0 60006 0 0
+~
+~
+End
+
+#60008
+Name Just Inside the Castle~
+Descr
+You have stepped just inside the castle.  It appears as this place is not
+kept very clean, noticing the awful smell of death and the blood smeared all
+about here.  You feel as though you might not belong here, but the tales of
+great treasures coming from this castle changes your mind.  You notice the
+gate to the castle to the south, and the main square to the north.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60009 0 0
+~
+~
+Door 2 3 0 60007 30 30
+~
+gate~
+End
+
+#60009
+Name Castle of Krynn~
+Descr
+You are inside the castle of krynn.  A powerful wind blows on you here,
+and you cant seem to pinpoint exactly where it is coming from.  You notice
+the inhabitants of the castle walking around here, and you seem to hear
+faint screams coming from the west.  You see the entrance to the castle far
+off to the south and you notice exits in all other directions.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Door 0 0 0 60150 0 0
+~
+~
+Door 1 0 0 60010 0 0
+~
+~
+Door 2 0 0 60008 0 0
+~
+~
+Door 3 0 0 60023 0 0
+~
+~
+End
+
+#60010
+Name Castle of Krynn~
+Descr
+You are walking down a long hallway in the castle.  You notice a strange
+shop to the north, and realize you seem to be in the area where people who
+live in the castle, by all of there needed goods.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60011 0 0
+~
+~
+Door 1 0 0 60012 0 0
+~
+~
+Door 3 0 0 60009 0 0
+~
+~
+End
+
+#60011
+Name Castle Armorer~
+Descr
+You are in the offical armorer of krynn.  There are differnt types of
+breastplates all over here, and there is a shopkeeper here who seems to know
+everything and anything about armors.  You see a hallway off to the south.  
+~
+Flags 4
+Sector 0
+Reset M 60017 1 100
+Reset O 241 5 75
+Reset O 240 5 75
+Reset O 238 5 75
+Reset O 234 5 75
+Reset O 238 5 75
+Reset O 224 5 75
+Reset O 220 5 75
+Reset O 222 5 75
+Reset O 218 5 75
+Reset O 217 5 75
+Reset O 216 5 75
+Reset O 215 5 75
+Reset O 214 5 75
+Reset O 213 5 75
+Reset O 212 5 75
+Door 2 0 0 60010 0 0
+~
+~
+End
+
+#60012
+Name Castle of Krynn~
+Descr
+You are walking down a long hallway in the castle.  You see a shop to the
+south of here, and the hallway continues to the east and west.  There seems
+to be a lot of traffic, coming from the hordes of people buying supplies.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 60014 0 0
+~
+~
+Door 2 0 0 60013 0 0
+~
+~
+Door 3 0 0 60010 0 0
+~
+~
+End
+
+#60013
+Name Castle Weaponsmith~
+Descr
+You are in the castle weaponsmith of krynn.  You notice various torture
+devices lining the walls, and other types of weapons.  You wonder why this
+little man here is running the store, he looks more like he would be a
+magician.  However, he looks pretty skillful at constructing swords, he is
+bending one right now that looks like it will be a well-crafted sword one
+day.  
+~
+Flags 4
+Sector 0
+Reset M 60011 1 100
+Reset O 17 5 75
+Reset O 18 5 75
+Reset O 200 5 75
+Reset O 225 5 75
+Reset O 236 5 75
+Reset O 235 5 75
+Reset O 207 5 75
+Reset O 203 5 75
+Reset O 202 5 75
+Reset O 201 5 75
+Reset O 30 5 75
+Door 0 0 0 60012 0 0
+~
+~
+End
+
+#60014
+Name Castle of Krynn~
+Descr
+You are in a long hallway.  You see shops to the north and south of you
+here, and what seems to be a massive tavern to the east.  You can hear a lot
+of comotion coming from in there, and it looks like many of those who
+subside in the castle are a bit drunk.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60015 0 0
+~
+~
+Door 1 0 0 60017 0 0
+~
+~
+Door 2 0 0 60016 0 0
+~
+~
+Door 3 0 0 60012 0 0
+~
+~
+End
+
+#60015
+Name Castle Magic Shoppe~
+Descr
+You feel as though you are in a mystical and wonderful place.  There are
+ancient scrolls laying about, potions, and wands here also.  The shop owner
+seems as though he would be more fit as running a weapon shop.  You see the
+hallway off to the south.  
+~
+Flags 4
+Sector 0
+Reset M 60018 1 100
+Reset O 60 5 75
+Reset O 57 5 75
+Reset O 54 5 75
+Reset O 51 5 75
+Door 2 0 0 60014 0 0
+~
+~
+End
+
+#60016
+Name Castle Market~
+Descr
+You just stepped into the castle market.  The crowd here is much larger
+then in the other shops, and it looks like they are actually fighting for
+the food.  There appears to be a long line wating for just one measly loaf
+of bread.  The weaponstore owner looks big for her race, and as she should
+not be messed with.  
+~
+Flags 4
+Sector 0
+Reset M 60019 1 100
+Reset O 39 -1 100
+Reset O 60007 -1 100
+Reset O 60016 -1 100
+Door 0 0 0 60014 0 0
+~
+~
+End
+
+#60017
+Name Entrance to the Krynn Pub~
+Descr
+You have entered the famous pub of krynn.  You see a lot of guards
+lounging around on break, and some soldiers sitting here drinking waiting
+for a battle.  There are very few commoners here, but still are some.  There
+are barmaids walking around serving drinks.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 60019 0 0
+~
+~
+Door 1 0 0 60022 0 0
+~
+~
+Door 2 0 0 60018 0 0
+~
+~
+Door 3 0 0 60014 0 0
+~
+~
+End
+
+#60018
+Name Inside the Krynn Pub~
+Descr
+You are inside the Pub in Krynn.  The atmosphere is distinctly heavier as
+you proceed deeper inside the room.  You hear sounds of merriment coming
+from the surrounding rooms and you begin to feel much more relaxed as you
+become accustomed to the people there.  
+~
+Flags 4
+Sector 0
+Reset M 60047 1 100
+Reset O 60046 -1 100
+Door 0 0 0 60017 0 0
+~
+~
+Door 1 0 0 60020 0 0
+~
+~
+End
+
+#60019
+Name Inside the Krynn Pub~
+Descr
+In this corner of the tavern, you notice broken beer bottles and thrown
+chairs.  It looks as though a fight has just taken place, noticing how empty
+it appears to be.  You begin to feel panicky and you want to move on.  
+~
+Flags 4
+Sector 0
+Reset M 60047 1 100
+Reset O 60046 -1 100
+Door 1 0 0 60021 0 0
+~
+~
+Door 2 0 0 60017 0 0
+~
+~
+End
+
+#60020
+Name The Bar in the Pub~
+Descr
+As you approach the bar you notice that the crowd here is somewhat
+quieter and more subdued than in the rest of the bar.  It seems almost as if
+each one of them is drownding their sorrows in their ale and trying to
+depart from reality With a start you see that the bartender is actually a
+giant orc passing drinks out with a whim.  
+~
+Flags 4
+Sector 0
+ExtraDescr clue~
+Clue #10 The last will be found where the buffalo roam, search well and it is yours, the greatest prize.
+
+~
+ExtraDescr clue~
+~
+Reset M 60003 1 100
+Reset O 60034 -1 10
+Reset O 60130 -1 1
+Reset O 8406 2 100
+Door 0 0 0 60022 0 0
+~
+~
+Door 3 0 0 60018 0 0
+~
+~
+End
+
+#60021
+Name Inside the Krynn Pub~
+Descr
+As you approach the center of the room, you see a flurry of tables with a
+slew of people sitting by, on, or under them, You see a bunch of drunks
+sleeping together in the corner and sleeping on a few table tops. There are
+large puddles of vomit lying all over the floor here. You think "This place
+stinks, Literally!"  
+~
+Flags 4
+Sector 0
+Door 2 0 0 60022 0 0
+~
+~
+Door 3 0 0 60019 0 0
+~
+~
+End
+
+#60022
+Name Inside the Krynn Pub~
+Descr
+The crowd is a ittle thinner here and you see a few people that look to
+be commoners sitting at tables enjoying a drink.  They all seem to be having
+a good time and you have a thought of joining them for a while.  Then you
+see a fight break out and one of the men is killed.  You begin to have
+second thoughts about drinking with these men.  
+~
+Flags 4
+Sector 0
+Reset M 60047 3 100
+Reset O 60046 60047 100
+Door 0 0 0 60021 0 0
+~
+~
+Door 2 0 0 60020 0 0
+~
+~
+Door 3 0 0 60017 0 0
+~
+~
+End
+
+#60023
+Name Castle of Krynn~
+Descr
+You are inside the castle of krynn. As you walk down this large hallway,
+your footsteps echo with each step. This area of the castle seems to be
+pretty empty and you wonder what it is. There seem to be peasents walking
+around here building this hallway. 
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Reset M 60031 10 100
+Door 1 0 0 60009 0 0
+~
+~
+Door 3 0 0 60024 0 0
+~
+~
+End
+
+#60024
+Name Castle of Krynn~
+Descr
+You are walking down a large hallway in the castle of krynn.  You hear
+some faint screams coming from the west of here, and you notice a large
+irondoor to the north of here.  The hallway continues off to the east and
+west.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Reset M 60024 1 100
+Reset O 10000 -1 45
+Reset O 60052 -1 15
+Door 0 7 10000 60025 80 80
+~
+flaming door~
+Door 1 0 0 60023 0 0
+~
+~
+Door 3 0 0 60026 0 0
+~
+~
+End
+
+#60025
+Name Gizmo's Private Quarters~
+Descr
+You seem to be in the room designated for the castles pet.  You notice
+chewed up toys and bones in the corner, and your heart sinks as you smell
+the pungent odor of death.  Your instincts tell you it is very wise to turn
+around now.  
+~
+Flags 4
+Sector 0
+Reset M 60004 1 100
+Reset O 60004 -1 1
+Door 2 7 10000 60024 80 80
+~
+flaming door~
+End
+
+#60026
+Name Castle of Krynn~
+Descr
+You are walking down a large hallway in the castle of krynn.  You hear
+some faint screams coming from the west of hear.  There are a lot of rare
+portraits hanging from the wall here, and other valuables such as statues
+and rare vase's.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Reset M 60031 10 100
+Door 1 0 0 60024 0 0
+~
+~
+Door 3 0 0 60027 0 0
+~
+~
+End
+
+#60027
+Name Castle of Krynn~
+Descr
+You have come to the end of the long hallway in the castle of krynn.  The
+hallway goes back to the east, and you the screams you heard before are now
+actually quite clear, and seem to be right below your feet.  Below you is
+the large steel grate.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 60026 0 0
+~
+~
+Door 4 0 0 60076 0 0
+~
+~
+Door 5 0 0 60028 0 0
+~
+~
+End
+
+#60028
+Name Citizens Bunker of Krynn~
+Descr
+You have just stepped into the citizens bunker of krynn.  You notice some
+crys coming from the east, as though people were starving from hunger in
+this mighty castle.  Could it be possible?  You notice it is very cold and
+damp in these tunnels, and you can make out death crys coming from beneath
+your feet.  You notice the bright, warm castle above you.  
+~
+Flags 6
+Reset M 60150 10 100
+Door 1 0 0 60030 0 0
+~
+~
+Door 4 0 0 60027 0 0
+~
+~
+Door 5 0 0 60029 0 0
+~
+~
+End
+
+#60029
+Name Entrance to the Dungeon of Krynn~
+Descr
+You stand at the entrance of the krynn dungeon. The stench from the rotting 
+corpses almost makes you vomit. As you look down you can see still alive
+prisoners here being beaten' with a whip. You also see the skeleton from the
+former visiters chained to the walls which are covered with mold. The blood-
+stained floor below you gives you good idea of this place.... Hell....
+~
+Flags 4
+Door 0 0 0 60064 0 0
+~
+~
+Door 1 0 0 60054 0 0
+~
+~
+Door 4 0 0 60028 0 0
+~
+~
+End
+
+#60030
+Name Citizens Bunker~
+Descr
+You are in a horrible, dirty place.  There are sickly little boys walking
+around, and some un-known stains on the wall.  You have no idea what they
+are, but if it has anything to do with the smell, you dont want to know. 
+The bunker continues to the east and the west.  
+~
+Flags 4
+Reset M 60002 2 100
+Reset M 60002 2 100
+Door 1 0 0 60040 0 0
+~
+~
+Door 3 0 0 60028 0 0
+~
+~
+End
+
+#60031
+Name Enterance to the Temple of Krynn~
+Descr
+You stand at the door of the infamous chapel of krynn. You see monks of the
+monestary here having a silent vigil for the gods. You feel strange to enter
+as you hear screams from the inside!
+~
+Flags 6
+Door 0 0 0 60032 0 0
+~
+~
+Door 2 0 0 60009 0 0
+~
+~
+End
+
+#60032
+Name Temple of Krynn~
+Descr
+You stand in the center isle of the chapel of Krynn. You see the beatiful
+stained glassed windows that depict the god Jabbo along with the other gods
+Auroch and Demos are putting together the world like one huge puzzle. Up
+ahead, you see a large marble sacrificial alter deticated to the gods. You
+also see the high priestesses preparing 3 virgins for sacrifice. You also
+see Castle guards here to make sure there is no interferences. You feel
+magic is useless here.'
+~
+Flags 16404
+Door 0 0 0 60037 0 0
+~
+~
+Door 1 0 0 60033 0 0
+~
+~
+Door 2 0 0 60031 0 0
+~
+~
+Door 3 0 0 60034 0 0
+~
+~
+End
+
+#60033
+Name Temple of Krynn~
+Descr
+You are in there areas where the people come and sit to watch the
+sacrifices and worship to the gods.  To the west you see the main isle from
+which, guards are looking over yours and everyone elses every move!  
+~
+Flags 16404
+Door 0 0 0 60036 0 0
+~
+~
+Door 3 0 0 60032 0 0
+~
+~
+End
+
+#60034
+Name Temple of Krynn~
+Descr
+You are in ther other areas where the worshipers sit and watch the sacri
+ices and worship To the gods.  To the east you see guards watching at your
+every move.  
+~
+Flags 20
+Door 0 0 0 60035 0 0
+~
+~
+Door 1 0 0 60032 0 0
+~
+~
+End
+
+#60035
+Name Temple of Krynn~
+Descr
+You are in what appears to be a quite horryifing temple.  The god these
+people worship must be the most terrible thing on eart h.  You are quite
+glad you dont join them, as the hairs on your neck raise listening to there
+strange sermons.  
+~
+Flags 20
+Door 1 0 0 60037 0 0
+~
+~
+Door 2 0 0 60034 0 0
+~
+~
+End
+
+#60036
+Name Temple Of Krynn~
+Descr
+You are by the eastern wall of the chapel where three of the stained glass
+windows are. In this first one, you see Total Darkness and Jabbo. Then in
+the second one there is light along with 3 other gods. Auroch ,Demos and 
+McCloud. In this third window you see the forming crusts of the earth.
+Up ahead and to the west you see an alter and up ahead you see the 
+virgin storage room.
+~
+Flags 16404
+Door 0 7 6 60052 80 80
+~
+prisondoor~
+Door 2 0 0 60033 0 0
+~
+~
+Door 3 0 0 60037 0 0
+~
+~
+End
+
+#60037
+Name Temple of Krynn~
+Descr
+In front of you is a Sacrfical alter covered with blood from the other
+sacrificed virgins.  The guards are here to guard the area and the Priestess
+are ready to slay and sacrifice the virgins to the gods every 2 hours.  You
+thank god your not one of those girls!  
+~
+Flags 16404
+Reset M 60049 2 100
+Reset O 60000 60049 50
+Reset M 60049 2 100
+Reset O 60000 60049 50
+Reset M 60048 2 100
+Reset O 60040 21 100
+Reset M 60048 2 100
+Reset O 60040 21 100
+Reset M 60050 7 100
+Reset M 60050 7 100
+Reset M 60050 7 100
+Door 0 0 0 60038 0 0
+~
+~
+Door 1 0 0 60036 0 0
+~
+~
+Door 2 0 0 60032 0 0
+~
+~
+Door 3 0 0 60035 0 0
+~
+~
+End
+
+#60038
+Name Preachers Podium~
+Descr
+You have come to where the preacher stands.  He chants the various
+scriptures writtem by the gods.  He is rather tall as well as the podium
+he stands at.  He is reading from a strange blood-red bible that glows.. 
+You wonder what he has in it.  
+~
+Flags 20
+Reset M 60020 1 100
+Reset O 60009 -1 5
+Reset O 60050 -5 100
+Door 1 0 0 60039 0 0
+~
+~
+Door 2 0 0 60037 0 0
+~
+~
+Door 3 0 0 60075 0 0
+~
+~
+End
+
+#60039
+Name Confession Room~
+Descr
+You are in a small compact room.  You see a small screen with a man
+talking through it, forgiving you for, it seems all the good things you have
+done!  Inside the room, you begin to feel claustrophobic, and you suddenly
+want to get out of here as fast as possible.  
+~
+Flags 20
+Door 3 0 0 60038 0 0
+~
+~
+End
+
+#60040
+Name Citizens Bunker~
+Descr
+You are in a horrible, dirty place.  There are sickly little boys walking
+around, and some un-known stains on the wall.  You have no idea what they
+are, but if it has anything to do with the smell, you dont want to know. 
+The bunker continues to the east and the west.  You see a un-sturdy wooden
+door to the south of here.  
+~
+Flags 4
+Reset M 60002 1 75
+Door 0 3 0 60053 30 30
+~
+woodendoor~
+Door 1 0 0 60042 0 0
+~
+~
+Door 2 3 0 60041 30 30
+~
+woodendoor~
+Door 3 0 0 60030 0 0
+~
+~
+End
+
+#60041
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 2 100
+Reset M 60009 2 100
+Door 0 3 0 60040 30 30
+~
+woodendoor~
+End
+
+#60042
+Name Citizens Bunker~
+Descr
+You are in a horrible, dirty place.  There are sickly little boys walking
+around, and some un-known stains on the wall.  You have no idea what they
+are, but if it has anything to do with the smell, you dont want to know. 
+The bunker continues to the east and the west.  You see a un-sturdy wooden
+door to the north and south of here.  
+~
+Flags 4
+Reset M 60002 3 100
+Reset M 60150 10 100
+Reset M 60150 10 100
+Reset M 60150 10 100
+Door 0 3 0 60043 30 30
+~
+woodendoor~
+Door 1 0 0 60045 0 0
+~
+~
+Door 2 3 0 60044 30 30
+~
+woodendoor~
+Door 3 0 0 60040 0 0
+~
+~
+End
+
+#60043
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 3 100
+Reset M 60009 3 100
+Door 2 3 0 60042 30 30
+~
+woodendoor~
+End
+
+#60044
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 2 100
+Reset M 60009 5 100
+Door 0 3 0 60042 30 30
+~
+woodendoor~
+End
+
+#60045
+Name Citizens Bunker~
+Descr
+You are in a horrible, dirty place.  There are sickly little boys walking
+around, and some un-known stains on the wall.  You have no idea what they
+are, but if it has anything to do with the smell, you dont want to know. 
+The bunker continues to the east and the west.  You see a un-sturdy wooden
+door to the north and south of here.  
+~
+Flags 4
+Reset M 60009 10 100
+Reset M 60150 10 100
+Reset M 60150 10 100
+Door 0 3 0 60046 30 30
+~
+woodendoor~
+Door 1 0 0 60048 0 0
+~
+~
+Door 2 3 0 60047 30 30
+~
+woodendoor~
+Door 3 0 0 60042 0 0
+~
+~
+End
+
+#60046
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 4 100
+Reset M 60009 6 100
+Door 2 3 0 60045 30 30
+~
+woodendoor~
+End
+
+#60047
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 5 100
+Reset M 60009 7 100
+Door 0 3 0 60045 30 30
+~
+woodendoor~
+End
+
+#60048
+Name Citizens Bunker~
+Descr
+You are in a horrible, dirty place.  There are sickly little boys walking
+around, and some un-known stains on the wall.  You have no idea what they
+are, but if it has anything to do with the smell, you dont want to know. 
+The bunker continues to the east and the west.  You see a un-sturdy wooden
+door to the north and south of here.  
+~
+Flags 4
+Reset M 60150 10 100
+Reset M 60150 10 100
+Door 0 3 0 60050 30 30
+~
+woodendoor~
+Door 1 0 0 60051 0 0
+~
+~
+Door 2 3 0 60049 30 30
+~
+woodendoor~
+Door 3 0 0 60045 0 0
+~
+~
+End
+
+#60049
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60009 9 100
+Reset M 60008 7 100
+Door 0 3 0 60048 30 30
+~
+woodendoor~
+End
+
+#60050
+Name A Small Home~
+Descr
+You just stepped into a small home.  You notice old, broken paintings
+hanging on the wall.  The floor seems to be made of pure dirt, and you can
+tell it would be a very unpleasent experience to live here.  
+~
+Flags 4
+Reset M 60008 6 100
+Reset M 60009 8 100
+Door 2 3 0 60048 30 30
+~
+woodendoor~
+End
+
+#60051
+Name Citizens Horrible Cafeteria~
+Descr
+You just entered the eating place for the citizens of krynn.  You wonder
+what that awful smell is, then you turn around and look at the food.  You
+see a rather large man stirring some unknown stew, and frankly you dont want
+to know what it is.  You see the bunkers back out to the west, and no other
+exits.  
+~
+Flags 4
+Reset M 60010 1 100
+Reset O 60053 -1 20
+Reset M 60150 10 100
+Reset M 60150 10 100
+Door 3 0 0 60048 0 0
+~
+~
+End
+
+#60052
+Name Sacrificial Virgin Storage~
+Descr
+As your eyes become adjusted to the light in the room, you begin to make
+out the figures of many beautiful women chained to the walls.  You decide
+that this must be where they keep the women they sacrifice to the gods.  You
+think about helping them but the massive form of the slave driver changes
+your mind.  
+~
+Flags 4
+Reset M 60050 7 100
+Reset M 60050 7 100
+Reset M 60050 7 100
+Reset M 60050 7 100
+Door 2 7 6 60036 80 80
+~
+prisondoor~
+End
+
+#60053
+Name Krynn Quarantine~
+Descr
+You have just stepped into the sickly room.  Many ages ago, the great
+krynn people had the black plague.  The only way to cut this off was to
+quarntine its great people.  You now realize that they never got to see the
+light of day when you see these people's bones lying on the ground, with
+there decendents looking sick as ever.  
+~
+Flags 4
+Reset O 60003 -5 100
+Reset M 60054 1 100
+Reset M 60053 1 100
+Reset M 60055 1 100
+Door 2 3 0 60040 30 30
+~
+woodendoor~
+End
+
+#60054
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Reset M 60013 5 100
+Door 1 0 0 60055 0 0
+~
+~
+Door 3 0 0 60029 0 0
+~
+~
+End
+
+#60055
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60059 0 0
+~
+~
+Door 1 0 0 60056 0 0
+~
+~
+Door 3 0 0 60054 0 0
+~
+~
+End
+
+#60056
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Reset M 60013 5 100
+Reset M 60012 4 100
+Reset O 60005 60012 35
+Door 0 0 0 60057 0 0
+~
+~
+Door 1 0 0 60070 0 0
+~
+~
+Door 2 0 0 60058 0 0
+~
+~
+Door 3 0 0 60055 0 0
+~
+~
+End
+
+#60057
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60063 0 0
+~
+~
+Door 2 0 0 60056 0 0
+~
+~
+End
+
+#60058
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Reset M 60013 5 100
+Door 0 0 0 60056 0 0
+~
+~
+Door 1 0 0 60071 0 0
+~
+~
+End
+
+#60059
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60060 0 0
+~
+~
+Door 2 0 0 60055 0 0
+~
+~
+End
+
+#60060
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60066 0 0
+~
+~
+Door 2 0 0 60059 0 0
+~
+~
+End
+
+#60061
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 1 0 0 60060 0 0
+~
+~
+Door 3 0 0 60065 0 0
+~
+~
+End
+
+#60062
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 2 0 0 60063 0 0
+~
+~
+Door 3 0 0 60066 0 0
+~
+~
+End
+
+#60063
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60062 0 0
+~
+~
+Door 2 0 0 60057 0 0
+~
+~
+End
+
+#60064
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Reset M 60012 2 100
+Reset O 60005 600012 25
+Door 0 0 0 60065 0 0
+~
+~
+Door 2 0 0 60029 0 0
+~
+~
+End
+
+#60065
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 0 0 0 60067 0 0
+~
+~
+Door 2 0 0 60064 0 0
+~
+~
+End
+
+#60066
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 1 0 0 60062 0 0
+~
+~
+Door 2 0 0 60060 0 0
+~
+~
+Door 3 0 0 60069 0 0
+~
+~
+End
+
+#60067
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 1 0 0 60069 0 0
+~
+~
+Door 2 0 0 60065 0 0
+~
+~
+End
+
+#60068
+Name Dragon Lair~
+Descr
+As you enter this room the smell of smoke gets caught up in your lungs
+and you nearly faint from lack of oxygen, but you re cover fine.  As you
+look aroundt he room you notice a giant dragon and an exit to the east. 
+Obvi ously the dragon is guarding the room to the east, you wonder whats
+past that door.  
+~
+Flags 5
+Reset M 60012 3 100
+Reset O 60005 -1 50
+Reset M 60016 1 100
+Door 1 3 0 60074 30 30
+~
+door~
+Door 3 1 0 60073 30 30
+~
+woodendoor~
+End
+
+#60069
+Name Dungeon of Krynn~
+Descr
+You are in the dungeon of krynn.  You notice old rusted shackles on the
+walls, with what seems to be skeletons of hands in them.  The temperature is
+very cool down here, and it is also very damp.  Shrieks from an unknown
+human being fill these hallways.  There are blood stains on the walls, and
+also fingernail marks on the walls to go with the stains.  
+~
+Flags 4
+Door 1 0 0 60066 0 0
+~
+~
+Door 3 0 0 60067 0 0
+~
+~
+End
+
+#60070
+Name Torture Chamber~
+Descr
+You just walked into the torture chamber of the dungeon.  There is a man
+beating on someone who appears used to be of quite high class.  You can't
+quite make him out, but something tells you that he was a quite popular
+whitie mob..  You wonder where he vanished to.  
+~
+Flags 4
+Reset M 60014 1 100
+Reset M 60015 1 100
+Door 3 0 0 60056 0 0
+~
+~
+End
+
+#60071
+Name Black Tunnel~
+Descr
+You look around and notice you are in a long dark corridor, the smell is
+of burnt flesh and dragon scales.  The walls and floor are completely black
+and you can barely see an inch in front of you, but you notice a light at
+the end of the tunnel a sort of golden light.  
+~
+Flags 5
+Door 1 0 0 60072 0 0
+~
+~
+Door 3 0 0 60058 0 0
+~
+~
+End
+
+#60072
+Name Black Tunnel~
+Descr
+You look around and notice you are in a long dark corridor, the smell is
+of burnt flesh and dragon scales.  The walls and floor are completely black
+and you can barely see an inch in front of you, but you notice a light at
+the end of the tunnel a sort of golden light.  
+~
+Flags 5
+Door 1 0 0 60073 0 0
+~
+~
+Door 3 0 0 60071 0 0
+~
+~
+End
+
+#60073
+Name Black Tunnel~
+Descr
+You look around and notice you are in a long dark corridor, the smell is
+of burnt flesh and dragon scales.  The walls and floor are completely black
+and you can barely see an inch in front of you, but you notice a light at
+the end of the tunnel a sort of golden light.  
+~
+Flags 5
+Door 1 1 0 60068 30 30
+~
+woodendoor~
+Door 3 0 0 60072 0 0
+~
+~
+End
+
+#60074
+Name Treasure Room~
+Descr
+You enter this mass room glamoured with color and bright glow's in the
+middle of the room you notice a stone tablet, and on top of it lies a
+sparkling chest.  
+~
+Flags 5
+Reset O 60031 -5 100
+Reset O 60032 -3 35
+Reset O 60033 -3 5
+Reset O 60039 -3 3
+Reset O 60030 -3 5
+Door 3 3 0 60068 30 30
+~
+door~
+End
+
+#60075
+Name Temple Monestary~
+Descr
+You stand in the temple monestary, and you feel a presence of evil among
+you.  It has a small table here with a cup of and a few stale doughnuts.  To
+the north you hear huge amounts of snoring coming from that room.  You
+wonder why these people spend thier lives in such a hell?  
+~
+Flags 20
+Door 0 0 0 60079 0 0
+~
+~
+Door 1 0 0 60038 0 0
+~
+~
+End
+
+#60076
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 60078 0 0
+~
+~
+Door 5 0 0 60027 0 0
+~
+~
+End
+
+#60077
+Name Hallway~
+Descr
+You are walking down a hallway that connects a storage area to that of a
+temple sleeping area. So if you need to either sleep or pray, you are in the
+right place. 
+~
+Flags 20
+Door 2 0 0 60079 0 0
+~
+~
+Door 5 0 0 60088 0 0
+~
+~
+End
+
+#60078
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 60081 0 0
+~
+~
+Door 1 0 0 60080 0 0
+~
+~
+Door 2 0 0 60082 0 0
+~
+~
+Door 3 0 0 60076 0 0
+~
+~
+End
+
+#60079
+Name Temple Sleeping Area~
+Descr
+You have walked into the temple sleeping area.  Here you see various
+monks sleeping, but you hardly ever see them.  The ones you do notice
+however, have a very tired look on there face as if they haven't slept in
+days.  
+~
+Flags 20
+Door 0 0 0 60077 0 0
+~
+~
+Door 2 0 0 60075 0 0
+~
+~
+End
+
+#60080
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 60095 0 0
+~
+~
+Door 3 0 0 60078 0 0
+~
+~
+End
+
+#60081
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Door 0 0 0 60083 0 0
+~
+~
+Door 2 0 0 60078 0 0
+~
+~
+End
+
+#60082
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60078 0 0
+~
+~
+Door 2 0 0 60089 0 0
+~
+~
+End
+
+#60083
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Door 1 0 0 60084 0 0
+~
+~
+Door 2 0 0 60081 0 0
+~
+~
+End
+
+#60084
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 60085 0 0
+~
+~
+Door 3 0 0 60083 0 0
+~
+~
+End
+
+#60085
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Door 1 0 0 60148 0 0
+~
+~
+Door 2 0 0 60086 0 0
+~
+~
+Door 3 0 0 60084 0 0
+~
+~
+End
+
+#60086
+Name Krynn, Above the Main Floor~
+Descr
+You just went up the stairs from below krynn.  You are in the most
+beautiful place of the castle, and you are breathless when you notice the
+magnificent pictures and sculptures.  There are weapons of war hanging on
+the wall and some very tough guards patrolling here.  
+~
+Flags 4
+Sector 0
+Reset M 60031 10 100
+Door 0 0 0 60085 0 0
+~
+~
+Door 4 0 0 60087 0 0
+~
+~
+End
+
+#60087
+Name Tower of Krynn~
+Descr
+You are standing on one of the many watchtowers of Krynn.  On the
+lookout, you can see teh great city of masqe to the east, to the west some
+abaondoned fields, and to the south an unkown land.  
+~
+Sector 0
+Reset M 60030 2 100
+Door 5 0 0 60086 0 0
+~
+~
+End
+
+#60088
+Name Temple Storage~
+Descr
+You have entered the storage area for the temple. You are not sure what
+they would store in such a place but for now, it is storing your big fat...
+oh nevermind. There is a hallway up above you. 
+~
+Flags 20
+Door 4 0 0 60077 0 0
+~
+~
+End
+
+#60089
+Name A Shaded Hallway~
+Descr
+You are in a shaded hallway on top of the castle of krynn.  You wonder
+what is keeping this hallway so dark, and you can hardly tell exactly where
+you are.  You seem to catch a glimpse of something out of the corner of your
+eye, but arent to sure as to what.  
+~
+Flags 4
+Sector 0
+Reset M 60089 7 100
+Reset M 60089 7 100
+Door 0 0 0 60082 0 0
+~
+~
+Door 2 0 0 60090 0 0
+~
+~
+End
+
+#60090
+Name A Shaded Hallway~
+Descr
+You are in a shaded hallway on top of the castle of krynn.  You wonder
+what is keeping this hallway so dark, and you can hardly tell exactly where
+you are.  You seem to catch a glimpse of something out of the corner of your
+eye, but arent to sure as to what.  
+~
+Flags 4
+Sector 0
+Reset M 60089 7 100
+Door 0 0 0 60089 0 0
+~
+~
+Door 1 0 0 60091 0 0
+~
+~
+End
+
+#60091
+Name A Shaded Hallway~
+Descr
+You are in a shaded hallway on top of the castle of krynn.  You wonder
+what is keeping this hallway so dark, and you can hardly tell exactly where
+you are.  You seem to catch a glimpse of something out of the corner of your
+eye, but arent to sure as to what.  
+~
+Flags 4
+Sector 0
+Reset M 60089 7 100
+Reset M 60089 7 100
+Door 1 0 0 60092 0 0
+~
+~
+Door 3 0 0 60090 0 0
+~
+~
+End
+
+#60092
+Name A Shaded Hallway~
+Descr
+You are in a shaded hallway on top of the castle of krynn.  You wonder
+what is keeping this hallway so dark, and you can hardly tell exactly where
+you are.  You seem to catch a glimpse of something out of the corner of your
+eye, but arent to sure as to what.  
+~
+Flags 4
+Sector 0
+Reset M 60089 7 100
+Door 0 0 0 60093 0 0
+~
+~
+Door 3 0 0 60091 0 0
+~
+~
+End
+
+#60093
+Name A Shaded Hallway~
+Descr
+You are in a shaded hallway on top of the castle of krynn.  You wonder
+what is keeping this hallway so dark, and you can hardly tell exactly where
+you are.  You seem to catch a glimpse of something out of the corner of your
+eye, but arent to sure as to what.  
+~
+Flags 4
+Sector 0
+Reset M 60089 7 100
+Door 2 0 0 60092 0 0
+~
+~
+Door 4 0 0 60094 0 0
+~
+~
+End
+
+#60094
+Name Tower of Krynn~
+Descr
+You are standing on one of the many watchtowers of Krynn.  On the
+lookout, you can see teh great city of masqe to the east, to the west some
+abaondoned fields, and to the south an unkown land.  
+~
+Sector 0
+Reset M 60030 2 100
+Door 5 0 0 60093 0 0
+~
+~
+End
+
+#60095
+Name A Well-Lit Hallway~
+Descr
+You are travling down to what appears to be, the main hallway of the
+castle.  There are guards aligned here, protecting the king and other
+royalty from being harmed.  You see no furniture in the hallway, and it
+looks like the guards dont get much of a break.  
+~
+Flags 4
+Sector 0
+Reset M 60021 10 100
+Reset M 60021 10 100
+Door 1 0 0 60096 0 0
+~
+~
+Door 3 0 0 60080 0 0
+~
+~
+End
+
+#60096
+Name A Well-Lit Hallway~
+Descr
+You are travling down to what appears to be, the main hallway of the
+castle.  There are guards aligned here, protecting the king and other
+royalty from being harmed.  You see no furniture in the hallway, and it
+looks like the guards dont get much of a break.  
+~
+Flags 4
+Sector 0
+Reset M 60021 10 100
+Reset M 60021 10 100
+Door 1 0 0 60097 0 0
+~
+~
+Door 3 0 0 60095 0 0
+~
+~
+End
+
+#60097
+Name A Well-Lit Hallway~
+Descr
+You are travling down to what appears to be, the main hallway of the
+castle.  There are guards aligned here, protecting the king and other
+royalty from being harmed.  You see no furniture in the hallway, and it
+looks like the guards dont get much of a break.  
+~
+Flags 4
+Sector 0
+Reset M 60021 10 100
+Reset M 60021 10 100
+Door 1 0 0 60098 0 0
+~
+~
+Door 3 0 0 60096 0 0
+~
+~
+End
+
+#60098
+Name A Well-Lit Hallway~
+Descr
+You are travling down to what appears to be, the main hallway of the
+castle.  There are guards aligned here, protecting the king and other
+royalty from being harmed.  You see no furniture in the hallway, and it
+looks like the guards dont get much of a break.  
+~
+Flags 4
+Sector 0
+Reset M 60021 10 100
+Reset M 60021 10 100
+Door 1 0 0 60099 0 0
+~
+~
+Door 3 0 0 60097 0 0
+~
+~
+End
+
+#60099
+Name A Well-Lit Hallway~
+Descr
+You are travling down to what appears to be, the main hallway of the
+castle.  There are guards aligned here, protecting the king and other
+royalty from being harmed.  You see no furniture in the hallway, and it
+looks like the guards dont get much of a break.  
+~
+Flags 4
+Sector 0
+Reset M 60021 10 100
+Reset M 60021 10 100
+Door 1 0 0 60100 0 0
+~
+~
+Door 3 0 0 60098 0 0
+~
+~
+End
+
+#60100
+Name End of the Hallway~
+Descr
+You have reached the end of the well-lit hallway.  Here you see two
+larger guards, much bigger then the ones before you.  You see the large door
+to the east, which they appear to be guarding.  It will be pretty tough
+getting by these guys, from the looks of thier size.  
+~
+Flags 4
+Sector 0
+Reset M 60022 2 100
+Reset O 30 60022 100
+Reset M 60022 2 100
+Reset O 30 60022 100
+Door 1 3 0 60101 30 30
+~
+steeldoor~
+Door 3 0 0 60099 0 0
+~
+~
+End
+
+#60101
+Name The Chamber of Royalty~
+Descr
+You are in a well kept chamber.  There all doors in all cardinal
+directions, and the one to the easyt looks larger then the res t.  This
+appears to be one of the finest rooms of the castle, even though it looks
+impossible to continue to the east.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 60102 30 30
+~
+door~
+Door 1 23 9999 60104 80 80
+~
+largedoor~
+Door 2 3 0 60103 30 30
+~
+door~
+Door 3 3 0 60100 30 30
+~
+steeldoor~
+End
+
+#60102
+Name The Prince's Private Quarters~
+Descr
+You are in a small compact room.  There is a large bed here, and the
+prince seems to use this a lot from all the worn down covers here.  You
+see dusty old trophys and plaques on the walls, as if he used to be a great
+warrior.  You wonder what made him stop?  
+~
+Flags 4
+Sector 0
+Reset O 60011 -5 100
+Reset M 60023 1 100
+Reset O 60002 -1 20
+Reset O 9999 -1 100
+Door 2 3 0 60101 30 30
+~
+door~
+End
+
+#60103
+Name The Princess' Chamber~
+Descr
+You are in a very beautiful room.  You see beautiful linens, and
+furniture in this room.  Exotic plants hang the walls, and it looks like the
+owner of this rather large room keeps good care of it.  There is a funny
+portrait in the eastern wall.  
+~
+Flags 4
+Sector 0
+Reset M 60025 1 100
+Reset O 60051 5 45
+Door 0 3 0 60101 30 30
+~
+door~
+Door 1 259 0 60105 30 30
+~
+portrait~
+End
+
+#60104
+Name The Royal Junction~
+Descr
+You have come to the castle's royal junction.  To the north and south,
+you see what appears to be the living quarters of the king and queen.  To
+the east there is something funny eminating a very light bright.  It might
+be smart to investigate.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60107 0 0
+~
+~
+Door 1 0 0 60106 0 0
+~
+~
+Door 2 0 0 60108 0 0
+~
+~
+Door 3 23 9999 60101 80 80
+~
+largedoor~
+End
+
+#60105
+Name Muddy Room~
+Descr
+You are in a damp, muddy room.  It looks like you just dug a hole in the
+ground, and ended up in here.  There is a small water coming above you, and
+a bright light coming from the only exit out.  It appears as though the way
+you came in has disapeared!  
+~
+Flags 4
+Reset M 60026 1 100
+Reset O 60022 60026 35
+Door 0 0 0 60104 0 0
+~
+~
+End
+
+#60106
+Name Castle Portal Room~
+Descr
+You have just entered which seems to be one of the most complicating room
+in the castle.  There is a portal in the center of the room, and only a
+portal.  No other furniture is here, and it appers that the room is brighter
+then any other in the castle.  You cant quite seem to figure out where this
+portal woud take you, but your curiosity aims you to figure out.  
+~
+Flags 4
+Sector 0
+Reset O 60023 -5 100
+Door 3 0 0 60104 0 0
+~
+~
+End
+
+#60107
+Name The Kings Quarters~
+Descr
+You have just stepped into a well kept room.  There is the king of the
+castle here sitting on his,'throne as his bodyguard watches out for him. 
+You wonder if it is even possible to kill this king, with him in the way. 
+You see the junction back to the south.  
+~
+Flags 4
+Sector 0
+Reset M 60028 1 100
+Reset M 60027 1 100
+Reset O 60024 -1 1
+Door 2 0 0 60104 0 0
+~
+~
+End
+
+#60108
+Name The Queen's Chamber~
+Descr
+You are in a small chamber.  It looks as though the king has locked up
+his fine bride, but why would he have done a thing like that?  There are
+some rare pieces of furniture in here, along with some nice paintings.  
+~
+Flags 4
+Sector 0
+Reset M 60029 1 100
+Door 0 0 0 60104 0 0
+~
+~
+End
+
+#60145
+Name Beyond Imagination~
+Descr
+Here in this room lies a magnificant ring. It glows and hums with all
+sorts of magic beyond imagination, and you the lucky traveler has found it.
+Take good care of the this ring cause their is only one, for if it should be
+lost it will be lost forever. The story goes a long long time ago the gods
+of this world created 5 rings of unbelievable power and in the heat of
+battle between gods they were scattered throughout the lands and each one
+has its own hiding place, hoping that they never get found 
+~
+Flags 4
+Reset O 60145 -5 100
+Door 2 259 0 60051 30 30
+~
+tablet~
+End
+
+#60148
+Name Castle of Krynn~
+Descr
+This is the top of the staircase, it gets fairly well liten up here, to
+the west is the main hall above the floor that leads to the tower.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 60085 0 0
+~
+~
+Door 5 0 0 60149 0 0
+~
+~
+End
+
+#60149
+Name Castle of Krynn~
+Descr
+Here there is a very dark spiral starcase leading up above to the second
+floor of the castle where the king dwells.  There are many guards protecting
+him which makes an assassination very hard.  
+~
+Flags 4
+Sector 0
+Reset O 60149 -5 100
+Door 2 0 0 60150 0 0
+~
+~
+Door 4 0 0 60148 0 0
+~
+~
+End
+
+#60150
+Name Castle of Krynn~
+Descr
+You enter down this wide dirt road, it;s fairly dim and not very well
+lite.  You watch your back cause this is a evil castle and who knows what is
+lurking about in the shadows of krynn.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 60149 0 0
+~
+~
+Door 2 0 0 60009 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

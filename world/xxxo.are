@@ -1,0 +1,2539 @@
+#AREADATA 
+Name Shade~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou feel someone watching you...  
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Kirok~
+VNUMs 42001 42200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#42001
+Name Kerin strangely beast~
+Short a chittering Kerin~
+Long 
+A strangely formed, chittering Kerin Beast.
+~
+Descr
+You see a very oddly formed beast, replete with overlapping folds of
+skin, and oddly formed facial features.  It glares at you, chittering madly.
+~
+AMax 15
+NHeight 0
+ActBits 3
+Alignment -30
+Money 60
+Level 60
+Sex 1
+MobType 20
+Guard 0
+ArmorClass 50
+End
+
+#42002
+Name Kerin agitated~
+Short an agitated Kerin~
+Long 
+An agitated Kerin beast.
+~
+Descr
+This Kerin beast seems more agitated than normal, as if ready to pounce
+on anyone coming nearby.  
+~
+AMax 8
+NHeight 0
+ActBits 1
+Money 55
+Level 55
+Sex 1
+MobType 20
+Guard 0
+ArmorClass 50
+End
+
+#42003
+Name Kerin brown~
+Short a large Kerin~
+Long 
+A loudly chittering, brown Kerin.
+~
+Descr
+A large mottled brown Kerin stares at you.  A large brown hues Kerin
+beast represents the pinnacle of Kerin achievement.  It glares at you,
+chirping its in undecipherable clatter.  
+~
+AMax 4
+NHeight 0
+ActBits 3
+Money 55
+Level 55
+Sex 2
+MobType 20
+Guard 0
+Spec spec_warrior
+ArmorClass 1
+End
+
+#42004
+Name Shader boy~
+Short a young boy~
+Long 
+A sniffling, young boy.
+~
+Descr
+You see a young boy, sniffling through his tears, hiding here.  His face
+has that blank look so often seen on young people confronted by death and
+other atrocities.  He shivers and shakes, and refuses to move.  He keeps
+muttering about 'monsters', and the 'smithy, they came through there' and
+'beware the tavern'.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 100
+Money 40
+Level 40
+Sex 1
+MobType 0
+Guard 0
+End
+
+#42005
+Name wounded Kerin beast~
+Short a wounded Kerin beast~
+Long 
+A wounded Kerin beast.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment -30
+Money 30
+Level 30
+Sex 1
+MobType 20
+Guard 0
+ArmorClass 70
+End
+
+#42006
+Name Clem shopkeeper~
+Short Clem~
+Long 
+Clem, the frightened shopkeeper, stands here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Shop    0   9   5   0   0 110 55 6 19
+Shopd2 5
+Shopd3 4
+ArmorClass -200
+End
+
+#42007
+Name tortured soul~
+Short a tortured soul~
+Long 
+A tortured soul, crying for peace.
+~
+Descr
+A spirit, no doubt demented through years spent in such a place, slides
+through the air, reaching for you.  
+~
+AMax 6
+NHeight 0
+ActBits 1
+Affect_By 552
+Alignment -10
+Money 45
+Level 45
+Sex 1
+MobType 21
+Guard 0
+ArmorClass 5
+End
+
+#42008
+Name bemagicked skeleton~
+Short a bemagicked skeleton~
+Long 
+A skeleton, moving as if by magick.
+~
+Descr
+The conglameration of bones and magick stands before you with death inits
+eyes.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Alignment -100
+Money 15
+Level 15
+MobType 9
+Guard 0
+Spec spec_warrior
+RaceHate 67108864
+ArmorClass 50
+End
+
+#42009
+Name shambling shape~
+Short a shambling shape~
+Long 
+A odiferous shambling shape reaches for you.
+~
+Descr
+Your senses are assailed as an outragiously smelly form shambles towards
+you, obscene excused for arms reaching out, attempting to poison you with
+its spirit.  
+~
+AMax 2
+NHeight 0
+ActBits 9
+Alignment -50
+Money 10
+Level 10
+MobType 9
+Guard 0
+End
+
+#42010
+Name rat~
+Short a huge rat~
+Long 
+A huge rat falls on you from above.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 11
+Alignment -10
+Money 20
+Level 20
+Sex 1
+MobType 7
+Guard 0
+End
+
+#42011
+Name death bat~
+Short a death bat~
+Long 
+A death bat screams as it dives for you.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 3
+Alignment -20
+Money 20
+Level 20
+Sex 1
+MobType 7
+Guard 0
+End
+
+#42012
+Name consumer souls~
+Short the consumer of souls~
+Long 
+A consumer of souls lies in wait here.
+~
+Descr
+The very blackest soul is refelcted in the unblinking eyes of this beast.
+It's huge claws at the end of flexible arms look quite capable of rending
+flesh.  A gaping maw opening onto rows of teeth opens and shuts impatiently.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 66088
+Alignment -300
+Money 40
+Level 40
+MobType 9
+Guard 0
+End
+
+#42013
+Name wild dog~
+Short a wild dog~
+Long 
+A wild dog runs along here.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 20
+Level 20
+Sex 1
+MobType 6
+Guard 0
+End
+
+#42014
+Name statue alive~
+Short a statue~
+Long 
+A statue, whose eyes almost appear alive.
+~
+Descr
+As you look closer at the statue, it seems to jerk to life, eyes
+alighting.  It moves toward you with a deadly purpose.  
+~
+AMax 1
+NHeight 0
+ActBits 603979779
+Affect_By 512
+Money 43
+Level 43
+MobType 15
+Guard 0
+Spec spec_warrior
+ArmorClass -200
+End
+
+#42015
+Name strange black rabbit~
+Short a strange, black rabbit~
+Long 
+A strange, black rabbit hops around here.
+~
+Descr
+This odd creature looks like it might make good target practice...  
+~
+AMax 8
+NHeight 0
+ActBits 1
+Money 10
+Level 10
+MobType 7
+Guard 0
+End
+
+#42016
+Name tiny dwarf~
+Short a tiny dwarf~
+Long 
+A tiny dwarf stands here, looking timid.
+~
+Descr
+This small dwarf looks like he was cast out from his homeland for being
+so small.  You almost feel sorry for him, but there is something almost evil
+about his presence here...  Perhaps you should dispatch of him...  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 30
+Level 30
+Sex 1
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#42002
+Name belt~
+Short an odd belt~
+Descr
+A strangely woven belt lies here on the ground.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 50 50 0 0
+Weight 1
+Cost 600
+End
+
+#42003
+Name necklace~
+Short a fiber necklace~
+Descr
+A carefully wrought, woven fiber necklace.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 50 50 0 0
+Weight 1
+Cost 145
+End
+
+#42004
+Name plaque~
+Short plaque~
+Descr
+A small plaque is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 500
+Cost 0
+ExtraDescr plaque~
+Created from the dark recesses of Kirok's mind.  
+
+~
+End
+
+#42005
+Name odd belt~
+Short very odd belt~
+Descr
+A oddly wooven belt.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 50 50 0 0
+Weight 2
+Cost 110
+End
+
+#42006
+Name wicked scythe~
+Short a wicked scythe~
+Descr
+A long, curved, wicked looking scythe.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 3 0 0 0 3 5 0
+Weight 10
+Cost 2384
+Affect 18 1 1 0 0
+End
+
+#42007
+Name bauble~
+Short a curious bauble~
+Descr
+A shining bauble, that catches the eye.
+[0;36m~
+Type 8
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 700
+End
+
+#42008
+Name rusty blade~
+Short a rusty blade~
+Descr
+A rusty blade.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 3 0 0 0 2 4 0
+Weight 5
+Cost 800
+End
+
+#42009
+Name ankle flange~
+Short an ankle flange~
+Descr
+A sturdy ankle flange.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 1200
+Affect 17 -1 1 0 0
+End
+
+#42010
+Name stone helm~
+Short a stone helm~
+Descr
+A heavy stone helm.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 50 50 0 0
+Weight 10
+Cost 1400
+Affect 17 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#42001
+Name A Dusty Road~
+Descr
+You are on a rural dusty road, little clouds blooming from the road as
+you pass by, the road to Xylar lies not to far to the southwest, or a small
+village beckons to the north.  
+~
+Flags 2
+Door 0 0 0 42002 30 30
+~
+door~
+Door 2 0 0 50543 30 30
+~
+door~
+End
+
+#42002
+Name Dusty Road~
+Descr
+You are on a rural dusty road, little clouds blooming from the road as
+you pass by.  To the south you see the place where ye entered this land
+from, while to the north lies more road.  
+~
+Sector 2
+Reset M 42016 2 100
+Reset O 207 6 80
+Reset O 217 4 80
+Door 0 0 0 42003 30 30
+~
+door~
+Door 2 0 0 42001 30 30
+~
+door~
+End
+
+#42003
+Name Dusty Road~
+Descr
+You are on a small dusty road, coursing its way through the surrounding
+fields.  The silence here, as well as the apparant lack of intelligent life
+causes you to seek out to find the source of the quiet.  
+~
+Door 0 0 0 42004 30 30
+~
+door~
+Door 2 0 0 42002 30 30
+~
+door~
+End
+
+#42004
+Name Southern edge of Village~
+Descr
+You are at the southern edge of a small farming village.  To the north
+you can see a few small homes, er huts, and what appears to be some places
+of business.  The dusty road to the south looks inviting 
+~
+Door 0 0 0 42005 30 30
+~
+door~
+Door 2 0 0 42003 30 30
+~
+door~
+End
+
+#42005
+Name South Shade~
+Descr
+You are in a quiet little farming village, with the edge of town to your
+south.  The homes nearby look occupied, yet the silence is pervavsive.  
+~
+Reset M 42015 10 100
+Door 0 0 0 42006 30 30
+~
+door~
+Door 1 3 0 42007 30 30
+~
+door~
+Door 2 0 0 42004 30 30
+~
+door~
+End
+
+#42006
+Name On the main road through South Shade~
+Descr
+You are in the town of Shade.  Simple huts of no particular worth line
+the streets.  The lack of wandering townsfolk is odd, and the quietness of
+area creeps inside your head.  
+~
+Door 0 0 0 42008 30 30
+~
+door~
+Door 2 0 0 42005 30 30
+~
+door~
+End
+
+#42007
+Name Small home~
+Descr
+You are in a small home, whose furnishings are plain beyond description. 
+The simple needs of a poor hired hand limit the creativity of the decor.  
+~
+Flags 2097156
+Reset M 42005 5 75
+Door 3 3 0 42005 30 30
+~
+door~
+End
+
+#42008
+Name Shade Village Centre~
+Descr
+The dusty streets of Shade meet in this inauspicious location.  Though
+you detect the marks of passerby, there is a marked lack of activity here. 
+The simple buildings common in Shade can be seen in most directions.  
+~
+Reset M 42015 10 100
+Reset O 42004 -5 100
+Reset M 42005 5 75
+Reset O 42005 12 25
+Door 0 0 0 42009 30 30
+~
+door~
+Door 1 0 0 42010 30 30
+~
+door~
+Door 2 0 0 42006 30 30
+~
+door~
+Door 3 0 0 42011 30 30
+~
+door~
+End
+
+#42009
+Name On the road through North Shade~
+Descr
+You are in the town of Shade.  Simple huts of no particular worth line the streets.  The lack of wandering townsfolk is odd, and the quietness of area creeps inside your head.
+~
+Door 0 0 0 42040 30 30
+~
+door~
+Door 2 0 0 42008 30 30
+~
+door~
+End
+
+#42010
+Name Just East of Shade Centre~
+Descr
+This small side street brooks little to pique your interest, though there
+is the local stable to your east a bit.  The main square of this metropolis
+is to the west.  
+~
+Door 1 0 0 42044 30 30
+~
+door~
+Door 3 0 0 42008 30 30
+~
+door~
+End
+
+#42011
+Name Just West of Shade Centre~
+Descr
+This small side street leads from the village center, to what appears to
+be the local Blacksmith's place of business.  The town is strangely quiet.  
+~
+Reset M 42015 10 100
+Reset M 42015 10 100
+Reset M 42015 10 100
+Door 1 0 0 42008 30 30
+~
+door~
+Door 3 0 0 42012 30 30
+~
+door~
+End
+
+#42012
+Name Smithy~
+Descr
+This functional room has all the standard items commonly found in a plain
+smithy.  A firepit, an anvil, various tools for manipulating heated metals,
+and some small barrels filled with various liquids.  The back side of the
+building appears to be in disrepair.  
+~
+Flags 4
+Sector 0
+Reset M 42015 10 100
+Reset M 42001 20 50
+Reset O 42005 12 25
+Reset M 42001 20 50
+Door 1 0 0 42011 30 30
+~
+door~
+Door 3 259 0 42013 30 30
+A loose board may give way enough for you to squeeze through.  
+~
+board~
+End
+
+#42013
+Name Winding path behind Smithy~
+Descr
+The backside of the smithy is to your east, a loose board providing
+access.  A rough path leads off to the west, and soon turns from sight. 
+This looks promising.  
+~
+Flags 2
+Sector 3
+Door 1 3 0 42012 30 30
+~
+board~
+Door 3 0 0 42014 30 30
+~
+door~
+End
+
+#42014
+Name Windy path~
+Descr
+This simple path winds it way through gentle hills, and between small
+piles of discarded brush.  
+~
+Sector 3
+Door 0 0 0 42015 30 30
+~
+door~
+Door 1 0 0 42013 30 30
+~
+door~
+Door 3 0 0 42065 30 30
+~
+door~
+End
+
+#42015
+Name At a turn on a Windy Path~
+Descr
+This simple path winds it way through gentle hills, and between small
+piles of discarded brush.  
+~
+Sector 3
+Door 2 0 0 42014 30 30
+~
+door~
+Door 3 0 0 42016 30 30
+~
+door~
+End
+
+#42016
+Name Winding path thru hills~
+Descr
+The hills in the area have given way to a larger slope here.  To the east
+is a path that winds it way through the more modest hills, or you can make
+your way down a larger, more significant descent here.  
+~
+Sector 2
+Door 0 0 0 42066 30 30
+~
+door~
+Door 1 0 0 42015 30 30
+~
+door~
+Door 5 0 0 42017 30 30
+~
+door~
+End
+
+#42017
+Name On a long sloping hill~
+Descr
+This long slope leads up to un unknown summit, and down to a pleasant
+appearing valley.  The gentle sounds of small animals scurrying through the
+brush come to your senses.  
+~
+Sector 2
+Door 4 0 0 42016 30 30
+~
+door~
+Door 5 0 0 42018 30 30
+~
+door~
+End
+
+#42018
+Name Gentle valley at base of hill~
+Descr
+A pleasant valley beckons to the north, and a gentle, but long slope
+leads up from this location.  Trees full with life stand as sentinels to the
+abundance of water at the base of this hill.  
+~
+Sector 2
+Door 0 0 0 42019 30 30
+~
+door~
+Door 1 0 0 42073 30 30
+~
+door~
+Door 2 0 0 42074 30 30
+~
+door~
+Door 3 0 0 42072 30 30
+~
+door~
+Door 4 0 0 42017 30 30
+~
+door~
+End
+
+#42019
+Name Green Valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Sector 2
+Reset M 42002 20 25
+Door 0 0 0 42020 30 30
+~
+door~
+Door 1 0 0 42071 30 30
+~
+door~
+Door 2 0 0 42018 30 30
+~
+door~
+Door 3 0 0 42070 30 30
+~
+door~
+End
+
+#42020
+Name Green Valley~
+Descr
+This lush valley, enclosed by tall trees, comes to a northern terminus
+here.  An odd round pit, partially covered with discarded brush, mars the
+otherwise pristine beauty of the meadow.  The sounds of small wildlife have
+fallen silent in this area.  
+~
+Sector 2
+Door 0 0 0 42067 30 30
+~
+door~
+Door 1 0 0 42068 30 30
+~
+door~
+Door 2 0 0 42019 30 30
+~
+door~
+Door 3 0 0 42069 30 30
+~
+door~
+Door 5 0 0 42021 30 30
+~
+door~
+End
+
+#42021
+Name Strange pit~
+Descr
+This enshrouded pit sunk into the valley floor is embalmed in an
+unpleasant oder.  The walls of the pit are unremarkable, except to the west,
+where a small hole has been hastily covered with a removable wooden stop.  
+~
+Flags 4
+Sector 0
+Reset M 42001 20 75
+Door 3 3 0 42022 30 30
+~
+round hole~
+Door 4 0 0 42020 30 30
+~
+door~
+End
+
+#42022
+Name Underground Chamber~
+Descr
+You are in a large underground chamber, damp walls and musty odor give
+evidence of ocassional water damage, most likely from the passage to the
+east.  Empty sconces await torches, as the gloom deepens to the west.  To
+the north and south are two arches.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 42024 30 30
+~
+door~
+Door 1 3 0 42021 30 30
+~
+round hole~
+Door 2 0 0 42025 30 30
+~
+door~
+Door 3 0 0 42023 30 30
+~
+door~
+End
+
+#42023
+Name Dirt infested Room~
+Descr
+The gloom is pervasive is this narrowing room, and the slighltly marred
+walls send a chill down your spine as you wonder what might habit these dark
+paths.  There is a glimpse of openess to the east.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 42022 30 30
+~
+door~
+Door 3 0 0 42026 30 30
+~
+door~
+End
+
+#42024
+Name Guard Chamber~
+Descr
+This small room, encased in walls of worked stone, has a small bench
+built into one side, and mundane trash is scattered about, as if recently
+left there.  
+~
+Flags 5
+Sector 0
+Reset M 42001 20 100
+Reset M 42001 20 100
+Door 2 0 0 42022 30 30
+~
+door~
+End
+
+#42025
+Name Guard Chamber~
+Descr
+This small room, encased in walls of worked stone, has a small bench
+built into one side, and mundane trash is scattered about, as if recently
+left there.  
+~
+Flags 5
+Sector 0
+Reset M 42001 20 100
+Reset M 42001 20 100
+Door 0 0 0 42022 30 30
+~
+door~
+End
+
+#42026
+Name Dark Passage~
+Descr
+This dark passage winds its way from east to west, the sounds of your
+progress echo off the walls.  The sound of humming comes from far to the
+west.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 42023 30 30
+~
+door~
+Door 3 0 0 42027 30 30
+~
+door~
+End
+
+#42027
+Name Dark Passage~
+Descr
+This dark passage winds its way from east to west, the sounds of your
+progress echo off the walls.  The sound of humming comes from far to the
+west.  
+~
+Flags 5
+Sector 0
+Reset M 42002 25 50
+Door 1 0 0 42026 30 30
+~
+door~
+Door 3 0 0 42028 30 30
+~
+door~
+End
+
+#42028
+Name Bizarre Meeting Hall~
+Descr
+This large room, replete with low tables, odd shaped humps that might be
+chairs, and a raised platform along the south wall, hums with an unearthly
+power.  A nauseating odor of burnt sulfur mixed with other noxious fumes
+hasten your desire to leave this area.  A dark hallway beckons to the east,
+while this strange room continues west.  
+~
+Flags 4
+Sector 0
+Reset M 42002 25 50
+Door 1 0 0 42027 30 30
+~
+door~
+Door 3 0 0 42029 30 30
+~
+door~
+End
+
+#42029
+Name Bizarre Meeting Hall~
+Descr
+This odd room, complete with tables and odd forms that may suffice as
+chairs, hums with some strange unearthly power.  Noxious sulfur tinges fumes
+assail your senses, and a feeling that you have invaded a private sanctum
+makes you hasten your progress.  
+~
+Flags 4
+Sector 0
+Reset M 42003 4 75
+Reset O 42003 2 50
+Reset O 42002 12 15
+Reset M 42001 20 100
+Reset M 42001 20 100
+Reset O 42003 2 10
+Door 1 0 0 42028 30 30
+~
+door~
+Door 3 0 0 42030 30 30
+~
+door~
+End
+
+#42030
+Name Uneven Corridor~
+Descr
+This uneven corridor looks to be almost an afterthought, tacked on at a
+later date, to connect an existing room with something else.  The walls are
+in no waywell formed, and the floor is considerable out of kilter.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42031 30 30
+~
+door~
+Door 1 0 0 42029 30 30
+~
+door~
+Door 2 0 0 42078 30 30
+~
+door~
+End
+
+#42031
+Name Uneven Corridor~
+Descr
+This uneven corridor looks to be almost an afterthought, tacked on at a
+later date, to connect an existing room with something else.  The walls are
+in no waywell formed, and the floor is considerable out of kilter.  
+~
+Flags 5
+Sector 0
+Reset M 42002 25 25
+Door 0 0 0 42032 30 30
+~
+door~
+Door 2 0 0 42030 30 30
+~
+door~
+End
+
+#42032
+Name Firepit Chamber~
+Descr
+This cavernous room is rough in shape, and appears to be natural rather
+than fashioned by the hand of magic or life.  To the east the amber glow of
+a banked fire gives light to the expanse.  The chamber extends in all
+directions, except south, in which a small passageway leads.  
+~
+Flags 4
+Sector 0
+Reset M 42002 25 25
+Door 0 0 0 42035 30 30
+~
+door~
+Door 1 0 0 42034 30 30
+~
+door~
+Door 2 0 0 42031 30 30
+~
+door~
+Door 3 0 0 42033 30 30
+~
+door~
+End
+
+#42033
+Name Firepit Chamber~
+Descr
+This cavernous room is rough in shape, and appears to be natural rather
+than fashioned by the hand of magic or life.  To the east the amber glow of
+a banked fire gives light to the expanse.  The chamber extends in all
+directions, well not really, just back to the east 
+~
+Flags 4
+Reset M 42002 25 25
+Door 1 0 0 42032 30 30
+~
+door~
+End
+
+#42034
+Name Firepit~
+Descr
+The cavernous room is lit and warmed from a fire glowing energeticly in
+the firepit, carefully banked here.  To the west the cavern opens, and along
+the walls you detect the buildup of soot and grime, as the smoke makes it
+way up through a hole in the ceiling above.  
+~
+Flags 4
+Reset M 42003 4 75
+Reset O 42003 2 75
+Reset M 42001 20 100
+Reset M 42001 20 100
+Door 3 0 0 42032 30 30
+~
+door~
+End
+
+#42035
+Name Edge of Chamber~
+Descr
+You are at the northern edge of a large, cavern-like room.  From
+somewhere to the south a gentle light, as if from a fire, pulses against the
+walls.  The irregularity of the north wall draws your gaze.  
+~
+Flags 4
+Sector 0
+Door 0 259 0 42036 30 30
+A secret door cleverly hidden into the north wall.
+~
+secret door~
+Door 2 0 0 42032 30 30
+~
+door~
+End
+
+#42036
+Name Secret Passage~
+Descr
+This very narrow passage barely allows you to pass through.  Cramped and
+low, you feel the enclosing confinement, and the memory of all that stone
+overhead gives you momentary pause.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42037 30 30
+~
+door~
+Door 2 0 0 42035 30 30
+~
+door~
+End
+
+#42037
+Name Damp Passage~
+Descr
+You are in a narrow, cramped passagway, winding its way from the north to
+the south.  The layers of dirt five evidence of little caretaking, as if
+this route is not very important.  
+~
+Flags 4
+Door 0 0 0 42038 30 30
+~
+door~
+Door 2 0 0 42036 30 30
+~
+door~
+End
+
+#42038
+Name Musty Passage~
+Descr
+The low ceiling and narrow walls force a turn at this juncture.  You can
+detect no particular pattern to the stonework making the walls, and the
+floor seems to be all of one piece, hard as that is to imagine.  
+~
+Flags 4
+Reset M 42002 25 50
+Door 1 0 0 42081 30 30
+~
+door~
+Door 2 0 0 42037 30 30
+~
+door~
+Door 3 0 0 42039 30 30
+~
+door~
+End
+
+#42039
+Name Small round room~
+Descr
+This small room, at the terminus of a narrow cramped passage, is not
+exactly what one would expect this far below ground.  
+~
+Flags 4
+Reset M 42003 4 100
+Reset O 42002 12 100
+Reset O 42003 2 100
+Reset M 42003 4 100
+Reset O 42002 12 60
+Reset O 42003 2 75
+Reset M 42001 20 75
+Reset M 42001 20 75
+Door 1 0 0 42038 30 30
+~
+door~
+End
+
+#42040
+Name North Shade~
+Descr
+You are in the town of Shade.  Simple huts of no particular worth line
+the streets.  The lack of wandering townsfolk is odd, and the quietness of
+area creeps inside your head.  To the west there is a slightly richer
+appearing hovel, and to the east, a converted home sits.  
+~
+Door 0 0 0 42043 30 30
+~
+door~
+Door 1 0 0 42041 30 30
+~
+door~
+Door 2 0 0 42009 30 30
+~
+door~
+Door 3 1 0 42042 30 30
+~
+door~
+End
+
+#42041
+Name Small shop~
+Descr
+This was once a fine little shop, selling the local crafts and common
+items to the rare passerby and local townsfolk.  Sadly, the shelves are
+empty, and trash is strewn about.  
+~
+Flags 4
+Reset M 42006 1 100
+Reset O 224 -1 100
+Reset O 225 -1 1000
+Reset O 236 -1 100
+Reset O 207 -1 100
+Reset O 206 -1 100
+Door 3 0 0 42040 30 30
+~
+door~
+End
+
+#42042
+Name Scythe Tavern~
+Descr
+A large scythe over the diplidated bar gives rise to the name of this
+tavern.  If tavern it is.  The tables have all been torn apart, and two
+longer tables have been placed against the south wall.  
+~
+Flags 4
+Reset M 42001 20 100
+Reset O 42005 12 50
+Reset M 42001 20 100
+Reset O 42005 12 35
+Door 1 1 0 42040 30 30
+~
+door~
+End
+
+#42043
+Name North edge of Shade~
+Descr
+The village expanding to the south goes by the name of Shade, a simple
+farming town, quiet, unassuming, just another village like many other small
+villages across the land.  But something is not quite right.  
+~
+Reset M 42015 10 100
+Reset M 42015 10 100
+Door 0 0 0 42046 30 30
+~
+door~
+Door 2 0 0 42040 30 30
+~
+door~
+End
+
+#42044
+Name Small dusty Stable~
+Descr
+The sight of dust sifting through the air, caught in a stray beam of
+light greets you as you survey the smelly confines.  The stable looks well
+cared for, if somewhat vacant.  
+~
+Flags 4
+Shd 1
+Sector 0
+Reset M 42005 5 100
+Reset O 42005 12 60
+Reset M 42005 5 50
+Reset O 42003 2 15
+Door 3 0 0 42010 30 30
+~
+door~
+Door 4 0 0 42045 30 30
+~
+door~
+End
+
+#42045
+Name Stable loft~
+Descr
+This cramped space was designed to hold large quantities of fodder,
+though the only bales left here are rotted and scattered about.  
+~
+Flags 4
+Reset M 42004 1 100
+Door 5 0 0 42044 30 30
+~
+door~
+End
+
+#42046
+Name Country lane~
+Descr
+This simple road leading through the gentle farmland is unremarkable in
+the extreme.  It continues from north to south, and open fields lie to the
+east and west on either side.  
+~
+Flags 2
+Door 0 0 0 42101 30 30
+~
+door~
+Door 1 0 0 42051 30 30
+~
+door~
+Door 2 0 0 42043 30 30
+~
+door~
+Door 3 0 0 42050 30 30
+~
+door~
+End
+
+#42050
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 0 0 0 42052 30 30
+~
+door~
+Door 1 0 0 42046 30 30
+~
+door~
+End
+
+#42051
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 0 0 0 42053 30 30
+~
+door~
+Door 3 0 0 42046 30 30
+~
+door~
+End
+
+#42052
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  The
+tree lined road to the east may provide easier passage.  
+~
+Sector 2
+Door 1 0 0 42101 30 30
+~
+door~
+Door 2 0 0 42050 30 30
+~
+door~
+End
+
+#42053
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 0 0 0 42055 30 30
+~
+door~
+Door 2 0 0 42051 30 30
+~
+door~
+Door 3 0 0 42101 30 30
+~
+door~
+End
+
+#42054
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 0 0 0 42107 30 30
+~
+door~
+Door 1 0 0 42104 30 30
+~
+door~
+End
+
+#42055
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  A
+small rodent crosses your path, and you keep your eyes peeld for other signs
+of life.  
+~
+Door 0 0 0 42057 30 30
+~
+door~
+Door 2 0 0 42053 30 30
+~
+door~
+Door 3 0 0 42102 30 30
+~
+door~
+End
+
+#42057
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  How
+delightful.  
+~
+Sector 2
+Door 0 0 0 42109 30 30
+~
+door~
+Door 2 0 0 42055 30 30
+~
+door~
+Door 3 0 0 42104 30 30
+~
+door~
+End
+
+#42058
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 0 0 0 42060 30 30
+~
+door~
+Door 1 0 0 42106 30 30
+~
+door~
+Door 2 0 0 42107 30 30
+~
+door~
+End
+
+#42059
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  The
+overgrowth is truly thick, and slows your progress a bit.  
+~
+Sector 3
+Door 0 0 0 42061 30 30
+~
+door~
+Door 2 0 0 42109 30 30
+~
+door~
+Door 3 0 0 42106 30 30
+~
+door~
+End
+
+#42060
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  You
+startle a covey of birds, and are startled a bit as they take flight.  
+~
+Sector 3
+Reset M 42013 2 50
+Door 0 0 0 42062 30 30
+~
+door~
+Door 1 0 0 42111 30 30
+~
+door~
+Door 2 0 0 42058 30 30
+~
+door~
+End
+
+#42061
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 3
+Door 0 0 0 42064 30 30
+~
+door~
+Door 2 0 0 42059 30 30
+~
+door~
+Door 3 0 0 42111 30 30
+~
+door~
+End
+
+#42062
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  
+~
+Sector 2
+Door 1 0 0 42112 30 30
+~
+door~
+Door 2 0 0 42060 30 30
+~
+door~
+End
+
+#42064
+Name Open land~
+Descr
+You are in some open land nearby a small country lane.  The ground is
+soft and rich with life, abundant growth evidencing plenty of moisture.  Off
+a bit to the northwest you espy waht appears to be a large building.  
+~
+Sector 2
+Door 2 0 0 42061 30 30
+~
+door~
+Door 3 0 0 42112 30 30
+~
+door~
+End
+
+#42065
+Name Windy path~
+Descr
+Back amongst the piles of discarded trash and piled brush you find the
+path abruptly ends.  Perhaps another direction would have suited your
+progress better.  You can see the path back to the east.  
+~
+Sector 2
+Door 1 0 0 42014 30 30
+~
+door~
+End
+
+#42066
+Name Hilltop~
+Descr
+Traversing the top of this long hill, you peer off into the distance.  A
+gentle haze lays over the land, and life seems so much simpler from this
+vantage point.  
+~
+Sector 2
+Door 2 0 0 42016 30 30
+~
+door~
+End
+
+#42067
+Name Green Valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Door 2 0 0 42020 30 30
+~
+door~
+End
+
+#42068
+Name Green valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Sector 2
+Door 2 0 0 42071 30 30
+~
+door~
+Door 3 0 0 42020 30 30
+~
+door~
+End
+
+#42069
+Name Green valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Sector 2
+Door 1 0 0 42020 30 30
+~
+door~
+Door 2 0 0 42070 30 30
+~
+door~
+End
+
+#42070
+Name Green Valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Door 0 0 0 42069 30 30
+~
+door~
+Door 1 0 0 42019 30 30
+~
+door~
+Door 2 0 0 42072 30 30
+~
+door~
+End
+
+#42071
+Name Green valley~
+Descr
+A lush valley, full with life, expands to the north and south.  The
+titter of birds, and rustle of leaves in the trees contribute to the
+peacefulness of the area.  
+~
+Door 0 0 0 42068 30 30
+~
+door~
+Door 2 0 0 42073 30 30
+~
+door~
+Door 3 0 0 42019 30 30
+~
+door~
+End
+
+#42072
+Name Gentle valley~
+Descr
+This pleasant valley, tucked in between the ridges of larger hills in the
+area, is a veritable haven against the rigors of everyday life.  What a
+place to take a breather. 
+~
+Reset M 42002 30 20
+Reset O 42005 12 20
+Door 0 0 0 42070 30 30
+~
+door~
+Door 1 0 0 42018 30 30
+~
+door~
+Door 2 0 0 42075 30 30
+~
+door~
+End
+
+#42073
+Name Gentle valley~
+Descr
+This pleasant valley, tucked in between the ridges of larger hills in the
+area, is a veritable haven against the rigors of everyday life.  What a
+place to take a breather. 
+~
+Door 0 0 0 42071 30 30
+~
+door~
+Door 2 0 0 42076 30 30
+~
+door~
+Door 3 0 0 42018 30 30
+~
+door~
+End
+
+#42074
+Name Gentle valley.~
+Descr
+This pleasant valley, tucked in between the ridges of larger hills in the
+area, is a veritable haven against the rigors of everyday life.  What a
+place to take a breather. 
+~
+Door 0 0 0 42018 30 30
+~
+door~
+Door 1 0 0 42076 30 30
+~
+door~
+Door 3 0 0 42075 30 30
+~
+door~
+End
+
+#42075
+Name Gentle valley~
+Descr
+This pleasant valley, tucked in between the ridges of larger hills in the
+area, is a veritable haven against the rigors of everyday life.  What a
+place to take a breather. 
+~
+Door 0 0 0 42072 30 30
+~
+door~
+Door 1 0 0 42074 30 30
+~
+door~
+End
+
+#42076
+Name Gentle valley~
+Descr
+This pleasant valley, tucked in between the ridges of larger hills in the
+area, is a veritable haven against the rigors of everyday life.  What a
+place to take a breather. 
+~
+Door 0 0 0 42073 30 30
+~
+door~
+Door 3 0 0 42074 30 30
+~
+door~
+End
+
+#42078
+Name Uneven corridor~
+Descr
+This uneven corridor looks to be almost an afterthought, tacked on at a
+later date, to connect an existing room with something else.  The walls are
+in no waywell formed, and the floor is considerable out of kilter.  
+~
+Flags 7
+Sector 0
+Door 0 0 0 42030 30 30
+~
+door~
+Door 5 0 0 22402 0 0
+~
+~
+End
+
+#42081
+Name Musty Passage~
+Descr
+The low ceiling and narrow walls force a turn at this juncture.  You can
+detect no particular pattern to the stonework making the walls, and the
+floor seems to be all of one piece, hard as that is to imagine.  Why did
+they send a passage in this direction, you wonder.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 42038 30 30
+~
+door~
+End
+
+#42101
+Name Tree lined road~
+Descr
+This broad avenue was once very pretty, you are sure, considering the
+stately trees lining the path, and the broad expanse given to the main
+causeway.  The current state of neglect is slightly sad, as fallen branches
+and gaping holes mar its once fine appearance.  
+~
+Shd 1
+Reset M 42013 3 25
+Door 0 0 0 42102 30 30
+~
+door~
+Door 1 0 0 42053 30 30
+~
+door~
+Door 2 0 0 42046 30 30
+~
+door~
+Door 3 0 0 42052 30 30
+~
+door~
+End
+
+#42102
+Name Tree lined road~
+Descr
+This broad avenue courses its way from north to south, with tall trees
+gracing it's east and west sides.  To the west is a break in the trees, and
+a small clearing can be glimpsed.  The chirp of scavenging birds enhances
+the atmosphere of this pleasant area.  
+~
+Shd 1
+Door 0 0 0 42104 30 30
+~
+door~
+Door 1 0 0 42055 30 30
+~
+door~
+Door 2 0 0 42101 30 30
+~
+door~
+Door 3 0 0 42103 30 30
+~
+door~
+End
+
+#42103
+Name Shady spot beside a road~
+Descr
+This pleasant little spot looks perfect for a brief respite from the
+hectic day to day life of an adventurer.  A large shade tree and plush grass
+make for a good resting spot.  Over on one side is an ancient statue,
+covered with the gifts of passing birds.  
+~
+Shd 1
+Reset M 42014 1 100
+Reset O 42009 -1 14
+Reset O 42010 5 6
+Door 1 0 0 42102 30 30
+~
+door~
+End
+
+#42104
+Name Tree lined road~
+Descr
+This broad avenue running north and south is banded by tall trees to
+either side.  Carefully navigating your way past fallen branches and the
+occasional hole, you imagine how it must have once looked.  
+~
+Shd 1
+Reset M 42013 3 25
+Door 0 0 0 42105 30 30
+~
+door~
+Door 1 0 0 42057 30 30
+~
+door~
+Door 2 0 0 42102 30 30
+~
+door~
+Door 3 0 0 42054 30 30
+~
+door~
+End
+
+#42105
+Name Tree lined road with gate~
+Descr
+This broad avenue was once barred to the north by an immense gate,
+however that gate now lies on its side, it's ancient hinges torn asunder. 
+Something large must have been upset with it.  To the east and west you see
+the remains of a crumbling wall, and the road conitnues norht and south.  
+~
+Shd 1
+Door 0 0 0 42106 30 30
+~
+door~
+Door 1 0 0 42109 30 30
+~
+door~
+Door 2 0 0 42104 30 30
+~
+door~
+Door 3 0 0 42107 30 30
+~
+door~
+End
+
+#42106
+Name Overgrown lane~
+Descr
+This tree lined lane is covered in waist high grasses and small bushes. 
+It has been a long time since wheeled travel frequented this path.  The path
+continues north and south, and you can see an old gate lying on its side to
+the south a bit.  
+~
+Door 0 0 0 42111 30 30
+~
+door~
+Door 1 0 0 42059 30 30
+~
+door~
+Door 2 0 0 42105 30 30
+~
+door~
+Door 3 0 0 42058 30 30
+~
+door~
+End
+
+#42107
+Name Near crumbled wall~
+Descr
+The wall of stone to your north is showing some signs of age.  An
+occasional stone fallen off revealing gaps in the wall.  A small bird
+chirping nearby, and the rustle of a small animal in the nearby brush
+enhance the pleasantness of this spot.  
+~
+Sector 2
+Reset M 42013 3 25
+Door 0 0 0 42058 30 30
+~
+door~
+Door 1 0 0 42105 30 30
+~
+door~
+Door 2 0 0 42054 30 30
+~
+door~
+Door 3 0 0 42108 30 30
+~
+door~
+End
+
+#42108
+Name Near crumbled wall~
+Descr
+The wall of stone to your north is showing some signs of age.  An
+occasional stone fallen off revealing gaps in the wall.  You may make your
+way west back along this once sturdy wall.  
+~
+Door 1 0 0 42107 30 30
+~
+door~
+End
+
+#42109
+Name Near crumbled wall~
+Descr
+The wall of stone to your north is showing some signs of age.  An
+occasional stone fallen off revealing gaps in the wall.  
+~
+Door 0 0 0 42059 30 30
+~
+door~
+Door 1 0 0 42110 30 30
+~
+door~
+Door 2 0 0 42057 30 30
+~
+door~
+Door 3 0 0 42105 30 30
+~
+door~
+End
+
+#42110
+Name Small pile of stones.~
+Descr
+The wall has completely fallen here, and the stones that once were a part
+of it's structure lie piled randomly.  The forest closes in tight around
+you, and the howls of wild dogs greet your ears from time to time.  
+~
+Door 3 0 0 42109 30 30
+~
+door~
+End
+
+#42111
+Name Overgrown lane~
+Descr
+The lane is covered with nature run abundant, as you wonder how long it
+would take for a path such as this to fall into disuse.  The road continues
+to the north and south.  
+~
+Flags 2
+Door 0 0 0 42112 30 30
+~
+door~
+Door 1 0 0 42061 30 30
+~
+door~
+Door 2 0 0 42106 30 30
+~
+door~
+Door 3 0 0 42060 30 30
+~
+door~
+End
+
+#42112
+Name Before an abandoned building~
+Descr
+The lane ends here before an immense building, that could accuratley be
+called a mansion.  The huge porch with a gaping hole where the front doors
+used to be lies to the north.  On either side you see a bit of a clearing
+around the house, where a lush lawn no doubt once thrived, but now has given
+way to the forest.  To leave this dismal place, the road south beckons.  
+~
+Door 0 0 0 42113 30 30
+~
+door~
+Door 1 0 0 42064 30 30
+~
+door~
+Door 2 0 0 42111 30 30
+~
+door~
+Door 3 0 0 42062 30 30
+~
+door~
+End
+
+#42113
+Name Front porch~
+Descr
+This porch appears able to bear weight, as the floorboards look sound,
+withstanding the passage of time.  To the north, a gaping hole where the
+doors used to be allows egress to the mansion proper.  The porch continues
+to the east and west while moving south will take you away from this place. 
+~
+Door 0 0 0 42116 30 30
+~
+door~
+Door 1 0 0 42114 30 30
+~
+door~
+Door 2 0 0 42112 30 30
+~
+door~
+Door 3 0 0 42115 30 30
+~
+door~
+End
+
+#42114
+Name Damaged porch~
+Descr
+This end of the porch looks less sturdy, as the years of rain coming thru
+the hole in the porch roof has caused some major erosion and warpage.  To
+the east you could crawl down and get to the side of the house, and west
+lies a sturdier portion of this once fine veranda.  
+~
+Door 1 0 0 42117 30 30
+~
+door~
+Door 3 0 0 42113 30 30
+~
+door~
+End
+
+#42115
+Name Front porch~
+Descr
+The porch simply is, in that most taoist of ways.  Nothing more, nothing
+less.  There is little to cause you to linger here, as the only visible exit
+is back to the east, and that gaping hole awaiting there.  
+~
+Door 1 0 0 42113 30 30
+~
+door~
+End
+
+#42116
+Name Main entrance~
+Descr
+A dark staircase looms directly in front of you, leading up into the
+murky reaches.  This room was once a grand entrance hall, now the winds and
+rains have reduced it to a simple <place>.  To the west, once splendid oak
+doors hang splintered to pieces, giving you a glimpse into the room beyond. 
+The archway to the right is marred with huge black streaks, and the frame is
+buckled.  
+~
+Flags 1
+Sector 0
+Reset M 42010 8 75
+Reset M 42010 8 75
+Reset M 42010 8 75
+Reset M 42010 8 75
+Door 0 0 0 42119 30 30
+~
+door~
+Door 1 0 0 42121 30 30
+~
+door~
+Door 2 0 0 42113 30 30
+~
+door~
+Door 3 0 0 42120 30 30
+~
+door~
+Door 4 0 0 42118 30 30
+~
+door~
+End
+
+#42117
+Name Side of mansion~
+Descr
+From here you can see that the mansion is not only large on the front
+side, but is large on the side view as well, many secrets no doubt are
+awaiting the adventurous soul within.  However, there is still that nagging
+worry about what tore down the gate, and blasted through the doors.  Ah, but
+that was long ago no doubt, it probably is not still around.  
+~
+Door 3 0 0 42114 30 30
+~
+door~
+End
+
+#42118
+Name Top of stairs~
+Descr
+The top of the staircase allows passage onto a hallway leading north to
+south, from the front of the house to the back.  A short section of railing
+has fallen here, or perhaps was broken by design.  
+~
+Flags 3
+Sector 0
+Door 0 0 0 42122 30 30
+~
+door~
+Door 2 0 0 42123 30 30
+~
+door~
+Door 5 0 0 42116 30 30
+~
+door~
+End
+
+#42119
+Name Main floor~
+Descr
+The main hall extends from the front of the house to the kitchens.  A
+gentle breeze wafting through causes the swinging doors leading to the back
+to swing to and fro, releasing an unearthly screech.  Above you the hall is
+open and you can see a railing far above, and the staircase leading back
+down to the area lying just to the south of you.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42134 30 30
+~
+door~
+Door 2 0 0 42116 30 30
+~
+door~
+End
+
+#42120
+Name Sitting room~
+Descr
+A large fireplace against one wall, and the tattered remains of various
+couches and chairs, along with faded thick draperies are but faint memories
+of the pleasant sitting room this would have been in the past.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 42116 30 30
+~
+door~
+End
+
+#42121
+Name Dining hall~
+Descr
+A remnant of crockery lies crushed at your feet, as you survey the
+destroyed remains of a master dining hall.  Splintered chairs, torn apart
+tables, and piles of discolored silver are strewn about the room, as if a
+small tornado ripped through the area.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 42116 30 30
+~
+door~
+End
+
+#42122
+Name Upper hallway~
+Descr
+This upper hallway extends from north to south, and various pieces of
+what you assume is art line the walls.  The sheer ostentation of such a
+hallway excites the adventurer in you, as if only ye might find some of the
+treasure unharmed, your fortune might truly be made.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42127 30 30
+~
+door~
+Door 2 0 0 42118 30 30
+~
+door~
+End
+
+#42123
+Name Upper hallway~
+Descr
+This long hall is lined with portraits, and paved with once fine plush
+carpet.  The portraits are of simple appearing folk, stately yet
+unpretentious...  But no doubt dead by now...  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42118 30 30
+~
+door~
+Door 2 0 0 42124 30 30
+~
+door~
+End
+
+#42124
+Name Upper hallway~
+Descr
+The southern end of this hallway presents you with two doors, one to the
+east, one to the west, peeking through the familiar smashed remains, you
+appear to have located some bedrooms.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42123 30 30
+~
+door~
+Door 1 0 0 42126 30 30
+~
+door~
+Door 3 0 0 42125 30 30
+~
+door~
+End
+
+#42125
+Name Bedroom~
+Descr
+Though this was once a smaller bedroom, all furnishings, furniture and
+decorations that once defined this place have been ripped to shreds, and
+placed in one huge pile in the center of the room.  The pile almost appears
+alive, as your light glances off it's various facets.  
+~
+Flags 5
+Sector 0
+Reset M 42007 6 80
+Reset M 42009 2 75
+Reset O 42007 -1 40
+Door 1 0 0 42124 30 30
+~
+door~
+End
+
+#42126
+Name Bedroom~
+Descr
+It is with relief that you see the common furnishing prevalent in most
+bedrooms.  There is a canopied bed along one wall, a vanity table and mirror
+in another corner, and a comfortable reading chair to one side.  Then you
+notice the ancient skeleton.  Crucified to the ceiling.  
+~
+Flags 5
+Sector 0
+Reset M 42007 6 80
+Reset M 42009 2 75
+Reset O 42007 -1 40
+Door 3 0 0 42124 30 30
+~
+door~
+End
+
+#42127
+Name Upper hall~
+Descr
+The long hallway continues, slashed paintings lining the west wall.  A
+narrow staircase along the east wall allows passage to the next floor of the
+huge home.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42129 30 30
+~
+door~
+Door 2 0 0 42122 30 30
+~
+door~
+Door 4 0 0 42128 30 30
+~
+door~
+End
+
+#42128
+Name Attic~
+Descr
+The cramped ceiling indicates you have reached the top floor of this
+doomed mansion.  The smashed cots indicate that some poor souls were forced
+to sleep way up here, nevering being able to fully stand in their own
+domain.  A gaping huge hole in the roof just to the south of you allows a
+view of the outside, while at the same time allowing the elements to hazard
+the rooms contents.  
+~
+Flags 5
+Sector 0
+Reset M 42011 5 75
+Reset M 42011 5 75
+Reset M 42011 5 75
+Reset M 42011 5 100
+Reset O 42007 -5 50
+Door 5 0 0 42127 30 30
+~
+door~
+End
+
+#42129
+Name Upper hallway~
+Descr
+The upper hallway ends here, a smashed door to the west bars your passage
+in that direction.  A tattered tapestry lies askew on the north wall, and a
+small headless statue lies at your feet.  The hallway travels to the south,
+returning to the main portion of the building.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 42127 30 30
+~
+door~
+Door 3 0 0 42130 30 30
+~
+door~
+End
+
+#42130
+Name Master bedroom~
+Descr
+The gold is tarnished, yet the finery evident on the bedstead here, along
+with the size of the room, indicates that this was once the master bedroom. 
+A finely wrought chest of drawers lines one wall, and the shredded remains
+of the ancient bedcoverings are hung from the chandelier above.  
+~
+Flags 5
+Sector 0
+Reset M 42007 6 50
+Reset M 42007 6 100
+Door 1 0 0 42129 30 30
+~
+door~
+Door 3 1 0 42131 30 30
+~
+door~
+End
+
+#42131
+Name Servant's room~
+Descr
+This small servants room is completely empty.  No bed, no furniture at
+all.  Nothing.  How odd.  A small door to the south seems undisturbed, and
+you can see a large bedroom through the door to the east.  
+~
+Flags 5
+Sector 0
+Reset M 42007 6 75
+Door 1 1 0 42130 30 30
+~
+door~
+Door 2 0 0 42133 30 30
+~
+door~
+End
+
+#42133
+Name Closet~
+Descr
+This closet was surely once the wardrobe for the fine master and mistress
+of the house.  Shelf upon shelf and rack upon rack of decayed textiles again
+give evidence of the opulence once taken so for granted here.  To the north
+you can return to the servant's room.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42131 30 30
+~
+door~
+End
+
+#42134
+Name Kitchen~
+Descr
+The size of this kitchen lends indication to the grandiosity of the
+household that once dwelled hear.  From the number of stoves you imagine
+quite a large following could be fed at one time.  The fireplaces are cold,
+and the pots have not see a food item in many a year.  The kitchen continues
+to the north, and small doors lie to either side.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 42135 30 30
+~
+door~
+Door 1 0 0 42136 30 30
+~
+door~
+Door 2 0 0 42119 30 30
+~
+door~
+Door 3 0 0 42137 30 30
+~
+door~
+End
+
+#42135
+Name Back Kitchen~
+Descr
+The huge tubs lying cracked on the ground, and overturned shelves show
+that the violence that visited the rest of the house, made a pass through
+these joyless confines.  A small door leading to the back lawn stands ajar,
+deep grooves dug into its surface.  
+~
+Flags 5
+Sector 0
+Reset M 42010 8 75
+Reset M 42010 8 75
+Reset M 42010 8 75
+Reset M 42010 8 75
+Door 0 0 0 42139 30 30
+~
+door~
+Door 2 0 0 42134 30 30
+~
+door~
+End
+
+#42136
+Name Cook's Quarters~
+Descr
+This simple room, with a small bed, chest of drawers, and plain table
+seems undisturbed and quite normal.  Then you spy the dark streaks running
+the length of the ceiling, and you recognize them as what they are: dried
+blood stains, as if some bloody mass was dragged across the ceiling, as a
+painter might drag a brush across a canvas.  
+~
+Flags 5
+Sector 0
+Reset M 42007 6 100
+Door 3 0 0 42134 30 30
+~
+door~
+End
+
+#42137
+Name Pantry~
+Descr
+This small room, no doubt a pantry in its heydey, lies bestrewn with
+ruin.  Tattered sacks and refuse from some wild animal make a mockery of the
+architect.  There is a trapdoor against the south wall, leading to a cellar
+of sorts most likely.  Funny, it is closed, and shows no sign of forced
+entry.  
+~
+Flags 5
+Sector 0
+Reset M 42008 4 100
+Reset O 42008 21 75
+Reset M 42008 4 100
+Reset O 42008 21 50
+Door 1 0 0 42134 30 30
+~
+door~
+Door 5 0 0 42138 30 30
+~
+door~
+End
+
+#42138
+Name Cellar~
+Descr
+Everything appears to be in order down, apart from the obvious effects of
+a long passage of time, suring which no one used this room.  The floor is
+remarkably clear and the line of casks appear unburst.  There is a LARGE
+sign here, that is probably important to read.  
+~
+Flags 6
+Sector 0
+ExtraDescr sign large important~
+*WARNING!  Great dangers lie below!  You have been warned!  * Bah! 
+
+Scared you, didn't I!  
+
+~
+Reset M 42012 1 100
+Reset O 42006 21 23
+Reset O 42007 -1 100
+Reset O 42007 -1 50
+Door 4 0 0 42137 30 30
+~
+door~
+End
+
+#42139
+Name Back of the Mansion~
+Descr
+The welcoming sight of the nearby trees is a pleasant respite from the
+gloom everpresent in the house to your south.  
+~
+Door 2 0 0 42135 30 30
+~
+door~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,7775 @@
+#AREADATA 
+Name The City of Xylar~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA new day has started in Xylar.
+~[0;37m
+SRepop 22
+SJail 1195
+SOutJail 1149
+SCZone 0
+Builders Orin Drake~
+VNUMs 1000 1200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#1001
+Name axl armorer storekeeper shop shopkeeper codeone~
+Short Axl~
+Long 
+Axl the armorer stands here, eager to help you purchase some armor.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 6291459
+ActBits4 8192
+Affect_By 8
+Money 50
+Level 50
+Sex 1
+MobType 0
+Shop    0   9   0   0   0 120 35 0 24
+Shopd2 7
+Shopd3 2
+RaceHate 134217728
+End
+
+#1002
+Name warren shop shopkeeper weaponsmith codeone~
+Short Warren the weaponsmith~
+Long 
+Warren the weaponsmith quickly turns towards you, eager to help.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 5242883
+ActBits4 8192
+Affect_By 8
+Money 60
+Level 60
+Sex 1
+MobType 0
+Shop    0   5   0   0   0 115 30 0 24
+Shopd2 11
+Shopd3 3
+RaceHate 134217728
+End
+
+#1003
+Name bob baker shop shopkeeper storekeeper~
+Short Bob the baker~
+Long 
+Bob, the baker of Xylar, attempts to ply his trade in the ruined city.
+~
+Descr
+Bob is your typical baker; jolly and fat.  He looks like he could sit on
+you if he got mad.  He keeps his store immaculately clean, and he goes about
+baking bread and other goodies with vigour.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 8
+Money 60
+Level 60
+Sex 1
+MobType 0
+Spec spec_warrior
+Shop    0   0   0   0   0 110 50 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 37
+ShopCS Bob the baker has finished baking a loaf of bread!~
+RaceHate 134217728
+End
+
+#1004
+Name puk provisioner shop storekeeper shopkeeper man~
+Short Puk the provisioner~
+Long 
+Puk the provisioner stands here, ready to sell you travel goods.
+~
+Descr
+Puck looks like he was an established adventurer before he gave up his
+life of action for a peaceful (and more profitable) profession.  His bulging
+muscles are now used solely for stacking dry goods and handing out
+provisions.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 8
+Money 55
+Level 55
+Sex 1
+MobType 0
+Shop    0   0   0   0   0 150 15 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 1004
+RaceHate 134217728
+End
+
+#1005
+Name priest xylar sabina head lady teacher~
+Short Sabina, Priest of Xylar~
+Long 
+[Teacher] Sabina, the head priestess of Xylar, meditates here.
+~
+Descr
+You look upon a gorgeous woman who has dedicated her life to serve the
+magicks of Xylar, and to keep up the temple's beauty.  She seems to be lost
+in a deep meditative trance, and you feel you shouldn't disturb her.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 8
+Alignment 540
+Money 60
+Level 60
+Sex 2
+MobType 0
+RaceHate 134217728
+ASklTaught 0 25
+ASklTaught 1 42
+ASklTaught 2 60
+ASklTaught 3 82
+End
+
+#1006
+Name kharmah store shopkeeper codeone~
+Short Kharmah~
+Long 
+Kharmah, dealer of wonderous and magical items, stands here ready to help.
+~
+Descr
+Kharmah has wandered all corners of the earth to bring his customers the
+best of magical items.  Although he does not offer some of the most powerful
+magical items, he has a large stock of many more common potions and wands.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 4194307
+ActBits4 8192
+Affect_By 40
+Money 60
+Level 60
+Sex 1
+MobType 0
+Shop    0  10   2   3   4 125 42 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 1013
+ShopCS Kharmah has finished mixing a potion of invisibility!~
+ShCrh 2
+RaceHate 134217728
+End
+
+#1007
+Name zhakar treasuresmith shop shopkeeper man store storekeeper~
+Short Zhakar~
+Long 
+Zhakar stands here, sobbing over the loss of his shop.
+~
+Descr
+Zhakar looks like he has lived an easy life.  Perhaps his whole family
+was born with money...  Or perhaps the gem and jewelry business is more
+profitable than you thought.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 8
+Money 60
+Level 60
+Sex 1
+MobType 0
+Shop    0   8   0   0   0 100 100 1 96
+Shopd2 5
+Shopd3 4
+ShopCr 77
+ShCrh 60
+RaceHate 134217728
+End
+
+#1008
+Name chuck warrior trainer prac teacher~
+Short Chuck~
+Long 
+[Teacher] Chuck, the warrior-trainer of Xylar, attempts to rebuild his arena.
+~
+Descr
+Chuck looks like he knows a lot about swordplay and fighting.
+He looks eager to share his knowledge with any that possess
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 259
+ActBits4 8192
+Money 60
+Level 60
+Sex 1
+MobType 0
+RaceHate 134217728
+ASklTaught 0 575
+ASklTaught 1 573
+ASklTaught 2 574
+ASklTaught 3 30
+ASklTaught 4 24
+ASklTaught 5 551
+ASklTaught 6 555
+ASklTaught 7 565
+ASklTaught 8 566
+ASklTaught 9 568
+ASklTaught 10 586
+End
+
+#1009
+Name annabette prac teacher~
+Short Annabette~
+Long 
+[Teacher] Annabette, an esteemed practitioner of Xylar, stands here ready to help.
+~
+Descr
+Annabette's knowledge has obviously been gained through hard work and
+dedication.  Her face is pretty, yet twisted with an odd pained expression. 
+Her kind smile tells you of her total dedication to teaching and passing on
+the skills she knows.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 259
+ActBits4 8192
+Affect_By 40
+Money 60
+Level 60
+Sex 2
+MobType 0
+RaceHate 134217728
+ASklTaught 0 90
+ASklTaught 1 78
+ASklTaught 2 85
+ASklTaught 3 97
+ASklTaught 4 19
+ASklTaught 5 195
+ASklTaught 6 137
+ASklTaught 7 22
+End
+
+#1010
+Name Xhan bank teller man codeone~
+Short Xhan~
+Long 
+Xhan the bank teller stands here, eager to take your money.
+~
+Descr
+He has given up the life of adventure for the more profitable life of
+bank-telling.  He looks pretty trustworthy, and you feel safe knowing that
+the royal bank of Xylar has been around for over 300 years.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 4325379
+ActBits4 8192
+Money 60
+Level 60
+Sex 1
+MobType 0
+RaceHate 134217728
+End
+
+#1011
+Name huge giant guard prtct~
+Short a giant guard~
+Long 
+A huge giant stands here, guarding against anybody who would cheat Xhan.
+~
+Descr
+This large giant looks friendly, yet incredibly powerful and experienced.
+Xhan hires good body guards.  
+~
+AMax 2
+NHeight 0
+ActBits 8388611
+Affect_By 40
+Alignment 120
+Money 50
+Level 50
+Sex 1
+MobType 4
+ArmorClass 25
+End
+
+#1012
+Name horse travel large~
+Short a large horse~
+Long 
+A large horse stands here, waiting patiently in place.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 8195
+Alignment 10
+Money 20
+Level 20
+Sex 1
+MobType 18
+End
+
+#1013
+Name hanna~
+Short Hanna~
+Long 
+Hanna, rumoured to be the daughter of the godess of love, stands here.
+~
+Descr
+You are immediately blinded by Hanna's intense glow of love and power. 
+She looks a little sad, though, as she thinks about how stupid she was to
+pass up a date with Owen.  She now stands here, selling drinks and food to
+weary adventurers, giving them new hope and youth as they look upon her
+flawless beauty.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 168
+Alignment 1000
+Money 50
+Level 50
+Sex 2
+MobType 0
+Shop    0   0   0   0   0 100 40 0 24
+Shopd2 5
+Shopd3 4
+RaceHate 134217728
+ArmorClass -800
+End
+
+#1014
+Name Jonny ranger~
+Short Jonny~
+Long 
+Jonny the ranger stands here, helping Anna rebuild.
+~
+Descr
+This battle-hardened man is taking a breather and quaffing a brew.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 25
+Money 26
+Level 26
+Sex 1
+MobType 0
+End
+
+#1015
+Name chicken small~
+Short a chicken~
+Long 
+A chicken is here, pecking around for seeds.
+~
+Descr
+It's a chicken..  What can I say...  You haven't seen a chicken before?  
+~
+AMax 3
+NHeight 0
+ActBits 3
+Money 2
+Level 2
+MobType 13
+ArmorClass 95
+End
+
+#1016
+Name fat cow~
+Short a FAT cow~
+Long 
+A FAT cow stands here, staring blankly off into space.
+~
+Descr
+You never seen a cow before or something?  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 4
+Level 101
+Sex 2
+MobType 18
+Hp 30010
+ArmorClass 85
+End
+
+#1017
+Name beautiful woman citizen prtct codeone~
+Short a beautiful woman~
+Long 
+A beautiful woman sits here, having a picnic on the grass.
+~
+Descr
+This beautiful woman looks like she is a citizen on Xylar.  She is
+obviously enjoying the Xylarian park as she munches happily on her food.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+Alignment 85
+Money 9
+Level 9
+Sex 2
+MobType 0
+RaceHate 134217728
+ArmorClass 65
+End
+
+#1018
+Name man citizen prtct~
+Short a Xylarian citizen~
+Long 
+A man is here, having a picnic with his girlfriend.
+~
+Descr
+This guy looks like he wants to be tough.  All you see is a wimpy
+Xylarian citizen trying to act impressive around his girlfriend.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 8912899
+Alignment 20
+Money 7
+Level 7
+Sex 1
+MobType 0
+RaceHate 134217728
+End
+
+#1019
+Name dog small~
+Short a small dog~
+Long 
+A small, homeless dog wanders around here, looking for scraps of food.
+~
+Descr
+You see a small, sad-looking dog.  Perhaps you should put it out of its
+misery.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 2
+Level 2
+MobType 6
+Guard 0
+ArmorClass 97
+End
+
+#1020
+Name mage wizard rathern prac teacher~
+Short Rathern~
+Long 
+[Teacher] Rathern, the ancient wizard, sits here studying some books.
+~
+Descr
+Rathern looks old, yet extremely knowledgable and powerful.  There is an
+odd glow about his skin that tells you it would not tear as easily as its
+apparent frailty would have you beleive.  Legends say that Rathern is well
+over two hundred years old.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Alignment -220
+Money 60
+Level 60
+Sex 1
+MobType 0
+RaceHate 134217728
+ArmorClass -440
+ASklTaught 0 52
+ASklTaught 1 51
+ASklTaught 2 69
+ASklTaught 3 21
+ASklTaught 4 26
+End
+
+#1021
+Name ghost spirit haunt~
+Short a ghost~
+Long 
+There is a glimmering outline of a humanoid creature floating here.
+~
+Descr
+You see a glimmering outline of a human that died long ago. 
+Unfortunately the spirit looks quite angry.  
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 589834
+Alignment -120
+Money 14
+Level 14
+MobType 21
+ArmorClass 95
+End
+
+#1022
+Name rat huge~
+Short a huge rat~
+Long 
+A huge rat crawls across the floor here, squeaking maliciously.
+~
+Descr
+What an ugly rodent!  Its large pink tail and grotesque teeth make you
+want to vomit.  
+~
+AMax 3
+NHeight 0
+ActBits 11
+Alignment -10
+Money 5
+Level 5
+MobType 7
+ArmorClass 70
+End
+
+#1023
+Name skeleton large~
+Short a large animated skeleton~
+Long 
+A large animated skeleton stands here, looking you over.
+~
+Descr
+This skeleton doesn't seem to care about your dramatic entrance.  There
+is an odd glow about his bones that tells you he is a tough opponent.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment -50
+Money 26
+Level 26
+MobType 9
+ArmorClass 55
+End
+
+#1024
+Name shady thief male~
+Short a young thief~
+Long 
+A young looking, shady male is here, observing your equipment and coins.
+~
+Descr
+If you didn't know better, you would think this young man was about to
+steal something from you.  Hmm..  Perhaps you do know better.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment -45
+Money 9
+Level 9
+Sex 1
+MobType 0
+Spec spec_thief
+End
+
+#1025
+Name tall bodyguard guard aone~
+Short a tall bodyguard~
+Long 
+A tall bodyguard stands here, guarding his master.
+~
+Descr
+This bodyguard looks like he has gone through many months of training.  
+~
+AMax 2
+NHeight 0
+ActBits 4194307
+Affect_By 8
+Alignment -45
+Money 24
+Level 24
+Sex 1
+MobType 0
+End
+
+#1026
+Name sylvia beautiful dark woman thief chief prtct~
+Short Sylvia~
+Long 
+A beautiful yet deadly looking woman stands here, commanding her guards.
+~
+Descr
+Your attention is immediately drawn to her ample yet well-formed breasts.
+Her smile is warm and inviting, yet her face seems to hide a certain
+perverted evil.  Her commanding voice seems to indicate she has incredible
+authority.  
+~
+AMax 1
+NHeight 0
+ActBits 134742019
+Affect_By 40
+Alignment -85
+Money 32
+Level 32
+Sex 2
+MobType 0
+End
+
+#1027
+Name city guard cityguard prtct large~
+Short a Xylarian city guard~
+Long 
+A once-powerful Xylarian guard stands here in disgrace.
+~
+Descr
+His head is raised and there is a gleam of false pride in his eyes.  You
+can tell he has been through a rigorous training program from the size of
+his enormous muscles.  
+~
+AMax 3
+NHeight 0
+ActBits 8912899
+Affect_By 8
+Alignment 120
+Money 24
+Level 24
+Sex 1
+MobType 0
+End
+
+#1028
+Name elite gate sentry codeone huge~
+Short an elite gate sentry~
+Long 
+An elite gate sentry stands here, guarding the gate.
+~
+Descr
+You see a massive, middle-aged man who has dedicated his life to protect
+the magnificent city of Xylar.  His enormous muscles and quick eye motions
+tell you that he is an incredible fighter.  
+The sentry wears a pin: East gate sentry, 14 years.
+~
+AMax 5
+NHeight 0
+ActBits 4194307
+ActBits3 4096
+Affect_By 552
+Alignment 240
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 3
+RaceHate 134217728
+End
+
+#1029
+Name thom prtct man teacher~
+Short Thom~
+Long 
+|Teacher| Thom is here teaching a young thief the ways of the dagger.
+~
+Descr
+Thom looks like he has come out of his dark days of thievery and
+sneakery.  He now teaches his arts to any who are able to learn them.  
+~
+AMax 1
+NHeight 0
+ActBits 524547
+ActBits4 8192
+Affect_By 32
+Alignment -80
+Money 60
+Level 60
+Sex 1
+MobType 0
+RaceHate 134217728
+ASklTaught 0 572
+ASklTaught 1 557
+ASklTaught 2 576
+ASklTaught 3 583
+End
+
+#1030
+Name guard bodyguard large giant codeone~
+Short a giant bodyguard~
+Long 
+A giant guard stands here, protecting Thom from the evil.
+~
+Descr
+You see a shorter member of the giant race.  However, this giant looks
+experienced in deadly, and you do not doubt that Thom chooses his bodyguard
+wisely.  
+~
+AMax 1
+NHeight 0
+ActBits 4194307
+Affect_By 552
+Money 50
+Level 50
+Sex 1
+MobType 4
+RaceHate 134217728
+ArmorClass -5
+End
+
+#1031
+Name none~
+Short none~
+Long 
+None
+~
+Descr
+This gateguard looks like he is still completing his guard training.  His
+shifty eyes and nervous stance makes him look a bit insecure.  His bulging
+muscles suggest otherwise, though.  
+~
+AMax 0
+NHeight 0
+ActBits 1
+Alignment 85
+Level 0
+Sex 1
+MobType 0
+End
+
+#1032
+Name large sentry prtct~
+Short a western-gate sentry~
+Long 
+The huge Xylarian sentry of the western gate is here.
+~
+Descr
+Although his muscles are not huge, there is a spark in his eye which
+suggests he knows how to defend himself.  
+~
+AMax 5
+NHeight 0
+ActBits -1601699837
+ActBits3 20480
+ActBits4 8192
+Affect_By 552
+Alignment 135
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 1
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#1033
+Name guard~
+Short a Xylarian gategaurd~
+Long 
+An elite gateguard stands here, watching the gates.
+~
+Descr
+The northern gateguards, rumored to be the strongest and most experienced
+of all the Xylarian gateguards, are a key force in keeping evil out of the
+city.  This particular guard glances at you and smiles.  
+~
+AMax 1
+NHeight 0
+ActBits 4194307
+ActBits3 4096
+Affect_By 552
+Alignment 210
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 2
+RaceHate 134217728
+ArmorClass -15
+End
+
+#1034
+Name elite north gate sentry human~
+Short the northern gate sentry~
+Long 
+The legendary gateguard of the northen gate stands here guarding it.
+~
+Descr
+Rumored to be the most powerful of the sentry of Xylar, this tall man
+certainly upholds his image well.  His huge, bulging muscles bulge out from
+beneath the thin leather breastplate he wears.  
+~
+AMax 4
+NHeight 0
+ActBits 8912899
+ActBits3 4096
+Affect_By 552
+Alignment 330
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 1
+RaceHate 134217728
+End
+
+#1035
+Name citizen male man prtct businessman~
+Short a Xylarian citizen~
+Long 
+A Xylarian citizen stands here, still looking at the ruins.
+~
+Descr
+This citizen looks well-brought up.  He looks like he makes his money
+doing business, and from the looks of his fat belly, you would guess his
+business is going quite well.  
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 40
+Alignment 1000
+Money 8
+Level 8
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#1036
+Name wandering guard xylarian xylar~
+Short a Xylarian guard~
+Long 
+A large guard still watches Xylar, but protects only himself.
+~
+Descr
+This guard's duty is to wander around, looking for citizens in trouble. 
+If you are causing citizens any trouble, you better stay away from this hunk
+of meat.  
+~
+AMax 3
+AYeller 1
+AWillhelp 3
+NHeight 0
+ActBits 4194321
+Alignment 300
+Money 40
+Level 40
+Sex 1
+MobType 0
+RaceHate 134217728
+End
+
+#1037
+Name small boy prtct~
+Short a small boy~
+Long 
+A small, soot-covered boy stands here, screaming for his mother.
+~
+Descr
+You see a boy who must be a young citizen of Xylar.  He cannot be older
+than 10 judging by his appearance.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Alignment 100
+Money 4
+Level 4
+Sex 1
+MobType 0
+ArmorClass 80
+End
+
+#1038
+Name customer citizen woman codeone~
+Short a citizen of Xylar~
+Long 
+A citizen of Xylar stands here, looking around the store.
+~
+Descr
+This citizen looks like she is having a tough time deciding what to buy.  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 7
+Level 7
+Sex 2
+MobType 0
+End
+
+#1039
+Name guard royal prtct~
+Short a royal Xylarian guard~
+Long 
+A royal guard stands here, protecting the shopkeeper.
+~
+Descr
+This huge guard looks like he successfully discourages people from
+causing trouble in the store.  
+~
+AMax 3
+NHeight 0
+ActBits 8912899
+Alignment 150
+Money 50
+Level 50
+Sex 1
+MobType 0
+ArmorClass -90
+End
+
+#1040
+Name large lion gladiator~
+Short a large lion~
+Long 
+A large lion pads around here, looking for its next meal.
+~
+Descr
+This massive lion looks like he has fought many battles in the arena and
+won.  His scarred body and fierce growl tell you he is not a friendly little
+bugger.  
+~
+AMax 2
+NHeight 0
+ActBits 9
+Money 13
+Level 13
+Sex 1
+MobType 16
+ArmorClass 40
+End
+
+#1041
+Name gladiator beginner clumsy scrawny~
+Short a scrawny gladiator~
+Long 
+A gladiator stands here looking clumsy.  He is obviously a beginner.
+~
+Descr
+This gladiator looks like he won't last long in the arena.
+~
+AMax 2
+NHeight 0
+ActBits 33
+Money 8
+Level 8
+Sex 1
+MobType 0
+End
+
+#1042
+Name large guard arena~
+Short a large arena guard~
+Long 
+A large arena guard stands here, blocking the gladiators' only route of escape.
+~
+Descr
+This incredibly muscular arena guard's sole duty is to prevent gladiators
+from escaping into the city of Xylar.  
+~
+AMax 1
+NHeight 0
+ActBits 16777219
+Affect_By 8
+Money 42
+Level 42
+Sex 1
+MobType 0
+Spec spec_warrior
+ArmorClass -15
+End
+
+#1043
+Name large gladiator~
+Short a large gladiator~
+Long 
+A large gladiator is here, shadow-fighting to hone his skills.
+~
+Descr
+This large gladiator looks like he has survived quite a few arena
+battles.  His scarred face speaks of untold horrors and sorrows, and he
+casually practices his skills here for the next fight.  
+~
+AMax 10
+NHeight 0
+ActBits 1
+Affect_By 131073
+Money 17
+Level 101
+Sex 1
+MobType 27
+Hp 30010
+ArmorClass 10
+End
+
+#1044
+Name old hardened woman lady prtct~
+Short a hardened, old lady~
+Long 
+An old, hardened woman stands here, roaming the desolate streets.
+~
+Descr
+This woman looks like she has seen better days.  Her skin is wrinkled and
+she looks quite old, but there is a spark in her eyes that speaks of
+endurance and multiple hardships.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 25
+Money 7
+Level 7
+Sex 2
+MobType 0
+End
+
+#1045
+Name large woman pimp freeda prtct~
+Short Freeda~
+Long 
+Freeda, the plump owner of the whorehouse, stands here.
+~
+Descr
+Freeda is an enormous woman who owns the whore house.  She looks like she
+fends for herself quite well.  She would defend her whores with her life. 
+Too bad the whores do not share the same affection for Freeda.  
+~
+AMax 1
+NHeight 0
+ActBits 8388611
+Money 26
+Level 26
+Sex 2
+MobType 0
+ArmorClass 15
+End
+
+#1046
+Name whore slut codeone~
+Short a scantly-clad slut~
+Long 
+A scantly-clad, skanky looking slut stands here.
+~
+Descr
+This woman looks like she could have been beautiful, but the tests and
+burdens of her job have hardened her.  Her pink, nearly-exposed fleshy
+breasts and tight butt wiggle slightly as she winks and shows off for you.  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment -25
+Money 13
+Level 13
+Sex 2
+MobType 0
+End
+
+#1047
+Name resting gladiator~
+Short a gladiator~
+Long 
+A gladiator is here, resting up for his next fight.
+~
+Descr
+Large, bulging muscles can be seen all over his body, but he looks quite
+fatigued.  Perhaps from his last arena battle...  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 10
+Level 10
+Sex 1
+MobType 0
+End
+
+#1048
+Name kmar gladiator champion~
+Short Kmar~
+Long 
+Kmar, the current gladiator champion, sits here resting for his next fight.
+~
+Descr
+Kmar looks like he has won most of his fights from the few number of
+scars you can see on his tan body.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment 35
+Money 34
+Level 101
+Sex 1
+MobType 0
+Hp 30010
+ArmorClass -10
+End
+
+#1049
+Name dragon green~
+Short a green-scaled dragon~
+Long 
+A massive, green-scaled dragon is here, looking hungry and quite mad.
+~
+Descr
+You see a large green dragon (actually quite small for dragon size).  He
+doesn't look too friendly...  Better not pet him.  
+~
+AMax 1
+NHeight 0
+ActBits 536870923
+Affect_By 524296
+Alignment -220
+Money 180
+Level 180
+Sex 1
+MobType 5
+ArmorClass -155
+End
+
+#1050
+Name girl little citizen prtct~
+Short a little girl~
+Long 
+A little girl wanders around here, crying for her lost home.
+~
+Descr
+This cute little girl can't be over the age of 10...  She is so cute and
+pudgy you just wanna grab her cheeks and pinch them.  
+~
+AMax 2
+NHeight 0
+ActBits 33
+Alignment 100
+Money 5
+Level 5
+Sex 2
+MobType 0
+End
+
+#1051
+Name trainer gladiator~
+Short the gladiators' trainer~
+Long 
+The gladiators' trainer in residence stands here.
+~
+Descr
+The huge, broad-shouldered trainer of the gladiators in residence looks
+like a powerful adversary.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 131072
+Money 26
+Level 101
+Sex 1
+MobType 0
+Hp 30010
+ArmorClass 5
+End
+
+#1052
+Name grill man portable barbeque shop store prtct~
+Short barbeque man~
+Long 
+A large man with a portable grill is here, selling delicious meats.
+~
+Descr
+This large man wanders the town making a living by selling his delicious
+meats to the hungry workers and inhabitants of Xylar.  He has a gleam in his
+eye that seems to speak of untold adventure, experience, and power.  
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 1
+Affect_By 40
+Alignment 35
+Money 72
+Level 72
+Sex 1
+MobType 0
+Shop    0   0   0   0   0 110 40 0 24
+Shopd2 5
+Shopd3 4
+End
+
+#1053
+Name large woman prtct~
+Short a large woman~
+Long 
+A large woman is here, trying to figure out what hit her.
+~
+Descr
+This woman has sampled WAYYYY too many of her own delicious creations. 
+She must weight about 250 pounds!  The folds of fat and lard seem to hide
+her breasts altogether, and her pudgy face looks like it is filled with air.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 6
+Level 6
+Sex 2
+MobType 0
+End
+
+#1054
+Name man broom janitor mop~
+Short the town janitor~
+Long 
+The janitor is here, not even attempting to clean this horrible place.
+~
+Descr
+This man, probably in his early thirties, has devoted his life to keeping
+the streets of Xylar spick and span.  How stupid.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits4 2048
+Alignment 1500
+Money 14
+Level 14
+Sex 1
+MobType 0
+Spec spec_janitor
+RaceHate 134217728
+End
+
+#1055
+Name adventurer explorer man prtct~
+Short an adventurer~
+Long 
+An adventurer wanders the city here, examining the destruction.
+~
+Descr
+This adventurer looks quite experienced, although he looks like he might
+have skipped out on the rations for a few days - he is quite scrawny.  There
+is a gleam in his eye that tells you he has seen and been in many good
+fights.  
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 19
+Level 19
+Sex 1
+MobType 0
+End
+
+#1056
+Name large rat~
+Short a large rat~
+Long 
+A large rat is here, scurrying across the floor.
+~
+Descr
+This ugly beast means you no harm...  It is probabluy just looking for
+food.  However, it is quite large and ugly.  
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 2
+Level 2
+MobType 7
+End
+
+#1057
+Name kryalis mage ghost ancient PRACT~
+Short Kryalis' ghost~
+Long 
+[Teacher] The ghost of Kryalis, a lesser mage of the ancients, floats here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+ActBits3 2
+Affect_By 524456
+Alignment 290
+Money 50
+Level 50
+Sex 1
+MobType 21
+Guard 0
+ArmorClass 65
+ASklTaught 0 91
+ASklTaught 1 79
+ASklTaught 2 114
+ASklTaught 3 131
+ASklTaught 4 86
+End
+
+#1058
+Name ancient guardian~
+Short an ancient guardian~
+Long 
+An ancient guardian stands here, guarding against intruders.
+~
+Descr
+The huge guardian looks at you briefly and mutters something about, "When
+will they ever learn not to fuck with the ancients.."  
+~
+AMax 3
+NHeight 0
+ActBits 11
+Affect_By 8
+Alignment 45
+Money 33
+Level 33
+MobType 4
+ArmorClass -15
+End
+
+#1059
+Name ghost head ancients man old~
+Short the head ancient's ghost~
+Long 
+A ghost of an old man is here... he looks like someone important!
+~
+Descr
+The power and great aura around this ghost is unmistakable...  This is a
+ghost of the head ancient, the most powerful mage in the lands in the days
+when the council of wizards set the rules of nature.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 524458
+Money 320
+Level 320
+Sex 1
+MobType 21
+RaceHate 134217728
+ArmorClass -365
+End
+
+#1060
+Name werewolf wolf large~
+Short a large werewolf~
+Long 
+A large werewolf is here, salivating at your appearance!
+~
+Descr
+This large beast has a sad look in his eyes.  Unfortunately, it is also
+quite hungry...  
+~
+AMax 0
+NHeight 0
+ActBits 9
+Alignment -55
+Money 18
+Level 18
+Sex 1
+MobType 23
+Alt_vnum 1061
+Guard 0
+ArmorClass 35
+End
+
+#1061
+Name man old strange~
+Short a strange old man~
+Long 
+A strange old man wanders here, looking lost and sad.
+~
+Descr
+This old man sure has a lot of hair...  The sad and hopeless look in his
+eyes tell you he has separated himself from society.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 10
+Money 11
+Level 11
+Sex 1
+MobType 0
+Alt_vnum 1060
+ArmorClass 55
+End
+
+#1062
+Name guard xylar prtct~
+Short a guard-in-training~
+Long 
+A guard-in-training stands here, upset that you woke him from his slumber.
+~
+Descr
+This large guard looks sore and tired, and you deduct that he is here to
+rest after a training session.  
+~
+AMax 3
+NHeight 0
+ActBits 570425347
+Affect_By 131072
+Alignment 20
+Money 28
+Level 28
+Sex 1
+MobType 0
+End
+
+#1063
+Name guard watch watcher~
+Short a large guard~
+Long 
+A large guard stands here, keeping watch over his friends.
+~
+Descr
+This large oaf looks like his duty is to watch over his friends and make
+sure nobody sleeps here unauthorized.  
+~
+AMax 2
+NHeight 0
+ActBits 37748739
+Affect_By 8
+Alignment 35
+Money 31
+Level 31
+Sex 1
+MobType 0
+End
+
+#1064
+Name large guard trainer prtct~
+Short the guards' trainer~
+Long 
+The guards' trainer stands here, waiting to help out any in guard school.
+~
+Descr
+He looks like he has had many years of hands-on experience in fighting,
+and he is not afraid to draw a little blood to teach the eager young guards.
+~
+AMax 1
+NHeight 0
+ActBits 8388611
+Alignment 25
+Money 44
+Level 44
+Sex 1
+MobType 0
+RaceHate 134217728
+ArmorClass -75
+End
+
+#1065
+Name guard training trainee codeone~
+Short a guard trainee~
+Long 
+A guard trainee stands here, eager to learn.
+~
+Descr
+This small trainee stands here, trying to learn about combat.  
+~
+AMax 2
+NHeight 0
+ActBits 4194307
+Alignment 10
+Money 16
+Level 16
+Sex 1
+MobType 0
+RaceHate 134217728
+End
+
+#1066
+Name old beggar~
+Short an old beggar~
+Long 
+An old beggar sits here, angry that someone woke him.
+~
+Descr
+This old man has seen better days.  He now sits here in the small park,
+relaxing and watching the world go by.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 131072
+Alignment 10
+Money 5
+Level 5
+Sex 1
+MobType 0
+End
+
+#1068
+Name old man atwo~
+Short an old man~
+Long 
+An old man stands here.
+~
+Descr
+This man looks frail and old, although from the size of his hunting
+trophy collection, it looks like he knows (used to know?)  How to fight.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Alignment 20
+Money 14
+Level 14
+Sex 1
+MobType 0
+Guard 0
+End
+
+#1069
+Name old woman aone~
+Short an old woman~
+Long 
+An old woman stands here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 268435459
+Alignment 10
+Money 13
+Level 13
+Sex 2
+MobType 0
+Guard 0
+End
+
+#1070
+Name gnome sad~
+Short a gnome~
+Long 
+A gnome is here, staring blankly at the bleak, gray walls.
+~
+Descr
+This gnome looks very depressed.  He stares blankly at the wall, and even
+when you get his attention, he turns back to look at the northern wall.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 6
+Level 6
+Sex 1
+MobType 3
+Guard 0
+End
+
+#1071
+Name large sailor man ATWO atwo~
+Short a sailor~
+Long 
+A large-muscled sailor is here, lying in bed.
+~
+Descr
+This large sailors face is red and sweaty.. hmmmm
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Alignment -20
+Money 15
+Level 15
+Sex 1
+MobType 0
+Guard 0
+End
+
+#1072
+Name woman slut whore aone AONE~
+Short a woman~
+Long 
+A skanky-looking woman lies here in bed.
+~
+Descr
+She's wearing entirely too much perfume and makeup, and the awfully-
+smelling perfume smells like rotten fish...  Perhaps that isn't the perfume!
+~
+AMax 1
+NHeight 0
+ActBits 268435459
+Alignment 3
+Money 9
+Level 9
+Sex 2
+MobType 0
+Guard 0
+End
+
+#1073
+Name gargoyle large guardian~
+Short a gargoyle guardian~
+Long 
+The great gargoyle guards are now little more than living rock.
+~
+Descr
+This massive gargoyle seems quite agile and full of life for being made
+of stone.  He looks like an incredible opponent if you ever would be unlucky
+enough to meet him in combat.  
+~
+AMax 3
+NHeight 0
+ActBits 3
+ActBits3 4096
+Affect_By 66216
+AffectTWO 16
+Alignment 140
+Money 200
+Level 200
+Sex 1
+MobType 15
+Guard 0
+RaceHate 134217728
+ArmorClass -225
+End
+
+#1074
+Name deer~
+Short a deer~
+Long 
+A deer munches on some grass here, unaware of your presence.
+~
+Descr
+This deer looks quite innocent and friendly.  She happily munches on the
+grass here, oblivious to your presence.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 3
+Level 3
+Sex 2
+MobType 18
+Guard 0
+End
+
+#1075
+Name prairie dog giant large~
+Short a large prairie dog~
+Long 
+A large prairie dog is here, sitting on top of his hole in the ground.
+~
+Descr
+This little pudgy fellow looks like he has sharp teeth.  However, his
+small size makes him look like an easy opponent if you were to choose to
+attack him.  
+~
+AMax 3
+NHeight 0
+ActBits 3
+Money 2
+Level 2
+Sex 1
+MobType 6
+Guard 0
+End
+
+#1076
+Name guard large sentry~
+Short a large sentry~
+Long 
+A sentry stands here, guarding the home of the long dead corps.
+~
+Descr
+This sentry looks like he does his job well.  It would not be wise to
+mess with him.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 200
+Money 47
+Level 47
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#1077
+Name huge guard bodyguard AONE~
+Short a huge guard~
+Long 
+A huge bodyguard stands here, guarding the guildmaster.
+~
+Descr
+Holy fucking huge...  Just one of these guys makes you think twice about
+causing any sort of problems here.  
+~
+AMax 3
+NHeight 0
+ActBits 4194307
+Affect_By 40
+Money 66
+Level 66
+Sex 1
+MobType 0
+Guard 0
+End
+
+#1078
+Name bat large mean vampire~
+Short a large bat~
+Long 
+A large, mean-looking bat is here, flying around.
+~
+Descr
+This bat is the size of a large owl, and its claws and fangs look sharp. 
+However, its thin skin and wings look vunerable to attack.  
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 524296
+Money 3
+Level 3
+MobType 18
+Guard 0
+RaceHate 201326592
+End
+
+#1079
+Name faerie farie small~
+Short a faerie~
+Long 
+A small faerie flies around here, collecting pine-nuts from the trees.
+~
+Descr
+This small creature looks like it means no harm; it simply is gathering
+food in peace.  A strange sense of goodness washes over you when you look at
+this small faerie.  
+~
+Attackmsg scratch~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 40
+Alignment 85
+Money 5
+Level 5
+MobType 19
+Guard 0
+RaceHate 134217728
+End
+
+#1080
+Name gnome~
+Short an evil-looking gnome~
+Long 
+An evil-looking gnome stands here, snickering at you.
+~
+Descr
+This gnome thinks he's bad...  Maybe you should wipe that evil smirk off
+of his face...  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment -240
+Money 4
+Level 4
+Sex 1
+MobType 3
+Guard 0
+End
+
+#1082
+Name orc chieftain chieftan ancient ghost~
+Short the great chieftain's ghost~
+Long 
+The ghost of the great orcish chieftain of the ancients floats here.
+~
+Descr
+Before you sits the great orcish chieftan.  Rumored to have lived through
+all three of the great Xylarian battles, this orc looks tough.  There is
+almost something ethereal about him...  Could this be the spirit of the
+chieftain who helped destroy Bythus?  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+ActBits3 2048
+Affect_By 8872
+Money 200
+Level 200
+Sex 1
+MobType 21
+Hp 30
+Guard 5
+GDamR 60
+Spec spec_warrior
+RaceHate 67108864
+BCasts balefire~
+BCasts flamestrike~
+BCasts 'shooting stars'~
+BCast_P 35
+BKicks 1
+BFlurries 1
+End
+
+#1083
+Name xylarian priest great~
+Short the great xylarian priest~
+Long 
+The long dead xylarian priest hovers here, watching his minions.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+ActBits3 4096
+Affect_By 9128
+Money 200
+Level 200
+Sex 1
+MobType 21
+Hp 30
+Guard 5
+GDamR 50
+Spec spec_warrior
+RaceHate 134217728
+BCasts 8~
+BCasts 8 10~
+BCasts 8 100~
+BCasts balefire~
+BCasts 1~
+BCasts 'falling star'~
+BCasts 'shooting stars'~
+BCasts shooting stars~
+BCasts 'mystical fury'~
+BCasts flamestrike~
+BCast_P 35
+BKicks 1
+BFlurries 1
+End
+
+#1084
+Name wise arch-bishop~
+Short a wise bishop~
+Long 
+An old and very wise bishop is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Money 60
+Level 60
+Sex 2
+MobType 25
+Guard 5
+RaceHate 134217728
+End
+
+#1085
+Name practice mob dummy~
+Short a +* Practice Mob *+~
+Long 
+A +* Practice Mob *+ wants you to kill him.
+~
+Descr
+~
+AMax 2
+NHeight 90
+ActBits 2
+ActBits3 524288
+Affect_By 50339968
+AffectTWO 16
+Money 10
+Level 101
+Sex 1
+MobType 27
+Hp -27008
+Guard 0
+End
+
+#1086
+Name practice mob~
+Short a +* Practice Mob *+~
+Long 
+A practice mob snarls at you!
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Level 99
+Sex 1
+MobType 27
+Guard 0
+RaceHate 67108864
+End
+
+#1100
+Name mayor xylar~
+Short the mayor of Xylar~
+Long 
+[Teacher] The mayor of Xylar bids you a good day.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits 275
+ActBits4 8192
+Affect_By 552
+Alignment 500
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+ArmorClass -450
+BKicks 1
+ASklTaught 0 552
+ASklTaught 1 561
+ASklTaught 2 553
+ASklTaught 3 172
+ASklTaught 4 11
+ASklTaught 5 58
+End
+
+#1101
+Name stray cat~
+Short a cat~
+Long 
+A stray cat wanders about here, searching the streets for food.
+~
+Descr
+This little cat looks scruffy and vicious.  
+~
+AMax 6
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+MobType 16
+Guard 0
+End
+
+#1102
+Name hired assassin~
+Short a hired assassin~
+Long 
+A powerful assassin stands here, idly watching the gate.
+~
+Descr
+This assassin, still on the payroll of the city of Xylar, stands watch at
+the gate.  However, from his appearance and demeanor, it seems as though he
+no longer takes his work as seriously as he once might have.  
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+ActBits3 4096
+Affect_By 680
+AffectTWO 16
+Money 125
+Level 125
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+ArmorClass -500
+End
+
+#1103
+Name Kjon~
+Short Kjon~
+Long 
+Kjon, the now defeated and broken cousin of the knight, sits in fear.
+~
+Descr
+Kjon definately doesn't look second-best to his weaker cousin, the white
+knight.  He's been called back into the lands to ward off potential evil
+threats to the area around Xylar.  
+~
+AMax 0
+NHeight 0
+ActBits 17
+Affect_By 552
+Alignment 1000
+Money 12
+Level 12
+Sex 1
+MobType 0
+Guard 0
+End
+
+#1104
+Name thief cult member~
+Short a Thief cult member~
+Long 
+A Thief cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 2001
+ShopCS The cult member snaps his fingers and a token appears out of the air.~
+End
+
+#1169
+Name troll warrior~
+Short an troll warrior~
+Long 
+A troll warrior wanders the fields of Xylar.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Money 50
+Level 50
+Sex 1
+MobType 12
+Guard 0
+End
+
+#1200
+Name Drunky Raver~
+Short Drunky Raver~
+Long 
+Drunky Raver dancing here and dreaming about XTC pile
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Money 600
+Level 600
+Sex 1
+MobType 25
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#1001
+Name fountain water~
+Short a crystal clear fountain~
+Descr
+A large fountain made out of marble stands here in the square.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 55 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1002
+Name sign blue glowing~
+Short a [1m[34mblue[37m glowing[0m sign~
+Descr
+A [1m[34mblue[37m glowing[0m[36m sign is here for you to read.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 10
+ExtraDescr sign~
+Welcome to Void of Reality.
+ 
+You have choosen to be of the good alignment called the Whities.
+Your home city is called Xylar. You are standing in Xylar's Central Square right now.
+ 
+To see a map of Xylar and other information about Xylar see help Xylar.
+To enter the Newbie XP Zone go North, West, and Down.
+Follow the path until you have reached A Small Magical Forest.
+ 
+Please make sure you read HELP RULES and HELP NEWBIE.
+ 
+Have fun and Enjoy the mud.
+~
+End
+
+#1003
+Name strawberry pastry food~
+Short a strawberry pastry~
+Descr
+A delicious strawberry pastry has been left here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 10
+End
+
+#1004
+Name hard biscuit large~
+Short a hard biscuit~
+Descr
+A hard biscuit has been left here.  It looks as if it will never spoil.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 8
+End
+
+#1005
+Name blueberry muffin food~
+Short a blueberry muffin~
+Descr
+A moldy muffin has been stomped on here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#1006
+Name chocolate filled pastry food~
+Short a chocolate filled pastry~
+Descr
+Chocolate oozes out of a pastry that has been left here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 12
+End
+
+#1007
+Name cake frosted icing food~
+Short a large, frosted cake~
+Descr
+A large, frosted cake with pink icing has been left here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 21
+End
+
+#1008
+Name high level blocker to newbie area~
+Short high level blocker to newbie area~
+Descr
+High level blocker to newbie area
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 1 1 40 0 0
+Weight 1
+Cost 11
+End
+
+#1009
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 15 0 0 0 0 0 0 0 0
+Weight 1
+Cost 22
+End
+
+#1010
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 65 65 0 0 0 0 0 0 0 0
+Weight 3
+Cost 65
+End
+
+#1011
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 18 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 15
+End
+
+#1012
+Name potion detect evil~
+Short a [1m[31mred[0m potion of protection~
+Descr
+A [1m[31mred[0m[37m potion which is rumoured to let one detect evil beings is here.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 6 -1 1 0 0 0 0 0 0
+Weight 1
+Cost 3000
+End
+
+#1013
+Name potion detect invis invisibility white cloudy~
+Short a [1m[37mC[0m[37ml[1m[30mo[37mu[0m[37md[1my[0m potion of detect invisibility~
+Descr
+A cloudy potion which is rumoured to let people see invisible things is here.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 32 10 -1 1 0 0 0 0 0 0
+Weight 1
+Cost 650
+End
+
+#1014
+Name potion blue detect invisility invisible~
+Short a [34m[1mblue[37m[0m potion of detect invisibility~
+Descr
+A [1m[34mblue[0m[37m potion of detect enhanced invisibility is here.
+[0;36m~
+Type 10
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 10 -1 1 0 0 0 0 0 0
+Weight 2
+Cost 1325
+End
+
+#1015
+Name potion detect hidden~
+Short a potion of detect hidden~
+Descr
+A potion lies here... the area around it seems to be visually enhanced.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 32 12 0 1 0 0 0 0 0 0
+Weight 1
+Cost 985
+End
+
+#1016
+Name yellow runed wand lightning bolt~
+Short a [1m[33myellow[0m[37m runed wand~
+Descr
+A [1m[33myellow[0m[37m runed wand lies here on the ground.
+[0;36m~
+Type 3
+Extra 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 45 6 4 45 0 0 0 0 0 0
+Weight 1
+Cost 6430
+End
+
+#1017
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 420
+End
+
+#1018
+Name gold nugget small~
+Short a small [1m[33mgold[0m nugget~
+Descr
+A small gold nugget lies here, looking valuable.
+[0;36m~
+Type 8
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 310
+End
+
+#1019
+Name ring small gold~
+Short a small [1m[33mgold[0m ring~
+Descr
+A small gold ring lies here, unclaimed.
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 10 10 0 0
+Weight 0
+Cost 710
+End
+
+#1020
+Name gold earring ear~
+Short a [1m[33mgold[0m earring~
+Descr
+A golden earring lies here, waiting to be claimed.
+[0;36m~
+Type 9
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 50 50 0 0
+Weight 0
+Cost 135
+Affect 17 -1 1 0 0
+End
+
+#1021
+Name large orb~
+Short a large, floating orb~
+Descr
+A large glowing orb floats here, providing bright light to the square.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 1 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr orb~
+This large orb hovers about two feet off the ground.  It is about the
+
+
+size of a huge boulder, and it humms softly.  Rumor has it that a god placed
+
+
+the orb inside the city so that the inhabitants could enjoy the luxury of
+
+
+sight even in the blackest of nights.  
+
+
+~
+End
+
+#1022
+Name broad sword broadsword large steel~
+Short a large, steel broadsword~
+Descr
+A large steel broadsword lies here, waiting to be claimed.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 25 0 3 0 0 0 3 6 0
+Weight 7
+Cost 8594
+Affect 18 -1 1 0 0
+End
+
+#1023
+Name none~
+Short none~
+Descr
+None
+[0;36m~
+Type 13
+Extra 536870913
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 3
+Cost 17584
+ExtraDescr cloak~
+You look upon an incredibly-crafted, beautiful satin cloak.  Made of
+
+
+purple material, this cloak seems to glow with an incredible magic.  
+
+
+~
+End
+
+#1024
+Name black steel dagger HIT BS~
+Short a [1m[30mblackened [0m[36msteel[0m dagger~
+Descr
+A blackened steel dagger with mysterious runes on it lies here.
+[0;36m~
+Type 5
+Extra 131073
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 0 0 11 0 0 0 5 3 0
+Weight 3
+Cost 11845
+Affect 18 2 1 0 0
+Affect 25 2 1 0 0
+End
+
+#1025
+Name long steel dagger~
+Short a long steel dagger~
+Descr
+A long steel dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 5 0 11 0 0 0 4 2 0
+Weight 4
+Cost 1305
+End
+
+#1026
+Name large steel longsword long sword~
+Short a large steel longsword~
+Descr
+A large longsword made of the finest steel is here.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 95 12 0 3 0 0 0 2 7 0
+Weight 6
+Cost 1425
+End
+
+#1027
+Name battle axe battleaxe large~
+Short a large battleaxe~
+Descr
+A large battleaxe rests on the ground here.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 11 0 3 0 0 0 1 17 0
+Weight 10
+Cost 1855
+End
+
+#1028
+Name fancy black pants~
+Short a pair of stylish black pants~
+Descr
+A pair of stylish black pants lie here.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 5 5 0 0
+Weight 0
+Cost 66
+End
+
+#1029
+Name fancy white shirt~
+Short a fancy white shirt~
+Descr
+A fancy white shirt lies here on the ground, getting dirty.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 3 3 0 0
+Weight 0
+Cost 48
+End
+
+#1030
+Name juicy mellon~
+Short a large, juicy melon~
+Descr
+A dried up, moldy melon sits here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 22
+End
+
+#1031
+Name skirt lovely~
+Short a lovely skirt~
+Descr
+A lovely-looking skirt lies here in a bundle.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 6 6 0 0
+Weight 0
+Cost 42
+End
+
+#1032
+Name blouse white~
+Short a white blouse~
+Descr
+A lovely white blouse lies here on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 0 0 0 0 50 50 0 0
+Weight 0
+Cost 55
+End
+
+#1033
+Name sexy skirt black~
+Short a sexy black skirt~
+Descr
+A sexy black skirt lies here, waiting to be modelled.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 3 30 0 0
+Weight 0
+Cost 32
+End
+
+#1034
+Name red silk bra bras~
+Short a silky red bra~
+Descr
+A silky, red bra lies here, looking quite erotic.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 2 2 0 0
+Weight 0
+Cost 12
+End
+
+#1035
+Name spiked club~
+Short a wooden, spiked club~
+Descr
+A large, wooden spiked club lies here on the ground.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 0 0 7 0 0 0 6 2 0
+Weight 6
+Cost 1475
+Affect 18 -2 1 0 0
+End
+
+#1036
+Name chest stone large~
+Short a large stone chest~
+Descr
+A large stone chest covered with fancy engraved symbols is here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 15 1049 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1037
+Name key small stone~
+Short a small stone key~
+Descr
+A small stone key rests on the ground here.
+[0;36m~
+Type 18
+Extra 16384
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 14 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#1038
+Name huge ruby~
+Short a huge, sparkling ruby~
+Descr
+A huge sparkling ruby has been left here on the ground.
+[0;36m~
+Type 8
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1950
+End
+
+#1039
+Name steak large barbequed piece~
+Short a large, barbequed steak~
+Descr
+A large piece or barbequed steak lies here on the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 12
+End
+
+#1040
+Name leg lamb barbequed~
+Short a barbequed leg of lamb~
+Descr
+A delicious-looking leg of lamb lies here on the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 9
+End
+
+#1041
+Name barbequed potato~
+Short a barbequed potato~
+Descr
+A barbequed potato lies here, getting cold.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 8
+End
+
+#1042
+Name potato salad~
+Short a portion of potato salad~
+Descr
+A portion of potato salad lies here, getting squished into the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 6
+End
+
+#1043
+Name deluxe flank steak~
+Short a deluxe, barbequed flank of steak~
+Descr
+A deluxe, barbequed flank of steak is here on the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 19
+End
+
+#1044
+Name butcher knife~
+Short a butcher's knife~
+Descr
+A butcher's knife lies here on the ground.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 3 0 3 0 0 0 1 8 0
+Weight 1
+Cost 225
+End
+
+#1045
+Name broom~
+Short a broom~
+Descr
+A wooden broom sits here, currently unused.
+[0;36m~
+Type 5
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 1 0 7 0 0 0 1 5 0
+Weight 2
+Cost 94
+End
+
+#1046
+Name fountain water~
+Short a fountain~
+Descr
+A old marble fountain is here, pouring forth fresh water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1047
+Name portal large~
+Short a large portal~
+Descr
+A large portal radiates energy and makes your eyes swim.
+[0;36m~
+Type 12
+Extra 3
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1140 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr portal~
+This portal must lead to some strange dimension, judging from the
+
+
+strange, swirling outlines of a strange land you can make out through the
+
+
+bright glow surrounding it.  
+
+
+~
+End
+
+#1048
+Name steel key~
+Short a steel key~
+Descr
+A heavy steel key lies here on the ground.
+[0;36m~
+Type 18
+Extra 16384
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 4
+Cost 0
+End
+
+#1049
+Name earthen key earth~
+Short an earthen key~
+Descr
+A large, earthen key lays on the ground here.
+[0;36m~
+Type 18
+Extra 16384
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#1050
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 12 70 75 0 0 0 0 0 0
+Weight 3
+Cost 2000
+End
+
+#1051
+Name large steel chest~
+Short a large steel chest~
+Descr
+A large steel chest sits here on the ground.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1052
+Name large earthen claymore clay sword~
+Short an earthen claymore~
+Descr
+A large, earthen claymore lies here on the ground.
+[0;36m~
+Type 5
+Extra 538968065
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 18 0 3 0 0 0 2 10 0
+Weight 5
+Cost 8505
+Affect 19 2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#1053
+Name sign~
+Short a sign~
+Descr
+A sign is here, firmly implanted into the ground.
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The sign reads: Xylar and the area to the west of Xylar was formed by the
+
+
+steady hand of the ancient god, Orin.  
+
+
+There are some strange symbols written at the bottom of the sign...
+
+
+"oemlen@indiana.edu"
+
+
+~
+End
+
+#1054
+Name plain wooden shield~
+Short a plain, wooden shield~
+Descr
+A plain, wooden shield sits here on the ground.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 16 16 0 0
+Weight 3
+Cost 550
+End
+
+#1055
+Name full wooden large shield~
+Short a full wooden shield~
+Descr
+A full wooden shield sits here, waiting to be taken.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 2 0 0 17 17 0 0
+Weight 4
+Cost 950
+Affect 17 -1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#1057
+Name hard wood wooden cane~
+Short a hard wooden cane~
+Descr
+A hard, wooden cane lies here on the ground.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 8 0 0 0 1 7 0
+Weight 2
+Cost 110
+End
+
+#1058
+Name ghost amulet gray~
+Short a gray, stone amulet~
+Descr
+A gray, stone amulet with simple runes carved into it lies here on the ground.
+[0;36m~
+Type 8
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 3020
+Affect 17 -2 1 0 0
+Affect 21 4 1 0 0
+Affect 14 5 1 0 0
+End
+
+#1059
+Name molybdenum ring APB~
+Short a [1m[34mmo[0m[32mly[1m[32mbd[0m[32men[1m[34mum[0m ring~
+Descr
+A molybdenum ring with strange runes on it lies here on the ground.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 30 30 0 0
+Weight 1
+Cost 9500
+Affect 19 1 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#1060
+Name green potion~
+Short a green potion~
+Descr
+A green potion lies here on the ground.
+[0;36m~
+Type 10
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 90 105 152 93 0 0 0 0 0 0
+Weight 0
+Cost 45
+End
+
+#1061
+Name green potion~
+Short a green potion~
+Descr
+A green potion lies here on the ground.
+[0;36m~
+Type 10
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 24 31 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 980
+End
+
+#1062
+Name leather shoulder pad pads~
+Short a leather shoulder pad~
+Descr
+A leather shoulder pad lies here on the ground.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 25 25 0 0
+Weight 1
+Cost 399
+End
+
+#1063
+Name stone shield gargoyle~
+Short a full stone shield~
+Descr
+A full stone shield bearing the insignia of a gargoyle is here on the ground.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 3 0 0 190 190 0 0
+Weight 18
+Cost 5540
+Affect 17 -3 3 0 0
+End
+
+#1064
+Name lamp oil flask black~
+Short a black flask~
+Descr
+A black flask, typically used to hold lamp oil, lies here.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 14 -1 0 0 0 0 0 0 0
+Weight 1
+Cost 75
+End
+
+#1065
+Name board immortal notices~
+Short the board of immortal notices~
+Descr
+The board of immortal notices stands here, waiting to be read.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 1
+Weight 0
+Cost 0
+End
+
+#1067
+Name board~
+Short the board~
+Descr
+A board for the general use of the pure hearted here. [See help note]
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 23
+Weight 0
+Cost 0
+End
+
+#1068
+Name board~
+Short the board~
+Descr
+A large board for general evil use stands here. [See help note]
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 23
+Weight 0
+Cost 0
+End
+
+#1069
+Name no name~
+Short A large boulder.~
+Descr
+A boulder sits here, blocking the eastern exit.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1070
+Name pile of rubble~
+Short A pile of rubble~
+Descr
+A pile of rubble makes up the northern exit.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1195
+Name small basin water pool~
+Short a small basin of water~
+Descr
+A small basin filled with water is here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1196
+Name musty loaf bread~
+Short a musty loaf of bread~
+Descr
+A musty load of bread is here on the ground.
+[0;36m~
+Type 19
+Maxinroom 7
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 5
+End
+
+#1199
+Name none~
+Short none~
+Descr
+None
+[0;36m~
+Type 13
+Extra 536870915
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 15405
+End
+
+#0
+
+
+
+#ROOMDATA
+#1001
+Name XCS;Xylar's Central Square~
+Descr
+You stand in it, seems the center of the city.  Xylar never looked
+better, citizens walking here and there minding their own business, little
+children playing tag and running around.  So much work put in to make Xylar
+once again a beautiful city.  Even since the evil minions took over and
+pillaged the city, things have changed for the better.  Citizens have
+gathered, rebuilt and made Xylar their home once again.  
+~
+Flags 1048594
+Reset M 1083 1 100
+Reset O 1002 -5 100
+Reset O 1067 -5 100
+Reset O 1021 -5 100
+Reset O 1001 -5 100
+Door 0 0 0 1012 30 30
+~
+door~
+Door 1 0 0 1006 30 30
+~
+door~
+Door 2 0 0 1010 30 30
+~
+door~
+Door 3 0 0 1002 30 30
+~
+door~
+Door 5 259 0 20000 30 30
+~
+grate~
+End
+
+#1002
+Name A Small Square West of Xylar's Central Square~
+Descr
+You stand in the west part of Xylar's square.  You see many people
+surrounding you, walking about.  All this comotion, but you are glad that
+Xylar still stands and that it is rebuilt.  You get a warm feeling that you
+can call this city home again.  You see the Runed Hall north from here as
+you've remembered.  You sense feeling of purity from the south.  You may
+leave in any direction.  
+~
+Door 0 0 0 1014 30 30
+~
+door~
+Door 1 0 0 1001 30 30
+~
+door~
+Door 2 0 0 1011 30 30
+~
+door~
+Door 3 0 0 1003 30 30
+~
+door~
+End
+
+#1003
+Name West Main Street of Xylar~
+Descr
+You are strolling down the rebuilt streets in the western portion of
+Xylar.  You sense a feeling of peace along these streets once again. 
+Beautiful flowers and thick grass grow here.  Voices can be heard to your
+east, apparently a casual conversation coming from the fountain just east of
+here.  Axl's armory can be seen to your south where your armor can be
+repaired.  To your north you can buy weapons for your adventures against the
+evil forces of the world.  
+~
+Reset M 1050 2 100
+Reset O 217 4 100
+Reset O 1031 6 100
+Door 0 0 0 1004 30 30
+~
+door~
+Door 1 0 0 1002 30 30
+~
+door~
+Door 2 0 0 1005 30 30
+~
+door~
+Door 3 0 0 1027 30 30
+~
+door~
+End
+
+#1004
+Name The Royal Weaponsmithy~
+Descr
+As you enter Warren's shop, he greets you with a large, warm smile.  He's
+greatful to be back in business.  You shows you all his latest wares, from
+short swords to large two-handed broadswords.  As you look around, you see
+many different types of weapons.  You can't remember the last time you
+bought a fine forged weapon from Warren.  It's been that long, ever since
+the raid.  He motions you to look at anything you like while he goes back
+behind the counter to do some paper work.  You may leave back south to the
+streets.  
+~
+Flags 6
+Sector 0
+Reset M 1002 1 100
+Reset O 238 -1 100
+Reset O 236 -1 100
+Reset O 237 -1 100
+Reset M 1039 3 100
+Reset O 223 4 100
+Reset O 209 6 100
+Reset O 241 12 65
+Reset O 1026 21 35
+Reset O 237 21 100
+Door 2 0 0 1003 30 30
+~
+door~
+End
+
+#1005
+Name Axl's Armory~
+Descr
+As you enter this shop, you notice all the beautiful suits of armor hung
+up against the wall.  Everything you see is made by Axl, the owner of the
+shop.  He greets you with a simple hello and asks if you need any help.  You
+keep looking around trying to find what would suit your needs.  You can't
+help notice that this shop has a nice decor to it.  You feel the heat coming
+from the back of the shop where the forge lies.  You continue to look
+around.  You may leave back to the streets north.  
+~
+Flags 6
+Sector 0
+Reset M 1001 1 100
+Reset O 201 -1 100
+Reset O 202 -1 100
+Reset O 204 -1 100
+Reset O 224 -1 100
+Reset O 227 -1 100
+Reset O 240 -1 100
+Reset O 241 -1 100
+Reset O 205 -1 50
+Reset O 207 -1 100
+Reset O 208 -1 100
+Reset O 212 -1 100
+Reset O 213 -1 100
+Reset O 242 -1 100
+Reset O 214 -1 100
+Reset O 217 -1 100
+Reset O 221 -1 100
+Reset O 234 -1 60
+Reset M 1039 3 100
+Reset O 219 4 100
+Reset O 206 6 100
+Reset O 1026 21 25
+Reset O 1025 21 15
+Reset O 236 21 100
+Door 0 0 0 1003 30 30
+~
+door~
+End
+
+#1006
+Name A Small Square East of Xylar's Central Square~
+Descr
+You are in the eastern part of Xylar's square.  You notice there is not
+as many people here compared to the center.  Many beggars and entertainers
+make this part of the square their home or stage.  As you walk through here
+a beggar comes up to you and asks for a few coins, you look into his eyes
+and kindly give him a few coppers.  He thanks you and leaves with a smile. 
+You are glad that Xylar is back the way it used to be.  To the north you
+smell the bakers stall, you experience a flash back of how it used to be. 
+To the south is the provisioners shop, you better stop in to grab a few
+supplies.  You may leave in any direction.  
+~
+Reset M 1054 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Door 0 0 0 1007 30 30
+~
+door~
+Door 1 0 0 1013 30 30
+~
+door~
+Door 2 0 0 1015 0 0
+~
+~
+Door 3 0 0 1001 30 30
+~
+door~
+End
+
+#1007
+Name Destroyed Bakery~
+Descr
+What a wonderful smell.  The fresh scent of bread coming right out of the
+oven.  You see a plump man standing in front of a large stone oven.  He
+turns around and greets you with a smile.  Bob here sells the best bread and
+pastries in town.  You may leave south or west back to the streets of Xylar.
+~
+Flags 1046
+Sector 0
+Reset M 1003 1 100
+Reset O 1007 20 100
+Reset O 1006 -1 100
+Reset O 1005 -1 100
+Reset O 37 20 100
+Reset O 1003 -1 100
+Reset M 1038 2 100
+Reset O 1031 6 100
+Reset O 1032 4 100
+Door 2 0 0 1006 30 30
+~
+door~
+Door 3 0 0 1012 30 30
+~
+door~
+End
+
+#1008
+Name East Main Street of Xylar~
+Descr
+The eastern streets of Xylar are lined with beautiful roses dedicating
+the rebuilt of the city after the forces of good retook it from evil.  North
+of here is a tall tower that seems to emminate power.  South you can here
+the clashing of steel as guards train.  To your east is the huge gaes of
+Xylar.  
+~
+Reset M 1036 5 100
+Reset O 236 21 95
+Reset O 217 4 100
+Reset O 207 6 100
+Door 0 519 0 1053 9 9
+You see a massive iron door leading into a large tower.  
+~
+towerdoor~
+Door 1 0 0 1009 30 30
+~
+door~
+Door 2 1 0 1149 30 30
+You see a door leading to the guardhouse of Xylar.
+~
+door~
+Door 3 0 0 1013 30 30
+~
+door~
+End
+
+#1009
+Name East Main Street of Xylar~
+Descr
+Several of the roses on this part of the street have been bady damaged by
+the heavy traffic to and from Xylar.  This fact could be do to the large
+eastern gate and the heavy inflow of adventurers to and from Shade.  
+~
+Reset M 1035 4 100
+Reset O 224 5 100
+Reset O 207 6 100
+Reset O 217 4 100
+Door 0 0 0 1200 0 0
+~
+~
+Door 1 0 0 1016 30 30
+~
+door~
+Door 3 0 0 1008 30 30
+~
+door~
+End
+
+#1010
+Name A Small Square South of Xylar's Central Square~
+Descr
+This is the southern part of Xylar's square.  This part is much different
+from the others, many trees and shrubbery have been maintained here to give
+a court-yard look.  The trees are surrounding the square and are beautiful. 
+After the raid, they re-planted all the vegatation.  You can see the
+privisioners store east of here.  A feeling of purity lies west of here, the
+peaceful Temple of Xylar.  You may leave in any direction.  
+~
+Door 0 0 0 1001 30 30
+~
+door~
+Door 1 0 0 1015 30 30
+~
+door~
+Door 2 0 0 1023 30 30
+~
+door~
+Door 3 0 0 1011 30 30
+~
+door~
+End
+
+#1011
+Name The Temple of Xylar~
+Descr
+The magnificent temple that was built in worship for the immortals and
+gods stand once again.  You see many citizens giving thanks and praising the
+gods for such an event, the rebuilding of Xylar.  Sabina, the head priestess
+leads a ceremony.  You notice that she is back to her old self.  You say a
+word of thanks before you leave.  You may exit north or east back to the
+streets of Xylar.  
+~
+Flags 1048598
+Sector 0
+Reset M 1005 1 100
+Door 0 0 0 1002 30 30
+~
+door~
+Door 1 0 0 1010 30 30
+~
+door~
+End
+
+#1012
+Name A Small Square North of Xylar's Central Square~
+Descr
+You stand in Xylar's northern square.  A very busy part of town, citizens
+of Xylar walking, running around to get places.  The northern part of the
+square is quite large, but not as large as central.  You see many children
+playing tag and ball here.  No one minds them, but the shopkeepers dislike
+it but what can they do.  You smell the scent of bread and pastries to the
+east.  The magnificent Runed Hall is west of you.  You may leave in any
+direction.  
+~
+Reset M 1036 5 100
+Reset O 240 12 55
+Reset O 202 7 20
+Reset O 206 6 100
+Reset O 219 4 100
+Door 0 0 0 1031 30 30
+~
+door~
+Door 1 0 0 1007 30 30
+~
+door~
+Door 2 0 0 1001 30 30
+~
+door~
+Door 3 0 0 1014 30 30
+~
+door~
+End
+
+#1013
+Name East Main Street of Xylar~
+Descr
+Eastern main street is lined with beautiful roses.  The street is worn
+from the heavy traffic.  Zhakar's Jewelry shop is to your north, while the
+fountain lies just west of here.  The great eastern gates of Xylar loom tin
+the horizon to your east.  
+~
+Reset M 1035 4 100
+Reset O 238 21 45
+Reset O 1029 4 100
+Reset O 1028 6 100
+Reset M 1036 5 100
+Reset O 238 21 100
+Reset O 237 21 24
+Reset O 207 6 100
+Reset O 217 4 100
+Reset O 32 -1 70
+Door 0 1 0 1018 45 45
+A strong metal door is here, leading into the treasure emporium.  
+~
+strongdoor~
+Door 1 0 0 1008 30 30
+~
+door~
+Door 3 0 0 1006 30 30
+~
+door~
+End
+
+#1014
+Name The Runed Hall of Xylar~
+Descr
+The legendary Runed Hall is built once again.  The meeting place of all
+expeditions and quests started here.  You see many warriors and mages
+sitting down as they get their provisions and supplies ready for their trip.
+You notice a board here with notes and posters from other mortals.  Even
+though Xylar was built again, you feel this flame still inside you. 
+Something tells you that revenge is the only answer.  You may leave east or
+south back to the streets of Xylar.  
+~
+Flags 2097174
+Sector 0
+Reset O 1008 -5 100
+Reset M 1100 1 100
+Reset O 1065 -5 100
+Door 1 0 0 1012 30 30
+~
+door~
+Door 2 0 0 1002 30 30
+~
+door~
+Door 5 0 0 48010 0 0
+~
+~
+End
+
+#1015
+Name A Small Provisions Shop Rebuilt~
+Descr
+As you enter the shop, Puk is more than happy to greet you.  He has
+achived his dream, to open a large store.  He now sells everything you could
+think of before you travel, from skins to tent to privisions.  You are proud
+of him, a man that never left Xylar even when it was burnt down.  This is
+truly his home.  You may leave north or west back to the streets of Xylar.  
+~
+Flags 20
+Sector 0
+Reset M 1004 1 100
+Reset O 1004 25 100
+Reset O 32 90 90
+Reset O 39 20 100
+Reset O 33 15 100
+Reset O 36 10 100
+Reset O 1064 10 100
+Reset O 32 -1 100
+Door 0 0 0 1006 0 0
+~
+~
+Door 3 0 0 1010 30 30
+~
+door~
+End
+
+#1016
+Name Inside the Eastern Gate of Xylar~
+Descr
+You stand inside the eastern gate of xylar, to the west you can see three
+sentry's guarding the gates.  You look west and see this road continues as
+far as to the western gate.  To the north is a dark path, leading to the
+other parts of town.  
+ 
+~
+Door 1 3 0 1017 30 30
+~
+door~
+Door 3 0 0 1009 30 30
+~
+door~
+End
+
+#1017
+Name The Great Eastern Gate of Xylar~
+Descr
+The large eastern gate towers above you, almost endlessly into the
+heavens.  You notice multiple gashes and gouges on the great wooden gate and
+realize how many times the city has successfully fended off attackers.  
+~
+Flags 2
+Reset M 1028 3 100
+Reset O 1026 21 100
+Reset M 1028 3 100
+Reset O 1026 21 100
+Reset M 1028 3 100
+Reset O 1026 21 100
+Reset M 1028 1 100
+Reset O 1026 1 100
+Reset M 1028 1 100
+Reset O 1026 1 100
+Door 0 0 0 4826 0 0
+~
+~
+Door 1 0 0 50501 0 0
+~
+~
+Door 2 0 0 4845 0 0
+~
+~
+Door 3 3 0 1016 30 30
+~
+door~
+End
+
+#1018
+Name Zhakar's Jewelry Shop~
+Descr
+Burnt and torn down walls surround you in this shop, horrifying you by
+even thinking what could have happend here.  Zhakar, a once rich xylarian
+noble, has a small tear in his eye as he watches this once great city fall
+to pieces.  
+~
+Flags 22
+Sector 0
+Reset M 1007 1 100
+Reset O 1020 -1 100
+Reset O 1019 5 90
+Reset O 1019 -1 100
+Reset O 54 5 90
+Reset O 57 5 90
+Reset O 51 5 90
+Reset O 60 5 90
+Reset O 1020 5 90
+Door 2 0 0 1013 45 45
+~
+door~
+End
+
+#1019
+Name In an Old, Abandoned House~
+Descr
+You stand in a half burnt, half torn down house.  You see ancient pieces
+of furniture, in the corners, but mostly just smolder and rubble.  It looks
+as though a very wealthy man once lived here.  
+~
+Flags 6
+Sector 0
+Door 4 0 0 1020 30 30
+~
+door~
+End
+
+#1020
+Name Upstairs In the Torn Down House~
+Descr
+The upstairs of this formerly richly furnished house is now missing a
+roof.  Above you the bright sun light shines done on your face, and the
+birds chirping seem to be the only noise in these ruins.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 1022 30 30
+~
+door~
+Door 3 0 0 1021 30 30
+~
+door~
+Door 5 0 0 1019 30 30
+~
+door~
+End
+
+#1021
+Name A Beaten Down Kitchen and Bathroom~
+Descr
+As you step into the room, you catch a glimpse of a beaten woman laying
+on the ground.  It looks like a freight trains just hit her, and you dont
+want to know what the awful raiders have done to her.  The counter tops are
+in ash, the roof is full of holes, and the walls have slashes and gashes in
+them.  
+~
+Flags 4
+Sector 0
+Reset M 1053 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Reset O 1044 21 100
+Reset O 1043 22 100
+Door 1 0 0 1020 30 30
+~
+door~
+End
+
+#1022
+Name A Beaten Down Bedroom~
+Descr
+A smoldering bed, covered with moldy covers, rests against the far wall. 
+There is no roof in this area either, and as you look through the glass less
+window you can see the ruins of this once great city.  The only exit is back
+to the north, into the foyer.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 1020 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You look out the window towards the poorer parts of town.  You see the
+large Xylarian arena and the south gate.  
+~
+door~
+End
+
+#1023
+Name South Main Street of Xylar~
+Descr
+You stand on one part of the south main street of xylar, to the north you
+can see the xylar square and to the south the street continues.  You look
+west and see Hanna's pubhouse, it looks like a very good place to visit.  
+~
+Reset M 1019 6 100
+Reset M 1037 3 100
+Reset O 207 6 100
+Reset O 217 4 55
+Door 0 0 0 1010 30 30
+~
+door~
+Door 2 0 0 1024 30 30
+~
+door~
+Door 3 0 0 1025 30 30
+~
+door~
+End
+
+#1024
+Name South Main Street of Xylar~
+Descr
+The south main street of Xylar is close to being non-existant here.  The
+stones that make up the road are almost completely hidden in the grass that
+now grows in between the cracked, worn cobbles.  Perhaps the lack of foot
+traffic to this area of town has caused this condition.  
+~
+Reset M 1101 1 100
+Reset M 1050 2 100
+Reset O 1031 6 100
+Reset O 217 4 100
+Door 0 0 0 1023 30 30
+~
+door~
+Door 2 0 0 1071 30 30
+~
+door~
+End
+
+#1025
+Name Hanna's Pubhouse~
+Descr
+This once cozy pub has been ransacked and destroyed. Tables and chairs
+are all scattererd all over the room broken and in pieces. Hanna the once
+owner of this fine pub has been in tears ever since the raid, hopeing one
+day to get revenge on the terror that came across this city. 
+~
+Flags 22
+Sector 0
+Reset M 1013 1 100
+Reset M 1014 1 100
+Door 1 0 0 1023 30 30
+~
+door~
+Door 3 0 0 1026 30 30
+~
+door~
+End
+
+#1026
+Name Practice Room~
+Descr
+This once cozy pub has been ransacked and destroyed. Tables and chairs
+are scattered all over the room broken into pieces. Hanna, the owner of this
+once fine pub, has been in tears ever since the raid in hope to one day get
+revenge on the terror that came across this city. 
+~
+Flags 20
+Sector 0
+Reset M 1085 1 100
+Door 1 0 0 1025 30 30
+~
+door~
+End
+
+#1027
+Name West Main Street of Xylar~
+Descr
+Western main street is filled with pedestrians strolling about admiring
+the wares of this rebuilt city.  West of here is the huge western gate that
+now protects this city.  To your north is Kharmah's shop of magic and a
+small cottage is to the south.  
+~
+Reset M 1055 2 100
+Reset O 205 6 100
+Reset O 237 21 80
+Reset O 219 4 100
+Reset O 240 12 90
+Door 0 0 0 1028 0 0
+~
+~
+Door 1 0 0 1003 30 30
+~
+door~
+Door 3 0 0 1029 30 30
+~
+door~
+End
+
+#1028
+Name Kharmah's Shop of Magic~
+Descr
+This once burnt down shop, has been rebuilt.  The owner of this shop went
+to great lengths to fix it up.  You notice that this shop has many shelves
+with strange items and gems on display.  You come to the conclusion that he
+sells magical items and wonderous gems.  You see a cloaked man sitting
+behind his counter writting scrolls, he doesn't notice that you came in. 
+You may leave back south to the streets of Xylar.  
+~
+Flags 6
+Sector 0
+Reset M 1006 1 100
+Reset O 67 5 75
+Reset O 51 5 75
+Reset O 54 5 75
+Reset O 57 5 75
+Reset O 60 5 75
+Reset M 1038 2 100
+Reset O 1031 6 100
+Reset O 1032 4 100
+Reset M 1039 3 100
+Reset O 221 4 100
+Reset O 208 6 100
+Reset O 227 5 100
+Reset O 233 8 100
+Reset O 203 7 40
+Reset O 237 21 100
+Door 2 0 0 1027 0 0
+~
+~
+End
+
+#1029
+Name Inside the Western Gate of Xylar~
+Descr
+The great western gate of Xylar is to the west, and an alley that leads
+along the city walls begins to the north of here.  Far to the east you can
+make out the central square of Xylar, with it's crystal clear fountain
+flowing in the center for all to enjoy.  
+~
+Door 0 0 0 1050 30 30
+~
+door~
+Door 1 0 0 1027 30 30
+~
+door~
+Door 2 3 0 1069 48 48
+You see a massive oak door.
+~
+oakdoor~
+Door 3 0 0 1030 30 30
+~
+door~
+End
+
+#1030
+Name The Great Western Gate of Xylar~
+Descr
+This is the great western gate of Xylar.  It has been recaptured from
+evil raiders and now serves as another stronghold for the armies of good. 
+Sentries stand here, prepared to defend the proud city of Xylar and its
+residents from the forces of evil.  
+~
+Flags 2
+Reset M 1032 3 100
+Reset O 29010 21 100
+Reset M 1032 3 100
+Reset O 29010 21 100
+Reset M 1032 3 100
+Reset O 29010 21 100
+Reset M 1032 1 100
+Reset O 29010 1 100
+Reset M 1032 1 100
+Reset O 29010 1 100
+Door 0 0 0 4802 0 0
+~
+~
+Door 1 0 0 1029 30 30
+~
+door~
+Door 2 0 0 4827 0 0
+~
+~
+Door 3 0 0 1152 0 0
+~
+~
+End
+
+#1031
+Name North Main Street of Xylar~
+Descr
+The large north main street has room enough for two full-sized carts on
+it going opposite directions.  Nowhere else have you seen such a large road.
+Every stone underfoot seems to be carefully polished.  The bank of Xylar
+lies to the east, and Chuck's training room is to the west.  
+~
+Reset M 1101 1 100
+Reset M 1035 4 100
+Reset O 1028 6 100
+Reset O 218 4 100
+Door 0 0 0 1033 30 30
+~
+door~
+Door 1 0 0 1039 55 55
+A massive stone door marks the entrance to the Royal Bank of Xylar.  
+~
+stonedoor~
+Door 2 0 0 1012 30 30
+~
+door~
+Door 3 0 0 1032 55 55
+A large steel door leads to Chuck's house of training.  
+~
+steeldoor~
+End
+
+#1032
+Name Broken Down Training Arena~
+Descr
+The once great arena for traning has been abandoned during the raid.  The
+weapons and armor that line the arena are all broken and rusty, not much is
+left of the arena of traning but many stories can be remembered of the
+masterful teaching that went on here.  
+~
+Flags 22
+Sector 0
+Reset M 1008 1 100
+Door 0 0 0 1034 30 30
+~
+door~
+Door 1 1 0 1031 55 55
+A steeldoor lies to the east.
+~
+steeldoor~
+End
+
+#1033
+Name North Main Street of Xylar~
+Descr
+The north main street stretches both north and south here.  It's simply
+enormous in width and beautiful in stone-design.  The great auction house of
+Xylar is to the east, and Annabette's training room for healing and
+protection is to the west.  
+~
+Reset M 1037 3 100
+Reset O 207 6 100
+Reset O 217 4 30
+Door 0 0 0 1035 30 30
+~
+door~
+Door 2 0 0 1031 30 30
+~
+door~
+Door 3 0 0 1034 30 30
+You can see the door to Annabette's Training House.  
+~
+door~
+End
+
+#1034
+Name Sanctuary Of Xylar Ruins~
+Descr
+This large room was some how protected through the raid on Xylar. 
+Toatally untouched, books still adorn the walls of this large room.  Most of
+them are glowing or are titled with mysterious runes that makes your eyes
+swim.  Annabette stands in the center of the room with a book in her hand. 
+Waiting to teach anyone who ventures into the ruined city of Xylar.  
+~
+Flags 22
+Sector 0
+Reset M 1009 1 100
+Door 0 0 0 0 30 30
+You bump into the wall of the Training Center.  OUCH!
+~
+door~
+Door 1 0 0 1033 30 30
+~
+door~
+Door 2 0 0 1032 30 30
+~
+door~
+Door 3 3 0 1042 40 40
+The backdoor looks quite sturdy.  
+~
+backdoor~
+End
+
+#1035
+Name North Main Street of Xylar~
+Descr
+The large street narrows to the north and widens to the south.  You can
+see the northern gate of Xylar to the north of here.  There is a door to the
+east and the public park of Xylar is to the west.  
+~
+Reset M 1019 6 100
+Door 0 0 0 1044 30 30
+~
+door~
+Door 1 3 0 1037 35 35
+You see the front door to the slaughterhouse of Xylar.  
+~
+door~
+Door 2 0 0 1033 30 30
+~
+door~
+Door 3 0 0 1036 0 0
+~
+~
+End
+
+#1036
+Name Public Park of Xylar~
+Descr
+You stand in the most beautfil place in Xylar, it is the public park. 
+The air is fresh and you are full of energy.  
+~
+Sector 3
+Door 0 0 0 1041 30 30
+~
+door~
+Door 1 0 0 1035 0 0
+~
+~
+Door 2 0 0 0 30 30
+The training center is located to the south.  Unfortunately there is no
+door here so that you may enter.  
+~
+door~
+Door 3 0 0 1040 30 30
+~
+door~
+End
+
+#1037
+Name A Slaughterhouse in Xylar~
+Descr
+Blood stains and horrible smells meet your nostrils as you stand here. 
+You wonder which gourmet establishments in Xylar would buy their meat from
+this hole in the wall.  
+~
+Flags 4
+Sector 0
+Reset M 1015 3 100
+Reset M 1015 3 100
+Reset M 1015 3 100
+Door 3 3 0 1035 35 35
+You see the door to the slaughterhouse.  
+~
+door~
+End
+
+#1038
+Name The Great Xylarian Auction House~
+Descr
+Many excellent deals have been finalized, and many goods have been traded
+here.  Legend has it that great adventurers stop by this place to sell
+incredible wonders that even the stores cannot afford.  
+~
+Flags 22
+Sector 0
+Door 2 0 0 1039 30 30
+~
+door~
+Door 3 0 0 1033 30 30
+~
+door~
+End
+
+#1039
+Name The Bank of Xylar~
+Descr
+The Bank of Xylar looks stronger than ever.  Large iron bars protect the
+banker and the safe from thieves.  You see two large guards that look like
+they could finish you in a second.  The bank didn't really recover from the
+raid, but they did the best they could.  Some marks or still left on the
+walls but are hardly noticed.  You may leave back east to the streets of
+Xylar.  
+~
+Flags 1030
+Sector 0
+Reset M 1010 1 100
+Reset O 1028 6 100
+Reset O 1029 4 100
+Reset M 1011 2 100
+Reset O 1035 21 65
+Door 3 1 0 1031 55 55
+You see a massive stone door.
+~
+stonedoor~
+End
+
+#1040
+Name Public Park~
+Descr
+You stand in the most beautiful place in Xylar, it is the public park. 
+The air is fresh and you feel full of energy.  
+~
+Sector 3
+Reset M 1017 1 100
+Reset O 217 4 100
+Reset O 207 6 100
+Reset O 1005 21 100
+Reset M 1018 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Door 0 0 0 1043 30 30
+~
+door~
+Door 1 0 0 1036 30 30
+~
+door~
+Door 2 0 0 1042 30 30
+~
+door~
+Door 3 0 0 1046 30 30
+~
+door~
+End
+
+#1041
+Name Public Park~
+Descr
+You stand in the public park of xylar, you look around and see a large
+park.  But to the east you can see large gates, it looks like the northern
+gates.  
+~
+Sector 3
+Door 0 0 0 0 30 30
+The city walls of Xylar block your way to the north.
+~
+door~
+Door 2 0 0 1036 30 30
+~
+door~
+Door 3 0 0 1043 30 30
+~
+door~
+End
+
+#1042
+Name Public Park~
+Descr
+You stand in the public park of Xylar, in every direction you look there
+are people having fun.  You look east and see a door, which looks like one
+of the entrances to the park.  
+~
+Sector 3
+Door 0 0 0 1040 30 30
+~
+door~
+Door 1 3 0 1034 40 40
+The backdoor to Annabette's training house can be seen.  
+~
+backdoor~
+Door 2 0 0 0 30 30
+A large wall blocks your way to the south.  
+~
+door~
+Door 3 0 0 1047 30 30
+~
+door~
+End
+
+#1043
+Name Public Park~
+Descr
+You stand in the public park of Xylar, you look around and see a large
+park all around you.  People are walking around, and having fun.  You never
+seen people having this much fun in Xylar, since before the raid.  
+~
+Sector 3
+Reset M 1019 6 100
+Door 0 0 0 0 30 30
+The tall city walls of Xylar raise up to the north, blocking your way.
+~
+door~
+Door 1 0 0 1041 30 30
+~
+door~
+Door 2 0 0 1040 30 30
+~
+door~
+Door 3 0 0 1045 30 30
+~
+door~
+End
+
+#1044
+Name Inside the Northern Gate of Xylar~
+Descr
+You stand just inside the large northern gate of Xylar.  The public park
+of Xylar can be seen to the west, and the northern main road opens up to the
+south.  A dark, dirty-looking alley begins to the east of here.  
+~
+Door 0 0 0 1068 30 30
+~
+door~
+Door 1 0 0 1051 30 30
+~
+door~
+Door 2 0 0 1035 30 30
+~
+door~
+End
+
+#1045
+Name Public Park~
+Descr
+The northern and western walls of Xylar meet here to form a large gap in
+the northwest corner of Xylar.  In all the other directions you can see a
+large beautiful park.  
+~
+Flags 2
+Sector 3
+Reset M 1057 1 100
+Reset O 1058 -1 20
+Door 0 0 0 0 30 30
+The tall city walls of Xylar block your movement to the north.
+~
+door~
+Door 1 0 0 1043 30 30
+~
+door~
+Door 2 0 0 1046 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The large, towering walls of Xylar block your way to the west.
+~
+door~
+End
+
+#1046
+Name Public Park~
+Descr
+The huge western wall of Xylar rises up in the west, but in all other
+directions you can see a beautiful park.  The air is clean and you feel full
+of energy and life.  
+~
+Sector 3
+Door 0 0 0 1045 30 30
+~
+door~
+Door 1 0 0 1040 30 30
+~
+door~
+Door 2 0 0 1047 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The great walls of Xylar rise up in this direction, blocking your way.
+~
+door~
+End
+
+#1047
+Name Public Park~
+Descr
+The huge western wall of Xylar rises up to the west, and there is a
+wooden gate that leads out of this park to the south of here.  You look
+around and you can see large park in every direction.  
+~
+Sector 3
+Reset M 1101 1 100
+Door 0 0 0 1046 30 30
+~
+door~
+Door 1 0 0 1042 30 30
+~
+door~
+Door 2 3 0 1048 46 46
+You see a large, wooden gate leading into an alley that runs along the
+great Xylarian west wall.  
+~
+gate~
+Door 3 0 0 0 30 30
+Alas, the stone wall blocks your progress to the west.
+~
+door~
+End
+
+#1048
+Name A Twisty Alley Along the Xylarian City Walls~
+Descr
+Tall city walls rise up to the west of you, and high buildings rise up to
+the east, making this alley very narrow and cramped.  The alley is fairly
+clean and well-lit, and you don't feel in immediate danger here.  
+~
+Flags 2
+Door 0 3 0 1047 46 46
+You see a large, wooden gate leading into the gardens of Xylar.
+~
+gate~
+Door 1 0 0 0 30 30
+There is a wall in that direction.
+~
+door~
+Door 3 0 0 1049 0 0
+~
+~
+End
+
+#1049
+Name A Twisty Alley Along the Xylarian City Walls~
+Descr
+The twisty alley bends north and west here.  To the north you can see a
+gate a ways off.  Walls rise up to the south and east, blocking your way in
+those directions.  
+~
+Flags 2
+Reset M 1101 1 100
+Door 1 0 0 1048 30 30
+There is a wall in that direction.
+~
+door~
+Door 2 0 0 1050 0 0
+~
+~
+End
+
+#1050
+Name A Twisty Alley Along the Xylarian City Walls~
+Descr
+Tall city walls rise up to the west of you, and high buildings rise up to
+the east, making this alley very narrow and cramped.  The alley is fairly
+clean and well-lit, and you don't feel in immediate danger here.  
+~
+Door 0 0 0 1049 30 30
+The city wall of Xylar bends slightly here, blocking the way.
+~
+door~
+Door 2 0 0 1029 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The huge western wall of Xylar blocks the way.
+~
+door~
+Door 4 3 0 0 30 30
+~
+officedoor~
+End
+
+#1051
+Name A Dark Alley in Xylar~
+Descr
+The dark, dirty alley smells of puke and excrement.  You can see a small
+window to the south and the alley continues to the east.  You notice that no
+guards dare enter this alley; perhaps you should follow their example.  
+~
+Flags 2
+Door 1 0 0 1064 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You can make out the words, "slaughterhouse" on a sign in the room to the
+south.  Unfortunately the window is dirty and you cannot see anything else
+inside the building.  
+~
+door~
+Door 3 0 0 1044 30 30
+~
+door~
+End
+
+#1052
+Name A Small Attic above the Inn of Xylar~
+Descr
+The attic looks dusty and unused.  Some of the floorboards are loose, and
+there is a smell of must in the air.  You can see the city of Xylar and the
+temple of Xylar out a window to the north.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 30 30
+You can see the temple of Xylar and many buildings as you look out the
+small window.  Far to the north you can make out a large park and the
+northern gate of Xylar.  
+~
+door~
+End
+
+#1053
+Name Inside a Tall Tower in Xylar~
+Descr
+You stand inside a tall tower.  The walls seem to radiate a magical
+light, illuminating the room.  A staircase leads up into the darkness, and a
+cool breeze tells you there might be some sort of opening in the top of the
+tower...  Perhaps a room with a window.  There is a strange evil aura
+eminating from the ground here, and you feel afraid when you consider
+exploring below.  
+~
+Flags 4
+Sector 0
+Door 2 519 0 1008 9 9
+You see a massive iron door that provides entry and departure to and from
+the tower.  
+~
+towerdoor~
+Door 4 0 0 1054 30 30
+~
+door~
+End
+
+#1054
+Name Second Level of the Xylarian Tower~
+Descr
+The stone stairs are worn and several have large cracks in them.  A cool
+breeze blows down from the top of the staircase, refreshing your tired legs
+and weary body.  The stairs continue up into the darkness and down.  
+~
+Flags 5
+Sector 0
+Door 4 0 0 1055 30 30
+~
+door~
+Door 5 0 0 1053 30 30
+~
+door~
+End
+
+#1055
+Name Third Level of the Xylarian Tower~
+Descr
+You stand on a small platform in the long staircase leading up and down
+in this large tower.  The smell of damp stones and old scrolls assault your
+nostrils as you begin to breath heavily from the heavy workout the stairs
+are giving your legs.  
+~
+Flags 5
+Sector 0
+Door 4 0 0 1057 30 30
+~
+door~
+Door 5 0 0 1054 30 30
+~
+door~
+End
+
+#1056
+Name Tower Basement~
+Descr
+The basement is a cold, musty chamber, its walls blackened and scorched
+from the fireballs and other devastating magics wielded by dark elves
+during the conquest of Xylar.  The presence of evil dweomers is
+overwhelming in this blasted room, perhaps a combination of the dark
+elven magic and something older, something which has laired here for
+countless years.  A stone slab, its underside cracked and pitted, is inset
+in the ceiling, providing access to the tower above.
+~
+Flags 5
+Sector 0
+Reset M 1021 1 100
+Reset M 1022 3 100
+Reset M 1022 3 100
+Reset M 1023 1 85
+Reset O 1022 21 10
+Door 2 3 0 1125 44 44
+The huge, stone wall looks moveable to the south...
+~
+stonewall~
+End
+
+#1057
+Name Top Level of the Xylarian Tower~
+Descr
+After climbing 758 stairs, you finally have reached the top.  A bright
+light eminating from underneath a door to the north illuminates the room.  A
+long staircase leads down from here.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 1058 40 40
+You see a thick wooden door.  
+~
+door~
+Door 5 0 0 1055 30 30
+~
+door~
+End
+
+#1058
+Name Inside a Study atop the Xylarian Tower~
+Descr
+This large stone room atop this massive tower seems to eminate an
+unexplainable power.  There is a large wooden desk set against the west
+wall, and a small window provides a magnificent view of the city to the
+west.  A cool breeze blows in through the window, and you feel refreshed
+from the long climb up the stairs.  
+~
+Flags 4
+Sector 0
+Reset M 1020 1 100
+Reset O 218 4 100
+Reset O 205 6 100
+Door 2 3 0 1057 40 40
+You see a thick wooden door.  
+~
+door~
+Door 3 0 0 0 30 30
+You peer through a small window to the west.  You can see almost the
+entire city of Xylar stretching out before your eyes.  The people look like
+small ants and you realize you must be very high up.  
+~
+door~
+End
+
+#1059
+Name A Dark Alley in Xylar~
+Descr
+The alley runs north and south here.  You carefully notice that even the
+brave city guards of Xylar dare not venture into this dangerous (and smelly)
+part of town.  
+~
+Flags 2
+Shd 1
+Door 0 0 0 1060 30 30
+~
+door~
+Door 2 0 0 1200 0 0
+~
+~
+End
+
+#1060
+Name A Dark Alley in Xylar~
+Descr
+The alley runs north and south here.  You carefully notice that even the
+brave city guards of Xylar dare not venture into this dangerous (and smelly)
+part of town.  Walls tower above you to the east and west.  
+~
+Shd 1
+Reset M 1101 1 100
+Door 0 0 0 1061 30 30
+~
+door~
+Door 2 0 0 1059 30 30
+~
+door~
+End
+
+#1061
+Name A Dark Alley in Xylar~
+Descr
+The alley splits here, heading north, west and south.  You can see the
+corner of the city of Xylar to the north, and a cleaner alley to the west. 
+To the south you can make out eastern main street.  
+~
+Shd 1
+Door 0 0 0 1062 30 30
+~
+door~
+Door 2 0 0 1060 30 30
+~
+door~
+Door 3 0 0 1065 30 30
+~
+door~
+End
+
+#1062
+Name The Northeast Corner of Xylar~
+Descr
+The eastern and northern city walls of Xylar meet here to form the corner
+of the city.  There are huge piles of dirt and garbage stacked against the
+walls, and the smell is nearly unbearable.  
+~
+Reset M 1101 1 100
+Reset M 1024 3 30
+Reset O 217 4 100
+Door 0 0 0 0 30 30
+The towering city wall of Xylar blocks your way.
+~
+door~
+Door 1 0 0 0 30 30
+The huge eastern city wall of Xylar blocks your way.
+~
+door~
+Door 2 0 0 1061 30 30
+~
+door~
+Door 3 0 0 1063 30 30
+~
+door~
+End
+
+#1063
+Name A Dark Alley in Xylar~
+Descr
+The alley is cluttered with debris and rotten trash.  The smell of puke
+and bad lager hangs in the air.  The alley continues both east and west.  
+~
+Shd 1
+Reset M 1024 3 75
+Reset O 205 6 5
+Reset O 238 21 95
+Reset O 207 6 100
+Reset O 217 4 100
+Reset O 230 8 10
+Door 1 0 0 1062 30 30
+~
+door~
+Door 3 0 0 1064 30 30
+~
+door~
+End
+
+#1064
+Name A Dark Alley in Xylar~
+Descr
+The alley is cluttered with debris and rotten trash.  The smell of puke
+and bad lager hangs in the air.  The alley continues both east and west.  
+~
+Shd 1
+Reset M 1024 3 100
+Reset O 230 8 15
+Reset O 219 4 40
+Reset O 207 6 100
+Reset O 217 4 100
+Door 1 0 0 1063 30 30
+~
+door~
+Door 3 0 0 1051 30 30
+~
+door~
+End
+
+#1065
+Name A Dark Alley in Xylar~
+Descr
+This small branch of the alley seems very clean and neat, and you
+speculate that someone hires a janitor to clean the street here.  The smell
+of excrement and puke wafts in from the alley to the east of here.  
+~
+Shd 1
+Door 1 0 0 1061 30 30
+~
+door~
+Door 3 0 0 1066 30 30
+~
+door~
+End
+
+#1066
+Name A Dark Alley in Xylar~
+Descr
+The alley ends abruptly here as a large, grey stone wall rises up to the
+west.  There is a small hut to the north, built almost into the side of the
+wall itself.  
+~
+Shd 1
+Door 1 0 0 1065 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A large stone wall blocks your way.
+~
+door~
+End
+
+#1067
+Name Inside a Rundown Shack in Xylar~
+Descr
+Scraps of paper are scattered all around the hut; on the dirt floor, on a
+table, on some shelves...  This hut looks like it would be the perfect place
+for some shady characters to hang out.  
+~
+Flags 4
+Sector 0
+Reset M 1025 2 100
+Reset O 211 9 85
+Reset O 217 4 100
+Reset O 207 6 100
+Reset M 1025 2 100
+Reset O 212 9 45
+Reset O 217 4 100
+Reset O 217 6 100
+Reset M 1026 1 100
+Reset O 218 4 100
+Reset O 212 9 75
+Reset O 203 7 60
+Reset O 232 8 85
+Reset O 205 6 100
+Reset O 1025 21 97
+End
+
+#1068
+Name The Great Northern Gate of Xylar~
+Descr
+Massive wooden doors tower above, the only gates to survive the raid. 
+This was the legendary gate during the raid, because it was the only one to
+be untouched because of a great guard.  The only one to ward of darkies, he
+is a pure legend here in Xylar and will remain a legend in the future of the
+city.  
+~
+Flags 2
+Reset M 1033 1 100
+Reset O 29010 21 100
+Reset M 1034 2 100
+Reset O 29010 21 100
+Reset M 1034 2 100
+Reset O 29010 21 100
+Reset M 1034 1 100
+Reset O 29010 1 100
+Reset M 1034 1 100
+Reset O 29010 1 100
+Door 0 0 0 1165 0 0
+~
+~
+Door 1 0 0 5827 0 0
+~
+~
+Door 2 0 0 1044 30 30
+~
+door~
+Door 3 0 0 5826 0 0
+~
+~
+End
+
+#1069
+Name Thom's House of Thievery~
+Descr
+This is Thom's house of thievery where young thiefs come to train there
+skills.  A big, giant guard stands here keeping a watchful over you to make
+sure you don't do anything you may regret.  Thom stands here teaching a
+young thief the ways of the dagger.  
+~
+Flags 6
+Sector 0
+Reset M 1029 1 100
+Reset O 207 6 100
+Reset O 218 4 100
+Reset M 1030 1 100
+Reset O 217 4 100
+Reset O 207 6 100
+Door 0 3 0 1029 48 48
+You see a massive oak door.
+~
+oakdoor~
+End
+
+#1070
+Name A Secret Escape Passage~
+Descr
+This damp passageway smells of wet soil and rotten garbage.  A small
+sliver of light comes from underneath a crack in the north wall.  The air is
+still and heavy, and you have trouble breathing.  
+~
+Flags 7
+Sector 0
+Door 0 7 0 1069 48 48
+There is a faint light coming from under a secret door.
+~
+secretdoor~
+Door 4 3 0 1159 48 48
+You see a strange trapdoor with small beams of light coming through it.
+~
+trapdoor~
+End
+
+#1071
+Name South Main Street of Xylar~
+Descr
+Saint Orin way intersects south main street here, forming a large
+four-way junction.  This part of town looks less well-kept than the northern
+parts of town, and there is a strange stench blowing in from the west of
+here.  You can see the south gate of Xylar to the south.  
+~
+Door 0 0 0 1024 30 30
+~
+door~
+Door 2 0 0 1072 30 30
+~
+door~
+End
+
+#1072
+Name The Great Southern Gate of Xylar~
+Descr
+This is the great southern gate of Xylar.  Two powerful assassins stand
+here in the shadows, prepared to defend the southern gates at all costs. 
+South of here is the ancient southern road and the sparkling fountain of
+Xylar can be heard off to the distance north of here.  
+~
+Flags 2
+Reset M 1102 2 100
+Reset O 29010 21 100
+Reset M 1102 2 100
+Reset O 29010 21 100
+Reset M 1073 2 100
+Reset O 29010 21 100
+Reset M 1073 2 100
+Reset O 1063 10 11
+Reset M 1073 1 100
+Reset O 29010 1 100
+Door 0 0 0 1071 30 30
+~
+door~
+Door 2 0 0 1187 0 0
+~
+~
+Door 3 0 0 1189 0 0
+~
+~
+End
+
+#1073
+Name Saint Orin Way, South Xylar~
+Descr
+The grass is lush and green here.  Strange giggling and grunts of
+ecstacy come from the whorehouse just north of here.  Back to your east
+is the south main street of Xylar.  
+~
+Sector 0
+Door 0 3 0 1074 40 40
+You see a large, sturdy wooden door.  
+~
+door~
+Door 2 0 0 0 30 30
+The tall walls of Xylar rise up and block your way to the south.
+~
+door~
+Door 3 0 0 1085 30 30
+~
+door~
+End
+
+#1074
+Name The Infamous Xylarian Whorehouse~
+Descr
+From the crystal candle-holder on the ceiling to the pink carpeting, the
+room you stand in speaks of fleshy pleasure.  A desk has been set up in the
+center of this luxuriously furnished room, and a staircase wanders upward to
+the second floor of this building.  
+~
+Flags 6
+Sector 0
+Reset M 1045 1 100
+Reset O 217 4 100
+Reset O 1031 6 100
+Reset M 1046 2 100
+Reset O 1034 4 100
+Reset O 1033 6 100
+Reset M 1046 2 100
+Reset O 1033 6 100
+Reset O 1034 4 100
+Door 2 3 0 1073 40 40
+You see a large, sturdy wooden door.  
+~
+door~
+Door 4 0 0 1086 30 30
+~
+door~
+End
+
+#1075
+Name Saint Orin Way, South Xylar~
+Descr
+The streets become almost nonexistant here.  The grass is green and lush
+underfoot, and although this area of town seems dirtier than the rest of
+town, there seems to be a strange feeling of peace and nature here.  
+~
+Sector 0
+Door 0 3 0 1107 40 40
+You see a large door leading into the southern tower of Xylar.  
+~
+door~
+Door 1 0 0 1076 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The tall walls of Xylar rise up and block your way to the south.
+~
+door~
+End
+
+#1076
+Name Saint Orin Way, South Xylar~
+Descr
+Tall weeds and grasses grow in the dirt all around you.  Small
+wildflowers bloom by the edge of the city wall to the south.  To the north
+you can see a large expanse of land which has been dedicated to parkland.  
+~
+Sector 0
+Door 1 0 0 1078 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The tall walls of Xylar rise up and block your way to the south.
+~
+door~
+Door 3 0 0 1075 30 30
+~
+door~
+End
+
+#1077
+Name A Small Park in Xylar~
+Descr
+Green grass and beautiful red flowers surround you.  The smell of sweet
+wildlife and freshly cut grass makes your body feel alive and full of
+energy.  The park continues to the north.  The entire park was apparently
+unscathed during the siege.  
+~
+Sector 0
+Door 0 0 0 1082 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You cannot go that way... the wall of the pet store blocks your progress.
+~
+door~
+Door 3 0 0 0 30 30
+A large stone wall blocks your way to the west.
+~
+door~
+End
+
+#1078
+Name Saint Orin Way, South Xylar~
+Descr
+There is a small dirt trail here, as if many people had trod down the
+grass here.  There is a sign on a door to the north that reads, "House of
+fine furry animals".  To the east, you see the entrance to the infamous
+arena of Xylar.  
+~
+Sector 0
+Door 0 515 0 1079 20 20
+You see a plain wooden door.  
+~
+door~
+Door 2 0 0 0 30 30
+The tall walls of Xylar rise up to the south, blocking your way.
+~
+door~
+Door 3 0 0 1076 30 30
+~
+door~
+End
+
+#1079
+Name Xylar's House of Animals and Furry Creatures~
+Descr
+The smell of wet animals and musty straw leaves you gasping for breath as
+you inhale.  There is a strange aura of peace about this small barn-like
+house, and you feel at peace with nature here.  
+~
+Flags 86
+Sector 0
+Door 1 23 0 1080 30 30
+A massive iron grate leads out to the animal shelter of this pet shop.  
+~
+irongrate~
+Door 2 1 0 1078 20 20
+You see a plain wooden door.
+~
+door~
+End
+
+#1080
+Name Pet Storage Room~
+Descr
+~
+Flags 2
+Reset M 1012 1 100
+Door 3 23 0 1079 30 30
+~
+irongrate~
+End
+
+#1081
+Name Entrance to the Xylarian Gladitorial Arena~
+Descr
+The stone floor is splotched with ominous red stains, and the walls seem
+to speak of death and destruction.  To the north is a small door, and to the
+east the arena opens up before you.  
+~
+Shd 1
+Sector 0
+Reset M 1042 1 100
+Reset O 218 4 100
+Reset O 202 7 37
+Reset O 236 21 100
+Reset O 208 6 100
+Door 0 3 0 1088 46 46
+You see a plain door that leads to the gladiators' quarters.  
+~
+door~
+Door 1 3 0 1097 44 44
+You see the large, strong arena door, supposedly the only way in and out
+of the arena for the gladiators.  
+~
+ArenaDoor~
+Door 2 0 0 0 30 30
+The huge city wall of Xylar impedes your progress to the south.
+~
+door~
+End
+
+#1082
+Name A Small Park in Xylar~
+Descr
+Green grass and beautiful red flowers surround you.  The smell of sweet
+wildlife and freshly cut grass makes your body feel alive and full of
+energy.  You can see the park continue to the east, west and south.  
+~
+Sector 0
+Door 0 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 1 0 0 1084 30 30
+~
+door~
+Door 2 0 0 1077 30 30
+~
+door~
+Door 3 0 0 1083 30 30
+~
+door~
+End
+
+#1083
+Name A Small Park in Xylar~
+Descr
+Green grass and beautiful red flowers surround you.  The smell of sweet
+wildlife and freshly cut grass makes your body feel alive and full of
+energy.  The soil underfoot is soft and comfortable to walk upon.  
+~
+Sector 0
+Reset O 1046 -5 100
+Door 0 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 1 0 0 1082 30 30
+~
+door~
+Door 2 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 3 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+End
+
+#1084
+Name A Small Park in Xylar~
+Descr
+Green grass and beautiful red flowers surround you.  The smell of sweet
+wildlife and freshly cut grass makes your body feel alive and full of
+energy.  A cool breeze blows gently across the flowers, creating a beautiful
+rippling effect.  
+~
+Sector 0
+Reset M 1066 1 100
+Reset O 207 6 100
+Door 0 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 1 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 2 0 0 0 30 30
+A large stone wall, probably the back of a store or house, blocks the way.
+~
+door~
+Door 3 0 0 1082 30 30
+~
+door~
+End
+
+#1085
+Name Xylar City Dump and Junkyard~
+Descr
+Pieces of metal and rotten fruit and garbage are strewn all over this
+grotesque field.  As you look around, you think you can make out a few
+rotting corpses in several of the large heaps of rubbish.  
+~
+Flags 2
+Sector 0
+Door 1 0 0 1073 30 30
+~
+door~
+End
+
+#1086
+Name Upstairs in the Whorehouse of Xylar~
+Descr
+The room is totally covered with plush pink cooshie pillows and fuzzy
+wallpaper.  There is a door to the west, and a small staircase leads back
+down to the main floor.  
+~
+Flags 4
+Sector 0
+Door 3 3 0 1087 35 35
+You see a small wooden door, probably leading to a bedroom.  
+~
+door~
+Door 5 0 0 1074 30 30
+~
+door~
+End
+
+#1087
+Name A Large Bedroom in the Whorehouse of Xylar~
+Descr
+You stand in a large bedroom.  There is a pink, soft bed in the middle of
+the room, and the smell of perfume and fish lingers in the air.  There is a
+window to the west of the room, although all you can see when you look out
+of it is the Xylarian dump.  
+~
+Flags 4
+Sector 0
+Reset M 1071 1 100
+Reset M 1072 1 100
+Door 1 3 0 1086 35 35
+You see the bedroom door.
+~
+door~
+End
+
+#1088
+Name Passage to the Competitor's Quarters~
+Descr
+The stone passageway ends here, and a large spiral staircase leads down
+to the gladiators' quarters.  The gladiators are obviously not treated that
+well judging from the stench and the upkeep of this passageway.  
+~
+Flags 2
+Shd 1
+Sector 0
+Door 2 3 0 1081 46 46
+You see the door that leads out of the gladiators' quarters.
+~
+door~
+Door 5 0 0 1089 30 30
+~
+door~
+End
+
+#1089
+Name The Gladiators' Quarters~
+Descr
+The gray stone walls and damp air give this passage a dungeon-like feel. 
+The hallway continues to the east, and a stairway leads up from here, back
+to the street level of Xylar.  
+~
+Flags 4
+Sector 0
+Reset M 1051 1 100
+Reset O 237 21 100
+Reset O 202 7 40
+Reset O 206 6 100
+Reset O 219 4 100
+Door 1 0 0 1090 30 30
+~
+door~
+Door 4 0 0 1088 30 30
+~
+door~
+End
+
+#1090
+Name The Gladiators' Quarters~
+Descr
+The many gray, damp stones make up the dreary walls of this corridor. 
+Doors to the north and south make this place look just like an underground
+dungeon.  No wonder the gladiators are eager to die.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 1091 50 50
+You see a large stone door.  
+~
+stonedoor~
+Door 1 0 0 1093 30 30
+~
+door~
+Door 2 3 0 1092 40 40
+You see a massive wooden door, probably leading into a gladiator's cell.  
+~
+woodendoor~
+Door 3 0 0 1089 30 30
+~
+door~
+End
+
+#1091
+Name A Gladiator's Cell~
+Descr
+The dreary wgray walls look almost clean here, and you notice the straw
+bed in the corner is neat and tidy.  The dirt underfoot is dry and soft, and
+this cell almost looks like it would be bearable to live in...  Almost.  
+~
+Flags 4
+Sector 0
+Reset M 1047 2 100
+Reset O 207 6 100
+Door 2 0 0 1090 50 50
+~
+door~
+End
+
+#1092
+Name A Gladiator's Cell~
+Descr
+A small note hangs on the wall...  It reads, "Hoem swete hoem".  There is
+a pile of straw in the corner which is obviously used as a bed and bathroom
+(and eating area and lounge area).  
+~
+Flags 4
+Sector 0
+Reset M 1022 3 100
+Door 0 0 0 1090 40 40
+~
+door~
+End
+
+#1093
+Name The Gladiators' Quarters~
+Descr
+The many gray, damp stones make up the dreary walls of this corridor. 
+Doors to the north and south make this place look just like an underground
+dungeon.  No wonder the gladiators are eager to die.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 1094 40 40
+You see a heavy iron door.
+~
+irondoor~
+Door 1 7 1037 1096 55 55
+You see an incredibly enormous door made out of fortified steel.
+~
+steeldoor~
+Door 2 3 0 1095 45 45
+You see an enormous wooden door.  
+~
+woodendoor~
+Door 3 0 0 1090 30 30
+~
+door~
+End
+
+#1094
+Name A Small Gladiator's Cell~
+Descr
+You stand inside of a bleak, gray cell, which a poor gladiator calls his
+home.  Horrible smells come from a sleeping mat in the corner, and the air
+here is stagnant and thick.  
+~
+Flags 4
+Sector 0
+Reset M 1047 2 100
+Reset O 207 6 100
+Door 2 3 0 1093 40 40
+You see a massive iron door, leading out into the gladitors' passageway.  
+~
+irondoor~
+End
+
+#1095
+Name A Large Galdiator's Cell~
+Descr
+You stand in a large cell, and from the size of the luxurious straw bed
+in the corner, you can tell that the gladiator who lives here is respected
+greatly.  A small grate to the south provides a small view of the arena.  
+~
+Flags 4
+Sector 0
+Reset M 1048 1 100
+Reset O 7607 -1 5
+Reset O 5916 -1 25
+Reset O 5915 -1 25
+Reset O 5914 -1 25
+Reset O 5913 -1 25
+Reset O 5912 -1 25
+Reset O 5911 -1 25
+Reset O 5910 -1 25
+Reset O 5909 -1 25
+Reset O 5908 -1 25
+Reset O 5907 -1 25
+Reset O 5906 -1 25
+Reset O 5905 -1 25
+Reset O 5903 -1 25
+Reset O 5902 -1 25
+Reset O 5901 -1 25
+Reset O 5900 -1 25
+Door 0 3 0 1093 45 45
+You see a large wooden door, leading out of the cell.  
+~
+woodendoor~
+Door 2 0 0 0 30 30
+As you look out the small grate, you can see dust and dirt, and a tiny
+bit of the arena.  The iron bars that run across the small window prevent
+any chance of escape through the window.  
+~
+door~
+End
+
+#1096
+Name A Huge Underground Cell~
+Descr
+From the horrible stench and lack of a neat straw bed, you deduct that
+this is where they keep the horrible beasts some of the gladiators fight. 
+There is a huge pile of excrement in the corner, and the dirt floor is damp
+and sticky.  
+~
+Flags 4
+Sector 0
+Reset M 1049 1 100
+Reset O 10008 1 1
+Reset O 53 -1 1
+Door 3 7 1037 1093 55 55
+You see a fortified steel, doubly-reinforced door.
+~
+steeldoor~
+End
+
+#1097
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1043 2 100
+Reset O 938 -1 100
+Door 0 0 0 1098 30 30
+~
+door~
+Door 1 0 0 1100 30 30
+~
+door~
+Door 2 0 0 1099 30 30
+~
+door~
+Door 3 3 0 1081 44 44
+You see the arena door... the only way out of this blood-covered arena.
+~
+ArenaDoor~
+End
+
+#1098
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1043 2 50
+Reset O 236 21 100
+Reset O 207 6 100
+Reset O 217 4 25
+Door 0 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 1 0 0 1101 30 30
+~
+door~
+Door 2 0 0 1097 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+End
+
+#1099
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Door 0 0 0 1097 30 30
+~
+door~
+Door 1 0 0 1102 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 3 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+End
+
+#1100
+Name In the Center of the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1041 2 100
+Reset O 207 6 100
+Door 0 0 0 1101 30 30
+~
+door~
+Door 1 0 0 1104 30 30
+~
+door~
+Door 2 0 0 1102 30 30
+~
+door~
+Door 3 0 0 1097 30 30
+~
+door~
+End
+
+#1101
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Door 0 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 1 0 0 1103 30 30
+~
+door~
+Door 2 0 0 1100 30 30
+~
+door~
+Door 3 0 0 1098 30 30
+~
+door~
+End
+
+#1102
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  There is a large grate to
+the south.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Door 0 0 0 1100 30 30
+~
+door~
+Door 1 0 0 1105 30 30
+~
+door~
+Door 2 3 0 1106 30 30
+You see a huge grate leading into the lions' pit.
+~
+grate~
+Door 3 0 0 1099 30 30
+~
+door~
+End
+
+#1103
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Door 0 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 1 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 2 0 0 1104 30 30
+~
+door~
+Door 3 0 0 1101 30 30
+~
+door~
+End
+
+#1104
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Reset O 938 -1 100
+Reset M 1041 2 45
+Reset O 207 6 100
+Door 0 0 0 1103 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 2 0 0 1105 30 30
+~
+door~
+Door 3 0 0 1100 30 30
+~
+door~
+End
+
+#1105
+Name In the Xylarian Arena~
+Descr
+Soft sand and dirt on the floor of the arena makes it hard to move
+quickly.  Splotches of blood and gore can be seen ocassionally on the
+ground.  The spectator stands above you are empty, and it appears that the
+arena is open for training only at the moment.  
+~
+Sector 0
+Reset M 1043 1 100
+Door 0 0 0 1104 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 2 0 0 0 30 30
+The high spectator stands block your way.
+~
+door~
+Door 3 0 0 1102 30 30
+~
+door~
+End
+
+#1106
+Name The Lions' Pit in the Arena~
+Descr
+The walls are covered in dried blood, and the ground is stained red. 
+This is obviously where they throw the losers of the gladitorial games. 
+After all, they do have to feed the lions something.  
+~
+Shd 1
+Sector 0
+Reset M 1040 3 100
+Reset M 1040 3 100
+Door 0 3 0 1102 30 30
+You see the huge grate leading out of this small pit of death.
+~
+grate~
+End
+
+#1107
+Name Inside the Southern Tower of Xylar~
+Descr
+The cold, gray stones of the southern tower are smooth and worn.  Legends
+say this tower was built long before the city of Xylar was even concieved,
+back in the days of the old city, Bythar.  A narrow spiral staircase leads
+up from here.  
+~
+Flags 4
+Sector 0
+Door 2 3 0 1075 40 40
+You see a sturdy door leading out of the tower.  
+~
+door~
+Door 4 0 0 1109 30 30
+~
+door~
+End
+
+#1108
+Name Beneath the Southern Tower~
+Descr
+The tunnel here seems earthen and natural.  A strange magic seems to keep
+the soft dirt walls from collapsing upon you, and the whole place eminates
+with the power of a magic long gone.  There is a bleak, gray wall to the
+north of here.  There seems to be something strange about it.  This empty
+chamber appears to have escaped the destruction above almost completely 
+~
+Flags 7
+Sector 0
+Reset M 1070 1 100
+Reset O 1057 21 80
+Door 0 3 0 1119 42 42
+You see a stone wall that looks like it can be easily pushed open.
+~
+stonewall~
+End
+
+#1109
+Name A Long, Spiral Stone Staircase~
+Descr
+The narrow stone staircase is lit by a strange glow.  The ancients
+supposedly used this tower as a hiding place from evil magic forces that
+terrorized the lands.  The stairway continues upward.  
+~
+Flags 4
+Sector 0
+Door 4 0 0 1110 30 30
+~
+door~
+Door 5 0 0 1107 30 30
+~
+door~
+End
+
+#1110
+Name A Long, Spiral Stone Staircase~
+Descr
+The long staircase is beginning to look the same, and you wonder if you
+are going in some sort of magical loop.  The room is illuminated by a
+strange glow that seems to eminate from the stones themselves.  
+~
+Flags 4
+Sector 0
+Door 4 0 0 1111 30 30
+~
+door~
+Door 5 0 0 1109 30 30
+~
+door~
+End
+
+#1111
+Name A Long, Spiral Stone Staircase~
+Descr
+The long staircase is beginning to look the same, and you wonder if you
+are going in some sort of magical loop.  The room is illuminated by a
+strange glow that seems to eminate from the stones themselves.  
+~
+Flags 4
+Sector 0
+Door 4 0 0 1112 30 30
+~
+door~
+Door 5 0 0 1110 30 30
+~
+door~
+End
+
+#1112
+Name A Long, Spiral Stone Staircase~
+Descr
+The long staircase is beginning to look the same, and you wonder if you
+are going in some sort of magical loop.  The room is illuminated by a
+strange glow that seems to eminate from the stones themselves.  
+~
+Flags 4
+Sector 0
+Door 2 279 0 1115 42 42
+You can barely make out the form of a strange stone door to the south.  
+~
+stonedoor~
+Door 4 0 0 1113 30 30
+~
+door~
+Door 5 0 0 1111 30 30
+~
+door~
+End
+
+#1113
+Name The Top of the Southern Tower~
+Descr
+The top level of the tower is covered in dust and smells of ancient wood.
+The cold wind whistles through the tower window and speaks to you of the
+ancients.  A small door leads out and up some stairs to the very top of the
+tower to the north.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 1114 30 30
+~
+door~
+Door 5 0 0 1112 30 30
+~
+door~
+End
+
+#1114
+Name On Top of the Southern Tower~
+Descr
+A chilly wind, filled with a strange ancient magic blows here from afar. 
+The city below you looks like a small square drawn in green fields.  Far to
+the west you can see forests, and to the east you can make out a large
+mountain range.  Far to the north you can see a large open sea stretch out
+to the horizon.  
+~
+Door 0 0 0 0 30 30
+It's a LOOOOONNNGGG way down...  
+~
+door~
+Door 1 0 0 0 30 30
+A strong gust of wind pushes you back as you attempt to jump off the
+tower.  
+~
+door~
+Door 2 0 0 1113 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A strange force prevents you from plumetting to your death.
+~
+door~
+End
+
+#1115
+Name A Secret Room in the Tower~
+Descr
+The strange slant of the floor and the chill the stones give off makes
+you feel uncomfortable and unsafe.  This room seems to wrap around the tower
+to the east and west, and the door into this strange room is north.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 1112 42 42
+You see a strange secret door which seems to blend in with the stones.
+~
+secretdoor~
+Door 1 0 0 1117 30 30
+~
+door~
+Door 3 0 0 1116 30 30
+~
+door~
+Door 5 3 0 1118 55 55
+You see a large stone... but it looks moveable...
+~
+stone~
+End
+
+#1116
+Name A Secret Laboratory in the Tower~
+Descr
+Red stains on the floor give off odd fumes, and the air is thick and
+makes you nautious.  You can see the large entrance to this secret
+laboratory to the east.  There is a large workbench in the center of the
+room which gives off horrible fumes.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1115 30 30
+~
+door~
+End
+
+#1117
+Name An Ancient Study Inside the Tower~
+Descr
+There is a window that overlooks the city to the south.  You can see the
+Xylarian arena and Saint Orin way out the window.  The study is covered in
+dust, and looks like it has not been used for a long time.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1115 30 30
+~
+door~
+End
+
+#1118
+Name A Earth and Stone Vault in the Southern Tower~
+Descr
+This room seems to shift and distort before your eyes...  There is a
+strange high-pitched scream that seems to eminate from the walls around, and
+you get the feeling that you are not welcome here.  
+~
+Flags 7
+Sector 0
+Reset O 1047 -5 25
+Door 4 0 0 1114 55 55
+~
+door~
+End
+
+#1119
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The cobbles underfoot are worn and dirty, and the earthen ceiling looks
+as though it might collapse at any moment.  The air, though somewhat fresh,
+is rancid with the scent of offal and the passing of the forces of evil. 
+However, little in these ruins has been molested.  It seems as though the
+evil army swept through here and, finding nothing, simply left.  
+~
+Flags 7
+Sector 0
+Door 1 0 0 1120 30 30
+~
+door~
+Door 2 3 0 1108 42 42
+You see a large, stone wall that looks like it can easily be pushed open.
+~
+stonewall~
+End
+
+#1120
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The cobbles underfoot are worn and dirty, and the earthen ceiling looks
+as though it might collapse at any moment.  The air, though somewhat fresh,
+is rancid with the scent of offal and the passing of the forces of evil. 
+However, little in these ruins has been molested.  It seems as though the
+evil army swept through here and, finding nothing, simply left.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1121 30 30
+~
+door~
+Door 3 0 0 1119 30 30
+~
+door~
+End
+
+#1121
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The cobbles underfoot are worn and dirty, and the earthen ceiling looks
+as though it might collapse at any moment.  The air, though somewhat fresh,
+is rancid with the scent of offal and the passing of the forces of evil. 
+However, little in these ruins has been molested.  It seems as though the
+evil army swept through here and, finding nothing, simply left.  
+~
+Flags 5
+Sector 0
+Reset M 1056 7 100
+Door 0 0 0 1122 30 30
+~
+door~
+Door 1 0 0 1140 0 0
+~
+~
+Door 2 0 0 1120 30 30
+~
+door~
+End
+
+#1122
+Name A Junction of Ruined Roads, Deep Underground~
+Descr
+This large junction seems to have once been a road of the City of Bythar,
+perhaps even the main square.  A cobbled street, still partially intact,
+leads away to the east while a large earthen tunnel breaks off from the
+junction to the west and south.  At first, no sign can be seen of defilement
+at the hands of the raiders, but upon closer inspection you discover
+the sigil of the dark elven arch mage, Massath D'rach'n, scrawled in
+blood across the flat stones of the floor.
+~
+Flags 5
+Sector 0
+Reset M 1056 7 100
+Reset M 1061 1 100
+Reset O 201 7 100
+Door 1 0 0 1123 30 30
+~
+door~
+Door 2 0 0 1121 30 30
+~
+door~
+Door 3 0 0 1126 30 30
+~
+door~
+End
+
+#1123
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The cobbles underfoot are worn and dirty, and the earthen ceiling looks
+as though it might collapse at any moment.  The air, though somewhat fresh,
+is rancid with the scent of offal and the passing of the forces of evil. 
+However, little in these ruins has been molested.  It seems as though the
+evil army swept through here and, finding nothing, simply left.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1124 30 30
+~
+door~
+Door 3 0 0 1122 30 30
+~
+door~
+End
+
+#1124
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The cobbles underfoot are worn and dirty, and the earthen ceiling looks
+as though it might collapse at any moment.  The air, though somewhat fresh,
+is rancid with the scent of offal and the passing of the forces of evil. 
+However, little in these ruins has been molested.  It seems as though the
+evil army swept through here and, finding nothing, simply left.  
+~
+Flags 5
+Sector 0
+Reset M 1056 7 100
+Door 0 0 0 1125 30 30
+~
+door~
+Door 2 0 0 1123 30 30
+~
+door~
+End
+
+#1125
+Name Ruins of Bythar, Beneath Xylar~
+Descr
+The stone road is blasted in places and the walls of this strange
+tunnel have been scorched from the fiery magic of the evil army
+which swept through Xylar.  The corpses of two city guards lie
+here, smoldered and decayed, their prowess unable to fend off the
+might of the orcs, dark elves and other minions of darkness.
+Like this once-majestic city of Bythar, Xylar now lies in ruins.
+~
+Flags 7
+Sector 0
+Door 0 3 0 1056 44 44
+The huge stone wall to the north looks like it can be easily slid open.
+~
+stonewall~
+Door 2 0 0 1124 30 30
+~
+door~
+End
+
+#1126
+Name A Small Earthen Tunnel~
+Descr
+The tunnel is small and cramped, and the soil is soft and wet.  Dirt
+brushes up against your head and drops down onto your from the ceiling. 
+This tunnel looks similar to the tunnel you were just in.  There is some
+slight evidence of the passing of many troops, but other than that no signs
+of the invasion.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 1127 30 30
+~
+door~
+Door 1 0 0 1122 30 30
+~
+door~
+End
+
+#1127
+Name A Small Earthen Tunnel~
+Descr
+The tunnel is small and cramped, and the soil is soft and wet.  Dirt
+brushes up against your head and drops down onto your from the ceiling. 
+This tunnel looks similar to the tunnel you were just in.  The passage
+through the ruins of Bythar seems to have gone unharmed by the evil forces. 
+~
+Flags 5
+Sector 0
+Reset M 1056 7 100
+Door 2 0 0 1126 30 30
+~
+door~
+Door 3 0 0 1128 30 30
+~
+door~
+End
+
+#1128
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel is small and cramped, and the soil is soft and wet.  Dirt
+brushes up against your head and drops down onto your from the ceiling. 
+This tunnel looks similar to the tunnel you were just in.  And again, though
+it appears a signifcant force of orcs and other evil races moved through
+here, they seem to have left this region untouched.  
+~
+Flags 5
+Sector 0
+Reset M 1056 7 100
+Door 1 0 0 1127 30 30
+~
+door~
+Door 3 0 0 1129 30 30
+~
+door~
+End
+
+#1129
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel is small and cramped, and the soil is soft and wet.  Dirt
+brushes up against your head and drops down onto your from the ceiling. 
+This tunnel looks similar to the tunnel you were just in.  The stone slab
+above is cracked as though someone tried to forcibly remove it, but the
+remainder of the room doesn't seem to have fallen prey to the invading army.
+~
+Flags 5
+Sector 0
+Door 0 0 0 1130 30 30
+~
+door~
+Door 1 0 0 1128 30 30
+~
+door~
+Door 2 0 0 1131 30 30
+~
+door~
+End
+
+#1130
+Name An Earthen Tunnel under Xylar~
+Descr
+You can just barely stand upright in this small tunnel.  The smell of
+damp soil hands in the mist-enshrouded atmosphere here.  The tunnel leads
+north and south from here.  It appears as though the evil force.  You can
+just barely stand upright in this small tunnel.  The smell of damp soil
+hovers in the mist-enshrouded atmosphere.  The tunnel leads north and south
+from here.  It appears as though the evil force did not make its way into
+this area of the Bytharian ruins, for no sign of their passage or
+destructive impulse can be found.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1135 30 30
+~
+door~
+Door 2 0 0 1129 30 30
+~
+door~
+End
+
+#1131
+Name An Earthen Tunnel under Xylar~
+Descr
+You begin to tire of seeing earthen brown everywhere.  The sound of
+dripping water begins to grate on your nerves, and a small clump of dirt
+falls right in your face as you are looking up at the ceiling.  No signs of
+the invasion can be found here at all.  Perhaps the orcs and dark elves
+tired of their search before locating this area.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1129 30 30
+~
+door~
+Door 3 0 0 1132 30 30
+~
+door~
+End
+
+#1132
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel widens here, and you can see small, flat stones on the ground.
+You begin to wonder if the stones around here are from the ruins of Bythar,
+which gets you to thinking...  What destroyed Bythar?  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1131 30 30
+~
+door~
+Door 3 0 0 1133 30 30
+~
+door~
+End
+
+#1133
+Name An Earthen Tunnel under Xylar~
+Descr
+You begin to tire of seeing earthen brown everywhere.  The sound of
+dripping water begins to grate on your nerves, and a small clump of dirt
+falls right in your face as you are looking up at the ceiling.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1134 30 30
+~
+door~
+Door 1 0 0 1132 30 30
+~
+door~
+End
+
+#1134
+Name An Earthen Tunnel under Xylar~
+Descr
+You stand at a dead-end in an earthen tunnel.  Water drips from the
+ceiling and forms small puddles on the mud and earth floor beneath your
+feet.  The smell of fresh soils lingers in the air here.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 1133 30 30
+~
+door~
+End
+
+#1135
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel is small and cramped, and the soil is soft and wet.  Dirt
+brushes up against your head and drops down onto your from the ceiling. 
+This tunnel looks similar to the tunnel you were just in.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 1130 30 30
+~
+door~
+Door 3 0 0 1136 30 30
+~
+door~
+End
+
+#1136
+Name An Earthen Tunnel under Xylar~
+Descr
+You begin to tire of seeing earthen brown everywhere.  The sound of
+dripping water begins to grate on your nerves, and a small clump of dirt
+falls right in your face as you are looking up at the ceiling.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1137 30 30
+~
+door~
+Door 1 0 0 1135 30 30
+~
+door~
+End
+
+#1137
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel opens up here, leading north, south and west.  The earthen
+ceiling drips water onto your head, and your feet sink about an inch into
+the soil below.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1138 30 30
+~
+door~
+Door 2 0 0 1136 30 30
+~
+door~
+Door 3 0 0 1139 30 30
+~
+door~
+End
+
+#1138
+Name An Earthen Tunnel under Xylar~
+Descr
+The tunnel here smells of must and damp earth.  Brown dirt surrounds you
+and clumps of soil fall down onto you when you brush against the walls.  A
+strange magic seems to prevent the whole cave from collapsing upon you.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 1137 30 30
+~
+door~
+End
+
+#1139
+Name An Earthen Tunnel under Xylar~
+Descr
+A strange glow eminates from the soil here, keeping it in place.  There
+are some remanents of an old stone road on the ground, and you assume it was
+part of the great city of Bythar when it existed.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1137 30 30
+~
+door~
+End
+
+#1140
+Name Hall of the Ancients beneath Xylar~
+Descr
+The earthen walls seem to speak of ancient times and magic long gone.
+The exit to the west appears to shimmer and blur, most likely the
+means by which one would leave the Hall of Ancients.  This place has
+not been disturbed in quite some time; it is obvious that the fell
+force which invaded Xylar was unable to penetrate this deeply into the
+under-ruins.
+~
+Flags 6
+Sector 0
+Door 1 7 1048 1141 30 30
+~
+steeldoor~
+Door 3 0 0 1121 0 0
+~
+~
+End
+
+#1141
+Name The Hall of the Ancients, Deep beneath Xylar~
+Descr
+You stand within the Hall of the Ancients.  Earthen walls and a
+crumbling stone floor make this place look unkept and in shambles.
+However, a strange power seems to keep the walls from caving in, and
+a feeling of fear washes over you.  This same power, undoubtedly, is
+what kept the evil army out when they laid seige to Xylar itself.
+~
+Flags 4
+Sector 0
+Door 1 0 0 1142 30 30
+~
+door~
+Door 3 7 1048 1140 30 30
+~
+steeldoor~
+End
+
+#1142
+Name The Hall of the Ancients, Deep beneath Xylar~
+Descr
+You stand within the Hall of the Ancients.  Earthen walls and a
+crumbling stone floor make this place look unkempt and in shambles.
+However, a strange power seems to keep the walls from caving in, and a
+feeling of fear washes over you.  It is this same power, assuredly,
+which kept the army of evil from overrunning this holdfast when Xylar
+fell.
+~
+Flags 4
+Sector 0
+Reset M 1058 3 100
+Door 1 0 0 1143 30 30
+~
+door~
+Door 3 0 0 1141 30 30
+~
+door~
+End
+
+#1143
+Name Inner Sanctum of the Hall of Ancients~
+Descr
+The marble floors of this inner sanctum are smooth and clean as
+though some force were charged with the caretaking of this room.
+Strange runes of an elder, more powerful nature cover the walls, floor,
+and ceiling, their intensity so great that they appear to swim before
+your eyes.
+~
+Flags 8196
+Sector 0
+Reset M 1058 3 100
+Reset O 1059 0 3
+Move_dir 3
+Movemess
+pushed west by a strange force.
+~
+Door 0 0 0 1144 30 30
+~
+door~
+Door 3 0 0 1142 30 30
+~
+door~
+End
+
+#1144
+Name Inner Sanctum of the Hall of Ancients~
+Descr
+The marble floors of the inner sanctum are clean and smooth,
+untouched for years by mortals.  Powerful runes glow and blur from
+the walls, floor, and ceiling here, yielding a sense of magical prowess
+near to godhood.  No signs of the destruction that ran rampant in the
+city above can be found in this protected place, and yet a sense of
+great foreboding settles over you as you explore.
+~
+Flags 8196
+Sector 0
+Reset M 1058 3 100
+Move_dir 2
+Movemess
+pushed south by a strange force.
+~
+Door 0 0 0 1145 30 30
+~
+door~
+Door 2 0 0 1143 30 30
+~
+door~
+End
+
+#1145
+Name The Center of the Hall of Ancients~
+Descr
+This magnificent chamber is the heart of the ancient's holdfast.
+Strange runes which appear to be of liquid gold and platinum are inlaid
+into the marble walls and floor; they hum and glow fiercely, providing
+an almost blinding light and a low, droning buzz that seeps into your
+head, clouding your thoughts.  A deep, constant rumbling reverberates
+throughout the room as though the earth itself is offended with your
+presence here.  It is rumored that the ancients held power over the
+earth and nature itself...quite possibly enough to command the stones
+even after their deaths.
+~
+Flags 4
+Sector 0
+Reset M 1059 1 100
+Reset O 1049 22 85
+Move_dir 2
+Door 1 23 1049 1146 55 55
+A massive rock blocks your way to the east.  There is a strange looking
+keyhole on the rock.  
+~
+rock~
+Door 2 0 0 1144 30 30
+~
+door~
+End
+
+#1146
+Name Inside the Sacred Sanctum of the Ancients~
+Descr
+Few mortals have ever seen the beauty of the room in which you stand. 
+Large magical shapes float around you, and the stone tile floor glows with
+multiple colors, making you dizzy.  You feel somehow displaced, as if you
+might not be just underground anymore - almost as if you could be in another
+plane of existance.  
+~
+Flags 67108869
+Sector 0
+Movemess
+(null)~
+Door 3 23 1049 1145 55 55
+A massive rock blocks your way to the west.  There is a strange looking
+keyhole is in the center of the rock.  
+~
+rock~
+Door 5 3 0 1147 55 55
+~
+trapdoor~
+End
+
+#1147
+Name The Forbidden Room of the Ancients~
+Descr
+A deafening roar of power and anguish whirls through this terrifying
+chamber. The earth itself is in turmoil here and the floor and walls roil
+like molten lava, unsure of their proper shape or form. A deafening roar of
+power and anguish whirls through this terrifying chamber. The earth itself
+is in turmoil here and the floor and walls roil like molten lava, unsure of
+their proper shape or form. The residual power of the ancients is heavy here
+and the feeling of dread which has been building throughout the hall
+culminates in this forbidden room. What secrets needed such careful
+protections as afforded here are unkown. 
+~
+Flags 1090519045
+Sector 0
+Reset O 1051 -5 85
+Reset O 67 -3 5
+Reset O 60 -3 5
+Reset O 57 -3 5
+Reset O 54 -3 5
+Reset O 51 -3 5
+Movemess
+(null)~
+Door 4 3 0 1146 55 55
+~
+trapdoor~
+End
+
+#1148
+Name A Small Cottage In Xylar~
+Descr
+You are in a small cottage in xylar, nothing suprises you.  This little
+shack was built in the raid and has stayed since now.  Maybe sometime this
+shack will be built into a real house.  
+~
+Flags 6
+Sector 0
+Reset M 1068 1 100
+Reset O 1057 21 100
+Reset O 217 4 100
+Reset O 207 6 100
+Reset M 1069 1 100
+Reset O 1031 6 100
+Reset O 1032 4 100
+Movemess
+(null)~
+End
+
+#1149
+Name The Guardhouse of Xylar~
+Descr
+The smell of sweat and dirty clothes comes from all around.  On the walls
+are several signs, reading "To serve and protect, for a good salary."  From
+the look of this room, it looks like Xylar has had no invasion crisis in the
+last few years.  
+~
+Flags 6
+Sector 0
+Reset M 1076 1 100
+Reset O 237 21 100
+Reset O 3219 10 55
+Reset O 217 4 100
+Reset O 207 6 100
+Movemess
+(null)~
+Door 0 1 0 1008 30 30
+You see a door leading out of the guardhouse of Xylar.  
+~
+door~
+Door 1 0 0 1151 30 30
+~
+door~
+Door 2 0 0 1150 30 30
+~
+door~
+End
+
+#1150
+Name Guards' Sleeping Quarters of Xylar~
+Descr
+Hard, flat, dirty beds line the walls, and a sign on the wall reads,
+"QUIET PLEASE!"  To the north is the main guardhouse.  Perhaps it would be
+better to leave these guards alone.  Another sign reads, "NO UNAUTHORIZED
+SLEEPERS ALLOWED!"  
+~
+Flags 4
+Sector 0
+Reset M 1063 2 100
+Reset O 206 6 100
+Reset O 237 21 90
+Reset O 219 4 100
+Reset M 1063 2 100
+Reset O 208 6 100
+Reset O 217 4 100
+Reset M 1062 4 100
+Reset O 207 6 100
+Reset M 1062 4 100
+Reset O 205 6 100
+Reset M 1062 4 100
+Reset O 205 6 100
+Movemess
+(null)~
+Door 0 0 0 1149 30 30
+~
+door~
+End
+
+#1151
+Name Guard's Training Center of Xylar~
+Descr
+The floor is covered in dirt, and small splotches of blood can be seen on
+the walls.  It looks as if the guards must go through a no-nonsense training
+program.  Rumored to take four years to train, no adventurers are allowed to
+train as a guard.  
+~
+Flags 4
+Sector 0
+Reset M 1065 2 100
+Reset O 237 21 65
+Reset O 231 8 100
+Reset O 219 4 100
+Reset O 207 6 100
+Reset M 1065 2 100
+Reset O 205 6 100
+Reset O 232 8 40
+Reset O 217 4 100
+Reset O 202 7 20
+Reset M 1064 1 100
+Reset O 203 7 100
+Reset O 210 6 100
+Reset O 215 9 50
+Reset O 222 4 100
+Reset O 241 12 30
+Reset O 1026 21 70
+Movemess
+(null)~
+Door 3 0 0 1149 30 30
+~
+door~
+End
+
+#1152
+Name The Western Highway~
+Descr
+The road is worn and looks very well travelled.  The huge city of Xylar
+rises up to the east, and you can see the long Western Highway stretch out
+to the west.  The smell of fresh bread and meat comes from the city and
+tempts you to enter and spend your money.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 4805 0 0
+~
+~
+Door 1 0 0 1030 0 0
+~
+~
+Door 2 0 0 1156 30 30
+~
+door~
+Door 3 0 0 1153 30 30
+~
+door~
+End
+
+#1153
+Name The Western Highway~
+Descr
+To the east you can see the city gate of Xylar, just a ways off in the
+distance.  On both sides of the road are wide open fields and grassy
+meadows.  The sounds of wildlife fill the air, and you feel at ease with
+nature.  A sign is here, stuck in the ground.  
+~
+Reset O 1053 -5 100
+Movemess
+(null)~
+Door 0 0 0 4808 0 0
+~
+~
+Door 1 0 0 1152 30 30
+~
+door~
+Door 2 0 0 1173 30 30
+~
+door~
+Door 3 0 0 1154 30 30
+~
+door~
+End
+
+#1154
+Name The Western Highway~
+Descr
+The dirt and grass highway upon which you travel is comfortable and easy
+to walk upon.  The soil is soft but firm, and the wind blows gently upon
+your exposed skin, cooling you and refreshing your senses.  
+~
+Reset M 3359 1 100
+Reset M 3206 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Movemess
+(null)~
+Door 0 0 0 4811 0 0
+~
+~
+Door 1 0 0 1153 30 30
+~
+door~
+Door 2 0 0 1176 30 30
+~
+door~
+Door 3 0 0 3201 30 30
+~
+door~
+End
+
+#1155
+Name Open Fields near Xylar~
+Descr
+The large, open field provides a great habitat for small critters and
+wildflowers, as well as many wild grasses and shrubs.  The smell of grass
+and flowers in the air reminds you of a beautiful maiden who has just bathed
+in wonderful fragrances.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1157 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The huge city walls of Xylar prevent you from going east.
+~
+door~
+Door 3 0 0 1169 30 30
+~
+door~
+End
+
+#1156
+Name Open Fields near Xylar~
+Descr
+The large city walls of Xylar rise up to the east, and you can see the
+western highway in the distance to the south.  The grasses underfoot look
+green and healthy, and everything seems full of life and energy.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1152 30 30
+~
+door~
+Door 1 0 0 4827 99 99
+The towering walls of Xylar prevent you from going east.
+~
+door~
+Door 2 0 0 1159 30 30
+~
+door~
+Door 3 0 0 1173 30 30
+~
+door~
+End
+
+#1157
+Name Open Fields near Xylar~
+Descr
+The large city walls of Xylar rise up to the east, and you can see the
+western highway in the distance to the south.  The grasses underfoot look
+green and healthy, and everything seems full of life and energy.  
+~
+Sector 2
+Reset M 3202 6 100
+Movemess
+(null)~
+Door 0 0 0 1158 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The towering walls of Xylar prevent you from going east.
+~
+door~
+Door 2 0 0 1155 30 30
+~
+door~
+Door 3 0 0 1170 30 30
+~
+door~
+End
+
+#1158
+Name Open Fields near Xylar~
+Descr
+The large city walls of Xylar rise up to the east, and you can see the
+western highway in the distance to the south.  The grasses underfoot look
+green and healthy, and everything seems full of life and energy.  
+~
+Sector 2
+Reset M 3202 6 100
+Movemess
+(null)~
+Door 0 0 0 1161 30 30
+~
+door~
+Door 1 0 0 5824 30 30
+The towering walls of Xylar prevent you from going east.
+~
+door~
+Door 2 0 0 1157 30 30
+~
+door~
+Door 3 0 0 1171 30 30
+~
+door~
+End
+
+#1159
+Name A Path Around Xylar~
+Descr
+This large open field is just to the south of the great western highway. 
+Matted grass and colorful wildflowers that look picked over tell you that
+civilization is nearby.  
+~
+Movemess
+(null)~
+Door 0 0 0 1156 30 30
+~
+door~
+Door 1 0 0 4828 30 30
+The towering walls of Xylar prevent you from going east.
+~
+door~
+Door 2 0 0 4831 0 0
+~
+~
+Door 3 0 0 1174 30 30
+~
+door~
+End
+
+#1160
+Name A Path Around Xylar~
+Descr
+You stand outside of the west wall of Xylar in great open fields of grass
+and wildflowers.  Some trees spring up in clumps to the west, and open
+fields stretch far to the north.  
+~
+Reset M 1075 3 100
+Movemess
+(null)~
+Door 0 0 0 4836 0 0
+~
+~
+Door 1 0 0 4840 30 30
+The high walls of Xylar rise up to the east blocking your progress.
+~
+door~
+Door 2 0 0 1183 30 30
+~
+door~
+Door 3 0 0 1175 30 30
+~
+door~
+End
+
+#1161
+Name A Path Around Xylar~
+Descr
+A fresh breeze of clean, cool air blows gently against you, and you feel
+alive and full of life.  The sounds of animals come from all around you, and
+you feel at peace with nature.  
+~
+Reset M 1075 3 100
+Reset M 3203 3 100
+Movemess
+(null)~
+Door 0 0 0 1179 30 30
+~
+door~
+Door 1 0 0 1162 30 30
+~
+door~
+Door 2 0 0 1158 30 30
+~
+door~
+Door 3 0 0 1172 30 30
+~
+door~
+End
+
+#1162
+Name A Path Around Xylar~
+Descr
+The large, open field provides a great habitat for small critters and
+wildflowers, as well as many wild grasses and shrubs.  The smell of grass
+and flowers in the air reminds you of a beautiful maiden who has just bathed
+in wonderful fragrances.  
+~
+Movemess
+(null)~
+Door 0 0 0 1178 30 30
+~
+door~
+Door 1 0 0 1163 30 30
+~
+door~
+Door 2 0 0 5824 30 30
+The towering walls of Xylar prevent you from going south.
+~
+door~
+Door 3 0 0 1161 30 30
+~
+door~
+End
+
+#1163
+Name A Path Around Xylar~
+Descr
+The wild grasses and flowers grow all the way up to the wall of Xylar to
+the south.  To the north, you can see the Northern Forest begin, and you can
+hear the sounds of wildlife coming from all around.  
+~
+Movemess
+(null)~
+Door 0 0 0 9803 30 30
+~
+door~
+Door 1 0 0 1164 30 30
+~
+door~
+Door 2 0 0 5825 30 30
+The towering walls of Xylar prevent you from going south.
+~
+door~
+Door 3 0 0 1162 30 30
+~
+door~
+End
+
+#1164
+Name A Path Around Xylar~
+Descr
+The beautiful grasses and green shrubberies provide a soft carpet upon
+which to walk.  The large walls of Xylar raise up towards the sky to the
+south, and you can see the northern gate of Xylar to the southeast of here. 
+~
+Movemess
+(null)~
+Door 0 0 0 9802 30 30
+~
+door~
+Door 1 0 0 1165 30 30
+~
+door~
+Door 2 0 0 5826 30 30
+The towering walls of Xylar prevent you from going south.
+~
+door~
+Door 3 0 0 1163 30 30
+~
+door~
+End
+
+#1165
+Name The Great Northern Road~
+Descr
+The large, open road of dirt and matted grass streches far to the north
+from here.  You can see the city gates of Xylar to the south, scarred from
+multiple invasion attempts.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 1168 30 30
+~
+door~
+Door 1 0 0 1166 30 30
+~
+door~
+Door 2 0 0 1068 0 0
+~
+~
+Door 3 0 0 1164 30 30
+~
+door~
+End
+
+#1166
+Name A Path Around Xylar~
+Descr
+The beautiful grasses and green shrubberies provide a soft carpet upon
+which to walk.  The large walls of Xylar raise up towards the sky to the
+south, and you can see the northern gate of Xylar to the southwest of here. 
+~
+Movemess
+(null)~
+Door 0 0 0 9807 30 30
+~
+door~
+Door 1 0 0 1167 30 30
+~
+door~
+Door 2 0 0 5827 30 30
+The huge walls of Xylar prevent you from going south.
+~
+door~
+Door 3 0 0 1165 30 30
+~
+door~
+End
+
+#1167
+Name A Path Around Xylar~
+Descr
+The beautiful grasses and green shrubberies provide a soft carpet upon
+which to walk.  The large walls of Xylar raise up towards the sky to the
+south, and you can see the northern gate of Xylar to the southwest of here. 
+~
+Movemess
+(null)~
+Door 0 0 0 9808 30 30
+~
+door~
+Door 1 0 0 4879 0 0
+~
+~
+Door 2 0 0 5828 30 30
+The towering walls of Xylar prevent you from going south.
+~
+door~
+Door 3 0 0 1166 30 30
+~
+door~
+End
+
+#1168
+Name The Great Northern Road~
+Descr
+The matted grass is a greenish brown from the poor soil conditions here,
+which you find strange because of the large forests that group on either
+side of the road.  The road continues north and south, and to the south a
+ways you can see the northern gate of Xylar.  
+~
+Movemess
+(null)~
+Door 0 0 0 9801 30 30
+~
+door~
+Door 1 0 0 9807 30 30
+~
+door~
+Door 2 0 0 1165 30 30
+~
+door~
+Door 3 0 0 9802 30 30
+~
+door~
+End
+
+#1169
+Name Open Fields near Xylar~
+Descr
+This open area of lush grasses, just north of the western highway
+provides a living area for many creatures, as well as a good spot to rest
+your tired body off of the main road.  
+~
+Sector 2
+Reset M 1169 1 100
+Reset O 5917 -1 75
+Reset O 5916 -1 75
+Reset O 5915 -1 75
+Reset O 5914 -1 75
+Reset O 5913 -1 75
+Reset O 5912 -1 75
+Reset O 5911 -1 75
+Reset O 5910 -1 75
+Reset O 5909 -1 75
+Reset O 5908 -1 75
+Reset O 5907 -1 75
+Reset O 5906 -1 75
+Reset O 5905 -1 75
+Reset O 5904 -1 75
+Reset O 5903 -1 75
+Reset O 5902 -1 75
+Reset O 5901 -1 75
+Reset O 5900 -1 75
+Movemess
+(null)~
+Door 0 0 0 1170 30 30
+~
+door~
+Door 1 0 0 1155 30 30
+~
+door~
+Door 2 0 0 4800 0 0
+~
+~
+Door 3 0 0 1177 30 30
+~
+door~
+End
+
+#1170
+Name Open Fields near Xylar~
+Descr
+A fresh breeze of clean, cool air blows gently against you, and you feel
+alive and full of life.  The sounds of animals come from all around you, and
+you feel at peace with nature.  
+~
+Sector 2
+Reset M 1080 2 100
+Reset M 3201 7 100
+Movemess
+(null)~
+Door 0 0 0 1171 30 30
+~
+door~
+Door 1 0 0 1157 30 30
+~
+door~
+Door 2 0 0 1169 30 30
+~
+door~
+Door 3 0 0 3202 30 30
+~
+door~
+End
+
+#1171
+Name A Path Around Xylar~
+Descr
+The large, open field provides a great habitat for small critters and
+wildflowers, as well as many wild grasses and shrubs.  The smell of grass
+and flowers in the air reminds you of a beautiful maiden who has just bathed
+in wonderful fragrances.  
+~
+Reset M 3203 3 100
+Movemess
+(null)~
+Door 0 0 0 1172 30 30
+~
+door~
+Door 1 0 0 1158 30 30
+~
+door~
+Door 2 0 0 1170 30 30
+~
+door~
+Door 3 0 0 3209 30 30
+~
+door~
+End
+
+#1172
+Name A Path Around Xylar~
+Descr
+Xylar is just a ways off to the southeast from here, and the fields here
+look like they were cultivated long ago.  Now, green grasses and wildflowers
+have taken over, creating a spectacular spectacle, and providing a great
+place to rest.  A large cliff rises up to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 3247 30 30
+~
+door~
+Door 1 0 0 1161 30 30
+~
+door~
+Door 2 0 0 1171 30 30
+~
+door~
+Door 3 0 0 3245 30 30
+~
+door~
+End
+
+#1173
+Name A Path Around Xylar~
+Descr
+This large open field is just to the south of the great western highway. 
+Matted grass and colorful wildflowers that look picked over tell you that
+civilization is nearby.  
+~
+Reset M 3207 3 100
+Reset M 3201 7 100
+Movemess
+(null)~
+Door 0 0 0 1153 30 30
+~
+door~
+Door 1 0 0 1156 30 30
+~
+door~
+Door 2 0 0 1174 30 30
+~
+door~
+Door 3 0 0 1176 30 30
+~
+door~
+Door 4 259 0 0 99 99
+~
+hangin~
+End
+
+#1174
+Name A Path Around Xylar~
+Descr
+The trees here are moderately dense, and you can see fields open up to
+the north.  The air is fresh and smells of flowers and pine, and the travel
+is easy upon the soft soil underfoot.  
+~
+Reset M 1079 1 100
+Reset O 3203 -1 100
+Reset M 3203 3 100
+Movemess
+(null)~
+Door 0 0 0 1173 30 30
+~
+door~
+Door 1 0 0 1159 30 30
+~
+door~
+Door 2 0 0 4843 0 0
+~
+~
+Door 3 0 0 3217 30 30
+~
+door~
+End
+
+#1175
+Name A Path Around Xylar~
+Descr
+The trees here are moderately dense, and you can see a lightly forested
+area, much like this area, to the north.  The air is fresh and smells of
+flowers and pine, and the travel is easy upon the soft soil underfoot.  
+~
+Movemess
+(null)~
+Door 0 0 0 4830 0 0
+~
+~
+Door 1 0 0 1160 30 30
+~
+door~
+Door 2 0 0 4841 0 0
+~
+~
+Door 3 0 0 4833 0 0
+~
+~
+End
+
+#1176
+Name Open Fields near the Western Highway~
+Descr
+The air is perfumed with the scent of sweet flowers and grass.  The air
+is clean and crisp, and you can see the highway in plain view to the north. 
+Far to the east you can see Xylar.  
+~
+Sector 2
+Reset M 1080 2 100
+Reset M 3207 3 100
+Movemess
+(null)~
+Door 0 0 0 1154 30 30
+~
+door~
+Door 1 0 0 1173 30 30
+~
+door~
+Door 2 0 0 3217 30 30
+~
+door~
+Door 3 0 0 3203 30 30
+~
+door~
+End
+
+#1177
+Name Open Fields near the Western Highway~
+Descr
+The air is perfumed with the scent of sweet flowers and grass.  The air
+is clean and crisp, and you can see the highway in plain view to the south. 
+Far to the east you can see Xylar.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 3202 30 30
+~
+door~
+Door 1 0 0 1169 30 30
+~
+door~
+Door 2 0 0 4803 0 0
+~
+~
+Door 3 0 0 3204 30 30
+~
+door~
+End
+
+#1178
+Name A Lightly Forested Area near Xylar~
+Descr
+The soft forest floor makes for moderately-easy travel, although the
+trees are difficult to navigate around.  The smell of a decaying animal
+comes from under some trees, although you cannot locate its origin.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 1182 30 30
+~
+door~
+Door 1 0 0 9803 30 30
+~
+door~
+Door 2 0 0 1162 30 30
+~
+door~
+Door 3 0 0 1179 30 30
+~
+door~
+End
+
+#1179
+Name A Lightly Forested Area near Xylar~
+Descr
+The light forest seems alive with small creatures and bugs.  You can hear
+birds chirping all around you in the tree-tops, and the soft soil beneath
+you makes this place seem fertile and alive.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 1181 30 30
+~
+door~
+Door 1 0 0 1178 30 30
+~
+door~
+Door 2 0 0 1161 30 30
+~
+door~
+Door 3 0 0 3247 30 30
+~
+door~
+End
+
+#1181
+Name A Densly Forested Area~
+Descr
+The thick forest is made of densly packed, large-trunked trees.  Most of
+the trees are pines, but several broad-leaved coniferous trees still have
+managed to find a small bit of light under the taller trees, and provide a
+nice contrast to the manotony of pine.  There is an odd path leading north
+through thick trees.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 1182 30 30
+~
+door~
+Door 2 0 0 1179 30 30
+~
+door~
+Door 3 0 0 3248 30 30
+~
+door~
+End
+
+#1182
+Name The Northern Forest~
+Descr
+The light forest seems alive with small creatures and bugs.  You can hear
+birds chirping all around you in the tree-tops, and the soft soil beneath
+you makes this place seem fertile and alive.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Huge, thick trees make progress to the north impossible.  
+~
+door~
+Door 1 0 0 9805 30 30
+~
+door~
+Door 2 0 0 1178 30 30
+~
+door~
+Door 3 0 0 1181 30 30
+~
+door~
+End
+
+#1183
+Name A Path Around Xylar~
+Descr
+The long grasses here look healthy and strong.  The soil is soft and easy
+to walk upon, and to the northeast you can see the southwest corner of the
+city of Xylar.  The lands get more hilly as you look to the south.  
+~
+Reset M 1074 4 100
+Movemess
+(null)~
+Door 0 0 0 1160 30 30
+~
+door~
+Door 1 0 0 1184 30 30
+~
+door~
+Door 2 0 0 1196 30 30
+~
+door~
+Door 3 0 0 4841 0 0
+~
+~
+End
+
+#1184
+Name A Path Around Xylar~
+Descr
+The large, open fields make you feel small, especially with a massive
+wall towering above you to the north.  The grasses sway in the breeze,
+creating an interesting rippling effect.  
+~
+Movemess
+(null)~
+Door 0 0 0 4840 0 0
+~
+~
+Door 1 0 0 1185 30 30
+~
+door~
+Door 2 0 0 1194 30 30
+~
+door~
+Door 3 0 0 1183 30 30
+~
+door~
+End
+
+#1185
+Name A Path Around Xylar~
+Descr
+The small path turns here to the east and the south.  To the south, the
+path climbs up a small hill.  To the west and southeast, open fields sway
+gently in the cool breeze.  The large city walls of Xylar block your way to
+the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 4878 0 0
+~
+~
+Door 1 0 0 1186 30 30
+~
+door~
+Door 2 0 0 1190 30 30
+~
+door~
+Door 3 0 0 1184 30 30
+~
+door~
+End
+
+#1186
+Name A Path Around Xylar~
+Descr
+This small path is made from ancient, yellowish stones.  The path
+continues to the west, and open fields stretch out before you to the south. 
+The air is fresh and light, and you feel full of energy.  
+~
+Movemess
+(null)~
+Door 0 0 0 1189 0 0
+~
+~
+Door 1 0 0 1187 30 30
+~
+door~
+Door 2 0 0 1193 30 30
+~
+door~
+Door 3 0 0 1185 30 30
+~
+door~
+End
+
+#1187
+Name The Southern Highway~
+Descr
+You tread upon a road that seems old and brittle, yet has survived the
+tests of time for over five hundred years.  A small path leads around the
+walls of Xylar to the west, and the large southern city gate is to the
+north.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 1072 0 0
+~
+~
+Door 1 0 0 1188 30 30
+~
+door~
+Door 2 0 0 10101 30 30
+The southern road is closed due to construction :)
+Try north or west.
+~
+(null)~
+Door 3 0 0 1186 30 30
+~
+door~
+End
+
+#1188
+Name An Open Field Outside of Xylar~
+Descr
+A cool breeze gently blows by you, bringing the scent of wildflowers to
+your battle-hardened nose.  The huge walls of Xylar rise up to the north,
+and you can see the ancient southern road to the west.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The city walls of Xylar block your way to the north.  
+~
+(null)~
+Door 2 0 0 10130 0 0
+~
+~
+Door 3 0 0 1187 30 30
+~
+door~
+End
+
+#1189
+Name An Open Field of Wheat~
+Descr
+A cool breeze gently blows by you, bringing the scent of wildflowers to
+your battle-hardened nose.  The huge walls of Xylar rise up to the north,
+and you can see the ancient southern road to the southwest.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 1072 0 0
+~
+~
+Door 2 0 0 1186 0 0
+~
+~
+Door 3 0 0 4878 0 0
+~
+~
+End
+
+#1190
+Name Small Path up a Hill~
+Descr
+The ground is uneven, and travel becomes rough here.  Rocks poke through
+the soil, and the path continues upward to the south.  To the north, the
+path gets more level and looks like easier travelling.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1185 30 30
+~
+door~
+Door 1 0 0 1193 30 30
+~
+door~
+Door 2 0 0 1191 30 30
+~
+door~
+Door 3 0 0 1194 30 30
+~
+door~
+End
+
+#1191
+Name Small Path up a Hill~
+Descr
+You have arrived at the top of a hill, at the end of a small path.  There
+is a door to the west, leading into some sort of building.  Far to the north
+you can see the southern walls of Xylar.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 1190 30 30
+~
+door~
+Door 3 3 0 1192 35 35
+You see a door which leads into a small abandoned chapel.
+~
+door~
+End
+
+#1192
+Name Inside a Small, Abandoned Chapel~
+Descr
+You stand inside a chapel, abandoned long ago.  The walls are collapsing
+and the wooden pews are rotted through.  The door out of the chapel lies to
+the east.  You can look out a small window to the north and see the walls of
+Xylar in the distance.  
+~
+Flags 4
+Sector 0
+Reset M 1078 2 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You can see the city walls of Xylar far in the distance.
+~
+(null)~
+Door 1 3 0 1191 35 35
+You see the door which leads out of this small, abandoned chapel.
+~
+door~
+Door 5 259 0 74101 30 30
+~
+trapdoor~
+End
+
+#1193
+Name Open Fields South of Xylar~
+Descr
+The lovely lush fields seem to humm with unseen bugs and wildlife.  You
+can see the ancient southern road to the east, and a strange trail to the
+west.  The air is fresh, and you can barely smell fresh bread in the air,
+coming from somewhere to the north.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1186 30 30
+~
+door~
+Door 1 0 0 10101 0 0
+~
+~
+Door 2 0 0 10131 0 0
+~
+~
+Door 3 0 0 1190 30 30
+~
+door~
+End
+
+#1194
+Name Open Fields South of Xylar~
+Descr
+The pleasant smell of sweet flowers and cut grasses make you feel alive
+and powerful.  To the north a ways you can make out the city walls of Xylar,
+and to the west some hills begin to form.  A ways to the east you can see
+the great ancient southern road.  
+A cool breeze gently blows by you, bringing the scent of wildflowers to
+your battle-hardened nose.  The huge walls of Xylar rise up to the north,
+and you can see the ancient southern road to the southwest.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1184 30 30
+~
+door~
+Door 1 0 0 1190 30 30
+~
+door~
+Door 3 0 0 1196 30 30
+~
+door~
+End
+
+#1195
+Name A Cell in the Xylarian Jail~
+Descr
+The bleak, gray walls and lack of sunlight in this god-forsaken cell make
+you wish you had never committed a crime in the first place.  All you can do
+is wait out your sentence here, so it seems.  
+~
+Flags 17556
+Sector 0
+Reset O 1195 -5 100
+Reset O 1196 -5 100
+Reset O 1196 -5 100
+Reset O 1196 -5 100
+Reset O 1196 -5 100
+Movemess
+(null)~
+End
+
+#1196
+Name Small Hilly Fields, south of Xylar~
+Descr
+These gentle hills are covered in wildflowers and tall grasses.  Small
+rocks cover the ground, reminding you of the incredible stresses the earth
+endures.  To the northeast you can make out the city walls of Xylar.  
+A cool breeze gently blows by you, bringing the scent of wildflowers to
+your battle-hardened nose.  The huge walls of Xylar rise up to the north,
+and you can see the ancient southern road to the southwest.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1183 30 30
+~
+door~
+Door 1 0 0 1194 30 30
+~
+door~
+Door 2 0 0 5837 0 0
+~
+~
+Door 3 0 0 4842 0 0
+~
+~
+End
+
+#1197
+Name A Dark Underground Passageway~
+Descr
+You stand in a mysterious dark, underground passageway.  The walls are
+damp but strangely clean.  The passage continues to the north, and you can
+make out a dim light coming somewhere from above you.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 1198 30 30
+~
+door~
+End
+
+#1198
+Name A Dark Underground Passageway~
+Descr
+The damp, dark passageway seems well-travelled and clean, and the
+polished stones underfoot speak of pride and honor.  You can see a stairway
+leading up on the north side of this passageway.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 1197 30 30
+~
+door~
+Door 4 0 0 1199 30 30
+~
+door~
+End
+
+#1199
+Name The Tinkers Guild in Marabella~
+Descr
+The walls are covered with trophies and guild medals and decorations. 
+The room is clean, although there does not seem to be any windows and the
+room suffers a bit from lack of cheerfulness.  There is a stairway leading
+down into the darkness here.  
+~
+Flags 4
+Sector 0
+Reset M 3334 1 100
+Reset O 227 -1 75
+Reset O 225 -1 75
+Reset O 222 -1 75
+Reset O 241 -1 100
+Reset O 3210 4 100
+Reset M 1077 1 100
+Reset O 241 -1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Reset M 1077 2 100
+Reset O 201 -1 100
+Reset O 207 6 100
+Reset O 241 -1 100
+Reset O 217 4 100
+Movemess
+(null)~
+Door 4 259 0 14500 30 30
+~
+metaldoor~
+End
+
+#1200
+Name A Dark Alley in Xylar~
+Descr
+The alley runs north and south here. You carefully notice that even the
+brave city guards of Xylar dare not venture into this dangerous (and smelly)
+part of town. 
+~
+Flags 2098176
+Movemess
+(null)~
+Door 0 0 0 1059 0 0
+~
+~
+Door 2 0 0 1009 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

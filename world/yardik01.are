@@ -1,0 +1,3923 @@
+#AREADATA 
+Name The Lair of Kwin'tar~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear tiny feet skittering in the darkness.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Yardik~
+VNUMs 4300 4474
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#4300
+Name mountain red scorpion small~
+Short a small scorpion~
+Long 
+A small red mountain scorpion scuttles past.
+~
+Descr
+~
+AMax 3
+NHeight 14
+Money 4
+Level 4
+Sex 1
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#4301
+Name mountain bird hawk~
+Short a mountain hawk~
+Long 
+A large mountain bird of some sort roosts on a rock.
+~
+Descr
+~
+AMax 2
+NHeight 15
+ActBits 16
+Affect_By 8
+Money 8
+Level 8
+MobType 13
+Guard 0
+End
+
+#4302
+Name goat mountain large~
+Short a large goat~
+Long 
+A large mountain goat snorts as you approach.
+~
+Descr
+~
+AMax 1
+NHeight 43
+ActBits 32784
+Money 12
+Level 12
+MobType 18
+Guard 0
+End
+
+#4303
+Name temple guard kwinian huge~
+Short a temple gateguard~
+Long 
+A huge temple gate guard glowers at you from beneath his helmet.
+~
+Descr
+The guards mottled skin is puckered and covered with puss filled
+blisters. Looking upon him you notice he cant actually be human. His
+distinctly orcish features remind of some sort of mutated troll.
+~
+AMax 2
+NHeight 67
+ActBits -2147483646
+ActBits3 2
+Affect_By 40
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 1
+Spec spec_warrior
+End
+
+#4304
+Name gargoyle spider arachnid stone~
+Short a stone spider~
+Long 
+A large stone spider hides upon the head of the gargoyles.
+~
+Descr
+~
+AMax 2
+NHeight 18
+ActBits -2147483646
+Affect_By 65576
+Money 35
+Level 35
+Sex 2
+MobType 18
+Guard 0
+Spec spec_poison
+ArmorClass 120
+End
+
+#4305
+Name priest dark kwin'tar robes man~
+Short a dark priest~
+Long 
+A man in dark black robes wanders the halls of the temple quietly chanting.
+~
+Descr
+The face of the priest cannot be seen through his cowl. Actually nothing can be seen of him even his hands are covered by the folds of his cloak. Could he be not even human?
+~
+AMax 4
+NHeight 65
+Affect_By 40
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 0
+BCasts shocking~
+BCasts disease~
+BCast_P 10
+End
+
+#4306
+Name dark guard kwin'tar~
+Short a dark guard~
+Long 
+A dark guard loyal to the lord of spiders patrols the halls.
+~
+Descr
+The face of the guard holds no emotion. His grimace is like stone and his
+eyes do nothing but follow you slightly as you pass him.
+~
+AMax 2
+NHeight 87
+ActBits -2147483648
+Affect_By 40
+Money 42
+Level 42
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#4307
+Name high priest kwin'tar man PRACT~
+Short the high priest~
+Long 
+The high priest of Kwin'tar is praying to his godess.
+~
+Descr
+The high priest looks like a cross between a tarantula and a human.
+Actuallyt he probably is, seeing the two inch fangs protruding from his
+mouth and his faceted eyes.
+~
+AMax 1
+NHeight 63
+ActBits -2147483646
+Affect_By 168
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+BCasts flamestrike~
+BCasts 'cone of cold'~
+BCast_P 10
+End
+
+#4308
+Name priestess dark kwin'tar~
+Short a high priestess~
+Long 
+A high priestess of the spider godess is chanting to the statue.
+~
+Descr
+~
+AMax 2
+NHeight 60
+ActBits -2147483646
+Affect_By 40
+Money 30
+Level 30
+Sex 2
+MobType 0
+Guard 0
+End
+
+#4309
+Name pit dweller gigantic serpent~
+Short the pit dweller~
+Long 
+A gigantic serpentine creature coils through the waters of the pit.
+~
+Descr
+~
+AMax 1
+NHeight 146
+ActBits 67108864
+Affect_By 65576
+Money 120
+Level 120
+MobType 20
+Guard 0
+Spec spec_poison
+End
+
+#4310
+Name blade spider serrated green~
+Short a cutlass spider~
+Long 
+A green spider with serrated legplates hangs from the wall here.
+~
+Descr
+~
+AMax 2
+NHeight 19
+Affect_By 32
+Money 32
+Level 32
+Sex 2
+MobType 11
+Guard 0
+Spec spec_poison
+End
+
+#4311
+Name black widow red spider~
+Short a huge black widow~
+Long 
+A large black spider with red markings drools on you from above.
+~
+Descr
+~
+AMax 4
+NHeight 12
+Money 28
+Level 28
+MobType 18
+Guard 0
+Spec spec_poison
+End
+
+#4312
+Name domino black white spider~
+Short a domino spider~
+Long 
+A black and white domino spider scuttles across the floor.
+~
+Descr
+~
+AMax 5
+NHeight 18
+Money 21
+Level 21
+Sex 2
+MobType 6
+Guard 0
+End
+
+#4313
+Name demon spider red evil~
+Short a demon spider~
+Long 
+An evil red demon spider drools acid at your feet.
+~
+Descr
+~
+AMax 4
+NHeight 21
+Money 42
+Level 42
+MobType 18
+Guard 0
+Spec spec_breath_acid
+End
+
+#4314
+Name gargantuan hairy spider brown~
+Short a gargantuan spider~
+Long 
+A gargantuan brown spiders hair stands as you approach.
+~
+Descr
+~
+AMax 3
+NHeight 35
+ActBits 32768
+Money 36
+Level 36
+MobType 18
+Guard 0
+Spec spec_poison
+End
+
+#4315
+Name guard spider small~
+Short a small spider guard~
+Long 
+A small guard spider surrounded by his comrades in arms.
+~
+Descr
+~
+AMax 6
+NHeight 8
+ActBits -2147483646
+ActBits3 2
+Affect_By 65576
+Money 42
+Level 42
+Sex 1
+MobType 18
+Guard 2
+Spec spec_poison
+End
+
+#4316
+Name kwin'tar spider queen woman~
+Short the godess Kwin'tar~
+Long 
+The great spider godess Kwin'tar stares at you from her throne.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 32770
+Affect_By 40
+Money 100
+Level 100
+Sex 2
+MobType 11
+Guard 0
+Spec spec_poison
+End
+
+#4317
+Name guard tank creature temple man~
+Short the tank guard~
+Long 
+The guardian of the holding tank looks at you in wonder as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 2
+Affect_By 40
+Money 36
+Level 36
+Sex 1
+MobType 0
+Guard 0
+End
+
+#4318
+Name creature bulbouse blackened demon~
+Short a black demon~
+Long 
+A bulbouse blackened creature drools as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 89
+ActBits 8
+ActBits3 524288
+Money 23
+Level 23
+Sex 2
+MobType 11
+Guard 0
+Spec spec_poison
+End
+
+#4319
+Name dragon green gigantic~
+Short a green dragon~
+Long 
+A gigantic green dragon fumes as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 99
+ActBits 8
+Affect_By 8
+Money 37
+Level 37
+Sex 1
+MobType 5
+Guard 0
+Spec spec_breath_gas
+End
+
+#4320
+Name guard cell prison man~
+Short a stout prison guard~
+Long 
+A bulky prison guard eyes you as you enter.
+~
+Descr
+~
+AMax 3
+NHeight 65
+Money 26
+Level 26
+Sex 1
+MobType 0
+Guard 0
+End
+
+#4321
+Name man dying chained leperous~
+Short a dying prisoner~
+Long 
+A leperous dying man is chained to the wall, moaning.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 2
+Money 18
+Level 18
+MobType 0
+Guard 0
+End
+
+#4322
+Name young man healthy~
+Short a healthy prisoner~
+Long 
+A young man stares at you coldly as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 2
+Money 23
+Level 23
+Sex 1
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#4300
+Name dagger dark metal short~
+Short a dark metal dagger~
+Descr
+A short dagger made of dark metal lies in the dust.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 11 0 0 0 2 5 0
+Weight 1
+Cost 700
+End
+
+#4301
+Name key cell tank dark~
+Short a small black key~
+Descr
+A small key sits on the ground.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#4302
+Name key small rusty cell~
+Short a small rusty key~
+Descr
+A rusty key sits on the ground here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#4303
+Name corpse dead body~
+Short a dead body~
+Descr
+[31mThe corpse of a prisoner lies rotting here.
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 38
+Cost 0
+End
+
+#4304
+Name book translation book kwintarian red~
+Short a [31mred [0mbook~
+Descr
+A red book of Kwin'tarian translation lies here.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr book~
+The Kwin'tarian written language consists of many symbols. The main most
+
+
+of which do not translate into the common language easily. Those that do are
+
+
+listed below with their translations.
+
+
+
+
+ @@#@@               --Steel or any metal of strength.
+
+
+ "                   --Statue, a monument usually.
+
+
+ +++                 --Common for 'the' or a prefix.
+
+
+ #                   --Way
+
+
+ ^                   --God, Kwin'tar
+
+
+ / \                 --To show something or reveal.
+
+
+ +                   --A central point, or median.
+
+
+ \ /                 --Common for 'to' or a prefix.
+
+
+ :                   --Will
+
+
+--<->--              --Application, an action.
+
+
+/_______\            --Pressure, application of which.
+
+
+*(*)*                --Death
+
+
+
+
+
+Most importantly the following symbols are used for decifering those above into common words, also runic symbol scripts and writing will be covered in the next chapters.
+
+
+
+????????? The rest of the book is too faded to read ??????????
+
+
+~
+End
+
+#4305
+Name sword short sharp dark~
+Short a dark bladed shortsword~
+Descr
+A dark shortsword lies in the dust rusting slowly.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 150 0 3 0 0 0 3 4 0
+Weight 0
+Cost 0
+End
+
+#4306
+Name staff black demonic~
+Short [1m[30ma [0m[31mdemonic [1m[30mstaff[0m~
+Descr
+A demonic looking black staff glows dimly.
+[0;36m~
+Type 5
+Extra 537395201
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 7 0 0 0 7 3 0
+Weight 8
+Cost 30000
+Affect 18 2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#4307
+Name cutlass serrated legplate~
+Short a serrated legplate~
+Descr
+A sharpened serrated plate lies in the dirt.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 50 50 10 3
+Weight 2
+Cost 0
+Affect 22 1 1 0 0
+Affect 14 -4 1 0 0
+End
+
+#4308
+Name eyepatch black eyes Kwin'tar HEALBONUS~
+Short [1m[30mthe black eyes of [35mKwin'tar[0m~
+Descr
+A huge faceted eyeball lies in a pool of blood.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 33554433
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 15 10 35 35 10 10
+Weight 2
+Cost 30000
+Affect 17 -1 1 0 0
+Affect 13 6 1 0 0
+Affect 27 5 1 0 0
+End
+
+#4309
+Name statue godess kwin'tar~
+Short statue of kwin'tar~
+Descr
+[1m[30mThe statue of [35mthe godess Kwin'tar [30mlooms above you.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#4310
+Name shield grey banded~
+Short a banded shield~
+Descr
+A grey metal shield sits on the ground here.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 1 13 0 100 100 0 0
+Weight 3
+Cost 230
+End
+
+#4311
+Name cowled robe dark~
+Short a long cowled robe~
+Descr
+A dark cowled robe sits here collecting dust.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 70 70 0 10
+Weight 0
+Cost 0
+End
+
+#4312
+Name portal red gleaming~
+Short a portal~
+Descr
+[31mA [1mgleaming red [0m[31mportal throbs slightly in the air.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 4407 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#4300
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4310 0 0
+~
+~
+Door 1 0 0 4301 0 0
+~
+~
+Door 2 0 0 4320 0 0
+~
+~
+Door 4 0 0 0 0 0
+~
+~
+End
+
+#4301
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Reset M 4302 1 100
+Door 0 0 0 4311 0 0
+~
+~
+Door 1 0 0 4302 0 0
+~
+~
+Door 2 0 0 4321 0 0
+~
+~
+Door 3 0 0 4300 0 0
+~
+~
+End
+
+#4302
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4312 0 0
+~
+~
+Door 1 0 0 4303 0 0
+~
+~
+Door 2 0 0 4322 0 0
+~
+~
+Door 3 0 0 4301 0 0
+~
+~
+End
+
+#4303
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4313 0 0
+~
+~
+Door 1 0 0 4304 0 0
+~
+~
+Door 2 0 0 4323 0 0
+~
+~
+Door 3 0 0 4302 0 0
+~
+~
+End
+
+#4304
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4314 0 0
+~
+~
+Door 1 0 0 4305 0 0
+~
+~
+Door 2 0 0 4324 0 0
+~
+~
+Door 3 0 0 4303 0 0
+~
+~
+End
+
+#4305
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4315 0 0
+~
+~
+Door 1 0 0 4306 0 0
+~
+~
+Door 2 0 0 4325 0 0
+~
+~
+Door 3 0 0 4304 0 0
+~
+~
+End
+
+#4306
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4316 0 0
+~
+~
+Door 1 0 0 4307 0 0
+~
+~
+Door 2 0 0 4326 0 0
+~
+~
+Door 3 0 0 4305 0 0
+~
+~
+End
+
+#4307
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4317 0 0
+~
+~
+Door 1 0 0 4308 0 0
+~
+~
+Door 2 0 0 4327 0 0
+~
+~
+Door 3 0 0 4306 0 0
+~
+~
+End
+
+#4308
+Name A Rocky Path in the Mountains~
+Descr
+The small rocky path winds out to the east, surrounded by the high
+plateau its sits upon. The cliffs to the east jut sharply out over the
+chasms, and you are slightly overcome by vertigo even from here.
+~
+Sector 4
+Door 0 0 0 4318 0 0
+~
+~
+Door 1 0 0 4309 0 0
+~
+~
+Door 2 0 0 4328 0 0
+~
+~
+Door 3 0 0 4307 0 0
+~
+~
+End
+
+#4309
+Name A Fork in the Rocky Path~
+Descr
+Here the path through the mountains splits to the north and south. In the
+distance to the south lies a stone staircase leading downwards into unknown
+territory. The path to the north leads higher into the mountains towards the
+great peak of Granite Doom.
+~
+Sector 4
+Door 0 0 0 4319 0 0
+~
+~
+Door 1 0 0 4341 0 0
+~
+~
+Door 2 0 0 4329 0 0
+~
+~
+Door 3 0 0 4308 0 0
+~
+~
+End
+
+#4310
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Reset M 4300 1 100
+Door 1 0 0 4311 0 0
+~
+~
+Door 2 0 0 4300 0 0
+~
+~
+End
+
+#4311
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 1 0 0 4312 0 0
+~
+~
+Door 2 0 0 4301 0 0
+~
+~
+Door 3 0 0 4310 0 0
+~
+~
+End
+
+#4312
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Reset M 4300 1 100
+Door 1 0 0 4313 0 0
+~
+~
+Door 2 0 0 4302 0 0
+~
+~
+Door 3 0 0 4311 0 0
+~
+~
+End
+
+#4313
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 1 0 0 4314 0 0
+~
+~
+Door 2 0 0 4303 0 0
+~
+~
+Door 3 0 0 4312 0 0
+~
+~
+End
+
+#4314
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 1 0 0 4315 0 0
+~
+~
+Door 2 0 0 4304 0 0
+~
+~
+Door 3 0 0 4313 0 0
+~
+~
+End
+
+#4315
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Reset M 4301 1 100
+Door 1 0 0 4316 0 0
+~
+~
+Door 2 0 0 4305 0 0
+~
+~
+Door 3 0 0 4314 0 0
+~
+~
+End
+
+#4316
+Name A Rocky Plateau~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 1 0 0 4317 0 0
+~
+~
+Door 2 0 0 4306 0 0
+~
+~
+Door 3 0 0 4315 0 0
+~
+~
+End
+
+#4317
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 1 0 0 4318 0 0
+~
+~
+Door 2 0 0 4307 0 0
+~
+~
+Door 3 0 0 4316 0 0
+~
+~
+End
+
+#4318
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 4319 0 0
+~
+~
+Door 2 0 0 4308 0 0
+~
+~
+Door 3 0 0 4317 0 0
+~
+~
+End
+
+#4319
+Name The Path to Granite Doom~
+Descr
+The pathway deteriorates as you progress to the north, further ahead
+turning into nothing more then a rubble strewn depression in the rock. Ahead
+to the north you can see the high mountains and the single peak known to all
+as Granite Doom.
+~
+Sector 2
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 4469 0 0
+~
+~
+Door 2 0 0 4309 0 0
+~
+~
+Door 3 0 0 4318 0 0
+~
+~
+End
+
+#4320
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 4
+Door 0 0 0 4300 0 0
+~
+~
+Door 1 0 0 4321 0 0
+~
+~
+Door 2 259 0 70212 30 30
+~
+crack~
+Door 3 259 0 20256 30 30
+~
+pumice~
+End
+
+#4321
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Reset M 4301 1 100
+Door 0 0 0 4301 0 0
+~
+~
+Door 1 0 0 4322 0 0
+~
+~
+Door 3 0 0 4320 0 0
+~
+~
+End
+
+#4322
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4302 0 0
+~
+~
+Door 1 0 0 4323 0 0
+~
+~
+Door 3 0 0 4321 0 0
+~
+~
+End
+
+#4323
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Reset M 4300 1 100
+Door 0 0 0 4303 0 0
+~
+~
+Door 1 0 0 4324 0 0
+~
+~
+Door 3 0 0 4322 0 0
+~
+~
+End
+
+#4324
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4304 0 0
+~
+~
+Door 1 0 0 4325 0 0
+~
+~
+Door 3 0 0 4323 0 0
+~
+~
+End
+
+#4325
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4305 0 0
+~
+~
+Door 1 0 0 4326 0 0
+~
+~
+Door 3 0 0 4324 0 0
+~
+~
+End
+
+#4326
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4306 0 0
+~
+~
+Door 1 0 0 4327 0 0
+~
+~
+Door 3 0 0 4325 0 0
+~
+~
+End
+
+#4327
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4307 0 0
+~
+~
+Door 1 0 0 4328 0 0
+~
+~
+Door 3 0 0 4326 0 0
+~
+~
+End
+
+#4328
+Name A Plateau in the Mountains~
+Descr
+The high plateau of the mountains is flat and rocky, the odd spire of
+millenia old rock sticking up here or there. Small mountain birds and other
+fauna frequent the craggy slopes, and there passing is evident.
+~
+Sector 2
+Door 0 0 0 4308 0 0
+~
+~
+Door 1 0 0 4329 0 0
+~
+~
+Door 3 0 0 4327 0 0
+~
+~
+End
+
+#4329
+Name A Rocky Path in the Mountains~
+Descr
+The path leads a short distance more to the south, before ending at a
+huge stone staircase. Strangely as you approach the stairs the creatures and
+various fauna of the mountains disappear and the area becomes ominously
+quiet.
+~
+Sector 4
+Door 0 0 0 4309 0 0
+~
+~
+Door 1 0 0 0 30 30
+You stumble and almost fall off the edge!
+~
+~
+Door 2 0 0 4330 0 0
+~
+~
+Door 3 0 0 4328 0 0
+~
+~
+End
+
+#4330
+Name Atop a Great Stone Staircase~
+Descr
+The stone staircase drops at least two-hundred feet down and to the
+south, at its base(which can barely be seen), you can almost make out what
+looks to be a bridge of some sort. The rocky stairs are trecherous, and you
+must watch your step carefully.
+~
+Flags 2
+Sector 4
+Door 0 0 0 4329 0 0
+~
+~
+Door 1 0 0 0 30 30
+A huge rock to the east stop your movement.
+~
+~
+Door 3 0 0 0 30 30
+A huge rock to the west stop your movement.
+~
+~
+Door 5 0 0 4331 0 0
+~
+~
+End
+
+#4331
+Name Upon a Great Stone Staircase~
+Descr
+The trecherous stairs reach downwards and to the south. Small stones and
+debris threaten to trip you up and send your body sprawling to its demise
+hundreds of feet below.
+~
+Door 1 0 0 0 30 30
+The walls of the stair prevent movement there.
+~
+~
+Door 2 0 0 4332 0 0
+~
+~
+Door 3 0 0 0 30 30
+The walls of the stair prevent movement there.
+~
+~
+Door 4 0 0 4330 0 0
+~
+~
+End
+
+#4332
+Name Upon a Great Stone Staircase~
+Descr
+The trecherous stairs reach downwards and to the south. Small stones and
+debris threaten to trip you up and send your body sprawling to its demise
+hundreds of feet below.
+~
+Door 0 0 0 4331 0 0
+~
+~
+Door 5 0 0 4333 0 0
+~
+~
+End
+
+#4333
+Name Upon a Great Stone Staircase~
+Descr
+The trecherous stairs reach downwards and to the south. Small stones and
+debris threaten to trip you up and send your body sprawling to its demise
+hundreds of feet below.
+~
+Door 2 0 0 4334 0 0
+~
+~
+Door 4 0 0 4332 0 0
+~
+~
+End
+
+#4334
+Name The Base of a Great Stone Staircase~
+Descr
+At the bottom of the stairs looking up they seem to fill the sky, almost
+as if they are much higher then you thought. To the east lies a rickety rope
+bridge spanning a huge chasm. At the far end you can barely make out a
+gigantic black domed temple, puffing black smoke from its watchfires.
+~
+Door 0 0 0 4333 0 0
+~
+~
+Door 1 0 0 4335 0 0
+~
+~
+End
+
+#4335
+Name Upon an Old Rope Bridge~
+Descr
+The old rope bridge seems about to collapse. Boards crack and crumble as
+the wind causes slight sway while whistling by. Strangely some force must be
+holding it together, for the ropes are frayed almost through in some spots
+and they still have not let go under the strain.
+~
+Door 1 0 0 4336 0 0
+~
+~
+Door 3 0 0 4334 0 0
+~
+~
+End
+
+#4336
+Name Upon an Old Rope Bridge~
+Descr
+The old rope bridge seems about to collapse. Boards crack and crumble as
+the wind causes slight sway while whistling by. Strangely some force must be
+holding it together, for the ropes are frayed almost through in some spots
+and they still have not let go under the strain.
+~
+Door 1 0 0 4337 0 0
+~
+~
+Door 3 0 0 4335 0 0
+~
+~
+End
+
+#4337
+Name A Broken Section of Bridge~
+Descr
+Directly to the east the bridge seems to disappear, the ropes still hold
+but the boards crossing the twenty-five foot section leading to the domed
+temple have seemingly crumbled into the abyss below. The only way across the
+gap seems to be a set of wings, or maybe a levitation spell.
+~
+Door 1 0 0 4338 0 0
+~
+~
+Door 3 0 0 4336 0 0
+~
+~
+End
+
+#4338
+Name Hanging in the Open Air~
+Descr
+Flying above the open ground is a horrifying experiance. Thousands of
+feet above the ground below, a fall would certainly injure one, let alone
+splatter them in every direction imaginable. Yes a fall would not be one of
+the most enjoyable experiances possible.
+~
+Sector 9
+Door 1 0 0 4339 0 0
+~
+~
+Door 3 0 0 4337 0 0
+~
+~
+End
+
+#4339
+Name A Broken Section of Bridge~
+Descr
+Directly to the west the bridge seems to disappear, the ropes still hold
+but the boards crossing the twenty-five foot section leading to the back to
+the stone stair have seemingly crumbled into the abyss below. The only way
+across the gap seems to be a set of wings, or maybe a levitation spell.
+~
+Door 1 0 0 4340 0 0
+~
+~
+Door 3 0 0 4338 0 0
+~
+~
+End
+
+#4340
+Name Before a Great Temple~
+Descr
+The gigantic black temple rises into the sky, its domes blocking out the
+sun. The black smoke billowing from its fires choke the air and fill the sky
+as high as can be seen. Some sort of chanting can be heard from within. A
+powerful magical force seems to throb within the building, moving the air
+around it slightly with each pulse.
+~
+Door 1 0 0 4342 0 0
+~
+~
+Door 3 0 0 4339 0 0
+~
+~
+End
+
+#4341
+Name A High Jutting Cliff~
+Descr
+From the top of this cliff you can see all the land to the east. The most
+prominent point being a gigantic black domed temple to the south, small
+plumes of acrid smoke puff out from a duct at its center. It seems almost as
+if the thing is alive, breathing out its poison.
+~
+Sector 2
+Door 0 0 0 4469 0 0
+~
+~
+Door 1 0 0 0 30 30
+What do you want to fall off the edge?
+~
+~
+Door 2 0 0 0 30 30
+You stumble and almost fall off the edge!
+~
+~
+Door 3 0 0 4309 0 0
+~
+~
+End
+
+#4342
+Name The Gates of Temple Kwin'tar~
+Descr
+The temple gates are large and black, as is the rest of the temple. The
+two guards in front of the gates are not much different from the rest. Large
+gargoyles perch atop the two pillars embracing the gates. On second glance
+they look more like spiders in actuality then gargoyles.
+~
+Flags 2
+Reset M 4304 1 100
+Reset M 4304 1 100
+Reset M 4303 1 100
+Reset M 4303 1 100
+Door 1 3 0 4343 30 30
+~
+Temple Gate~
+Door 3 0 0 4340 0 0
+~
+~
+End
+
+#4343
+Name The Temple Entranceway~
+Descr
+The chanting is almost deafening within the temple. It seems to eminate
+from the walls themselves, drawing you towards the center with its droning
+pulses. It would take thousands of voices to create such a powerful noise.
+The halls to the north and south seem quiet, though the eastern is filled
+with the chanting at an even greater volume then the rest.
+~
+Flags 4
+Door 0 0 0 4344 0 0
+~
+~
+Door 1 0 0 4403 0 0
+~
+~
+Door 2 0 0 4354 0 0
+~
+~
+Door 3 3 0 4342 30 30
+~
+Temple Gate~
+End
+
+#4344
+Name A Glowing Northward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4345 0 0
+~
+~
+Door 2 0 0 4343 0 0
+~
+~
+End
+
+#4345
+Name A Glowing Northward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4346 0 0
+~
+~
+Door 2 0 0 4344 0 0
+~
+~
+End
+
+#4346
+Name A Glowing Northward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4347 0 0
+~
+~
+Door 2 0 0 4345 0 0
+~
+~
+End
+
+#4347
+Name A Glowing Northward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4348 0 0
+~
+~
+Door 2 0 0 4346 0 0
+~
+~
+End
+
+#4348
+Name A Glowing Northward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4349 0 0
+~
+~
+Door 2 0 0 4347 0 0
+~
+~
+End
+
+#4349
+Name A Glowing Dead-End Hall~
+Descr
+The dead ended hall shows nothing different then anywhere else, except
+for a large carved rune upon the wall. The rune glows a diffent shade of
+green then those elsewhere and seems to be of some importance.
+~
+Flags 4
+ExtraDescr rune~
+The rune is carved into a plate of stone in the wall.
+
+
+---------------------
+
+
+|                   |
+
+
+|     /_______\     |
+
+
+|      --<->--      |
+
+
+|         +         |
+
+
+|         "         |
+
+
+|         :         |
+
+
+|                   |
+
+
+---------------------
+
+
+~
+Door 2 0 0 4348 0 0
+~
+~
+End
+
+#4350
+Name Inside a Small Cell~
+Descr
+The small cell's floor is covered in bloody straw. A perfect lair for any
+creature, smelling of feces and rotted meat. A small water dish sits in one
+corner half full of some red substance, probably blood.
+~
+Flags 4
+Reset M 4319 1 100
+Door 0 23 4301 4351 30 30
+~
+Cell~
+End
+
+#4351
+Name The Tank Guard Post~
+Descr
+The guard post consists of a small desk and chair, usually manned by a
+priest or warrior. The said guard is the sole owner of the key to the cages,
+and all must register with him to remove a creature.
+~
+Flags 4
+Reset M 4317 1 100
+Reset O 4305 21 80
+Reset O 4301 -1 100
+Door 0 0 0 4352 0 0
+~
+~
+Door 2 23 4301 4350 30 30
+~
+Cell~
+End
+
+#4352
+Name The Temple Holding Tank~
+Descr
+This area of the temple is the holding area for the various hunting and
+sacrificial creatures used by the priests to dispose of enemies. Inside the
+locked cages lie abominations of nature unheard of elsewhere in the land. A
+small guardpost lies to the south.
+~
+Flags 4
+Door 0 0 0 4353 0 0
+~
+~
+Door 2 0 0 4351 0 0
+~
+~
+Door 3 23 4301 4467 30 30
+~
+Cell~
+End
+
+#4353
+Name The Temple Holding Tank~
+Descr
+This area of the temple is the holding area for the various hunting and
+sacrificial creatures used by the priests to dispose of enemies. Inside the
+locked cages lie abominations of nature unheard of elsewhere in the land. A
+small guardpost lies to the south.
+~
+Flags 4
+Door 1 3 0 4402 30 30
+~
+Runic Door~
+Door 2 0 0 4352 0 0
+~
+~
+Door 3 19 4301 4466 30 30
+~
+Cell~
+End
+
+#4354
+Name A Glowing Southward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4343 0 0
+~
+~
+Door 2 0 0 4355 0 0
+~
+~
+End
+
+#4355
+Name A Glowing Southward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4354 0 0
+~
+~
+Door 2 0 0 4356 0 0
+~
+~
+End
+
+#4356
+Name A Glowing Southward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4355 0 0
+~
+~
+Door 2 0 0 4357 0 0
+~
+~
+End
+
+#4357
+Name A Glowing Southward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4356 0 0
+~
+~
+Door 2 0 0 4358 0 0
+~
+~
+End
+
+#4358
+Name A Glowing Southward Hall~
+Descr
+The walls of this north-south hall glow with magical runes, keeping the
+air alight with magical green flames. Strangely the walls themselves and the
+carved runes are dark black, and still emit the magical firelight. The
+chanting is slightly quieter here then in the main hall.
+~
+Flags 4
+Door 0 0 0 4357 0 0
+~
+~
+Door 2 0 0 4359 0 0
+~
+~
+End
+
+#4359
+Name A Glowing Dead-End Hall~
+Descr
+The dead ended hall shows nothing different then anywhere else, except
+for a large carved rune upon the wall. The rune glows a diffent shade of
+green then those elsewhere and seems to be of some importance.
+~
+Flags 4
+ExtraDescr rune~
+---------------
+
+
+|             |
+
+
+|     / \     |
+
+
+|     +++     |
+
+
+|     \ /     |
+
+
+|      #      |
+
+
+|      $      |
+
+
+|      ^      |
+
+
+|             |
+
+
+---------------
+
+
+~
+Door 0 0 0 4358 0 0
+~
+~
+End
+
+#4360
+Name Inside a Prison Cell~
+Descr
+The cell is currently empty except for yourself. A small food dish sits
+in the corner filled with rotted meat. No water seems to be anywhere to be
+found. Hopefully your stay here is not a long one.
+~
+Flags 5
+Door 2 7 4302 4361 30 30
+~
+door cell~
+End
+
+#4361
+Name Inside the Temple Prison~
+Descr
+This small cell block serves as the prison of the temple. The cells are
+none to clean. As are their tennants and guards. All the doors to the cells
+are locked, the keys must be somewhere close.
+~
+Flags 4
+Reset M 4320 1 100
+Door 0 7 4302 4360 30 30
+~
+door cell~
+Door 2 0 0 4362 0 0
+~
+~
+Door 3 23 4302 4461 30 30
+~
+door cell~
+End
+
+#4362
+Name Inside the Temple Prison~
+Descr
+This small cell block serves as the prison of the temple. The cells are
+none to clean. As are their tennants and guards. All the doors to the cells
+are locked, the keys must be somewhere close.
+~
+Flags 4
+Reset M 4320 1 100
+Reset O 4305 21 100
+Reset O 4302 -1 100
+Door 0 0 0 4361 0 0
+~
+~
+Door 2 0 0 4363 0 0
+~
+~
+Door 3 23 4302 4460 30 30
+~
+door cell~
+End
+
+#4363
+Name Inside the Temple Prison~
+Descr
+This small cell block serves as the prison of the temple. The cells are
+none to clean. As are their tennants and guards. All the doors to the cells
+are locked, the keys must be somewhere close.
+~
+Flags 4
+Sector 4
+Reset M 4320 1 100
+Door 0 0 0 4362 0 0
+~
+~
+Door 1 3 0 4364 30 30
+~
+door cell~
+Door 3 23 4302 4459 30 30
+~
+door cell~
+End
+
+#4364
+Name A Rubble Filled Hallway~
+Descr
+The condition of the hallway worsens as you progress further to the west,
+small piles of rubble and debris clog your path, forcing you to stumble your
+way towards the barred door at the end. A moaning can be heard from behind
+the door.
+~
+Flags 4
+Sector 4
+Door 1 0 0 4365 0 0
+~
+~
+Door 3 3 0 4363 30 30
+~
+door cell~
+End
+
+#4365
+Name A Rubble Filled Hallway~
+Descr
+The condition of the hallway worsens as you progress further to the west,
+small piles of rubble and debris clog your path, forcing you to stumble your
+way towards the barred door at the end. A moaning can be heard from behind
+the door.
+~
+Flags 4
+Sector 4
+Door 1 0 0 4366 0 0
+~
+~
+Door 3 0 0 4364 0 0
+~
+~
+End
+
+#4366
+Name A Rubble Filled Hallway~
+Descr
+The condition of the hallway worsens as you progress further to the west,
+small piles of rubble and debris clog your path, forcing you to stumble your
+way towards the barred door at the end. A moaning can be heard from behind
+the door.
+~
+Flags 4
+Sector 4
+Door 1 0 0 4367 0 0
+~
+~
+Door 3 0 0 4365 0 0
+~
+~
+End
+
+#4367
+Name A Rubble Filled Hallway~
+Descr
+The condition of the hallway worsens as you progress further to the west,
+small piles of rubble and debris clog your path, forcing you to stumble your
+way towards the barred door at the end. A moaning can be heard from behind
+the door.
+~
+Flags 4
+Sector 4
+Door 1 0 0 4368 0 0
+~
+~
+Door 3 0 0 4366 0 0
+~
+~
+End
+
+#4368
+Name A Junction in the Hallway~
+Descr
+The two way junction of the hallway is clean and quiet. To the west lies
+a massive door covered with bars, some sort of prison. To the east lies a
+small rune covered door with the symbol of a book carved into it. No doubt
+some sort of temple library.
+~
+Flags 4
+Door 0 3 0 4430 30 30
+~
+Old Door~
+Door 1 0 0 4369 0 0
+~
+~
+Door 3 0 0 4367 0 0
+~
+~
+End
+
+#4369
+Name A Clean Well Kept Hall~
+Descr
+This hall is clean and well taken care of. Obviously the scholars of the
+temple frequent the library and would rather not get their respective feet
+dirty while traveling there. Little sign of use recently is found though,
+for a thin lair of dust covers the floor.
+~
+Flags 4
+Door 1 0 0 4370 0 0
+~
+~
+Door 3 0 0 4368 0 0
+~
+~
+End
+
+#4370
+Name A Clean Well Kept Hall~
+Descr
+This hall is clean and well taken care of. Obviously the scholars of the
+temple frequent the library and would rather not get their respective feet
+dirty while traveling there. Little sign of use recently is found though,
+for a thin lair of dust covers the floor.
+~
+Flags 4
+Door 1 0 0 4371 0 0
+~
+~
+Door 3 0 0 4369 0 0
+~
+~
+End
+
+#4371
+Name A Clean Well Kept Hall~
+Descr
+This hall is clean and well taken care of. Obviously the scholars of the
+temple frequent the library and would rather not get their respective feet
+dirty while traveling there. Little sign of use recently is found though,
+for a thin lair of dust covers the floor.
+~
+Flags 4
+Door 1 0 0 4372 0 0
+~
+~
+Door 3 0 0 4370 0 0
+~
+~
+End
+
+#4372
+Name A Clean Well Kept Hall~
+Descr
+This hall is clean and well taken care of. Obviously the scholars of the
+temple frequent the library and would rather not get their respective feet
+dirty while traveling there. Little sign of use recently is found though,
+for a thin lair of dust covers the floor.
+~
+Flags 4
+Door 1 3 0 4373 30 30
+~
+Oaken Door~
+Door 3 0 0 4371 0 0
+~
+~
+End
+
+#4373
+Name An Old Library~
+Descr
+The old temple library is filled with stacks of books, seemingly thrown
+willy nilly into every corner of the room. Just moving from one area to
+another is a chore and you threaten to knock over piles at every step. A
+gigantic pile of old texts stand in the north corner.
+~
+Flags 4
+Door 0 0 0 4374 0 0
+~
+~
+Door 3 3 0 4372 30 30
+~
+Oaken Door~
+End
+
+#4374
+Name An Old Library~
+Descr
+The old temple library is filled with stacks of books, seemingly thrown
+willy nilly into every corner of the room. Just moving from one area to
+another is a chore and you threaten to knock over piles at every step. A
+gigantic pile of old texts stand in the north corner.
+~
+Flags 4
+Door 0 0 0 4375 0 0
+~
+~
+Door 2 0 0 4373 0 0
+~
+~
+End
+
+#4375
+Name An Old Library~
+Descr
+The old temple library is filled with stacks of books, seemingly thrown
+willy nilly into every corner of the room. Just moving from one area to
+another is a chore and you threaten to knock over piles at every step. A
+gigantic pile of old texts stand in the north corner.
+~
+Flags 4
+Door 0 0 0 4376 0 0
+~
+~
+Door 2 0 0 4374 0 0
+~
+~
+End
+
+#4376
+Name Before a Huge Stack of Books~
+Descr
+The huge stack of old texts before you stands from ceiling to floor,
+effectively blocking your sight from anything behind it. The titles on the
+spines of the books are illegible and faded so much they almost seem to have
+been rubbed off.
+~
+Flags 4
+Door 0 259 0 4377 30 30
+~
+stack~
+Door 2 0 0 4375 0 0
+~
+~
+End
+
+#4377
+Name A Hidden Stack of Books~
+Descr
+Behind the stack of faded books lies another stack, though smaller of
+translation books. The top book looks to be well used, and the spine shows
+it to be a translations table of Kwintarian runic languages. The others in
+the pile look uninteresting.
+~
+Flags 4
+Reset O 4304 -5 100
+Door 2 3 0 4376 30 30
+~
+Stone Door~
+End
+
+#4378
+Name Above a Huge Bottomless Pit~
+Descr
+You float in the air above the pit, wondering what it would be like to
+fall into it. Then you remember that you might soon do so.
+~
+Flags 139265
+Sector 9
+Move_dir 5
+Door 0 0 0 4379 30 30
+~
+Blackened Door~
+Door 5 0 0 4462 0 0
+~
+~
+End
+
+#4379
+Name Before a Dark Pit~
+Descr
+Directly to the south lies a large black pit. The bottom of the pit
+cannot be seen through the gloom, and as far as you can tell is deep, deep
+below the ground. No sound arises from the pit, though an unimaginable
+stench fills the air around it.
+~
+Flags 1
+Door 0 0 0 4380 0 0
+~
+~
+Door 2 0 0 4378 30 30
+~
+Blackened Door~
+End
+
+#4380
+Name A Dark Tunnel~
+Descr
+This tunnel is completely dark. The walls have no runes to light the way
+and without a light source you would surely stumble to your doom. A sickly
+stench comes from a particularily dark patch at the end of the hall.
+~
+Flags 5
+Door 0 0 0 4381 0 0
+~
+~
+Door 2 0 0 4379 0 0
+~
+~
+End
+
+#4381
+Name A Dark Tunnel~
+Descr
+This tunnel is completely dark. The walls have no runes to light the way
+and without a light source you would surely stumble to your doom. A sickly
+stench comes from a particularily dark patch at the end of the hall.
+~
+Flags 5
+Door 0 0 0 4382 0 0
+~
+~
+Door 2 0 0 4380 0 0
+~
+~
+End
+
+#4382
+Name A Dark Tunnel~
+Descr
+This tunnel is completely dark. The walls have no runes to light the way
+and without a light source you would surely stumble to your doom. A sickly
+stench comes from a particularily dark patch at the end of the hall.
+~
+Flags 5
+Door 0 0 0 4383 0 0
+~
+~
+Door 2 0 0 4381 0 0
+~
+~
+End
+
+#4383
+Name A Dark Tunnel~
+Descr
+This tunnel is completely dark. The walls have no runes to light the way
+and without a light source you would surely stumble to your doom. A sickly
+stench comes from a particularily dark patch at the end of the hall.
+~
+Flags 5
+Door 2 0 0 4382 0 0
+~
+~
+Door 3 3 0 4411 30 30
+~
+Ancient Door~
+End
+
+#4384
+Name The Hidden Tunnels Beneath the Temple~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset O 4312 -5 100
+Door 1 0 0 4385 0 0
+~
+~
+End
+
+#4385
+Name The Hidden Tunnels Beneath the Temple~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Door 1 0 0 4386 0 0
+~
+~
+Door 3 0 0 4384 0 0
+~
+~
+End
+
+#4386
+Name The Hidden Tunnels Beneath the Temple~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset M 4312 1 100
+Reset M 4312 1 100
+Door 1 0 0 4387 0 0
+~
+~
+Door 3 0 0 4385 0 0
+~
+~
+End
+
+#4387
+Name A Turn in the Tunnels~
+Descr
+From here the tunnels of Kwin'tar begin to twist and turn to the north,
+as you progress the creatures beheld seem to grow. As if the power behind
+them were getting closer. Strangely none attack you on sight, maybe they are
+being held back by some unseen force.
+~
+Flags 5
+Door 0 0 0 4388 0 0
+~
+~
+Door 3 0 0 4386 0 0
+~
+~
+End
+
+#4388
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+From here the tunnels of Kwin'tar begin to twist and turn to the north,
+as you progress the creatures beheld seem to grow. As if the power behind
+them were getting closer. Strangely none attack you on sight, maybe they are
+being held back by some unseen force.
+~
+Flags 5
+Door 1 0 0 4389 0 0
+~
+~
+Door 2 0 0 4387 0 0
+~
+~
+End
+
+#4389
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset M 4311 1 100
+Door 1 0 0 4390 0 0
+~
+~
+Door 3 0 0 4388 0 0
+~
+~
+End
+
+#4390
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+From here the tunnels of Kwin'tar begin to twist and turn to the north,
+as you progress the creatures beheld seem to grow. As if the power behind
+them were getting closer. Strangely none attack you on sight, maybe they are
+being held back by some unseen force.
+~
+Flags 5
+Door 0 0 0 4391 0 0
+~
+~
+Door 3 0 0 4389 0 0
+~
+~
+End
+
+#4391
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset M 4311 1 100
+Door 0 0 0 4392 0 0
+~
+~
+Door 2 0 0 4390 0 0
+~
+~
+End
+
+#4392
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+From here the tunnels of Kwin'tar begin to twist and turn to the north,
+as you progress the creatures beheld seem to grow. As if the power behind
+them were getting closer. Strangely none attack you on sight, maybe they are
+being held back by some unseen force.
+~
+Flags 5
+Door 0 0 0 4393 0 0
+~
+~
+Door 2 0 0 4391 0 0
+~
+~
+End
+
+#4393
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+From here the tunnels of Kwin'tar begin to twist and turn to the north,
+as you progress the creatures beheld seem to grow. As if the power behind
+them were getting closer. Strangely none attack you on sight, maybe they are
+being held back by some unseen force.
+~
+Flags 5
+Door 1 0 0 4394 0 0
+~
+~
+Door 2 0 0 4392 0 0
+~
+~
+End
+
+#4394
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset M 4310 5 75
+Reset O 4307 28 4
+Door 1 0 0 4395 0 0
+~
+~
+Door 3 0 0 4393 0 0
+~
+~
+End
+
+#4395
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Door 1 0 0 4396 0 0
+~
+~
+Door 3 0 0 4394 0 0
+~
+~
+End
+
+#4396
+Name A Twisting Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Reset M 4313 5 75
+Reset O 4307 28 4
+Door 1 0 0 4397 0 0
+~
+~
+Door 3 0 0 4395 0 0
+~
+~
+End
+
+#4397
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Door 2 0 0 4425 0 0
+~
+~
+Door 3 0 0 4396 0 0
+~
+~
+End
+
+#4398
+Name A Blood Splattered Hallway~
+Descr
+This hallway is starkly different from the others of the temple. The
+normally black walls are splashed with dried blood, and rotting chunks of
+knawed meat litter the floor. Strangely the chunks of meat looks bite
+sized.. for a lion.
+~
+Flags 4
+Door 2 3 0 4420 30 30
+~
+Old Door~
+Door 3 0 0 4399 0 0
+~
+~
+End
+
+#4399
+Name A Blood Splattered Hallway~
+Descr
+This hallway is starkly different from the others of the temple. The
+normally black walls are splashed with dried blood, and rotting chunks of
+knawed meat litter the floor. Strangely the chunks of meat looks bite
+sized.. for a lion.
+~
+Flags 4
+Door 1 0 0 4398 0 0
+~
+~
+Door 3 0 0 4400 0 0
+~
+~
+End
+
+#4400
+Name A Blood Splattered Hallway~
+Descr
+This hallway is starkly different from the others of the temple. The
+normally black walls are splashed with dried blood, and rotting chunks of
+knawed meat litter the floor. Strangely the chunks of meat looks bite
+sized.. for a lion.
+~
+Flags 4
+Door 1 0 0 4399 0 0
+~
+~
+Door 3 0 0 4401 0 0
+~
+~
+End
+
+#4401
+Name A Blood Splattered Hallway~
+Descr
+This hallway is starkly different from the others of the temple. The
+normally black walls are splashed with dried blood, and rotting chunks of
+knawed meat litter the floor. Strangely the chunks of meat looks bite
+sized.. for a lion.
+~
+Flags 4
+Door 1 0 0 4400 0 0
+~
+~
+Door 3 0 0 4402 0 0
+~
+~
+End
+
+#4402
+Name Before A Great Stone Door~
+Descr
+The great stone door before you shows signs of struggle. Some sort of
+large creature has clawed its face into shreds. Either something wanted to
+get in real bad, or didn't want to go in real bad. You note that a creature
+would have to be enourmous to make rents this size in a solid stone door.
+~
+Flags 4
+Door 1 0 0 4401 0 0
+~
+~
+Door 3 3 0 4353 30 30
+~
+Runic Door~
+End
+
+#4403
+Name A Strange Rune Filled Hall~
+Descr
+Dark black runes cover the already dark black walls of this long hallway.
+The chanting you heard from the entranceway is louder then ever and the
+volume continues to mount as you progress further to the east. Obviously the
+source of the sound comes from somewhere in that direction.
+~
+Flags 4
+Door 1 0 0 4404 0 0
+~
+~
+Door 3 0 0 4343 0 0
+~
+~
+End
+
+#4404
+Name A Strange Rune Filled Hall~
+Descr
+Dark black runes cover the already dark black walls of this long hallway.
+The chanting you heard from the entranceway is louder then ever and the
+volume continues to mount as you progress further to the east. Obviously the
+source of the sound comes from somewhere in that direction.
+~
+Flags 4
+Door 0 3 0 4445 30 30
+~
+Wooden Door~
+Door 1 0 0 4405 0 0
+~
+~
+Door 3 0 0 4403 0 0
+~
+~
+End
+
+#4405
+Name A Strange Rune Filled Hall~
+Descr
+Dark black runes cover the already dark black walls of this long hallway.
+The chanting you heard from the entranceway is louder then ever and the
+volume continues to mount as you progress further to the east. Obviously the
+source of the sound comes from somewhere in that direction.
+~
+Flags 4
+Reset M 4305 1 100
+Reset O 4311 4 60
+Reset O 4300 21 40
+Door 1 0 0 4406 0 0
+~
+~
+Door 3 0 0 4404 0 0
+~
+~
+End
+
+#4406
+Name Before a Great Doorway~
+Descr
+The large doorway to the east is covered in dark runes and banded with
+iron. From the other side comes a loud droning chant, seemingly voiced by
+thousands of mouths. The sound is almost deafening and you have to cover
+your ears to avoid the pain. A sickly greenish glow comes from the other
+side of the door. A large eight legged creature has been pictured upon the
+center of it.
+~
+Flags 6
+Door 1 3 0 4407 30 30
+~
+Banded Door~
+Door 3 0 0 4405 0 0
+~
+~
+End
+
+#4407
+Name The Inner Sanctum of Kwin'tar~
+Descr
+The gigantic inner sanctum is populated by a few priests standing around
+a gigantic statue of a spider. Seemingly the voices heard outside the
+sanctum are amplified by the magical statue. The priest look up at you enter
+but do not stop their chanting. The statue towers above them its bottom four
+legs coming together to form a kind of altar at its front.
+~
+Flags 4
+Reset O 4309 -5 100
+Reset M 4308 1 100
+Reset O 4300 21 40
+Reset O 4311 4 50
+Reset M 4308 1 100
+Reset O 4311 4 60
+Reset O 4300 21 40
+Reset M 4307 1 100
+Reset O 4306 21 4
+Door 0 3 0 4412 30 30
+~
+Banded Door~
+Door 1 3 0 4408 30 30
+~
+Banded Door~
+Door 2 3 0 4421 30 30
+~
+Banded Door~
+Door 3 3 0 4406 30 30
+~
+Banded Door~
+End
+
+#4408
+Name Before a Great Doorway~
+Descr
+The large doorway to the east is covered in dark runes and banded with
+iron. From the other side comes a loud droning chant, seemingly voiced by
+thousands of mouths. The sound is almost deafening and you have to cover
+your ears to avoid the pain. A sickly greenish glow comes from the other
+side of the door. A large eight legged creature has been pictured upon the
+center of it.
+~
+Flags 6
+Door 1 0 0 4409 0 0
+~
+~
+Door 3 3 0 4407 30 30
+~
+Banded Door~
+End
+
+#4409
+Name A Dark Cobweb Filled Hall~
+Descr
+The hall around you is darkened by the cob-webs which seem to cover
+almost the entire area of the walls. The runes behind them can be dimly seen
+and shed little light upon the rest of the area. Some small creatures
+struggle across the dirt strewn floor here and there.
+~
+Flags 4
+Door 1 0 0 4410 0 0
+~
+~
+Door 3 0 0 4408 0 0
+~
+~
+End
+
+#4410
+Name An Intersection in the Hall~
+Descr
+The hall around you is darkened by the cob-webs which seem to cover
+almost the entire area of the walls. The runes behind them can be dimly seen
+and shed little light upon the rest of the area. Some small creatures
+struggle across the dirt strewn floor here and there. To the north lies a
+small wooden door with the symbol of an arachnid carved into the panel.
+~
+Flags 4
+Door 0 3 0 4444 30 30
+~
+Wooden Door~
+Door 1 0 0 4411 0 0
+~
+~
+Door 3 0 0 4409 0 0
+~
+~
+End
+
+#4411
+Name A Dark Cobweb Filled Hall~
+Descr
+The hall around you is darkened by the cob-webs which seem to cover
+almost the entire area of the walls. The runes behind them can be dimly seen
+and shed little light upon the rest of the area. Some small creatures
+struggle across the dirt strewn floor here and there.
+~
+Flags 4
+Reset M 4306 1 100
+Reset O 4305 21 50
+Reset O 4310 10 60
+Door 1 3 0 4383 30 30
+~
+Ancient Door~
+Door 3 0 0 4410 0 0
+~
+~
+End
+
+#4412
+Name Before a Great Doorway~
+Descr
+The large doorway to the east is covered in dark runes and banded with
+iron. From the other side comes a loud droning chant, seemingly voiced by
+thousands of mouths. The sound is almost deafening and you have to cover
+your ears to avoid the pain. A sickly greenish glow comes from the other
+side of the door. A large eight legged creature has been pictured upon the
+center of it.
+~
+Flags 6
+Door 0 0 0 4413 0 0
+~
+~
+Door 2 3 0 4407 30 30
+~
+Banded Door~
+End
+
+#4413
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4414 0 0
+~
+~
+Door 2 0 0 4412 0 0
+~
+~
+End
+
+#4414
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4415 0 0
+~
+~
+Door 2 0 0 4413 0 0
+~
+~
+End
+
+#4415
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Reset M 4305 1 100
+Reset O 4311 4 60
+Reset O 4300 21 40
+Door 0 0 0 4416 0 0
+~
+~
+Door 2 0 0 4414 0 0
+~
+~
+End
+
+#4416
+Name An Intersection in the Quiet Hall~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably. To the east
+and west lie small wooden doors marked with the runic spider symbol seen
+elsewhere in the temple.
+~
+Flags 6
+Door 0 0 0 4417 0 0
+~
+~
+Door 1 3 0 4438 30 30
+~
+Wooden Door~
+Door 2 0 0 4415 0 0
+~
+~
+Door 3 3 0 4451 30 30
+~
+Wooden Door~
+End
+
+#4417
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4418 0 0
+~
+~
+Door 2 0 0 4416 0 0
+~
+~
+End
+
+#4418
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4419 0 0
+~
+~
+Door 2 0 0 4417 0 0
+~
+~
+End
+
+#4419
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4420 0 0
+~
+~
+Door 2 0 0 4418 0 0
+~
+~
+End
+
+#4420
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 3 0 4398 30 30
+~
+Old Door~
+Door 2 0 0 4419 0 0
+~
+~
+End
+
+#4421
+Name Before a Great Doorway~
+Descr
+The large doorway to the east is covered in dark runes and banded with
+iron. From the other side comes a loud droning chant, seemingly voiced by
+thousands of mouths. The sound is almost deafening and you have to cover
+your ears to avoid the pain. A sickly greenish glow comes from the other
+side of the door. A large eight legged creature has been pictured upon the
+center of it.
+~
+Flags 6
+Door 0 3 0 4407 30 30
+~
+Banded Door~
+Door 2 0 0 4422 0 0
+~
+~
+End
+
+#4422
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Reset M 4306 1 100
+Reset O 4305 21 60
+Reset O 4310 10 60
+Reset M 4305 1 100
+Reset O 4311 4 70
+Reset O 4300 21 40
+Door 0 0 0 4421 0 0
+~
+~
+Door 2 0 0 4423 0 0
+~
+~
+End
+
+#4423
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4422 0 0
+~
+~
+Door 2 0 0 4424 0 0
+~
+~
+End
+
+#4424
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4423 0 0
+~
+~
+Door 2 0 0 4426 0 0
+~
+~
+End
+
+#4425
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Door 0 0 0 4397 0 0
+~
+~
+Door 2 0 0 4431 0 0
+~
+~
+End
+
+#4426
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4424 0 0
+~
+~
+Door 2 0 0 4427 0 0
+~
+~
+End
+
+#4427
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4426 0 0
+~
+~
+Door 2 0 0 4428 0 0
+~
+~
+End
+
+#4428
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4427 0 0
+~
+~
+Door 2 0 0 4429 0 0
+~
+~
+End
+
+#4429
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4428 0 0
+~
+~
+Door 2 0 0 4430 0 0
+~
+~
+End
+
+#4430
+Name A Quiet Hallway~
+Descr
+This hallway is quiet and shows no sign of use, except for a few tracks
+in the dust here and there. The chanting heard elsewhere in the temple is
+not evident at all, some sort of magical insulation probably.
+~
+Flags 4
+Door 0 0 0 4429 0 0
+~
+~
+Door 2 3 0 4368 30 30
+~
+Old Door~
+End
+
+#4431
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Reset M 4313 5 75
+Door 0 0 0 4425 0 0
+~
+~
+Door 2 0 0 4432 0 0
+~
+~
+End
+
+#4432
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Door 0 0 0 4431 0 0
+~
+~
+Door 2 0 0 4433 0 0
+~
+~
+End
+
+#4433
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Reset M 4314 1 100
+Door 0 0 0 4432 0 0
+~
+~
+Door 2 0 0 4434 0 0
+~
+~
+End
+
+#4434
+Name A Southward Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Reset M 4313 5 75
+Door 0 0 0 4433 0 0
+~
+~
+Door 2 0 0 4435 0 0
+~
+~
+End
+
+#4435
+Name A Turn in the Tunnel~
+Descr
+A horrible keening sound fills your ears as you begin to head southward.
+The spiders and variable denizens of the lair begin to close in upon you,
+some seem as if about to attack. Maybe they wish to prevent you from getting
+any closer to their master.
+~
+Flags 5
+Reset M 4314 1 100
+Door 0 0 0 4434 0 0
+~
+~
+Door 3 0 0 4436 0 0
+~
+~
+End
+
+#4436
+Name A Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Door 1 0 0 4435 0 0
+~
+~
+Door 3 0 0 4437 0 0
+~
+~
+End
+
+#4437
+Name A Musty Smelling Cavern~
+Descr
+The smell of the spiders around you begins to choke the air. The master
+of the eight legged monsters must be close. The stench is like that of
+nothing you have smelt before. Strong and musty, almost too much to handle.
+~
+Flags 5
+Reset M 4313 5 75
+Door 1 0 0 4436 0 0
+~
+~
+Door 3 0 0 4452 0 0
+~
+~
+End
+
+#4438
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 1 0 0 4439 0 0
+~
+~
+Door 3 3 0 4416 30 30
+~
+Wooden Door~
+End
+
+#4439
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 1 0 0 4440 0 0
+~
+~
+Door 3 0 0 4438 0 0
+~
+~
+End
+
+#4440
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Reset M 4311 1 100
+Door 2 0 0 4441 0 0
+~
+~
+Door 3 0 0 4439 0 0
+~
+~
+End
+
+#4441
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 0 0 0 4440 0 0
+~
+~
+Door 2 0 0 4442 0 0
+~
+~
+End
+
+#4442
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 0 0 0 4441 0 0
+~
+~
+Door 2 0 0 4443 0 0
+~
+~
+End
+
+#4443
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 0 0 0 4442 0 0
+~
+~
+Door 2 0 0 4444 0 0
+~
+~
+End
+
+#4444
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Reset M 4310 1 100
+Reset O 4307 28 4
+Door 0 0 0 4443 0 0
+~
+~
+Door 2 3 0 4410 30 30
+~
+Wooden Door~
+End
+
+#4445
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 7
+Door 0 0 0 4446 0 0
+~
+~
+Door 2 3 0 4404 30 30
+~
+Wooden Door~
+End
+
+#4446
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 0 0 0 4447 0 0
+~
+~
+Door 2 0 0 4445 0 0
+~
+~
+End
+
+#4447
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 0 0 0 4448 0 0
+~
+~
+Door 2 0 0 4446 0 0
+~
+~
+End
+
+#4448
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Reset M 4310 1 100
+Reset O 4307 28 4
+Door 0 0 0 4449 0 0
+~
+~
+Door 2 0 0 4447 0 0
+~
+~
+End
+
+#4449
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 1 0 0 4450 0 0
+~
+~
+Door 2 0 0 4448 0 0
+~
+~
+End
+
+#4450
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Reset M 4311 1 100
+Door 1 0 0 4451 0 0
+~
+~
+Door 3 0 0 4449 0 0
+~
+~
+End
+
+#4451
+Name A Foul Spider Filled Hallway~
+Descr
+The dirt upon the floor sends up a fetid odor of rot. The sting it causes
+in your nostrils temporarily causes tears to come to your eyes. Not before
+you notice the thousands of tiny spiders crawling around the walls and ceil
+ing though. You wish you had not seen the enourmous black ones crawling
+across the floor either.
+~
+Flags 5
+Door 1 3 0 4416 30 30
+~
+Wooden Door~
+Door 3 0 0 4450 0 0
+~
+~
+End
+
+#4452
+Name A Musty Smelling Cavern~
+Descr
+The smell of the spiders around you begins to choke the air. The master
+of the eight legged monsters must be close. The stench is like that of
+nothing you have smelt before. Strong and musty, almost too much to handle.
+~
+Flags 5
+Door 1 0 0 4437 0 0
+~
+~
+Door 2 0 0 4453 0 0
+~
+~
+End
+
+#4453
+Name A Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Door 0 0 0 4452 0 0
+~
+~
+Door 3 0 0 4454 0 0
+~
+~
+End
+
+#4454
+Name A Tunnel Filled With Spiders~
+Descr
+The hidden tunnels beneath the statue of Kwin'Tar are horrifying to
+behold. Huge spiders haunt the walls and ceilings, while other critters
+beyond comprehension scuttle across the floors. No sign of life other then
+arachnid is evident. The evil forces at work here are almost tangible.
+~
+Flags 5
+Door 1 0 0 4453 0 0
+~
+~
+Door 2 0 0 4472 0 0
+~
+~
+End
+
+#4455
+Name Unused~
+Descr
+~
+Door 0 0 0 4456 0 0
+~
+~
+End
+
+#4456
+Name Unused~
+Descr
+~
+Door 2 0 0 4455 0 0
+~
+~
+Door 3 0 0 4457 0 0
+~
+~
+End
+
+#4457
+Name Unused~
+Descr
+~
+Door 1 0 0 4456 0 0
+~
+~
+Door 3 0 0 4458 0 0
+~
+~
+End
+
+#4458
+Name Unused~
+Descr
+~
+Door 1 0 0 4457 0 0
+~
+~
+Door 3 0 0 4468 0 0
+~
+~
+End
+
+#4459
+Name Inside a Prison Cell~
+Descr
+The temple prison cell is occupied by a single pile of straw in one
+corner. A wooden privy pot with no cover, and a pile of dirty rags. At least
+no food is left rotting anywhere, though that may be becuase the tennants
+are being starved to death.
+~
+Flags 4
+Sector 4
+Reset O 4303 -5 100
+Door 1 23 4302 4363 30 30
+~
+door cell~
+End
+
+#4460
+Name Inside a Prison Cell~
+Descr
+The temple prison cell is occupied by a single pile of straw in one
+corner. A wooden privy pot with no cover, and a pile of dirty rags. At least
+no food is left rotting anywhere, though that may be becuase the tennants
+are being starved to death.
+~
+Flags 4
+Reset M 4322 1 100
+Door 1 23 4302 4362 30 30
+~
+door cell~
+End
+
+#4461
+Name Inside a Prison Cell~
+Descr
+The temple prison cell is occupied by a single pile of straw in one
+corner. A wooden privy pot with no cover, and a pile of dirty rags. At least
+no food is left rotting anywhere, though that may be becuase the tennants
+are being starved to death.
+~
+Flags 4
+Reset M 4321 1 100
+Door 1 23 4302 4361 30 30
+~
+door cell~
+End
+
+#4462
+Name Falling!~
+Descr
+~
+Flags 139265
+Sector 9
+Move_dir 5
+Door 4 0 0 4378 0 0
+~
+~
+Door 5 0 0 4463 0 0
+~
+~
+End
+
+#4463
+Name Falling!~
+Descr
+~
+Flags 139265
+Sector 9
+Move_dir 5
+Door 4 0 0 4462 0 0
+~
+~
+Door 5 0 0 4464 0 0
+~
+~
+End
+
+#4464
+Name Falling!~
+Descr
+~
+Flags 139265
+Sector 9
+Move_dir 5
+Door 4 0 0 4463 0 0
+~
+~
+Door 5 0 0 4465 0 0
+~
+~
+End
+
+#4465
+Name The Bottom of the Bottomless Pit~
+Descr
+The bottom of the pit is filled with murky waste filled waters. Seemingly
+a sewer for the entire temple. You now know the source of the stench, and
+are covered in it. A slight swell from the water stirs your attention and
+you find you are not actually alone.
+~
+Flags 16777217
+Sector 10
+Reset M 4309 1 100
+Door 4 0 0 4464 0 0
+~
+~
+End
+
+#4466
+Name Inside a Small Cell~
+Descr
+The small cell's floor is covered in bloody straw. A perfect lair for any
+creature, smelling of feces and rotted meat. A small water dish sits in one
+corner half full of some red substance, probably blood. This cell is
+currently empty and is probably a safe place to rest.
+~
+Flags 4
+Door 1 3 0 4353 30 30
+~
+Cell~
+End
+
+#4467
+Name Inside a Small Cell~
+Descr
+The small cell's floor is covered in bloody straw. A perfect lair for any
+creature, smelling of feces and rotted meat. A small water dish sits in one
+corner half full of some red substance, probably blood.
+~
+Flags 4
+Reset M 4318 1 100
+Door 1 23 4301 4352 30 30
+~
+Cell~
+End
+
+#4468
+Name Unused~
+Descr
+~
+Door 1 0 0 4458 0 0
+~
+~
+Door 3 0 0 4469 0 0
+~
+~
+End
+
+#4469
+Name A High Jutting Cliff~
+Descr
+From the top of this cliff you can see all the land to the east. The most
+prominent point being a gigantic black domed temple to the south, small
+plumes of acrid smoke puff out from a duct at its center. It seems almost as
+if the thing is alive, breathing out its poison.
+~
+Sector 2
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 0 30 30
+What do you want to fall off?
+~
+~
+Door 2 0 0 4341 0 0
+~
+~
+Door 3 0 0 4319 0 0
+~
+~
+End
+
+#4470
+Name Unused~
+Descr
+~
+Door 0 0 0 4471 0 0
+~
+~
+Door 2 0 0 4469 0 0
+~
+~
+End
+
+#4471
+Name Unused~
+Descr
+~
+Door 2 0 0 4470 0 0
+~
+~
+End
+
+#4472
+Name A Damp Glowing Tunnel~
+Descr
+The floor of this tunnel is slightly damp and porous. The keening sound
+you noticed earlier has grown to unimaginable levels and the smell of the
+spider god is overpowering. To the south lies a small army of spiders,
+evidently guarding their master from outsiders.
+~
+Flags 6
+Door 0 0 0 4454 0 0
+~
+~
+Door 2 0 0 4473 0 0
+~
+~
+End
+
+#4473
+Name A Guardpost Before the Throneroom~
+Descr
+The gigantic spider god is so close you can smell her. The guards are
+quite close too and are intent upon stopping you before you get any closer
+then you are. Glowing eyes stare at you from every direction and the
+dripping fangs of the spiders are hungry for blood.
+~
+Flags 4
+Reset M 4315 1 100
+Reset M 4315 1 100
+Reset M 4315 1 100
+Reset M 4315 1 100
+Reset M 4315 1 100
+Reset M 4315 1 100
+Door 0 0 0 4472 0 0
+~
+~
+Door 2 0 0 4474 0 0
+~
+~
+End
+
+#4474
+Name The Throneroom of Kwin'tar~
+Descr
+A gigantic throne dominates the center of the room, upon it sits the
+spider godess herself Kwin'tar. A gigantic spider with the face of a
+beautiful human woman aside from the foot long fangs coming from her mouth.
+The godess looks unstoppable, and probably is.
+~
+Flags 4
+Reset M 4316 1 100
+Reset O 4308 -1 5
+Door 0 0 0 4473 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

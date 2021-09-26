@@ -1,0 +1,329 @@
+#AREADATA 
+Name Evil Warrior's Cult~
+Repop [1;30mAn alarm sounds as the call to battle is made. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 9050 9099
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#9050
+Name rawr statue~
+Short a statue of a mighty warrior~
+Long 
+A statue of a famous Rawr warrior is here protecting his house.
+~
+Descr
+~
+AMax 1
+NHeight 88
+ActBits 2
+ActBits3 524288
+Affect_By 50332296
+Level 500
+MobType 15
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#9051
+Name spirit of Rawr~
+Short spirit of Rawr~
+Long 
+The spirit of Rawr is here to enhance your fighting skills.
+~
+Descr
+~
+AMax 1
+NHeight 73
+ActBits 258
+ActBits3 524288
+Affect_By 50331784
+Level 400
+Sex 1
+MobType 21
+Hp 20
+Guard 0
+ASklTaught 0 570
+ASklTaught 1 571
+ASklTaught 2 551
+End
+
+#0
+
+
+
+#OBJDATA
+#9050
+Name token~
+Short a Warrior's cult token~
+Descr
+A Warrior's cult token is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 5000
+End
+
+#9051
+Name sign~
+Short rawr sign~
+Descr
+A sign explaining acceptance to the house of Rawr is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the House of Rawr. Here are the things you will need in order
+
+to join our sect:
+
+ 
+
+You must first have obtained a token from an area seller.
+
+If you have not yet obtained level 30, you may give that token to the statue
+
+for membership into our sect.
+
+ 
+
+Once you are a member, you may say "enter sect" for safe passage into our halls.
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#9050
+Name A Sinister Trail~
+Descr
+The trees around you just look plain evil. You swear that you can hear
+some murmuring from behind one of them. You can be sure that the only thing
+this trail leads to is danger. 
+~
+Door 3 0 0 12179 0 0
+~
+~
+Door 4 0 0 9051 0 0
+~
+~
+End
+
+#9051
+Name A Sinister Trail~
+Descr
+The trees around you just look plain evil. You swear that you can hear
+some murmuring from behind one of them. You can be sure that the only thing
+this trail leads to is danger. 
+~
+Door 0 0 0 9052 0 0
+~
+~
+Door 5 0 0 9050 0 0
+~
+~
+End
+
+#9052
+Name Before the House of Rawr~
+Descr
+A huge statue of a mighty Rawr warrior stands before you. Made from the
+finest stone anywhere this appears to be the strongest statue you've ever
+seen. I wonder what kind of damage this statue could do if it were alive? 
+Wait a minute, it IS alive!  
+~
+Reset M 9050 1 100
+Reset O 9051 -5 100
+Door 2 0 0 9051 0 0
+~
+~
+End
+
+#9053
+Name A Hallway of Pain~
+Descr
+A hallway of pure pain, you feel an overwhelming urge to fight!  The
+spirits of great warriors past fill your head with potential targets for
+your anger. 
+~
+Flags 1156
+Door 0 0 0 9054 0 0
+~
+~
+Door 2 0 0 9052 0 0
+~
+~
+End
+
+#9054
+Name A Hallway of Pain~
+Descr
+A hallway of pure pain, you feel an overwhelming urge to fight!  The
+spirits of great warriors past fill your head with potential targets for
+your anger. 
+~
+Flags 1156
+Reset O 9102 -5 100
+Door 0 0 0 9061 0 0
+~
+~
+Door 1 0 0 9058 0 0
+~
+~
+Door 2 0 0 9053 0 0
+~
+~
+Door 3 0 0 9055 0 0
+~
+~
+Door 5 0 0 9063 0 0
+~
+~
+End
+
+#9055
+Name Hallway of Rage~
+Descr
+A hallway of pure rage, you feel an overwhelming urge to avenge battles
+lost by your brothers. 
+~
+Flags 1156
+Door 0 23 0 9056 99 99
+~
+door~
+Door 1 0 0 9054 0 0
+~
+~
+Door 2 23 0 9057 99 99
+~
+door~
+End
+
+#9056
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 2 0 0 9055 0 0
+~
+~
+End
+
+#9057
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 0 0 0 9055 0 0
+~
+~
+End
+
+#9058
+Name Hallway of Envy~
+Descr
+A hallway of pure envy, you can no longer forget how you are the second
+best warrior of the lands and are overcome by the desire to become the best.
+~
+Flags 1156
+Door 0 23 0 9059 99 99
+~
+door~
+Door 2 23 0 9060 99 99
+~
+door~
+Door 3 0 0 9054 0 0
+~
+~
+End
+
+#9059
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 2 0 0 9058 0 0
+~
+~
+End
+
+#9060
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 0 0 0 9058 0 0
+~
+~
+End
+
+#9061
+Name A Hallway of Pain~
+Descr
+A hallway of pure pain, you feel an overwhelming urge to fight!  The
+spirits of great warriors past fill your head with potential targets for
+your anger. 
+~
+Flags 1156
+Door 0 0 0 9062 0 0
+~
+~
+Door 2 0 0 9054 0 0
+~
+~
+End
+
+#9062
+Name A Portal of Power~
+Descr
+The spirit of the mighty Rawr has returned to these halls in order to
+train those in the art of combat. Should you ever wish to anger him and
+leave the sect he has built, say "leave sect now" and he will be happy to
+cast you from these halls forever. 
+~
+Flags 1156
+Reset M 9051 1 100
+Door 2 0 0 9061 0 0
+~
+~
+End
+
+#9063
+Name The War Room~
+Descr
+Maps of all the lands are scattered about the room. This appears to be
+where many of the battles in the past were planned. You can seen strategies
+of attacks and rendezvous points laid out on one of the many tables in the
+room. 
+~
+Flags 3163268
+Reset O 101 -5 100
+Door 4 0 0 9054 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

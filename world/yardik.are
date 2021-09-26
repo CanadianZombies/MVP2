@@ -1,0 +1,4812 @@
+#AREADATA 
+Name Delphaeus~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Yardik~
+VNUMs 39000 39300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#39200
+Name delphae delphaeic guard guardian~
+Short A delphaeic guard~
+Long 
+A Delphaeic Guardian stands here.
+~
+Descr
+~
+AMax 5
+NHeight 80
+ActBits 3
+Alignment 200
+Money 300
+Level 85
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#39201
+Name delphae guard gate pale man~
+Short A Delphaeic gate guard~
+Long 
+A tall pale skinned man, in full armor stands here.
+~
+Descr
+~
+AMax 3
+NHeight 78
+ActBits -2147483645
+Alignment 200
+Money 300
+Level 55
+Sex 1
+MobType 0
+Guard 0
+End
+
+#39202
+Name delphae mage man bearded~
+Short A Delphaeic Mage~
+Long 
+A bearded man in long white robes, is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Alignment 200
+Money 200
+Level 160
+Sex 1
+MobType 0
+Guard 0
+BCasts divine healing ~
+BCasts earthen hammer~
+BCasts mudslide~
+BCast_P 5
+End
+
+#39203
+Name Ruin Beast~
+Short A Ruin Beast~
+Long 
+A gigantic beast, wandering the halls of old Delphaeus
+~
+Descr
+~
+AMax 2
+NHeight 112
+ActBits 33554457
+ActBits3 4194304
+Affect_By 512
+Alignment -1390
+Money 200
+Level 80
+Sex 1
+MobType 20
+Guard 0
+End
+
+#39204
+Name tunnel bug crawler hulking~
+Short A Tunnel Crawler~
+Long 
+A hulking bug like beast with thousands of legs crawls along the ceiling here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 33554433
+Affect_By 520
+Alignment -160
+Money 200
+Level 35
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#39205
+Name Giant Squid~
+Short A giant squid~
+Long 
+A giant squid focuses a giant eye on you, while snapping its giant beek.
+~
+Descr
+~
+AMax 2
+NHeight 200
+ActBits 1
+Affect_By 83839128
+Money 200
+Level 74
+Sex 2
+MobType 14
+Guard 0
+End
+
+#39206
+Name obsidian oaerooth dragon~
+Short Oaerooth, the Great~
+Long 
+A MASSIVE obsidian dragon sits against the wall here.
+~
+Descr
+~
+AMax 1
+NHeight 1390
+ActBits 33554435
+Affect_By 648
+Alignment -600
+Money 85
+Level 200
+Sex 1
+MobType 5
+Guard 0
+Spec spec_breath_any
+ArmorClass -100
+End
+
+#39207
+Name Saeta weapon weaponsmith~
+Short Saeta, the weaponsmith~
+Long 
+Saeta stands here sharpening dagger, with her TEETH!
+~
+Descr
+~
+AMax 1
+NHeight 73
+ActBits 1048579
+Affect_By 648
+Alignment 200
+Money 85
+Level 101
+Sex 2
+MobType 0
+Hp 2
+Guard 0
+Shop    0   5   0   0   0 130 40 1 24
+Shopd2 5
+Shopd3 4
+ShopCr 236
+ShopCS Saeta pulls a dagger out of the forge and places it in a bucket of water.. Hsssssssss~
+ShCrh 100
+End
+
+#39208
+Name Worgaent armorer armor dude~
+Short Worgaent the Armorer~
+Long 
+Worgaent stands here hammering out the dents on a piece of steel.
+~
+Descr
+~
+AMax 1
+NHeight 200
+ActBits 2097155
+Affect_By 648
+Alignment 200
+Money 200
+Level 101
+MobType 0
+Hp 2
+Guard 0
+Shop    0   9   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 12
+ShopCr 219
+ShopCS Worgaent produces another of his fine pieces of armor.~
+ShCrh 100
+End
+
+#39209
+Name delphae patrol man street~
+Short A Delphaeic Street Patroller~
+Long 
+A Delphaeic street patroller out looking for criminals.
+~
+Descr
+~
+AMax 5
+AYeller 1
+AWillhelp 0
+NHeight 79
+ActBits 1
+Affect_By 131072
+Alignment 200
+Money 55
+Level 101
+Sex 1
+MobType 0
+Hp 2
+Guard 0
+End
+
+#39210
+Name scummy ugly beast scum~
+Short A scum ridden ugly beast~
+Long 
+A scum ridden ugly beast.
+~
+Descr
+~
+AMax 3
+NHeight 66
+ActBits 1
+Affect_By 4194304
+Money 160
+Level 67
+MobType 7
+Guard 0
+Spec spec_janitor
+ArmorClass 50
+End
+
+#39211
+Name Mutated huge rat beast~
+Short A huge mutated rat beast~
+Long 
+A huge ugly rat looks up from a pile of refuse as you approach, it charges!
+~
+Descr
+~
+AMax 5
+NHeight 39
+ActBits 1
+Affect_By 4194824
+Money 160
+Level 25
+MobType 7
+Guard 0
+Spec spec_poison
+End
+
+#39212
+Name Fraenus fruit man~
+Short Fraenus the fruit guy~
+Long 
+Fraenus stands here batting his eye lashes at you, what a fruit.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 67
+ActBits 1
+Alignment 200
+Money 500
+Level 101
+Sex 1
+MobType 0
+Hp 2
+Guard 0
+Shop    0   0   0   0   0 100 100 0 23
+Shopd2 10
+Shopd3 20
+ShopCr 39256
+ShopCS Fraenus pulls some fruit from his hat.~
+End
+
+#39213
+Name Catoblopas ugly beast lyon~
+Short A catoblopas~
+Long 
+An ugly lyon headed best orients on you as you enter the room.
+~
+Descr
+~
+AMax 1
+NHeight 78
+ActBits 25
+Affect_By 520
+Money 80
+Level 101
+MobType 23
+Guard 0
+End
+
+#39214
+Name Large Lyon tough~
+Short A large lyon~
+Long 
+A large tough looking lyon is feasting on a bloody corpse here.
+~
+Descr
+~
+AMax 3
+NHeight 50
+ActBits 1
+Affect_By 512
+Money 35
+Level 101
+Sex 1
+MobType 23
+Alt_vnum 39213
+Guard 0
+End
+
+#39215
+Name Palace Guard delphae~
+Short A royal palace guardsmen~
+Long 
+A royal guardsman of the Delphaenian King looks at you suspiciously.
+~
+Descr
+~
+AMax 5
+NHeight 78
+ActBits 3
+Money 35
+Level 101
+Sex 1
+MobType 0
+Guard 0
+End
+
+#39216
+Name Laeosador captain large guard~
+Short Laeosador, the guard captain~
+Long 
+A large guard wearing ceremonial armor grins goofily at you.
+~
+Descr
+~
+AMax 1
+NHeight 82
+ActBits 3
+Alignment 300
+Money 74
+Level 180
+Sex 1
+MobType 0
+Guard 0
+End
+
+#39217
+Name Elite guard man tough~
+Short An Elite guardsman~
+Long 
+A tough looking guard, admiring his attributes , is on guard for entruders.
+~
+Descr
+~
+AMax 2
+NHeight 75
+ActBits -2147483645
+Alignment 230
+Money 74
+Level 65
+Sex 1
+MobType 0
+Guard 0
+End
+
+#39218
+Name Anaera king delphae~
+Short King Anaera of the Delphae~
+Long 
+King Anaera stands here in all his glory.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 3
+Affect_By 16777344
+Alignment 600
+Money 200
+Level 250
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#39219
+Name troll Karan'jik Karan guard~
+Short Karan'jik the Kings Bodyguard~
+Long 
+Karan'jik the troll is HUGE, he acts as a bodyguard for the king.
+~
+Descr
+~
+AMax 2
+NHeight 110
+ActBits -2147483645
+Affect_By 8
+Alignment 170
+Money 101
+Level 101
+Sex 1
+MobType 12
+Guard 0
+Spec spec_warrior
+ArmorClass -1
+End
+
+#39220
+Name drooling monst chained~
+Short Bon'HaRak the Demon~
+Long 
+A drooling montrousity is chained to the wall here.
+~
+Descr
+~
+AMax 1
+NHeight 130
+ActBits 33554433
+Affect_By 128
+Alignment -300
+Money 70
+Level 70
+MobType 11
+Guard 0
+Spec spec_breath_gas
+ArmorClass -20
+End
+
+#39221
+Name dog Fo Fo'orgoth beast snarling~
+Short Fo'orgoth the demonic~
+Long 
+An unspeakably evil dog like creature snarls as you enter, it ATTACKS!
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 9
+Affect_By 136
+Alignment -600
+Money 65
+Level 65
+Sex 1
+MobType 6
+Guard 0
+Spec spec_breath_fire
+End
+
+#39222
+Name Abyss Dweller beast creature~
+Short An Abyss Dweller~
+Long 
+A hulking creature of strange origin sniffs at you.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 33554433
+Affect_By 8
+Money 165
+Level 165
+MobType 24
+Guard 0
+Spec spec_warrior
+End
+
+#39223
+Name Underling demon guard~
+Short An Underling of All Elements~
+Long 
+A creature of shifting shape, and shifting colors guards the gates here.
+~
+Descr
+~
+AMax 3
+NHeight 35
+ActBits 11
+Affect_By 520
+Alignment -400
+Money 86
+Level 86
+Sex 1
+MobType 11
+Guard 0
+Spec spec_breath_any
+ArmorClass -1
+End
+
+#39224
+Name demon blue red~
+Short a demon~
+Long 
+A ruddy blue and red creature opens its gaping maw and roars at you.
+~
+Descr
+~
+AMax 5
+NHeight 56
+ActBits 637534209
+Affect_By 2
+Alignment -1390
+Money 67
+Level 67
+MobType 11
+Guard 0
+End
+
+#39225
+Name Demon gator beast~
+Short A Demon Gator~
+Long 
+A demonicaly glowing alligator with red eyes swims through the murk.
+~
+Descr
+~
+AMax 5
+NHeight 34
+ActBits 33554441
+Alignment -300
+Money 50
+Level 50
+MobType 14
+Guard 0
+ArmorClass -20
+End
+
+#39226
+Name Underling water demon~
+Short An Underling of Water~
+Long 
+A glowing pool of water glides towards you, bubbling as it comes.
+~
+Descr
+~
+AMax 2
+NHeight 13
+ActBits 33554433
+Affect_By 520
+Alignment -400
+Money 65
+Level 65
+MobType 11
+Guard 0
+Spec spec_breath_frost
+ArmorClass 120
+End
+
+#39227
+Name Fire griffin bird evil~
+Short A Fire Griffin~
+Long 
+A huge bird of pray made of fire itself floats above the ground here.
+~
+Descr
+~
+AMax 2
+NHeight 60
+ActBits 33554433
+Affect_By 524296
+Alignment -200
+Money 45
+Level 45
+MobType 13
+Guard 0
+End
+
+#39228
+Name fire underling demon beast~
+Short An Underling of Fire~
+Long 
+A 15' high wall of flames dances towards you.
+~
+Descr
+~
+AMax 1
+NHeight 180
+ActBits 33554433
+Affect_By 8
+Alignment -400
+Money 69
+Level 69
+MobType 11
+Guard 0
+Spec spec_breath_fire
+End
+
+#39229
+Name boulder beast huge titanic~
+Short A Boulder Guardian~
+Long 
+A titanic beast made all of stone rumbles across the pathway.
+~
+Descr
+~
+AMax 1
+NHeight 400
+ActBits 33554435
+Affect_By 520
+Alignment -500
+Money 60
+Level 60
+MobType 10
+Guard 0
+Spec spec_breath_lightning
+ArmorClass -600
+BKicks 1
+End
+
+#39230
+Name Bon'Ceph demon cook fat~
+Short Bon'Ceph the Demon Cook~
+Long 
+Bon'Ceph the demon cook stands here preparing a meal for his master.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 3
+Affect_By 33554568
+Alignment -500
+Money 120
+Level 120
+Sex 1
+MobType 11
+Guard 0
+End
+
+#39231
+Name dog Shag'Tooth shag demon~
+Short Shag'Tooth Demon the Guard Dog~
+Long 
+A ferocious demon canine confronts you, licking its chops.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 84724235
+ActBits3 4194304
+Affect_By 136
+Alignment -500
+Money 101
+Level 101
+Sex 1
+MobType 6
+Guard 4
+End
+
+#39232
+Name Sssis'Tar demon king huge~
+Short Sssis'Tar the Demon King~
+Long 
+A GIGANTIC black demon confronts you.. he grins as he looks up.
+~
+Descr
+~
+AMax 1
+NHeight 390
+ActBits 259
+Affect_By 33554568
+Alignment -2000
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#39233
+Name shan'ad shan demon PRAC~
+Short Shan'Ad High Demon of Water~
+Long 
+Shan'Ad the High Demon of water surges towards you.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 259
+ActBits3 524288
+Alignment -700
+Money 180
+Level 180
+Sex 1
+MobType 11
+Guard 0
+Spec spec_breath_frost
+ASklTaught 0 89
+End
+
+#39234
+Name derun'Ki demon fire high PRACT~
+Short Derun'Ki the High Demon of Fire~
+Long 
+|Teacher| Derun'Ki the High Demon of fire burns with an eternal flame here.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 259
+ActBits3 524288
+Affect_By 128
+Alignment -800
+Money 180
+Level 180
+Sex 1
+MobType 11
+Guard 0
+Spec spec_breath_fire
+ASklTaught 0 108
+End
+
+#39235
+Name Soo'Tar ghost spirit demon~
+Short Soo'Tar the demon spirit~
+Long 
+Soo'Tar the demon spirit wanders the ruined city.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 259
+ActBits3 8192
+Affect_By 33555074
+Alignment -1000
+Money 120
+Level 120
+Sex 1
+MobType 21
+Guard 3
+End
+
+#39236
+Name Guard Royal Delphaic Gate~
+Short A royal gate guard~
+Long 
+A royal Delphaic gate guard looks at your boardly.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 520
+Money 60
+Level 60
+Sex 1
+MobType 0
+Guard 0
+End
+
+#39245
+Name dragon spirit evil dark~
+Short The dark dragon spirit~
+Long 
+The dark dragon spirit guards the hallway from good.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 524416
+Alignment -2000
+Money 120
+Level 120
+Sex 1
+MobType 21
+Guard 0
+Spec spec_breath_gas
+RaceHate 335544320
+End
+
+#39258
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#39300
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#39001
+Name genie huge magic~
+Short a huge magic genie~
+Long 
+A huge magic genie floats here in a cloud of smoke.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 128
+Money 101
+Level 200
+Sex 1
+MobType 19
+Hp 50
+Guard 0
+ArmorClass 200
+End
+
+#0
+
+
+
+#OBJDATA
+#39234
+Name fish smelly huge~
+Short [37ma huge [32msmelly [33mfish[37m~
+Descr
+A huge smelly fish lies upon the ground here, stinking.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 9 0 0 0 0 0 0
+Weight 10
+Cost 0
+End
+
+#39250
+Name green portal~
+Short a [1mGlowing [32mGreen [0mPortal~
+Descr
+a [1mGlowing [32mGreen [0mPortal, leading to YardLongs area....
+[0;36m~
+Type 12
+Extra 3
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 39001 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39251
+Name Fountain~
+Short A white fountain of bone~
+Descr
+A cracked obsidian dragon gurgles water from its mouth.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39252
+Name Fountain of Light~
+Short a glowing fountain~
+Descr
+a Scintillatingly bright pool of glowing water.
+[0;36m~
+Type 25
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39253
+Name Mithril Key~
+Short Mithril key~
+Descr
+A key of shinning mithril is laying here in the dust.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 3
+Cost 1
+End
+
+#39254
+Name Delphaeic archway ruin arch~
+Short An large archway~
+Descr
+A large Delphaeic styled archway is centered in the room.
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 39137 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39255
+Name Archway Room~
+Short A Delphaeic Archway~
+Descr
+A large Delphaeic styled archway is centered in the room.
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 39130 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39256
+Name bananas fruit delphaeic~
+Short some Delphaeic [1m[33mbanana's~
+Descr
+A bundle of bright [1m[33myellow bananas [0msit on the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 14
+End
+
+#39257
+Name Apple Delphaeic fruit~
+Short A dephaeic apple~
+Descr
+A bright red apple sits here upon the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 11
+End
+
+#39258
+Name Cherries dephaeic fruit~
+Short A bundle of bright [1m[31mred cherries.~
+Descr
+A small bundle of fire red Delphaeic [1m[31mcherries
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 6
+End
+
+#39259
+Name golden robes gold~
+Short some [1m[33mgolden [0mrobes~
+Descr
+Some [1m[33mgold [0mcolored robes sit in a rumpled pile on the floor here.
+[0;36m~
+Type 9
+Extra 65
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 4 2 0 10 10 50 50 10 1
+Weight 1
+Cost 4000
+Affect 18 2 0 0 0
+End
+
+#39260
+Name eye flaming~
+Short a [31mf[1m[31ml[0m[33ma[1m[33mm[0m[37mi[1m[37mn[30mg [0m[30me[1m[31my[0m[33me~
+Descr
+An eye so red it seems to be on fire is hovering here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 19 1 1 0 0
+End
+
+#39261
+Name Trash refuse litter garbage~
+Short some garbage~
+Descr
+Some refuse and rotting food sit here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+End
+
+#39275
+Name Delphaeic dagger curved wickedly~
+Short A Delphaeic dagger~
+Descr
+A wickedly curved long dagger is lying in the corner, covered in blood.
+[0;36m~
+Type 5
+Extra 132096
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 11 0 0 0 3 4 0
+Weight 2
+Cost 500
+End
+
+#39276
+Name Obsidian Dragon Scale~
+Short An [1m[30mObsid[37mian Dr[30magon [0mscale~
+Descr
+A large jet-black dragon scale sits here. About the size of a shield.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 7 0 0 10 10 50 50 10 1
+Weight 2
+Cost 3900
+Affect 13 20 1 0 0
+End
+
+#39277
+Name Laeosador sword serrated~
+Short [1m[37mLaeosador's [35mmagical [36msword~
+Descr
+A long thin sword with serrated edges sits here, covered in blood.
+[0;36m~
+Type 5
+Extra 541065218
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 3 0 0 0 3 6 0
+Weight 2
+Cost 2000
+Affect 19 1 1 0 0
+End
+
+#39278
+Name claws troll sharp long~
+Short A pair of [32mgreen [0mtroll claws~
+Descr
+A pair of long [32mgreen [0mtroll claws lie here in a puddle of blood.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 0 0 0
+Weight 2
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#39279
+Name flaming shard crystal~
+Short [31mA [1mF[0m[31ml[1ma[0m[31mm[1mi[0m[31mn[1mg [0m[34mC[36mr[1m[34my[36mst[37mal [31mS[0m[31mh[1ma[0m[31mr[1md[0m~
+Descr
+A long flaming crystal smolders upon the ground here.
+[0;36m~
+Type 5
+Extra 537002002
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 11 0 0 0 5 3 0
+Weight 3
+Cost 0
+Affect 18 1 1 0 0
+Affect 19 2 1 0 0
+End
+
+#39280
+Name boots flowing water blue~
+Short [36m[1mA pair of [34mFl[36mow[34min[37mg [34mB[36mo[34mo[36mt[37ms[0m~
+Descr
+A slightly solid looking puddle bubbles on the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 10 10 50 50 10 1
+Weight 1
+Cost 0
+Affect 22 2 1 0 0
+Affect 14 30 1 0 0
+End
+
+#39281
+Name horns helmet spiked black~
+Short [1m[30mThe Bla[0mck Ho[1m[30mrns of [31mSssis'Tar[0m~
+Descr
+A pair of black horns are levitating above the ground here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 8 0 10 10 50 50 10 1
+Weight 5
+Cost 0
+Affect 14 5 1 0 0
+Affect 18 3 1 0 0
+Affect 13 15 1 0 0
+End
+
+#39300
+Name ring power yardik~
+Short [32mYardik's [1m[30mring [0m[32mof [1m[36mP[33mO[36mW[33mE[36mR[0m~
+Descr
+A blazing light sits upon the floor here smoking.
+[0;36m~
+Type 9
+Extra 536871139
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#39000
+Name bloody key blood~
+Short a bloody key~
+Descr
+a blody key lies here
+[0;36m~
+Type 18
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#39001
+Name lamp magic golden~
+Short [37ma small [1m[33mgolden [0m[37mlamp~
+Descr
+A small golden lamp lies upon the ground here.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#39100
+Name Barracks~
+Descr
+Bored guards lounge in chairs and in cots around the large room.  Others
+spar with wooden swords and shields.  They all look happy in there disuse
+and most are overweight.  
+~
+Flags 4
+Sector 0
+Reset M 39215 8 100
+Reset M 39215 8 100
+Reset M 39215 8 100
+Reset M 39215 8 100
+Door 0 0 0 39103 0 0
+~
+~
+Door 1 0 0 39099 0 0
+~
+~
+End
+
+#39101
+Name Barracks~
+Descr
+Bored guards lounge in chairs and in cots around the large room.  Others
+spar with wooden swords and shields.  They all look happy in there disuse
+and most are overweight.  
+~
+Flags 4
+Sector 0
+Reset M 39215 8 100
+Reset M 39215 8 100
+Reset M 39215 8 100
+Reset M 39215 8 100
+Door 2 0 0 39099 0 0
+~
+~
+Door 3 0 0 39103 0 0
+~
+~
+End
+
+#39102
+Name Southern Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39103 0 0
+~
+~
+End
+
+#39103
+Name East Wall~
+Descr
+You walk along a dusty path by the eastern palace wall.  The guardpost
+directly south is full of people.  The guards are all bored and practice
+there weaponry with little enthusiam.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39098 0 0
+~
+~
+Door 1 0 0 39101 0 0
+~
+~
+Door 2 0 0 39100 0 0
+~
+~
+End
+
+#39104
+Name Waiting Area~
+Descr
+An old desk sits here, probably a secretary once sat at it.  Checking in
+the kings visitors.  Now there are no visitors and of course no use for a
+secretary.  
+~
+Flags 6
+Sector 0
+Door 1 3 0 39080 30 30
+~
+Golden Door~
+Door 3 0 0 39105 0 0
+~
+~
+End
+
+#39105
+Name Throne Room~
+Descr
+The great thron room is still beautiful.  A golden throne is upon a
+pedestal to the north, the king sitting upon it.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39106 0 0
+~
+~
+Door 1 0 0 39104 0 0
+~
+~
+End
+
+#39106
+Name Before King Anaera of the Delphae~
+Descr
+The old man before you is hardly a king.  He is thin and guant, and a bit
+sickly looking.  Although his personal guard is anything but sickly.  A huge
+troll with sharp teeth and claws.  
+~
+Flags 4
+Sector 0
+Reset M 39218 1 100
+Reset O 39259 11 5
+Reset M 39219 1 100
+Reset O 39278 8 1
+Door 2 0 0 39105 0 0
+~
+~
+End
+
+#39107
+Name Throne Room~
+Descr
+~
+End
+
+#39108
+Name Lake Delphaeus~
+Descr
+The glow here is so bright you are blinded.  
+~
+Flags 4
+Sector 6
+Door 0 0 0 39032 0 0
+~
+~
+Door 3 0 0 39109 0 0
+~
+~
+End
+
+#39109
+Name Lake Delphaeus~
+Descr
+The glow here is so bright you are blinded.  
+~
+Flags 4
+Sector 6
+Door 0 0 0 39034 0 0
+~
+~
+Door 1 0 0 39108 0 0
+~
+~
+End
+
+#39110
+Name Inside the Pillar~
+Descr
+The inside of the pillar is dry and dusty.  Yet a dampness fills your
+heart as you look around.  You sense a presence in the small room around
+you, an unspeakably evil one.  You wonder where the steel plate below you
+leads to, and if you really want to go there.  
+~
+Flags 5
+Sector 0
+Door 3 259 0 39015 30 30
+~
+pillardoor~
+Door 5 3 0 39112 30 30
+~
+steelplate~
+End
+
+#39111
+Name Catacombs of Evil~
+Descr
+The large inter-connected caverns form a huge maze.  Crawling with evil
+creatures of every form.  It is very easy to become lost here, and even
+easier to become dead.  
+~
+Flags 5
+Door 0 0 0 39113 0 0
+~
+~
+Door 1 0 0 39112 0 0
+~
+~
+End
+
+#39112
+Name Catacombs of Evil~
+Descr
+Inside these catacombs the evil creatures of the Great War were
+imprisoned.  They roam the under caverns searching out unweary travellers
+and unprepared adventurers and feast upon there bodies.  
+~
+Flags 5
+Door 3 0 0 39111 0 0
+~
+~
+Door 4 3 0 39110 30 30
+~
+steelplate~
+End
+
+#39113
+Name Catacombs of Evil~
+Descr
+The large inter-connected caverns form a huge maze.  Crawling with evil
+creatures of every form.  It is very easy to become lost here, and even
+easier to become dead.  
+~
+Flags 6
+Reset M 39245 1 100
+Door 0 0 0 39114 0 0
+~
+~
+Door 2 0 0 39111 0 0
+~
+~
+End
+
+#39114
+Name Catacombs of Evil~
+Descr
+The large inter-connected caverns form a huge maze.  Crawling with evil
+creatures of every form.  It is very easy to become lost here, and even
+easier to become dead.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 39113 0 0
+~
+~
+Door 3 0 0 39115 0 0
+~
+~
+End
+
+#39115
+Name Catacombs of Evil~
+Descr
+A long hallway runs west and east through the catacombs, forming a sort
+of backbone for the maze.  
+~
+Flags 5
+Sector 0
+Reset M 39204 5 100
+Door 1 0 0 39114 0 0
+~
+~
+Door 3 0 0 39116 0 0
+~
+~
+End
+
+#39116
+Name Catacombs of Evil~
+Descr
+A long hallway runs west and east through the catacombs, forming a sort
+of backbone for the maze.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39115 0 0
+~
+~
+Door 3 0 0 39117 0 0
+~
+~
+End
+
+#39117
+Name Catacombs of Evil~
+Descr
+A long hallway runs west and east through the catacombs, forming a sort
+of backbone for the maze.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39116 0 0
+~
+~
+Door 3 0 0 39118 0 0
+~
+~
+End
+
+#39118
+Name Catacombs of Evil~
+Descr
+A large tunnel lined with glowing metal leads north from here.  An
+unearthly glow seems to eminate from its end.  The backbone continues east
+and west from here.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39119 0 0
+~
+~
+Door 1 0 0 39117 0 0
+~
+~
+Door 3 0 0 39122 0 0
+~
+~
+End
+
+#39119
+Name Evil Hallway~
+Descr
+A growing sense of dread overcomes you as the tunnel widens here.  To the
+north is a great cage.  The roaring of the gigantic beast within is almost
+defening, forcing you to cover your ears or else run in fear.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39120 0 0
+~
+~
+Door 2 0 0 39118 0 0
+~
+~
+End
+
+#39120
+Name Before a Great Cage~
+Descr
+The tunnel opens yet wider here.  Coming to a great cage almost 50' high
+and twice as wide.  Inside you can barely make out the shape of a great
+beast.  The roaring of which has become almost almost to much to stand.  All
+the other beasts of the catacombs seem to shy away from here, almost in
+fright.  
+~
+Flags 7
+Sector 0
+Door 0 3 -26283 39121 40 40
+~
+Mithril Gate~
+Door 2 0 0 39119 0 0
+~
+~
+End
+
+#39121
+Name Inside the Mithril Cage~
+Descr
+The inside of the cage is non-descript, it looks like the inside of any
+cage.  Except this one is occupied by the largest creature you have ever
+seen.  It looks at you from darkened pits within its eyes.  You feel as if
+it is looking into your soul.  It's a really uncomfortable experiance.  
+~
+Flags 4
+Sector 0
+Reset M 39206 1 100
+Reset O 39276 10 1
+Door 2 3 0 39120 30 30
+~
+Mithril Cage~
+End
+
+#39122
+Name Catacombs of Evil~
+Descr
+A long hallway runs west and east through the catacombs, forming a sort
+of backbone for the maze.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39118 0 0
+~
+~
+Door 3 0 0 39123 0 0
+~
+~
+End
+
+#39123
+Name Catacombs of Evil~
+Descr
+The backbone breaks off here, and turns southward.  The sense of evil is
+just as great as before, it is almost tangible like some sort of bad smell. 
+~
+Flags 5
+Sector 0
+Reset M 39222 3 100
+Reset O 39260 15 1
+Door 1 0 0 39122 0 0
+~
+~
+Door 2 0 0 39124 0 0
+~
+~
+End
+
+#39124
+Name Catacombs of Evil~
+Descr
+The tunnel continues to wind, now to the west.  The evil presence
+continues to grow as well.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39123 0 0
+~
+~
+Door 3 0 0 39125 0 0
+~
+~
+End
+
+#39125
+Name Catacombs of Evil~
+Descr
+The cavern is small and cramped here, although to the west it opens up
+again.  The evil presence you have felt since entering has dropped away
+suddenly.  Almost as if this room is protected by a greater good.  The walls
+around you glow a bright blue color seeming almost tranluscent.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39124 0 0
+~
+~
+Door 2 259 0 39127 30 30
+~
+latchwall~
+Door 3 0 0 39126 0 0
+~
+~
+End
+
+#39126
+Name Catacombs of Evil~
+Descr
+To the west the tunnel opens up into a great cavern.  The evil presence
+once again intensifies, only this time by a tenfold.  The walls almost seem
+to drip with malignant intents.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39125 0 0
+~
+~
+Door 3 0 0 39131 0 0
+~
+~
+End
+
+#39127
+Name Crumbling Room~
+Descr
+FALLLLLLLLIIIIINNNNNGGG!
+~
+Flags 131074
+Sector 0
+Door 0 259 0 39125 30 30
+~
+latchwall~
+Door 5 0 0 39128 0 0
+~
+~
+End
+
+#39128
+Name Collapsing Room~
+Descr
+SSSTIIILLLL FALLLLLIIINNNGG!
+~
+Flags 131077
+Sector 0
+Door 4 0 0 39127 0 0
+~
+~
+Door 5 0 0 39129 0 0
+~
+~
+End
+
+#39129
+Name Crumbled Floor~
+Descr
+FALLLLLIIIINNNNGGG FASSSSTTEER!
+~
+Flags 131077
+Sector 0
+Door 4 0 0 39128 0 0
+~
+~
+Door 5 0 0 39130 0 0
+~
+~
+End
+
+#39130
+Name Archway Room~
+Descr
+A large archway made of stone fills up most of the room.  Through the
+archway is another room, not unlike this one, but you sense it is a vast
+distance away.  The glowing archway hums and throbs with magical forces.  A
+great wizard must have created this.  
+~
+Flags 4
+Sector 0
+Reset O 39254 -5 100
+Door 4 0 0 39129 0 0
+~
+~
+End
+
+#39131
+Name Catacombs of Evil~
+Descr
+The cavern is actually smaller inside then it looks from without. 
+Winding passages lead south and east from here leading into unknown
+territory.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39126 0 0
+~
+~
+Door 2 0 0 39132 0 0
+~
+~
+End
+
+#39132
+Name Catacombs of Evil~
+Descr
+The small tunnel continues to the south.  Turning off to the west in the
+distance.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39131 0 0
+~
+~
+Door 2 0 0 39133 0 0
+~
+~
+End
+
+#39133
+Name Catacombs of Evil~
+Descr
+The tunnel turns to the west here, seeming to be leading you somewhere. 
+You feel as if you should turn around and leave.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39132 0 0
+~
+~
+Door 3 0 0 39134 0 0
+~
+~
+End
+
+#39134
+Name Catacombs of Evil~
+Descr
+The tunnel turns again, this time to the north.  The evil hanges in the
+air here.  A blackish mist making it a little harder to breath.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39135 0 0
+~
+~
+Door 1 0 0 39133 0 0
+~
+~
+End
+
+#39135
+Name Catacombs of Evil~
+Descr
+The evil presence is strongest here.  To the north is a great stone door
+behind it must be the origin of the presence.  A great demon of some sort.  
+~
+Flags 5
+Sector 0
+Reset O 39253 -5 1
+Door 0 0 0 39136 0 0
+~
+~
+Door 2 0 0 39134 0 0
+~
+~
+End
+
+#39136
+Name Catacombs of Evil~
+Descr
+To the west is a great stone doorway, the sense of evil is so
+overpowering it makes you feel faint.  Power eminates from beyond the
+doorway, a great glow.  You feel as if it could destroy the hearts and minds
+of any it encounters.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 39135 0 0
+~
+~
+Door 3 3 0 39156 30 30
+~
+StoneDoorway~
+End
+
+#39137
+Name Archway Room~
+Descr
+~
+Flags 2097152
+Reset O 39255 -5 100
+Door 2 3 0 39040 30 30
+~
+dirtwall~
+End
+
+#39138
+Name Into the Pit~
+Descr
+A ramp leads down and to the south here.  Large rats scuttle along the
+floor hissing and snapping at you.  This is not the healthiest place in the
+world and plague runs freely.  
+~
+Door 0 0 0 39139 0 0
+~
+~
+Door 5 0 0 39140 0 0
+~
+~
+End
+
+#39139
+Name Into the Pit~
+Descr
+A ramp leads down and to the south here.  Large rats scuttle along the
+floor hissing and snapping at you.  This is not the healthiest place in the
+world and plague runs freely.  
+~
+Door 2 0 0 39138 0 0
+~
+~
+Door 4 259 0 39050 30 30
+~
+steelgrateing~
+End
+
+#39140
+Name Almost into the Pit~
+Descr
+A ramp leads down and to the south here.  Large rats scuttle along the
+floor hissing and snapping at you.  This is not the healthiest place in the
+world and plague runs freely.  
+~
+Reset O 39261 -5 75
+Door 2 0 0 39141 0 0
+~
+~
+Door 4 0 0 39138 0 0
+~
+~
+End
+
+#39141
+Name Getting Closer~
+Descr
+A ramp leads down and to the south here.  Large rats scuttle along the
+floor hissing and snapping at you.  This is not the healthiest place in the
+world and plague runs freely.  
+~
+Reset O 39261 -5 75
+Reset M 39211 4 75
+Door 0 0 0 39140 0 0
+~
+~
+Door 5 0 0 39142 0 0
+~
+~
+End
+
+#39142
+Name Before the Pit~
+Descr
+A steelmesh grating stands planted into the wall here.  Beyond it is the
+recycling pit itself.  Large beasts walk in and out of view slobbering and
+screaming with harsh, high voices.  One seems to smell you and turns towards
+the grate.  
+~
+Door 2 3 0 39143 30 30
+~
+steelmesh~
+Door 4 0 0 39141 0 0
+~
+~
+End
+
+#39143
+Name Exit From Pit~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset M 39210 3 79
+Door 0 3 0 39142 30 30
+~
+steelmesh~
+Door 2 0 0 39151 0 0
+~
+~
+Door 3 0 0 39144 0 0
+~
+~
+End
+
+#39144
+Name Recycling Area~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Reset O 39261 -5 75
+Door 1 0 0 39143 0 0
+~
+~
+Door 2 0 0 39152 0 0
+~
+~
+Door 3 0 0 39145 0 0
+~
+~
+End
+
+#39145
+Name North West Pit~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Door 1 0 0 39144 0 0
+~
+~
+Door 2 0 0 39147 0 0
+~
+~
+End
+
+#39146
+Name ~
+Descr
+~
+Door 1 0 0 39145 0 0
+~
+~
+End
+
+#39147
+Name West Pit~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Door 0 0 0 39145 0 0
+~
+~
+Door 1 0 0 39152 0 0
+~
+~
+Door 2 0 0 39148 0 0
+~
+~
+End
+
+#39148
+Name South West Pit~
+Descr
+~
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Door 0 0 0 39147 0 0
+~
+~
+Door 1 0 0 39149 0 0
+~
+~
+End
+
+#39149
+Name Southern Pit~
+Descr
+~
+Reset O 39261 -5 75
+Door 0 0 0 39152 0 0
+~
+~
+Door 1 0 0 39150 0 0
+~
+~
+Door 3 0 0 39148 0 0
+~
+~
+End
+
+#39150
+Name South Eastern Pit~
+Descr
+~
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Reset O 39261 -5 75
+Door 0 0 0 39151 0 0
+~
+~
+Door 3 0 0 39149 0 0
+~
+~
+End
+
+#39151
+Name In the Recycling Pit~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Reset O 39261 -5 75
+Door 0 0 0 39143 0 0
+~
+~
+Door 2 0 0 39150 0 0
+~
+~
+Door 3 0 0 39152 0 0
+~
+~
+End
+
+#39152
+Name Central Pit~
+Descr
+The smell here is sickening.  It is almost a tangible green smog in the
+air.  The recycling beast trudge back and forth throughout the large room. 
+They pick up the trash around and eat it.  
+~
+Reset O 39261 -5 75
+Door 0 0 0 39144 0 0
+~
+~
+Door 1 0 0 39151 0 0
+~
+~
+Door 2 0 0 39149 0 0
+~
+~
+Door 3 0 0 39147 0 0
+~
+~
+End
+
+#39153
+Name ~
+Descr
+~
+Door 1 0 0 39152 0 0
+~
+~
+End
+
+#39154
+Name Monster Cages~
+Descr
+Another door fills the north wall of the hallway, this time of crumbling
+stone.  From behind the door comes a wailing as if from a tortured banshee. 
+Another plaque lies upon the wall here, engraved a little more carefully
+then the one before.  
+~
+Flags 5
+Sector 0
+ExtraDescr plaque~
+The wooden plaque reads:
+
+
+ 
+
+
+THE ARCHDEMON BON'HARAK LIES IN THE ROOM TO THE NORTH, HE IS STILL UNDER STUDY
+
+
+AND NOT MUCH IS PRESENTLY KNOWN ABOUT HIS POWERS. ABSOLUTELY *NO* ADDMITTANCE
+
+
+EXCEPT UNDER HEAVY GUARD.
+
+
+~
+Door 0 7 0 39157 40 40
+~
+Crumbling Stone Door~
+Door 1 0 0 39155 0 0
+~
+~
+End
+
+#39155
+Name Monster Cages~
+Descr
+To the north is a rusting steel door, seemingly a weak one.  The wall
+before it bears a small wooden plaque carved in hast it seems.  A great
+snuffling sound come from beyond the door.  
+~
+Flags 5
+Sector 0
+ExtraDescr plaque~
+The silver plaque reads:
+
+
+BEYOND THIS DOOR LIES THE DEMON OF HATE, STUDY OF THIS DEMON HAS PROVEN HIM
+
+
+UNFIT FOR LIFE. HE WILL BE EXECUTED COME THE END OF THE WEEK.
+
+
+ 
+
+
+ 
+
+
+The plaque seems a bit outdated, seeing as a centuries worth of dust is
+
+
+caked upon it.
+
+
+~
+Door 0 7 0 39158 40 40
+~
+Rusty Steel Door~
+Door 1 0 0 39156 0 0
+~
+~
+Door 3 0 0 39154 0 0
+~
+~
+End
+
+#39156
+Name Monster Cages~
+Descr
+The monster cages are where the evil is eminating.  The Delphaeic people
+imprisoned there hostages in these cages.  Using them for study and
+observation over the years.  When the Delphae left the caverns the demons
+were left imprisoned here.  
+~
+Flags 5
+Sector 0
+Door 1 3 0 39136 30 30
+~
+SteelGrating~
+Door 3 0 0 39155 0 0
+~
+~
+End
+
+#39157
+Name Cage of Bon'Harak, the ArchDemon~
+Descr
+The demon has stopped its wailing.  It looks at you and begins again. 
+This time while licking its chops and clawing the air before it.  Your lucky
+it has been chained to the wall.  
+~
+Flags 4
+Sector 0
+Reset M 39220 1 100
+Door 2 3 0 39154 40 40
+~
+Crumbling Stone Door~
+End
+
+#39158
+Name Cage of Fo'orgoth the Demon~
+Descr
+The evil in this room is thick, and the smell of it even stronger. 
+Actually the smell is probably coming from the drooling animal in front of
+you.  A huge canine creature with un unspeakable number of teeth.  It snarls
+at you as it looksat you like a piece of meat.  
+~
+Flags 5
+Sector 0
+Reset M 39221 1 100
+Door 2 3 0 39155 40 40
+~
+Rusty Steel Door~
+End
+
+#39159
+Name Descent into Underworld~
+Descr
+Falling!  
+~
+Flags 131077
+Sector 0
+Door 4 3 0 39060 30 30
+~
+StoneSlab~
+Door 5 0 0 39160 0 0
+~
+~
+End
+
+#39160
+Name Decending Stairs~
+Descr
+~
+Flags 131077
+Sector 0
+Door 4 0 0 39159 0 0
+~
+~
+Door 5 0 0 39161 0 0
+~
+~
+End
+
+#39161
+Name Gates of Underworld~
+Descr
+When the Delphaeic people were defeated by the evil forces and retreated
+underground, the few hostages they took were imprisoned.  Most were sent
+into the catacombs to perish.  But the most powerfull of demons and the
+evilest of monsters were sent here to the underworld.  Since then the
+creatures have bred and became numerous.  Only the bravest or stupidest of
+men enter this gate.  The ones that do never return.  
+~
+Flags 5
+Sector 0
+Door 3 3 0 39162 30 30
+~
+Glowing Gate~
+Door 4 0 0 39160 0 0
+~
+~
+End
+
+#39162
+Name Guard Post of the Underworld~
+Descr
+It is swealtering down here.  Plants and moss grow on everything, despite
+the fact there is no sun.  A great stone guard post sits here with a being
+you cant even imagine guarding it.  The demons of the underworld sure have
+taken whatever beauty was ever down here away.  
+~
+Flags 7
+Sector 0
+Reset M 39223 1 100
+Door 1 3 0 39060 30 30
+~
+Glowing Gate~
+Door 3 0 0 39163 0 0
+~
+~
+End
+
+#39163
+Name Juction of Evil~
+Descr
+This great junction of roads leads north through into a dry rocky area,
+and west towards a great swamp.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39165 0 0
+~
+~
+Door 1 0 0 39162 0 0
+~
+~
+Door 3 0 0 39164 0 0
+~
+~
+End
+
+#39164
+Name A Large Garbage Strewn Road~
+Descr
+This is a messy road inside the underworld.  To the west lies a green
+smelly swamp filled with horrible creatures of all kinds.  The evil presence
+of the underworld is so dark you can almost see it in the air a black smokey
+haze.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39163 0 0
+~
+~
+Door 3 0 0 39172 0 0
+~
+~
+End
+
+#39165
+Name A Wide Pathway~
+Descr
+Leading north past the rocks, a great house stands.  You feel a rumbling
+in the distance.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39166 0 0
+~
+~
+Door 2 0 0 39163 0 0
+~
+~
+End
+
+#39166
+Name Beggining of a Rocky Path~
+Descr
+The rocky path leads west, towards the huge house.  The rumbling is
+slowly getting louder.  
+~
+Flags 7
+Sector 0
+Door 2 0 0 39165 0 0
+~
+~
+Door 3 0 0 39167 0 0
+~
+~
+End
+
+#39167
+Name On a Rocky Path~
+Descr
+The rocky path leads west, towards the huge house.  The rumbling is
+slowly getting louder.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39166 0 0
+~
+~
+Door 3 0 0 39168 0 0
+~
+~
+End
+
+#39168
+Name A Rocky Pathway~
+Descr
+The rocky path leads west, towards the huge house.  The rumbling is
+slowly getting louder.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39167 0 0
+~
+~
+Door 3 0 0 39169 0 0
+~
+~
+End
+
+#39169
+Name A Long Rocky Path~
+Descr
+The rumbling here is like that of an earthquake or landslide. 
+Deafeningly loud you onder hat titanic force could produce it.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39168 0 0
+~
+~
+Door 3 0 0 39170 0 0
+~
+~
+End
+
+#39170
+Name Turn in Rocky Path~
+Descr
+Here the rocky path turn north.  The source of the great rumbling is
+here.  A great creature made all of stone.  He stands a story tall and looks
+at you with a grin.  He may not be smart but he sure is huge.  
+~
+Flags 5
+Sector 0
+Reset M 39229 1 100
+Door 0 0 0 39171 0 0
+~
+~
+Door 1 0 0 39169 0 0
+~
+~
+End
+
+#39171
+Name Outside A House~
+Descr
+You are on the front porch of the huge house.  The evil felt here is
+abominable.  This is the place where the King of demons rests.  
+~
+Flags 7
+Sector 0
+Door 0 3 0 39194 30 30
+~
+Wooden Door~
+Door 2 0 0 39170 0 0
+~
+~
+End
+
+#39172
+Name A Large Garbage Strewn Road~
+Descr
+This is a messy road inside the underworld.  To the west lies a green
+smelly swamp filled with horrible creatures of all kinds.  The evil presence
+of the underworld is so dark you can almost see it in the air a black smokey
+haze.  
+~
+Flags 5
+Sector 0
+Reset M 39224 3 50
+Door 1 0 0 39164 0 0
+~
+~
+Door 3 0 0 39173 0 0
+~
+~
+End
+
+#39173
+Name A Turn in the Road~
+Descr
+The garbage strewn road turns south here.  The swamp is directly to the
+west.  In the distance to the south you can see a gigantic chasm with
+sulpherous fumes seeping from its depths.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39172 0 0
+~
+~
+Door 2 0 0 39174 0 0
+~
+~
+End
+
+#39174
+Name A Decending Path~
+Descr
+The path continues south here, still to the west lies the evil smelling
+swamp.  The chasm to the south continues to grow in size.  It must be larger
+then you thought.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39173 0 0
+~
+~
+Door 2 0 0 39175 0 0
+~
+~
+End
+
+#39175
+Name Another Juction~
+Descr
+This is the turn off to the swamp.  You may turn west towards it or
+continue south towards a bridge crossing the chasm.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39174 0 0
+~
+~
+Door 2 0 0 39185 0 0
+~
+~
+Door 3 0 0 39176 0 0
+~
+~
+End
+
+#39176
+Name Entrance To An Underwater Bog~
+Descr
+The water to the west looks shallow, although gators and other cretures
+swim through it.  The swamp looks as though a created by an evil force,
+since nothing natural could have created such an ugly thing.  
+~
+Flags 7
+Sector 0
+Door 1 0 0 39175 0 0
+~
+~
+Door 3 0 0 39177 0 0
+~
+~
+End
+
+#39177
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Reset M 39225 3 70
+Door 0 0 0 39178 0 0
+~
+~
+Door 1 0 0 39176 0 0
+~
+~
+Door 2 0 0 39180 0 0
+~
+~
+End
+
+#39178
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Door 2 0 0 39177 0 0
+~
+~
+Door 3 0 0 39179 0 0
+~
+~
+End
+
+#39179
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Door 1 0 0 39178 0 0
+~
+~
+Door 2 0 0 39183 0 0
+~
+~
+End
+
+#39180
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Door 0 0 0 39177 0 0
+~
+~
+Door 2 0 0 39181 0 0
+~
+~
+End
+
+#39181
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Door 0 0 0 39180 0 0
+~
+~
+Door 3 0 0 39182 0 0
+~
+~
+End
+
+#39182
+Name An Underground Island~
+Descr
+You come to an island of packed earth amidst the swampy water.  Upon a
+throne sits the high demon of water.  He has no substance yet he surges
+across the ground towards you.  Strangely you feel compeled to run in fear. 
+~
+Flags 7
+Sector 0
+Reset M 39233 1 100
+Reset O 39280 7 1
+Door 0 0 0 39184 0 0
+~
+~
+Door 1 0 0 39181 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#39183
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Door 0 0 0 39179 0 0
+~
+~
+Door 2 0 0 39184 0 0
+~
+~
+End
+
+#39184
+Name An Underwater Bog~
+Descr
+The swamp is filled with a green gas.  You begin to cough as it creeps
+into your lungs.  It cannot be healthy place to be.  The murky water is
+almost black and you feel strange things brushing against your legs as you
+cross it.  
+~
+Flags 5
+Sector 6
+Reset M 39226 1 100
+Door 0 0 0 39183 0 0
+~
+~
+Door 2 0 0 39182 0 0
+~
+~
+End
+
+#39185
+Name Before a Great Chasm~
+Descr
+The chasm is over a hundred feet in length.  Its depth is unknown since
+you cannot see more then twenty or so feet into the sulpher gasses inside
+it.  The stone bridge crossing it is in good condition and looks safe enough
+to cross.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39175 0 0
+~
+~
+Door 2 0 0 39186 0 0
+~
+~
+End
+
+#39186
+Name Upon a Bridge~
+Descr
+The fumes from below choke you.  Making you almost lose your balance and
+fall into the deep chasm.  Better get off the bridge quickly.  
+~
+Flags 7
+Sector 0
+Door 0 0 0 39185 0 0
+~
+~
+Door 2 0 0 39187 0 0
+~
+~
+End
+
+#39187
+Name Burning Lands~
+Descr
+The lands after the bridge are engulfed in flames.  The ground itself
+burns, the rocks, grass and trees as well.  They all burn eternally and
+there fuil never runs out.  
+~
+Flags 16777221
+Sector 0
+Door 0 0 0 39186 0 0
+~
+~
+Door 2 0 0 39188 0 0
+~
+~
+End
+
+#39188
+Name Burning Lands~
+Descr
+The grasses burn eternally.  The flames catch on your clothes, and you
+hope dont begin to burn as well.  
+~
+Flags 16777220
+Sector 0
+Reset M 39227 4 100
+Door 0 0 0 39187 0 0
+~
+~
+Door 3 0 0 39189 0 0
+~
+~
+End
+
+#39189
+Name Dead End~
+Descr
+The only area of this field that is not burning is this one.  It backs up
+into the cave wall.  A magical force here must prevent the flames.  You feel
+strangely peacefull here and almost as if you should never leave.  
+~
+Flags 3145734
+Sector 0
+Reset M 39234 1 100
+Reset O 39279 21 2
+Door 1 0 0 39188 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#39194
+Name Main Hall of Small House~
+Descr
+The main hall of the house is clean and well furnished.  A beutiful
+tapestry covers the ceiling.  At second glance you notice it tells a
+horrible tale.  One of death and destruction.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39195 0 0
+~
+~
+Door 1 0 0 39197 0 0
+~
+~
+Door 2 3 0 39171 30 30
+~
+Wooden Door~
+Door 3 0 0 39196 0 0
+~
+~
+End
+
+#39195
+Name A Small Hallway~
+Descr
+The starwell up to the King's rooms is guarded by a ferocious being.  A
+huge canine like demon with a presence as evil as Satan's himself.  He
+growls at you and backs up onto the stairs, effectively blocking them.  
+~
+Flags 6
+Sector 0
+Reset M 39231 1 100
+Door 2 0 0 39194 0 0
+~
+~
+Door 4 3 0 39198 30 30
+~
+trapdoor~
+End
+
+#39196
+Name Kitchen~
+Descr
+The kitchen smells awful.  Rotting food and corpses of Delphaic people
+litter the floor.  The cook is the most awful thing about it though, he
+brandishes a huge butcher knife as you walk in.  You feel as if you should
+leave before you become the main course at dinner tonight.  
+~
+Flags 4
+Sector 0
+Reset M 39230 1 100
+Door 1 0 0 39194 0 0
+~
+~
+End
+
+#39197
+Name Pantry~
+Descr
+Inside the pantry lay supplies of all kind.  Rotting bread and posioned
+beef, all sorts of demonic instruments of death.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 39194 0 0
+~
+~
+End
+
+#39198
+Name Bedroom~
+Descr
+The bedroom of the demon king is well furnished.  All in black and gold
+it is a bedroom fit for a king.  To the west is the study of the king, the
+sound of heavy breathing tells you that is where he is.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 39199 0 0
+~
+~
+Door 5 3 0 39195 30 30
+~
+trapdoor~
+End
+
+#39199
+Name Study of Sssis'Tar~
+Descr
+The study of Sssis'Tar is a huge library.  Book about everything known to
+anyone line the shelves.  In the centre is a huge stone table and chair
+where the demon king sits and reads.  What a boring life he must lead, no
+battles to be fought and no wars to be won.  
+~
+Flags 1064964
+Sector 0
+Reset M 39232 1 100
+Reset O 39281 5 1
+Door 1 0 0 39198 0 0
+~
+~
+End
+
+#39200
+Name If Your in HERE GET OUT, ITS A DUMMY ROOM~
+Descr
+~
+Door 1 0 0 39067 0 0
+~
+~
+End
+
+#39281
+Name A Dusty Path~
+Descr
+The blackened trees along the side of the road smell like they have been
+recently charred and burned, and a horrible smell of seared flesh rushes
+across your nose, making your eyes water.  
+~
+Sector 4
+Door 0 0 0 39282 0 0
+~
+~
+Door 4 0 0 17544 0 0
+~
+~
+End
+
+#39282
+Name A Dusty Path~
+Descr
+The blackened trees along the side of the road smell like they have been
+recently charred and burned, and a horrible smell of seared flesh rushes
+across your nose, making your eyes water.  
+~
+Sector 4
+Door 0 0 0 39283 0 0
+~
+~
+Door 2 0 0 39281 0 0
+~
+~
+End
+
+#39283
+Name A Dusty Path~
+Descr
+The blackened trees along the side of the road smell like they have been
+recently charred and burned, and a horrible smell of seared flesh rushes
+across your nose, making your eyes water.  
+~
+Sector 4
+Door 0 0 0 39284 0 0
+~
+~
+Door 2 0 0 39282 0 0
+~
+~
+End
+
+#39284
+Name A Dusty Path~
+Descr
+The path curves to the south and west here, and a ways off to the west,
+you can see the great slave encampment where the creatures of evil hold
+elves and other good creatures hostage.  
+~
+Sector 4
+Door 2 0 0 39283 0 0
+~
+~
+Door 3 0 0 39285 0 0
+~
+~
+End
+
+#39285
+Name A Dusty Path~
+Descr
+You walk along the path, you really don't know where you are going.  To
+the north and south you can see trees, a dark forest.  The path continues
+east and west.  
+~
+Sector 4
+Door 1 0 0 39284 0 0
+~
+~
+Door 3 0 0 39286 0 0
+~
+~
+End
+
+#39286
+Name A Dusty Path~
+Descr
+You come to the curve of the dusty path, to the north you can almost see
+the path ending.  To the east the path continues and a dark forest is all
+around you.  You convince yourself to go north and check out what's there.  
+~
+Sector 4
+Door 0 0 0 39287 0 0
+~
+~
+Door 1 0 0 39285 0 0
+~
+~
+End
+
+#39287
+Name End of the Dusty Path~
+Descr
+You come to the end of the dusty path, you can see some large underground
+city or something like that below you.  You ask yourself, Is it wise to go
+in there?.  The dusty path continues south of here.  
+~
+Sector 4
+Door 2 0 0 39286 0 0
+~
+~
+Door 5 0 0 39288 0 0
+~
+~
+End
+
+#39288
+Name Going Down a Shaft~
+Descr
+You climb down a shaft, you don't know where you are going.  Below, you
+can see an entrance to some underground city.  
+~
+Door 4 0 0 39287 0 0
+~
+~
+Door 5 0 0 39289 0 0
+~
+~
+End
+
+#39289
+Name Going Down a Shaft~
+Descr
+You climb down a shaft, you don't know where you are going.  Below, you
+can see an entrance to some underground city.  
+~
+Door 4 0 0 39288 0 0
+~
+~
+Door 5 0 0 39001 0 0
+~
+~
+End
+
+#391390
+Name A Road of Fire~
+Descr
+The grasses burn eternally.  The flames catch on your clothes, and you
+hope dont begin to burn as well.  
+~
+Flags 16777220
+Sector 0
+Reset M 39228 1 100
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 39188 0 0
+~
+~
+End
+
+#391391
+Name Plains of Fire~
+Descr
+The grasses burn eternally.  The flames catch on your clothes, and you
+hope dont begin to burn as well.  
+~
+Flags 16777220
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#391392
+Name A Burning Clearing~
+Descr
+Directly to the south stands a huge wall of fire.  Inside it you feel an
+evil presence of a high demon.  The plains here burn more fearcly then
+elsewhere.  
+~
+Flags 16777220
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#391393
+Name Inside the Flames~
+Descr
+Upon a throne sits the high demon of fire Derun'Ki, he looks at you from
+glowing eyes and reaches towards you.  You feel the evil of this being, and
+a panic takes a hold of your mind.  
+~
+Flags 16777222
+Sector 0
+Door 0 0 0 39189 0 0
+~
+~
+End
+
+#390390
+Name West Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 39089 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#390391
+Name West Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#390392
+Name West Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#390393
+Name West Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 39095 0 0
+~
+~
+End
+
+#39000
+Name The Room of Constantly Shifting Sprays of Light That Constantly Shift and Spray~
+Descr
+The room around you is filled with constantly shifting colorful sprays of
+light. They constantly shift.. and spray.. and basically continue to do so,
+a lot. Strangely, you really can't tell why they are there, and why they
+continue to constantly shift and... spray. They just do. Ok?  
+~
+Flags 11534336
+Sector 0
+Reset O 5300 -5 100
+End
+
+#39001
+Name Entrance to Ruined City~
+Descr
+The city of Delphaeus was once a beutiful place.  Housing the Delphaeic
+people, a race of magical beings thought to be the distant relatives of high
+elves.  The city of Delphaeus is now in ruin, Having been destroyed during a
+great war with the evil forces.  The old city has lain here for centuries
+undisturbed.  
+~
+Flags 2
+Door 2 0 0 39002 0 0
+~
+~
+Door 4 0 0 39289 0 0
+~
+~
+End
+
+#39002
+Name North Hall~
+Descr
+The smell of stale death permeates through the air.  It's been a long
+time since the great war.  Underground has a way of multiplying the morbid
+feel you get as you near the Antechamber.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39001 0 0
+~
+~
+Door 1 0 0 39004 0 0
+~
+~
+Door 2 0 0 39014 0 0
+~
+~
+Door 3 0 0 39003 0 0
+~
+~
+End
+
+#39003
+Name Great Hall~
+Descr
+This a wide hallway.  The people of Delphaeus spent a great deal of time
+and money decorating their city.  Too bad that time has wore down this great
+hall, and left most of it ugly.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39002 0 0
+~
+~
+Door 3 0 0 39006 0 0
+~
+~
+End
+
+#39004
+Name Great Hall~
+Descr
+This a wide hallway.  The people of Delphaeus spent a great deal of time
+and money decorating their city.  Too bad that time has wore down this great
+hall, and left most of it ugly.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39005 0 0
+~
+~
+Door 3 0 0 39002 0 0
+~
+~
+End
+
+#39005
+Name North East Hall~
+Descr
+There is a lot of dust and debris laying about.  Pictures have been
+knocked off the wall, trim has been torn down, and down beneath your feet,
+you walk amidst large amounts of rodent droppings.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 39007 0 0
+~
+~
+Door 3 0 0 39004 0 0
+~
+~
+End
+
+#39006
+Name North West Hall~
+Descr
+There is a lot of dust and debris laying about.  Pictures have been
+knocked off the wall, trim has been torn down, and down beneath your feet,
+you walk amidst large amounts of rodent droppings.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39003 0 0
+~
+~
+Door 2 0 0 39008 0 0
+~
+~
+End
+
+#39007
+Name Great Hall~
+Descr
+The great hall continues.  Echos bounce off the walls, floor and ceiling.
+Everything sound is recipricated.  Even your breathing is mimicked, like the
+double *gasp* you hear, when you turn and face a magnificent stone pillar to
+the west.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39005 0 0
+~
+~
+Door 2 0 0 39013 0 0
+~
+~
+End
+
+#39008
+Name Great Hall~
+Descr
+The great hall continues.  Echos bounce off the walls, floor and ceiling.
+Everything sound is recipricated.  Even your breathing is mimicked, like the
+double *gasp* you hear, when you turn and face a magnificent stone pillar to
+the east.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39006 0 0
+~
+~
+Door 2 0 0 39009 0 0
+~
+~
+End
+
+#39009
+Name West Hall~
+Descr
+Old useless trinkets adorn the west hall, most of the gold fixtures have
+tarnished and the candelabras have all been pushed over.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39008 0 0
+~
+~
+Door 1 0 0 39010 0 0
+~
+~
+Door 2 0 0 39015 0 0
+~
+~
+End
+
+#39010
+Name West Hall~
+Descr
+You stand just west of the Antechamber.  You hear the bubbling of an
+active water fountain to the east.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39011 0 0
+~
+~
+Door 3 0 0 39009 0 0
+~
+~
+End
+
+#39011
+Name Antechamber~
+Descr
+The great antechamber of Old Delphaeus is dominated by the huge fountain
+at its centre.  The old cracked fountain is actually the skeleton of an
+obsidian dragon.  Its tail leads into the ground, probably used to pipe in
+water from an underground supply.  It's a wonder anything still works here
+after all these years.  
+~
+Flags 5
+Sector 0
+Reset O 39251 -5 100
+Door 0 0 0 39014 0 0
+~
+~
+Door 1 0 0 39012 0 0
+~
+~
+Door 2 0 0 39020 0 0
+~
+~
+Door 3 0 0 39010 0 0
+~
+~
+End
+
+#39012
+Name East Hall~
+Descr
+You stand just east of the Antechamber.  You hear the bubbling of an
+active water fountain to the west.  
+~
+Flags 5
+Sector 0
+Reset M 39203 5 100
+Reset M 39203 5 100
+Door 1 0 0 39013 0 0
+~
+~
+Door 3 0 0 39011 0 0
+~
+~
+End
+
+#39013
+Name East Hall~
+Descr
+Old useless trinkets adorn the east hall, most of the gold fixtures have
+tarnished and the candelabras have all been pushed over.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39007 0 0
+~
+~
+Door 2 0 0 39023 0 0
+~
+~
+Door 3 0 0 39012 0 0
+~
+~
+End
+
+#39014
+Name North of Antechamber~
+Descr
+You stand just north of the Antechamber.  You hear the bubbling of an
+active water fountain to the south.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39002 0 0
+~
+~
+Door 2 0 0 39011 0 0
+~
+~
+End
+
+#39015
+Name Great Hall~
+Descr
+East pillar opens here The great hall continues.  Echos bounce off the
+walls, floor and ceiling.  Everything sound is recipricated.  Even your
+breathing is mimicked, like the double *gasp* you hear, when you turn and
+face a magnificent stone pillar to the east.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39009 0 0
+~
+~
+Door 1 259 0 39110 30 30
+~
+pillardoor~
+Door 2 0 0 39016 0 0
+~
+~
+End
+
+#39016
+Name South West Hall~
+Descr
+There is a lot of dust and debris laying about.  Pictures have been
+knocked off the wall, trim has been torn down, and down beneath your feet,
+you walk amidst large amounts of rodent droppings.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39015 0 0
+~
+~
+Door 1 0 0 39017 0 0
+~
+~
+End
+
+#39017
+Name Great Hall~
+Descr
+This a wide hallway.  The people of Delphaeus spent a great deal of time
+and money decorating their city.  Too bad that time has wore down this great
+hall, and left most of it ugly.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39018 0 0
+~
+~
+Door 3 0 0 39016 0 0
+~
+~
+End
+
+#39018
+Name South Hall~
+Descr
+The south hall opens all ways.  To the north you can make out a huge
+statue fountain of some sort and to the south you notice a broken archway.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39020 0 0
+~
+~
+Door 1 0 0 39021 0 0
+~
+~
+Door 2 0 0 39019 0 0
+~
+~
+Door 3 0 0 39017 0 0
+~
+~
+End
+
+#39019
+Name Huge Collapsed Archway~
+Descr
+Here lies a huge collapsed archway.  Broken wooden beams seemed to have
+fallen creating a big mess of rocks and boulders everwhere.  There are tiny
+cracks of light peeking between some of the rocks.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39018 0 0
+~
+~
+Door 2 259 0 39024 30 30
+~
+oldrock~
+End
+
+#39020
+Name South of Antechamber~
+Descr
+You stand just south of the Antechamber.  You hear the bubbling of an
+active water fountain to the north.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39011 0 0
+~
+~
+Door 2 0 0 39018 0 0
+~
+~
+End
+
+#39021
+Name Great Hall~
+Descr
+This a wide hallway.  The people of Delphaeus spent a great deal of time
+and money decorating their city.  Too bad that time has wore down this great
+hall, and left most of it ugly.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 39022 0 0
+~
+~
+Door 3 0 0 39018 0 0
+~
+~
+End
+
+#39022
+Name South East Hall~
+Descr
+There is a lot of dust and debris laying about.  Pictures have been
+knocked off the wall, trim has been torn down, and down beneath your feet,
+you walk amidst large amounts of rodent droppings.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39023 0 0
+~
+~
+Door 3 0 0 39021 0 0
+~
+~
+End
+
+#39023
+Name Great Hall~
+Descr
+The great hall continues.  Echos bounce off the walls, floor and ceiling.
+Everything sound is recipricated.  Even your breathing is mimicked, like the
+double *gasp* you hear, when you turn and face a magnificent stone pillar to
+the west.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 39013 0 0
+~
+~
+Door 2 0 0 39022 0 0
+~
+~
+End
+
+#39024
+Name Glowing Passage~
+Descr
+The walls of this hidden tunnel glow with an unearthly light.  No source
+of which can be found.  To the south stands a guard post of sorts.  Past the
+guard post a blinding light can be seen.  
+~
+Flags 4
+Sector 0
+Door 0 257 0 39019 30 30
+~
+oldrock~
+Door 2 0 0 39025 0 0
+~
+~
+End
+
+#39025
+Name Delphae Guard Post~
+Descr
+The guard post is manned by a lone Delphaeic warrior.  The tunnel beyond
+is too bright to see into, because of a bright white light further inside
+it.  
+~
+Flags 4
+Sector 0
+Reset M 39200 1 100
+Reset O 39275 21 10
+Door 0 0 0 39024 0 0
+~
+~
+Door 2 0 0 39026 0 0
+~
+~
+End
+
+#39026
+Name Brightly Glowing Passageway~
+Descr
+The tunnel widens here, although it is hard to tell while being blinded
+by the whiteness around you.  An evil presence is felt to the south
+distincly out of place here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39025 0 0
+~
+~
+Door 2 0 0 39027 0 0
+~
+~
+End
+
+#39027
+Name Brightly Glowing Passageway~
+Descr
+The light inside the tunnel is even brighter here.  So that you have to
+shield your eyes to see.  To the west the sound of waves lapping at a shore
+is heard.  An underground lake maybe.  The presence of evil is felt again
+almost like an itch at the back of your neck.  
+~
+Flags 4
+Reset M 39203 2 75
+Door 0 0 0 39026 0 0
+~
+~
+Door 3 0 0 39028 0 0
+~
+~
+End
+
+#39028
+Name Larger Passage~
+Descr
+The passage opens here into a larger room.  Guarded by the ghost of an
+evil spirit.  He has spent timeless years here stopping any contact between
+the delphae and the outside world.  
+~
+Flags 4
+Reset M 39235 1 100
+Door 1 0 0 39027 0 0
+~
+~
+Door 3 0 0 39029 0 0
+~
+~
+End
+
+#39029
+Name Archway~
+Descr
+A large stone archway is barely made out through the light here.  You can
+finely see the source of the bright glow.  It is the lake itself, the waters
+shimmer as they lap against the shore clear as day and brighter then the
+sun.  
+~
+Flags 4
+Door 1 0 0 39028 0 0
+~
+~
+Door 3 0 0 39030 0 0
+~
+~
+End
+
+#39030
+Name Shoreline of Lake Delphaeus~
+Descr
+The glow from the lake is to harsh for you to be able to make out your
+surroundings.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39031 0 0
+~
+~
+Door 1 0 0 39029 0 0
+~
+~
+Door 3 0 0 39032 0 0
+~
+~
+End
+
+#39031
+Name Rocky Shoreline~
+Descr
+You can barely make out the rocks on the shore to the west.  Besides
+those the cavern is entirely to bright to see anything.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 39030 0 0
+~
+~
+End
+
+#39032
+Name On Lake Delphaeus~
+Descr
+The glow here is so bright you are blinded.  
+~
+Flags 4
+Sector 6
+Door 0 0 0 39033 0 0
+~
+~
+Door 1 0 0 39030 0 0
+~
+~
+Door 2 0 0 39108 0 0
+~
+~
+Door 3 0 0 39034 0 0
+~
+~
+End
+
+#39033
+Name Lake Delphaeus~
+Descr
+The glow here is so bright you are blinded.  
+~
+Flags 4
+Sector 6
+Door 2 0 0 39032 0 0
+~
+~
+End
+
+#39034
+Name Lake Delphaeus~
+Descr
+The glow here is so bright you are blinded.  
+~
+Flags 4
+Sector 6
+Door 1 0 0 39032 0 0
+~
+~
+Door 2 0 0 39109 0 0
+~
+~
+Door 5 0 0 39035 0 0
+~
+~
+End
+
+#39035
+Name Underwater Cave Entrance~
+Descr
+This underwater cavern systen is a huge maze of tunnels and caves. 
+Filled with strange fish unknown to the upperworld.  It will be easy to get
+lost inside the cavern.  
+~
+Flags 4
+Sector 8
+Reset M 39205 2 100
+Door 0 0 0 39036 0 0
+~
+~
+Door 2 0 0 39036 0 0
+~
+~
+Door 3 0 0 39037 0 0
+~
+~
+Door 4 0 0 39034 0 0
+~
+~
+End
+
+#39036
+Name Underwater Carverns~
+Descr
+Each cavern is alike and each passage like each cavern like each passage
+like each cavern and all are alike.  
+~
+Flags 4
+Sector 8
+Door 0 0 0 39035 0 0
+~
+~
+Door 1 0 0 39038 0 0
+~
+~
+Door 3 0 0 39038 0 0
+~
+~
+End
+
+#39037
+Name Underwater Cavern System~
+Descr
+Each cavern is alike and each passage like each cavern like each passage
+like each cavern and all are alike.  
+~
+Flags 4
+Sector 8
+Door 0 0 0 39036 0 0
+~
+~
+Door 1 0 0 39035 0 0
+~
+~
+Door 2 0 0 39038 0 0
+~
+~
+Door 3 0 0 39039 0 0
+~
+~
+End
+
+#39038
+Name Undersea Cavern~
+Descr
+Each cavern is alike and each passage like each cavern like each passage
+like each cavern and all are alike.  
+~
+Flags 4
+Sector 8
+Door 0 0 0 39037 0 0
+~
+~
+Door 1 0 0 39036 0 0
+~
+~
+End
+
+#39039
+Name Underwater Cavern of ??Steel??~
+Descr
+The walls of this great room are coated in steel, the floor and ceiling
+as well.  To the west is a great archway with a shimmering film covering it.
+Beyond the arch can be a seen a dusty pathway.  Strange how can there be
+dust underwater?  
+~
+Flags 6
+Sector 8
+Door 1 0 0 39037 0 0
+~
+~
+Door 3 0 0 39040 0 0
+~
+~
+End
+
+#39040
+Name Cavern Opening~
+Descr
+As you step through the archway you are suddenly dry again.  Some great
+magical force is at work here, holding back the water from this cave.  The
+path to the west leads into a great city New Delphaeus no doubt.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 39137 30 30
+~
+dirtwall~
+Door 1 0 0 39039 0 0
+~
+~
+Door 3 0 0 39041 0 0
+~
+~
+End
+
+#39041
+Name Before the Gates of Delphaeus~
+Descr
+To the west are the great gates of New Delphaeus.  The gate guards stand
+in wait for wandering demons and other evil beings.  Evil forces must be
+very discreet about entering this city, or very well hidden.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39040 0 0
+~
+~
+Door 3 3 0 39042 30 30
+~
+gate~
+End
+
+#39042
+Name Inside the Gates of Delphaeus~
+Descr
+Inside the gates the gateguards wait.  They look you over suspicously for
+any sign of evil intent.  They are strangely attired in an archaic style of
+armor and bronze swords.  
+~
+Flags 6
+Sector 0
+Reset M 39201 4 100
+Reset O 39275 21 25
+Reset M 39201 4 100
+Reset M 39201 4 100
+Reset M 39202 1 100
+Reset M 39201 4 100
+Door 1 3 0 39041 30 30
+~
+gate~
+Door 3 3 0 39043 30 30
+~
+gate~
+End
+
+#39043
+Name Winding Road into City~
+Descr
+The inside of the city is coated in a golden metal, it glows with a
+brilliant light.  However all is not well within the city an evil presence
+can be felt almost as if being held back by the white aura around the city. 
+~
+Flags 4
+Sector 0
+Door 1 3 0 39042 30 30
+~
+gate~
+Door 3 0 0 39044 0 0
+~
+~
+End
+
+#39044
+Name Winding Road into City~
+Descr
+The inside of the city is coated in a golden metal, it glows with a
+brilliant light.  However all is not well within the city an evil presence
+can be felt almost as if being held back by the white aura around the city. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 39043 0 0
+~
+~
+Door 2 0 0 39045 0 0
+~
+~
+End
+
+#39045
+Name Corner of Intelligence Avenue and Road of Wisdom~
+Descr
+The corner of the two main streets of New Delphaeus is cleanly and sweet
+smelling, although the dump to the south is not.  The evil presence has
+disapeared and it seems that everything here is happy .  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39044 0 0
+~
+~
+Door 2 0 0 39047 0 0
+~
+~
+Door 3 0 0 39046 0 0
+~
+~
+End
+
+#39046
+Name Intelligence Avenue~
+Descr
+Intelligence avenue leads west from here, towards the main commerce area
+of the town.  Strangely all you can see around here are guards.  No citizens
+are about the town.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39045 0 0
+~
+~
+Door 3 0 0 39051 0 0
+~
+~
+End
+
+#39047
+Name Road of Wisdom~
+Descr
+The road heads steadily south east here.  Toward the city dump, from
+which a horrible smell comes.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39045 0 0
+~
+~
+Door 1 0 0 39048 0 0
+~
+~
+End
+
+#39048
+Name Road of Wisdom~
+Descr
+The road heads steadily south east here.  Toward the city dump, from
+which a horrible smell comes.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 39049 0 0
+~
+~
+Door 3 0 0 39047 0 0
+~
+~
+End
+
+#39049
+Name Road of Wisdom~
+Descr
+Directly east is the dump, or recycling pit as the Delphaeic people like
+to call it.  The smell here is almost unbearable and you want to be far from
+this place as fast as possible.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39048 0 0
+~
+~
+Door 1 1 0 39050 30 30
+~
+WhiteDoor~
+End
+
+#39050
+Name Recycling Pit~
+Descr
+Yech!  , the smell here is horrible.  Refuse, dirt and uneaten food are
+piled here in large slimy bins.  You feel the ground creak from underneath
+the trash as you walk.  The trash is almost knee-high around here.  Making
+you feel nosious.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 39049 0 0
+~
+~
+Door 5 259 0 39139 30 30
+~
+steelgrateing~
+End
+
+#39051
+Name Intelligence Avenue~
+Descr
+Intelligence avenue leads west from here, towards the main commerce area
+of the town.  Strangely all you can see around here are guards.  No citizens
+are about the town.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39046 0 0
+~
+~
+Door 3 0 0 39052 0 0
+~
+~
+End
+
+#39052
+Name Intelligence Avenue~
+Descr
+To the east is the Armorer and Weaponer of the town.  The evil presence
+you have felt since coming here suddenly returns now stronger then before.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39051 0 0
+~
+~
+Door 3 0 0 39053 0 0
+~
+~
+End
+
+#39053
+Name Corner of Intelligence Avenue~
+Descr
+Directly to the south the tunnel brightens again.  The walls begin to
+give off the strange white light again.  Far off to the south you can hear a
+bubbling fountain.  To the north and east are the armorer and weaponer of
+Delphaeus.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 39054 30 30
+~
+OakenDoor~
+Door 1 0 0 39052 0 0
+~
+~
+Door 2 0 0 39055 0 0
+~
+~
+Door 3 3 0 39056 30 30
+~
+Oak Door~
+End
+
+#39054
+Name Worgaent's Store of Protection~
+Descr
+Worgaent's armory is a small underfurnished building in disrepair. 
+Worgaent himself is a scragly looking, greasy man who needs a set of false
+teeth.  It looks as if he doesnt get much business here.  
+~
+Flags 4
+Sector 0
+Reset M 39208 1 100
+Reset O 221 -1 25
+Reset O 227 -1 25
+Reset O 232 -1 24
+Door 2 3 0 39053 30 30
+~
+OakenDoor~
+End
+
+#39055
+Name Glowing Ruined Halls~
+Descr
+A long glowing hallway leading south towards the main sqaure of
+Delphaeus.  The evil presence steadily grow as you near the fountain.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39053 0 0
+~
+~
+Door 2 0 0 39057 0 0
+~
+~
+End
+
+#39056
+Name Saeta's Sharp Swords and Daggers~
+Descr
+The weaponer of Delphae is a huge woman.  Who looks the match for almost
+any man who could oppose her.  Her wares themselves are not very good but
+she looks like she has once had better business.  Now must not be a very
+good time for the Delphae.  
+~
+Flags 4
+Sector 0
+Reset M 39207 1 100
+Reset O 237 -1 68
+Door 1 3 0 39053 30 30
+~
+Oakdoor~
+End
+
+#39057
+Name Glowing Ruined Halls~
+Descr
+A long glowing hallway leading south towards the main sqaure of
+Delphaeus.  The evil presence steadily grow as you near the fountain.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39055 0 0
+~
+~
+Door 2 0 0 39058 0 0
+~
+~
+End
+
+#39058
+Name Glowing Ruined Halls~
+Descr
+A long glowing hallway leading south towards the main sqaure of
+Delphaeus.  The evil presence steadily grow as you near the fountain.  
+~
+Flags 4
+Sector 0
+Reset M 39209 20 100
+Reset M 39209 20 100
+Door 0 0 0 39057 0 0
+~
+~
+Door 2 0 0 39059 0 0
+~
+~
+End
+
+#39059
+Name North of Delphaeus Sqaure~
+Descr
+Directly to the south is the main square of Delphaus.  The evil presence
+is overpoweringly strong here.  Almost as if from the fountain itself, yet
+not.  
+~
+Flags 4
+Sector 0
+Reset M 39209 20 100
+Reset M 39209 20 100
+Door 0 0 0 39058 0 0
+~
+~
+Door 2 0 0 39060 0 0
+~
+~
+End
+
+#39060
+Name Main Square of Delphaeus~
+Descr
+The main sqaure of Dephaeus is deceptively cheery ing.  Flowers adorn the
+rocks around the fountain.  It's more of a pool actually.  Deep within its
+waters you feel the evil presence, as strong as you have ever felt it.  It
+seems as if this is the place all the evil in the world is focused on.  The
+source of it all.  
+~
+Flags 3145732
+Sector 0
+Reset M 39209 20 100
+Reset M 39209 20 100
+Reset O 39252 -5 100
+Door 0 0 0 39059 0 0
+~
+~
+Door 1 0 0 39061 0 0
+~
+~
+Door 2 0 0 39067 0 0
+~
+~
+Door 5 259 0 39159 30 30
+~
+FountainSlab~
+End
+
+#39061
+Name East of Delphaeic Fountain~
+Descr
+To the west is the main sqaure of Delphaeus.  Directly to the east is the
+old run down market, populated only by a lone man selling fruit.  
+~
+Flags 6
+Sector 0
+Door 1 0 0 39062 0 0
+~
+~
+Door 3 0 0 39060 0 0
+~
+~
+End
+
+#39062
+Name Market~
+Descr
+The old market of Delphaeus is now only 1 stand in size, Fraenus is here
+doing petty magic tricks and selling fruit to the odd guard that saunters
+by.  Without the citizens of Delphaeus he will soon go broke.  
+~
+Flags 4
+Sector 0
+Reset M 39212 1 100
+Reset O 39258 -1 100
+Reset O 39257 -1 100
+Door 3 0 0 39061 0 0
+~
+~
+End
+
+#39063
+Name Daena's Magic Shop~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 3 0 39062 30 30
+~
+WhiteDoor~
+End
+
+#39064
+Name Market~
+Descr
+~
+Flags 6
+Sector 0
+Door 0 0 0 39062 0 0
+~
+~
+Door 1 0 0 39065 0 0
+~
+~
+End
+
+#39065
+Name Market~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 39066 0 0
+~
+~
+End
+
+#39066
+Name Market~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 39212 1 100
+Reset O 39258 -1 100
+Reset O 39257 -1 100
+End
+
+#39067
+Name A Glowing Hallway~
+Descr
+This is the gate to the civilized area's of Delphaeus.  For some reason
+the gate has been double barred and locked.  From the inside!.  The
+civilians of Delphaeus have been frightened by soemthing and have left the
+guards to hold there city from whatever it is.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39060 0 0
+~
+~
+Door 2 0 0 39068 0 0
+~
+~
+Door 3 7 0 39200 115 115
+~
+City Door~
+End
+
+#39068
+Name East Of Mazes~
+Descr
+To the east lies a great gateway.  The palace mazes keep unwanted
+visitors out, and the King in.  Another oddity of this underground city.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39067 0 0
+~
+~
+Door 3 0 0 39069 0 0
+~
+~
+End
+
+#39069
+Name Gates of Palace Maze~
+Descr
+The stone gates of the maze are cracked and worn.  The sound of some huge
+creature walking the maze can be heard from here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39068 0 0
+~
+~
+Door 3 3 0 39070 30 30
+~
+MithrilGate~
+End
+
+#39070
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  Although a great danger is felt here.  
+~
+Flags 4
+Sector 0
+Door 1 3 0 39069 30 30
+~
+MithrilGate~
+Door 3 0 0 39071 0 0
+~
+~
+End
+
+#39071
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  Although a great danger is felt here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39070 0 0
+~
+~
+Door 3 0 0 39072 0 0
+~
+~
+End
+
+#39072
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  Although a great danger is felt here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39074 0 0
+~
+~
+Door 1 0 0 39071 0 0
+~
+~
+Door 2 0 0 39075 0 0
+~
+~
+Door 3 0 0 39073 0 0
+~
+~
+End
+
+#39073
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  A slight draft is felt to the south.  
+~
+Flags 4
+Sector 0
+Reset M 39214 1 100
+Reset M 39213 1 100
+Door 1 0 0 39072 0 0
+~
+~
+Door 2 259 0 39076 30 30
+~
+slidingwall~
+Door 3 0 0 39070 0 0
+~
+~
+End
+
+#39074
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  Although a great danger is felt here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39075 0 0
+~
+~
+Door 2 0 0 39072 0 0
+~
+~
+End
+
+#39075
+Name Maze~
+Descr
+The stone maze is dry and dusty.  No life except for the great creature
+that guards it can be noticed.  Although a great danger is felt here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39072 0 0
+~
+~
+Door 2 0 0 39074 0 0
+~
+~
+End
+
+#39076
+Name Hidden Hallway~
+Descr
+The hidden hallway behind the walls of the maze leads south towards a
+great palace.  Servents of the king run errands back and forth to the city,
+somehow bypassing the creature of the maze.  
+~
+Flags 4
+Sector 0
+Door 0 259 0 39073 30 30
+~
+slidingwall~
+Door 2 0 0 39077 0 0
+~
+~
+End
+
+#39077
+Name Hidden Hallway~
+Descr
+The hidden hallway behind the walls of the maze leads south towards a
+great palace.  Servents of the king run errands back and forth to the city,
+somehow bypassing the creature of the maze.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39076 0 0
+~
+~
+Door 3 0 0 39078 0 0
+~
+~
+End
+
+#39078
+Name Before the Palace Gates~
+Descr
+Before you stand the palace gates.  The King of the Delphae is sickly and
+all care has been taken to preserve his life.  You have a feeling this is a
+doomed race.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 39077 0 0
+~
+~
+Door 3 3 0 39079 30 30
+~
+Gate~
+End
+
+#39079
+Name The Palace Gates~
+Descr
+The guard post inside the palace gates is full of slightly bored looking
+gate guards.  They look to have not seen a battle in many years.  
+~
+Flags 4
+Sector 0
+Reset M 39236 3 100
+Reset M 39236 3 100
+Reset M 39236 3 100
+Door 1 3 0 39078 30 30
+~
+Gate~
+Door 3 3 0 39080 30 30
+~
+Gate~
+End
+
+#39080
+Name Before Throne Room~
+Descr
+To the west is the great throne room of the King.  Southward you can hear
+the clash of swords, so there must lie a guardpost of sorts.  Northward is a
+deadend wall.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39081 0 0
+~
+~
+Door 1 0 0 39079 0 0
+~
+~
+Door 2 0 0 39098 0 0
+~
+~
+Door 3 3 0 39104 30 30
+~
+Golden Door~
+End
+
+#39081
+Name East Wall~
+Descr
+A deadend wall leads to nowhere, everywhere and elsewhere here.  Then
+again its just a deadend.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 39080 0 0
+~
+~
+End
+
+#39082
+Name East Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 39081 0 0
+~
+~
+End
+
+#39083
+Name East Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 39084 0 0
+~
+~
+Door 2 0 0 39082 0 0
+~
+~
+End
+
+#39084
+Name East Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 39085 0 0
+~
+~
+Door 2 0 0 39083 0 0
+~
+~
+End
+
+#39085
+Name North East Corner~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 39084 0 0
+~
+~
+Door 3 0 0 39086 0 0
+~
+~
+End
+
+#39086
+Name Northern Castle Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39085 0 0
+~
+~
+Door 3 0 0 39087 0 0
+~
+~
+End
+
+#39087
+Name Northern Castle Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39086 0 0
+~
+~
+Door 3 0 0 39088 0 0
+~
+~
+End
+
+#39088
+Name Northern Castle Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39087 0 0
+~
+~
+Door 3 0 0 39089 0 0
+~
+~
+End
+
+#39089
+Name North Western Corner~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39088 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#39094
+Name South West Corner~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 39095 0 0
+~
+~
+Door 1 0 0 39096 0 0
+~
+~
+End
+
+#39095
+Name West Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 39094 0 0
+~
+~
+End
+
+#39096
+Name Southern Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39097 0 0
+~
+~
+Door 3 0 0 39094 0 0
+~
+~
+End
+
+#39097
+Name Southern Wall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 39102 0 0
+~
+~
+Door 3 0 0 39096 0 0
+~
+~
+End
+
+#39098
+Name East Wall~
+Descr
+You walk along a dusty path by the eastern palace wall.  The guardpost
+directly south is full of people.  The guards are all bored and practice
+there weaponry with little enthusiam.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 39080 0 0
+~
+~
+Door 2 0 0 39103 0 0
+~
+~
+End
+
+#39099
+Name Barracks~
+Descr
+Here the only guards that look worth anything sit.  Laeosador the guard
+captain and champion of the king, and his two elite guardsmen.  All in full
+armor and carrying ugly looking swords.  Better to leave these three alone. 
+~
+Flags 4
+Sector 0
+Reset M 39216 1 100
+Reset O 39277 -1 1
+Reset M 39217 2 100
+Reset M 39217 2 100
+Door 0 0 0 39101 0 0
+~
+~
+Door 3 0 0 39100 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

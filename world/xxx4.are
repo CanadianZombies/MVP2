@@ -1,0 +1,1581 @@
+#AREADATA 
+Name Black Wicked~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe air stirs around you.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Titan~
+VNUMs 43001 43200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#43001
+Name field worm~
+Short a field worm~
+Long 
+A fat, ugly looking worm chews through the field.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 49
+ActBits3 589824
+Money 13
+Level 13
+MobType 18
+Guard 0
+End
+
+#43002
+Name giant black locust~
+Short a black locust~
+Long 
+There is a giant black locust here eating the grass.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 17
+ActBits3 65536
+Affect_By 1073774592
+Money 19
+Level 19
+MobType 18
+Guard 0
+ArmorClass -30
+End
+
+#43003
+Name graug~
+Short Graug~
+Long 
+Graug the bog hog lies like a log here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108917
+ActBits3 4202496
+Affect_By 40
+Alignment -400
+Money 30
+Level 30
+MobType 18
+Guard 0
+ArmorClass -120
+End
+
+#43004
+Name black beetle~
+Short a black beetle~
+Long 
+There is a huge black beetle crawling around here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 536870929
+Affect_By 32768
+Money 23
+Level 23
+MobType 8
+Guard 0
+ArmorClass -43
+End
+
+#43005
+Name glowing eyes shadow skulk~
+Short a shadow skulk~
+Long 
+You can see glowing eyes in the shadows.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 100663297
+ActBits3 524288
+Affect_By 1075871744
+Money 28
+Level 28
+MobType 21
+Guard 0
+End
+
+#43006
+Name lava golem~
+Short a lava golem~
+Long 
+A blob of lava shaped like a giant glares at you.
+~
+Descr
+A huge lava golem made of magma by some supernatural force stands
+tall before you.  With eyes of fire, and body flowing of magma, it
+looks devilish and invincible.
+~
+AMax 3
+NHeight 0
+ActBits 9
+ActBits3 524288
+Affect_By 544
+Money 39
+Level 39
+MobType 10
+Guard 0
+Spec spec_warrior
+ArmorClass -120
+End
+
+#43007
+Name guardian lava knight PRTCT~
+Short the lava knight~
+Long 
+Before you stands the guardian knight of the lava plains.
+~
+Descr
+A black knight encased in lava glass armor, he seeks to protect the lava
+plains from intruding visitors.  As the guardian knight, he will do
+what ever it takes to keep unwanted passer-bys from disrupting the
+tranquility of the lava land.
+~
+AMax 1
+NHeight 0
+ActBits 671088643
+ActBits3 4194304
+Affect_By 134218376
+Alignment -400
+Money 67
+Level 67
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+ArmorClass -35
+End
+
+#43008
+Name condor~
+Short a condor~
+Long 
+You see a condor flying in the sky.
+~
+Descr
+A bird of fire and rage, it flies into the sky like flames rising from
+the lava.
+~
+AMax 1
+NHeight 0
+ActBits 536870913
+Affect_By 524840
+Money 44
+Level 44
+MobType 13
+Guard 0
+ArmorClass -70
+End
+
+#43009
+Name ugly red fire roach~
+Short a fire roach~
+Long 
+An ugly red roach is scavenging for food.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 21
+Money 9
+Level 9
+MobType 8
+Guard 0
+End
+
+#43010
+Name blazing fire jackal AONE~
+Short a fire jackal~
+Long 
+A blazing jackal sits at its master's feet.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 738197507
+ActBits3 786436
+Money 29
+Level 29
+MobType 6
+Guard 43007
+End
+
+#0
+
+
+
+#OBJDATA
+#43001
+Name sign~
+Short a sign~
+Descr
+There is a sign here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the very disorienting field of dreams!
+
+Please do not feed the local wildlife, as this is a
+
+local preserve.  Graug might not like you much if you do.
+
+ 
+
+Also, do not enter the black forest.  It will only lead
+
+to death.  Many have entered, but few have returned.
+
+~
+End
+
+#43002
+Name leather whip~
+Short a leather KinKy whip~
+Descr
+There is a leather whip lying on the ground.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 4 0 0 0 1 6 0
+Weight 3
+Cost 140
+End
+
+#43003
+Name silhoutte shadow sword~
+Short a shadow of a sword~
+Descr
+There is a silhoutte of a sword on the ground.
+[0;36m~
+Type 5
+Extra 4194816
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 3 0 0 0 2 4 0
+Weight 0
+Cost 0
+End
+
+#43004
+Name black lava glass shield~
+Short a shield made of lava glass~
+Descr
+There is a black shield made of lava glass here.
+[0;36m~
+Type 9
+Extra 2576
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 1 0 0 140 140 0 0
+Weight 20
+Cost 2605
+Affect 2 1 1 0 0
+End
+
+#43005
+Name black sword lava glass~
+Short a sword made of lava glass~
+Descr
+There is a black sword made of lava glass on the ground.
+[0;36m~
+Type 5
+Extra 264720
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 3 0 0 0 4 4 0
+Weight 10
+Cost 1500
+Affect 19 1 1 0 0
+End
+
+#43110
+Name juror~
+Short OJ's gloves~
+Descr
+A bloody glove of OJ is here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#43111
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#43001
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43003 30 30
+~
+door~
+Door 1 0 0 43002 30 30
+~
+door~
+Door 3 0 0 43004 30 30
+~
+door~
+End
+
+#43002
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43001 3 90
+Door 0 0 0 43006 30 30
+~
+door~
+Door 1 0 0 43005 30 30
+~
+door~
+Door 3 0 0 43001 30 30
+~
+door~
+End
+
+#43003
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 1 0 0 43004 30 30
+~
+door~
+Door 2 0 0 43001 30 30
+~
+door~
+Door 3 0 0 43018 30 30
+~
+door~
+End
+
+#43004
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43001 6 80
+Door 0 0 0 43017 30 30
+~
+door~
+Door 1 0 0 43001 30 30
+~
+door~
+Door 3 0 0 43003 30 30
+~
+door~
+End
+
+#43005
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43008 30 30
+~
+door~
+Door 1 0 0 43007 30 30
+~
+door~
+Door 3 0 0 43002 30 30
+~
+door~
+End
+
+#43006
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 1 0 0 43008 30 30
+~
+door~
+Door 2 0 0 43002 30 30
+~
+door~
+End
+
+#43007
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43002 4 70
+Door 0 0 0 43010 30 30
+~
+door~
+Door 3 0 0 43005 30 30
+~
+door~
+End
+
+#43008
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 1 0 0 43010 30 30
+~
+door~
+Door 2 0 0 43005 30 30
+~
+door~
+Door 3 0 0 43006 30 30
+~
+door~
+End
+
+#43009
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43011 30 30
+~
+door~
+Door 1 0 0 43013 30 30
+~
+door~
+End
+
+#43010
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43029 30 30
+~
+door~
+Door 1 0 0 43014 30 30
+~
+door~
+Door 2 0 0 43007 30 30
+~
+door~
+Door 3 0 0 43008 30 30
+~
+door~
+End
+
+#43011
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43012 30 30
+~
+door~
+Door 2 0 0 43009 30 30
+~
+door~
+End
+
+#43012
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43013 30 30
+~
+door~
+Door 2 0 0 43011 30 30
+~
+door~
+End
+
+#43013
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43009 15 90
+Door 0 0 0 43014 30 30
+~
+door~
+Door 2 0 0 43012 30 30
+~
+door~
+Door 3 0 0 43009 30 30
+~
+door~
+End
+
+#43014
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43015 30 30
+~
+door~
+Door 2 0 0 43013 30 30
+~
+door~
+Door 3 0 0 43010 30 30
+~
+door~
+End
+
+#43015
+Name field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 2 0 0 43014 30 30
+~
+door~
+Door 3 0 0 43029 30 30
+~
+door~
+End
+
+#43016
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+To the east you can see an opening into a very dark forest.
+~
+Door 0 0 0 43022 30 30
+~
+door~
+Door 1 0 0 43031 30 30
+~
+door~
+Door 2 0 0 43004 30 30
+~
+door~
+Door 3 0 0 43030 30 30
+~
+door~
+End
+
+#43017
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43001 5 80
+Door 0 0 0 43019 30 30
+~
+door~
+Door 1 0 0 43019 30 30
+~
+door~
+Door 2 0 0 43004 30 30
+~
+door~
+Door 3 0 0 43026 30 30
+~
+door~
+End
+
+#43018
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43002 5 80
+Door 0 0 0 43020 30 30
+~
+door~
+Door 1 0 0 43003 30 30
+~
+door~
+Door 2 0 0 43017 30 30
+~
+door~
+Door 3 0 0 43019 30 30
+~
+door~
+End
+
+#43019
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43004 4 90
+Door 1 0 0 43018 30 30
+~
+door~
+Door 2 0 0 43017 30 30
+~
+door~
+Door 3 0 0 43017 30 30
+~
+door~
+End
+
+#43020
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43004 4 80
+Door 0 0 0 43021 30 30
+~
+door~
+Door 1 0 0 43022 30 30
+~
+door~
+Door 2 0 0 43018 30 30
+~
+door~
+End
+
+#43021
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43002 6 60
+Door 1 0 0 43023 30 30
+~
+door~
+Door 2 0 0 43020 30 30
+~
+door~
+End
+
+#43022
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43001 5 70
+Door 0 0 0 43023 30 30
+~
+door~
+Door 1 0 0 43024 30 30
+~
+door~
+Door 2 0 0 43016 30 30
+~
+door~
+Door 3 0 0 43020 30 30
+~
+door~
+End
+
+#43023
+Name Field Opening~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+To the east is a small path leading away from the fields.
+~
+Reset O 43001 -5 100
+Door 0 0 0 43026 30 30
+~
+door~
+Door 1 0 0 8488 30 30
+~
+door~
+Door 2 0 0 43022 30 30
+~
+door~
+Door 3 0 0 43021 30 30
+~
+door~
+End
+
+#43024
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43004 5 80
+Door 0 0 0 43025 30 30
+~
+door~
+Door 1 0 0 43026 30 30
+~
+door~
+Door 3 0 0 43022 30 30
+~
+door~
+End
+
+#43025
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43002 4 60
+Door 1 0 0 43027 30 30
+~
+door~
+Door 2 0 0 43028 30 30
+~
+door~
+End
+
+#43026
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43001 4 70
+Door 1 0 0 43017 30 30
+~
+door~
+Door 2 0 0 43023 30 30
+~
+door~
+Door 3 0 0 43024 30 30
+~
+door~
+End
+
+#43027
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43009 10 85
+Door 3 0 0 43025 30 30
+~
+door~
+End
+
+#43028
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43025 30 30
+~
+door~
+Door 1 0 0 43029 30 30
+~
+door~
+End
+
+#43029
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Door 0 0 0 43030 30 30
+~
+door~
+Door 1 0 0 43015 30 30
+~
+door~
+Door 2 0 0 43010 30 30
+~
+door~
+Door 3 0 0 43028 30 30
+~
+door~
+End
+
+#43030
+Name Field~
+Descr
+You are in a wide open field, with tall dry grass swaying in the wind.
+~
+Reset M 43003 1 70
+Reset O 43002 21 80
+Door 1 0 0 43016 30 30
+~
+door~
+Door 2 0 0 43029 30 30
+~
+door~
+End
+
+#43031
+Name Black Tall Trees~
+Descr
+You seem to have entered a rather dark forest.  In fact, it's very
+dark in here.  There's not much sound around either.  You can't
+even hear yourself breath, let alone what you're saying.
+~
+Flags 34823
+Shd 1
+Reset O 43003 21 100
+Door 1 0 0 43032 30 30
+~
+door~
+Door 3 0 0 43016 30 30
+~
+door~
+End
+
+#43032
+Name Black Tall Trees~
+Descr
+The forest makes the area even darker than the entrance.  You can't
+even see the opening of the forest.  It's as if the trees are absorbing
+all light and goodness.
+~
+Flags 32773
+Shd 1
+Reset M 43005 1 60
+Reset O 43003 21 100
+Door 2 0 0 43033 30 30
+~
+door~
+Door 3 0 0 43031 30 30
+~
+door~
+End
+
+#43033
+Name Black Tall Trees~
+Descr
+As the trees block all other passages but north and south, you feel more
+and more oppressed by the blackness of this forest.  There is a sense
+of danger and presence unseen and unheard.
+~
+Flags 32773
+Shd 1
+Door 0 0 0 43032 30 30
+~
+door~
+Door 2 0 0 43034 30 30
+~
+door~
+End
+
+#43034
+Name Black Tall Trees~
+Descr
+The forest continues to twist to the east, taking you further into
+the depths of darkness.
+~
+Flags 32773
+Shd 1
+Reset M 43005 1 80
+Reset M 43005 1 70
+Door 0 0 0 43033 30 30
+~
+door~
+Door 1 0 0 43035 30 30
+~
+door~
+End
+
+#43035
+Name Black Tall Trees~
+Descr
+The trees allow the sounds to go, letting you hear yourself again.
+This comforts you, now that you know you exist.
+~
+Flags 5
+Shd 1
+Door 1 0 0 43036 30 30
+~
+door~
+Door 3 0 0 43034 30 30
+~
+door~
+End
+
+#43036
+Name Black Tall Trees~
+Descr
+It's still rather dark in this forest, but some light can be seen
+to the south.
+~
+Flags 5
+Shd 1
+Door 2 0 0 43037 30 30
+~
+door~
+Door 3 0 0 43035 30 30
+~
+door~
+End
+
+#43037
+Name Out of Black Forest~
+Descr
+You've come out of the Black Forest, onto the other side.  Ahead of you
+lies a great wasteland, lava pits boiling over to devour you!
+~
+Flags 2050
+Shd 1
+Door 0 0 0 43036 30 30
+~
+door~
+Door 2 0 0 43038 30 30
+~
+door~
+End
+
+#43038
+Name Great Lava Plains~
+Descr
+All around you see the bubbling of lava in large pits.  The heat from
+the magma makes you want to turn back into the cold forest.  A narrow
+lavastone path leads to the south.
+~
+Door 0 0 0 43037 30 30
+~
+door~
+Door 2 0 0 43039 30 30
+~
+door~
+End
+
+#43039
+Name Great Lava Plains~
+Descr
+As the narrow path bends to the east, you wonder if you can withstand
+going deeper into the plains.  The heat is most unbearable.
+~
+Door 0 0 0 43038 30 30
+~
+door~
+Door 1 0 0 43040 30 30
+~
+door~
+End
+
+#43040
+Name Great Lava Plains~
+Descr
+The lava flows ahead of you, while the path steers you to the south.
+Magma is all around, so you better not slip.
+~
+Door 2 0 0 43041 30 30
+~
+door~
+Door 3 0 0 43039 30 30
+~
+door~
+End
+
+#43041
+Name Great Lava Plains~
+Descr
+The path breaks to the east and continues to the south.  Once again
+the heat of the lava rises all around you.
+~
+Door 0 0 0 43040 30 30
+~
+door~
+Door 1 0 0 43042 30 30
+~
+door~
+Door 2 0 0 43047 30 30
+~
+door~
+End
+
+#43042
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 1 0 0 43043 30 30
+~
+door~
+Door 3 0 0 43041 30 30
+~
+door~
+End
+
+#43043
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43044 30 30
+~
+door~
+Door 3 0 0 43042 30 30
+~
+door~
+End
+
+#43044
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43045 30 30
+~
+door~
+Door 2 0 0 43043 30 30
+~
+door~
+End
+
+#43045
+Name Great Lava Plains~
+Descr
+The path bends to the west, with nothing but lava all around.
+~
+Door 2 0 0 43044 30 30
+~
+door~
+Door 3 0 0 43046 30 30
+~
+door~
+End
+
+#43046
+Name End of Lava Path~
+Descr
+The path ends here, leaving you surrounded by lava pits.
+~
+Reset M 43008 2 80
+Door 1 0 0 43045 30 30
+~
+door~
+End
+
+#43047
+Name Great Lava Plains~
+Descr
+The path bends to the west, with nothing but lava all around.
+~
+Door 0 0 0 43041 30 30
+~
+door~
+Door 3 0 0 43048 30 30
+~
+door~
+End
+
+#43048
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Reset M 43006 1 100
+Door 1 0 0 43047 30 30
+~
+door~
+Door 2 0 0 43049 30 30
+~
+door~
+End
+
+#43049
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43048 30 30
+~
+door~
+Door 2 0 0 43050 30 30
+~
+door~
+End
+
+#43050
+Name Great Lava Plains~
+Descr
+You arrive at a junction, with paths leading north, east, and west.
+The path follows more lava pits, with a massive lava field to the
+south.
+~
+Door 0 0 0 43049 30 30
+~
+door~
+Door 1 0 0 43051 30 30
+~
+door~
+Door 3 0 0 43056 30 30
+~
+door~
+End
+
+#43051
+Name Great Lava Plains~
+Descr
+There is a vast lava field to the south, but the path continues east
+and west.  To the east, you can see a larger clearing.
+~
+Door 1 0 0 43052 30 30
+~
+door~
+Door 3 0 0 43050 30 30
+~
+door~
+End
+
+#43052
+Name Great Lava Plains Clearing~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 0 0 0 43055 30 30
+~
+door~
+Door 1 0 0 43053 30 30
+~
+door~
+Door 3 0 0 43051 30 30
+~
+door~
+End
+
+#43053
+Name Great Lava Plains Clearing~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Reset M 43006 3 70
+Door 0 0 0 43054 30 30
+~
+door~
+Door 3 0 0 43052 30 30
+~
+door~
+End
+
+#43054
+Name Great Lava Plains Clearing~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 2 0 0 43053 30 30
+~
+door~
+Door 3 0 0 43055 30 30
+~
+door~
+End
+
+#43055
+Name Great Lava Plains Clearing~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 1 0 0 43054 30 30
+~
+door~
+Door 2 0 0 43052 30 30
+~
+door~
+End
+
+#43056
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 1 0 0 43050 30 30
+~
+door~
+Door 3 0 0 43057 30 30
+~
+door~
+End
+
+#43057
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 1 0 0 43056 30 30
+~
+door~
+Door 3 0 0 43058 30 30
+~
+door~
+End
+
+#43058
+Name Great Lava Plains~
+Descr
+The path goes north and east, with the vast lava field to the south
+and west.  Stay on the path, or you're fried chicken!
+~
+Door 0 0 0 43059 30 30
+~
+door~
+Door 1 0 0 43057 30 30
+~
+door~
+End
+
+#43059
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43060 30 30
+~
+door~
+Door 2 0 0 43058 30 30
+~
+door~
+End
+
+#43060
+Name Great Lava Plains~
+Descr
+To the north you can see a clearing, but there is a large lava pit
+in your way.  The path does continue to the east and south.  To the
+west a large lava field bubbles and rages.
+~
+Reset M 43006 3 80
+Door 1 0 0 43061 30 30
+~
+door~
+Door 2 0 0 43059 30 30
+~
+door~
+End
+
+#43061
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43062 30 30
+~
+door~
+Door 3 0 0 43060 30 30
+~
+door~
+End
+
+#43062
+Name Great Lava Plains~
+Descr
+There are lava pits all around you, bubbling and swirling, releasing
+gasses into the air.  The heat is most unbearable.  Who could survive
+such a place.
+~
+Door 0 0 0 43063 30 30
+~
+door~
+Door 2 0 0 43061 30 30
+~
+door~
+End
+
+#43063
+Name Great Lava Plains~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 0 0 0 43064 30 30
+~
+door~
+Door 2 0 0 43062 30 30
+~
+door~
+Door 3 0 0 43066 30 30
+~
+door~
+End
+
+#43064
+Name Great Lava Plains~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 2 0 0 43063 30 30
+~
+door~
+Door 3 0 0 43065 30 30
+~
+door~
+End
+
+#43065
+Name Great Lava Plains~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Reset M 43007 1 100
+Reset M 43010 4 90
+Reset M 43010 4 90
+Reset M 43010 4 90
+Reset M 43010 4 90
+Door 1 0 0 43064 30 30
+~
+door~
+Door 2 0 0 43066 30 30
+~
+door~
+End
+
+#43066
+Name Great Lava Plains~
+Descr
+You've reach a wide flat area of lava glass.  The area is made of
+hardened lava, with sharp jagged edges, and the blackness of space.
+~
+Door 0 0 0 43065 30 30
+~
+door~
+Door 1 0 0 43063 30 30
+~
+door~
+End
+
+#43067
+Name Dirt Trail~
+Descr
+You are on a long, well worn dirt path.  There are trees and fields
+around you, leaving a sense of calm and serenity.
+~
+Door 2 0 0 43068 0 0
+~
+~
+End
+
+#43068
+Name Dirt Trail~
+Descr
+You are on a long, well worn dirt path.  There are trees and fields all
+around you, leaving a sense of calm and serenity.
+~
+Door 0 0 0 43067 0 0
+~
+~
+Door 1 0 0 43069 0 0
+~
+~
+End
+
+#43069
+Name Dirt Trail~
+Descr
+You are on a long, well worn dirt path.  There are trees and fields all
+around you, leaving a sense of calm and serenity.
+~
+Door 1 0 0 43070 0 0
+~
+~
+Door 3 0 0 43068 0 0
+~
+~
+End
+
+#43070
+Name Dirt Trail~
+Descr
+You are on a long, well worn dirt path.  There are trees and fields all
+around you, leaving a sense of calm and serenity.
+~
+Door 1 0 0 43071 0 0
+~
+~
+Door 3 0 0 43069 0 0
+~
+~
+End
+
+#43071
+Name Dirt Trail~
+Descr
+You are on a long, well worn dirt path.  There are trees and fields all
+around you, leaving a sense of calm and serenity.
+~
+Door 1 0 0 43072 0 0
+~
+~
+Door 3 0 0 43070 0 0
+~
+~
+End
+
+#43072
+Name Dirt Trail~
+Descr
+The dirt seems a bit more hard packed here.  The weather is getting a bit
+chilly also.  You've been traveling for days on this trail, and it still
+seems quiet and serene.
+~
+Door 1 0 0 43073 0 0
+~
+~
+Door 3 0 0 43071 0 0
+~
+~
+End
+
+#43073
+Name Dirt Trail~
+Descr
+As you continue to the east, the air gets crisper and you feel your
+energy sour as the freshness enters into you.  The quiet surrounding
+landscape helps build vitality into your soul.
+~
+Door 1 0 0 43074 0 0
+~
+~
+Door 3 0 0 43072 0 0
+~
+~
+End
+
+#43074
+Name End of Trail~
+Descr
+The trail becomes cobbled with stones, as a strange looking castle enters
+into view.  In the far distance, you see the top of a very large building,
+what could only be a castle, and yet it's no kind of castle you've ever seen.
+~
+Door 1 0 0 43075 0 0
+~
+~
+Door 3 0 0 43073 0 0
+~
+~
+End
+
+#43075
+Name Stone Pathway~
+Descr
+The road is well paved, and the road travels east to west.  You can see
+local inhabitants traveling the road as they go about their lives.  They
+all seem to be coming and going from the building up ahead.  But these
+humans are strange in their appearance.  They do not look like the western
+humans.
+~
+Door 1 0 0 43076 0 0
+~
+~
+Door 3 0 0 43074 0 0
+~
+~
+End
+
+#43076
+Name Stone Pathway~
+Descr
+Now the building comes into a much better view.  In fact, it's not just
+a building, but it's a large city, with the building at the center, or at
+least from what you can see.  And the building must be a castle of some sort
+because of its enormity.
+~
+Door 1 0 0 43077 0 0
+~
+~
+Door 3 0 0 43075 0 0
+~
+~
+End
+
+#43077
+Name Near Suz-Uki City Walls~
+Descr
+Having travelled for a long time, you finally notice that your are
+in a new and strange land.  You have come to the O'Rient, a land
+filled with strange humanoids and dialect.  Before you stands a grand
+wall, with sweeping curves on the tops of the walls, clay red tiles
+layered over the brick walls.  A huge double wooden gate appears to
+be the only entrance into the bustling city within.
+~
+Door 1 0 0 43078 0 0
+~
+~
+Door 3 0 0 43076 0 0
+~
+~
+End
+
+#43078
+Name Market Court~
+Descr
+You seem to be at the beginning of a large market.  Much activity is
+happening, with people buying and selling their goods to one another.
+The people seem to beckon you to try their goods, and buy as much as
+you want, or can.
+~
+Door 1 1 0 43079 30 30
+~
+gate~
+Door 3 0 0 43077 0 0
+~
+~
+End
+
+#43079
+Name Market Court~
+Descr
+More pop-up shops and blanket storefronts line the street.  Fruits and
+vegetables, meats, baked goods, strange brews, you name it.  There are
+even furnitures and other goods being sold by these people.  If you're
+looking for a bargain, this is the place to be.
+~
+Door 3 1 0 43078 30 30
+~
+gate~
+End
+
+#0
+
+
+
+#$

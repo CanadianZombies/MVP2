@@ -1,0 +1,714 @@
+#AREADATA 
+Name More Highway~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 25901 26100
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#25901
+Name warning Mob~
+Short warning mob~
+Long 
+A warning mob stands here Yelling of your approach
+~
+Descr
+~
+AMax 4
+NHeight 84
+ActBits 2
+Affect_By 512
+Money 101
+Level 101
+MobType 11
+Hp 15
+Guard 0
+End
+
+#25902
+Name white yeller~
+Short white warning mob~
+Long 
+A white warning mob stands here warning of your intrution.
+~
+Descr
+~
+AMax 2
+NHeight 84
+ActBits 2
+Affect_By 512
+Money 101
+Level 101
+MobType 11
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#25901
+Name The Western Highway~
+Descr
+This stretch of the highway looks quite recently built and restored, and
+the road looks clean and well-trodden.  The soft soil underfoot makes for
+easy travelling, and you feel care-free and glad to be away from
+civilization.  
+~
+Door 0 0 0 25902 0 0
+~
+~
+Door 1 0 0 3358 0 0
+~
+~
+Door 2 0 0 25903 0 0
+~
+~
+Door 3 0 0 25905 0 0
+~
+~
+End
+
+#25902
+Name A Light Forest Bordering the Road~
+Descr
+You stand in a light forest, just north of the highway.  The trees sway
+slightly in the wind, and you feel lucky to be alive and wandering the
+unexplored, unpopulated regions of the world.  
+~
+Flags 2
+Sector 3
+Door 2 0 0 25901 0 0
+~
+~
+Door 3 0 0 25906 0 0
+~
+~
+End
+
+#25903
+Name A Light Forested Area~
+Descr
+You stand in a lightly forested area, and you can see the western highway
+in plain view to the north.  The air is fresh and clean, and you can hear
+the calm sound of leaves rustling in the gentle breeze.  
+~
+Flags 2
+Sector 3
+Door 0 0 0 25901 0 0
+~
+~
+Door 3 0 0 25904 0 0
+~
+~
+End
+
+#25904
+Name A Light Forested Area~
+Descr
+You stand just south of the western highway, in a clearing of trees and
+grasses.  The trees and grasses look healthy and alive, and you feel mother
+nature's strong presence here.  
+~
+Sector 3
+Door 0 0 0 25905 0 0
+~
+~
+Door 1 0 0 25903 0 0
+~
+~
+Door 3 0 0 25909 0 0
+~
+~
+End
+
+#25905
+Name The Western Highway~
+Descr
+The highway runs east and west here, and a cool breeze blows against your
+face, cooling your tired body.  You can see light forest to the north and
+south of here, and small birds chirp in the branches all around.  
+~
+Door 0 0 0 25906 0 0
+~
+~
+Door 1 0 0 25901 0 0
+~
+~
+Door 2 0 0 25904 0 0
+~
+~
+Door 3 0 0 25908 0 0
+~
+~
+End
+
+#25906
+Name A Light Forest~
+Descr
+You stand in a light forest, just north of the western highway.  Birds
+chirp from unseen hiding places, and the leaves rustle in the wind, creating
+a peaceful surrounding and environment.  
+~
+Sector 3
+Door 1 0 0 25902 0 0
+~
+~
+Door 2 0 0 25905 0 0
+~
+~
+Door 3 0 0 25910 0 0
+~
+~
+End
+
+#25907
+Name A Small Clearing~
+Descr
+This small clearing is tucked away from view, and looks like a great
+place to hide, away from the plain sight of people wandering on the main
+highway.  The air is fresh and clean here.  
+~
+Sector 2
+Door 3 0 0 42826 0 0
+~
+~
+Door 5 0 0 7498 0 0
+~
+~
+End
+
+#25908
+Name The Western Highway~
+Descr
+This stretch of the highway looks quite recently built, and the road
+looks clean and well-trodden.  The soft soil underfoot makes for easy
+travelling, and you feel care-free and glad to be away from civilization.  
+~
+Door 0 0 0 25910 0 0
+~
+~
+Door 1 0 0 25905 0 0
+~
+~
+Door 2 0 0 25909 0 0
+~
+~
+Door 3 0 0 25911 0 0
+~
+~
+End
+
+#25909
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, and you can see the western highway
+in plain view to the north.  The air is fresh and clean, and you can hear
+the calm sound of leaves rustling in the gentle breeze.  
+~
+Sector 3
+Door 0 0 0 25908 0 0
+~
+~
+Door 1 0 0 25904 0 0
+~
+~
+Door 3 0 0 25913 0 0
+~
+~
+End
+
+#25910
+Name A Light Forest~
+Descr
+You stand in a light forest, just north of the western highway.  Birds
+chirp from unseen hiding places, and the leaves rustle in the wind, creating
+a peaceful surrounding and environment.  
+~
+Sector 3
+Door 1 0 0 25906 0 0
+~
+~
+Door 2 0 0 25908 0 0
+~
+~
+Door 3 0 0 0 30 30
+A large thorn bush blocks your way to the west.  
+~
+~
+End
+
+#25911
+Name The Western Highway~
+Descr
+The highway turns to the north and east here, and a light forest can be
+seen just to the south of here.  Birds chirp merrily in the nearby branches,
+hidden in the shadows.  
+~
+Door 0 0 0 25912 0 0
+~
+~
+Door 1 0 0 25908 0 0
+~
+~
+Door 2 0 0 25913 0 0
+~
+~
+End
+
+#25912
+Name The Western Highway~
+Descr
+The western highway curves west and south here, and you can see a field
+of grass just to the north of here.  A gentle breeze cools your tired and
+sweatly body, and you are happy to be away from the bustle of the city.  
+~
+Door 0 0 0 25921 0 0
+~
+~
+Door 1 0 0 0 30 30
+A large thorn bush blocks your way to the east.  
+~
+~
+Door 2 0 0 25911 0 0
+~
+~
+Door 3 0 0 25914 0 0
+~
+~
+End
+
+#25913
+Name A Lightly Forested Area~
+Descr
+You stand in a light forest, just south of the road.  You can see a
+peculiar road that starts up just south of here, that you couldn't quite see
+from the highway.  Perhaps you should go investigate?  
+~
+Sector 3
+Door 0 0 0 25911 0 0
+~
+~
+Door 1 0 0 25909 0 0
+~
+~
+Door 2 0 0 45602 0 0
+~
+~
+End
+
+#25914
+Name The Western Highway~
+Descr
+The highway runs north and east here, and to the northeast you can see a
+field of grass.  The air here is calm, yet cool, and you feel at peace with
+nature and the lands around you.  
+~
+Door 0 0 0 25915 0 0
+~
+~
+Door 1 0 0 25912 0 0
+~
+~
+End
+
+#25915
+Name The Western Highway~
+Descr
+The highway runs west and south here, and a large field of grasses can be
+seen to the east.  A rocky area starts to the north, and you can hear small
+animals rustle the leaves, creating a peaceful crackling noise.  
+~
+Door 0 0 0 25926 0 0
+~
+~
+Door 1 0 0 25921 0 0
+~
+~
+Door 2 0 0 25914 0 0
+~
+~
+Door 3 0 0 25916 0 0
+~
+~
+End
+
+#25916
+Name The Western Highway~
+Descr
+The highway runs east and west here, and you can see a light forest to
+the north.  Large rocks block your way to the south, and create ominous
+shadows on the dirt road upon which you travel.  
+~
+Door 0 0 0 25927 0 0
+~
+~
+Door 1 0 0 25915 0 0
+~
+~
+Door 2 0 0 0 30 30
+Large rocks block your way to the south.  
+~
+~
+Door 3 0 0 25917 0 0
+~
+~
+End
+
+#25917
+Name The Western Highway~
+Descr
+The highway runs east and west here, and you can see a light forest to
+the north.  Large rocks block your way to the south, and create ominous
+shadows on the dirt road upon which you travel.  
+~
+Door 0 0 0 25928 0 0
+~
+~
+Door 1 0 0 25916 0 0
+~
+~
+Door 2 0 0 0 30 30
+Large rocks block your progress to the south.  
+~
+~
+Door 3 0 0 25918 0 0
+~
+~
+End
+
+#25918
+Name The Western Highway~
+Descr
+You stand on a long east-west section of the western highway.  A small
+forested area is just north of here, and a grassy field opens up to the
+south, inviting you to rest and relax in the open air.  
+~
+Door 0 0 0 25929 0 0
+~
+~
+Door 1 0 0 25917 0 0
+~
+~
+Door 2 0 0 25930 0 0
+~
+~
+Door 3 0 0 25919 0 0
+~
+~
+End
+
+#25919
+Name The Western Highway~
+Descr
+You stand on an east-west stretch of the western highway.  Birds and
+other animals make comforting, natural noises around you, and you can see
+light forest to both the north and the south.  
+~
+Door 0 0 0 25933 0 0
+~
+~
+Door 1 0 0 25918 0 0
+~
+~
+Door 2 0 0 25931 0 0
+~
+~
+Door 3 0 0 25920 0 0
+~
+~
+End
+
+#25920
+Name The Western Highway~
+Descr
+You stand on a portion of the western highway the runs east and west.  A
+gentle breeze blows some of the lose topsoil from the highway into the
+grasses, and also into your shoes, making it temporarily uncomfortable to
+walk here.  
+~
+Door 0 0 0 25934 0 0
+~
+~
+Door 1 0 0 25919 0 0
+~
+~
+Door 2 0 0 25932 0 0
+~
+~
+Door 3 0 0 1444 0 0
+~
+~
+End
+
+#25921
+Name A Field of Grass~
+Descr
+This large, lush field of grass sways slightly in the wind, as the
+refreshing breeze constantly blows by.  The air is fresh and smells a bit of
+wild flowers.  You can see the highway to the south and west.  
+~
+Sector 2
+Door 0 0 0 25922 0 0
+~
+~
+Door 2 0 0 25912 0 0
+~
+~
+Door 3 0 0 25915 0 0
+~
+~
+End
+
+#25922
+Name A Path through some Rocks~
+Descr
+This small path leads north, through some rocks.  To the west you can see
+a field, littered with rocks.  To the north, a small, rocky trail begins its
+asvcent up to the top of a small hill.  
+~
+Sector 4
+Door 0 0 0 25923 0 0
+~
+~
+Door 2 0 0 25921 0 0
+~
+~
+Door 3 0 0 25926 0 0
+~
+~
+End
+
+#25923
+Name A Path up a Hill~
+Descr
+This twisty path leads up to the top of a small hill.  Rocks underfoot
+make for rough travelling, but you can't wait to see the view from the top
+of the hill.  
+~
+Sector 4
+Door 1 0 0 25924 0 0
+~
+~
+Door 2 0 0 25922 0 0
+~
+~
+End
+
+#25924
+Name A Path up a Hill~
+Descr
+This twisty path leads up to the top of a small hill.  Rocks underfoot
+make for rough travelling, but you can't wait to see the view from the top
+of the hill.  
+~
+Sector 4
+Door 0 0 0 25925 0 0
+~
+~
+Door 3 0 0 25923 0 0
+~
+~
+End
+
+#25925
+Name Atop a Hill~
+Descr
+You stand atop a high hill, surrounded on all sides but south with
+large, impassable bushes.  The air is fresh up here, and you can see the
+highway in the distance to the southwest, carving its scarred dirt way over
+mother nature's earth.  
+~
+Sector 4
+Door 0 0 0 3361 0 0
+~
+~
+Door 2 0 0 25924 0 0
+~
+~
+End
+
+#25926
+Name A Rocky Clearing~
+Descr
+You stand in a rocky clearing, just north of the western highway.  You
+can see a path through the rocks to the east of here.  A refreshing breeze
+brings the scent of wildflowers from a nearby field.  
+~
+Sector 4
+Door 1 0 0 25922 0 0
+~
+~
+Door 2 0 0 25915 0 0
+~
+~
+Door 3 0 0 0 30 30
+A large boulder blocks your way to the west.  
+~
+~
+End
+
+#25927
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, just north of the highway.  Small
+birds chirp from unseen hiding places amongst the small trees all around
+you.  The air is fresh and smells slightly of wildflowers.  
+~
+Sector 3
+Door 1 0 0 0 30 30
+A large boulder blocks your way to the east.  
+~
+~
+Door 2 0 0 25916 0 0
+~
+~
+Door 3 0 0 25928 0 0
+~
+~
+End
+
+#25928
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, just north of the highway.  Small
+birds chirp from unseen hiding places amongst the small trees all around
+you.  The air is fresh and smells slightly of wildflowers.  
+~
+Sector 3
+Door 1 0 0 25927 0 0
+~
+~
+Door 2 0 0 25917 0 0
+~
+~
+Door 3 0 0 25929 0 0
+~
+~
+End
+
+#25929
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, just north of the highway.  Small
+birds chirp from unseen hiding places amongst the small trees all around
+you.  The air is fresh and smells slightly of wildflowers.  
+~
+Sector 3
+Door 1 0 0 25928 0 0
+~
+~
+Door 2 0 0 25918 0 0
+~
+~
+Door 3 0 0 25933 0 0
+~
+~
+End
+
+#25930
+Name A Grassy Field~
+Descr
+You stand in a grassy field.  Small thorn bushes make walking here
+trecherous, but the cool breeze and pleasant surroundings make it a nice
+place to hang out and watch the highway just to the north of here from.  
+~
+Sector 2
+Door 0 0 0 25918 0 0
+~
+~
+Door 3 0 0 25931 0 0
+~
+~
+End
+
+#25931
+Name A Grassy Field~
+Descr
+You stand in a grassy field.  Small thorn bushes make walking here
+trecherous, but the cool breeze and pleasant surroundings make it a nice
+place to hang out and watch the highway just to the north of here from.  
+~
+Sector 2
+Door 0 0 0 25919 0 0
+~
+~
+Door 1 0 0 25930 0 0
+~
+~
+Door 3 0 0 25932 0 0
+~
+~
+End
+
+#25932
+Name A Lightly Forested Area~
+Descr
+This lightly forested area has soft, brown dirt, which makes walking
+especially easy, and you feel comfortable here, as if the trees might be
+watching over (or watching) you.  
+~
+Sector 3
+Door 0 0 0 25920 0 0
+~
+~
+Door 1 0 0 25931 0 0
+~
+~
+End
+
+#25933
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, just north of the highway.  Small
+birds chirp from unseen hiding places amongst the small trees all around
+you.  The air is fresh and smells slightly of wildflowers.  
+~
+Sector 3
+Door 1 0 0 25929 0 0
+~
+~
+Door 2 0 0 25919 0 0
+~
+~
+Door 3 0 0 25934 0 0
+~
+~
+End
+
+#25934
+Name A Lightly Forested Area~
+Descr
+This lightly forested area is cool and seems strangely calm.  You feel as
+if this would be a nice place to rest and heal your tired bones.  You can
+see the highway in plain view to the south.  
+~
+Flags 1048576
+Sector 3
+Door 1 0 0 25933 0 0
+~
+~
+Door 2 0 0 25920 0 0
+~
+~
+End
+
+#0
+
+
+
+#$
