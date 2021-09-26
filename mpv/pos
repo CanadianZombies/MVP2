@@ -1,0 +1,62 @@
+char *
+position_name (int pos)
+{
+  static char buf[SML_LENGTH];
+  if (pos == POSITION_DEAD)
+    sprintf (buf, "Dead");
+  else
+  if (pos == POSITION_MORTAL)
+    sprintf (buf, "Mortally Wounded");
+  else
+  if (pos == POSITION_INCAP)
+    sprintf (buf, "Incapacitated");
+  else
+  if (pos == POSITION_STUNNED)
+    sprintf (buf, "Stunned");
+  else
+  if (pos == POSITION_SLEEPING)
+    sprintf (buf, "Sleeping");
+  else
+  if (pos == POSITION_RESTING)
+    sprintf (buf, "Resting");
+  else
+  if (pos == POSITION_FIGHTING)
+    sprintf (buf, "Fighting");
+  else
+  if (pos == POSITION_CIRCLE)
+    sprintf (buf, "Circling");
+  else
+  if (pos == POSITION_BASHED)
+    sprintf (buf, "Bashed");
+  else
+  if (pos == POSITION_GROUNDFIGHTING)
+    sprintf (buf, "Groundfighting");
+  else
+  if (pos == POSITION_FALLING)
+    sprintf (buf, "Falling");
+  else
+  if (pos == POSITION_STANDING)
+    sprintf (buf, "Standing");
+  else
+  if (pos == POSITION_RUNNING)
+    sprintf (buf, "Running");
+  else
+  if (pos == POSITION_SEARCHING)
+    sprintf (buf, "Searching");
+  else
+  if (pos == POSITION_BACKSTAB)
+    sprintf (buf, "Backstabbing");
+  else
+  if (pos == POSITION_MEDITATING)
+    sprintf (buf, "Meditating");
+  else
+  if (pos == POSITION_INVEST)
+    sprintf (buf, "Investigating");
+  else
+  if (pos == POSITION_CASTING)
+    sprintf (buf, "Casting");
+  else
+  if (pos == POSITION_SINGING)
+    sprintf (buf, "Singing");
+  return buf;
+}

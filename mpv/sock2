@@ -1,0 +1,77 @@
+void
+close_socket2 (DESCRIPTOR_DATA * dclose, DESCRIPTOR_DATA * dnew)
+{ // eraser's close_socket code for take over session
+  CHAR_DATA *ch;
+  int tt;
+  MARK_DEBUG("Close_socket2")
+  for (tt = 0; tt < 5; tt++)
+  {
+    if (connectiond[tt] == dclose)
+    {
+      connectiond[tt] = NULL;
+      outgoing[tt] = 0;
+      connection_names[tt][0] = '\0';
+    }
+  }
+  if (dclose->character && dclose->character == debugger)
+    debugger = NULL;
+
+  if (dclose->descriptor < 1)
+    return;
+
+  if (dclose->outtop > 0)
+    process_output (dclose, FALSE);
+  if (dclose->snoop_by != NULL)
+    dnew->snoop_by = dclose->snoop_by;
+  {
+    DESCRIPTOR_DATA *d;
+    for (d = descriptor_list; d != NULL; d = d->next)
+    {
+      if (d->snoop_by == dclose)
+        d->snoop_by = dnew;
+    }
+  }
+  if ((ch = dclose->character) && dclose->descriptor > 0)
+  {
+    if (dclose->connected < CON_PLAYING)
+      dclose->connected = CON_PLAYING;
+  }
+  if (d_next == dclose)
+    d_next = d_next->next;
+  if (dclose == descriptor_list)
+  {
+    descriptor_list = descriptor_list->next;
+  }
+  else
+  {
+    DESCRIPTOR_DATA *d;
+    for (d = descriptor_list; d && d->next != dclose; d = d->next);
+    if (d != NULL)
+      d->next = dclose->next;
+    else
+      bug ("Close_socket: dclose not found.", 0);
+  }
+  close (dclose->descriptor);
+  if (dclose->auth_fd != -1)
+    close (dclose->auth_fd);
+  dclose->character = NULL;
+  dclose->descriptor = -1;	/*Mark this descriptor as NEVER POLL */
+  if (dclose->outbuf)
+    free_m (dclose->outbuf);
+  dclose->outbuf = NULL;
+  dclose->max_outbuf = 0;
+  free_string (dclose->username);
+  dclose->username = NULL;
+  free_string (dclose->hostname);
+  dclose->hostname = NULL;
+  /*free_string(dclose->showstr_head);
+    dclose->showstr_head=NULL;
+    free_string(dclose->showstr_point);
+    dclose->showstr_point=NULL;
+   */
+  dclose->next = descriptor_free;
+  descriptor_free = dclose;
+  /*free_m(dclose); */
+  return;
+}
+
