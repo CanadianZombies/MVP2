@@ -1,0 +1,964 @@
+#AREADATA 
+Name The Ancient Stone Road~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 70000 70100
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#70000
+Name black wolf~
+Short a black wolf~
+Long 
+A black wolf paces around here, looking for flesh to eat.
+~
+Descr
+This large black wolf looks hostile and dangerous; it's sharp teeth look
+as if they could rip through even the toughest orc-flesh with ease.  
+~
+AMax 5
+NHeight 0
+ActBits 25
+Money 8
+Level 8
+Sex 1
+MobType 18
+Guard 0
+End
+
+#70001
+Name fire hound~
+Short a fire hound~
+Long 
+A fire hound paces around here, waiting to rip travellers to shreds.
+~
+Descr
+This wolf-like creature has eyes of fire, and a red coat that looks
+unnatural and unholy.  Better watch out; it looks hungry...  
+~
+AMax 1
+NHeight 0
+ActBits 17
+Alignment -40
+Money 26
+Level 26
+Sex 2
+MobType 18
+Guard 0
+Spec spec_breath_fire
+RaceHate 134217728
+End
+
+#70002
+Name demon wolf~
+Short a demon wolf~
+Long 
+A demon wolf paces around here, looking for a good soul to devour.
+~
+Descr
+This fearsome beast looks like it is on a hunt to destroy all non-evil
+creatures wandering through this area.  From the looks of the bloodstains on
+its teeth, you assume it does a pretty good job.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -110
+Money 45
+Level 45
+Sex 1
+MobType 18
+Guard 0
+End
+
+#70003
+Name scout orc orcish~
+Short an orcish scout~
+Long 
+A lost orcish scout wanders here, searching for a way home.
+~
+Descr
+This scout looks fearful and dangerous.  He must have lost his way while
+making his way back home from a raid or war.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -500
+Money 16
+Level 16
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#70004
+Name giant black rabbit~
+Short a giant black rabbit~
+Long 
+A giant black rabbit hops around here, enjoying the weather.
+~
+Descr
+This giant black rabbit gives you the creeps...  What kind of creature is
+it really?..  And how dangerous is it?  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 7
+Level 7
+MobType 18
+Guard 0
+RaceHate 268435456
+End
+
+#70005
+Name spirit lost~
+Short a lost spirit~
+Long 
+A lost spirit hovers here, ready to take out its wrath on adventurers.
+~
+Descr
+You can barely even see it...  
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 8
+Alignment -30
+Money 18
+Level 18
+MobType 21
+Guard 0
+End
+
+#70011
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#70000
+Name KKT~
+Short a rift in space~
+Descr
+no need
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 86891 86891 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#70021
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#70000
+Name An Overgrown Forest Path~
+Descr
+You stand on a forest path, overgrown with dense brush and large ferns. 
+The air is heavy and thick, and although it is not stiffling hot, you still
+feel oddly uncomfortable.  You can see a rocky path and a mountain range to
+the west.  
+~
+Flags 2
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 70001 30 30
+~
+(null)~
+Door 3 0 0 70201 30 30
+~
+(null)~
+End
+
+#70001
+Name An Overgrown Forest Path~
+Descr
+This dark, overgrown forest path looks ominous and almost evil.  The
+trees seem to be twisted away from the light, and the smell of decaying
+animals lingers in the air.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 70002 30 30
+~
+(null)~
+Door 3 0 0 70000 30 30
+~
+(null)~
+End
+
+#70002
+Name An Overgrown Forest Path~
+Descr
+You stand on a forest path, overgrown with dense brush and large ferns. 
+The air is heavy and thick, and although it is not stiffling hot, you still
+feel oddly uncomfortable.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 70003 30 30
+~
+(null)~
+Door 3 0 0 70001 30 30
+~
+(null)~
+End
+
+#70003
+Name An Overgrown Forest Path~
+Descr
+You stand on a forest path, overgrown with dense brush and large ferns. 
+The air is heavy and thick, and although it is not stiffling hot, you still
+feel oddly uncomfortable.  You can see a large meadow to the east of here.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 70004 30 30
+~
+(null)~
+Door 1 0 0 70018 30 30
+~
+(null)~
+Door 2 0 0 70002 30 30
+~
+(null)~
+End
+
+#70004
+Name An Overgrown Forest Path~
+Descr
+This dark, overgrown forest path looks ominous and almost evil.  The
+trees seem to be twisted away from the light, and the smell of decaying
+animals lingers in the air.  The path bends east and south here.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 70005 30 30
+~
+(null)~
+Door 2 0 0 70003 30 30
+~
+(null)~
+End
+
+#70005
+Name An Overgrown Forest Path~
+Descr
+You stand on an overgrown forest path, just north of a meadow.  To the
+north and west you can see the path continue, winding into the dark, strange
+trees that seem to bend away from the light of the sun.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 70006 30 30
+~
+(null)~
+Door 2 0 0 70018 30 30
+~
+(null)~
+Door 3 0 0 70004 30 30
+~
+(null)~
+End
+
+#70006
+Name An Ancient Stone Road~
+Descr
+You stand on a forest path, overgrown with dense brush and large ferns. 
+The air is heavy and thick, and although it is not stiffling hot, you still
+feel oddly uncomfortable.  
+~
+Shd 1
+Reset M 70000 5 100
+Movemess
+(null)~
+Door 1 0 0 70007 30 30
+~
+(null)~
+Door 2 0 0 70005 30 30
+~
+(null)~
+End
+
+#70007
+Name An Ancient Stone Road~
+Descr
+This dark, overgrown forest path looks ominous and almost evil.  The
+trees seem to be twisted away from the light, and the smell of decaying
+animals lingers in the air.  The forest becomes light enough to travel into
+to the north, and the path continues to the east and west.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 70030 30 30
+~
+(null)~
+Door 1 0 0 70008 30 30
+~
+(null)~
+Door 3 0 0 70006 30 30
+~
+(null)~
+End
+
+#70008
+Name An Ancient Stone Road~
+Descr
+You stand on a forest path, long since taken over by small plants and
+bushes.  The forest all around you is dense, but you can see a small path to
+the north where it is possible to journey into some lighter forest.  
+~
+Shd 1
+Reset M 70003 1 100
+Reset O 236 21 84
+Reset O 205 6 28
+Reset O 218 4 55
+Reset O 230 8 4
+Reset O 240 12 12
+Movemess
+(null)~
+Door 0 0 0 70031 30 30
+~
+(null)~
+Door 1 0 0 70009 30 30
+~
+(null)~
+Door 3 0 0 70007 30 30
+~
+(null)~
+End
+
+#70009
+Name An Ancient Stone Road~
+Descr
+You stand on a mysterious forest path.  The trees overhead have broad
+leaves, and the air is damp yet strangely chilly.  You can see a strange
+road to the south, and the path continues to the west and east.  You can see
+light forest to the north.  
+~
+Shd 1
+Reset M 70002 3 100
+Reset M 70000 5 90
+Movemess
+(null)~
+Door 0 0 0 70032 30 30
+~
+(null)~
+Door 1 0 0 70010 30 30
+~
+(null)~
+Door 2 0 0 70036 30 30
+~
+(null)~
+Door 3 0 0 70008 30 30
+~
+(null)~
+End
+
+#70010
+Name An Overgrown Forest Path~
+Descr
+You stand at the eastern end of a strange forest path.  To the south you
+can see what appears to be an old road.  Small birds chirp all around you,
+unlike any you have heard before.  
+~
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 2 0 0 70011 30 30
+~
+(null)~
+Door 3 0 0 70009 30 30
+~
+(null)~
+End
+
+#70011
+Name An Ancient Stone Road~
+Descr
+You stand on what appears to be a narrow grassy trail, but when you look
+closer, you notice worn bricks and stones and you realize this used to be a
+large road.  The road continues to the east and west.  
+~
+Movemess
+(null)~
+Door 0 0 0 70010 30 30
+~
+(null)~
+Door 1 0 0 70012 30 30
+~
+(null)~
+Door 3 0 0 70036 30 30
+~
+(null)~
+End
+
+#70012
+Name An Ancient Stone Road~
+Descr
+You stand on an ancient road.  Tall grasses poke out of all the holes and
+cracks in the stones, and you have to look closely to tell if there is road
+to the east and west or not.  There is a large field to the south.  
+~
+Reset M 70000 5 100
+Movemess
+(null)~
+Door 1 0 0 70013 30 30
+~
+(null)~
+Door 2 0 0 70037 30 30
+~
+(null)~
+Door 3 0 0 70011 30 30
+~
+(null)~
+End
+
+#70013
+Name An Ancient Stone Road~
+Descr
+You stand on an ancient road.  Tall grasses poke out of all the holes and
+cracks in the stones, and you have to look closely to tell if there is road
+to the east and west or not.  There is a large field to the south.  
+~
+Movemess
+(null)~
+Door 1 0 0 70014 30 30
+~
+(null)~
+Door 2 0 0 70038 30 30
+~
+(null)~
+Door 3 0 0 70012 30 30
+~
+(null)~
+End
+
+#70014
+Name An Ancient Stone Road~
+Descr
+You stand on an ancient road, made of cracked and eroded stones.  The
+road continues to the east and west.  The air is cool yet strangely damp.  
+~
+Reset M 70000 5 100
+Movemess
+(null)~
+Door 1 0 0 70015 30 30
+~
+(null)~
+Door 3 0 0 70013 30 30
+~
+(null)~
+End
+
+#70015
+Name An Ancient Stone Road~
+Descr
+The large brick stones underfoot lead you to believe you are on an
+ancient stone road which has fallen to the hardships of nature.  You can see
+a forest path to the south and more road to the west.  
+~
+Movemess
+(null)~
+Door 3 0 0 70014 30 30
+~
+(null)~
+Door 4 0 0 70016 0 0
+~
+~
+End
+
+#70016
+Name An Overgrown Forest Path~
+Descr
+You stand in a light forest, upon a dirt path.  You can see grasses and
+some strange flat stones to the north, and the path continues to the east. 
+Small birds chirp all around you, yet their calls seem odd...  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 70017 30 30
+~
+(null)~
+Door 5 0 0 70015 0 0
+~
+~
+End
+
+#70017
+Name An Overgrown Forest Path~
+Descr
+You stand in a light forest on a path overgrown with bushes and small
+ferns.  The air is damp, which is suprising considering the cool air
+temperature.  You can see the path continue to the west, winding its way
+through the forest.  
+~
+Flags 2
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 93882 0 0
+~
+~
+Door 3 0 0 70016 30 30
+~
+(null)~
+End
+
+#70018
+Name A Clearing in the Forest~
+Descr
+You stand at an odd clearing in a forest.  Too the west you can see a
+forest path, and to the east you can make out a darker, less travelled path
+into the forest.  To the north you can see some more forest path.  
+~
+Reset M 70000 5 15
+Movemess
+(null)~
+Door 0 0 0 70005 30 30
+~
+(null)~
+Door 1 0 0 70019 30 30
+~
+(null)~
+Door 3 0 0 70003 30 30
+~
+(null)~
+End
+
+#70019
+Name A Path through Light Forest~
+Descr
+You walk upon a path that leads straight through the heart of the dark
+forest.  Unfortunately, the trees are confusing you, and everything seems to
+look the same.  Several times you bump into trees by accident that did not
+seem to be there a second ago.  
+~
+Flags 2
+Movemess
+(null)~
+Door 2 0 0 70020 30 30
+~
+(null)~
+Door 3 0 0 70018 30 30
+~
+(null)~
+End
+
+#70020
+Name A Path through Light Forest~
+Descr
+You walk upon a path that leads straight through the heart of the dark
+forest.  Unfortunately, the trees are confusing you, and everything seems to
+look the same.  Several times you bump into trees by accident that did not
+seem to be there a second ago.  
+~
+Reset M 70002 3 100
+Movemess
+(null)~
+Door 0 0 0 70019 30 30
+~
+(null)~
+Door 2 0 0 70021 30 30
+~
+(null)~
+End
+
+#70021
+Name A Path through Light Forest~
+Descr
+You walk upon a path that leads straight through the heart of the dark
+forest.  Unfortunately, the trees are confusing you, and everything seems to
+look the same.  Several times you bump into trees by accident that did not
+seem to be there a second ago.  
+~
+Movemess
+(null)~
+Door 0 0 0 70020 30 30
+~
+(null)~
+Door 2 0 0 70022 30 30
+~
+(null)~
+End
+
+#70022
+Name A Path through Light Forest~
+Descr
+You walk upon a path that leads straight through the heart of the dark
+forest.  Unfortunately, the trees are confusing you, and everything seems to
+look the same.  Several times you bump into trees by accident that did not
+seem to be there a second ago.  
+~
+Movemess
+(null)~
+Door 0 0 0 70021 30 30
+~
+(null)~
+Door 3 0 0 70023 30 30
+~
+(null)~
+End
+
+#70023
+Name A Path Through Light Forest~
+Descr
+You stand in a large, open field.  You can see a path leading into the
+forest to the east of here, and large open field in to the west and north. 
+You can see another path leading through a light forest to the south.  
+~
+Movemess
+(null)~
+Door 0 0 0 70024 30 30
+~
+(null)~
+Door 1 0 0 70022 30 30
+~
+(null)~
+Door 2 0 0 70026 30 30
+~
+(null)~
+Door 3 0 0 70025 30 30
+~
+(null)~
+End
+
+#70024
+Name a Large, Open Field~
+Descr
+You stand in a large,open field, full off grasses and small, unseen
+animals.  A cool breeze blows through the grasses, creating a interesting
+rippling affect.  You can see more field to the south and west.  
+~
+Sector 2
+Movemess
+(null)~
+Door 2 0 0 70023 30 30
+~
+(null)~
+Door 3 0 0 70027 30 30
+~
+(null)~
+End
+
+#70025
+Name A Large, Open Field~
+Descr
+You stand in a large open field.  Tall grasses brush against you as they
+sway in the wind.  You can see more field to the north and east, and a path
+leading through a field to the south.  
+~
+Sector 2
+Reset M 70004 2 100
+Movemess
+(null)~
+Door 0 0 0 70027 30 30
+~
+(null)~
+Door 1 0 0 70023 30 30
+~
+(null)~
+Door 2 0 0 70028 30 30
+~
+(null)~
+End
+
+#70026
+Name A Path through Light Forest~
+Descr
+You stand on a path that leads through a light forest.  You can see a
+large open field to the north, and the path continues to the south.  The air
+is heavy and quiet, and you feel slightly uneasy.  
+~
+Movemess
+(null)~
+Door 0 0 0 70023 30 30
+~
+(null)~
+Door 2 0 0 70029 30 30
+~
+(null)~
+End
+
+#70027
+Name A Large, Open Field~
+Descr
+You stand in a large,open field, full off grasses and small, unseen
+animals.  A cool breeze blows through the grasses, creating a interesting
+rippling affect.  You can see more field to the east and south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 70024 30 30
+~
+(null)~
+Door 2 0 0 70025 30 30
+~
+(null)~
+End
+
+#70028
+Name A Path through a Field~
+Descr
+You stand on a path that leads through a field of wild grasses.  You can
+see a rocky area ahead as the trail climbs a small rocky slope to the south,
+and to the north you can see open field.  
+~
+Reset M 70004 2 100
+Movemess
+(null)~
+Door 0 0 0 70025 30 30
+~
+(null)~
+End
+
+#70029
+Name A Path through Light Forest~
+Descr
+You stand on a strange path that leads through a lightly forested area. 
+An odd feeling of doom and death hangs in the air, and you wonder if it is
+wise to continue east.  
+~
+Movemess
+(null)~
+Door 0 0 0 70026 30 30
+~
+(null)~
+Door 1 0 0 70101 30 30
+~
+(null)~
+End
+
+#70030
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, on the corner of a dark, impassable
+forest.  You can see a strange path to the south, and the light forest
+continues to the east.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 70031 30 30
+~
+(null)~
+Door 2 0 0 70007 30 30
+~
+(null)~
+End
+
+#70031
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area.  Only a few animals can be heard
+rustling in the bushes and trees.  The forest continues to the east, west,
+and north, and you can see a path to the south.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 70034 30 30
+~
+(null)~
+Door 1 0 0 70032 30 30
+~
+(null)~
+Door 2 0 0 70008 30 30
+~
+(null)~
+Door 3 0 0 70030 30 30
+~
+(null)~
+End
+
+#70032
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area.  The air is still and the scent of
+wet earth lingers in the air.  The forest continues to the north and west,
+and you can see a path through the forest to the south.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 70033 30 30
+~
+(null)~
+Door 2 0 0 70009 30 30
+~
+(null)~
+Door 3 0 0 70031 30 30
+~
+(null)~
+End
+
+#70033
+Name A Lightly Forested Area~
+Descr
+The air is calm and quiet, and the trees are much less dense than they
+appear to be to the south and west of here.  
+~
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 70032 30 30
+~
+(null)~
+Door 3 0 0 70034 30 30
+~
+(null)~
+End
+
+#70034
+Name A Lightly Forested Area~
+Descr
+The light forest here begins to thin even more, and there almost seems to
+be a small trail leading north of here.  More light forest can be seen to
+the east and south.  
+~
+Sector 3
+Reset M 70001 1 100
+Movemess
+(null)~
+Door 0 0 0 70035 30 30
+~
+(null)~
+Door 1 0 0 70033 30 30
+~
+(null)~
+Door 2 0 0 70031 30 30
+~
+(null)~
+End
+
+#70035
+Name At a Large Tree in the Light Forest~
+Descr
+You stand at the base of a large tree in a light forest.  Thick,
+impassable forest blocks your way in all directions but south.  The air is
+still, but chirping noises and other odd animal sounds can be heard coming
+from some of the top branches in the large tree.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 70034 30 30
+~
+(null)~
+Door 5 0 0 22000 30 30
+~
+door~
+End
+
+#70036
+Name An Ancient Stone Road~
+Descr
+You stand on what appears to be a narrow grassy trail, but when you look
+closer, you notice worn bricks and stones and you realize this used to be a
+large road.  The road continues to the east.  
+~
+Movemess
+(null)~
+Door 0 0 0 70009 30 30
+~
+(null)~
+Door 1 0 0 70011 30 30
+~
+(null)~
+End
+
+#70037
+Name A Field of Wild Grasses~
+Descr
+You stand in a field of wild, dry grass.  You can see the ancient road to
+the north, and the large field opens up to the east.  A thick, impenetrable
+forest blocks your way to the south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 70012 30 30
+~
+(null)~
+Door 1 0 0 70038 30 30
+~
+(null)~
+End
+
+#70038
+Name A Field of Wild Grasses~
+Descr
+You stand in a field of wild, dry grass.  You can see the ancient road to
+the north, and the large field opens up to the west.  A thick, impenetrable
+forest blocks your way to the south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 70013 30 30
+~
+(null)~
+Door 3 0 0 70037 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

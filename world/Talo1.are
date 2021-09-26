@@ -1,0 +1,4300 @@
+#AREADATA 
+Name Talon One~
+Repop The area seems alive again!~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Talon~
+VNUMs 11000 11099
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#11000
+Name lord earth~
+Short the Lord of Earth~
+Long 
+The Lord of Earth sits apon his throne of stone.
+~
+Descr
+~
+AMax 1
+NHeight 85
+ActBits 18
+ActBits3 524288
+Affect_By 648
+Money 200
+Level 200
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+Spec spec_warrior
+BCasts meteor shower~
+BCasts wrath of shadows~
+BCast_P 25
+End
+
+#11001
+Name golem stone large~
+Short a stone golem~
+Long 
+A Stone Golem stands here guarding the pedastal.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 67108864
+Affect_By 640
+Money 100
+Level 100
+Sex 1
+MobType 10
+Alt_vnum 38700
+Hp 20
+Guard 0
+Spec spec_warrior
+BCasts meteor shower~
+BCast_P 10
+End
+
+#11002
+Name thief man~
+Short a thief~
+Long 
+A thief is hiding in the shadows waiting for you to leave.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 67108866
+Affect_By 98818
+Money 85
+Level 85
+MobType 0
+Hp 19
+Guard 0
+Spec spec_thief
+End
+
+#11003
+Name zombie~
+Short a zombie~
+Long 
+A Zombie wanders around searching for blood.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 10
+Affect_By -417528560
+Money 40
+Level 40
+MobType 9
+Alt_vnum 38702
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#11004
+Name lord fire~
+Short the Lord of Fire~
+Long 
+The Lord of Fire sits on his flaming throne.
+~
+Descr
+~
+AMax 1
+ActBits 2
+Affect_By 680
+AffectTWO 1
+Money 200
+Level 200
+MobType 0
+Hp 16
+Guard 0
+Spec spec_warrior
+BCasts falling star~
+BCasts flame strike~
+BCast_P 20
+End
+
+#11005
+Name stone golem~
+Short a Stone Golem~
+Long 
+A large stone golem is standing in front of the pedastal.
+~
+Descr
+~
+AMax 1
+NHeight 79
+Affect_By 680
+Money 80
+Level 80
+MobType 10
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#11006
+Name lord water~
+Short the Lord of Water~
+Long 
+The Lord of Water sits on his throne of coral.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 2
+ActBits3 524288
+Affect_By 8389288
+Money 200
+Level 200
+MobType 0
+Hp 15
+Guard 0
+Spec spec_warrior
+BCasts ice shards~
+BCasts iceblast~
+BCasts iceshards~
+BCast_P 10
+End
+
+#11007
+Name lord air~
+Short the Lord of Air~
+Long 
+The Lord of Air sits on his throne of cloud.
+~
+Descr
+~
+AMax 1
+ActBits 2
+ActBits3 524288
+Affect_By 524968
+AffectTWO 2
+Money 200
+Level 200
+MobType 0
+Hp 16
+Guard 0
+Spec spec_warrior
+BCasts void of reality~
+BCasts tornado of souls~
+BCast_P 13
+End
+
+#11008
+Name lord elements elemental lord~
+Short the Lord of Elements~
+Long 
+The Lord of Elements stands here radiating a powerful aura.
+~
+Descr
+~
+AMax 1
+ActBits 2
+ActBits3 524288
+Affect_By 524968
+Money 280
+Level 280
+MobType 0
+Hp 18
+Guard 0
+Spec spec_warrior
+BCasts void of reality~
+BCasts ice shards~
+BCasts flamestrike~
+BCasts meteor shower~
+BCast_P 13
+End
+
+#11009
+Name hellhound fire dog~
+Short a Hellhound~
+Long 
+A large flaming dog is guarding the pedastal.
+~
+Descr
+~
+AMax 1
+NHeight 40
+ActBits 2
+Affect_By 676
+AffectTWO 1
+Money 80
+Level 80
+MobType 6
+Hp 30
+Guard 0
+Spec spec_warrior
+BCasts flamestrike~
+BCast_P 25
+End
+
+#11010
+Name lesser earth elemental element~
+Short a lesser earth elemental~
+Long 
+A lesser earth elemental shambles towards you.
+~
+Descr
+~
+AMax 5
+NHeight 60
+ActBits 12
+ActBits3 524288
+ActBits4 4096
+Affect_By 8
+Money 15
+Level 15
+MobType 10
+Hp 18
+Guard 0
+Spec spec_warrior
+End
+
+#11011
+Name greater earth elemental~
+Short a greater earth elemental~
+Long 
+A greater earth elemental stands here blocking your way.
+~
+Descr
+~
+AMax 1
+ActBits 2
+ActBits3 524290
+Affect_By 8
+Money 30
+Level 30
+MobType 10
+Hp 30
+Guard 5
+Spec spec_warrior
+End
+
+#11012
+Name a animated statue~
+Short a animated statue~
+Long 
+A large animated stone statue heads towards you.
+~
+Descr
+~
+AMax 1
+ActBits 10
+ActBits3 2
+Affect_By 128
+Money 50
+Level 50
+MobType 15
+Hp 20
+Guard 5
+Spec spec_warrior
+End
+
+#11013
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#11014
+Name ghoul~
+Short a ghoul~
+Long 
+A ghoul is here thirsting for flesh.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 10
+Affect_By 536936960
+Money 50
+Level 50
+MobType 9
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#11015
+Name lesser fire elemental~
+Short a lesser fire elemental~
+Long 
+A lesser fire elemental is walking around in the flames.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 12
+Affect_By 520
+AffectTWO 1
+Money 16
+Level 16
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#11016
+Name greater fire elemental~
+Short a greater fire elemental~
+Long 
+A great fire elemental is here searching for intruders.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 8
+ActBits4 4096
+Affect_By 8
+AffectTWO 1
+Money 80
+Level 80
+MobType 19
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#11017
+Name baby red dragon~
+Short a baby red dragon~
+Long 
+A baby red dragon is craving some meat.
+~
+Descr
+~
+AMax 1
+ActBits 8
+Affect_By 168
+AffectTWO 1
+Money 40
+Level 40
+Sex 1
+MobType 5
+Hp 20
+Guard 0
+End
+
+#11018
+Name lesser water elemental~
+Short a lesser water elemental~
+Long 
+A lesser water elemental is floating after you.
+~
+Descr
+~
+AMax 6
+NHeight 65
+ActBits 12
+ActBits4 4096
+Affect_By 8388616
+Money 15
+Level 15
+MobType 19
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#11019
+Name sea serpent snake~
+Short a sea serpent~
+Long 
+A large sea serpent is swimming around looking for prey.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 8
+ActBits3 524288
+Affect_By 8389128
+Money 80
+Level 80
+MobType 20
+Hp 25
+Guard 0
+Spec spec_warrior
+End
+
+#11020
+Name piranaha fish beast~
+Short a pirahana~
+Long 
+A piranaha fish is looking for some meat.
+~
+Descr
+~
+AMax 5
+ActBits 8
+ActBits4 4096
+Affect_By 8388608
+Money 2
+Level 2
+MobType 14
+Hp 15
+Guard 0
+End
+
+#11021
+Name meat eating plant~
+Short a meat-eatting plant~
+Long 
+A large plant is looking rather hungry.
+~
+Descr
+~
+AMax 1
+ActBits -2146160054
+Affect_By 8388608
+Money 25
+Level 25
+MobType 17
+Hp 23
+Guard 0
+End
+
+#11022
+Name giant squid~
+Short giant squid~
+Long 
+A huge squid is here guarding the pedastal.
+~
+Descr
+~
+AMax 1
+NHeight 120
+ActBits 2
+ActBits3 524288
+Affect_By 83838776
+Money 80
+Level 80
+MobType 19
+Hp 25
+Guard 0
+Spec spec_warrior
+End
+
+#11023
+Name exotic armorer~
+Short an Exotic Armorer~
+Long 
+An Exotic Armorer is here making some exotic armor.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3145730
+ActBits3 524288
+Affect_By 680
+Money 250
+Level 250
+Sex 1
+MobType 0
+Hp 50
+Guard 0
+Spec spec_warrior
+End
+
+#11024
+Name giant vulture~
+Short a giant vulture~
+Long 
+A giant vulture swoops down to attack you.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 12
+Affect_By 134742536
+AffectTWO 2
+Money 15
+Level 15
+MobType 13
+Hp 20
+Guard 0
+End
+
+#11025
+Name young blue dragon~
+Short a young blue dragon~
+Long 
+A young blue dragon is flying around here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 10
+ActBits4 4096
+Affect_By 524288
+Money 66
+Level 66
+MobType 5
+Hp 23
+Guard 0
+Spec spec_warrior
+BCasts hands of wind~
+BCast_P 15
+End
+
+#11026
+Name griffon~
+Short a Griffon~
+Long 
+A huge griffon is flying here guarding the pedastal.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 67108866
+Affect_By 524928
+AffectTWO 2
+Money 80
+Level 80
+Sex 1
+MobType 5
+Hp 25
+Guard 0
+Spec spec_warrior
+BCasts tornado of souls~
+BCast_P 10
+End
+
+#11027
+Name crazed alchemist~
+Short a crazed alchemist~
+Long 
+A crazed alchemist is at his laboratory mixing chemicals.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 67108866
+Affect_By 512
+Money 55
+Level 55
+Sex 1
+MobType 0
+Hp 26
+Guard 0
+BCasts acid rain~
+BCast_P 15
+End
+
+#11028
+Name lost mage elf prac~
+Short a lost mage~
+Long 
+An Elven Mage is looking for a way out of the forest.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 256
+Affect_By 640
+Money 50
+Level 50
+MobType 1
+Hp 25
+Guard 0
+BCasts acid rain~
+BCasts searing orb~
+BCast_P 10
+End
+
+#11029
+Name siern man wandering warrior~
+Short siern~
+Long 
+Siern is wandering here, looking to pick a fight.
+~
+Descr
+~
+AMax 1
+NHeight 80
+ActBits 67108864
+Affect_By 552
+Money 150
+Level 150
+Sex 1
+MobType 0
+Hp 8
+Guard 0
+Spec spec_warrior
+End
+
+#11030
+Name quest messenger~
+Short a quest messenger~
+Long 
+A quest messenger is here waiting to be killed for his message.
+~
+Descr
+~
+AMax 6
+NHeight 30
+Affect_By 40
+Money 101
+Level 101
+MobType 5
+Hp 20
+Guard 0
+Spec spec_warrior
+BCasts void of reality~
+BCasts searing orb~
+BCast_P 25
+End
+
+#11031
+Name sea serpent tooth~
+Short a sea serpent tooth~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#11032
+Name rider~
+Short a war dragon~
+Long 
+A giant golden dragon forged from the heart of good defends the lands.
+~
+Descr
+~
+AMax 1
+NHeight 400
+ActBits 8192
+Affect_By 524840
+Money 500
+Level 500
+Sex 1
+MobType 5
+Hp 5025
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#11033
+Name wandering evil cleric Marwik teacher~
+Short marwik~
+Long 
+Marwik, the evil cleric, roams here with a determined look in his eyes.
+~
+Descr
+~
+AMax 1
+NHeight 56
+ActBits 272
+Affect_By 640
+Alignment -350
+Money 55
+Level 55
+Sex 1
+MobType 2
+Guard 0
+RaceHate 67108864
+BCasts acid rain~
+BCast_P 25
+End
+
+#11034
+Name wandering good cleric Clovin~
+Short clovin~
+Long 
+The holy cleric, Clovin, wanders the lands here.
+~
+Descr
+~
+AMax 1
+NHeight 57
+ActBits 16
+Affect_By 640
+Alignment 400
+Money 55
+Level 55
+Sex 1
+MobType 2
+Guard 0
+RaceHate 134217728
+BCasts acid rain~
+BCast_P 25
+End
+
+#11035
+Name wandering assassin shorin prac~
+Short shorin~
+Long 
+The infamous assassin, Shorin, sneaks around in the shadows here.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 272
+Affect_By 98464
+Money 151
+Level 151
+Sex 2
+MobType 0
+Guard 0
+End
+
+#11036
+Name wandering warrior Lo'Lahk~
+Short lo'Lahk~
+Long 
+The great warrior Lo'Lahk is here, searching for new blood.
+~
+Descr
+~
+AMax 1
+NHeight 76
+ActBits 67108880
+ActBits4 4096
+Alignment -400
+Money 147
+Level 147
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+End
+
+#11037
+Name wandering wizard Korvix~
+Short korvix~
+Long 
+Korvix, the renowned wizard, wanders around here.
+~
+Descr
+~
+AMax 1
+NHeight 62
+ActBits 16
+Affect_By 648
+Alignment 100
+Money 152
+Level 152
+Sex 1
+MobType 1
+Hp 7
+Guard 0
+BCasts wrath of shadows~
+BCasts acid blast~
+BCast_P 25
+End
+
+#11038
+Name no name~
+Short none~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#11039
+Name none~
+Short none~
+Long 
+None
+~
+Descr
+~
+AMax 1
+NHeight 65
+Money 200
+Level 200
+Sex 1
+MobType 0
+Hp 50
+Guard 0
+End
+
+#11040
+Name none~
+Short nothing~
+Long 
+Nothing.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 34
+Affect_By 128
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#11000
+Name cloak shadow~
+Short a [1m[30msha[1m[37md[1m[30mow cl[1m[37mo[1m[30mak[0m~
+Descr
+A cloak is lying on the ground fading in and out of existance.
+[0;36m~
+Type 9
+Extra 251658240
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 1 1 10 10 50 50 10 3
+Weight 3
+Cost 769
+Affect 24 5 1 0 0
+Affect 23 3 1 0 0
+End
+
+#11001
+Name flaming fire gauntlets gloves armor~
+Short some [1m[31mf[0m[31ml[1m[31ma[0m[31mm[1m[31mi[0m[31mn[1m[31mg [1m[31mg[0m[31ma[1m[31mu[0m[31mn[1m[31mt[0m[31ml[1m[31me[0m[31mt[1m[31ms[0m~
+Descr
+Some gauntlets  which seem to be on fire are sitting on the ground.
+[0;36m~
+Type 9
+Extra 251658240
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 13 13 15 15 10 25
+Weight 3
+Cost 0
+Affect 13 -10 1 0 0
+Affect 17 -3 1 0 0
+Affect 19 1 1 0 0
+End
+
+#11002
+Name flaming fire key burning~
+Short a [1m[31mF[31ml[1m[33mA[1m[31mm[1m[33mI[1m[31mn[1m[31mG [1m[33mk[1m[31me[31my[0m~
+Descr
+A flaming key is lying on the floor.
+[0;36m~
+Type 17
+Extra 16513
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11003
+Name key stone earth rock~
+Short a [1m[30mk[1m[37me[1m[30my [1m[37mo[1m[30mf [1m[37ms[1m[30mt[1m[37mo[1m[30mn[1m[37me[0m~
+Descr
+A large stone key is lying on the ground.
+[0;36m~
+Type 18
+Extra 16514
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11004
+Name liquid water key~
+Short a [1m[36ml[0m[34mi[1m[34mq[1m[36mu[34mi[1m[34md [1m[36mk[1m[34me[36my~
+Descr
+A strage key made of liquid is lying on the ground.
+[0;36m~
+Type 13
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11005
+Name key air gas phasing~
+Short a [1m[30mk[0m[37me[1m[30my [0m[37mo[1m[30mf [0m[37ma[1m[30mi[0m[37mr[0m~
+Descr
+A key is floating in the air.
+[0;36m~
+Type 18
+Extra 16514
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 116 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11006
+Name fire lord key red hot~
+Short [1m[31mkey of the fire lord~
+Descr
+A red hot key is lying here.
+[0;36m~
+Type 18
+Extra 16512
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11007
+Name rock stone lord key earth~
+Short [1m[30mkey of the earth lord~
+Descr
+A large key maade of rock is here.
+[0;36m~
+Type 18
+Extra 16512
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11008
+Name key water lord ice~
+Short [1m[36mkey of the water lord~
+Descr
+A key made of ice is lying on the ground.
+[0;36m~
+Type 13
+Extra 16512
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11009
+Name key air lord wings float~
+Short key of the air lord~
+Descr
+A key with wings is floating in the air.
+[0;36m~
+Type 18
+Extra 16512
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11010
+Name globe earth gem~
+Short a Globe of [1m[32mE[0m[32ma[1m[32mr[0m[32mt[1m[32mh[0m~
+Descr
+A globe filled with the power of earth lies on the ground.
+[0;36m~
+Type 21
+Extra 788529153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 90 90 90 0 0 0 0 0 0
+Weight 2
+Cost 15000
+End
+
+#11011
+Name hammer earth earthen~
+Short a [1m[32mE[0m[32ma[1m[32mr[0m[32mt[1m[32mh[0m[32m[0m[32me[1m[32mn [0m[32mH[1m[32ma[0m[32mm[1m[32mm[0m[32me[1m[32mr[0m~
+Descr
+A hammer with the power of the earth lies here.
+[0;36m~
+Type 5
+Extra 789053441
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 30 8 8 12 0 0 4 4 0
+Weight 6
+Cost 5000
+Affect 18 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#11012
+Name breastplate jeweled plate armor breast~
+Short [1m[37mJ[1m[32me[1m[33mw[1m[31me[1m[31ml[1m[34me[1m[36md [1m[31mB[1m[34mr[1m[35me[1m[37ma[1m[34ms[1m[32mt[1m[33mp[1m[37ml[1m[34ma[1m[31mt[1m[32me[0m~
+Descr
+A large breastplate decorated with jewels lies on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 0 11 0 20 20 0 30
+Weight 14
+Cost 0
+Affect 13 10 1 0 0
+End
+
+#11013
+Name stone anklet jagged armor~
+Short a [1m[31mJ[1m[30magge[1m[31md A[1m[30mnkle[1m[31mt[0m~
+Descr
+A jagged anklet sits on the floor.
+[0;36m~
+Type 9
+Extra 788529153
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 10 20 20 0 2
+Weight 3
+Cost 3500
+Affect 22 2 1 0 0
+End
+
+#11014
+Name flames fiery fury floater floating fire~
+Short a [1m[31mF[0m[31mier[1m[31my F[0m[31mur[1m[31my[0m~
+Descr
+A fiery fury is floating here.
+[0;36m~
+Type 9
+Extra 788529153
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 20 20 0 25
+Weight 0
+Cost 6500
+Affect 18 3 1 0 0
+End
+
+#11015
+Name fire globe gem~
+Short a Globe of [1m[31mF[0m[31mi[1m[31mr[0m[31me[0m~
+Descr
+A globe of fire is sitting in the corner of the room.
+[0;36m~
+Type 21
+Extra 788529153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 90 90 90 0 0 0 0 0 0
+Weight 2
+Cost 0
+End
+
+#11016
+Name dagger fire flamming flame~
+Short a [1m[31mDagger [0m[31mof [1m[31mFlame[0m~
+Descr
+A flaming dagger is sitting here giving off light.
+[0;36m~
+Type 5
+Extra 553779201
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 2 0 0 0 2 7 0
+Weight 3
+Cost 10000
+Affect 19 1 1 0 0
+Affect 18 -2 1 0 0
+End
+
+#11017
+Name boots quickness quick armor~
+Short some [1m[36mBoots [0m[36mof [1m[34mQuickness[0m~
+Descr
+A powerful pair of boots are lying on the floor.
+[0;36m~
+Type 9
+Extra 788529152
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 15 14 40 40 9 20
+Weight 2
+Cost 15000
+Affect 2 1 1 0 0
+Affect 14 25 1 0 0
+End
+
+#11018
+Name helmet waves water armor~
+Short a [36mHelmet of [0m[34mW[1m[34ma[0m[34mv[1m[34me[0m[34ms[0m~
+Descr
+A helmet made of water is sitting on the floor.
+[0;36m~
+Type 9
+Extra 251658242
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 9 11 30 30 12 25
+Weight 2
+Cost 0
+Affect 13 10 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#11019
+Name liquid leggings armor leg water~
+Short [1m[36mL[1m[34mi[0m[34mQ[0m[36mu[0m[34mi[1m[36md [1m[36mLeggings~
+Descr
+A pair of leggings made of liquid are lying on the floor.
+[0;36m~
+Type 9
+Extra 251658240
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 10 10 30 30 10 19
+Weight 1
+Cost 0
+Affect 18 2 1 0 0
+Affect 17 -2 1 0 0
+Affect 22 1 1 0 0
+End
+
+#11020
+Name liquid pauldrons water armor~
+Short [1m[34mL[0m[34mi[1m[36mq[0m[36mu[1m[34mi[0m[34md [1m[36mP[1m[36ma[0m[34mu[1m[34ml[0m[34md[1m[36mr[1m[36mo[0m[36mn[1m[34ms[0m~
+Descr
+A pauldron made of a strange liquid oozes on the floor.
+[0;36m~
+Type 9
+Extra 251658240
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 3 3 12 12 12 12 12 20
+Weight 3
+Cost 6900
+Affect 13 15 1 0 0
+End
+
+#11021
+Name globe water gem~
+Short a Globe of [1m[34mW[0m[34ma[1m[34mt[0m[34me[1m[34mr[0m~
+Descr
+A small globe with the power of water lies here.
+[0;36m~
+Type 21
+Extra 788529153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 90 90 90 0 0 0 0 0 0
+Weight 1
+Cost 15000
+End
+
+#11022
+Name wings golden gold wing~
+Short some [1m[33mGolden Wings[0m~
+Descr
+A pair of golden wings lie on the ground.
+[0;36m~
+Type 9
+Extra 251658241
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 3 3 15 15 0 0 13 30
+Weight 0
+Cost 0
+Affect 14 20 1 0 0
+Affect 13 10 1 0 0
+Affect 17 -1 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#11023
+Name whip storm~
+Short a [34mW[1m[30mhi[0m[34mp [1m[30mof[0m[34m S[1m[30mtor[0m[34mm[0m~
+Descr
+A whip lies here glowing with the power of the storm.
+[0;36m~
+Type 5
+Extra 17825794
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 4 0 0 0 4 5 0
+Weight 2
+Cost 2000
+Affect 19 2 1 0 0
+End
+
+#11024
+Name globe air gem~
+Short a Globe of [1m[30mA[0m[30mi[1m[30mr[0m~
+Descr
+A globe of mystical [1m[30mair[0m hovers before you.
+[0;36m~
+Type 21
+Extra 788529153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 90 90 90 0 0 0 0 0 0
+Weight 1
+Cost 5000
+End
+
+#11025
+Name elemental ring element earth wind water fire~
+Short an [1m[31mE[1m[34ml[1m[32me[1m[30mm[1m[31me[1m[34mn[1m[32mt[1m[30ma[1m[31ml [1m[34mR[1m[32mi[1m[30mn[1m[31mg[0m~
+Descr
+An elemental ring is here flashing the colors of the elements.
+[0;36m~
+Type 9
+Extra 788529153
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 10 10 15 15 10 30
+Weight 2
+Cost 10000
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#11026
+Name wristband health wrist band armor~
+Short a [1m[32mWristband of Health[0m~
+Descr
+A wristband is here giving off the power of life.
+[0;36m~
+Type 9
+Extra 788529154
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 8 10 4 4 15 30
+Weight 3
+Cost 2345
+Affect 13 20 1 0 0
+End
+
+#11027
+Name sword element elemental~
+Short the [0m[31mS[0m[34mw[0m[32mo[1m[30mr[1m[34md [1m[31mo[1m[34mf [0m[37mE[0m[31ml[0m[34me[0m[32mm[1m[30me[1m[31mn[1m[34mt[1m[32ms[0m~
+Descr
+A sword of elements is sticking into the ground.
+[0;36m~
+Type 5
+Extra 538968064
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 16 3 7 0
+Weight 4
+Cost 10000
+Affect 18 2 1 0 0
+End
+
+#11028
+Name globe ashes sphere~
+Short a small globe of [1m[31mAs[30mhe[31ms[0m~
+Descr
+A small sphere of [1m[31mAs[30mhe[31ms[0m has collected here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 70 70 65 0 0 0 0 0 0
+Weight 1
+Cost 6000
+End
+
+#11029
+Name belt shadows~
+Short a [1m[30mB[1m[37me[1m[30mlt o[1m[37mf [1m[30mSha[1m[37md[1m[30mows[0m~
+Descr
+A belt sits here phasing in and out of existance.
+[0;36m~
+Type 9
+Extra 251658240
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 0 0 15 9 0 0 12 20
+Weight 3
+Cost 250
+Affect 23 3 1 0 0
+Affect 24 4 1 0 0
+End
+
+#11030
+Name bubbling blue potion~
+Short a [0m[34mb[1m[34mu[0m[34mb[1m[34mb[0m[34ml[1m[34mi[0m[34mn[1m[34mg [0m[34mb[1m[34ml[0m[34mu[1m[34me [0m[34mp[1m[34mo[0m[34mt[1m[34mi[0m[34mo[1m[34mn[0m~
+Descr
+A bubbling blue potion is lying on the ground.
+[0;36m~
+Type 10
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 47 47 0 0 0 0 0 0 0
+Weight 2
+Cost 20
+End
+
+#11031
+Name ancient medallion amulet neck armor~
+Short an [1m[30manc[1m[32mien[1m[30mt [1m[32mmed[1m[30malli[1m[32mon[0m~
+Descr
+A old medallion is sitting in the corner of the room.
+[0;36m~
+Type 9
+Extra 2
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 4 4 8 20
+Weight 0
+Cost 100
+Affect 17 -3 1 0 0
+Affect 13 5 1 0 0
+Affect 20 -4 1 0 0
+End
+
+#11032
+Name wand smokey wand~
+Short a [1m[30msm[0m[37mok[1m[30mi[0m[37mng [1m[30mwa[0m[37mnd[0m~
+Descr
+A burning wand is lying on the ground.
+[0;36m~
+Type 3
+Extra 251658241
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 1 12 0 0 0 0 0 0
+Weight 3
+Cost 0
+End
+
+#11033
+Name red dragon scale~
+Short a [1m[31mred [0m[31mdragon [1m[31mscale[0m~
+Descr
+The scale of a red dragon is sitting lying in the dirt.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 8 13 10 10 10 0
+Weight 4
+Cost 200
+Affect 20 -1 1 0 0
+Affect 18 2 1 0 0
+Affect 13 5 1 0 0
+End
+
+#11034
+Name skin sea serpent~
+Short the skin of a sea serpent~
+Descr
+A large sea serpent skin is lying on the ground.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 3
+Cost 0
+End
+
+#11035
+Name sea serpent tooth~
+Short a sea serpent tooth~
+Descr
+A tooth of a sea serpent is here.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 0 0 8 10
+Weight 2
+Cost 0
+End
+
+#11036
+Name blue dragon scale bracer~
+Short [1m[34ma [0m[34mblue [1m[34mdragon [0m[34mscale [1m[34mbracer[0m~
+Descr
+A bracer made of the scales of a blue dragon lie on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 8 11 20 20 13 0
+Weight 4
+Cost 500
+Affect 20 -2 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#11037
+Name griffon feather earring~
+Short a [1m[30mg[0m[33mriffo[1m[30mn f[0m[33meathe[1m[30mr e[0m[33marrin[1m[30mg[0m~
+Descr
+A earring made of a griffon feather lies here collecting dust.
+[0;36m~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 20 10 25 25 10 30
+Weight 0
+Cost 250
+Affect 20 -3 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#11038
+Name dark grey potion~
+Short a [1m[30mdark grey[0m potion~
+Descr
+A dark grey potion is lying on the ground.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 99 0 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+End
+
+#11039
+Name dwarven helm~
+Short a dwarven helm~
+Descr
+A dwarven fashioned helm is lying on the ground collecting dust.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 10 10 20 20 10 2
+Weight 5
+Cost 200
+End
+
+#11040
+Name tower shield~
+Short a [1m[30mt[1m[37mowe[1m[30mr s[1m[37mhiel[1m[30md[0m~
+Descr
+A huge tower shield is on the ground, forgotten.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 3 1 1 13 13 50 50 10 1
+Weight 6
+Cost 300
+End
+
+#11041
+Name ivory facemask~
+Short an [1m[37mivory[0m facemask~
+Descr
+An ivory facemask is lying in a pile of dirt.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 8 8 25 25 5 2
+Weight 0
+Cost 200
+End
+
+#11042
+Name ruby ring~
+Short a [1m[31mruby[0m ring~
+Descr
+A ruby ring is gleaming in the light.
+[0;36m~
+Type 9
+Extra 1
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 20 20 10 2
+Weight 1
+Cost 200
+Affect 13 3 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#11043
+Name magic amulet~
+Short a [0m[36mm[1m[32mag[0m[36mic [1m[30mam[1m[35mul[0m[31met[0m~
+Descr
+A strange multi-colored amulet is giving off a magic aura.
+[0;36m~
+Type 9
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 0 0 0 0
+Weight 2
+Cost 300
+Affect 17 -3 1 0 0
+Affect 18 1 1 0 0
+End
+
+#11044
+Name bracer accuracy~
+Short a bracer of [1m[36ma[0m[36mccurac[1m[36my[0m~
+Descr
+A strange bracer is sitting agianst the wall.
+[0;36m~
+Type 9
+Extra 1
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 10 10 15 15 10 2
+Weight 0
+Cost 400
+Affect 18 3 1 0 0
+End
+
+#11045
+Name blackened leggings~
+Short some [1m[30mblackened[0m leggings[0m~
+Descr
+A pair of black leggings is resting on the ground.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 25 25 10 2
+Weight 0
+Cost 250
+End
+
+#11046
+Name earring protection~
+Short an [0m[35mea[1m[36mrri[0m[35mng [0m[37mof [0m[31mpr[1m[32motecti[0m[31mon[0m~
+Descr
+(no description)~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 25 25 10 2
+Weight 1
+Cost 400
+End
+
+#11047
+Name anklet stealth~
+Short an [0m[32manklet of ste[1m[32ma[0m[32mlth[0m~
+Descr
+An strange green anklet is lying on the ground.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 25 25 10 2
+Weight 1
+Cost 400
+Affect 23 3 1 0 0
+End
+
+#11048
+Name a blessing~
+Short a [1m[37mblessing[0m~
+Descr
+A blessing from a higher being is floating nearby.
+[0;36m~
+Type 9
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 250
+Affect 17 -2 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#11049
+Name diamond gauntlets~
+Short some [1m[30mdiamond[0m gauntlets[0m~
+Descr
+A pair of diamond gauntlets is lying on the ground.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 20 20 10 3
+Weight 0
+Cost 1200
+Affect 19 1 1 0 0
+End
+
+#11050
+Name gold bracer~
+Short a [1m[33mgold[0m bracer~
+Descr
+A gold bracer is lying on the ground shining a gold light.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 15 15 10 3
+Weight 2
+Cost 400
+End
+
+#11051
+Name boots~
+Short a pair of glowing boots~
+Descr
+A strange pair of glowing boots are lying on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 20 20 10 3
+Weight 2
+Cost 250
+End
+
+#11052
+Name elven cloak~
+Short an [1m[32me[0m[32mlv[1m[32me[0m[32mn c[1m[32mlo[0m[32ma[1m[32mk[0m~
+Descr
+An elven cloak is blending with the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 2 0 10 8 20 20 8 3
+Weight 1
+Cost 300
+Affect 24 2 1 0 0
+Affect 23 2 1 0 0
+End
+
+#11053
+Name boots north~
+Short [1m[37mBo[0m[37mot[1m[37ms o[0m[37mf t[1m[37mhe [0m[37mNo[1m[37mrt[0m[37mh[0m~
+Descr
+A pair of boots are lying on the ground waiting to be taken.
+[0;36m~
+Type 9
+Extra 1
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 25 25 10 7
+Weight 2
+Cost 500
+Affect 14 20 1 0 0
+End
+
+#11054
+Name small fairy~
+Short a [1m[32msm[0m[32ma[1m[32mll [1m[33mfairy[0m~
+Descr
+A small fairy if fluttering around here.
+[0;36m~
+Type 13
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 500
+Affect 13 10 1 0 0
+Affect 14 10 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#11055
+Name hat disguise~
+Short a [1m[36mh[0m[36ma[1m[36mt [0m[37mof [0m[35mdisg[1m[35mui[0m[35mse[0m~
+Descr
+A strange looking hat is lying on the ground.
+[0;36m~
+Type 9
+Extra 64
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 10 10 15 15 10 2
+Weight 0
+Cost 1000
+Affect 24 4 1 0 0
+End
+
+#11056
+Name breastplate glowing~
+Short a gl[1m[37mow[0m[37ming bre[1m[37mast[0m[37mpl[1m[37mat[0m[37me[0m~
+Descr
+A powerful glowing breastplate is lying on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 13 13 25 25 10 2
+Weight 3
+Cost 500
+End
+
+#11057
+Name silver armbands~
+Short some [1m[37msilver armbands[0m~
+Descr
+A pair of silver armbands is gleaming with light.
+[0;36m~
+Type 9
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 25 25 10 2
+Weight 3
+Cost 230
+End
+
+#11058
+Name silver ring~
+Short a [1m[37msilver[0m ring~
+Descr
+A small silver ring is gleaming in the light.
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 300
+Affect 13 10 1 0 0
+End
+
+#11059
+Name star pendant~
+Short a [1m[33mstar[0m pendant~
+Descr
+A small pendant in the shape of a star is here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 10 10 10 2
+Weight 1
+Cost 250
+Affect 19 1 1 0 0
+End
+
+#11060
+Name crimson shoulderplate~
+Short a [0m[31mcrimson[0m shoulderplate~
+Descr
+A crimson shoulderplate is sitting near you.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 2 10 25 0 25 10 2
+Weight 2
+Cost 500
+Affect 19 1 1 0 0
+End
+
+#11061
+Name spiked boots~
+Short some [31msp[1m[37mi[0m[31mked boots[0m[37m~
+Descr
+A pair of spiked boots are waiting for an owner.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 8 15 15 12 1
+Weight 2
+Cost 300
+Affect 22 2 1 0 0
+End
+
+#11062
+Name spiked anklet~
+Short a spiked anklet~
+Descr
+A spiked anklet lies on the ground almost forgotten.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 10 20 10 0
+Weight 2
+Cost 300
+Affect 22 1 1 0 0
+End
+
+#11063
+Name pet falcon~
+Short a [0m[33mpet falcon[0m~
+Descr
+A pet falcon is flying high in the sky.
+[0;36m~
+Type 13
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 18 2 1 0 0
+End
+
+#11064
+Name enchanted shield~
+Short an [1m[36menchanted shield[0m~
+Descr
+An enchanted shield is topped over on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 1 10 10 20 20 10 2
+Weight 3
+Cost 250
+End
+
+#11065
+Name bladed wristguard~
+Short a [1m[30mblad[0m[37med[1m[37m wri[0m[37mstgu[1m[30mard[0m~
+Descr
+A finely crafted bladed wristguard is rusting ont he ground.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 20 20 10 2
+Weight 3
+Cost 5000
+Affect 19 1 1 0 0
+End
+
+#11066
+Name faerie dust~
+Short some [1m[37mf[0m[37ma[1m[37me[0m[37mr[1m[37mi[0m[37me [1m[37md[0m[37mu[1m[37ms[0m[37mt[0m~
+Descr
+A small pile of faerie dust has gathered on the floor.
+[0;36m~
+Type 13
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 500
+Affect 13 3 1 0 0
+Affect 14 2 1 0 0
+Affect 20 -2 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#11067
+Name steel toed boots~
+Short a pair of [1m[37msteel[0m-toed boots~
+Descr
+A pair of steel toed boots are lying here.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 20 20 10 2
+Weight 4
+Cost 300
+Affect 22 2 1 0 0
+End
+
+#11068
+Name chameleon gloves~
+Short some [1m[32mc[0m[32mh[0m[33ma[1m[32mm[0m[33me[0m[32ml[0m[33me[1m[32mo[0m[33mn [1m[32mg[0m[33ml[0m[32mo[33mv[0m[32mes[0m~
+Descr
+A pair of gloves are on the ground, blending with its surroundings.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 0 10 10 10 2
+Weight 1
+Cost 300
+Affect 24 4 1 0 0
+Affect 23 2 1 0 0
+End
+
+#11069
+Name shimmering breastplate~
+Short a [1m[37ms[0m[37mh[1m[37mi[0m[37mm[1m[37mm[0m[37me[1m[37mr[0m[37mi[1m[37mn[0m[37mg [1m[37mb[0m[37mr[1m[37me[0m[37ma[1m[37ms[0m[37mt[1m[37mp[0m[37ml[1m[37ma[0m[37mt[1m[37me[0m~
+Descr
+A large breastplate is shimmering on the ground.
+[0;36m~
+Type 9
+Extra 65
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 12 12 50 50 12 2
+Weight 4
+Cost 1000
+End
+
+#11070
+Name emerald skullcap~
+Short an [0m[32memerald[0m skullcap~
+Descr
+A skullcap made from emeralds is waiting to be taken.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 0 0 0 0
+Weight 0
+Cost 250
+Affect 13 2 1 0 0
+End
+
+#11071
+Name pile shit~
+Short a pile of [0m[33mshit[0m~
+Descr
+A pile of shit is here, did you step in it?
+[0;36m~
+Type 19
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 250
+End
+
+#11072
+Name stone anklet~
+Short a stone anklet~
+Descr
+A stone anklet is sitting under some brush.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 25 25 10 2
+Weight 3
+Cost 300
+End
+
+#11073
+Name sapphire earstud~
+Short a [1m[34msapphire[0m earstud~
+Descr
+A small sapphire earstud is lying on the ground.
+[0;36m~
+Type 9
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 10 10 25 25 10 0
+Weight 1
+Cost 500
+End
+
+#11074
+Name circular circle flame flaming ring~
+Short a [0m[31mfl[1m[31ma[1m[33mm[1m[37min[1m[33mg r[1m[31mi[0m[31mng[0m~
+Descr
+A small circluar flame is lying on the ground.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 10 10 15 15 10 3
+Weight 2
+Cost 750
+Affect 19 1 1 0 0
+End
+
+#11075
+Name holy symbol~
+Short a [1m[37mh[0m[37mol[1m[37my s[0m[37mymbo[1m[37ml[0m~
+Descr
+A powerful holy symbol is lying on the ground.
+[0;36m~
+Type 9
+Extra 8391681
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 10 10 25 25 10 2
+Weight 1
+Cost 500
+End
+
+#11076
+Name unholy symbol~
+Short an [1m[30mu[0m[31mnhol[1m[30my s[0m[31mymbo[1m[30ml[0m~
+Descr
+A unholy symbol is waiting for an owner of evil.
+[0;36m~
+Type 9
+Extra 2577
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 10 10 25 25 10 2
+Weight 1
+Cost 500
+End
+
+#11077
+Name sandstone helmet~
+Short a [0m[33msandstone[0m helmet~
+Descr
+A strange helmet made from sandstone is crumbling on the ground.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 5 5 5 5 5 1
+Weight 1
+Cost 250
+End
+
+#11078
+Name gauntlets night~
+Short [1m[30mgauntlets of night[0m~
+Descr
+A pair of black gauntlets is lying on the ground.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 25 25 10 2
+Weight 1
+Cost 500
+End
+
+#11079
+Name breastplate of night~
+Short [1m[30mbreastplate of night[0m~
+Descr
+A strange breastplate as black as the night is here.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 10 10 25 25 10 2
+Weight 2
+Cost 500
+End
+
+#11080
+Name essence bythus~
+Short [32mEssence[0m of [30mB[31mythu[30ms[0m~
+Descr
+The essence of Bythus fills the room with evil and hatred.
+[0;36m~
+Type 9
+Extra 788529411
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 10
+Weight 0
+Cost 15000
+Affect 5 -1 1 0 0
+Affect 3 2 1 0 0
+End
+
+#11081
+Name black iron sword~
+Short a [1m[30mblack[0m iron sword~
+Descr
+A well-fashioned sword made from black iron is stuck in the ground.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 3 0 0 0 4 4 0
+Weight 4
+Cost 500
+End
+
+#11082
+Name holy sceptre~
+Short a [0m[37mh[1m[37mol[0m[37my [0m[37ms[1m[37mceptr[0m[37me[0m~
+Descr
+A sceptre of good is gleaming for with the power of light.
+[0;36m~
+Type 5
+Extra 8915968
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 4 3 0
+Weight 3
+Cost 500
+End
+
+#11083
+Name facemask illusions~
+Short a [0m[34mf[0m[36ma[1m[36mc[0m[36me[0m[34mm[0m[36ma[1m[36ms[0m[36mk [0m[34mo[0m[36mf [1m[36mi[0m[36ml[0m[34ml[0m[36mu[1m[36ms[0m[36mi[0m[34mo[0m[36mn[1m[36ms[0m~
+Descr
+A strange facemask is on the ground, constantly changing shape.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+Affect 24 5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#11084
+Name newbie sword~
+Short [1m[32mN[1m[35me[0m[34mw[1m[30mb[0m[33mi[1m[37me [0m[35mS[1m[32mw[0m[31mo[1m[36mr[0m[32md[0m~
+Descr
+A sword granted to the first newbie battleground winner is here.
+[0;36m~
+Type 5
+Extra 4456448
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 3 0 0 0 1 8 0
+Weight 2
+Cost 0
+Affect 18 2 1 0 0
+End
+
+#11085
+Name shoulderplate elven~
+Short an [1m[32melven shoulderplate[0m~
+Descr
+A elven made shoulderplate is lying on the ground.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 2 10 10 25 25 10 3
+Weight 1
+Cost 200
+Affect 24 1 1 0 0
+End
+
+#11086
+Name neon sign first bg won~
+Short a [1m[32mn[31me[35mo[34mn[37m sign reading '[36mI won my first battleground[37m'[0m~
+Descr
+A large neon sign reading 'I won the first battleground!'
+[0;36m~
+Type 13
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 7 0 0 0 8 5 0
+Weight 0
+Cost 0
+Affect 18 1 1 0 0
+Affect 20 -1 1 0 0
+End
+
+#11087
+Name small bug anus ass liquid~
+Short a [0m[32mbug's [0m[33manus[0m~
+Descr
+A small bug is here, his ass is filled with liquid.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 1 0 0 0 0 0 0 0
+Weight 0
+Cost 200
+End
+
+#11088
+Name wind scroll~
+Short a wind scroll~
+Descr
+A scroll with the power of wind is here.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 93 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11089
+Name turkey skin leggings~
+Short [0m[33mTurkey-skin[0m Leggings[0m~
+Descr
+A pair of turkey skin leggings is slumped on the ground here.
+[0;36m~
+Type 9
+Extra 1
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 0 0 10 3
+Weight 0
+Cost 5000
+Affect 19 1 1 0 0
+End
+
+#11090
+Name final quest clue~
+Short the Final Quest Clue~
+Descr
+The Final Quest Clue is lying here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr final quest clue~
+The objects you seek are on the Coal Dragon in the Great Oak
+
+
+The objects you seek are on the Coal Dragon in the Great Oak
+
+
+ 
+
+
+or something
+
+
+~
+End
+
+#11091
+Name map to armor penetration~
+Short a map to armor penetration~
+Descr
+A ancient map lies here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr map~
+from the gates of gnargnoc, go w until you find adfieda swamp
+
+
+go south til you can go east
+
+
+go north until you can only go down
+
+
+the rest is up to you...
+
+
+~
+End
+
+#11092
+Name map to armor penetration~
+Short a map to armor penetration~
+Descr
+A map to armor penetration is here.
+[0;36m~
+Type 17
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+ExtraDescr map armor penetration~
+up thru mines, all the way to blight, go beneath the wastelands until it turns into adfieda swamp.....
+
+
+go to the eastern most wall of the swamp and go up until you can only go down...
+
+
+the rest is up to you....
+
+
+~
+End
+
+#11093
+Name christmas present~
+Short a christmas present~
+Descr
+A christmas present which was lost by santa is lying here.
+[0;36m~
+Type 15
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 1 2 0 0 0 0 0 0
+Weight 2
+Cost 0
+End
+
+#11094
+Name ferry ticket~
+Short a ferry ticket~
+Descr
+A small ticket stamped with ferry destinations is lying here.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11095
+Name quest message first~
+Short the first quest message~
+Descr
+The first quest message is lying on the ground.
+[0;36m~
+Type 13
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr quest message first~
+To find the next clue, search for a quest messenger in the Blight.
+
+
+~
+End
+
+#11096
+Name second quest message~
+Short the second quest message~
+Descr
+The second quest message is lying on the ground.
+[0;36m~
+Type 13
+Extra 2
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr second quest message~
+To find the next clue, search for in the Kobold Caves. 
+
+
+~
+End
+
+#11097
+Name third quest message~
+Short the third quest message~
+Descr
+Nothing.
+[0;36m~
+Type 13
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr third quest message~
+To find the next clue, search for me in the Reoryxian Fortress. 
+
+
+~
+End
+
+#11098
+Name fourth quest message~
+Short the fourth quest message ~
+Descr
+The fourth quest message is lying here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr fourth quest message~
+To find the clue, search for me in the Swamptroll Kingdom. 
+
+
+~
+End
+
+#11099
+Name fifth quest message~
+Short the fifth quest message~
+Descr
+The fifth quest message is lying on the ground.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 100
+ExtraDescr fifth quest message~
+To find the final clue, search for me in Bogina. 
+
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#11000
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Reset M 11028 1 100
+Reset O 57 3 3
+Door 0 0 0 11001 0 0
+~
+~
+Door 1 0 0 11004 0 0
+~
+~
+Door 2 0 0 11003 0 0
+~
+~
+Door 3 0 0 11002 0 0
+~
+~
+End
+
+#11001
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 1 0 0 11006 0 0
+~
+~
+Door 2 0 0 11000 0 0
+~
+~
+Door 3 0 0 11005 0 0
+~
+~
+End
+
+#11002
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11005 0 0
+~
+~
+Door 1 0 0 11000 0 0
+~
+~
+Door 2 0 0 11008 0 0
+~
+~
+End
+
+#11003
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11000 0 0
+~
+~
+Door 1 0 0 11007 0 0
+~
+~
+Door 2 0 0 11011 0 0
+~
+~
+Door 3 0 0 11008 0 0
+~
+~
+End
+
+#11004
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11006 0 0
+~
+~
+Door 1 0 0 11039 0 0
+~
+~
+Door 2 0 0 11007 0 0
+~
+~
+Door 3 0 0 11000 0 0
+~
+~
+End
+
+#11005
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 1 0 0 11001 0 0
+~
+~
+Door 2 0 0 11002 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#11006
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11020 0 0
+~
+~
+Door 1 0 0 11037 0 0
+~
+~
+Door 2 0 0 11004 0 0
+~
+~
+Door 3 0 0 11001 0 0
+~
+~
+End
+
+#11007
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11004 0 0
+~
+~
+Door 1 0 0 11040 0 0
+~
+~
+Door 2 0 0 11012 0 0
+~
+~
+Door 3 0 0 11003 0 0
+~
+~
+End
+
+#11008
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11002 0 0
+~
+~
+Door 1 0 0 11003 0 0
+~
+~
+Door 2 0 0 11010 0 0
+~
+~
+Door 3 0 0 11009 0 0
+~
+~
+End
+
+#11009
+Name A Rocky Clearing~
+Descr
+You have stumbled across a strange clearing while moving though the
+forest. Rocks litter the area and this is a very convient place to camp for
+the night. You can't move any further to your west because of a cliffside
+and rocks which have probably fallen litter the way. 
+~
+Flags 1048576
+Door 1 0 0 11008 0 0
+~
+~
+Door 3 259 0 11035 30 30
+~
+rocks~
+End
+
+#11010
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11008 0 0
+~
+~
+Door 1 0 0 11011 0 0
+~
+~
+Door 2 0 0 11034 0 0
+~
+~
+Door 3 0 0 11099 0 0
+~
+~
+End
+
+#11011
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11003 0 0
+~
+~
+Door 1 0 0 11012 0 0
+~
+~
+Door 2 0 0 11036 0 0
+~
+~
+Door 3 0 0 11010 0 0
+~
+~
+End
+
+#11012
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11007 0 0
+~
+~
+Door 1 0 0 11041 0 0
+~
+~
+Door 2 0 0 11038 0 0
+~
+~
+Door 3 0 0 11011 0 0
+~
+~
+End
+
+#11013
+Name A Hidden Room~
+Descr
+none
+~
+Flags 4
+Reset M 11026 5 75
+Reset O 11037 27 16
+Reset O 11037 27 16
+Door 1 259 0 11059 30 30
+~
+loose stone~
+End
+
+#11014
+Name Talon's Room With Things to Do~
+Descr
+NOTHING
+ 
+ 
+~
+Flags 3145732
+End
+
+#11015
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 0 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#11016
+Name ~
+Descr
+~
+End
+
+#11017
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+End
+
+#11018
+Name A Secret Hallway~
+Descr
+~
+Door 1 0 0 11017 0 0
+~
+~
+End
+
+#11019
+Name A Secret Hallway~
+Descr
+~
+Door 0 3 0 11020 20 20
+~
+door~
+End
+
+#11020
+Name Before the Temple~
+Descr
+You are on the steps of what seems to be a temple of some sort. A large
+gate blocks your entrance to the north, although it looks as if it can be
+opened fairly easy. The temple looks huge and you wonder why it is out here
+in the middle of a forest. 
+~
+Door 0 3 0 11021 50 50
+~
+gate~
+Door 2 0 0 11006 0 0
+~
+~
+End
+
+#11021
+Name A Glowing Hallway~
+Descr
+You are walking down a long strange glowing hall. The soft glow seems to
+be a magic spell cast on it. You think you can make out the end of the
+hallway to your north. 
+~
+Flags 4
+Door 0 0 0 11022 0 0
+~
+~
+Door 2 3 0 11020 50 50
+~
+gate~
+End
+
+#11022
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 4
+Door 0 0 0 11026 0 0
+~
+~
+Door 1 0 0 11024 0 0
+~
+~
+Door 2 0 0 11021 0 0
+~
+~
+Door 3 0 0 11023 0 0
+~
+~
+End
+
+#11023
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 6
+Door 0 0 0 11025 0 0
+~
+~
+Door 1 0 0 11022 0 0
+~
+~
+Door 3 0 0 11060 0 0
+~
+~
+End
+
+#11024
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 4
+Door 0 0 0 11027 0 0
+~
+~
+Door 1 0 0 11080 0 0
+~
+~
+Door 3 0 0 11022 0 0
+~
+~
+End
+
+#11025
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 4
+Door 1 0 0 11026 0 0
+~
+~
+Door 2 0 0 11023 0 0
+~
+~
+End
+
+#11026
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 2
+Door 0 0 0 11028 0 0
+~
+~
+Door 1 0 0 11027 0 0
+~
+~
+Door 2 0 0 11022 0 0
+~
+~
+Door 3 0 0 11025 0 0
+~
+~
+Door 4 0 0 0 0 0
+~
+~
+End
+
+#11027
+Name The Temple of Elements~
+Descr
+You are walking around in what looks to be a Temple to worship the
+Elements. Many paintings and statues of the elements decorate the walls and
+rooms of the temple. You feel magic all around this temple and wonder why no
+people are around. 
+~
+Flags 4
+Door 2 0 0 11024 0 0
+~
+~
+Door 3 0 0 11026 0 0
+~
+~
+End
+
+#11028
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Reset M 11015 1 100
+Door 0 0 0 11029 0 0
+~
+~
+Door 2 0 0 11026 0 0
+~
+~
+End
+
+#11029
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 0 0 0 11031 0 0
+~
+~
+Door 2 0 0 11028 0 0
+~
+~
+End
+
+#11030
+Name A Mass of Swirling Lights~
+Descr
+You are standing in a room that is beyond reality. Lights of every color
+known to man move around the room in balls and streaks. There is a hole in
+this void above you and to your north. The sense of magic here is beyond any
+you have ever felt before. 
+~
+Flags 2097156
+Door 4 0 0 11026 0 0
+~
+~
+End
+
+#11031
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 2 0 0 11029 0 0
+~
+~
+Door 3 0 0 11044 0 0
+~
+~
+End
+
+#11032
+Name A Dark Cave~
+Descr
+You are walking along a dark cavern which looks to have once been a mine
+shaft but is now empty. You can see a faint light to your north and the
+sound of laughing can be heard, sounding almost crazy. 
+~
+Flags 4
+Door 0 0 0 11033 0 0
+~
+~
+Door 1 0 0 11035 0 0
+~
+~
+End
+
+#11033
+Name A Crude Laboratory~
+Descr
+You are in a makeshift laboratory which looks to be used for alchemy and
+other spell making. A large table with beakers and other tools for mixing
+chemicals is sitting in the center of the floor. 
+~
+Flags 4
+Reset M 11027 1 100
+Reset O 105 -1 10
+Reset O 11030 -1 3
+Reset O 11038 -1 20
+Door 2 0 0 11032 0 0
+~
+~
+End
+
+#11034
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Flags 2
+Sector 3
+Door 0 0 0 11010 0 0
+~
+~
+Door 1 0 0 11036 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 9950 0 0
+~
+~
+End
+
+#11035
+Name A Dark Cave~
+Descr
+You have stumbled into a crude cave in the side of the cliff. The wall to
+your east seems to be covered in rocks. The tunnel continues onward to your
+west. There is almost no light in this cavern. 
+~
+Flags 4
+Door 1 259 0 11009 30 30
+~
+rocks~
+Door 3 0 0 11032 0 0
+~
+~
+End
+
+#11036
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11011 0 0
+~
+~
+Door 1 0 0 11038 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 11034 0 0
+~
+~
+End
+
+#11037
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 11039 0 0
+~
+~
+Door 3 0 0 11006 0 0
+~
+~
+End
+
+#11038
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11012 0 0
+~
+~
+Door 1 0 0 11042 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 11036 0 0
+~
+~
+End
+
+#11039
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11037 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 11040 0 0
+~
+~
+Door 3 0 0 11004 0 0
+~
+~
+End
+
+#11040
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11039 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 11041 0 0
+~
+~
+Door 3 0 0 11007 0 0
+~
+~
+End
+
+#11041
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11040 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 11042 0 0
+~
+~
+Door 3 0 0 11012 0 0
+~
+~
+End
+
+#11042
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Sector 3
+Door 0 0 0 11041 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 3 0 0 30 30
+~
+.~
+Door 3 0 0 11038 0 0
+~
+~
+End
+
+#11043
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Reset M 11015 1 100
+Door 1 0 0 11044 0 0
+~
+~
+Door 3 0 0 11045 0 0
+~
+~
+End
+
+#11044
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 1 0 0 11031 0 0
+~
+~
+Door 3 0 0 11043 0 0
+~
+~
+End
+
+#11045
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 0 0 0 11046 0 0
+~
+~
+Door 1 0 0 11043 0 0
+~
+~
+Door 3 0 0 11049 0 0
+~
+~
+End
+
+#11046
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 0 0 0 11047 0 0
+~
+~
+Door 2 0 0 11045 0 0
+~
+~
+End
+
+#11047
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Reset M 11015 1 100
+Reset M 11015 1 100
+Door 0 0 0 11051 0 0
+~
+~
+Door 2 0 0 11046 0 0
+~
+~
+Door 3 3 0 11048 15 15
+~
+door~
+End
+
+#11048
+Name A Flaming Room~
+Descr
+You have entered a large room. You notice some places on the floor have
+cracked and molten lava pours from it making it dangrous to walk in some
+places. Flames explode thoughout the room and the steam makes you sweat
+heavily. 
+~
+Reset M 11017 1 100
+Reset O 11033 23 5
+Door 1 3 0 11047 15 15
+~
+door~
+End
+
+#11049
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 1 0 0 11045 0 0
+~
+~
+Door 3 0 0 11050 0 0
+~
+~
+End
+
+#11050
+Name A Flaming Room~
+Descr
+The rooms seems to have opened up into a large room. Larges pillars of
+flame stand tall in the corners giving it support. Huge flames shoot out
+from the ground making you jump. 
+~
+Flags 16777216
+Reset M 11016 1 100
+Reset O 11032 21 4
+Reset M 11016 1 100
+Reset O 11032 22 4
+Door 1 0 0 11049 0 0
+~
+~
+End
+
+#11051
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 1 0 0 11052 0 0
+~
+~
+Door 2 0 0 11047 0 0
+~
+~
+End
+
+#11052
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Reset M 11015 1 100
+Reset O 110 -1 100
+Door 0 0 0 11053 0 0
+~
+~
+Door 3 0 0 11051 0 0
+~
+~
+End
+
+#11053
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 0 0 0 11054 0 0
+~
+~
+Door 2 0 0 11052 0 0
+~
+~
+End
+
+#11054
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 0 23 128 11055 100 100
+~
+door~
+Door 1 0 0 11056 0 0
+~
+~
+Door 2 0 0 11053 0 0
+~
+~
+End
+
+#11055
+Name The Lord of Fire~
+Descr
+You are inside the room of the Fire Lord. You notice a large throne of
+fire standing agianst the wall. A man sits apon it giving you a sinister
+grin. He waves his hands and flames shoot up around you. He stands up off of
+his throne and glares at you with a evil eye. 
+~
+Flags 16777216
+Reset M 11004 1 100
+Reset O 11016 -1 1
+Reset O 11014 15 1
+Reset O 11001 8 1
+Door 2 23 -26834 11054 100 100
+~
+door~
+End
+
+#11056
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Reset M 11015 1 100
+Door 1 0 0 11057 0 0
+~
+~
+Door 3 0 0 11054 0 0
+~
+~
+End
+
+#11057
+Name A Flaming Hallway~
+Descr
+You have walked into a hallway which seems to be on fire. The walls are
+made of hardend lava rock. There are holes in the ground in which flames
+shoot up burning your hair. You have trouble seeing from the sweat and the
+heat waves that blur your image. 
+~
+Flags 16777216
+Door 1 3 0 11058 25 25
+~
+door~
+Door 3 0 0 11056 0 0
+~
+~
+End
+
+#11058
+Name Keeper of the Flame~
+Descr
+You are in a gigantic room filled with searing flame. A large pedastal
+stands in the middle of the room holding a gigantic blue flame. You stare at
+the way it dances. You look around and notice something coming out of the
+shadows. 
+~
+Flags 16777216
+Reset M 11009 1 100
+Reset O 128 -1 100
+Door 3 2 0 11057 30 30
+~
+~
+End
+
+#11059
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 0 0 0 11061 0 0
+~
+~
+Door 1 0 0 11060 0 0
+~
+~
+Door 3 259 0 11013 30 30
+~
+loose stone~
+End
+
+#11060
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 1 0 0 11023 0 0
+~
+~
+Door 3 0 0 11059 0 0
+~
+~
+End
+
+#11061
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 0 0 0 11075 0 0
+~
+~
+Door 2 0 0 11059 0 0
+~
+~
+Door 3 0 0 11062 0 0
+~
+~
+End
+
+#11062
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 1 0 0 11061 0 0
+~
+~
+Door 3 0 0 11063 0 0
+~
+~
+End
+
+#11063
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Reset M 11011 1 100
+Reset M 11010 1 100
+Door 1 0 0 11062 0 0
+~
+~
+Door 5 0 0 11064 0 0
+~
+~
+End
+
+#11064
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 0 0 0 11073 0 0
+~
+~
+Door 2 0 0 11065 0 0
+~
+~
+Door 4 0 0 11063 0 0
+~
+~
+End
+
+#11065
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 0 0 0 11064 0 0
+~
+~
+Door 2 0 0 11066 0 0
+~
+~
+End
+
+#11066
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Reset M 11010 1 100
+Door 0 0 0 11065 0 0
+~
+~
+Door 1 0 0 11067 0 0
+~
+~
+Door 3 0 0 11071 0 0
+~
+~
+End
+
+#11067
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 1 0 0 11068 0 0
+~
+~
+Door 3 0 0 11066 0 0
+~
+~
+End
+
+#11068
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 3 0 0 11067 0 0
+~
+~
+Door 5 0 0 11069 0 0
+~
+~
+End
+
+#11069
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 3 23 129 11070 100 100
+~
+door~
+Door 4 0 0 11068 0 0
+~
+~
+End
+
+#11070
+Name The Lord of Earth~
+Descr
+You have entered a giant stone room. Large stone spike erupt from the
+ground. You notice a huge stone throne sitting in the back of the room. The
+Lord of Earth sits apon the throne judging your presence. 
+~
+Flags 134217733
+Reset M 11000 1 100
+Reset O 11011 21 3
+Reset O 11012 4 2
+Reset O 11013 28 2
+Door 1 23 -26833 11069 100 100
+~
+door~
+End
+
+#11071
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 1 0 0 11066 0 0
+~
+~
+Door 2 3 0 11072 20 20
+~
+door~
+End
+
+#11072
+Name Keeper of the Earth~
+Descr
+You have entered into a large room which seems to be rougly carved out.
+The walls in the room glow with a stange aura. You notice a large black
+marble pedastal with a huge glowing stone standing apon it. There is a large
+stone statue next to the pedastal and you notice that it just blinked at
+you. 
+~
+Flags 5
+Reset M 11005 1 100
+Reset O 129 -1 100
+Door 0 3 0 11071 20 20
+~
+door~
+End
+
+#11073
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. A large hole sits in the center of the room. 
+~
+Flags 134217733
+Reset M 11010 1 100
+Door 2 0 0 11064 0 0
+~
+~
+Door 5 0 0 11074 0 0
+~
+~
+End
+
+#11074
+Name A Shallow Pit~
+Descr
+You climb down into a small pit in the ground. The smell is very musty
+and rocks are falling heavly around you. You hear a noise but you don't see
+anything around. The top of the pit doesn't look that high and you could
+probably make it back up. 
+~
+Flags 4
+Reset M 11014 1 100
+Reset O 11031 2 6
+Door 4 0 0 11073 0 0
+~
+~
+End
+
+#11075
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Door 0 0 0 11076 0 0
+~
+~
+Door 2 0 0 11061 0 0
+~
+~
+End
+
+#11076
+Name A Stone Cavern~
+Descr
+You are in a large stone cavern. The floor is very wet and slippery and
+you have trouble maintaining your balance. A small, cold wind blows sending
+you shivers. Every once in a while, the ground shakes causing some rocks to
+fall from overhead. 
+~
+Flags 134217733
+Reset M 11010 1 100
+Door 1 0 0 11077 0 0
+~
+~
+Door 2 0 0 11075 0 0
+~
+~
+End
+
+#11077
+Name A Stone Room~
+Descr
+You have walked into a opening in the long tunnels. The tremors still
+arupt and seem to have made rocks scatter around the room. A cold chill
+blows though the room sending shivers down your spine. 
+~
+Reset M 11012 1 100
+Reset O 11030 -1 8
+Door 3 0 0 11076 0 0
+~
+~
+Door 5 259 0 11078 69 69
+~
+stones~
+End
+
+#11078
+Name A Hidden Passage~
+Descr
+You have stumbled apon a reinforced cavern underneath the main cavern.
+The ceiling looks fairly sturdy and this is the first sign of life you have
+seen in the room. There are some glowing rocks embeded in the rock giving
+off enough light to light the hallway. 
+~
+Flags 4
+Door 1 0 0 11079 0 0
+~
+~
+Door 4 259 0 11077 69 69
+~
+stones~
+End
+
+#11079
+Name A Hidden Room~
+Descr
+You are inside a large reinforced room. There are beams set up along the
+ceiling to stop the rocks from falling. The room appears to be vacant and
+whoever was here is probably long gone. TYou also notice large rocks in the
+side of the wall that seem to light up the whole room. 
+~
+Flags 16388
+Reset M 11002 1 100
+Reset O 11000 11 5
+Reset O 11029 12 3
+Door 3 0 0 11078 0 0
+~
+~
+End
+
+#11080
+Name A Wet Passage~
+Descr
+You are in a passage that seems to be very wet. Large puddles of water
+lie on the ground and the constant dripping from the ceiling is starting to
+drive you crazy. 
+~
+Flags 4
+Door 1 0 0 11081 0 0
+~
+~
+Door 3 0 0 11024 0 0
+~
+~
+End
+
+#11081
+Name A Wet Passage~
+Descr
+You are traveling down a passage that is soaking wet. You have trouble
+maintaining your balance on the large puddles. Large drops of water drip
+down from the ceiling causing your armor to get wet. 
+~
+Flags 4
+Door 0 0 0 11082 0 0
+~
+~
+Door 3 0 0 11080 0 0
+~
+~
+End
+
+#11082
+Name A Large Pool~
+Descr
+You are standing before a large pool of water. You cannot see far into
+the water but you can see life swimming around down there. A fish jumps out
+of the water and lands back in. 
+~
+Flags 2
+Door 2 0 0 11081 0 0
+~
+~
+Door 5 0 0 11083 0 0
+~
+~
+End
+
+#11083
+Name An Underwater Tunnel~
+Descr
+You are swimming in a large underwater tunnel. Large fish and other
+aquatic animals are moving by your face, some with teeth that make you
+uncomfortable. There is a small current that urges you to swim down. 
+~
+Flags 4
+Sector 8
+Reset M 11018 1 100
+Door 4 0 0 11082 0 0
+~
+~
+Door 5 0 0 11084 0 0
+~
+~
+End
+
+#11084
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11018 1 100
+Door 0 0 0 11085 0 0
+~
+~
+Door 2 0 0 11095 0 0
+~
+~
+Door 4 0 0 11083 0 0
+~
+~
+End
+
+#11085
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 11092 0 0
+~
+~
+Door 2 0 0 11084 0 0
+~
+~
+Door 3 0 0 11086 0 0
+~
+~
+End
+
+#11086
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 11087 0 0
+~
+~
+Door 1 0 0 11085 0 0
+~
+~
+End
+
+#11087
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11020 1 100
+Door 1 3 0 11093 20 20
+~
+grate~
+Door 2 0 0 11086 0 0
+~
+~
+Door 4 0 0 11088 0 0
+~
+~
+End
+
+#11088
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11018 1 100
+Door 0 0 0 11089 0 0
+~
+~
+Door 5 0 0 11087 0 0
+~
+~
+End
+
+#11089
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11020 1 100
+Door 1 0 0 11090 0 0
+~
+~
+Door 2 0 0 11088 0 0
+~
+~
+End
+
+#11090
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11018 1 100
+Door 0 23 130 11091 100 100
+~
+grate~
+Door 3 0 0 11089 0 0
+~
+~
+End
+
+#11091
+Name Lord of Water~
+Descr
+You are inside a decorated room at the end of the tunnel system. A large
+throne made of coral sits along the wall which is decorated with pearls and
+other jewels that catch your eye. A large man sits on the throne looking you
+over. He waves his hand and a small current tugs you away from him. 
+~
+Flags 4
+Sector 8
+Reset M 11006 1 100
+Reset O 11018 5 2
+Reset O 11019 6 2
+Reset O 11020 23 2
+Door 2 23 -26832 11090 100 100
+~
+grate~
+End
+
+#11092
+Name An Underwater Room~
+Descr
+You are swimming around in a large room. There seems to be a large
+attraction of fish to this area for some reason. A strong current is almost
+forcing you back to your south. 
+~
+Flags 4
+Sector 8
+Reset M 11021 1 100
+Reset M 11020 1 100
+Reset M 11018 1 100
+Door 2 0 0 11085 0 0
+~
+~
+End
+
+#11093
+Name Keeper of the Wave~
+Descr
+You are inside a large underwater room. A huge pedastal stands in the
+center of the room. You notice a globe that seems to produce waves sitting
+on top of the pedastal. 
+~
+Flags 4
+Sector 8
+Reset M 11022 1 100
+Reset O 130 27 100
+Door 3 3 0 11087 20 20
+~
+grate~
+End
+
+#11094
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 11095 0 0
+~
+~
+Door 5 0 0 11096 0 0
+~
+~
+End
+
+#11095
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 11084 0 0
+~
+~
+Door 2 0 0 11094 0 0
+~
+~
+End
+
+#11096
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Reset M 11018 1 100
+Door 1 0 0 11097 0 0
+~
+~
+Door 4 0 0 11094 0 0
+~
+~
+End
+
+#11097
+Name An Underwater Tunnel~
+Descr
+You are swimming around in a large underwater tunnel. There is a large
+variety of aquatic animals swimming around. You notice some algae growing
+along the floor. You find it difficult to move around down here. 
+~
+Flags 4
+Sector 8
+Door 2 0 0 11098 0 0
+~
+~
+Door 3 0 0 11096 0 0
+~
+~
+End
+
+#11098
+Name A Dead End~
+Descr
+You have moved into a large room in the large underwater tunnel system.
+There are bones littering the floor of fish and some humanoid figures. You
+notice very little fish as if they are avoiding this part of the tunnel for
+some reason. 
+~
+Flags 4
+Sector 8
+Reset M 11019 1 100
+Reset O 11034 -1 2
+Reset O 11035 2 10
+Door 0 0 0 11097 0 0
+~
+~
+End
+
+#11099
+Name A Dark Forest~
+Descr
+You are walking around in a dark forest. You have trouble making out the
+time of day because the canopy blocks out alot of the light. The trees and
+bushes rustling around you make you feel uneasy as if something is stalking
+you for a meal. 
+~
+Door 1 0 0 11010 0 0
+~
+~
+Door 2 0 0 9950 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

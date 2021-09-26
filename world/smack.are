@@ -1,0 +1,5850 @@
+#AREADATA 
+Name Masque and it's lands~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA gentle breeze blows in your face.
+~[0;37m
+SRepop 30
+SJail 8437
+SOutJail 8436
+SCZone 0
+Builders Smack Orin~
+VNUMs 8401 8600
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#8401
+Name man thief master old gm~
+Short synlic, the old thief guildmaster~
+Long 
+A lethal master of evil and sneakiness stands here, staring blankly into space.
+~
+Descr
+This shady man looks like he has studied his whole life to be the best
+thief he can be.  He now offers guild memberships to select persons who seek
+him out.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Affect_By 8744
+Alignment -450
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+End
+
+#8402
+Name elf sick~
+Short a sickly elf~
+Long 
+A sick elf lies here on the dusty, bone-covered floor.
+~
+Descr
+This elf looks like he used to be quite a warrior.  Too bad he has not
+been fed or watered in the last month or two.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 500
+Money 9
+Level 9
+Sex 1
+MobType 1
+End
+
+#8403
+Name thief guard AONE~
+Short a thief~
+Long 
+A shadowy thief watches you from a dark corner.
+~
+Descr
+This shady thief slooks very muscular, yet at the same time, very nimble
+and quick.  He looks dedicated and determined to protect his guildmaster
+loyally.  
+~
+AMax 2
+NHeight 0
+ActBits 4194307
+Affect_By 65576
+Alignment -300
+Money 47
+Level 47
+Sex 1
+MobType 0
+Guard 0
+End
+
+#8404
+Name sloth PRACT~
+Short Sloth~
+Long 
+[Teacher] Sloth looks very annoyed by your presence.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Alignment 5
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+ASklTaught 0 553
+ASklTaught 1 552
+ASklTaught 2 561
+ASklTaught 3 576
+ASklTaught 4 551
+ASklTaught 5 583
+End
+
+#8405
+Name small dummy~
+Short a dummy~
+Long 
+A small training dummy awaits your attack.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 3
+Affect_By 131072
+Alignment 100
+Money 1
+Level 1
+MobType 25
+Guard 0
+End
+
+#8406
+Name dummy medium~
+Short a dummy~
+Long 
+A medium sized dummy stares blankly in your direction.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 3
+Affect_By 131072
+Alignment 100
+Money 5
+Level 5
+MobType 25
+Guard 0
+ArmorClass 90
+End
+
+#8407
+Name dummy large~
+Short a dummy~
+Long 
+A large dummy is poised and waiting for you to attack.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 3
+Affect_By 131072
+Alignment 100
+Money 10
+Level 10
+MobType 27
+Guard 0
+ArmorClass 90
+End
+
+#8408
+Name dummy huge~
+Short a dummy~
+Long 
+A huge training dummy, glares darkly at you.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 131072
+Alignment 100
+Money 15
+Level 15
+MobType 25
+Guard 0
+ArmorClass 85
+End
+
+#8409
+Name guard masqe~
+Short a guard~
+Long 
+A Masqe guard in here, patrolling the area.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 17
+Money 28
+Level 28
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8410
+Name citizen mcm~
+Short a Masqe citizen~
+Long 
+A lonely citizen of Masqe walks aimlessly about.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 17
+Money 5
+Level 5
+Sex 2
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8411
+Name boy~
+Short a boy~
+Long 
+A little boy is here, and he seems to be looking for something.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 3
+Level 3
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#8413
+Name eddie man weaponsmith~
+Short Eddie~
+Long 
+Eddie is standing here, brutally stabbing at some small animals.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2146435069
+Affect_By 552
+Alignment -400
+Money 10000
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Shop    0   5   0   0   0 110 35 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 67108864
+End
+
+#8414
+Name modkar armor armorsmith~
+Short Modkar~
+Long 
+Modkar the armorsmith stands here, polishing a breastplate.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2145386493
+Affect_By 552
+Alignment -400
+Money 10000
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Shop    0   9   0   0   0 120 50 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 67108864
+End
+
+#8416
+Name Takis~
+Short Takis~
+Long 
+Takis is here, ready to sell you anything he can get his hands on.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment -400
+Money 2000
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Shop    0   0   0   0   9 90 100 1 24
+Shopd2 5
+Shopd3 4
+RaceHate 335544320
+End
+
+#8417
+Name banker~
+Short a banker~
+Long 
+A greedy little banker is here, ready to take your money.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 131075
+ActBits4 8192
+Affect_By 552
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8418
+Name thawk man~
+Short Thawk~
+Long 
+[Teacher] Thawk, a very sneaky thief, awaits you.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 259
+ActBits4 8192
+Affect_By 552
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+ASklTaught 0 572
+ASklTaught 1 557
+ASklTaught 2 566
+ASklTaught 3 555
+End
+
+#8419
+Name kahn man teacher~
+Short Kahn~
+Long 
+[Teacher] The crafty Kahn awaits his next student.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 259
+ActBits4 8192
+Affect_By 552
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+ASklTaught 0 51
+ASklTaught 1 52
+ASklTaught 2 69
+ASklTaught 3 21
+ASklTaught 4 26
+End
+
+#8420
+Name fiko trainer man teacher~
+Short Fiko~
+Long 
+[Teacher] Fiko the ruthless trainer will probably hurt you more than help you.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 259
+ActBits4 8192
+Affect_By 552
+Alignment -400
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+ASklTaught 0 575
+ASklTaught 1 573
+ASklTaught 2 574
+ASklTaught 3 565
+ASklTaught 4 30
+ASklTaught 5 568
+ASklTaught 6 24
+ASklTaught 7 586
+End
+
+#8421
+Name shaman PRACT~
+Short an orcish shaman~
+Long 
+[Teacher] An orcish shaman is here, protecting the city from the forces of good!
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Alignment -600
+Money 300
+Level 300
+Sex 2
+MobType 25
+Guard 5
+Spec spec_warrior
+RaceHate 335544320
+ASklTaught 0 58
+ASklTaught 1 25
+ASklTaught 2 90
+ASklTaught 3 97
+ASklTaught 4 78
+ASklTaught 5 42
+ASklTaught 6 172
+ASklTaught 7 82
+ASklTaught 8 11
+End
+
+#8422
+Name baker~
+Short a baker~
+Long 
+A pretty sorry looking baker is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Alignment -400
+Money 60
+Level 60
+Sex 2
+MobType 25
+Guard 0
+Shop    0   0   0   0   0 50 50 0 23
+Shopd2 5
+Shopd3 4
+ShopCr 37
+ShopCS The baker has finished baking a loaf of bread.~
+RaceHate 335544320
+End
+
+#8423
+Name gladiator fighter man~
+Short a gladiator~
+Long 
+A young gladiator is here, ready to fight.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 100
+Level 200
+Sex 1
+MobType 25
+Hp 2
+Guard 0
+RaceHate 335544320
+ArmorClass 95
+End
+
+#8424
+Name dog vicious~
+Short a vicious dog~
+Long 
+A vicious dog is chained up here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 11
+Money 3
+Level 200
+Sex 2
+MobType 6
+Hp 2
+Guard 0
+End
+
+#8425
+Name dog~
+Short a dog~
+Long 
+A dog is here happily wagging his tail.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 3
+Level 3
+Sex 2
+MobType 6
+Guard 0
+End
+
+#8426
+Name dog~
+Short a dog~
+Long 
+A very angry dog is pacing about at the end of his chain.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 3
+Level 200
+Sex 2
+MobType 6
+Hp 2
+Guard 0
+End
+
+#8427
+Name huge spider~
+Short a huge spider~
+Long 
+A HUGE spider is here, ready to attack.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 7
+Level 200
+MobType 8
+Hp 2
+Guard 0
+End
+
+#8428
+Name large gladiator~
+Short a large gladiator~
+Long 
+A large gladiator rests here, waiting for his next victim.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 500
+Level 200
+Sex 1
+MobType 25
+Hp 2
+Guard 0
+RaceHate 335544320
+ArmorClass 80
+End
+
+#8429
+Name grunda potion man~
+Short Grunda~
+Long 
+Grunda is here, making a nasty mixture of stuff.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment -400
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Shop    3  10  26   4   0 110 35 0 23
+Shopd2 5
+Shopd3 4
+ShopCr 1013
+ShopCS Grunda has finished mixing a potion of detect invisibility.~
+ShCrh 2
+RaceHate 67108864
+End
+
+#8430
+Name jeweler man jewel~
+Short An orcish jeweler~
+Long 
+An Orcish jeweler is here, playing with all his magnificiant gems.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment -400
+Money 1500
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Shop    0   8  21   0   0 9 44 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 335544320
+End
+
+#8431
+Name assassin~
+Short an assassin~
+Long 
+A crafty little assassin is here, waiting to kill you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 11
+Alignment -10
+Money 17
+Level 17
+Sex 1
+MobType 25
+Guard 0
+ArmorClass 75
+End
+
+#8432
+Name gate guard huge PRTCT~
+Short a gateguard~
+Long 
+A HUGE gateguard is here, keeping intruders out.
+~
+Descr
+~
+AMax 4
+AYeller 10
+AWillhelp 0
+NHeight 0
+ActBits 134217731
+ActBits3 2048
+ActBits4 8192
+Affect_By 552
+Money 200
+Level 200
+Sex 1
+MobType 25
+Guard 3
+RaceHate 335544320
+End
+
+#8433
+Name janitor man mj~
+Short a janitor~
+Long 
+A janitor is here, cleaning up this filthy cave.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 21
+Affect_By 552
+Money 22
+Level 22
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8434
+Name drunk md~
+Short a drunk~
+Long 
+A drunk old orc staggers about you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 15
+Level 15
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8435
+Name orc officer~
+Short an orc officer~
+Long 
+An orcish officer is here, trying to decide if he should kill you or not.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Affect_By 552
+Alignment -10
+Money 55
+Level 55
+Sex 1
+MobType 25
+Guard 5
+RaceHate 335544320
+End
+
+#8436
+Name librarian~
+Short a librarian~
+Long 
+[Teacher] the librarian is here, hunched over a few dirty books.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Alignment -2
+Money 60
+Level 60
+Sex 2
+MobType 25
+Guard 0
+RaceHate 335544320
+ASklTaught 0 60
+ASklTaught 1 85
+ASklTaught 2 19
+ASklTaught 3 195
+ASklTaught 4 137
+ASklTaught 5 22
+ASklTaught 6 96
+ASklTaught 7 114
+End
+
+#8437
+Name chieftain orc~
+Short the chieftain~
+Long 
+The fat chieftain rests here, being fed grapes by elven slaves.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 552
+Alignment -2
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 5
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#8438
+Name knight darkness dark~
+Short a knight of darkness~
+Long 
+A large knight of darkness stands here, guarding the clan entrance.
+~
+Descr
+This dark guard looks like he knows some pretty potent magic...  
+~
+AMax 0
+NHeight 0
+ActBits 3
+ActBits3 33554432
+Affect_By 552
+Alignment -1
+Money 35
+Level 35
+Sex 1
+MobType 26
+Guard 1
+RaceHate 335544320
+End
+
+#8439
+Name bartender~
+Short a bartender~
+Long 
+An evil bartender is here, mixing a few nasty drinks.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -5
+Money 85
+Level 85
+Sex 1
+MobType 25
+Guard 0
+Shop    0   0   0   0   0 110 70 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 268435456
+End
+
+#8440
+Name rat huge~
+Short a huge rat~
+Long 
+A huge rat is here, blood dripping from it's mouth.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 9
+Alignment -1
+Money 12
+Level 12
+MobType 7
+Guard 0
+End
+
+#8441
+Name security chief~
+Short a security chief~
+Long 
+The camp's chief of security rests here, sharpening his sword.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -10
+Money 67
+Level 67
+Sex 1
+MobType 25
+Hp 14010
+Guard 0
+RaceHate 335544320
+End
+
+#8442
+Name elf slave~
+Short an elven slave~
+Long 
+An elven slave stands here, looking hateful and malicious towards evil.
+~
+Descr
+This elf looks lonely and sad, and yet very hateful and hostile towards
+any evil aggressors.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment 500
+Money 59
+Level 59
+Sex 1
+MobType 1
+Hp 14010
+Guard 0
+RaceHate 134217728
+End
+
+#8443
+Name wandering guard orc~
+Short an orc~
+Long 
+A wandering orcish guard patrols the encampment here.
+~
+Descr
+This guard looks mean and sadistic.  He grins when he notices you are
+looking at him.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Affect_By 552
+Alignment -50
+Money 20
+Level 20
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8444
+Name orc woman~
+Short an orcish woman~
+Long 
+An orcish woman stands here, tending the quarters while her husband is away.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Alignment -10
+Money 40
+Level 40
+Sex 2
+MobType 25
+Hp 14010
+Guard 0
+RaceHate 335544320
+End
+
+#8445
+Name zombie elven elf~
+Short an elven zombie~
+Long 
+An elven zombie stands here
+~
+Descr
+This zombie looks like he was quite pissed at his his evil captors.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment 90
+Money 50
+Level 50
+MobType 9
+Hp 14010
+Guard 0
+End
+
+#8446
+Name old elf chained~
+Short an old elf~
+Long 
+An old elf sits here, chained to the wall.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 150
+Money 65
+Level 65
+Sex 1
+MobType 1
+Hp 14010
+Guard 0
+End
+
+#8447
+Name dark elf guard~
+Short a dark elf~
+Long 
+A dark elf guard stands here, watching for escaped elves.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -500
+Money 300
+Level 50
+Sex 1
+MobType 26
+Guard 0
+RaceHate 335544320
+End
+
+#8448
+Name orc patrolman patrol guard~
+Short an orc patrolman~
+Long 
+An orcish patrolman wanders around here, checking for escaped slaves.
+~
+Descr
+~
+AMax 9
+NHeight 0
+ActBits 1
+Alignment -40
+Money 70
+Level 70
+Sex 1
+MobType 25
+Hp 14010
+Guard 0
+End
+
+#8449
+Name maggot bug~
+Short a large maggot~
+Long 
+A large maggot crawls along the ground here.
+~
+Descr
+"What big jaws you have!"  Comes to mind when you look at this bug.  
+~
+Attackmsg bite~
+AMax 7
+NHeight 0
+ActBits 3
+Money 2
+Level 2
+Sex 1
+MobType 8
+Guard 0
+End
+
+#8450
+Name woman citizen mcw~
+Short a Masqe woman~
+Long 
+A Masqe woman stands here, picking at her warts.
+~
+Descr
+This ugly woman grins at you when she notices you are looking at her.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -90
+Money 8
+Level 8
+Sex 2
+MobType 25
+Guard 0
+End
+
+#8451
+Name small orc gladiator~
+Short a small orc gladiator~
+Long 
+A small orcish gladiator stands here, training for future battles.
+~
+Descr
+This small gladiator may be small, but his quick, darting eyes and smug
+grin tell you he may know how to fight.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment 100
+Money 5
+Level 200
+Sex 1
+MobType 25
+Hp 2
+Guard 0
+Spec spec_warrior
+End
+
+#8452
+Name beaten elf~
+Short a beaten elf~
+Long 
+A beaten elf crawls along the ground here.
+~
+Descr
+This elf looks like he might have healed while pretending to crawl along
+the ground.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 100
+Money 50
+Level 50
+Sex 1
+MobType 1
+Hp 14010
+Guard 0
+End
+
+#8453
+Name dragonkin evil salesman~
+Short an evil salesman~
+Long 
+An evil salesman stands here, waiting to peddle his wares.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -900
+Money 35
+Level 35
+Sex 1
+MobType 0
+Guard 0
+Shop    0   5   9   2  10 100 60 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 335544320
+End
+
+#8454
+Name banker man~
+Short a bank teller~
+Long 
+A darkelf bank-teller stands here, waiting to handle your money.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131075
+Affect_By 40
+Alignment -1000
+Money 75
+Level 75
+Sex 1
+MobType 26
+Guard 0
+End
+
+#8455
+Name PRTCT trainee guard mtr~
+Short a guard trainee~
+Long 
+A guard trainee stands here, trying to figure out which way his sword goes.
+~
+Descr
+This guard doesn't look too bright..  Or too strong for that matter. 
+Better think over the battle first though before you use him for target
+practice...  
+~
+AMax 4
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits 17
+Affect_By 8
+Money 14
+Level 14
+Sex 1
+MobType 25
+Guard 0
+RaceHate 67108864
+End
+
+#8456
+Name ferocious warg~
+Short a ferocious warg~
+Long 
+A ferocious warg stands here, druelling at the thought of elf-meat.
+~
+Descr
+This scragly creature looks almost tame enough to ride...  As long as you
+are not a creature of good.  
+~
+AMax 3
+NHeight 0
+ActBits 8193
+Alignment -200
+Money 7
+Level 7
+Sex 1
+MobType 18
+Guard 0
+RaceHate 67108864
+End
+
+#8457
+Name giant southern guard AONE~
+Short a giant guard~
+Long 
+A giant southern gate guard stands here, protecting Masqe.
+~
+Descr
+Don't fuck with him; he will rip you in two, scoop out your insides with
+a spoon and then eat them as a snack.  
+~
+AMax 4
+NHeight 0
+ActBits 4194307
+ActBits3 2048
+Affect_By 552
+Alignment -900
+Money 150
+Level 150
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#8458
+Name wandering orc~
+Short a wandering orc~
+Long 
+A wandering orc is here, exploring the blackened forests.
+~
+Descr
+This orc looks like he is relatively new to exploring, although his
+well-developed muscles tell you he is not a novice at fighting.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 512
+Money 18
+Level 18
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8459
+Name huge guard~
+Short a huge guard~
+Long 
+A huge guard stands here, guarding the area.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 50
+Level 50
+Sex 1
+Guard 0
+Spec spec_warrior
+End
+
+#8460
+Name Jimmy Bob Jimmybob~
+Short Jimmy Bob~
+Long 
+Jimmy Bob, professional executioner, stands here, guarding the room.
+~
+Descr
+What you would give to have this guy's muscles...  
+~
+AMax 1
+NHeight 0
+ActBits 259
+ActBits3 2048
+Affect_By 552
+Alignment -2000
+Money 230
+Level 230
+Sex 1
+MobType 25
+Guard 1
+GDamR 30
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#8461
+Name Tyhirl~
+Short Tyhirl~
+Long 
+Tyhirl, the evil beast from ancient legends, again wanders the lands here.
+~
+Descr
+This legendary dark beast was rumored to be the mount of the infamous
+Bythus during the final battle against Anna, when both were banished from
+the mortal world.  It's huge, muscular body leads you to believe it was
+somehow recreated by the magics of the world to once again roam the lands,
+munching on any good creatures it can find.  
+~
+AMax 0
+NHeight 0
+ActBits 17
+ActBits4 4096
+Affect_By 552
+Alignment -1000
+Money 50
+Level 50
+Sex 1
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#8462
+Name krahm~
+Short Krahm~
+Long 
+Krahm stands here, ready to krahm some sh*t down your throat.
+~
+Descr
+A large booger hangs down out of his left nostril, and his eyes are
+bloodshot.  He is stuck in eternal anger, just like many of the players
+here.  
+~
+AMax 0
+NHeight 0
+ActBits 67108881
+ActBits4 4096
+Affect_By 552
+Alignment -1000
+Money 89
+Level 89
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8463
+Name Korpo~
+Short Korpo~
+Long 
+Korpo is wandering around here, looking for fresh dragonkin meat.
+~
+Descr
+This huge, buff-looking, mystical female looks like she has the craving
+for dragonkin, or maybe she just enjoys licking her lips and drooling, all
+the time.  
+~
+AMax 0
+NHeight 0
+ActBits 17
+Affect_By 552
+Alignment -1000
+Money 91
+Level 91
+Sex 2
+MobType 25
+Guard 0
+RaceHate 335560704
+End
+
+#8464
+Name Torka~
+Short Torka~
+Long 
+Torka, whitie slayer, stands here, looking for intruders.
+~
+Descr
+Torka has a strange air about him...  Besides the obvious stench.  
+~
+AMax 0
+NHeight 0
+ActBits 17
+ActBits3 1048576
+Affect_By 552
+Alignment -1000
+Money 77
+Level 77
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#8465
+Name guard buff buffed~
+Short a buffed guard~
+Long 
+A totally buffed guard is here, ready to smash your skull to bits.
+~
+Descr
+~
+AMax 2
+AYeller 3
+AWillhelp 1
+NHeight 0
+ActBits 1
+ActBits4 4096
+Affect_By 552
+Alignment 1
+Money 85
+Level 85
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#8466
+Name whitie killer~
+Short a whitie killer~
+Long 
+The whitie cheater killer is here.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits 2
+ActBits3 532480
+Affect_By 8320
+Alignment -1000
+Money 150
+Level 150
+Sex 1
+Guard 0
+GHitR 100
+GDamR 100
+Spec spec_warrior
+RaceHate 67108864
+End
+
+#8467
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#8490
+Name giant southern guard AONE~
+Short a giant guard~
+Long 
+A giant underground gate guard stands here, the last line of defense.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 4194307
+ActBits3 10240
+Affect_By 40
+Alignment -900
+Money 180
+Level 180
+Sex 1
+MobType 25
+Guard 1
+RaceHate 335544320
+End
+
+#8501
+Name gate guard huge PRTCT~
+Short a Masqe Gateguard~
+Long 
+A HUGE gateguard is here, keeping intruders out.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 134217731
+ActBits3 2048
+Affect_By 552
+Money 200
+Level 200
+Sex 1
+MobType 25
+Guard 2
+RaceHate 335544320
+End
+
+#0
+
+
+
+#OBJDATA
+#8401
+Name blood red sign~
+Short a [1m[31mblood red[0m sign~
+Descr
+A [1m[31mblood red sign[0m[36m stands in the room for you to read.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to Void of Reality.
+ 
+You have choosen to be of the evil alignment called the Darkies.
+Your home city is called Masqe. You are standing in Masqe's Central Square right now.
+ 
+To see a map of Masqe and other information about Masqe see help Masqe.
+To enter the Newbie XP Zone go North, West, and Down.
+Follow the path until you have reached Drequen Castle.
+ 
+Start off by killing rats and goblins.
+ 
+Please make sure you read HELP RULES and HELP NEWBIE.
+ 
+Have fun and Enjoy the mud.
+~
+End
+
+#8403
+Name flesh~
+Short a rotting piece of flesh~
+Descr
+An old rotting piece of flesh lies here, looks tasty.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 13 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 9
+End
+
+#8404
+Name milky potion protection~
+Short a [1m[37mm[0m[37mi[1ml[0m[37mk[1my[0m potion of protection~
+Descr
+A milky potion lies here on the ground.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 31 177 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 5032
+End
+
+#8405
+Name potion yellow~
+Short a [1m[33myellow[0m potion of remove poison~
+Descr
+A yellow potion lies here on the ground.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 26 56 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 3955
+End
+
+#8406
+Name bone necklace~
+Short [0m[37ma [1m[37mbone [0m[37mnecklace~
+Descr
+A bone necklace lies here on the ground.
+[0;36m~
+Type 8
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 440
+Affect 17 -1 1 0 0
+End
+
+#8407
+Name leather kneepad knee pad~
+Short a [33mleather[0m kneepad~
+Descr
+A pile of leather was left in the dirt.
+[0;36m~
+Type 9
+Wear 2097153
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 100
+End
+
+#8408
+Name leather elbowpad elbow pad~
+Short a [33mleather[0m elbowpad~
+Descr
+A pile of leather was left in the dirt.
+[0;36m~
+Type 9
+Wear 4194305
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 0 0 0 0
+Weight 0
+Cost 100
+End
+
+#8409
+Name shadow cloak~
+Short a shadow cloak~
+Descr
+A shadowy clock lies here, blending in with the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 15 15 0 0
+Weight 1
+Cost 600
+Affect 23 1 1 0 0
+End
+
+#8410
+Name clan board~
+Short the clan board~
+Descr
+A large, black clan board is here, telling stories of bloodshed and gore.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 0 0 0 13
+Weight 0
+Cost 0
+End
+
+#8411
+Name fountain water~
+Short a fountain~
+Descr
+A large fountain is here, flowing with blood.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 10000
+Cost 0
+End
+
+#8412
+Name elf blood daquarie~
+Short an elf-blood dquiri~
+Descr
+An elf-blood daquiri cup sits here on the ground.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 2 0 0 0 0 0 0 0
+Weight 1
+Cost 11
+End
+
+#8413
+Name roast high elf~
+Short a roasted high-elf~
+Descr
+A roasted high-elf lies here on the ground.  It might make a tasty treat.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 14
+End
+
+#8414
+Name sword dark darkness~
+Short a sword of darkness~
+Descr
+A pitch black sword is here, stabbed straight down in to the ground.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 3 0 0 0 2 9 0
+Weight 6
+Cost 4000
+Affect 18 1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#8415
+Name fountain water dirty~
+Short a dirty fountain~
+Descr
+A fountain with foul, yellow water is here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8416
+Name red wand strange~
+Short a strange red wand~
+Descr
+A strange red wand lies here on the ground.
+[0;36m~
+Type 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 24 3 3 96 0 0 0 0 0 0
+Weight 0
+Cost 1155
+End
+
+#8417
+Name orc orcish breastplate breast plate~
+Short an orcish breastplate~
+Descr
+An orcish breastplate lies here on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 9
+Cost 1300
+End
+
+#8418
+Name potion orange~
+Short an [7m[33mo[0m[33mr[7ma[0m[33mn[7mg[0m[33me[0m potion~
+Descr
+An orange potion lies here on the ground.
+[0;36m~
+Type 10
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 24 43 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 999
+End
+
+#8419
+Name a small gold necklace~
+Short [0m[37ma small [1m[33mgold[0m[37m necklace~
+Descr
+A small gold chain lies on the ground.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+End
+
+#937
+Name gold golden dagger~
+Short a [1m[33mgolden dagger[0m~
+Descr
+A beautiful dagger of pure gold, lies on the ground here.
+[0;36m~
+Type 5
+Extra 537001984
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 10 0 11 0 0 0 3 5 0
+Weight 3
+Cost 31004
+End
+
+#938
+Name club wooden~
+Short a wooden club~
+Descr
+A small wooden club lies harmlessly here.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 2 0 8 0 0 0 1 1 0
+Weight 2
+Cost 228
+End
+
+#0
+
+
+
+#ROOMDATA
+#8401
+Name MCS;Masqe Central Square~
+Descr
+You are in the center of a major underground city.  There are huge
+tunnels extending in every direction, with shops and people all about you. 
+You can feel the intense evil that lives inside this mountain, and you cringe.  
+~
+Flags 1048586
+Sector 0
+Reset M 1082 1 100
+Reset O 8401 -5 100
+Reset O 1065 -5 100
+Reset O 8411 -5 100
+Reset M 8410 5 70
+Reset O 236 21 45
+Reset M 8433 2 100
+Reset O 1045 21 10
+Movemess
+(null)~
+Door 0 0 0 8408 30 30
+~
+door~
+Door 1 0 0 8412 30 30
+~
+door~
+Door 2 0 0 8420 30 30
+~
+door~
+Door 3 0 0 8402 30 30
+~
+door~
+Door 5 259 0 10001 30 30
+~
+manhole~
+End
+
+#8402
+Name An East-West Tunnel~
+Descr
+As you travel along this large east-west tunnel, you can see the main
+square of Masqe to the east.  The entrance to the unholy shrine is to the
+north, and the bakery is to the south.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8450 3 100
+Reset M 8455 4 100
+Reset O 238 22 88
+Reset O 1054 10 38
+Reset O 236 21 100
+Reset O 217 4 100
+Reset O 202 7 14
+Movemess
+(null)~
+Door 0 0 0 8407 30 30
+~
+door~
+Door 1 0 0 8401 30 30
+~
+door~
+Door 2 0 0 8405 30 30
+~
+door~
+Door 3 0 0 8403 30 30
+~
+door~
+End
+
+#8403
+Name An East-West Tunnel~
+Descr
+The tunnel ends here at a thick rock wall to the west.  Far to the east
+you can see Masqe central square.  To the north is the potion shop, and to
+the south you can see the shop of stolen booty.  
+~
+Flags 8
+Sector 0
+Reset M 8410 5 70
+Reset M 8433 2 100
+Reset O 1045 21 77
+Movemess
+(null)~
+Door 0 0 0 8406 30 30
+~
+door~
+Door 1 0 0 8402 30 30
+~
+door~
+Door 2 0 0 8404 30 30
+~
+door~
+Door 3 3 0 5900 30 30
+~
+West Gate~
+End
+
+#8404
+Name The Store of Stolen Booty~
+Descr
+This small street corner stand has tons of jewelery lying all around it,
+but if you try to touch any of it, the jeweler will surely kill you.  All of
+these items here appear to be stolen, and no-one in this city cares.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8430 1 100
+Reset O 67 5 75
+Reset O 51 5 50
+Reset O 54 5 50
+Reset O 57 5 50
+Reset O 60 5 50
+Reset O 8419 -1 100
+Reset O 1019 -1 100
+Reset O 1020 -1 100
+Movemess
+(null)~
+Door 0 0 0 8403 30 30
+~
+door~
+End
+
+#8405
+Name Underground Bakery~
+Descr
+The terrible heat coming from this room could cook you alive.  You can
+see about twenty ovens which all appear to be in use, feeding the whole
+city.  There is one little baker running them all.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8422 1 100
+Reset O 37 10 100
+Reset M 8459 3 100
+Movemess
+(null)~
+Door 0 0 0 8402 30 30
+~
+door~
+Door 1 0 0 8420 0 0
+~
+~
+End
+
+#8406
+Name Potion Shop~
+Descr
+About the room you see many viles just bubbling away.  You hear an
+explosion come from the backroom, where new potions are constantly being
+created.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8465 4 100
+Reset O 237 -1 35
+Reset O 227 -1 30
+Reset M 8429 1 100
+Movemess
+(null)~
+Door 2 0 0 8403 30 30
+~
+door~
+End
+
+#8407
+Name The Shrine~
+Descr
+Inside this evil shrine many sacrifices have been made.  Be careful you
+don't become one of them.  There is a nasty looking alter in the center of
+the room, covered with blood.  Also a few devilish looking little shaman are
+wandering about.  
+~
+Flags 3145736
+Sector 0
+Reset M 8421 1 100
+Movemess
+(null)~
+Door 1 0 0 8408 0 0
+~
+~
+Door 2 0 0 8402 0 0
+~
+~
+Door 5 0 0 24301 0 0
+~
+~
+End
+
+#8408
+Name A Northern Tunnel~
+Descr
+This tunnel runs north and south, and to the south you can see the
+central square of Masqe.  To the west lies the unholy shrine.  The air is
+stagnant and smells of rotting meat.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8411 2 90
+Reset O 1068 -5 100
+Movemess
+(null)~
+Door 0 0 0 8409 30 30
+~
+door~
+Door 1 0 0 8416 0 0
+~
+~
+Door 2 0 0 8401 30 30
+~
+door~
+Door 3 0 0 8407 30 30
+~
+door~
+End
+
+#8409
+Name A Northern Tunnel~
+Descr
+The northern tunnel branches here, heading west into a smaller tunnel and
+continuing to the north and south.  The ground reeks of excrement and dead
+creatures, and it makes you mouth water.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8455 4 100
+Reset O 217 4 100
+Reset O 207 6 100
+Reset O 236 21 77
+Reset O 237 21 12
+Reset O 1020 26 14
+Movemess
+(null)~
+Door 0 0 0 8432 30 30
+~
+door~
+Door 2 0 0 8408 30 30
+~
+door~
+Door 3 0 0 8433 30 30
+~
+door~
+End
+
+#8410
+Name Sloth's Basic Training~
+Descr
+The floor is littered with broken shards of bone and decayed flesh, and
+you realize Sloth's training might not be as basic as you thought.  You can
+see the large northern tunnel to the west.  
+~
+Flags 10
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8475 30 30
+~
+(null)~
+Door 1 0 0 8470 30 30
+~
+(null)~
+Door 3 0 0 8432 30 30
+~
+door~
+End
+
+#8411
+Name Northern Tunnel~
+Descr
+You stand just before the Masqe Northern gate.  Just being built, the
+north gate looks fairly new and clean.  To the south you see the horrible
+city of masqe and the evil people who live in it, and it puts a wide grin on
+your face.  To the north is the great northern gate of Masqe.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8490 30 30
+~
+gate~
+Door 2 0 0 8432 30 30
+~
+door~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#8412
+Name An East-West Tunnel~
+Descr
+You stand in a tunnel that runs east and west.  To the north you can see
+Modkar's shop of fine armors.  A foul strench of excrement and unpleasant
+odors rises from the ground and makes you grin.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8410 5 70
+Movemess
+(null)~
+Door 0 0 0 8416 30 30
+~
+door~
+Door 1 0 0 8413 30 30
+~
+door~
+Door 2 0 0 8418 0 0
+~
+~
+Door 3 0 0 8401 30 30
+~
+door~
+End
+
+#8413
+Name An East-West Tunnel~
+Descr
+You stand in a large east-west tunnel in Masqe, the city of evil and
+mayhem.  To the north you can see the weaponsmith's shop, and to the south
+is the plunderer's provision house, where you can buy travelling supplies.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8455 3 100
+Reset O 237 21 44
+Reset O 219 4 18
+Reset O 208 6 3
+Reset O 212 9 5
+Reset O 211 9 33
+Reset O 225 5 88
+Reset O 206 6 44
+Movemess
+(null)~
+Door 0 0 0 8417 30 30
+~
+door~
+Door 1 0 0 8414 30 30
+~
+door~
+Door 2 0 0 8419 30 30
+~
+door~
+Door 3 0 0 8412 30 30
+~
+door~
+End
+
+#8414
+Name Just Inside A Dark Cave~
+Descr
+You stand just inside the dark cave-town named Masqe.  You can see the
+entrance to the east, and the main caveway runs west of here.  A foul evil
+feeling creeps up from the ground, and you smile a dark smile as you feel
+the evil power course through your soul.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8409 4 100
+Reset M 8409 4 100
+Movemess
+(null)~
+Door 1 3 0 8415 30 30
+~
+East Gate~
+Door 3 0 0 8413 30 30
+~
+door~
+End
+
+#8415
+Name Masqe Cave Entrance~
+Descr
+You stand at the hidden entrance to the cave-town of Masqe.  Foul smells
+come from the caves just west of here, and you can feel an evil aura around
+the place.  The air is thick and stagnant inside the caves, and you find it
+difficult to breath.  
+~
+Flags 2
+Reset M 8432 3 100
+Reset O 8417 4 10
+Reset O 29010 21 90
+Reset M 8432 3 100
+Reset O 8417 4 35
+Reset O 29010 -1 90
+Reset M 8432 3 100
+Reset O 8417 4 35
+Reset O 29010 -1 90
+Reset M 8432 1 100
+Reset O 29010 1 90
+Movemess
+(null)~
+Door 0 0 0 5965 0 0
+~
+~
+Door 1 0 0 5906 0 0
+~
+~
+Door 2 0 0 5912 0 0
+~
+~
+Door 3 3 0 8414 30 30
+~
+East Gate~
+End
+
+#8416
+Name Modkar's Shop of Fine Armors~
+Descr
+Fine armors adorn the walls, and the smell of got metal blows into your
+face.  You can see a large forge in the back of the room, and you assume
+Modkar is very skilled with making armors.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8414 1 100
+Reset O 213 -1 100
+Reset O 211 -1 100
+Reset O 224 -1 100
+Reset O 227 -1 100
+Reset O 240 -1 100
+Reset O 217 -1 100
+Reset O 8408 -1 100
+Reset O 8407 -1 100
+Reset M 8459 3 100
+Movemess
+(null)~
+Door 2 0 0 8412 30 30
+~
+door~
+Door 3 0 0 8408 0 0
+~
+~
+End
+
+#8417
+Name Eddie's House O' Weapons~
+Descr
+As you look around at all the implements of death in Eddie's house of
+weapons, you realize how happy death and destruction makes you.  You smile
+an evil grin at the thought of death and destruction you may soon bring to
+the good creatures of the world.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8413 1 100
+Reset O 236 -1 100
+Reset O 938 -1 100
+Reset O 238 -1 100
+Reset O 3201 -1 100
+Reset M 8459 3 100
+Movemess
+(null)~
+Door 2 0 0 8413 30 30
+~
+door~
+End
+
+#8418
+Name Treasure Pile in the Caves~
+Descr
+A large pile of coins sits in the back of the room, with only one man
+guarding it.  You sure hope they keep good records of your transactions, and
+aren't skimming too much.  
+~
+Flags 8
+Sector 0
+Reset M 8417 1 100
+Reset M 8410 5 70
+Movemess
+(null)~
+Door 0 0 0 8412 0 0
+~
+~
+Door 3 0 0 8420 30 30
+~
+door~
+End
+
+#8419
+Name The Plunderer's Provision House~
+Descr
+As you look around at all the goods sitting on the shelves, and smell the
+rotten provisions, you realize how great it is to live the life of darkness
+and serve the nameless evil one.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8416 1 100
+Reset O 32 -1 100
+Reset O 39 20 100
+Movemess
+(null)~
+Door 0 0 0 8413 30 30
+~
+door~
+End
+
+#8420
+Name A Southern Tunnel~
+Descr
+To the north you can see the large central junction of caverns in Masqe. 
+To the east, you can see the large treasure-pile, where you can store your
+loot safely when you leave the safety of the caves.  The tunnel continues
+north and south.  
+~
+Flags 8
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8401 30 30
+~
+door~
+Door 1 0 0 8418 30 30
+~
+door~
+Door 2 0 0 8421 30 30
+~
+door~
+Door 3 0 0 8405 0 0
+~
+~
+End
+
+#8421
+Name A Southern Tunnel~
+Descr
+You stand at a three way junction of caves.  To the north and south, the
+main southern tunnel continues.  To the north a ways you can see the main
+square of Masqe.  To the east, a smaller tunnel branches off.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8420 30 30
+~
+door~
+Door 1 0 0 8422 30 30
+~
+door~
+Door 2 0 0 8427 30 30
+~
+door~
+End
+
+#8422
+Name More Dirt Cave~
+Descr
+The small stone side tunnel here runs perpendicular to the main tunnel
+just to the west of here.  You can see Kahn's House of Unholy Healing to the
+south, and you can smell rotting flesh coming from somewhere to the east.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8423 30 30
+~
+door~
+Door 2 0 0 8425 30 30
+~
+door~
+Door 3 0 0 8421 30 30
+~
+door~
+End
+
+#8423
+Name A Side Tunnel~
+Descr
+Large chunks of flesh and bone line the walls here, pouring forth noxious
+odors and green gasses.  The cave turns south and west here, and you can see
+Kahn's place of Unholy Healing to the west and south of here.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8428 30 30
+~
+(null)~
+Door 2 0 0 8426 30 30
+~
+door~
+Door 3 0 0 8422 30 30
+~
+door~
+End
+
+#8425
+Name Kahn's House of Unholy Healing~
+Descr
+This beautifully furnished building is filled with all kinds of magical
+looking items.  You see a few lowly little apprentices standing at the back,
+practicing their craft.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8419 1 100
+Movemess
+(null)~
+Door 0 0 0 8422 30 30
+~
+door~
+End
+
+#8426
+Name Thawk's House of Thievery~
+Descr
+This run down old shack looks as if it could fall down around you.  You
+be careful not to touch anything.  The only sound you can hear is from the
+floor, creaking as you cross to a small training area in the corner.  
+~
+Flags 8
+Sector 0
+Reset M 8418 1 100
+Movemess
+(null)~
+Door 0 0 0 8423 30 30
+~
+door~
+Door 5 259 0 8441 30 30
+~
+hatch~
+End
+
+#8427
+Name A Southern Tunnel~
+Descr
+You stand at a three way junction of caves.  To the north and south, the
+main southern tunnel continues.  To the north a ways you can see the main
+square of Masqe.  To the west, you can see the training battle-ground for
+inexperienced adventurers.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8421 30 30
+~
+door~
+Door 2 0 0 8429 30 30
+~
+door~
+Door 3 0 0 8440 30 30
+~
+(null)~
+End
+
+#8428
+Name The Inexperienced Adventurer's Battle Ground~
+Descr
+A large sign is here, flashing the words, 'For Training Proceed Down.  '
+You see a rickety old ladder, going down into the darkness.  You also hear
+loud cries of battle, coming from below.  
+~
+Flags 10
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 8423 30 30
+~
+(null)~
+Door 5 0 0 8445 30 30
+~
+(null)~
+End
+
+#8429
+Name Just Inside A Dark Cave~
+Descr
+You stand just inside the dark cave that the evil inhabitants here call
+Masqe.  To the east you can see the room where evil auctions take place. 
+The dark lord himself was rumored to have sold the head of mighty ancient
+heros in the Auction cave to the east.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8409 4 100
+Reset M 8409 4 100
+Movemess
+(null)~
+Door 0 0 0 8427 30 30
+~
+door~
+Door 1 0 0 8431 30 30
+~
+door~
+Door 2 3 0 8430 30 30
+~
+South Gate~
+End
+
+#8430
+Name Masqe Cave Entrance~
+Descr
+You stand at the southern entrance to the cave-city of Masqe.  A foul
+evil aura pours forth from the gates, telling you of the corrupt and
+murderous inhabitants of the underground city.  
+~
+Flags 2
+Shd 1
+Reset M 8457 3 100
+Reset O 29010 -1 80
+Reset M 8457 3 100
+Reset O 29010 -1 80
+Reset M 8457 3 100
+Reset O 29010 -1 80
+Reset M 8457 1 100
+Reset O 29010 1 100
+Movemess
+(null)~
+Door 0 3 0 8429 30 30
+~
+South Gate~
+Door 1 0 0 5920 0 0
+~
+~
+Door 2 0 0 8476 30 30
+~
+(null)~
+Door 3 0 0 5921 0 0
+~
+~
+End
+
+#8431
+Name Auction Cave~
+Descr
+You stand in the infamous auction house where the dark lord supposedly
+auctioned off the heads and scalps of do-good adventurers and ancients.  You
+can see a large north-south running cave just to the west of here.  
+~
+Flags 3145864
+Shd 1
+Sector 0
+Reset M 1086 1 100
+Movemess
+(null)~
+Door 3 0 0 8429 30 30
+~
+hidden cheater~
+End
+
+#8432
+Name A Northern Tunnel~
+Descr
+You stand at the end of a long tunnel that runs north and south.  To the
+north is Fiko's house of pain and combat, and to the east is the general
+training area of Masqe.  Far to the south you can see Masqe central square. 
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8434 3 85
+Reset M 8410 5 70
+Movemess
+(null)~
+Door 0 0 0 8411 30 30
+~
+door~
+Door 1 0 0 8410 30 30
+~
+door~
+Door 2 0 0 8409 30 30
+~
+door~
+End
+
+#8433
+Name A Side-Tunnel in Masqe~
+Descr
+You stand in a moderately-sized side tunnel.  To the north you can see
+the sheriff's office, and far to the west you can see a large dwelling place
+of someone seemingly important.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8436 30 30
+~
+door~
+Door 1 0 0 8409 30 30
+~
+door~
+Door 3 0 0 8434 30 30
+~
+door~
+End
+
+#8434
+Name A Small Side-Tunnel in Masqe~
+Descr
+You can see the chieftain of Masqe's house just to the west of here.  To
+the south you can see the library of worldly evils, where you can read about
+the horrible wars and great killing sprees of evil beings in the past ages. 
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8438 0 0
+~
+~
+Door 1 0 0 8433 30 30
+~
+door~
+Door 3 0 0 8435 30 30
+~
+door~
+End
+
+#8435
+Name The Chieftain's House~
+Descr
+This well-decorated stone hole in the wall houses the royal chieftain of
+Masqe.  To the east you can see the small side tunnel that leads to the
+larger north-south tunnel just north of Masqe central.  You can see the
+library of worldly evils to the southeast.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8437 1 100
+Movemess
+(null)~
+Door 1 0 0 8434 30 30
+~
+door~
+End
+
+#8436
+Name Sheriff's Office~
+Descr
+You stand in a plain but large office that belongs to the sheriff of
+Masqe.  You can see a small side tunnel to the south and to the southeast
+you can see the main tunnel that runs north and south from masqe central.  
+~
+Flags 8
+Sector 0
+Reset M 8435 1 100
+Movemess
+(null)~
+Door 0 55 0 8437 49 49
+~
+door~
+Door 2 0 0 8433 30 30
+~
+door~
+End
+
+#8437
+Name Jail~
+Descr
+What a dull place...  It doesn't even smell like dead elf in here and you
+long for the filth and dirt of the caves.  You can see a massive door to the
+south, leading out of this disgustingly-clean cell.  
+~
+Flags 8
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 2 55 0 8436 49 49
+~
+door~
+End
+
+#8438
+Name The Masqe Library of Worldly Evils~
+Descr
+This library of dark learning contains histories and documents of evil
+deeds and great slaughters the evils of the world have accomplished and
+succeeded in.  You feel a strange dark power in your soul as you stand here
+amongst the ancient texts of darkness.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8436 1 100
+Movemess
+(null)~
+Door 2 0 0 8434 0 0
+~
+~
+End
+
+#8440
+Name Masqe Donation~
+Descr
+You stand in the room meant for donations to the general public of Masqe.
+This room is usually quite empty due to the greedy populace and evil,
+corrupt inhabitants that live in the foul city.  
+~
+Flags 9
+Shd 1
+Sector 0
+Reset M 8460 1 100
+Movemess
+(null)~
+Door 1 0 0 8427 30 30
+~
+(null)~
+End
+
+#8441
+Name Secret Passageway~
+Descr
+This small secret passageway below Thawk's runs off to the south.  It is
+very dark and musty down here, and is liable to be very hazardess to your
+health.  
+~
+Flags 7
+Shd 1
+Movemess
+(null)~
+Door 2 0 0 8442 30 30
+~
+door~
+Door 4 259 0 8426 30 30
+~
+hatch~
+End
+
+#8442
+Name Secret Passageway~
+Descr
+This small passageway is falling in all around you, and as you get
+further south the passage gets smaller.  It is as if no-one has traveled
+this way in quite awhile.  
+~
+Flags 5
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8441 30 30
+~
+door~
+Door 2 0 0 8443 30 30
+~
+door~
+End
+
+#8443
+Name A Small Chamber~
+Descr
+There seems to be nothing down here.  As you look about the chamber all
+you see is tons of dirt.  You also get this strange feeling that the walls
+are closing in.  
+~
+Flags 5
+Shd 1
+Reset M 8431 1 50
+Reset O 8409 11 10
+Movemess
+(null)~
+Door 0 0 0 8442 30 30
+~
+door~
+End
+
+#8444
+Name The Old Thief Guild~
+Descr
+This room houses the thieves guild.  This secretive guild room is
+lucratively decorated, and you see that these theives are VERY good at what
+they do.  The guildmaster is at ease in his sanctuary.  He seems almost as
+if he is surrounded by guards, but then again it could be the dagger you
+thought you saw beneath his cloak.  
+~
+Flags 1029
+Shd 1
+Reset M 8401 1 100
+Reset O 937 -1 1
+Reset M 8403 2 100
+Reset O 217 4 100
+Reset O 207 6 100
+Reset M 8403 2 100
+Reset O 207 6 100
+Reset O 217 4 100
+Movemess
+(null)~
+Door 4 259 0 40661 30 30
+~
+hiddendoor~
+End
+
+#8445
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8451 4 100
+Movemess
+(null)~
+Door 0 0 0 8453 30 30
+~
+(null)~
+Door 2 0 0 8446 30 30
+~
+(null)~
+Door 3 0 0 8447 30 30
+~
+(null)~
+Door 4 0 0 8428 30 30
+~
+(null)~
+End
+
+#8446
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8445 30 30
+~
+(null)~
+Door 3 0 0 8449 30 30
+~
+(null)~
+End
+
+#8447
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8451 4 100
+Movemess
+(null)~
+Door 0 0 0 8448 30 30
+~
+(null)~
+Door 1 0 0 8445 30 30
+~
+(null)~
+Door 2 0 0 8449 30 30
+~
+(null)~
+Door 3 0 0 8450 30 30
+~
+(null)~
+End
+
+#8448
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8451 4 100
+Movemess
+(null)~
+Door 1 0 0 8453 30 30
+~
+(null)~
+Door 2 0 0 8447 30 30
+~
+(null)~
+Door 3 0 0 8451 30 30
+~
+(null)~
+End
+
+#8449
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8447 30 30
+~
+(null)~
+Door 1 0 0 8446 30 30
+~
+(null)~
+Door 3 0 0 8452 30 30
+~
+(null)~
+End
+
+#8450
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8423 5 90
+Reset M 8423 5 90
+Movemess
+(null)~
+Door 0 0 0 8451 30 30
+~
+(null)~
+Door 1 0 0 8447 30 30
+~
+(null)~
+Door 2 0 0 8452 30 30
+~
+(null)~
+Door 3 0 0 8454 30 30
+~
+(null)~
+End
+
+#8451
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8423 5 90
+Reset M 8423 5 90
+Movemess
+(null)~
+Door 1 0 0 8448 30 30
+~
+(null)~
+Door 2 0 0 8450 30 30
+~
+(null)~
+End
+
+#8452
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Reset M 8423 5 90
+Movemess
+(null)~
+Door 0 0 0 8450 30 30
+~
+(null)~
+Door 1 0 0 8449 30 30
+~
+(null)~
+End
+
+#8453
+Name On The Battlefield~
+Descr
+You stand on a barren, underground battlefield.  Parts of heads and brain
+are strewn around the dirt floor.  The smell of decaying body parts and the
+sweet scent of rotten elf lingers in the still air.  
+~
+Flags 4
+Shd 1
+Movemess
+(null)~
+Door 2 0 0 8445 30 30
+~
+(null)~
+Door 3 0 0 8448 30 30
+~
+(null)~
+End
+
+#8454
+Name Top Of A Short Ladder~
+Descr
+You stand on the top of a short ladder leading down into the ground.  To
+the east you can see the large arena stretch out before you.  A horrible
+smell of wet dog comes from somewhere below here.  
+~
+Flags 6
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8450 30 30
+~
+(null)~
+Door 5 0 0 8455 30 30
+~
+(null)~
+End
+
+#8455
+Name Bottom Of A Short Ladder~
+Descr
+You stand at the bottom of a short ladder leading up into the main arena
+level.  You can see a passageway start to the north of here, and a horrible
+smell of wet mutt comes from that direction.  
+~
+Flags 4
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8456 30 30
+~
+(null)~
+Door 4 0 0 8454 30 30
+~
+(null)~
+End
+
+#8456
+Name Intersection~
+Descr
+You stand at an intersection, underground.  You think you can hear some
+barking in the distance, but it sounds like there is barking all around. 
+You can see a a ladder a ways off to the south.  
+~
+Flags 6
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8458 30 30
+~
+(null)~
+Door 1 0 0 8457 30 30
+~
+(null)~
+Door 2 0 0 8455 30 30
+~
+(null)~
+Door 3 0 0 8459 30 30
+~
+(null)~
+Door 5 0 0 8460 30 30
+~
+(null)~
+End
+
+#8457
+Name Inside A Cage~
+Descr
+You stand inside a cage, deep underground.  The smell of wet dog and
+vomit comes from all around, and you begin to feel sick.  
+~
+Flags 4
+Shd 1
+Reset M 8425 1 100
+Movemess
+(null)~
+Door 3 0 0 8456 30 30
+~
+(null)~
+End
+
+#8458
+Name Inside A Cage~
+Descr
+You stand inside a cage, deep underground.  The smell of wet dog and
+vomit comes from all around, and you begin to feel sick.  
+~
+Flags 4
+Shd 1
+Reset M 8426 1 100
+Movemess
+(null)~
+Door 2 0 0 8456 30 30
+~
+(null)~
+End
+
+#8459
+Name Inside A Cage~
+Descr
+You stand inside a cage, deep underground.  The smell of wet dog and
+vomit comes from all around, and you begin to feel sick.  
+~
+Flags 4
+Shd 1
+Reset M 8424 1 100
+Movemess
+(null)~
+Door 1 0 0 8456 30 30
+~
+(null)~
+End
+
+#8460
+Name A Dark Hallway~
+Descr
+You stand in a dark hallway, very deep underground.  The air is thick and
+no breeze blows through this deep underground passageway.  You feel a bit
+fearful and consider running back up to the main streets of Masqe.  
+~
+Flags 5
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8461 30 30
+~
+(null)~
+Door 4 0 0 8456 30 30
+~
+(null)~
+End
+
+#8461
+Name A Dark Hallway~
+Descr
+You stand in a dark hallway, very deep underground.  The air is thick and
+no breeze blows through this deep underground passageway.  You feel a bit
+fearful and consider running back up to the main streets of Masqe.  
+~
+Flags 5
+Shd 1
+Reset M 8427 2 100
+Movemess
+(null)~
+Door 1 0 0 8462 30 30
+~
+(null)~
+Door 3 0 0 8460 30 30
+~
+(null)~
+End
+
+#8462
+Name A Dark Hallway~
+Descr
+You stand in a dark hallway, very deep underground.  The air is thick and
+no breeze blows through this deep underground passageway.  You feel a bit
+fearful and consider running back up to the main streets of Masqe.  
+~
+Flags 5
+Shd 1
+Reset M 8427 2 100
+Movemess
+(null)~
+Door 1 0 0 8463 30 30
+~
+(null)~
+Door 3 0 0 8461 30 30
+~
+(null)~
+End
+
+#8463
+Name A Dark Hallway~
+Descr
+You stand in a dark hallway, very deep underground.  The air is thick and
+no breeze blows through this deep underground passageway.  You feel a bit
+fearful and consider running back up to the main streets of Masqe.  
+~
+Flags 7
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8464 30 30
+~
+(null)~
+Door 3 0 0 8462 30 30
+~
+(null)~
+End
+
+#8464
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8465 30 30
+~
+(null)~
+Door 1 0 0 8467 30 30
+~
+(null)~
+Door 2 0 0 8469 30 30
+~
+(null)~
+Door 3 0 0 8463 30 30
+~
+(null)~
+End
+
+#8465
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8466 30 30
+~
+(null)~
+Door 2 0 0 8464 30 30
+~
+(null)~
+End
+
+#8466
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Reset M 8428 3 100
+Movemess
+(null)~
+Door 2 0 0 8467 30 30
+~
+(null)~
+Door 3 0 0 8465 30 30
+~
+(null)~
+End
+
+#8467
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Reset M 8428 3 100
+Movemess
+(null)~
+Door 0 0 0 8466 30 30
+~
+(null)~
+Door 2 0 0 8468 30 30
+~
+(null)~
+Door 3 0 0 8464 30 30
+~
+(null)~
+End
+
+#8468
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Reset M 8428 3 100
+Movemess
+(null)~
+Door 0 0 0 8467 30 30
+~
+(null)~
+Door 3 0 0 8469 30 30
+~
+(null)~
+End
+
+#8469
+Name A Small Arena~
+Descr
+You stand in a small arena, deep underground.  The air is still and
+unmoving, and you can smell decay and sweat in the air.  
+~
+Flags 5
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8464 30 30
+~
+(null)~
+Door 1 0 0 8468 30 30
+~
+(null)~
+End
+
+#8470
+Name Training Room One~
+Descr
+You stand in a training room in Sloth's house of training.  Bits of
+splattered gore and blood stain the walls, and a half-rotten orc body of an
+orc who didn't make it through the training lies here on the ground.  
+~
+Flags 8
+Shd 1
+Sector 0
+ExtraDescr body~
+You just see a gross mess of blood and gore...
+
+
+~
+Reset M 8405 5 100
+Reset M 8405 5 100
+Reset M 8405 5 100
+Reset M 8405 5 100
+Reset M 8405 5 100
+Movemess
+(null)~
+Door 1 0 0 8472 30 30
+~
+(null)~
+Door 3 0 0 8410 30 30
+~
+(null)~
+End
+
+#8472
+Name Training Room Two~
+Descr
+This second training room seems to be less travelled into and there is
+less gore and blood around.  The cold stone walls make all the sounds around
+you echo, and you can't wait to here these dummies death-cries echo through
+the cavern.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8406 5 100
+Reset M 8406 5 100
+Reset M 8406 5 100
+Reset M 8406 5 100
+Reset M 8406 5 100
+Movemess
+(null)~
+Door 1 0 0 8473 30 30
+~
+(null)~
+Door 3 0 0 8470 30 30
+~
+(null)~
+End
+
+#8473
+Name Training Room Three~
+Descr
+This third training room seems to be even less travelled into and there
+is less gore and blood around.  The cold stone walls make all the sounds
+around you echo, and you can't wait to here these dummies death-cries echo
+through the cavern.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8407 4 100
+Reset M 8407 4 100
+Reset M 8407 4 100
+Reset M 8407 4 100
+Movemess
+(null)~
+Door 1 0 0 8474 30 30
+~
+(null)~
+Door 3 0 0 8472 30 30
+~
+(null)~
+End
+
+#8474
+Name Final Training Room~
+Descr
+You stand at a dead-end in the cave.  You can tell this is the final
+training room because there are more orc and humanoid body parts lying
+around than dummy parts.  You wonder what horrible magic animates these evil
+dummies.  
+~
+Flags 8
+Shd 1
+Sector 0
+Reset M 8408 2 100
+Reset M 8408 2 100
+Movemess
+(null)~
+Door 3 0 0 8473 30 30
+~
+(null)~
+End
+
+#8475
+Name Sloth's Private Chamber~
+Descr
+You have entered Sloth's private chambers.  There are bits of bleached
+bone and chunks of fresh flesh on the ground.  A horrible smell comes from
+all around, and you wonder how long it took Sloth to make his chamber so
+pleasant to live in.  
+~
+Flags 12
+Shd 1
+Sector 0
+Reset M 8404 1 100
+Movemess
+(null)~
+Door 2 0 0 8410 30 30
+~
+(null)~
+End
+
+#8476
+Name Before the South Gates of Masqe~
+Descr
+You stand on a small paved road, held together by ground bones and blood.
+To the north a ways you can see the entrance to Masqe, and the road
+continues to the south.  A feeling of evil hangs in the air here.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8430 30 30
+~
+(null)~
+Door 1 0 0 6047 0 0
+~
+~
+Door 2 0 0 8477 30 30
+~
+(null)~
+Door 3 0 0 6431 0 0
+~
+~
+End
+
+#8477
+Name A Small Paved Road~
+Descr
+This small, paved road runs north and south here.  Just a ways to the
+south you can see the road split in four ways.  To the north a ways you can
+see the entrance to the cave city of Masqe.
+~
+Reset M 8458 2 100
+Reset O 237 21 48
+Reset O 227 5 5
+Reset O 208 6 18
+Movemess
+(null)~
+Door 0 0 0 8476 30 30
+~
+(null)~
+Door 1 0 0 6050 0 0
+~
+~
+Door 2 0 0 8478 30 30
+~
+(null)~
+Door 3 0 0 6441 0 0
+~
+~
+End
+
+#8478
+Name A Fork In The Road~
+Descr
+The road forks here, leading north, west and south.  You can see the cave
+entrance to the city of Masqe to the north in the distance, and far to the
+west you can see the forest clear a little.  
+~
+Movemess
+(null)~
+Door 0 0 0 8477 30 30
+~
+(null)~
+Door 1 0 0 6065 0 0
+~
+~
+Door 2 0 0 8479 30 30
+~
+(null)~
+Door 3 0 0 8482 30 30
+~
+(null)~
+End
+
+#8479
+Name A Small Paved Road~
+Descr
+You stand on a small, paved road, cobbled with thin small stones and held
+together by a thick paste made of ground bones and high-elf blood.  You can
+see a fork in the road to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 8478 30 30
+~
+(null)~
+Door 1 0 0 6079 0 0
+~
+~
+Door 2 0 0 8480 30 30
+~
+(null)~
+Door 3 0 0 6419 0 0
+~
+~
+End
+
+#8480
+Name A Small Paved Road~
+Descr
+You stand on a small, paved road, cobbled with thin small stones and held
+together by a thick paste made of ground bones and high-elf blood.  You can
+see a fork in the road a ways off to the north.  
+~
+Reset M 8456 3 100
+Movemess
+(null)~
+Door 0 0 0 8479 30 30
+~
+(null)~
+Door 1 0 0 6092 0 0
+~
+~
+Door 2 0 0 8481 30 30
+~
+(null)~
+Door 3 0 0 6420 0 0
+~
+~
+End
+
+#8481
+Name A Small Paved Road~
+Descr
+This small cobbled road is tough to travel upon, and many of the stones
+underfoot have been ripped apart, creating a jagged, hard surface.  You can
+see a junction far to the north.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8480 30 30
+~
+(null)~
+Door 1 0 0 6406 0 0
+~
+~
+Door 2 0 0 6597 0 0
+~
+~
+Door 3 0 0 50008 30 30
+~
+(null)~
+End
+
+#8482
+Name On A Small Path~
+Descr
+You find a small path that leads towards a vast field to the west.
+A fork can be seen to the east, branching into all directions.
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 8478 30 30
+~
+(null)~
+Door 3 0 0 8483 30 30
+~
+(null)~
+End
+
+#8483
+Name On A Small Path~
+Descr
+The path corners to the east and south.
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 8482 30 30
+~
+(null)~
+Door 2 0 0 8484 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#8484
+Name On A Small Path~
+Descr
+The path corners to the north and west.
+~
+Movemess
+(null)~
+Door 0 0 0 8483 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 8485 30 30
+~
+(null)~
+End
+
+#8485
+Name On A Small Path~
+Descr
+The path continues east and west.
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 8484 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 8486 30 30
+~
+(null)~
+End
+
+#8486
+Name On A Small Path~
+Descr
+You are on a small path that goes east and south.
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 8485 30 30
+~
+(null)~
+Door 2 0 0 8487 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#8487
+Name On A Small Path~
+Descr
+You are on a small path that goes north and west.
+~
+Movemess
+(null)~
+Door 0 0 0 8486 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 8488 30 30
+~
+(null)~
+End
+
+#8488
+Name Before a Large, Open Field~
+Descr
+To the west is a vast hilly field.  The grass sways in the wind, which
+seems you make a little dizzy.
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 8487 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55199 0 0
+~
+~
+End
+
+#8489
+Name On A Dusty Path~
+Descr
+~
+Movemess
+(null)~
+Door 1 0 0 8491 30 30
+~
+(null)~
+Door 3 0 0 8415 30 30
+~
+(null)~
+End
+
+#8490
+Name Just Inside A Dark Cave~
+Descr
+You stand just before the Masque Northern gate.  Just being built, the
+north gate looks fairly new and clean.  To the west is Fiko's house of pain
+and combat, and to the south you can see the horrible city of masque and the
+evil people who live in it.  
+~
+Flags 8
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 8510 30 30
+~
+North Gate~
+Door 2 0 0 8411 0 0
+~
+~
+Door 3 0 0 8586 0 0
+~
+~
+End
+
+#8491
+Name On A Dusty Path~
+Descr
+~
+Movemess
+(null)~
+Door 1 0 0 8492 30 30
+~
+(null)~
+Door 3 0 0 8489 30 30
+~
+(null)~
+End
+
+#8492
+Name On A Dusty Path~
+Descr
+~
+Movemess
+(null)~
+Door 0 0 0 8493 30 30
+~
+(null)~
+Door 3 0 0 8491 30 30
+~
+(null)~
+End
+
+#8493
+Name On A Dusty Path~
+Descr
+~
+Movemess
+(null)~
+Door 0 0 0 8494 30 30
+~
+(null)~
+Door 2 0 0 8492 30 30
+~
+(null)~
+End
+
+#8494
+Name On A Dusty Path~
+Descr
+~
+Movemess
+(null)~
+Door 2 0 0 8493 30 30
+~
+(null)~
+End
+
+#8495
+Name A Dark Forest~
+Descr
+This dusty path, just north of the ancient evil road, looks moderately
+well worn.  You can see large trees in the distance to the northwest, and
+you think you hear a scream for a moment, but then the sweet sound is gone. 
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29182 30 30
+~
+(null)~
+Door 2 0 0 29075 30 30
+~
+(null)~
+End
+
+#8496
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the north and
+south.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Reset M 8449 9 100
+Movemess
+(null)~
+Door 0 0 0 8497 30 30
+~
+(null)~
+Door 2 0 0 6583 0 0
+~
+~
+End
+
+#8497
+Name A Dusty Path~
+Descr
+The dusty path runs north and south here.  A strange evil aura seeps up
+from the soft soil, and you can see maggots and horrible small crunchy
+critters creeping along the ground here.  
+~
+Flags 2
+Reset M 8449 9 100
+Reset M 8449 9 100
+Movemess
+(null)~
+Door 0 0 0 8498 30 30
+~
+(null)~
+Door 2 0 0 8496 30 30
+~
+(null)~
+End
+
+#8498
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the north and
+south.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Movemess
+(null)~
+Door 0 0 0 8499 30 30
+~
+(null)~
+Door 2 0 0 8497 30 30
+~
+(null)~
+End
+
+#8499
+Name A Dusty Path~
+Descr
+The path turns to the south and west here.  The trees by the path are
+mangled and black, and the grass is brown and almost dead.  There is a
+pungent smell of death in the air...  
+~
+Reset M 8449 9 100
+Movemess
+(null)~
+Door 2 0 0 8498 30 30
+~
+(null)~
+Door 3 0 0 8500 30 30
+~
+(null)~
+End
+
+#8500
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the east and
+west.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Movemess
+(null)~
+Door 1 0 0 8499 30 30
+~
+(null)~
+Door 3 0 0 8501 30 30
+~
+(null)~
+End
+
+#8501
+Name A Dusty Path~
+Descr
+The dusty path runs east and west here.  A strange evil aura seeps up
+from the soft soil, and you can see maggots and horrible small crunchy
+critters creeping along the ground here.  
+~
+Reset M 8449 9 100
+Reset M 8449 9 100
+Movemess
+(null)~
+Door 1 0 0 8500 30 30
+~
+(null)~
+Door 3 0 0 8502 30 30
+~
+(null)~
+End
+
+#8502
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the east and
+west.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Reset M 8449 9 100
+Movemess
+(null)~
+Door 1 0 0 8501 30 30
+~
+(null)~
+Door 3 0 0 8503 30 30
+~
+(null)~
+End
+
+#8503
+Name A Dusty Path~
+Descr
+This long dusty road turns to the north and east here, and you can
+clearing hear a sharp, high-pitched scream coming from somewhere to the
+northwest.  The sound of pain makes you quiver in anticipation.  
+~
+Movemess
+(null)~
+Door 0 0 0 8505 30 30
+~
+(null)~
+Door 1 0 0 8502 30 30
+~
+(null)~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#8504
+Name A Dusty Path~
+Descr
+The blackened trees along the side of the road smell like they have been
+recently charred and burned, and a horrible smell of seared flesh rushes
+across your nose, making your eyes water.  
+~
+Movemess
+(null)~
+Door 0 0 0 8509 30 30
+~
+(null)~
+Door 2 0 0 8505 30 30
+~
+(null)~
+End
+
+#8505
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the north and
+south.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Movemess
+(null)~
+Door 0 0 0 8504 30 30
+~
+(null)~
+Door 2 0 0 8503 30 30
+~
+(null)~
+End
+
+#8506
+Name A Dusty Path~
+Descr
+The dusty path runs north and south here.  A strange evil aura seeps up
+from the soft soil, and you can see maggots and horrible small crunchy
+critters creeping along the ground here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8507 30 30
+~
+(null)~
+Door 2 0 0 8504 30 30
+~
+(null)~
+End
+
+#8507
+Name A Dusty Path~
+Descr
+You stand upon a large stretch of dusty road that leads to the north and
+south.  The ground seems alive with maggots and other black bugs here, and
+you wonder what they are feasting upon underneath the rotten leaves...  
+~
+Movemess
+(null)~
+Door 0 0 0 8508 30 30
+~
+(null)~
+Door 2 0 0 8506 30 30
+~
+(null)~
+End
+
+#8508
+Name A Dusty Path~
+Descr
+The dusty path runs north and south here.  A strange evil aura seeps up
+from the soft soil, and you can see maggots and horrible small crunchy
+critters creeping along the ground here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8509 30 30
+~
+(null)~
+Door 2 0 0 8507 30 30
+~
+(null)~
+End
+
+#8509
+Name A Dusty Path~
+Descr
+The path curves to the south and west here, and a ways off to the west,
+you can see the great slave encampment where the creatures of evil hold
+elves and other good creatures hostage.  
+~
+Reset M 8448 1 100
+Movemess
+(null)~
+Door 2 0 0 8504 30 30
+~
+(null)~
+Door 3 0 0 8511 30 30
+~
+(null)~
+End
+
+#8510
+Name Masque Cave Entrance~
+Descr
+~
+Reset M 8501 1 100
+Reset O 207 -1 75
+Reset M 8501 1 100
+Reset O 207 -1 75
+Reset M 8501 1 100
+Reset O 207 -1 75
+Reset M 8501 1 100
+Reset O 207 -1 75
+Movemess
+(null)~
+Door 0 0 0 5938 0 0
+~
+~
+Door 1 0 0 5949 0 0
+~
+~
+Door 2 3 0 8490 30 30
+~
+North Gate~
+Door 3 0 0 5941 0 0
+~
+~
+End
+
+#8511
+Name Elf Slave Encampment Entrance~
+Descr
+You stand just outside the elf slave encampment.  You can hear cries of
+torment and agony coming from the west, and you can see a dusty trail begin
+to the east.  The trees around here are blackened and give off an evil aura.
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 8509 30 30
+~
+(null)~
+Door 3 3 0 8512 30 30
+~
+gate~
+End
+
+#8512
+Name Just Inside A Large Gate~
+Descr
+You stand just inside a large gate.  Tall fences can be seen to the south
+and west.  The air is filled with the smell of decaying elf meat, and an
+evil energy creeps into your soul.  
+~
+Movemess
+(null)~
+Door 1 3 0 8511 30 30
+~
+gate~
+Door 2 0 0 8535 30 30
+~
+(null)~
+Door 3 0 0 8513 30 30
+~
+(null)~
+End
+
+#8513
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just south of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Reset M 8452 5 100
+Reset M 8443 5 100
+Movemess
+(null)~
+Door 1 0 0 8512 30 30
+~
+(null)~
+Door 3 0 0 8514 30 30
+~
+(null)~
+End
+
+#8514
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just south of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 1 0 0 8513 30 30
+~
+(null)~
+Door 3 0 0 8515 30 30
+~
+(null)~
+End
+
+#8515
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just south of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  A small, bloody path leads south from here.  
+~
+Reset M 8452 5 100
+Reset M 8443 5 100
+Reset O 1055 10 12
+Reset O 236 21 100
+Movemess
+(null)~
+Door 1 0 0 8514 30 30
+~
+(null)~
+Door 2 0 0 8536 30 30
+~
+(null)~
+Door 3 0 0 8516 30 30
+~
+(null)~
+End
+
+#8516
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just south of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 1 0 0 8515 30 30
+~
+(null)~
+Door 3 0 0 8517 30 30
+~
+(null)~
+End
+
+#8517
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just south of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  You can see a cell to the south.  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 8516 30 30
+~
+(null)~
+Door 2 3 0 8551 30 30
+~
+celldoor~
+Door 3 0 0 8518 30 30
+~
+(null)~
+End
+
+#8518
+Name North-West Corner~
+Descr
+You stand at the northwest corner of this camp of horror.  The path along
+the large, inescapable walls runs south and east here, and you think you can
+make out a large cell to the southeast.  
+~
+Reset M 8448 1 100
+Movemess
+(null)~
+Door 1 0 0 8517 30 30
+~
+(null)~
+Door 2 0 0 8519 30 30
+~
+(null)~
+End
+
+#8519
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just east of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8518 30 30
+~
+(null)~
+Door 2 0 0 8520 30 30
+~
+(null)~
+End
+
+#8520
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just east of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8519 30 30
+~
+(null)~
+Door 2 0 0 8521 30 30
+~
+(null)~
+End
+
+#8521
+Name Outside A Large Courtyard~
+Descr
+You stand just to the east of a large courtyard.  To the east you can see
+a blood-stained, small trail that leads through the middle of the camp, and
+to the south you can see the small trail that runs along the camp walls.  
+~
+Reset M 8443 5 100
+Movemess
+(null)~
+Door 0 0 0 8520 30 30
+~
+(null)~
+Door 1 0 0 8541 30 30
+~
+(null)~
+Door 2 0 0 8522 30 30
+~
+(null)~
+Door 3 0 0 8561 30 30
+~
+(null)~
+End
+
+#8522
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just east of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Reset M 8443 5 100
+Reset O 214 9 94
+Reset O 1025 21 16
+Reset O 219 4 100
+Reset O 8418 22 31
+Movemess
+(null)~
+Door 0 0 0 8521 30 30
+~
+(null)~
+Door 2 0 0 8523 30 30
+~
+(null)~
+End
+
+#8523
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just east of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8522 30 30
+~
+(null)~
+Door 1 0 0 8553 30 30
+~
+(null)~
+Door 2 0 0 8524 30 30
+~
+(null)~
+End
+
+#8524
+Name South-West Corner~
+Descr
+You stand in the southwest corner of this elven encampment.  You can
+smell dried blood and decaying flesh in the air, and you begin to feel
+nautious.  You can see paths that run to the east and north along the walls
+here.  
+~
+Reset M 8448 1 100
+Movemess
+(null)~
+Door 0 0 0 8523 30 30
+~
+(null)~
+Door 1 0 0 8525 30 30
+~
+(null)~
+End
+
+#8525
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just north of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Reset M 8448 3 100
+Reset O 237 21 100
+Reset O 217 4 100
+Reset O 209 6 31
+Reset O 227 5 91
+Movemess
+(null)~
+Door 1 0 0 8526 30 30
+~
+(null)~
+Door 3 0 0 8524 30 30
+~
+(null)~
+End
+
+#8526
+Name Southern Slave Camp Entrance~
+Descr
+You stand at the southern entrance to this awful slave camp.  The air is
+filled with the scent of death, and the screams of the slaves sends chills
+down your spine.  
+~
+Movemess
+(null)~
+Door 1 0 0 8527 30 30
+~
+(null)~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 8525 30 30
+~
+(null)~
+End
+
+#8527
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just north of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  A bloody path leads north from here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8540 30 30
+~
+(null)~
+Door 1 0 0 8528 30 30
+~
+(null)~
+Door 3 0 0 8526 30 30
+~
+(null)~
+End
+
+#8528
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just north of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Reset M 8448 3 100
+Reset O 14580 21 100
+Reset O 222 4 77
+Reset O 202 7 100
+Reset O 205 6 88
+Movemess
+(null)~
+Door 1 0 0 8529 30 30
+~
+(null)~
+Door 3 0 0 8527 30 30
+~
+(null)~
+End
+
+#8529
+Name Along a Tall Fence~
+Descr
+You stand along a dusty path that runs just north of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Reset M 8452 5 100
+Movemess
+(null)~
+Door 1 0 0 8530 30 30
+~
+(null)~
+Door 3 0 0 8528 30 30
+~
+(null)~
+End
+
+#8530
+Name South-East Corner~
+Descr
+You stand at the southeast corner of this brutal orcish encampment for
+slave-elves.  You can see a path running to the north and west along the
+high walls of the camp.  
+~
+Reset M 8448 1 100
+Movemess
+(null)~
+Door 0 0 0 8531 30 30
+~
+(null)~
+Door 3 0 0 8529 30 30
+~
+(null)~
+End
+
+#8531
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just west of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8532 30 30
+~
+(null)~
+Door 2 0 0 8530 30 30
+~
+(null)~
+End
+
+#8532
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just west of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8533 30 30
+~
+(null)~
+Door 2 0 0 8531 30 30
+~
+(null)~
+End
+
+#8533
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just west of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  A small path leading through the center of the camp
+can be seen to the west of here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8534 30 30
+~
+(null)~
+Door 2 0 0 8532 30 30
+~
+(null)~
+Door 3 0 0 8544 30 30
+~
+(null)~
+End
+
+#8534
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just west of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8535 30 30
+~
+(null)~
+Door 2 0 0 8533 30 30
+~
+(null)~
+End
+
+#8535
+Name Along A Tall Fence~
+Descr
+You stand along a dusty path that runs just west of a tall fence.  The
+air is filled with the scent of decay and the screams of tortured beings. 
+The air around you is filled with an aura of evil, and a creeping darkness
+oozes into your soul.  
+~
+Movemess
+(null)~
+Door 0 0 0 8512 30 30
+~
+(null)~
+Door 2 0 0 8534 30 30
+~
+(null)~
+Door 3 3 0 8545 30 30
+~
+door~
+End
+
+#8536
+Name A Bloody Path~
+Descr
+You stand on a cobble road that runs north and south through this place
+of horror.  Blood stains and chunks of flesh line the ground, and a pungent
+odor of death hangs in the air.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8515 30 30
+~
+(null)~
+Door 2 0 0 8537 30 30
+~
+(null)~
+Door 3 3 0 8549 30 30
+~
+door~
+End
+
+#8537
+Name A Bloody Path~
+Descr
+You stand on a cobble road that runs north and south through this place
+of horror.  Blood stains and chunks of flesh line the ground, and a pungent
+odor of death hangs in the air.  
+~
+Movemess
+(null)~
+Door 0 0 0 8536 30 30
+~
+(null)~
+Door 1 0 0 8547 30 30
+~
+(null)~
+Door 2 0 0 8539 30 30
+~
+(null)~
+End
+
+#8538
+Name A Bloody Path~
+Descr
+You stand on a cobble road that runs north and south through this place
+of horror.  Blood stains and chunks of flesh line the ground, and a pungent
+odor of death hangs in the air.  
+~
+Flags 2
+Reset M 8452 5 100
+Movemess
+(null)~
+Door 0 0 0 8539 30 30
+~
+(null)~
+Door 1 0 0 8557 30 30
+~
+(null)~
+Door 2 0 0 8540 30 30
+~
+(null)~
+Door 3 0 0 8555 30 30
+~
+(null)~
+End
+
+#8539
+Name The Center Of The Elven Slave Encampment~
+Descr
+You stand in the center of the elven slave encampment.  A bloody trail
+leads north and south of here and a small path leading east-west through the
+camp can be seen to the east and west of here.  
+~
+Reset M 8448 3 100
+Movemess
+(null)~
+Door 0 0 0 8537 30 30
+~
+(null)~
+Door 1 0 0 8543 30 30
+~
+(null)~
+Door 2 0 0 8538 30 30
+~
+(null)~
+Door 3 0 0 8542 30 30
+~
+(null)~
+End
+
+#8540
+Name A Bloody Path~
+Descr
+You stand on a bloody path that runs to the north a ways and south.  To
+the north you can see the very center of the Elven slave encampment.  Bits
+of flesh and running blood cover the ground, creating a horrible stench. 
+The commander's quarters are to the west.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8538 30 30
+~
+(null)~
+Door 2 0 0 8527 30 30
+~
+(null)~
+Door 3 3 0 8556 30 30
+~
+door~
+End
+
+#8541
+Name A Small Path Through The Camp~
+Descr
+You stand on a small path leading through the center of the elven
+encampment.  The brown dirt underfoot is stained with small elf parts, and
+the air is thick and you gasp for a breath of fresh air.  
+~
+Movemess
+(null)~
+Door 1 0 0 8542 30 30
+~
+(null)~
+Door 3 0 0 8521 30 30
+~
+(null)~
+End
+
+#8542
+Name A Small Path Through The Camp~
+Descr
+You stand on a small path leading through the center of the elven
+encampment.  The brown dirt underfoot is stained with small elf parts, and
+the air is thick and you gasp for a breath of fresh air.  
+~
+Movemess
+(null)~
+Door 1 0 0 8539 30 30
+~
+(null)~
+Door 3 0 0 8541 30 30
+~
+(null)~
+End
+
+#8543
+Name A Small Path Through The Camp~
+Descr
+You stand on a small path leading through the center of the elven
+encampment.  The brown dirt underfoot is stained with small elf parts, and
+the air is thick and you gasp for a breath of fresh air.  
+~
+Movemess
+(null)~
+Door 1 0 0 8544 30 30
+~
+(null)~
+Door 3 0 0 8539 30 30
+~
+(null)~
+End
+
+#8544
+Name A Small Path Through The Camp~
+Descr
+You stand on a small path leading through the center of the elven
+encampment.  The brown dirt underfoot is stained with small elf parts, and
+the air is thick and you gasp for a breath of fresh air.  
+~
+Movemess
+(null)~
+Door 0 0 0 8546 30 30
+~
+(null)~
+Door 1 0 0 8533 30 30
+~
+(null)~
+Door 3 0 0 8543 30 30
+~
+(null)~
+End
+
+#8545
+Name Solitary Confinment~
+Descr
+You stand in a hot, small room that appears to have no easy exit.  Bones,
+and skulls with teeth in them lie all over the floor, smelling up the room. 
+You can see the large door to the east.  
+~
+Flags 4
+Sector 0
+Reset M 8402 1 100
+Movemess
+(null)~
+Door 1 3 0 8535 30 30
+~
+door~
+End
+
+#8546
+Name Inside A Hot Box~
+Descr
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8544 30 30
+~
+(null)~
+End
+
+#8547
+Name A Nasty Cafeteria~
+Descr
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8548 30 30
+~
+(null)~
+Door 3 0 0 8537 30 30
+~
+(null)~
+End
+
+#8548
+Name A Small Kitchen~
+Descr
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8547 30 30
+~
+(null)~
+End
+
+#8549
+Name Inside A Cell~
+Descr
+You stand inside an enormous cell, used to keep elves before they are
+transferred to other areas of the camp.  Blood stains the walls, and the air
+is thick and stuffy.  
+~
+Flags 4
+Sector 0
+Reset M 8442 5 100
+Movemess
+(null)~
+Door 1 3 0 8536 30 30
+~
+door~
+Door 2 0 0 8550 30 30
+~
+(null)~
+Door 3 0 0 8551 30 30
+~
+(null)~
+End
+
+#8550
+Name Inside A Cell~
+Descr
+You stand inside an enormous cell, used to keep elves before they are
+transferred to other areas of the camp.  Blood stains the walls, and the air
+is thick and stuffy.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8549 30 30
+~
+(null)~
+Door 3 0 0 8552 30 30
+~
+(null)~
+End
+
+#8551
+Name Inside A Cell~
+Descr
+You stand inside an enormous cell, used to keep elves before they are
+transferred to other areas of the camp.  Blood stains the walls, and the air
+is thick and stuffy.  
+~
+Flags 4
+Sector 0
+Reset M 8442 5 100
+Movemess
+(null)~
+Door 0 3 0 8517 30 30
+~
+celldoor~
+Door 1 0 0 8549 30 30
+~
+(null)~
+Door 2 0 0 8552 30 30
+~
+(null)~
+End
+
+#8552
+Name Inside A Cell~
+Descr
+You stand inside an enormous cell, used to keep elves before they are
+transferred to other areas of the camp.  Blood stains the walls, and the air
+is thick and stuffy.  
+~
+Flags 4
+Sector 0
+Reset M 8442 5 100
+Movemess
+(null)~
+Door 0 0 0 8551 30 30
+~
+(null)~
+Door 1 0 0 8550 30 30
+~
+(null)~
+End
+
+#8553
+Name Orcish Quarters~
+Descr
+You stand inside the orcish quarters, where the orc commanders and
+torturers spend most of their leisure and sleeping time.  To the south you
+can see a path that runs along the high camp wall, and to the north, the
+orcish quarters continue.  
+~
+Flags 4
+Sector 0
+Reset M 8444 2 100
+Movemess
+(null)~
+Door 0 0 0 8554 30 30
+~
+(null)~
+Door 3 0 0 8523 30 30
+~
+(null)~
+End
+
+#8554
+Name Orcish Quarters~
+Descr
+You stand a ways inside the orcish quarters.  You can see a bloody trail
+to a ways to the east, and the quarters continue to the south.  This must be
+where all the evil torturers and orcish commanders live.  
+~
+Flags 4
+Sector 0
+Reset M 8444 2 100
+Movemess
+(null)~
+Door 1 0 0 8555 30 30
+~
+(null)~
+Door 2 0 0 8553 30 30
+~
+(null)~
+End
+
+#8555
+Name Orcish Quarters~
+Descr
+You stand just inside the orcish quarters.  You can see a bloody trail to
+the east, and the quarters continue to the west.  This must be where all the
+evil torturers and orcish commanders live.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8538 30 30
+~
+(null)~
+Door 3 0 0 8554 30 30
+~
+(null)~
+End
+
+#8556
+Name Security Chief's Office~
+Descr
+You stand in the office for the chief of security.  The room is damp and
+the air is stagnant.  There are several chunks of spit that cling to the
+walls and ceiling, probably from the bad-tempered chief of security.  
+~
+Flags 4
+Sector 0
+Reset M 8441 1 60
+Reset O 8414 21 3
+Reset O 3211 6 9
+Reset O 223 4 22
+Movemess
+(null)~
+Door 1 3 0 8540 30 30
+~
+door~
+Door 5 259 0 8570 30 30
+~
+trapdoor~
+End
+
+#8557
+Name Elven Corpse Storage~
+Descr
+You stand inside a very smelly room, filled with flies and maggots.  You
+hear loud crunching noises with each step you take and you realize you are
+squishing millions of bugs with each step.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8558 30 30
+~
+(null)~
+Door 2 0 0 8560 30 30
+~
+(null)~
+Door 3 0 0 8538 30 30
+~
+(null)~
+End
+
+#8558
+Name Elven Corpse Storage~
+Descr
+You stand inside a very smelly room, filled with flies and maggots.  You
+hear loud crunching noises with each step you take and you realize you are
+squishing millions of bugs with each step.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8559 30 30
+~
+(null)~
+Door 3 0 0 8557 30 30
+~
+(null)~
+End
+
+#8559
+Name Elven Corpse Storage~
+Descr
+You stand inside a very smelly room, filled with flies and maggots.  You
+hear loud crunching noises with each step you take and you realize you are
+squishing millions of bugs with each step.  
+~
+Flags 4
+Sector 0
+Reset M 8445 4 100
+Reset M 8445 4 100
+Movemess
+(null)~
+Door 0 0 0 8558 30 30
+~
+(null)~
+Door 3 0 0 8560 30 30
+~
+(null)~
+End
+
+#8560
+Name Elven Corpse Storage~
+Descr
+You stand inside a very smelly room, filled with flies and maggots.  You
+hear loud crunching noises with each step you take and you realize you are
+squishing millions of bugs with each step.  
+~
+Flags 4
+Sector 0
+Reset M 8445 4 100
+Movemess
+(null)~
+Door 0 0 0 8557 30 30
+~
+(null)~
+Door 1 0 0 8559 30 30
+~
+(null)~
+End
+
+#8561
+Name Just Inside A Large Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8566 30 30
+~
+(null)~
+Door 1 0 0 8521 30 30
+~
+(null)~
+Door 2 0 0 8569 30 30
+~
+(null)~
+Door 3 0 0 8562 30 30
+~
+(null)~
+End
+
+#8562
+Name Center Of The CourtYard~
+Descr
+You stand in the center of a large courtyard.  In all directions you can
+see blood-stained stones and nooses around large trees.  You can see the
+elven encampment a ways to the east of here.  
+~
+Reset M 8447 1 100
+Reset O 55 -1 40
+Reset O 1024 -1 10
+Movemess
+(null)~
+Door 0 0 0 8565 30 30
+~
+(null)~
+Door 1 0 0 8561 30 30
+~
+(null)~
+Door 2 0 0 8568 30 30
+~
+(null)~
+Door 3 0 0 8563 30 30
+~
+(null)~
+End
+
+#8563
+Name Inside The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Reset M 8448 1 100
+Reset M 8446 2 100
+Movemess
+(null)~
+Door 0 0 0 8564 30 30
+~
+(null)~
+Door 1 0 0 8562 30 30
+~
+(null)~
+Door 2 0 0 8567 30 30
+~
+(null)~
+End
+
+#8564
+Name Corner Of The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Reset O 8415 -5 100
+Movemess
+(null)~
+Door 1 0 0 8565 30 30
+~
+(null)~
+Door 2 0 0 8563 30 30
+~
+(null)~
+End
+
+#8565
+Name Inside The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Movemess
+(null)~
+Door 1 0 0 8566 30 30
+~
+(null)~
+Door 2 0 0 8562 30 30
+~
+(null)~
+Door 3 0 0 8564 30 30
+~
+(null)~
+End
+
+#8566
+Name Corner Of The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Movemess
+(null)~
+Door 2 0 0 8561 30 30
+~
+(null)~
+Door 3 0 0 8565 30 30
+~
+(null)~
+End
+
+#8567
+Name Corner Of The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Movemess
+(null)~
+Door 0 0 0 8563 30 30
+~
+(null)~
+Door 1 0 0 8568 30 30
+~
+(null)~
+End
+
+#8568
+Name Inside A Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Reset M 8446 2 100
+Movemess
+(null)~
+Door 0 0 0 8562 30 30
+~
+(null)~
+Door 1 0 0 8569 30 30
+~
+(null)~
+Door 3 0 0 8567 30 30
+~
+(null)~
+End
+
+#8569
+Name Corner Of The Courtyard~
+Descr
+You stand inside a large courtyard.  You can hear screams and shouts
+coming from unseen places to the east, just inside of the elven camp.  A
+cool breeze blows past you, bringing scents of death and decay.  
+~
+Movemess
+(null)~
+Door 0 0 0 8561 30 30
+~
+(null)~
+Door 3 0 0 8568 30 30
+~
+(null)~
+End
+
+#8570
+Name At The End Of A Long Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 2 0 0 8575 30 30
+~
+(null)~
+Door 4 259 0 8556 30 30
+~
+trap door~
+End
+
+#8571
+Name ~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8570 30 30
+~
+(null)~
+Door 2 0 0 8572 30 30
+~
+(null)~
+End
+
+#8572
+Name ~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8571 30 30
+~
+(null)~
+Door 2 0 0 8573 30 30
+~
+(null)~
+End
+
+#8573
+Name ~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8572 30 30
+~
+(null)~
+Door 2 0 0 8574 30 30
+~
+(null)~
+End
+
+#8574
+Name ~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8573 30 30
+~
+(null)~
+Door 2 0 0 8575 30 30
+~
+(null)~
+End
+
+#8575
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8570 30 30
+~
+(null)~
+Door 2 0 0 8576 30 30
+~
+(null)~
+End
+
+#8576
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8575 30 30
+~
+(null)~
+Door 2 0 0 8577 30 30
+~
+(null)~
+End
+
+#8577
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8576 30 30
+~
+(null)~
+Door 2 0 0 8578 30 30
+~
+(null)~
+End
+
+#8578
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8577 30 30
+~
+(null)~
+Door 2 0 0 8579 30 30
+~
+(null)~
+End
+
+#8579
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Reset M 8440 4 75
+Reset M 8440 4 75
+Movemess
+(null)~
+Door 0 0 0 8578 30 30
+~
+(null)~
+Door 2 0 0 8580 30 30
+~
+(null)~
+End
+
+#8580
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8579 30 30
+~
+(null)~
+Door 3 0 0 8581 30 30
+~
+(null)~
+End
+
+#8581
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 8580 30 30
+~
+(null)~
+Door 3 0 0 8582 30 30
+~
+(null)~
+End
+
+#8582
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 8581 30 30
+~
+(null)~
+Door 2 0 0 8583 30 30
+~
+(null)~
+End
+
+#8583
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 134217732
+Reset M 8440 4 75
+Reset M 8440 4 75
+Movemess
+(null)~
+Door 0 0 0 8582 30 30
+~
+(null)~
+Door 2 0 0 8587 30 30
+~
+(null)~
+End
+
+#8584
+Name Masque Cave Entrance~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 2 0 0 8510 0 0
+~
+~
+End
+
+#8586
+Name Fiko's House of Pain and Combat~
+Descr
+~
+Flags 8
+Sector 0
+Reset M 8420 1 100
+Movemess
+(null)~
+Door 1 0 0 8490 0 0
+~
+~
+End
+
+#8587
+Name Inside A Long Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8583 30 30
+~
+(null)~
+Door 2 0 0 8588 30 30
+~
+(null)~
+End
+
+#8588
+Name Inside A Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Reset M 8490 1 100
+Reset M 8490 1 100
+Reset M 8490 1 100
+Reset M 8490 1 100
+Movemess
+(null)~
+Door 0 0 0 8587 30 30
+~
+(null)~
+Door 1 0 0 8589 30 30
+~
+(null)~
+End
+
+#8589
+Name Inside A Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 1 0 0 8590 30 30
+~
+(null)~
+Door 3 0 0 8588 30 30
+~
+(null)~
+End
+
+#8590
+Name A Dead End In The Secret Tunnel~
+Descr
+You stand in an enormously long tunnel, underground.  The air is still
+and unmoving, and water drips slowly from the ceiling.  
+~
+Flags 4
+Movemess
+(null)~
+Door 3 0 0 8589 30 30
+~
+(null)~
+End
+
+#8591
+Name On A Dark Path~
+Descr
+The path seems to end abruptly here, and continues to the east.  The
+trees are dark and ominous, and you can not even here one peep out of a bird
+or squirrel in the distance.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8592 30 30
+~
+(null)~
+Door 3 259 0 8479 30 30
+~
+brush~
+End
+
+#8592
+Name On A Dark Path~
+Descr
+The dark path curves here, and a strange evil aura seems to pour forth
+from the black soil underfoot.  The trees around the path are still and
+silent, and you get the creepy feeling you are being watched.  
+~
+Shd 1
+Movemess
+(null)~
+Door 2 0 0 8593 30 30
+~
+(null)~
+Door 3 0 0 8591 30 30
+~
+(null)~
+End
+
+#8593
+Name On A Dark Path~
+Descr
+The dark path bends to the north and east here, and you can feel a
+certain evil aura in the air.  Your heart fills with a smug feeling of power
+and you feel happy to be alive and exploring this horribly evil wooded area.
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8592 30 30
+~
+(null)~
+Door 1 0 0 8594 30 30
+~
+(null)~
+End
+
+#8594
+Name End Of A Dark Path~
+Descr
+You stand at the end of a dirt path.  All around you are large trees that
+block your way except to the west.  A strange feeling of evil permeates the
+dense air here, and you find it difficult to breath.  
+~
+Shd 1
+Movemess
+(null)~
+Door 3 0 0 8593 30 30
+~
+(null)~
+End
+
+#8595
+Name A Dark Forest~
+Descr
+~
+Flags 1024
+Movemess
+(null)~
+Door 4 3 0 8594 30 30
+~
+dirt~
+End
+
+#8596
+Name Eclipse's Inner Sanctum~
+Descr
+You stand in the first inner sanctum of Eclipse.  You can see the large
+guards that keep the clan safe (or at least where they should be) to the
+west of here.  To the south you can see the large clan board and the bank.  
+~
+Flags -2147483648
+Sector 0
+Reset M 8439 1 100
+Reset O 8413 -1 100
+Reset O 8412 -1 100
+Movemess
+(null)~
+Door 2 0 0 8597 30 30
+~
+(null)~
+Door 3 0 0 8595 30 30
+~
+(null)~
+End
+
+#8597
+Name Eclipse's Inner Sanctum~
+Descr
+You stand in the great inner sanctum of Eclipse.  The dark black,
+polished marble floors look well-kept and clean, although you can see an
+elf-skull lying in the corner.  You can see the bank to the south and
+Soulbane's private chambers to the east.  
+~
+Flags -2147483648
+Sector 0
+Reset O 8410 -5 100
+Movemess
+(null)~
+Door 0 0 0 8596 30 30
+~
+(null)~
+Door 1 0 0 8598 30 30
+~
+(null)~
+Door 2 0 0 8600 30 30
+~
+(null)~
+End
+
+#8598
+Name Inside Soulbane's Chamber~
+Descr
+You are now inside Soulbane's personal war room, where he plots out
+vicious attacks on his enemies.  The walls all around you are covered with
+the many heads of his victims.  Obviously Soulbane is a very crafty and
+deadly warrior.  
+~
+Flags -2147483648
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 8597 30 30
+~
+(null)~
+End
+
+#8599
+Name Room of the Cheaters~
+Descr
+~
+End
+
+#8600
+Name Eclipse's Bank and Fountain~
+Descr
+You stand inside of a large, black-marble room.  Large vaults line the
+walls where money can be kept safe when adventuring out into dangerous areas
+of the world.  You can see the inner sanctum to the north.  
+~
+Flags -2147483648
+Sector 0
+Reset M 8454 1 100
+Movemess
+(null)~
+Door 0 0 0 8597 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

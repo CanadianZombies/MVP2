@@ -1,0 +1,2454 @@
+#AREADATA 
+Name The City of Atlantis~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou can hear the ocean beckoning you out further and further...
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Ryxen~
+VNUMs 30200 30299
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#30200
+Name fish~
+Short a fish~
+Long 
+A fish is swimming here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 20
+Level 20
+MobType 14
+Guard 0
+End
+
+#30201
+Name huge whale gigantic~
+Short a huge whale~
+Long 
+A huge whale is swimming here, below the surface.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Money 150
+Level 150
+MobType 14
+Guard 0
+End
+
+#30202
+Name citizen atlantis~
+Short a citizen~
+Long 
+A citizen of the lost city of Atlantis is walking here.
+~
+Descr
+~
+AMax 15
+NHeight 0
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30203
+Name kital queen~
+Short kital~
+Long 
+A sexy queen is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 648
+Money 200
+Level 200
+Sex 2
+MobType 0
+Guard 0
+End
+
+#30204
+Name frog~
+Short a frog~
+Long 
+A frog is here, jumping around you.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 20
+Level 20
+MobType 14
+Guard 0
+End
+
+#30205
+Name bank banker~
+Short a retired banker~
+Long 
+An old retired banker is here.
+~
+Descr
+~
+AMax 1
+NHeight 54
+ActBits 2
+Affect_By 520
+Money 120
+Level 120
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30206
+Name guard kital~
+Short a guard~
+Long 
+A guard of the queen is standing by, looking for intruders.
+~
+Descr
+~
+AMax 3
+NHeight 40
+ActBits 2
+ActBits3 2
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30207
+Name xeraq~
+Short xeraq~
+Long 
+Xeraq is resting on his bookshelf.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 522
+Money 130
+Level 130
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30208
+Name kilpar~
+Short kilpar~
+Long 
+Old Kilpar is leaning on his cane.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 2
+Affect_By 522
+Money 130
+Level 130
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30209
+Name nuder~
+Short nuder~
+Long 
+Nuder is standing here, keeping his weapons shiny.
+~
+Descr
+~
+AMax 1
+NHeight 43
+ActBits 2
+Affect_By 522
+Money 135
+Level 135
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30210
+Name illasar~
+Short illasar~
+Long 
+Illasar is standing here, thinking about the ocean.
+~
+Descr
+~
+AMax 1
+NHeight 77
+ActBits 2
+Affect_By 522
+Money 150
+Level 150
+Sex 2
+MobType 0
+Guard 0
+End
+
+#30211
+Name jurt~
+Short jurt~
+Long 
+Jurt is lying here, warmed by the fire.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 2
+Affect_By 522
+Money 130
+Level 130
+Sex 2
+MobType 0
+Guard 0
+End
+
+#30213
+Name urchin~
+Short a small urchin~
+Long 
+A small urchin is lying here.
+~
+Descr
+~
+AMax 4
+NHeight 10
+ActBits 10
+Affect_By 512
+Money 30
+Level 30
+Sex 1
+MobType 14
+Guard 0
+End
+
+#30214
+Name holare~
+Short holare~
+Long 
+Holare is here, seemingly guarding something.
+~
+Descr
+~
+AMax 1
+NHeight 76
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 150
+Level 150
+Sex 2
+MobType 11
+Guard 5
+End
+
+#30215
+Name king hilkar~
+Short king hilkar~
+Long 
+King Hilkar is standing here, wondering where all his people have gone.
+~
+Descr
+~
+AMax 1
+NHeight 56
+ActBits 2
+Affect_By 648
+Money 225
+Level 225
+MobType 0
+Guard 0
+BCasts waterfall~
+BCast_P 10
+End
+
+#30216
+Name guard~
+Short a guard~
+Long 
+A guard is here, protecting the King.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30217
+Name buff male citizen~
+Short a citizen~
+Long 
+A really buff citizen is here, doing his daily exercises.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 2
+Affect_By 520
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30218
+Name huy~
+Short huy~
+Long 
+Huy, who appears to be very weak, is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 56
+ActBits 2
+Affect_By 522
+Money 200
+Level 200
+MobType 0
+Guard 0
+End
+
+#30219
+Name kiam~
+Short kiam~
+Long 
+Kiam is here, boxing with another person.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits 2
+Affect_By 520
+Money 130
+Level 130
+MobType 0
+Guard 0
+End
+
+#30220
+Name nuyio~
+Short nuyio~
+Long 
+Nuyio is here boxing with another person, getting beat up badly.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30221
+Name eranal~
+Short eranal~
+Long 
+Eranal is standing here, wondering what you are doing.
+~
+Descr
+~
+AMax 1
+NHeight 42
+ActBits 2
+Affect_By 522
+Money 120
+Level 120
+Sex 1
+MobType 0
+Guard 0
+End
+
+#30222
+Name crab~
+Short a crab~
+Long 
+A small crab is digging here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 20
+Level 20
+Sex 1
+MobType 7
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#30200
+Name fountain small water~
+Short a fountain~
+Descr
+A old dried up fountain is here, in the city of Atlantis.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#30201
+Name huge skeleton whale~
+Short a [1m[37mwhales [31mskeleton~
+Descr
+A bony ribcage is lying here.
+[0;36m~
+Type 9
+Extra 2
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 4 0 0 50 50 0 0
+Weight 3
+Cost 5000
+End
+
+#30202
+Name sword hilkar HIT APB~
+Short [34mHi[1m[34ml[0m[34mkar's [36msword[0m~
+Descr
+A gleaming shiny sword is lying here.
+[0;36m~
+Type 5
+Extra 2097153
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 3 0 0 0 5 5 0
+Weight 4
+Cost 2356
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#30203
+Name xeraq anklet xeraq~
+Short [0ma [1m[36manklet [0m[36mof [1m[33mXeraq[0m~
+Descr
+A small ring is lying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 50 50 10 3
+Weight 1
+Cost 4000
+Affect 18 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#30204
+Name boxing gloves golden hit~
+Short a [1m[33mgolden [0m[31mboxing [0m[33mgloves[0m~
+Descr
+A pair of gloves is lying here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 50 50 10 3
+Weight 2
+Cost 4000
+Affect 18 5 1 0 0
+End
+
+#30205
+Name water boot boots~
+Short a pair of [1m[34mwater[0m boots~
+LEffect 8388608
+Descr
+A pair of water boots is lying here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 3
+Weight 2
+Cost 4333
+Affect 22 3 1 0 0
+End
+
+#30206
+Name water leggings~
+Short a pair of [1m[34mwater[0m leggings~
+LEffect 8388608
+Descr
+A pair of water leggings is dripping here.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 50 50 10 3
+Weight 3
+Cost 10000
+Affect 22 2 1 0 0
+Affect 13 12 1 0 0
+End
+
+#30207
+Name weight bar APB3~
+Short [1m[33ma bar with two rocks attached[0m~
+Descr
+A primitive weight bar is here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 15 0 0 0 4 4 0
+Weight 25
+Cost 5433
+Affect 19 3 1 0 0
+End
+
+#30208
+Name key~
+Short a [1m[34mke[0m[34my~
+Descr
+A small bubble, which looks like a key is lying here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#30209
+Name key~
+Short a small [1m[31mblood red[0m[36m key~
+Descr
+A small disgusting piece of bloody material lies here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#30210
+Name dagger resok long~
+Short a long [1m[36mresok~
+Descr
+A long dagger has been left here.
+[0;36m~
+Type 5
+Extra 537001986
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 1 25 0
+Weight 5
+Cost 3232
+End
+
+#30211
+Name fire~
+Short a small fire~
+Descr
+A small [31mfire[0m is burning here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#30212
+Name fire ember ambers APB~
+Short a small [31mfire[0m ember, shaped like an earring~
+Descr
+A small fire ember is left behind by some foolish adventurer.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 3
+Weight 1
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#30213
+Name aura huy huy's~
+Short a [1m[34mmys[36mti[34mcal[0m aura~
+Descr
+A wonderful aura is discarded here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 20 20 0 0
+Weight 1
+Cost 3222
+Affect 19 1 1 0 0
+End
+
+#30214
+Name bracelet old water~
+Short an old [34mbrac[1m[34me[0m[34mlet[0m~
+Descr
+An old bracelet is lying here.
+[0;36m~
+Type 9
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 50 50 10 3
+Weight 1
+Cost 233
+End
+
+#30215
+Name helmet helm~
+Short a [1m[34mflimsy[0m helmet~
+Descr
+A flimsy helmey has been left here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 10 10 50 50 10 3
+Weight 3
+Cost 4333
+End
+
+#0
+
+
+
+#ROOMDATA
+#30200
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30204 5 100
+End
+
+#30201
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Door 0 0 0 30203 0 0
+~
+~
+Door 1 0 0 30205 0 0
+~
+~
+Door 3 0 0 30206 0 0
+~
+~
+End
+
+#30203
+Name USE ME~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30217 0 0
+~
+~
+Door 1 0 0 30212 0 0
+~
+~
+Door 2 0 0 30201 0 0
+~
+~
+Door 3 0 0 30211 0 0
+~
+~
+End
+
+#30204
+Name The Tyrak Mountains~
+Descr
+The Tyrak Mountains are not so tough to cross. When you think about it,
+it is more like the Tyrak Hills. However, mountain goats still walk across
+it, so it should be a little bit more tedious. 
+~
+Sector 4
+Door 0 0 0 30200 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#30205
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30222 1 100
+Door 0 0 0 30212 0 0
+~
+~
+Door 1 0 0 30208 0 0
+~
+~
+Door 3 0 0 30201 0 0
+~
+~
+End
+
+#30206
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30222 1 100
+Reset M 30204 5 100
+Door 0 0 0 30211 0 0
+~
+~
+Door 1 0 0 30201 0 0
+~
+~
+Door 3 0 0 30207 0 0
+~
+~
+End
+
+#30207
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30222 1 100
+Door 0 0 0 30213 0 0
+~
+~
+Door 1 0 0 30206 0 0
+~
+~
+Door 3 0 0 30210 0 0
+~
+~
+End
+
+#30208
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30222 1 100
+Reset M 30204 5 100
+Door 0 0 0 30215 0 0
+~
+~
+Door 1 0 0 30209 0 0
+~
+~
+Door 3 0 0 30205 0 0
+~
+~
+End
+
+#30209
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Door 0 0 0 30216 0 0
+~
+~
+Door 3 0 0 30208 0 0
+~
+~
+End
+
+#30210
+Name USE ME~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+Sector 2
+Reset M 30222 1 100
+Door 0 0 0 30214 0 0
+~
+~
+Door 1 0 0 30207 0 0
+~
+~
+End
+
+#30211
+Name USE ME~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30219 0 0
+~
+~
+Door 1 0 0 30203 0 0
+~
+~
+Door 2 0 0 30206 0 0
+~
+~
+Door 3 0 0 30213 0 0
+~
+~
+End
+
+#30212
+Name A Coastal Shoreline~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30222 0 0
+~
+~
+Door 1 0 0 30215 0 0
+~
+~
+Door 2 0 0 30205 0 0
+~
+~
+Door 3 0 0 30203 0 0
+~
+~
+End
+
+#30213
+Name USE ME~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30220 0 0
+~
+~
+Door 1 0 0 30211 0 0
+~
+~
+Door 2 0 0 30207 0 0
+~
+~
+Door 3 0 0 30214 0 0
+~
+~
+End
+
+#30214
+Name USE ME~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30221 0 0
+~
+~
+Door 1 0 0 30213 0 0
+~
+~
+Door 2 0 0 30210 0 0
+~
+~
+End
+
+#30215
+Name A Coastal Shoreline~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30223 0 0
+~
+~
+Door 1 0 0 30216 0 0
+~
+~
+Door 2 0 0 30208 0 0
+~
+~
+Door 3 0 0 30212 0 0
+~
+~
+End
+
+#30216
+Name USE ME~
+Descr
+The beach is a ways behind you. You can see a long way beyond the point
+you're at now. This is a long journey for the Northern Ocean, but it is
+worth it. 
+~
+Sector 6
+Door 0 0 0 30224 0 0
+~
+~
+Door 2 0 0 30209 0 0
+~
+~
+Door 3 0 0 30215 0 0
+~
+~
+End
+
+#30217
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30218 0 0
+~
+~
+Door 1 0 0 30222 0 0
+~
+~
+Door 2 0 0 30203 0 0
+~
+~
+Door 3 0 0 30219 0 0
+~
+~
+End
+
+#30218
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30217 0 0
+~
+~
+Door 1 0 0 30225 0 0
+~
+~
+Door 2 0 0 30217 0 0
+~
+~
+Door 3 0 0 30231 0 0
+~
+~
+End
+
+#30219
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30201 1 100
+Reset O 30201 -1 1
+Door 0 0 0 30231 0 0
+~
+~
+Door 1 0 0 30217 0 0
+~
+~
+Door 2 0 0 30211 0 0
+~
+~
+Door 3 0 0 30220 0 0
+~
+~
+End
+
+#30220
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30204 5 100
+Door 0 0 0 30232 0 0
+~
+~
+Door 1 0 0 30219 0 0
+~
+~
+Door 2 0 0 30213 0 0
+~
+~
+Door 3 0 0 30221 0 0
+~
+~
+End
+
+#30221
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30233 0 0
+~
+~
+Door 1 0 0 30220 0 0
+~
+~
+Door 2 0 0 30214 0 0
+~
+~
+Door 3 0 0 30224 0 0
+~
+~
+End
+
+#30222
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30204 5 100
+Door 0 0 0 30225 0 0
+~
+~
+Door 1 0 0 30223 0 0
+~
+~
+Door 2 0 0 30212 0 0
+~
+~
+Door 3 0 0 30217 0 0
+~
+~
+End
+
+#30223
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30200 5 100
+Reset M 30200 5 100
+Door 0 0 0 30234 0 0
+~
+~
+Door 1 0 0 30224 0 0
+~
+~
+Door 2 0 0 30215 0 0
+~
+~
+Door 3 0 0 30222 0 0
+~
+~
+End
+
+#30224
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30200 5 100
+Door 0 0 0 30235 0 0
+~
+~
+Door 1 0 0 30223 0 0
+~
+~
+Door 2 0 0 30216 0 0
+~
+~
+Door 3 0 0 30223 0 0
+~
+~
+End
+
+#30225
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30222 0 0
+~
+~
+Door 1 0 0 30234 0 0
+~
+~
+Door 2 0 0 30222 0 0
+~
+~
+Door 3 0 0 30218 0 0
+~
+~
+End
+
+#30226
+Name A Tubular Room~
+Descr
+You have come upon a opening in the ocean, unlike anything you have ever
+seen before. You have no idea where you are, except you're in a tubular
+room. 
+~
+Flags 6
+Sector 8
+Door 4 0 0 24584 0 0
+~
+~
+Door 5 0 0 30227 0 0
+~
+~
+End
+
+#30227
+Name A Hidden Room~
+Descr
+This cranny is the home of Holare, water demonesse. This demonesse wants
+you to fight her, but the easy way out is right back up, where you came
+from. 
+~
+Flags 4
+Sector 8
+Reset M 30214 1 100
+Door 4 0 0 30226 0 0
+~
+~
+Door 5 259 0 30228 30 30
+~
+atlantis~
+End
+
+#30228
+Name A Downward Spiral~
+Descr
+So this is Atlantis. You seem to remember ancient stories about this
+place. It was not a myth, but instead you are here. This room is a stairway
+to the gates of Atlantis. 
+~
+Flags 4
+Sector 0
+Door 4 3 0 30227 30 30
+~
+atlantis~
+Door 5 0 0 30229 0 0
+~
+~
+End
+
+#30229
+Name The Old Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 2097158
+Sector 0
+Reset O 30200 -5 100
+Reset M 30202 10 100
+Door 0 0 0 30251 0 0
+~
+~
+Door 1 0 0 30250 0 0
+~
+~
+Door 2 0 0 30236 0 0
+~
+~
+Door 3 0 0 30249 0 0
+~
+~
+Door 4 0 0 30228 0 0
+~
+~
+Door 5 3 0 30279 30 30
+~
+door~
+End
+
+#30230
+Name A Sandy Beach~
+Descr
+The sandy beach is very cold. It is so cold, you begin to remember you're
+on the Northern coast. However, it isn't freezing yet, but its very close to
+it. 
+~
+End
+
+#30231
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30219 0 0
+~
+~
+Door 1 0 0 30218 0 0
+~
+~
+Door 2 0 0 30219 0 0
+~
+~
+Door 3 0 0 30232 0 0
+~
+~
+End
+
+#30232
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30220 0 0
+~
+~
+Door 1 0 0 30231 0 0
+~
+~
+Door 2 0 0 30220 0 0
+~
+~
+Door 3 0 0 30233 0 0
+~
+~
+End
+
+#30233
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Door 0 0 0 30221 0 0
+~
+~
+Door 1 0 0 30232 0 0
+~
+~
+Door 2 0 0 30221 0 0
+~
+~
+Door 3 0 0 30235 0 0
+~
+~
+End
+
+#30234
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30200 5 100
+Door 0 0 0 30223 0 0
+~
+~
+Door 1 0 0 30235 0 0
+~
+~
+Door 2 0 0 30223 0 0
+~
+~
+Door 3 0 0 30225 0 0
+~
+~
+End
+
+#30235
+Name USE ME~
+Descr
+This is a hard ocean to swim through. You are lucky that it is swimmable
+though. You begin to wonder what could be up here. Maybe its nothing,
+nothing at all. 
+~
+Sector 6
+Reset M 30200 5 100
+Door 0 0 0 30224 0 0
+~
+~
+Door 1 0 0 30233 0 0
+~
+~
+Door 2 0 0 30224 0 0
+~
+~
+Door 3 0 0 30234 0 0
+~
+~
+End
+
+#30236
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30213 4 100
+Reset O 30208 -1 100
+Door 0 0 0 30229 0 0
+~
+~
+Door 1 0 0 30242 0 0
+~
+~
+Door 2 0 0 30237 0 0
+~
+~
+Door 3 0 0 30241 0 0
+~
+~
+End
+
+#30237
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30236 0 0
+~
+~
+Door 1 0 0 30244 0 0
+~
+~
+Door 2 0 0 30238 0 0
+~
+~
+Door 3 0 0 30243 0 0
+~
+~
+End
+
+#30238
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30237 0 0
+~
+~
+Door 1 0 0 30239 0 0
+~
+~
+Door 2 263 30208 30270 30 30
+~
+rubble~
+Door 3 0 0 30240 0 0
+~
+~
+End
+
+#30239
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 3 0 0 30238 0 0
+~
+~
+End
+
+#30240
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30209 1 100
+Reset O 30210 -1 1
+Door 1 0 0 30238 0 0
+~
+~
+End
+
+#30241
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30249 0 0
+~
+~
+Door 1 0 0 30236 0 0
+~
+~
+End
+
+#30242
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30208 1 100
+Reset O 30215 -1 25
+Door 0 0 0 30250 0 0
+~
+~
+Door 3 0 0 30236 0 0
+~
+~
+End
+
+#30243
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 1 0 0 30237 0 0
+~
+~
+End
+
+#30244
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30217 1 100
+Reset O 30207 -1 10
+Door 3 0 0 30237 0 0
+~
+~
+End
+
+#30245
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Sector 0
+Reset M 30213 1 100
+Reset M 30202 10 100
+Door 0 0 0 30269 0 0
+~
+~
+Door 1 0 0 30249 0 0
+~
+~
+Door 2 0 0 30257 0 0
+~
+~
+Door 3 0 0 30246 0 0
+~
+~
+End
+
+#30246
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 30260 0 0
+~
+~
+Door 1 0 0 30245 0 0
+~
+~
+Door 2 0 0 30259 0 0
+~
+~
+End
+
+#30247
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30262 0 0
+~
+~
+Door 1 0 0 30248 0 0
+~
+~
+Door 2 0 0 30261 0 0
+~
+~
+Door 3 0 0 30250 0 0
+~
+~
+End
+
+#30248
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30213 4 100
+Reset M 30202 10 100
+Door 0 0 0 30264 0 0
+~
+~
+Door 2 0 0 30263 0 0
+~
+~
+Door 3 0 0 30247 0 0
+~
+~
+End
+
+#30249
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 30256 0 0
+~
+~
+Door 1 0 0 30229 0 0
+~
+~
+Door 2 0 0 30241 0 0
+~
+~
+Door 3 0 0 30245 0 0
+~
+~
+End
+
+#30250
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30255 0 0
+~
+~
+Door 1 0 0 30247 0 0
+~
+~
+Door 2 0 0 30242 0 0
+~
+~
+Door 3 0 0 30229 0 0
+~
+~
+End
+
+#30251
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30252 0 0
+~
+~
+Door 1 0 0 30255 0 0
+~
+~
+Door 2 0 0 30229 0 0
+~
+~
+Door 3 0 0 30256 0 0
+~
+~
+End
+
+#30252
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30253 0 0
+~
+~
+Door 1 0 0 30266 0 0
+~
+~
+Door 2 0 0 30251 0 0
+~
+~
+Door 3 0 0 30265 0 0
+~
+~
+End
+
+#30253
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30213 4 100
+Door 1 0 0 30268 0 0
+~
+~
+Door 2 0 0 30252 0 0
+~
+~
+Door 3 0 0 30267 0 0
+~
+~
+Door 5 259 0 30280 30 30
+~
+debris~
+End
+
+#30255
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 2 0 0 30250 0 0
+~
+~
+Door 3 0 0 30251 0 0
+~
+~
+End
+
+#30256
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30205 1 100
+Reset O 30214 -1 50
+Door 1 0 0 30251 0 0
+~
+~
+Door 2 0 0 30249 0 0
+~
+~
+End
+
+#30257
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30245 0 0
+~
+~
+End
+
+#30259
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Sector 0
+Reset M 30210 1 100
+Reset O 30206 -1 1
+Door 0 0 0 30246 0 0
+~
+~
+End
+
+#30260
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 30246 0 0
+~
+~
+End
+
+#30261
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 0 0 0 30247 0 0
+~
+~
+End
+
+#30262
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset O 30211 -5 100
+Reset M 30211 1 100
+Reset O 30212 -1 1
+Door 2 0 0 30247 0 0
+~
+~
+End
+
+#30263
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30248 0 0
+~
+~
+End
+
+#30264
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30218 1 100
+Reset O 30213 -1 1
+Door 2 0 0 30248 0 0
+~
+~
+End
+
+#30265
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 1 0 0 30252 0 0
+~
+~
+End
+
+#30266
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30207 1 100
+Reset O 30203 -1 1
+Door 3 0 0 30252 0 0
+~
+~
+End
+
+#30267
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30220 1 100
+Reset M 30219 1 100
+Reset O 30204 -1 1
+Door 1 0 0 30253 0 0
+~
+~
+End
+
+#30268
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Door 3 0 0 30253 0 0
+~
+~
+End
+
+#30269
+Name Inside the Ruins of Atlantis~
+Descr
+When you found it, you seem to have been too late. All the shopkeepers
+are dead, and only a few citizens and fish are here. Too bad you weren't
+here earlier. 
+~
+Flags 4
+Reset M 30221 1 100
+Reset O 30205 -1 1
+Door 2 0 0 30245 0 0
+~
+~
+End
+
+#30270
+Name A Pathway to the Lower Level~
+Descr
+Behind the dirty wall is a hidden pathway to the lower level. You can see
+some citizens are already down here. This is may be where the queen lives. 
+~
+Flags 4
+Door 0 3 0 30238 30 30
+~
+rubble~
+Door 5 0 0 30271 0 0
+~
+~
+End
+
+#30271
+Name A Circular Spiral~
+Descr
+This is a downward spiral to the lower level. You can see how many
+critters are here. The only thing is the queen and king, you know that they
+live here. 
+~
+Flags 4
+Door 4 0 0 30270 0 0
+~
+~
+Door 5 0 0 30272 0 0
+~
+~
+End
+
+#30272
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30273 0 0
+~
+~
+Door 4 0 0 30271 0 0
+~
+~
+End
+
+#30273
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30275 0 0
+~
+~
+Door 2 0 0 30272 0 0
+~
+~
+End
+
+#30274
+Name A Hidden Chamber~
+Descr
+This is a hidden chamber. The floor is new and shiny. The walls are
+silver and gold. You can see the king in the Northern chamber. I wonder what
+he looks like, maybe the guards will successfully stop you. 
+~
+Flags 4
+Reset M 30216 4 100
+Reset M 30216 4 100
+Reset M 30216 4 100
+Reset M 30216 4 100
+Reset M 30202 10 100
+Door 0 0 0 30293 0 0
+~
+~
+Door 1 0 0 30296 0 0
+~
+~
+Door 2 0 0 30295 0 0
+~
+~
+Door 3 0 0 30294 0 0
+~
+~
+Door 4 3 0 30279 30 30
+~
+dirt~
+End
+
+#30275
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30297 0 0
+~
+~
+Door 1 0 0 30276 0 0
+~
+~
+Door 2 0 0 30273 0 0
+~
+~
+Door 3 0 0 30292 0 0
+~
+~
+End
+
+#30276
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 1 0 0 30278 0 0
+~
+~
+Door 3 0 0 30275 0 0
+~
+~
+End
+
+#30278
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30281 0 0
+~
+~
+Door 3 0 0 30276 0 0
+~
+~
+End
+
+#30279
+Name The Basement of Atlantis~
+Descr
+The basement of Atlantis is really not a basement, but a lower level. You
+look around and see the dirty walls and rocky floor. This is a worms dream. 
+~
+Flags 4
+Door 4 3 0 30229 30 30
+~
+door~
+Door 5 259 0 30274 30 30
+~
+dirt~
+End
+
+#30280
+Name The Pathway to the Lower Level~
+Descr
+Behind the dirty wall is a hidden pathway to the lower level. You can see
+some citizens are already down here. This is may be where the queen lives. 
+~
+Flags 4
+Door 4 259 0 30253 30 30
+~
+debris~
+Door 5 0 0 30287 0 0
+~
+~
+End
+
+#30281
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30282 0 0
+~
+~
+Door 2 0 0 30278 0 0
+~
+~
+End
+
+#30282
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 2 0 0 30281 0 0
+~
+~
+Door 3 0 0 30283 0 0
+~
+~
+End
+
+#30283
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 1 0 0 30282 0 0
+~
+~
+Door 3 0 0 30284 0 0
+~
+~
+End
+
+#30284
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30285 0 0
+~
+~
+Door 1 0 0 30283 0 0
+~
+~
+Door 2 0 0 30297 0 0
+~
+~
+Door 3 0 0 30288 0 0
+~
+~
+End
+
+#30285
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30286 0 0
+~
+~
+Door 2 0 0 30284 0 0
+~
+~
+End
+
+#30286
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 2 0 0 30285 0 0
+~
+~
+Door 4 0 0 30287 0 0
+~
+~
+End
+
+#30287
+Name A Circular Spiral~
+Descr
+This is a downward spiral to the lower level. You can see how many
+critters are here. The only thing is the queen and king, you know that they
+live here. 
+~
+Flags 4
+Door 4 0 0 30280 0 0
+~
+~
+Door 5 0 0 30286 0 0
+~
+~
+End
+
+#30288
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 1 0 0 30284 0 0
+~
+~
+Door 3 0 0 30289 0 0
+~
+~
+End
+
+#30289
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 1 0 0 30288 0 0
+~
+~
+Door 2 0 0 30290 0 0
+~
+~
+End
+
+#30290
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Reset M 30202 10 100
+Door 0 0 0 30289 0 0
+~
+~
+Door 2 0 0 30291 0 0
+~
+~
+End
+
+#30291
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 0 0 0 30290 0 0
+~
+~
+Door 1 0 0 30292 0 0
+~
+~
+End
+
+#30292
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Door 1 0 0 30275 0 0
+~
+~
+Door 3 0 0 30291 0 0
+~
+~
+End
+
+#30293
+Name The Throne Room~
+Descr
+This room is a huge one. Filled with gold, silver, oils, you can see that
+this man is a wealthy one. The throne room has two thrones, but only one is
+occupied. 
+~
+Flags 4
+Reset M 30215 1 100
+Reset O 42876 1 1
+Reset O 30202 -1 1
+Door 2 0 0 30274 0 0
+~
+~
+End
+
+#30294
+Name The Western Wing~
+Descr
+This is a hidden chamber. The floor is new and shiny. The walls are
+silver and gold. You can see the king in the Northern chamber. I wonder what
+he looks like, maybe the guards will successfully stop you. 
+~
+Flags 4
+Door 1 0 0 30274 0 0
+~
+~
+End
+
+#30295
+Name The Southern Wing~
+Descr
+This is a hidden chamber. The floor is new and shiny. The walls are
+silver and gold. You can see the king in the Northern chamber. I wonder what
+he looks like, maybe the guards will successfully stop you. 
+~
+Flags 4
+Door 0 0 0 30274 0 0
+~
+~
+End
+
+#30296
+Name The Eastern Wing~
+Descr
+This is a hidden chamber. The floor is new and shiny. The walls are
+silver and gold. You can see the king in the Northern chamber. I wonder what
+he looks like, maybe the guards will successfully stop you. 
+~
+Flags 4
+Door 3 0 0 30274 0 0
+~
+~
+End
+
+#30297
+Name The Lower Level of Atlantis~
+Descr
+The lower level is not what you expected at all. It is so muddy and
+filled with worms its sickening. You can barely tell your ways out because
+it is so muddy. 
+~
+Flags 4
+Reset M 30202 10 100
+Reset O 30209 -1 100
+Door 0 0 0 30284 0 0
+~
+~
+Door 2 0 0 30275 0 0
+~
+~
+Door 5 263 30209 30298 30 30
+~
+kital~
+End
+
+#30298
+Name Before the Queen Kital~
+Descr
+There it is!  The inclusive queen's den. You wonder why she had moved,
+but then it hits you, the visitors must be too inquisitive, and she moved
+down here, out of the way. 
+~
+Flags 4
+Reset M 30206 3 100
+Reset M 30206 3 100
+Reset M 30206 3 100
+Door 0 0 0 30299 0 0
+~
+~
+Door 4 3 0 30297 30 30
+~
+kital~
+End
+
+#30299
+Name The Throne Room~
+Descr
+The queen has a new throne here. It is made out of twigs and dried mud.
+She sits on it all the time. She has a pretty crystal, but she usually keeps
+it for a special occasion. 
+~
+Flags 4
+Reset M 30203 1 100
+Door 2 0 0 30298 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

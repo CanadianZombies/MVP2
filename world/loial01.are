@@ -1,0 +1,854 @@
+#AREADATA 
+Name loial's first~
+Repop The area seems alive again!~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Loial Dex Thalen~
+VNUMs 11850 11999
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#11850
+Name bird paradise yellow~
+Short a yellow bird~
+Long 
+A yellow paradise bird is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Level 25
+Sex 1
+MobType 18
+Guard 0
+Spec spec_warrior
+End
+
+#11851
+Name lion~
+Short a lion~
+Long 
+A Lion is here looking for food.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Level 80
+Hp 20
+Guard 0
+End
+
+#11854
+Name dragon~
+Short a dragon~
+Long 
+A dragon is here waiting to kill you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Level 100
+Hp 20
+Guard 0
+End
+
+#11855
+Name panther ferocious~
+Short a panther~
+Long 
+Seemingly out of nowhere a panther leaps into your sight.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 33554448
+Level 30
+Sex 2
+Guard 0
+End
+
+#11860
+Name spaz~
+Short a spaz~
+Long 
+A spaz is here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 10
+Level 10
+Guard 0
+End
+
+#11880
+Name spaz~
+Short a spaz~
+Long 
+Spaz is a geek with an deadly pocket protecter.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#11881
+Name dark knight~
+Short dark knight~
+Long 
+A dark knight is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 32
+Money 100
+Level 100
+Guard 0
+End
+
+#11890
+Name bird paradise yellow~
+Short a yellow paradise bird~
+Long 
+A yellow paradise bird is here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#11850
+Name light red laser lasergun~
+Short a [1m[31mred[0m lasergun~
+Descr
+A [1m[31mred[0m lasergun is here.
+[0;36m~
+Type 5
+Extra 2359296
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 3 3 0
+Weight 2
+Cost 0
+Limtd 2
+End
+
+#11854
+Name key~
+Short a brass key~
+Descr
+(no description)~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 100
+Limtd 1
+End
+
+#11855
+Name brass key~
+Short brass key~
+Descr
+A shiny brass key.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Limtd 1
+End
+
+#0
+
+
+
+#ROOMDATA
+#11850
+Name In a Valley~
+Descr
+~
+Reset M 11855 1 100
+Reset M 11850 1 100
+Reset M 11851 1 100
+Door 0 0 0 11859 0 0
+~
+~
+Door 1 0 0 11851 0 0
+~
+~
+End
+
+#11851
+Name In a Valley~
+Descr
+~
+Reset M 11881 2 100
+Door 0 0 0 11860 0 0
+~
+~
+Door 1 0 0 11852 0 0
+~
+~
+Door 3 0 0 11850 0 0
+~
+~
+End
+
+#11852
+Name The Valley~
+Descr
+~
+Reset M 11881 1 25
+Door 0 0 0 11861 0 0
+~
+~
+Door 1 0 0 11853 0 0
+~
+~
+Door 3 0 0 11851 0 0
+~
+~
+End
+
+#11853
+Name The Valley~
+Descr
+A huge ancient tree is here. It appears to be glowing with a magical force. 
+~
+Reset M 11851 1 100
+Door 1 0 0 11854 0 0
+~
+~
+Door 2 3 11855 11953 30 30
+~
+solid oak door~
+Door 3 0 0 11852 0 0
+~
+~
+End
+
+#11854
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11855 0 0
+~
+~
+Door 1 0 0 11856 0 0
+~
+~
+Door 3 0 0 11853 0 0
+~
+~
+End
+
+#11855
+Name In a Valley~
+Descr
+~
+Door 2 0 0 11854 0 0
+~
+~
+End
+
+#11856
+Name In a Valley~
+Descr
+~
+Door 2 0 0 11857 0 0
+~
+~
+Door 3 0 0 11854 0 0
+~
+~
+End
+
+#11857
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11856 0 0
+~
+~
+Door 2 0 0 11858 0 0
+~
+~
+End
+
+#11858
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11857 0 0
+~
+~
+Door 2 0 0 11862 0 0
+~
+~
+End
+
+#11859
+Name In a Valley~
+Descr
+~
+Door 1 0 0 11860 0 0
+~
+~
+Door 2 0 0 11850 0 0
+~
+~
+End
+
+#11860
+Name In a Valley~
+Descr
+~
+Door 1 0 0 11861 0 0
+~
+~
+Door 2 0 0 11851 0 0
+~
+~
+Door 3 0 0 11859 0 0
+~
+~
+End
+
+#11861
+Name In a Valley~
+Descr
+~
+Door 2 0 0 11852 0 0
+~
+~
+Door 3 0 0 11860 0 0
+~
+~
+End
+
+#11862
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11858 0 0
+~
+~
+Door 2 0 0 11863 0 0
+~
+~
+End
+
+#11863
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11862 0 0
+~
+~
+Door 2 0 0 11864 0 0
+~
+~
+End
+
+#11864
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11863 0 0
+~
+~
+Door 3 0 0 11865 0 0
+~
+~
+End
+
+#11865
+Name In a Valley~
+Descr
+~
+Door 1 0 0 11864 0 0
+~
+~
+Door 2 0 0 11866 0 0
+~
+~
+End
+
+#11866
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11865 0 0
+~
+~
+Door 3 0 0 11867 0 0
+~
+~
+End
+
+#11867
+Name In a Valley~
+Descr
+~
+Door 1 0 0 11866 0 0
+~
+~
+Door 2 0 0 11868 0 0
+~
+~
+End
+
+#11868
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11867 0 0
+~
+~
+Door 2 0 0 11869 0 0
+~
+~
+End
+
+#11869
+Name In a Valley~
+Descr
+~
+Door 0 0 0 11868 0 0
+~
+~
+Door 2 0 0 11870 0 0
+~
+~
+End
+
+#11870
+Name On a Small Bridge~
+Descr
+~
+Door 0 0 0 11869 0 0
+~
+~
+Door 1 0 0 11882 0 0
+~
+~
+Door 2 0 0 11871 0 0
+~
+~
+Door 3 0 0 11883 0 0
+~
+~
+End
+
+#11871
+Name On a Small Bridge~
+Descr
+~
+Door 0 0 0 11870 0 0
+~
+~
+Door 1 0 0 11880 0 0
+~
+~
+Door 2 0 0 11872 0 0
+~
+~
+Door 3 0 0 11881 0 0
+~
+~
+End
+
+#11872
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11871 0 0
+~
+~
+Door 1 0 0 11890 0 0
+~
+~
+Door 2 0 0 11873 0 0
+~
+~
+End
+
+#11873
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11872 0 0
+~
+~
+Door 1 0 0 11874 0 0
+~
+~
+End
+
+#11874
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11890 0 0
+~
+~
+Door 1 0 0 11875 0 0
+~
+~
+Door 3 0 0 11873 0 0
+~
+~
+End
+
+#11875
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11889 0 0
+~
+~
+Door 1 0 0 11891 0 0
+~
+~
+Door 2 0 0 11876 0 0
+~
+~
+Door 3 0 0 11874 0 0
+~
+~
+End
+
+#11876
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11875 0 0
+~
+~
+Door 1 0 0 11892 0 0
+~
+~
+Door 2 0 0 11877 0 0
+~
+~
+End
+
+#11877
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11876 0 0
+~
+~
+Door 1 0 0 11878 0 0
+~
+~
+End
+
+#11878
+Name A Path to a Lake~
+Descr
+~
+Door 0 0 0 11892 0 0
+~
+~
+Door 1 0 0 11879 0 0
+~
+~
+Door 3 0 0 11877 0 0
+~
+~
+End
+
+#11879
+Name At a Lake~
+Descr
+~
+Door 0 0 0 11884 0 0
+~
+~
+Door 1 0 0 11893 0 0
+~
+~
+Door 3 0 0 11878 0 0
+~
+~
+End
+
+#11880
+Name Above Some Water~
+Descr
+~
+Sector 6
+Door 3 0 0 11871 0 0
+~
+~
+End
+
+#11881
+Name Above Some Water~
+Descr
+~
+Sector 6
+Door 1 0 0 11871 0 0
+~
+~
+End
+
+#11882
+Name Above Some Water~
+Descr
+~
+Sector 6
+Door 3 0 0 11870 0 0
+~
+~
+End
+
+#11883
+Name Above Some Water~
+Descr
+~
+Sector 6
+Door 1 0 0 11870 0 0
+~
+~
+End
+
+#11884
+Name At a Lake~
+Descr
+~
+Door 0 0 0 11885 0 0
+~
+~
+Door 2 0 0 11879 0 0
+~
+~
+Door 3 0 0 11892 0 0
+~
+~
+End
+
+#11885
+Name Near a Lake~
+Descr
+~
+Door 0 0 0 11887 0 0
+~
+~
+Door 1 0 0 11886 0 0
+~
+~
+Door 2 0 0 11884 0 0
+~
+~
+Door 3 0 0 11891 0 0
+~
+~
+End
+
+#11886
+Name At a Lake~
+Descr
+~
+Door 3 0 0 11885 0 0
+~
+~
+End
+
+#11887
+Name At a Lake~
+Descr
+~
+Door 2 0 0 11885 0 0
+~
+~
+Door 3 0 0 11888 0 0
+~
+~
+End
+
+#11888
+Name Near a Lake~
+Descr
+~
+Door 1 0 0 11887 0 0
+~
+~
+Door 2 0 0 11891 0 0
+~
+~
+Door 3 0 0 11889 0 0
+~
+~
+End
+
+#11889
+Name Near a Lake~
+Descr
+~
+Door 1 0 0 11888 0 0
+~
+~
+Door 2 0 0 11875 0 0
+~
+~
+Door 3 0 0 11890 0 0
+~
+~
+End
+
+#11890
+Name Near a Lake~
+Descr
+~
+Door 1 0 0 11889 0 0
+~
+~
+Door 2 0 0 11874 0 0
+~
+~
+Door 3 0 0 11872 0 0
+~
+~
+End
+
+#11891
+Name Near a Lake~
+Descr
+~
+Door 0 0 0 11888 0 0
+~
+~
+Door 1 0 0 11885 0 0
+~
+~
+Door 2 0 0 11892 0 0
+~
+~
+Door 3 0 0 11875 0 0
+~
+~
+End
+
+#11892
+Name Near a Lake~
+Descr
+~
+Door 0 0 0 11891 0 0
+~
+~
+Door 1 0 0 11884 0 0
+~
+~
+Door 2 0 0 11878 0 0
+~
+~
+Door 3 0 0 11876 0 0
+~
+~
+End
+
+#11893
+Name On a Lake~
+Descr
+~
+Sector 6
+Door 3 0 0 11879 0 0
+~
+~
+End
+
+#11894
+Name ~
+Descr
+~
+End
+
+#11895
+Name ~
+Descr
+~
+End
+
+#11896
+Name ~
+Descr
+~
+End
+
+#11897
+Name ~
+Descr
+~
+End
+
+#11898
+Name ~
+Descr
+~
+End
+
+#11899
+Name ~
+Descr
+~
+End
+
+#11900
+Name ~
+Descr
+~
+End
+
+#11953
+Name A Small Shed~
+Descr
+In a small shed
+~
+Flags 2097156
+Reset M 11854 1 100
+Reset O 11855 -1 100
+Door 0 519 11855 11853 50 50
+~
+a solid oak door~
+End
+
+#11999
+Name In an Attic~
+Descr
+~
+Flags 3145732
+End
+
+#0
+
+
+
+#$

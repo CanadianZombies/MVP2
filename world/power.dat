@@ -1,0 +1,249 @@
+# This is the allocation space for the world.  If it says you need more on
+# boot-up, increase this value.  If you set it really high, the mud will
+# take up more NOry.  This must be FIRST, or BOOOOM.... crashie...
+SPACE_NEEDED                30000000
+
+#PLAGUE_SPREAD OFF
+PLAGUE_CHANCE 0
+#Unlearn_LEVEL 1
+fight_self NO
+# TPS and Professions are RESERVED for Aturiion Dynasty only.  Do not
+# turn them on, please, they won't work!
+
+USE_PROFESSIONS  NO
+bash_slip_to_tackle YES
+USE_TPS_SYSTEM   NO
+
+
+# Initial hit points, and remort initial hit points
+# Given by a range of two numbers.  30 32 means random between 30 and 32.
+INITIAL_HP 50 60
+REMORT_HP  90 100
+
+# Initial move points, and remort initial move points
+# Given by a range of two numbers.  80 82 means random between 80 and 82.
+INITIAL_MV 75 90
+REMORT_MV  80 120
+
+# format is REG_HITGAIN <range being> <range end> <percent of con application the
+# char gets> + <extra_min> <extra_max>
+# for instance, REG_HITGAIN 1 5 120 2 4 would be:
+# for levels 1-5, character gets 120% his natural con bonus, plus a random
+# number in the range of 2-4
+REG_HITGAIN 1  20 130 4 5
+REG_HITGAIN 21 40 120 3 4 
+REG_HITGAIN 41 56 110 2 3
+REG_HITGAIN 57 65  90 1 3
+REG_HITGAIN 66 999 70 1 2
+
+# REM_HITGAIN is hitpoint gain for 'remorts'.
+REM_HITGAIN 1  20 130 5 6
+REM_HITGAIN 21 40 120 4 5
+REM_HITGAIN 41 56 110 3 4
+REM_HITGAIN 57 65  90 2 3
+REM_HITGAIN 66 999 80 1 3
+
+# same system for movement point gainage, except no percentage.
+# REG_MOVEGAIN 0 150 1 2 means from level 0 to 150, gain 1-2 moves per level.
+REG_MOVEGAIN  1  30 3 4
+REG_MOVEGAIN 31  40 2 3
+REG_MOVEGAIN 41  70 2 3
+REG_MOVEGAIN 71 111 1 2
+
+# remort's move gain per level
+REM_MOVEGAIN  1  30 4 5
+REM_MOVEGAIN 31  40 3 4
+REM_MOVEGAIN 41  70 2 3
+REM_MOVEGAIN 71 111 1 3
+
+# Do you get restored when you gain a level?
+RESTORE_WHEN_LEVEL  YES
+
+
+# remort info follows
+
+# does the character have to be in a room to remort? 0 = any room.
+MUST_BE_IN_ROOM  0
+
+# does the remort method follow the old method of +5 stats, +dam?
+ADDS_TO_STATS    YES
+
+# Can a player remort multiple times?  0 = no remorting.
+MAXIMUM_REMORTS         9
+
+REMORT_LEVEL            55
+VAPORIZE_INVENTORY      NO 
+VAPORIZE_ENTIRE_EQU     NO
+
+# Does the remort change race?  If not, use 99 for this value.
+CHANGES_RACE_TO         99
+
+# Remort beams to this room.  0 = stays in 1 place.  1 = 99/evil 100/good
+BEAMS_TO_ROOM           1
+
+ONLY_WAY_EVIL_IS_THRU_REMORT    NO
+
+WEATHER_EFFECTS    NO
+ALLOW_RECALL       NO
+CHOOSE_EVIL_RACES  YES 
+
+# Cost to repair 1 damage point... Bad weapon, Medium weapon, Good weapon
+REPAIR_WEAPONS  3 13 45
+
+# Cost to repair 1 damage point... Only 1 cost...
+REPAIR_ARMORS  50
+
+# How much % off does Tinker guild get?
+TINKER_DISCOUNT  69
+
+# Resize... The cost of the item is divided by this number, and that amount
+# is charged when resizing an item.
+RESIZE_DIVISOR   30
+
+# Equip/unequip during combat
+EQUIP_IN_COMBAT          NO
+REMOVE_WHILE_FIGHTING   YES
+SCORE_WHILE_FIGHTING    YES
+
+# Chance of 1 in <this number> to stand in a groundfight each time you try.
+GROUNDFIGHT_STAND  4
+
+# Gods' names in sacrifice.. limited to FIVE!  If you set any more, the mud
+# will crash.  If you want less than 5, use repeats.. like:
+# SACNAMES Joe Joe Joe Fred Fred
+SACNAMES Sabelis Antioch Kilith Sabelis Kilith
+
+# Allow auto-auction?
+AUTO_AUCTION  YES
+
+# At what level can you see your actual stat numbers?
+LEVEL_TO_SEE_NUMERIC_STATS  1
+
+# Basic Game options below... please don't change these without Orin's
+# permission...
+
+PLAYER_PROMPT               YES
+USE_LOGIN_MENU              NO
+OLD_ATTACK_STYLE            YES
+EASIER_MOVE_STYLE           NO
+OLD_CREATION_METHOD         YES
+EVIL_CAN_CAST_SPELLS        YES
+ALLOW_WHERE                 YES
+ALLOW_WHO_IN_LOGIN          NO
+
+
+# The below commands are general toggles and settings
+MAX_LEVEL                   90
+LOOT_LEVEL                  10
+SKILL_LOSS_ON_MOB_DEATH     NO
+SKILL_LOSS_ON_PK_DEATH      YES
+SKILL_LOSS_AMOUNT           1
+ARENA_ON                    YES
+ARENA_GOOD_EVIL             NO
+REQUIRED_VALIDATION         NO
+MUD_EMAIL_ADDRESS           kilith@demonspawn-mpv3.wolfpaw.net
+GOOD_KILL_GOOD		    NO
+EVIL_KILL_EVIL		    NO
+
+# 10 Objects newbies get... if not used, set to object 0.
+NEWBIE_OBJECT_1             399
+NEWBIE_OBJECT_2             400
+NEWBIE_OBJECT_3             401
+NEWBIE_OBJECT_4             402
+NEWBIE_OBJECT_5             403
+NEWBIE_OBJECT_6             404
+NEWBIE_OBJECT_7             405
+NEWBIE_OBJECT_8             406
+NEWBIE_OBJECT_9             407
+NEWBIE_OBJECT_10            39
+NEWBIE_OBJECT_11            50          
+
+# Regen_hp <min>  <+ for resting>  <+ for sleeping>  -- Some extra is added,
+# depending on the char's constitution..
+# REGEN_HP 2 4 6 means 2 hp regen, 4 for resting, 8 for sleeping.
+REGEN_HP  3  15  20
+REGEN_MP  3  20  30
+
+# Regen_mana <base regen> <+ for meditation>
+REGEN_MANA  10  25
+
+TACKLE_WITH_WEAPON          NO
+TACKLE_PERSON_WITH_WEAPON   YES
+
+ALLOW_REROLLS   YES
+FLURRY_MPS      15
+
+# Percentage range and corresponding 'text' that goes along with it for
+# skills and spells.
+PRAC_LEVEL -1000 -1  unlearned
+PRAC_LEVEL 0     10  beginner
+PRAC_LEVEL 11    15  poor
+PRAC_LEVEL 16    20  novice
+PRAC_LEVEL 21    25  moderate
+PRAC_LEVEL 26    29  good
+PRAC_LEVEL 30    39  skilled
+PRAC_LEVEL 40    50  adept
+PRAC_LEVEL 51    59  talented
+PRAC_LEVEL 60    69  gifted
+PRAC_LEVEL 70    79  Superb
+PRAC_LEVEL 80    89  MasteR
+PRAC_LEVEL 90    95  PerFecT
+PRAC_LEVEL 96  1000  GODLY
+
+# How high can you practice skills and spells from a practitioner?
+MAX_PRACTICE_SKILLS         55
+MAX_PRACTICE_SPELLS         55
+
+# Equation for experience to level.  Uses the same format as in spell editor.
+EXP_TO_LEVEL (((l*3)+(1*3))*l*l*25+63)*4
+#LOC MOB EXP BELOW
+#MOB_EXP (((l/8+2)*(l/6+4)*(l/43)+(l*2+(t*2)+10)*(l+20/2))+(t*10)+(l*50)/5)
+#MOB_EXP ((l/8+2)*(l/6+4)*(l/43)+(l*2+t*2+10)*(l*5+20/2))/5
+#MOB_EXP ((((((l+1)*(l+2)*1000)-(l*l*1000))/39)+(((l-5)z0m1)+t*10)+(l*200))/6)
+#MOB_EXP ((((l+1)*((l+2)*100))-((l*l)/2))+((((l-5)z0m1)*t*2)+(l*l*2)))/100)/2+5000
+MOB_EXP (l*2000)/8
+#MOB_EXP ((l/8+2*l/6)m149+(4*l/44+10*l*3+10))/100
+
+# How high do you need to have a skill to count it as a prerequisite?
+PREREQ_LEVEL   50
+
+
+# 35 values... for 1-35 intelligence.  Prac percent increase depending on
+# your int.  For skills, it's this value-1.
+#levels                        1 2 3 4 5  6 7 8 9 10  11 12 13 14 15  16 17 18 19 20  21 22 23 24 25  26 27 28 29 30  31 32 33 34 35  36 37 38 39 40
+PRAC_INCREASE_FOR_INTELLIGENCE 4 4 4 4 4  6 6 6 8  8   9  9 10 10 11  12 13 14 15 15  16 16 17 18 18  20 20 21 21 21  22 22 22 22 22  22 22 23 23 23
+
+
+# Practices you get depending on your wisdom.  Must be 35 values below.
+#levels       1 2 3 4 5  6 7 8 9 10  11 12 13 14 15  16 17 18 19 20  21 22 23 24 25  26 27 28 29 30  31 32 33 34 35  36 37 38 39 40
+PRACS_FOR_WIS 3 4 4 5 6  5 5 5 5  5   6  6  6  7  7   7  7 10 10 10  10 10 11 11 11  11 11 14 15 16  17 18 19 20 21  21 22 23 24 25
+
+
+# Hit point bonus you get depending on your constitution.
+#Levels      1 2 3 4 5  6 7 8 9 10 11 12 13 14 15  16 17 18 19 20  21 22 23 24 25  26 27 28 29 30  31 32 33 34 35  36 37 38 39 40
+HPS_FOR_CON  1 1 1 1 1  2 2 2 2 2   4  4  5  5  6   7  7  8  8  9  10 10 11 11 12  13 13 14 14 15  15 16 16 17 22  22 23 24 25 26
+
+
+# You can magnify practices per level or shrink them with this percent.
+PERCENT_PRACTICES  90
+
+# Armor levels for the 'armor' command...
+ARMOR_LEV 0  4    Unprotected
+ARMOR_LEV 5  9    Barely Protected
+ARMOR_LEV 10 12   Partly Protected
+ARMOR_LEV 13 15   Moderately Protected
+ARMOR_LEV 16 18   Well Protected
+ARMOR_LEV 19 21   Very Well Protected
+ARMOR_LEV 22 24   Extremely Protected
+ARMOR_LEV 25 27   Incredibly Protected
+ARMOR_LEV 28 30   VirTUalY InpenETrablE
+ARMOR_LEV 31 33   DiViNeLy DuRaBlE
+ARMOR_LEV 34 36   INDESTRUCTABLE
+ARMOR_LEV 37 999  ARMOR OF THE GODS
+
+CAN_SUMMON_MOBS  NO
+
+MORTS_USE_COLOR_CHAT       YES
+SHOW_RACE_SELECT_INFO      YES
+GET_FROM_CORPSE_WHILE_IN_COMBAT YES
+END

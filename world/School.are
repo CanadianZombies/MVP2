@@ -1,0 +1,10344 @@
+#AREADATA 
+Name The Blight~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe blistering sun beats down on you, making you pray for rain.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Bevier Talon~
+VNUMs 18001 18500
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#18001
+Name brown dragon PRAC~
+Short a brown dragon~
+Long 
+A large brown dragon is here, half burried in the sand.
+~
+Descr
+~
+AMax 1
+NHeight 646
+ActBits 67109120
+Affect_By 524456
+Money 181
+Level 181
+MobType 5
+Guard 0
+Spec spec_warrior
+BCasts Meteor Shower~
+BCast_P 5
+End
+
+#18002
+Name pierre cook~
+Short pierre~
+Long 
+Pierre the cook is here cooking some fries.
+~
+Descr
+~
+AMax 1
+NHeight 20
+ActBits 258
+Money 90
+Level 90
+Guard 0
+Spec spec_thief
+BKicks 1
+End
+
+#18003
+Name tEACHER - White Dragon~
+Short the legendary, white dragon of Vernoe~
+Long 
+The legendary white dragon of Vernoe roams the desert looking for its nest.
+~
+Descr
+As you look at her beautiful coat of white scales and into her deep red
+eyes you notice that although she looks very majestic you would be a fool to
+ever cross her. 
+~
+AMax 1
+NHeight 300
+ActBits 272
+ActBits4 4096
+Affect_By 598146
+Alignment 1000
+Money 220
+Level 220
+Sex 2
+MobType 11
+Guard 0
+Spec spec_thief
+ArmorClass -2000
+BCasts sphere~
+BCasts meteor~
+End
+
+#18004
+Name a sand snake~
+Short a sand snake~
+Long 
+A sand snake is waiting for a tasty meal here.
+~
+Descr
+~
+AMax 25
+NHeight 0
+ActBits 8
+Affect_By 66056
+Money 5
+Level 5
+MobType 20
+Guard 0
+Spec spec_poison
+End
+
+#18005
+Name sand crawler~
+Short a sand crawler~
+Long 
+A sand crawler is looking at you with hunger in it's eyes.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 67108866
+Money 90
+Level 90
+MobType 20
+Guard 0
+Spec spec_poison
+End
+
+#18006
+Name giant sand worm~
+Short giant sand worm~
+Long 
+A giant sand worm is lurking here for prey.
+~
+Descr
+~
+AMax 2
+NHeight 120
+ActBits 8
+ActBits3 65536
+ActBits4 4096
+Affect_By 65544
+Money 100
+Level 100
+MobType 18
+Guard 0
+Spec spec_warrior
+End
+
+#18007
+Name ngaggi tree PRAC~
+Short the ngaggi tree~
+Long 
+A ngaggi tree is here, resisting the evil of the Blight
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67109122
+Affect_By 136
+Money 200
+Level 200
+MobType 17
+Guard 0
+BCasts earthen hammer~
+BCasts healing~
+BCasts disenchantment~
+BCasts sphere of destruction~
+BCast_P 25
+End
+
+#18008
+Name manscorpion~
+Short a manscorpion~
+Long 
+A manscorpion is scurrying through the desert sands.
+~
+Descr
+~
+AMax 5
+NHeight 75
+ActBits 67108864
+Money 65
+Level 65
+Sex 1
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#18009
+Name manscorpion sorcerer~
+Short a manscorpion~
+Long 
+A manscorpion sorcerer is searching for spell componants.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 67108864
+Affect_By 168
+Money 120
+Level 120
+Sex 1
+MobType 8
+Guard 0
+Spec spec_poison
+BCasts hands of winds~
+BCasts frost lance~
+BCasts cond of cold~
+BCast_P 15
+End
+
+#18010
+Name giant vulture~
+Short a giant vulture~
+Long 
+A giant vulture is circling overhead the vast blight.
+~
+Descr
+~
+AMax 10
+NHeight 50
+ActBits4 4096
+Affect_By 524288
+Money 11
+Level 11
+MobType 13
+Guard 0
+End
+
+#18011
+Name death dog~
+Short a death dog~
+Long 
+A two-headed death dog is wandering here, searching for humans.
+~
+Descr
+~
+AMax 2
+NHeight 30
+ActBits 8
+Affect_By 8
+Money 25
+Level 25
+MobType 6
+Guard 0
+End
+
+#18012
+Name hatori~
+Short a hatori~
+Long 
+A large hatori is here, half buried in the sand.
+~
+Descr
+~
+AMax 2
+NHeight 420
+ActBits 32768
+Affect_By 65544
+Money 97
+Level 97
+MobType 20
+Guard 0
+Spec spec_warrior
+End
+
+#18013
+Name dervish wandering~
+Short a wandering dervish~
+Long 
+A wandering dervish is murmuring something about his god.
+~
+Descr
+~
+AMax 8
+NHeight 69
+Affect_By 8
+Money 35
+Level 35
+Sex 1
+MobType 0
+Guard 0
+BCasts blindness~
+BCast_P 15
+End
+
+#18014
+Name lamia~
+Short a lamia~
+Long 
+A beautiful lamia is looking for some prey to stalk.
+~
+Descr
+~
+AMax 3
+NHeight 80
+ActBits 32768
+Money 25
+Level 25
+Sex 2
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#18015
+Name dun pudding~
+Short some dun pudding~
+Long 
+A pile of dun pudding slowly oozes across the sands.
+~
+Descr
+~
+AMax 10
+NHeight 25
+ActBits 8
+Money 8
+Level 8
+MobType 8
+Guard 0
+End
+
+#18016
+Name giant scorpion~
+Short a giant scorpion~
+Long 
+A giant scorpion is scuttling across the sands, looking hungry.
+~
+Descr
+~
+AMax 3
+NHeight 69
+ActBits 8
+Money 20
+Level 20
+MobType 8
+Guard 0
+End
+
+#18017
+Name thri kreen~
+Short a thri-kreen~
+Long 
+A thri-kreen wanderer is patrolling the area.
+~
+Descr
+~
+AMax 2
+NHeight 72
+Money 80
+Level 80
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#18001
+Name brown dragon scale~
+Short a [33mbrown dragon scale[0m~
+Descr
+A large brown scale is lying forgotten on the ground.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 2 0 0 30 30 8 5
+Weight 2
+Cost 300
+Affect 13 5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#18002
+Name biscuit yark~
+Short [33mYark!~
+Descr
+A discustingly old dog buiscuit is on the ground.
+[0;36m~
+Type 19
+Wear 16385
+Timer 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5
+End
+
+#18003
+Name spiked Dog collar~
+Short a [1m[31mS[1mp[1mi[1mk[1me[1md[0m dog collar~
+Descr
+A tacky red collar is lying on the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 20 20 0 0
+Weight 1
+Cost 1
+Affect 19 1 1 0 0
+End
+
+#18004
+Name brown dragon claw~
+Short some [33mbrown dragon claws[0m~
+Descr
+A set of massive brown dragon claws are lying here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 30 30 0 3
+Weight 3
+Cost 600
+Affect 19 1 1 0 0
+End
+
+#18005
+Name staff ngaggi~
+Short [1m[32ma [0m[32mn[1m[32mg[0m[32ma[1m[32mg[0m[32mg[1m[32mi [0m[32ms[1m[32mt[0m[32ma[1m[32mf[0m[32mf[0m~
+Descr
+A warped-looking limb has fallen here.
+[0;36m~
+Type 5
+Extra 524289
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 7 0 0 0 0 0 5 3 0
+Weight 2
+Cost 500
+Affect 18 2 1 0 0
+End
+
+#18006
+Name sand work skin cloak~
+Short a [0m[33msand worm skin cloak[0m~
+Descr
+A strange cloak made from the skin of a sand worm lies here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 2 1 0 0 15 15 8 5
+Weight 2
+Cost 0
+Affect 14 10 1 0 0
+End
+
+#18007
+Name travelling boots~
+Short a pair of travelling boots~
+Descr
+A pair of travelling boots are lying on the ground.
+[0;36m~
+Type 22
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 10 20 20 10 3
+Weight 1
+Cost 0
+Affect 14 10 1 0 0
+End
+
+#18011
+Name jeweled Leash~
+Short [1m[34mJ[32me[36mw[31me[35ml[33me[37md Leash~
+Descr
+A gem encrusted leash is beckoning you to pick it up.
+[0;36m~
+Type 9
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 15 0 0 0 25 25 0 0
+Weight 2
+Cost 7500
+Affect 19 1 1 0 0
+End
+
+#18012
+Name black silk dress~
+Short a [1m[30mblack[0m silk dress~
+Descr
+A black silk dress is here rumpled in the corner.
+[0;36m~
+Type 9
+Extra 65
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 10 0 5 13 14 15 20 15 40
+Weight 2
+Cost 1500
+End
+
+#0
+
+
+
+#ROOMDATA
+#18001
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Flags 2097152
+Sector 10
+Door 0 0 0 18006 0 0
+~
+~
+Door 1 0 0 18003 0 0
+~
+~
+Door 2 0 0 18008 0 0
+~
+~
+Door 3 0 0 18500 0 0
+~
+~
+End
+
+#18002
+Name In Quebec~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+End
+
+#18003
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Flags 3145728
+Sector 10
+Door 0 0 0 18004 0 0
+~
+~
+Door 1 0 0 18024 0 0
+~
+~
+Door 2 0 0 18011 0 0
+~
+~
+Door 3 0 0 18001 0 0
+~
+~
+End
+
+#18004
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18078 0 0
+~
+~
+Door 1 0 0 18081 0 0
+~
+~
+Door 2 0 0 18003 0 0
+~
+~
+Door 3 0 0 18006 0 0
+~
+~
+End
+
+#18005
+Name ~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+End
+
+#18006
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18026 0 0
+~
+~
+Door 1 0 0 18004 0 0
+~
+~
+Door 2 0 0 18001 0 0
+~
+~
+Door 3 0 0 18007 0 0
+~
+~
+End
+
+#18007
+Name The Beginning of The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 1 0 0 18006 0 0
+~
+~
+Door 2 0 0 18500 0 0
+~
+~
+Door 3 0 0 27206 0 0
+~
+~
+End
+
+#18008
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18001 0 0
+~
+~
+Door 1 0 0 18011 0 0
+~
+~
+Door 2 0 0 18009 0 0
+~
+~
+End
+
+#18009
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18008 0 0
+~
+~
+Door 1 0 0 18010 0 0
+~
+~
+End
+
+#18010
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18011 0 0
+~
+~
+Door 1 0 0 18021 0 0
+~
+~
+Door 2 0 0 18012 0 0
+~
+~
+Door 3 0 0 18009 0 0
+~
+~
+End
+
+#18011
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18003 0 0
+~
+~
+Door 1 0 0 18022 0 0
+~
+~
+Door 2 0 0 18010 0 0
+~
+~
+Door 3 0 0 18008 0 0
+~
+~
+End
+
+#18012
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 5
+Door 0 0 0 18010 0 0
+~
+~
+Door 1 0 0 18013 0 0
+~
+~
+End
+
+#18013
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18021 0 0
+~
+~
+Door 1 0 0 18019 0 0
+~
+~
+Door 2 0 0 18014 0 0
+~
+~
+Door 3 0 0 18012 0 0
+~
+~
+End
+
+#18014
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Reset M 18013 1 100
+Reset O 12550 7 100
+Door 0 0 0 18013 0 0
+~
+~
+Door 1 0 0 18015 0 0
+~
+~
+End
+
+#18015
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18019 0 0
+~
+~
+Door 1 0 0 18016 0 0
+~
+~
+Door 3 0 0 18014 0 0
+~
+~
+End
+
+#18016
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18158 0 0
+~
+~
+Door 1 0 0 18017 0 0
+~
+~
+Door 3 0 0 18015 0 0
+~
+~
+End
+
+#18017
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18159 0 0
+~
+~
+Door 1 0 0 18018 0 0
+~
+~
+Door 3 0 0 18016 0 0
+~
+~
+End
+
+#18018
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18160 0 0
+~
+~
+Door 1 0 0 18058 0 0
+~
+~
+Door 3 0 0 18017 0 0
+~
+~
+End
+
+#18019
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18020 0 0
+~
+~
+Door 1 0 0 18158 0 0
+~
+~
+Door 2 0 0 18015 0 0
+~
+~
+Door 3 0 0 18013 0 0
+~
+~
+End
+
+#18020
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18023 0 0
+~
+~
+Door 1 0 0 18439 0 0
+~
+~
+Door 2 0 0 18019 0 0
+~
+~
+Door 3 0 0 18021 0 0
+~
+~
+End
+
+#18021
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18022 0 0
+~
+~
+Door 1 0 0 18020 0 0
+~
+~
+Door 2 0 0 18013 0 0
+~
+~
+Door 3 0 0 18010 0 0
+~
+~
+End
+
+#18022
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18024 0 0
+~
+~
+Door 1 0 0 18023 0 0
+~
+~
+Door 2 0 0 18021 0 0
+~
+~
+Door 3 0 0 18011 0 0
+~
+~
+End
+
+#18023
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18025 0 0
+~
+~
+Door 1 0 0 18426 0 0
+~
+~
+Door 2 0 0 18020 0 0
+~
+~
+Door 3 0 0 18022 0 0
+~
+~
+End
+
+#18024
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18081 0 0
+~
+~
+Door 1 0 0 18025 0 0
+~
+~
+Door 2 0 0 18022 0 0
+~
+~
+Door 3 0 0 18003 0 0
+~
+~
+End
+
+#18025
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18082 0 0
+~
+~
+Door 1 0 0 18415 0 0
+~
+~
+Door 2 0 0 18023 0 0
+~
+~
+Door 3 0 0 18024 0 0
+~
+~
+End
+
+#18026
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18027 0 0
+~
+~
+Door 1 0 0 18078 0 0
+~
+~
+Door 2 0 0 18006 0 0
+~
+~
+Door 3 0 0 27207 0 0
+~
+~
+End
+
+#18027
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18028 0 0
+~
+~
+Door 1 0 0 18079 0 0
+~
+~
+Door 2 0 0 18026 0 0
+~
+~
+Door 3 0 0 27208 0 0
+~
+~
+End
+
+#18028
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18029 0 0
+~
+~
+Door 1 0 0 18080 0 0
+~
+~
+Door 2 0 0 18027 0 0
+~
+~
+Door 3 0 0 27209 0 0
+~
+~
+End
+
+#18029
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18030 0 0
+~
+~
+Door 2 0 0 18028 0 0
+~
+~
+End
+
+#18030
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18031 0 0
+~
+~
+Door 1 0 0 18086 0 0
+~
+~
+Door 2 0 0 18080 0 0
+~
+~
+Door 3 0 0 18029 0 0
+~
+~
+End
+
+#18031
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18032 0 0
+~
+~
+Door 2 0 0 18030 0 0
+~
+~
+End
+
+#18032
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18033 0 0
+~
+~
+Door 1 0 0 18092 0 0
+~
+~
+Door 2 0 0 18086 0 0
+~
+~
+Door 3 0 0 18031 0 0
+~
+~
+End
+
+#18033
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18034 0 0
+~
+~
+Door 1 0 0 18093 0 0
+~
+~
+Door 2 0 0 18032 0 0
+~
+~
+End
+
+#18034
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18035 0 0
+~
+~
+Door 1 0 0 18094 0 0
+~
+~
+Door 2 0 0 18033 0 0
+~
+~
+End
+
+#18035
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18036 0 0
+~
+~
+Door 1 0 0 18095 0 0
+~
+~
+Door 2 0 0 18034 0 0
+~
+~
+End
+
+#18036
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18037 0 0
+~
+~
+Door 1 0 0 18096 0 0
+~
+~
+Door 2 0 0 18035 0 0
+~
+~
+End
+
+#18037
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18038 0 0
+~
+~
+Door 1 0 0 18097 0 0
+~
+~
+Door 2 0 0 18036 0 0
+~
+~
+End
+
+#18038
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18039 0 0
+~
+~
+Door 1 0 0 18098 0 0
+~
+~
+Door 2 0 0 18037 0 0
+~
+~
+End
+
+#18039
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18040 0 0
+~
+~
+Door 1 0 0 18061 0 0
+~
+~
+Door 2 0 0 18038 0 0
+~
+~
+End
+
+#18040
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18041 0 0
+~
+~
+Door 2 0 0 18039 0 0
+~
+~
+End
+
+#18041
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18012 1 100
+Door 0 0 0 18087 0 0
+~
+~
+Door 1 0 0 18042 0 0
+~
+~
+Door 2 0 0 18061 0 0
+~
+~
+Door 3 0 0 18040 0 0
+~
+~
+End
+
+#18042
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18043 0 0
+~
+~
+Door 2 0 0 18062 0 0
+~
+~
+Door 3 0 0 18041 0 0
+~
+~
+End
+
+#18043
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18044 0 0
+~
+~
+Door 2 0 0 18063 0 0
+~
+~
+Door 3 0 0 18042 0 0
+~
+~
+End
+
+#18044
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18045 0 0
+~
+~
+Door 2 0 0 18064 0 0
+~
+~
+Door 3 0 0 18043 0 0
+~
+~
+End
+
+#18045
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18046 0 0
+~
+~
+Door 2 0 0 18065 0 0
+~
+~
+Door 3 0 0 18044 0 0
+~
+~
+End
+
+#18046
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18047 0 0
+~
+~
+Door 2 0 0 18066 0 0
+~
+~
+Door 3 0 0 18045 0 0
+~
+~
+End
+
+#18047
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18048 0 0
+~
+~
+Door 2 0 0 18067 0 0
+~
+~
+Door 3 0 0 18046 0 0
+~
+~
+End
+
+#18048
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18049 0 0
+~
+~
+Door 2 0 0 18068 0 0
+~
+~
+Door 3 0 0 18047 0 0
+~
+~
+End
+
+#18049
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18050 0 0
+~
+~
+Door 2 0 0 18069 0 0
+~
+~
+Door 3 0 0 18048 0 0
+~
+~
+End
+
+#18050
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18051 0 0
+~
+~
+Door 2 0 0 18070 0 0
+~
+~
+Door 3 0 0 18049 0 0
+~
+~
+End
+
+#18051
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18052 0 0
+~
+~
+Door 2 0 0 18071 0 0
+~
+~
+Door 3 0 0 18050 0 0
+~
+~
+End
+
+#18052
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18053 0 0
+~
+~
+Door 2 0 0 18072 0 0
+~
+~
+Door 3 0 0 18051 0 0
+~
+~
+End
+
+#18053
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18054 0 0
+~
+~
+Door 2 0 0 18073 0 0
+~
+~
+Door 3 0 0 18052 0 0
+~
+~
+End
+
+#18054
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18055 0 0
+~
+~
+Door 2 0 0 18074 0 0
+~
+~
+Door 3 0 0 18053 0 0
+~
+~
+End
+
+#18055
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18056 0 0
+~
+~
+Door 2 0 0 18075 0 0
+~
+~
+Door 3 0 0 18054 0 0
+~
+~
+End
+
+#18056
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18057 0 0
+~
+~
+Door 2 0 0 18076 0 0
+~
+~
+Door 3 0 0 18055 0 0
+~
+~
+End
+
+#18057
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18115 0 0
+~
+~
+Door 2 0 0 18077 0 0
+~
+~
+Door 3 0 0 18056 0 0
+~
+~
+End
+
+#18058
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18161 0 0
+~
+~
+Door 1 0 0 18059 0 0
+~
+~
+Door 3 0 0 18018 0 0
+~
+~
+End
+
+#18059
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18162 0 0
+~
+~
+Door 1 0 0 18060 0 0
+~
+~
+Door 3 0 0 18058 0 0
+~
+~
+End
+
+#18060
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18163 0 0
+~
+~
+Door 1 0 0 18099 0 0
+~
+~
+Door 3 0 0 18059 0 0
+~
+~
+End
+
+#18061
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18041 0 0
+~
+~
+Door 1 0 0 18062 0 0
+~
+~
+Door 2 0 0 18098 0 0
+~
+~
+Door 3 0 0 18039 0 0
+~
+~
+End
+
+#18062
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18042 0 0
+~
+~
+Door 1 0 0 18063 0 0
+~
+~
+Door 2 0 0 18133 0 0
+~
+~
+Door 3 0 0 18061 0 0
+~
+~
+End
+
+#18063
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18043 0 0
+~
+~
+Door 1 0 0 18064 0 0
+~
+~
+Door 2 0 0 18134 0 0
+~
+~
+Door 3 0 0 18062 0 0
+~
+~
+End
+
+#18064
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18044 0 0
+~
+~
+Door 1 0 0 18065 0 0
+~
+~
+Door 2 0 0 18135 0 0
+~
+~
+Door 3 0 0 18063 0 0
+~
+~
+End
+
+#18065
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18009 1 100
+Reset O 59 -1 8
+Door 0 0 0 18045 0 0
+~
+~
+Door 1 0 0 18066 0 0
+~
+~
+Door 2 0 0 18136 0 0
+~
+~
+Door 3 0 0 18064 0 0
+~
+~
+End
+
+#18066
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18046 0 0
+~
+~
+Door 1 0 0 18067 0 0
+~
+~
+Door 2 0 0 18137 0 0
+~
+~
+Door 3 0 0 18065 0 0
+~
+~
+End
+
+#18067
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18047 0 0
+~
+~
+Door 1 0 0 18068 0 0
+~
+~
+Door 2 0 0 18138 0 0
+~
+~
+Door 3 0 0 18066 0 0
+~
+~
+End
+
+#18068
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18048 0 0
+~
+~
+Door 1 0 0 18069 0 0
+~
+~
+Door 2 0 0 18139 0 0
+~
+~
+Door 3 0 0 18067 0 0
+~
+~
+End
+
+#18069
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18049 0 0
+~
+~
+Door 1 0 0 18070 0 0
+~
+~
+Door 2 0 0 18140 0 0
+~
+~
+Door 3 0 0 18068 0 0
+~
+~
+End
+
+#18070
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18050 0 0
+~
+~
+Door 1 0 0 18071 0 0
+~
+~
+Door 2 0 0 18141 0 0
+~
+~
+Door 3 0 0 18069 0 0
+~
+~
+End
+
+#18071
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18051 0 0
+~
+~
+Door 1 0 0 18072 0 0
+~
+~
+Door 2 0 0 18142 0 0
+~
+~
+Door 3 0 0 18070 0 0
+~
+~
+End
+
+#18072
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18052 0 0
+~
+~
+Door 1 0 0 18073 0 0
+~
+~
+Door 2 0 0 18143 0 0
+~
+~
+Door 3 0 0 18071 0 0
+~
+~
+End
+
+#18073
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18053 0 0
+~
+~
+Door 1 0 0 18074 0 0
+~
+~
+Door 2 0 0 18144 0 0
+~
+~
+Door 3 0 0 18072 0 0
+~
+~
+End
+
+#18074
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18054 0 0
+~
+~
+Door 1 0 0 18075 0 0
+~
+~
+Door 2 0 0 18145 0 0
+~
+~
+Door 3 0 0 18073 0 0
+~
+~
+End
+
+#18075
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18055 0 0
+~
+~
+Door 1 0 0 18076 0 0
+~
+~
+Door 2 0 0 18146 0 0
+~
+~
+Door 3 0 0 18074 0 0
+~
+~
+End
+
+#18076
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18056 0 0
+~
+~
+Door 1 0 0 18077 0 0
+~
+~
+Door 2 0 0 18147 0 0
+~
+~
+Door 3 0 0 18075 0 0
+~
+~
+End
+
+#18077
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18057 0 0
+~
+~
+Door 1 0 0 18124 0 0
+~
+~
+Door 2 0 0 18148 0 0
+~
+~
+Door 3 0 0 18076 0 0
+~
+~
+End
+
+#18078
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18079 0 0
+~
+~
+Door 1 0 0 18083 0 0
+~
+~
+Door 2 0 0 18004 0 0
+~
+~
+Door 3 0 0 18026 0 0
+~
+~
+End
+
+#18079
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18080 0 0
+~
+~
+Door 1 0 0 18084 0 0
+~
+~
+Door 2 0 0 18078 0 0
+~
+~
+Door 3 0 0 18027 0 0
+~
+~
+End
+
+#18080
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18030 0 0
+~
+~
+Door 1 0 0 18085 0 0
+~
+~
+Door 2 0 0 18079 0 0
+~
+~
+Door 3 0 0 18028 0 0
+~
+~
+End
+
+#18081
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18083 0 0
+~
+~
+Door 1 0 0 18082 0 0
+~
+~
+Door 2 0 0 18024 0 0
+~
+~
+Door 3 0 0 18004 0 0
+~
+~
+End
+
+#18082
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18088 0 0
+~
+~
+Door 1 0 0 18405 0 0
+~
+~
+Door 2 0 0 18025 0 0
+~
+~
+Door 3 0 0 18081 0 0
+~
+~
+End
+
+#18083
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18084 0 0
+~
+~
+Door 1 0 0 18088 0 0
+~
+~
+Door 2 0 0 18081 0 0
+~
+~
+Door 3 0 0 18078 0 0
+~
+~
+End
+
+#18084
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18085 0 0
+~
+~
+Door 1 0 0 18089 0 0
+~
+~
+Door 2 0 0 18083 0 0
+~
+~
+Door 3 0 0 18079 0 0
+~
+~
+End
+
+#18085
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18086 0 0
+~
+~
+Door 1 0 0 18090 0 0
+~
+~
+Door 2 0 0 18084 0 0
+~
+~
+Door 3 0 0 18080 0 0
+~
+~
+End
+
+#18086
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18013 1 100
+Reset O 12550 7 100
+Door 0 0 0 18032 0 0
+~
+~
+Door 1 0 0 18091 0 0
+~
+~
+Door 2 0 0 18085 0 0
+~
+~
+Door 3 0 0 18030 0 0
+~
+~
+End
+
+#18087
+Name An Oasis in Blight~
+Descr
+This room is peaceful and relaxing you thing you should just stay here and heal.  The thought of just staying here passes in time.
+~
+Flags 3145728
+Sector 10
+Door 2 259 0 18041 30 30
+~
+Oasis door~
+End
+
+#18088
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18089 0 0
+~
+~
+Door 1 0 0 18395 0 0
+~
+~
+Door 2 0 0 18082 0 0
+~
+~
+Door 3 0 0 18083 0 0
+~
+~
+End
+
+#18089
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18090 0 0
+~
+~
+Door 1 0 0 18381 0 0
+~
+~
+Door 2 0 0 18088 0 0
+~
+~
+Door 3 0 0 18084 0 0
+~
+~
+End
+
+#18090
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18091 0 0
+~
+~
+Door 1 0 0 18356 0 0
+~
+~
+Door 2 0 0 18089 0 0
+~
+~
+Door 3 0 0 18085 0 0
+~
+~
+End
+
+#18091
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18092 0 0
+~
+~
+Door 1 0 0 18331 0 0
+~
+~
+Door 2 0 0 18090 0 0
+~
+~
+Door 3 0 0 18086 0 0
+~
+~
+End
+
+#18092
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18093 0 0
+~
+~
+Door 1 0 0 18306 0 0
+~
+~
+Door 2 0 0 18091 0 0
+~
+~
+Door 3 0 0 18032 0 0
+~
+~
+End
+
+#18093
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18094 0 0
+~
+~
+Door 1 0 0 18281 0 0
+~
+~
+Door 2 0 0 18092 0 0
+~
+~
+Door 3 0 0 18033 0 0
+~
+~
+End
+
+#18094
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18095 0 0
+~
+~
+Door 1 0 0 18256 0 0
+~
+~
+Door 2 0 0 18093 0 0
+~
+~
+Door 3 0 0 18034 0 0
+~
+~
+End
+
+#18095
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18096 0 0
+~
+~
+Door 1 0 0 18231 0 0
+~
+~
+Door 2 0 0 18094 0 0
+~
+~
+Door 3 0 0 18035 0 0
+~
+~
+End
+
+#18096
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18097 0 0
+~
+~
+Door 1 0 0 18206 0 0
+~
+~
+Door 2 0 0 18095 0 0
+~
+~
+Door 3 0 0 18036 0 0
+~
+~
+End
+
+#18097
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18098 0 0
+~
+~
+Door 1 0 0 18181 0 0
+~
+~
+Door 2 0 0 18096 0 0
+~
+~
+Door 3 0 0 18037 0 0
+~
+~
+End
+
+#18098
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18061 0 0
+~
+~
+Door 1 0 0 18133 0 0
+~
+~
+Door 2 0 0 18097 0 0
+~
+~
+Door 3 0 0 18038 0 0
+~
+~
+End
+
+#18099
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18164 0 0
+~
+~
+Door 1 0 0 18100 0 0
+~
+~
+Door 3 0 0 18060 0 0
+~
+~
+End
+
+#18100
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18165 0 0
+~
+~
+Door 1 0 0 18101 0 0
+~
+~
+Door 3 0 0 18099 0 0
+~
+~
+End
+
+#18101
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18166 0 0
+~
+~
+Door 1 0 0 18102 0 0
+~
+~
+Door 3 0 0 18100 0 0
+~
+~
+End
+
+#18102
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18167 0 0
+~
+~
+Door 1 0 0 18103 0 0
+~
+~
+Door 3 0 0 18101 0 0
+~
+~
+End
+
+#18103
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18168 0 0
+~
+~
+Door 1 0 0 18104 0 0
+~
+~
+Door 3 0 0 18102 0 0
+~
+~
+End
+
+#18104
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18169 0 0
+~
+~
+Door 1 0 0 18105 0 0
+~
+~
+Door 3 0 0 18103 0 0
+~
+~
+End
+
+#18105
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18170 0 0
+~
+~
+Door 1 0 0 18106 0 0
+~
+~
+Door 3 0 0 18104 0 0
+~
+~
+End
+
+#18106
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18171 0 0
+~
+~
+Door 1 0 0 18107 0 0
+~
+~
+Door 3 0 0 18105 0 0
+~
+~
+End
+
+#18107
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18172 0 0
+~
+~
+Door 1 0 0 18108 0 0
+~
+~
+Door 3 0 0 18106 0 0
+~
+~
+End
+
+#18108
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18173 0 0
+~
+~
+Door 1 0 0 18109 0 0
+~
+~
+Door 3 0 0 18107 0 0
+~
+~
+End
+
+#18109
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18174 0 0
+~
+~
+Door 1 0 0 18110 0 0
+~
+~
+Door 3 0 0 18108 0 0
+~
+~
+End
+
+#18110
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18175 0 0
+~
+~
+Door 1 0 0 18111 0 0
+~
+~
+Door 3 0 0 18109 0 0
+~
+~
+End
+
+#18111
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18176 0 0
+~
+~
+Door 1 0 0 18112 0 0
+~
+~
+Door 3 0 0 18110 0 0
+~
+~
+End
+
+#18112
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18177 0 0
+~
+~
+Door 1 0 0 18113 0 0
+~
+~
+Door 3 0 0 18111 0 0
+~
+~
+End
+
+#18113
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18178 0 0
+~
+~
+Door 1 0 0 18114 0 0
+~
+~
+Door 3 0 0 18112 0 0
+~
+~
+End
+
+#18114
+Name Southern Edge of The Blight~
+Descr
+To continue on to the south is impossible, a great mountain range looms
+above you. perhaps you may find a path through, perhaps not, if there is a
+path, it will be hard to find. 
+~
+Sector 5
+Door 0 0 0 18179 0 0
+~
+~
+Door 3 0 0 18113 0 0
+~
+~
+End
+
+#18115
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18116 0 0
+~
+~
+Door 2 0 0 18124 0 0
+~
+~
+Door 3 0 0 18057 0 0
+~
+~
+End
+
+#18116
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18117 0 0
+~
+~
+Door 2 0 0 18125 0 0
+~
+~
+Door 3 0 0 18115 0 0
+~
+~
+End
+
+#18117
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18118 0 0
+~
+~
+Door 2 0 0 18126 0 0
+~
+~
+Door 3 0 0 18116 0 0
+~
+~
+End
+
+#18118
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18119 0 0
+~
+~
+Door 2 0 0 18127 0 0
+~
+~
+Door 3 0 0 18117 0 0
+~
+~
+End
+
+#18119
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 1 0 0 18120 0 0
+~
+~
+Door 2 0 0 18128 0 0
+~
+~
+Door 3 0 0 18118 0 0
+~
+~
+End
+
+#18120
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18121 0 0
+~
+~
+Door 2 0 0 18129 0 0
+~
+~
+Door 3 0 0 18119 0 0
+~
+~
+End
+
+#18121
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18122 0 0
+~
+~
+Door 2 0 0 18130 0 0
+~
+~
+Door 3 0 0 18120 0 0
+~
+~
+End
+
+#18122
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 18123 0 0
+~
+~
+Door 2 0 0 18131 0 0
+~
+~
+Door 3 0 0 18121 0 0
+~
+~
+End
+
+#18123
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18132 0 0
+~
+~
+Door 3 0 0 18122 0 0
+~
+~
+End
+
+#18124
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18115 0 0
+~
+~
+Door 1 0 0 18125 0 0
+~
+~
+Door 2 0 0 18149 0 0
+~
+~
+Door 3 0 0 18077 0 0
+~
+~
+End
+
+#18125
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18116 0 0
+~
+~
+Door 1 0 0 18126 0 0
+~
+~
+Door 2 0 0 18150 0 0
+~
+~
+Door 3 0 0 18124 0 0
+~
+~
+End
+
+#18126
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18117 0 0
+~
+~
+Door 1 0 0 18127 0 0
+~
+~
+Door 2 0 0 18151 0 0
+~
+~
+Door 3 0 0 18125 0 0
+~
+~
+End
+
+#18127
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18118 0 0
+~
+~
+Door 1 0 0 18128 0 0
+~
+~
+Door 2 0 0 18152 0 0
+~
+~
+Door 3 0 0 18126 0 0
+~
+~
+End
+
+#18128
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18119 0 0
+~
+~
+Door 1 0 0 18129 0 0
+~
+~
+Door 2 0 0 18153 0 0
+~
+~
+Door 3 0 0 18127 0 0
+~
+~
+End
+
+#18129
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18120 0 0
+~
+~
+Door 1 0 0 18130 0 0
+~
+~
+Door 2 0 0 18154 0 0
+~
+~
+Door 3 0 0 18128 0 0
+~
+~
+End
+
+#18130
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18121 0 0
+~
+~
+Door 1 0 0 18131 0 0
+~
+~
+Door 2 0 0 18155 0 0
+~
+~
+Door 3 0 0 18129 0 0
+~
+~
+End
+
+#18131
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18122 0 0
+~
+~
+Door 1 0 0 18132 0 0
+~
+~
+Door 2 0 0 18156 0 0
+~
+~
+Door 3 0 0 18130 0 0
+~
+~
+End
+
+#18132
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18123 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18157 0 0
+~
+~
+Door 3 0 0 18131 0 0
+~
+~
+End
+
+#18133
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18062 0 0
+~
+~
+Door 1 0 0 18134 0 0
+~
+~
+Door 2 0 0 18181 0 0
+~
+~
+Door 3 0 0 18098 0 0
+~
+~
+End
+
+#18134
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18063 0 0
+~
+~
+Door 1 0 0 18135 0 0
+~
+~
+Door 2 0 0 18182 0 0
+~
+~
+Door 3 0 0 18133 0 0
+~
+~
+End
+
+#18135
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18064 0 0
+~
+~
+Door 1 0 0 18136 0 0
+~
+~
+Door 2 0 0 18183 0 0
+~
+~
+Door 3 0 0 18134 0 0
+~
+~
+End
+
+#18136
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18065 0 0
+~
+~
+Door 1 0 0 18137 0 0
+~
+~
+Door 2 0 0 18184 0 0
+~
+~
+Door 3 0 0 18135 0 0
+~
+~
+End
+
+#18137
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18066 0 0
+~
+~
+Door 1 0 0 18138 0 0
+~
+~
+Door 2 0 0 18185 0 0
+~
+~
+Door 3 0 0 18136 0 0
+~
+~
+End
+
+#18138
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18067 0 0
+~
+~
+Door 1 0 0 18139 0 0
+~
+~
+Door 2 0 0 18186 0 0
+~
+~
+Door 3 0 0 18137 0 0
+~
+~
+End
+
+#18139
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18068 0 0
+~
+~
+Door 1 0 0 18140 0 0
+~
+~
+Door 2 0 0 18187 0 0
+~
+~
+Door 3 0 0 18138 0 0
+~
+~
+End
+
+#18140
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18069 0 0
+~
+~
+Door 1 0 0 18141 0 0
+~
+~
+Door 2 0 0 18188 0 0
+~
+~
+Door 3 0 0 18139 0 0
+~
+~
+End
+
+#18141
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18070 0 0
+~
+~
+Door 1 0 0 18142 0 0
+~
+~
+Door 2 0 0 18189 0 0
+~
+~
+Door 3 0 0 18140 0 0
+~
+~
+End
+
+#18142
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18071 0 0
+~
+~
+Door 1 0 0 18143 0 0
+~
+~
+Door 2 0 0 18190 0 0
+~
+~
+Door 3 0 0 18141 0 0
+~
+~
+End
+
+#18143
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18011 1 100
+Door 0 0 0 18072 0 0
+~
+~
+Door 1 0 0 18144 0 0
+~
+~
+Door 2 0 0 18191 0 0
+~
+~
+Door 3 0 0 18142 0 0
+~
+~
+End
+
+#18144
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18073 0 0
+~
+~
+Door 1 0 0 18145 0 0
+~
+~
+Door 2 0 0 18192 0 0
+~
+~
+Door 3 0 0 18143 0 0
+~
+~
+End
+
+#18145
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18074 0 0
+~
+~
+Door 1 0 0 18146 0 0
+~
+~
+Door 2 0 0 18193 0 0
+~
+~
+Door 3 0 0 18144 0 0
+~
+~
+End
+
+#18146
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18075 0 0
+~
+~
+Door 1 0 0 18147 0 0
+~
+~
+Door 2 0 0 18194 0 0
+~
+~
+Door 3 0 0 18145 0 0
+~
+~
+End
+
+#18147
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18076 0 0
+~
+~
+Door 1 0 0 18148 0 0
+~
+~
+Door 2 0 0 18195 0 0
+~
+~
+Door 3 0 0 18146 0 0
+~
+~
+End
+
+#18148
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18077 0 0
+~
+~
+Door 1 0 0 18149 0 0
+~
+~
+Door 2 0 0 18196 0 0
+~
+~
+Door 3 0 0 18147 0 0
+~
+~
+End
+
+#18149
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18124 0 0
+~
+~
+Door 1 0 0 18150 0 0
+~
+~
+Door 2 0 0 18197 0 0
+~
+~
+Door 3 0 0 18148 0 0
+~
+~
+End
+
+#18150
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18125 0 0
+~
+~
+Door 1 0 0 18151 0 0
+~
+~
+Door 2 0 0 18198 0 0
+~
+~
+Door 3 0 0 18149 0 0
+~
+~
+End
+
+#18151
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18126 0 0
+~
+~
+Door 1 0 0 18152 0 0
+~
+~
+Door 2 0 0 18199 0 0
+~
+~
+Door 3 0 0 18150 0 0
+~
+~
+End
+
+#18152
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18127 0 0
+~
+~
+Door 1 0 0 18153 0 0
+~
+~
+Door 2 0 0 18200 0 0
+~
+~
+Door 3 0 0 18151 0 0
+~
+~
+End
+
+#18153
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18128 0 0
+~
+~
+Door 1 0 0 18154 0 0
+~
+~
+Door 2 0 0 18201 0 0
+~
+~
+Door 3 0 0 18152 0 0
+~
+~
+End
+
+#18154
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18129 0 0
+~
+~
+Door 1 0 0 18155 0 0
+~
+~
+Door 2 0 0 18202 0 0
+~
+~
+Door 3 0 0 18153 0 0
+~
+~
+End
+
+#18155
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18014 1 100
+Door 0 0 0 18130 0 0
+~
+~
+Door 1 0 0 18156 0 0
+~
+~
+Door 2 0 0 18203 0 0
+~
+~
+Door 3 0 0 18154 0 0
+~
+~
+End
+
+#18156
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18131 0 0
+~
+~
+Door 1 0 0 18157 0 0
+~
+~
+Door 2 0 0 18204 0 0
+~
+~
+Door 3 0 0 18155 0 0
+~
+~
+End
+
+#18157
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18132 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18205 0 0
+~
+~
+Door 3 0 0 18156 0 0
+~
+~
+End
+
+#18158
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18439 0 0
+~
+~
+Door 1 0 0 18159 0 0
+~
+~
+Door 2 0 0 18016 0 0
+~
+~
+Door 3 0 0 18019 0 0
+~
+~
+End
+
+#18159
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18440 0 0
+~
+~
+Door 1 0 0 18160 0 0
+~
+~
+Door 2 0 0 18017 0 0
+~
+~
+Door 3 0 0 18158 0 0
+~
+~
+End
+
+#18160
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18441 0 0
+~
+~
+Door 1 0 0 18161 0 0
+~
+~
+Door 2 0 0 18018 0 0
+~
+~
+Door 3 0 0 18159 0 0
+~
+~
+End
+
+#18161
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18442 0 0
+~
+~
+Door 1 0 0 18162 0 0
+~
+~
+Door 2 0 0 18058 0 0
+~
+~
+Door 3 0 0 18160 0 0
+~
+~
+End
+
+#18162
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18443 0 0
+~
+~
+Door 1 0 0 18163 0 0
+~
+~
+Door 2 0 0 18059 0 0
+~
+~
+Door 3 0 0 18161 0 0
+~
+~
+Door 5 259 0 11800 30 30
+~
+coals~
+End
+
+#18163
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18444 0 0
+~
+~
+Door 1 0 0 18164 0 0
+~
+~
+Door 2 0 0 18060 0 0
+~
+~
+Door 3 0 0 18162 0 0
+~
+~
+End
+
+#18164
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18445 0 0
+~
+~
+Door 1 0 0 18165 0 0
+~
+~
+Door 2 0 0 18099 0 0
+~
+~
+Door 3 0 0 18163 0 0
+~
+~
+End
+
+#18165
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18446 0 0
+~
+~
+Door 1 0 0 18166 0 0
+~
+~
+Door 2 0 0 18100 0 0
+~
+~
+Door 3 0 0 18164 0 0
+~
+~
+End
+
+#18166
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18447 0 0
+~
+~
+Door 1 0 0 18167 0 0
+~
+~
+Door 2 0 0 18101 0 0
+~
+~
+Door 3 0 0 18165 0 0
+~
+~
+End
+
+#18167
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18448 0 0
+~
+~
+Door 1 0 0 18168 0 0
+~
+~
+Door 2 0 0 18102 0 0
+~
+~
+Door 3 0 0 18166 0 0
+~
+~
+End
+
+#18168
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18449 0 0
+~
+~
+Door 1 0 0 18169 0 0
+~
+~
+Door 2 0 0 18103 0 0
+~
+~
+Door 3 0 0 18167 0 0
+~
+~
+End
+
+#18169
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18450 0 0
+~
+~
+Door 1 0 0 18170 0 0
+~
+~
+Door 2 0 0 18104 0 0
+~
+~
+Door 3 0 0 18168 0 0
+~
+~
+End
+
+#18170
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18451 0 0
+~
+~
+Door 1 0 0 18171 0 0
+~
+~
+Door 2 0 0 18105 0 0
+~
+~
+Door 3 0 0 18169 0 0
+~
+~
+End
+
+#18171
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 0 0 0 18452 0 0
+~
+~
+Door 1 0 0 18172 0 0
+~
+~
+Door 2 0 0 18106 0 0
+~
+~
+Door 3 0 0 18170 0 0
+~
+~
+End
+
+#18172
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18173 0 0
+~
+~
+Door 2 0 0 18107 0 0
+~
+~
+Door 3 0 0 18171 0 0
+~
+~
+End
+
+#18173
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18174 0 0
+~
+~
+Door 2 0 0 18108 0 0
+~
+~
+Door 3 0 0 18172 0 0
+~
+~
+End
+
+#18174
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18175 0 0
+~
+~
+Door 2 0 0 18109 0 0
+~
+~
+Door 3 0 0 18173 0 0
+~
+~
+End
+
+#18175
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18176 0 0
+~
+~
+Door 2 0 0 18110 0 0
+~
+~
+Door 3 0 0 18174 0 0
+~
+~
+End
+
+#18176
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18177 0 0
+~
+~
+Door 2 0 0 18111 0 0
+~
+~
+Door 3 0 0 18175 0 0
+~
+~
+End
+
+#18177
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18178 0 0
+~
+~
+Door 2 0 0 18112 0 0
+~
+~
+Door 3 0 0 18176 0 0
+~
+~
+End
+
+#18178
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18179 0 0
+~
+~
+Door 2 0 0 18113 0 0
+~
+~
+Door 3 0 0 18177 0 0
+~
+~
+End
+
+#18179
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 1 0 0 18180 0 0
+~
+~
+Door 2 0 0 18114 0 0
+~
+~
+Door 3 0 0 18178 0 0
+~
+~
+End
+
+#18180
+Name Nearing the Southern Edge of The Blight~
+Descr
+The black, grainy sands begin to give way to the volcanic nature of the
+mountains looming before you. The heat is intensifying, making travel in
+this direction more and more difficult. 
+~
+Sector 5
+Door 3 0 0 18179 0 0
+~
+~
+End
+
+#18181
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18133 0 0
+~
+~
+Door 1 0 0 18182 0 0
+~
+~
+Door 2 0 0 18206 0 0
+~
+~
+Door 3 0 0 18097 0 0
+~
+~
+End
+
+#18182
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18134 0 0
+~
+~
+Door 1 0 0 18183 0 0
+~
+~
+Door 2 0 0 18207 0 0
+~
+~
+Door 3 0 0 18181 0 0
+~
+~
+End
+
+#18183
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18135 0 0
+~
+~
+Door 1 0 0 18184 0 0
+~
+~
+Door 2 0 0 18208 0 0
+~
+~
+Door 3 0 0 18182 0 0
+~
+~
+End
+
+#18184
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18136 0 0
+~
+~
+Door 1 0 0 18185 0 0
+~
+~
+Door 2 0 0 18209 0 0
+~
+~
+Door 3 0 0 18183 0 0
+~
+~
+End
+
+#18185
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18137 0 0
+~
+~
+Door 1 0 0 18186 0 0
+~
+~
+Door 2 0 0 18210 0 0
+~
+~
+Door 3 0 0 18184 0 0
+~
+~
+End
+
+#18186
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18138 0 0
+~
+~
+Door 1 0 0 18187 0 0
+~
+~
+Door 2 0 0 18211 0 0
+~
+~
+Door 3 0 0 18185 0 0
+~
+~
+End
+
+#18187
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18006 1 100
+Reset O 18006 -1 20
+Door 0 0 0 18139 0 0
+~
+~
+Door 1 0 0 18188 0 0
+~
+~
+Door 2 0 0 18212 0 0
+~
+~
+Door 3 0 0 18186 0 0
+~
+~
+End
+
+#18188
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18140 0 0
+~
+~
+Door 1 0 0 18189 0 0
+~
+~
+Door 2 0 0 18213 0 0
+~
+~
+Door 3 0 0 18187 0 0
+~
+~
+End
+
+#18189
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18141 0 0
+~
+~
+Door 1 0 0 18190 0 0
+~
+~
+Door 2 0 0 18214 0 0
+~
+~
+Door 3 0 0 18188 0 0
+~
+~
+End
+
+#18190
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18142 0 0
+~
+~
+Door 1 0 0 18191 0 0
+~
+~
+Door 2 0 0 18215 0 0
+~
+~
+Door 3 0 0 18189 0 0
+~
+~
+End
+
+#18191
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18143 0 0
+~
+~
+Door 1 0 0 18192 0 0
+~
+~
+Door 2 0 0 18216 0 0
+~
+~
+Door 3 0 0 18190 0 0
+~
+~
+End
+
+#18192
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18008 1 100
+Door 0 0 0 18144 0 0
+~
+~
+Door 1 0 0 18193 0 0
+~
+~
+Door 2 0 0 18217 0 0
+~
+~
+Door 3 0 0 18191 0 0
+~
+~
+End
+
+#18193
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18145 0 0
+~
+~
+Door 1 0 0 18194 0 0
+~
+~
+Door 2 0 0 18218 0 0
+~
+~
+Door 3 0 0 18192 0 0
+~
+~
+End
+
+#18194
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18146 0 0
+~
+~
+Door 1 0 0 18195 0 0
+~
+~
+Door 2 0 0 18219 0 0
+~
+~
+Door 3 0 0 18193 0 0
+~
+~
+End
+
+#18195
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Reset M 18001 1 100
+Reset O 18001 -1 20
+Reset O 18004 8 1
+Reset O 18003 2 1
+Door 0 0 0 18147 0 0
+~
+~
+Door 1 0 0 18196 0 0
+~
+~
+Door 2 0 0 18220 0 0
+~
+~
+Door 3 0 0 18194 0 0
+~
+~
+End
+
+#18196
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18148 0 0
+~
+~
+Door 1 0 0 18197 0 0
+~
+~
+Door 2 0 0 18221 0 0
+~
+~
+Door 3 0 0 18195 0 0
+~
+~
+End
+
+#18197
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18149 0 0
+~
+~
+Door 1 0 0 18198 0 0
+~
+~
+Door 2 0 0 18222 0 0
+~
+~
+Door 3 0 0 18196 0 0
+~
+~
+End
+
+#18198
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18150 0 0
+~
+~
+Door 1 0 0 18199 0 0
+~
+~
+Door 2 0 0 18223 0 0
+~
+~
+Door 3 0 0 18197 0 0
+~
+~
+End
+
+#18199
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18151 0 0
+~
+~
+Door 1 0 0 18200 0 0
+~
+~
+Door 2 0 0 18224 0 0
+~
+~
+Door 3 0 0 18198 0 0
+~
+~
+End
+
+#18200
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18152 0 0
+~
+~
+Door 1 0 0 18201 0 0
+~
+~
+Door 2 0 0 18225 0 0
+~
+~
+Door 3 0 0 18199 0 0
+~
+~
+End
+
+#18201
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18153 0 0
+~
+~
+Door 1 0 0 18202 0 0
+~
+~
+Door 2 0 0 18226 0 0
+~
+~
+Door 3 0 0 18200 0 0
+~
+~
+End
+
+#18202
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18154 0 0
+~
+~
+Door 1 0 0 18204 0 0
+~
+~
+Door 2 0 0 18227 0 0
+~
+~
+Door 3 0 0 18201 0 0
+~
+~
+End
+
+#18203
+Name The Blight~
+Descr
+The high walls of the gate seem to tower over you like two giants
+chilling the bones and making it hard to see what is on either side
+of you. The guard looks down upon you making sure you are of the right alignment to enter.
+~
+Sector 10
+Door 0 0 0 18155 0 0
+~
+~
+Door 1 0 0 18205 0 0
+~
+~
+Door 2 0 0 18229 0 0
+~
+~
+Door 3 0 0 18204 0 0
+~
+~
+End
+
+#18204
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18156 0 0
+~
+~
+Door 1 0 0 18203 0 0
+~
+~
+Door 2 0 0 18228 0 0
+~
+~
+Door 3 0 0 18202 0 0
+~
+~
+End
+
+#18205
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18157 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18230 0 0
+~
+~
+Door 3 0 0 18203 0 0
+~
+~
+End
+
+#18206
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18181 0 0
+~
+~
+Door 1 0 0 18207 0 0
+~
+~
+Door 2 0 0 18231 0 0
+~
+~
+Door 3 0 0 18096 0 0
+~
+~
+End
+
+#18207
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18182 0 0
+~
+~
+Door 1 0 0 18208 0 0
+~
+~
+Door 2 0 0 18232 0 0
+~
+~
+Door 3 0 0 18206 0 0
+~
+~
+End
+
+#18208
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18183 0 0
+~
+~
+Door 1 0 0 18209 0 0
+~
+~
+Door 2 0 0 18233 0 0
+~
+~
+Door 3 0 0 18207 0 0
+~
+~
+End
+
+#18209
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18013 1 100
+Reset O 12550 7 100
+Reset O 18007 -1 25
+Door 0 0 0 18184 0 0
+~
+~
+Door 1 0 0 18210 0 0
+~
+~
+Door 2 0 0 18234 0 0
+~
+~
+Door 3 0 0 18208 0 0
+~
+~
+End
+
+#18210
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18185 0 0
+~
+~
+Door 1 0 0 18211 0 0
+~
+~
+Door 2 0 0 18235 0 0
+~
+~
+Door 3 0 0 18209 0 0
+~
+~
+End
+
+#18211
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18186 0 0
+~
+~
+Door 1 0 0 18212 0 0
+~
+~
+Door 2 0 0 18236 0 0
+~
+~
+Door 3 0 0 18210 0 0
+~
+~
+End
+
+#18212
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18187 0 0
+~
+~
+Door 1 0 0 18213 0 0
+~
+~
+Door 2 0 0 18237 0 0
+~
+~
+Door 3 0 0 18211 0 0
+~
+~
+End
+
+#18213
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18188 0 0
+~
+~
+Door 1 0 0 18214 0 0
+~
+~
+Door 2 0 0 18238 0 0
+~
+~
+Door 3 0 0 18212 0 0
+~
+~
+End
+
+#18214
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18189 0 0
+~
+~
+Door 1 0 0 18215 0 0
+~
+~
+Door 2 0 0 18239 0 0
+~
+~
+Door 3 0 0 18213 0 0
+~
+~
+End
+
+#18215
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18190 0 0
+~
+~
+Door 1 0 0 18216 0 0
+~
+~
+Door 2 0 0 18240 0 0
+~
+~
+Door 3 0 0 18214 0 0
+~
+~
+End
+
+#18216
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18191 0 0
+~
+~
+Door 1 0 0 18217 0 0
+~
+~
+Door 2 0 0 18241 0 0
+~
+~
+Door 3 0 0 18215 0 0
+~
+~
+End
+
+#18217
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18192 0 0
+~
+~
+Door 1 0 0 18218 0 0
+~
+~
+Door 2 0 0 18242 0 0
+~
+~
+Door 3 0 0 18216 0 0
+~
+~
+End
+
+#18218
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18193 0 0
+~
+~
+Door 1 0 0 18219 0 0
+~
+~
+Door 2 0 0 18243 0 0
+~
+~
+Door 3 0 0 18217 0 0
+~
+~
+End
+
+#18219
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18194 0 0
+~
+~
+Door 1 0 0 18220 0 0
+~
+~
+Door 2 0 0 18244 0 0
+~
+~
+Door 3 0 0 18218 0 0
+~
+~
+End
+
+#18220
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18195 0 0
+~
+~
+Door 1 0 0 18221 0 0
+~
+~
+Door 2 0 0 18245 0 0
+~
+~
+Door 3 0 0 18219 0 0
+~
+~
+End
+
+#18221
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18196 0 0
+~
+~
+Door 1 0 0 18222 0 0
+~
+~
+Door 2 0 0 18246 0 0
+~
+~
+Door 3 0 0 18220 0 0
+~
+~
+End
+
+#18222
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Reset M 18015 1 100
+Door 0 0 0 18197 0 0
+~
+~
+Door 1 0 0 18223 0 0
+~
+~
+Door 2 0 0 18247 0 0
+~
+~
+Door 3 0 0 18221 0 0
+~
+~
+End
+
+#18223
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18198 0 0
+~
+~
+Door 1 0 0 18224 0 0
+~
+~
+Door 2 0 0 18248 0 0
+~
+~
+Door 3 0 0 18222 0 0
+~
+~
+End
+
+#18224
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18199 0 0
+~
+~
+Door 1 0 0 18225 0 0
+~
+~
+Door 2 0 0 18249 0 0
+~
+~
+Door 3 0 0 18223 0 0
+~
+~
+End
+
+#18225
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18200 0 0
+~
+~
+Door 1 0 0 18226 0 0
+~
+~
+Door 2 0 0 18250 0 0
+~
+~
+Door 3 0 0 18224 0 0
+~
+~
+End
+
+#18226
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18201 0 0
+~
+~
+Door 1 0 0 18227 0 0
+~
+~
+Door 2 0 0 18251 0 0
+~
+~
+Door 3 0 0 18225 0 0
+~
+~
+End
+
+#18227
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18202 0 0
+~
+~
+Door 1 0 0 18228 0 0
+~
+~
+Door 2 0 0 18252 0 0
+~
+~
+Door 3 0 0 18226 0 0
+~
+~
+End
+
+#18228
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18204 0 0
+~
+~
+Door 1 0 0 18229 0 0
+~
+~
+Door 2 0 0 18253 0 0
+~
+~
+Door 3 0 0 18227 0 0
+~
+~
+End
+
+#18229
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18203 0 0
+~
+~
+Door 1 0 0 18230 0 0
+~
+~
+Door 2 0 0 18254 0 0
+~
+~
+Door 3 0 0 18228 0 0
+~
+~
+End
+
+#18230
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18205 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18255 0 0
+~
+~
+Door 3 0 0 18229 0 0
+~
+~
+End
+
+#18231
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18206 0 0
+~
+~
+Door 1 0 0 18232 0 0
+~
+~
+Door 2 0 0 18256 0 0
+~
+~
+Door 3 0 0 18095 0 0
+~
+~
+End
+
+#18232
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18207 0 0
+~
+~
+Door 1 0 0 18233 0 0
+~
+~
+Door 2 0 0 18257 0 0
+~
+~
+Door 3 0 0 18231 0 0
+~
+~
+End
+
+#18233
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18208 0 0
+~
+~
+Door 1 0 0 18234 0 0
+~
+~
+Door 2 0 0 18258 0 0
+~
+~
+Door 3 0 0 18232 0 0
+~
+~
+End
+
+#18234
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18209 0 0
+~
+~
+Door 1 0 0 18235 0 0
+~
+~
+Door 2 0 0 18259 0 0
+~
+~
+Door 3 0 0 18233 0 0
+~
+~
+End
+
+#18235
+Name A Rocky  Escarpment~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18210 0 0
+~
+~
+Door 1 0 0 18236 0 0
+~
+~
+Door 2 0 0 18260 0 0
+~
+~
+Door 3 0 0 18234 0 0
+~
+~
+End
+
+#18236
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18211 0 0
+~
+~
+Door 1 0 0 18237 0 0
+~
+~
+Door 2 0 0 18261 0 0
+~
+~
+Door 3 0 0 18235 0 0
+~
+~
+End
+
+#18237
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18212 0 0
+~
+~
+Door 1 0 0 18238 0 0
+~
+~
+Door 2 0 0 18262 0 0
+~
+~
+Door 3 0 0 18236 0 0
+~
+~
+End
+
+#18238
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18213 0 0
+~
+~
+Door 1 0 0 18239 0 0
+~
+~
+Door 2 0 0 18263 0 0
+~
+~
+Door 3 0 0 18237 0 0
+~
+~
+End
+
+#18239
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18214 0 0
+~
+~
+Door 1 0 0 18240 0 0
+~
+~
+Door 2 0 0 18264 0 0
+~
+~
+Door 3 0 0 18238 0 0
+~
+~
+End
+
+#18240
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18215 0 0
+~
+~
+Door 1 0 0 18241 0 0
+~
+~
+Door 2 0 0 18265 0 0
+~
+~
+Door 3 0 0 18239 0 0
+~
+~
+End
+
+#18241
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18216 0 0
+~
+~
+Door 1 0 0 18242 0 0
+~
+~
+Door 2 0 0 18266 0 0
+~
+~
+Door 3 0 0 18240 0 0
+~
+~
+End
+
+#18242
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18217 0 0
+~
+~
+Door 1 0 0 18243 0 0
+~
+~
+Door 2 0 0 18267 0 0
+~
+~
+Door 3 0 0 18241 0 0
+~
+~
+End
+
+#18243
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. The ground here seems to
+be fairly wet. 
+~
+Flags 8194
+Sector 10
+Move_dir 5
+Movemess
+sucked under by some strong quicksand.
+~
+Door 0 0 0 18218 0 0
+~
+~
+Door 1 0 0 18244 0 0
+~
+~
+Door 2 0 0 18268 0 0
+~
+~
+Door 3 0 0 18242 0 0
+~
+~
+Door 5 259 0 0 30 30
+~
+~
+End
+
+#18244
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18219 0 0
+~
+~
+Door 1 0 0 18245 0 0
+~
+~
+Door 2 0 0 18269 0 0
+~
+~
+Door 3 0 0 18243 0 0
+~
+~
+End
+
+#18245
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18220 0 0
+~
+~
+Door 1 0 0 18246 0 0
+~
+~
+Door 2 0 0 18270 0 0
+~
+~
+Door 3 0 0 18244 0 0
+~
+~
+End
+
+#18246
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18221 0 0
+~
+~
+Door 1 0 0 18247 0 0
+~
+~
+Door 2 0 0 18271 0 0
+~
+~
+Door 3 0 0 18245 0 0
+~
+~
+End
+
+#18247
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18222 0 0
+~
+~
+Door 1 0 0 18248 0 0
+~
+~
+Door 2 0 0 18272 0 0
+~
+~
+Door 3 0 0 18246 0 0
+~
+~
+End
+
+#18248
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18223 0 0
+~
+~
+Door 1 0 0 18249 0 0
+~
+~
+Door 2 0 0 18273 0 0
+~
+~
+Door 3 0 0 18247 0 0
+~
+~
+End
+
+#18249
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18224 0 0
+~
+~
+Door 1 0 0 18250 0 0
+~
+~
+Door 2 0 0 18274 0 0
+~
+~
+Door 3 0 0 18248 0 0
+~
+~
+End
+
+#18250
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18225 0 0
+~
+~
+Door 1 0 0 18251 0 0
+~
+~
+Door 2 0 0 18275 0 0
+~
+~
+Door 3 0 0 18249 0 0
+~
+~
+End
+
+#18251
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18226 0 0
+~
+~
+Door 1 0 0 18252 0 0
+~
+~
+Door 2 0 0 18276 0 0
+~
+~
+Door 3 0 0 18250 0 0
+~
+~
+End
+
+#18252
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18227 0 0
+~
+~
+Door 1 0 0 18253 0 0
+~
+~
+Door 2 0 0 18277 0 0
+~
+~
+Door 3 0 0 18251 0 0
+~
+~
+End
+
+#18253
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18228 0 0
+~
+~
+Door 1 0 0 18254 0 0
+~
+~
+Door 2 0 0 18278 0 0
+~
+~
+Door 3 0 0 18252 0 0
+~
+~
+End
+
+#18254
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18229 0 0
+~
+~
+Door 1 0 0 18255 0 0
+~
+~
+Door 2 0 0 18279 0 0
+~
+~
+Door 3 0 0 18253 0 0
+~
+~
+End
+
+#18255
+Name An Evil Clearing~
+Descr
+This seems to be the only place in this desolate land where vegetation
+has managed to take hold and survive. You see before you an immense tree,
+with long, drooping branches, wait, is that one of them moving?  
+~
+Sector 10
+Reset M 18007 1 100
+Reset O 18005 1 20
+Door 0 0 0 18230 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18280 0 0
+~
+~
+Door 3 0 0 18254 0 0
+~
+~
+End
+
+#18256
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18231 0 0
+~
+~
+Door 1 0 0 18257 0 0
+~
+~
+Door 2 0 0 18281 0 0
+~
+~
+Door 3 0 0 18094 0 0
+~
+~
+End
+
+#18257
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18232 0 0
+~
+~
+Door 1 0 0 18258 0 0
+~
+~
+Door 2 0 0 18282 0 0
+~
+~
+Door 3 0 0 18256 0 0
+~
+~
+End
+
+#18258
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18233 0 0
+~
+~
+Door 1 0 0 18259 0 0
+~
+~
+Door 2 0 0 18283 0 0
+~
+~
+Door 3 0 0 18257 0 0
+~
+~
+End
+
+#18259
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18234 0 0
+~
+~
+Door 1 0 0 18260 0 0
+~
+~
+Door 2 0 0 18284 0 0
+~
+~
+Door 3 0 0 18258 0 0
+~
+~
+End
+
+#18260
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18235 0 0
+~
+~
+Door 1 0 0 18261 0 0
+~
+~
+Door 2 0 0 18285 0 0
+~
+~
+Door 3 0 0 18259 0 0
+~
+~
+End
+
+#18261
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18236 0 0
+~
+~
+Door 1 0 0 18262 0 0
+~
+~
+Door 2 0 0 18286 0 0
+~
+~
+Door 3 0 0 18260 0 0
+~
+~
+End
+
+#18262
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18237 0 0
+~
+~
+Door 1 0 0 18263 0 0
+~
+~
+Door 2 0 0 18287 0 0
+~
+~
+Door 3 0 0 18261 0 0
+~
+~
+End
+
+#18263
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18012 1 100
+Door 0 0 0 18238 0 0
+~
+~
+Door 1 0 0 18264 0 0
+~
+~
+Door 2 0 0 18288 0 0
+~
+~
+Door 3 0 0 18262 0 0
+~
+~
+End
+
+#18264
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18239 0 0
+~
+~
+Door 1 0 0 18265 0 0
+~
+~
+Door 2 0 0 18289 0 0
+~
+~
+Door 3 0 0 18263 0 0
+~
+~
+End
+
+#18265
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18240 0 0
+~
+~
+Door 1 0 0 18266 0 0
+~
+~
+Door 2 0 0 18290 0 0
+~
+~
+Door 3 0 0 18264 0 0
+~
+~
+End
+
+#18266
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18241 0 0
+~
+~
+Door 1 0 0 18267 0 0
+~
+~
+Door 2 0 0 18291 0 0
+~
+~
+Door 3 0 0 18265 0 0
+~
+~
+End
+
+#18267
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18242 0 0
+~
+~
+Door 1 0 0 18268 0 0
+~
+~
+Door 2 0 0 18292 0 0
+~
+~
+Door 3 0 0 18266 0 0
+~
+~
+End
+
+#18268
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18011 1 100
+Door 0 0 0 18243 0 0
+~
+~
+Door 1 0 0 18269 0 0
+~
+~
+Door 2 0 0 18293 0 0
+~
+~
+Door 3 0 0 18267 0 0
+~
+~
+End
+
+#18269
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18244 0 0
+~
+~
+Door 1 0 0 18270 0 0
+~
+~
+Door 2 0 0 18294 0 0
+~
+~
+Door 3 0 0 18268 0 0
+~
+~
+End
+
+#18270
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Reset M 18010 1 100
+Door 0 0 0 18245 0 0
+~
+~
+Door 1 0 0 18271 0 0
+~
+~
+Door 2 0 0 18295 0 0
+~
+~
+Door 3 0 0 18269 0 0
+~
+~
+End
+
+#18271
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18246 0 0
+~
+~
+Door 1 0 0 18272 0 0
+~
+~
+Door 2 0 0 18296 0 0
+~
+~
+Door 3 0 0 18270 0 0
+~
+~
+End
+
+#18272
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18014 1 100
+Door 0 0 0 18247 0 0
+~
+~
+Door 1 0 0 18273 0 0
+~
+~
+Door 2 0 0 18297 0 0
+~
+~
+Door 3 0 0 18271 0 0
+~
+~
+End
+
+#18273
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18248 0 0
+~
+~
+Door 1 0 0 18274 0 0
+~
+~
+Door 2 0 0 18298 0 0
+~
+~
+Door 3 0 0 18272 0 0
+~
+~
+End
+
+#18274
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18008 1 100
+Door 0 0 0 18249 0 0
+~
+~
+Door 1 0 0 18275 0 0
+~
+~
+Door 2 0 0 18299 0 0
+~
+~
+Door 3 0 0 18273 0 0
+~
+~
+End
+
+#18275
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18250 0 0
+~
+~
+Door 1 0 0 18276 0 0
+~
+~
+Door 2 0 0 18300 0 0
+~
+~
+Door 3 0 0 18274 0 0
+~
+~
+End
+
+#18276
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18251 0 0
+~
+~
+Door 1 0 0 18277 0 0
+~
+~
+Door 2 0 0 18301 0 0
+~
+~
+Door 3 0 0 18275 0 0
+~
+~
+End
+
+#18277
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18252 0 0
+~
+~
+Door 1 0 0 18278 0 0
+~
+~
+Door 2 0 0 18302 0 0
+~
+~
+Door 3 0 0 18276 0 0
+~
+~
+End
+
+#18278
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18253 0 0
+~
+~
+Door 1 0 0 18279 0 0
+~
+~
+Door 2 0 0 18303 0 0
+~
+~
+Door 3 0 0 18277 0 0
+~
+~
+End
+
+#18279
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18254 0 0
+~
+~
+Door 1 0 0 18280 0 0
+~
+~
+Door 2 0 0 18304 0 0
+~
+~
+Door 3 0 0 18278 0 0
+~
+~
+End
+
+#18280
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18255 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 18305 0 0
+~
+~
+Door 3 0 0 18279 0 0
+~
+~
+End
+
+#18281
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18256 0 0
+~
+~
+Door 1 0 0 18282 0 0
+~
+~
+Door 2 0 0 18306 0 0
+~
+~
+Door 3 0 0 18093 0 0
+~
+~
+End
+
+#18282
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18257 0 0
+~
+~
+Door 1 0 0 18283 0 0
+~
+~
+Door 2 0 0 18307 0 0
+~
+~
+Door 3 0 0 18281 0 0
+~
+~
+End
+
+#18283
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18008 1 100
+Door 0 0 0 18258 0 0
+~
+~
+Door 1 0 0 18284 0 0
+~
+~
+Door 2 0 0 18308 0 0
+~
+~
+Door 3 0 0 18282 0 0
+~
+~
+End
+
+#18284
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18259 0 0
+~
+~
+Door 1 0 0 18285 0 0
+~
+~
+Door 2 0 0 18309 0 0
+~
+~
+Door 3 0 0 18283 0 0
+~
+~
+End
+
+#18285
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18260 0 0
+~
+~
+Door 1 0 0 18286 0 0
+~
+~
+Door 2 0 0 18310 0 0
+~
+~
+Door 3 0 0 18284 0 0
+~
+~
+End
+
+#18286
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18261 0 0
+~
+~
+Door 1 0 0 18287 0 0
+~
+~
+Door 2 0 0 18311 0 0
+~
+~
+Door 3 0 0 18285 0 0
+~
+~
+End
+
+#18287
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18262 0 0
+~
+~
+Door 1 0 0 18288 0 0
+~
+~
+Door 2 0 0 18312 0 0
+~
+~
+Door 3 0 0 18286 0 0
+~
+~
+End
+
+#18288
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18263 0 0
+~
+~
+Door 1 0 0 18289 0 0
+~
+~
+Door 2 0 0 18313 0 0
+~
+~
+Door 3 0 0 18287 0 0
+~
+~
+End
+
+#18289
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18264 0 0
+~
+~
+Door 1 0 0 18290 0 0
+~
+~
+Door 2 0 0 18314 0 0
+~
+~
+Door 3 0 0 18288 0 0
+~
+~
+End
+
+#18290
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18265 0 0
+~
+~
+Door 1 0 0 18291 0 0
+~
+~
+Door 2 0 0 18315 0 0
+~
+~
+Door 3 0 0 18289 0 0
+~
+~
+End
+
+#18291
+Name A Shallow Crater~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18266 0 0
+~
+~
+Door 1 0 0 18292 0 0
+~
+~
+Door 2 0 0 18316 0 0
+~
+~
+Door 3 0 0 18290 0 0
+~
+~
+End
+
+#18292
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18267 0 0
+~
+~
+Door 1 0 0 18293 0 0
+~
+~
+Door 2 0 0 18317 0 0
+~
+~
+Door 3 0 0 18291 0 0
+~
+~
+End
+
+#18293
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18268 0 0
+~
+~
+Door 1 0 0 18294 0 0
+~
+~
+Door 2 0 0 18318 0 0
+~
+~
+Door 3 0 0 18292 0 0
+~
+~
+End
+
+#18294
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18269 0 0
+~
+~
+Door 1 0 0 18295 0 0
+~
+~
+Door 2 0 0 18319 0 0
+~
+~
+Door 3 0 0 18293 0 0
+~
+~
+End
+
+#18295
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18270 0 0
+~
+~
+Door 1 0 0 18296 0 0
+~
+~
+Door 2 0 0 18320 0 0
+~
+~
+Door 3 0 0 18294 0 0
+~
+~
+End
+
+#18296
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18271 0 0
+~
+~
+Door 1 0 0 18297 0 0
+~
+~
+Door 2 0 0 18321 0 0
+~
+~
+Door 3 0 0 18295 0 0
+~
+~
+End
+
+#18297
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18272 0 0
+~
+~
+Door 1 0 0 18298 0 0
+~
+~
+Door 2 0 0 18322 0 0
+~
+~
+Door 3 0 0 18296 0 0
+~
+~
+End
+
+#18298
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18273 0 0
+~
+~
+Door 1 0 0 18299 0 0
+~
+~
+Door 2 0 0 18323 0 0
+~
+~
+Door 3 0 0 18297 0 0
+~
+~
+End
+
+#18299
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18274 0 0
+~
+~
+Door 1 0 0 18300 0 0
+~
+~
+Door 2 0 0 18324 0 0
+~
+~
+Door 3 0 0 18298 0 0
+~
+~
+End
+
+#18300
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18275 0 0
+~
+~
+Door 1 0 0 18301 0 0
+~
+~
+Door 2 0 0 18325 0 0
+~
+~
+Door 3 0 0 18299 0 0
+~
+~
+End
+
+#18301
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18276 0 0
+~
+~
+Door 1 0 0 18302 0 0
+~
+~
+Door 2 0 0 18326 0 0
+~
+~
+Door 3 0 0 18300 0 0
+~
+~
+End
+
+#18302
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18277 0 0
+~
+~
+Door 1 0 0 18303 0 0
+~
+~
+Door 2 0 0 18327 0 0
+~
+~
+Door 3 0 0 18301 0 0
+~
+~
+End
+
+#18303
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18278 0 0
+~
+~
+Door 1 0 0 18304 0 0
+~
+~
+Door 2 0 0 18328 0 0
+~
+~
+Door 3 0 0 18302 0 0
+~
+~
+End
+
+#18304
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18279 0 0
+~
+~
+Door 1 0 0 18305 0 0
+~
+~
+Door 2 0 0 18329 0 0
+~
+~
+Door 3 0 0 18303 0 0
+~
+~
+End
+
+#18305
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18280 0 0
+~
+~
+Door 2 0 0 18330 0 0
+~
+~
+Door 3 0 0 18304 0 0
+~
+~
+End
+
+#18306
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18281 0 0
+~
+~
+Door 1 0 0 18307 0 0
+~
+~
+Door 2 0 0 18331 0 0
+~
+~
+Door 3 0 0 18092 0 0
+~
+~
+End
+
+#18307
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18282 0 0
+~
+~
+Door 1 0 0 18308 0 0
+~
+~
+Door 2 0 0 18332 0 0
+~
+~
+Door 3 0 0 18306 0 0
+~
+~
+End
+
+#18308
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18283 0 0
+~
+~
+Door 1 0 0 18309 0 0
+~
+~
+Door 2 0 0 18333 0 0
+~
+~
+Door 3 0 0 18307 0 0
+~
+~
+End
+
+#18309
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18014 1 100
+Door 0 0 0 18284 0 0
+~
+~
+Door 1 0 0 18310 0 0
+~
+~
+Door 2 0 0 18334 0 0
+~
+~
+Door 3 0 0 18308 0 0
+~
+~
+End
+
+#18310
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18285 0 0
+~
+~
+Door 1 0 0 18311 0 0
+~
+~
+Door 2 0 0 18335 0 0
+~
+~
+Door 3 0 0 18309 0 0
+~
+~
+End
+
+#18311
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18286 0 0
+~
+~
+Door 1 0 0 18312 0 0
+~
+~
+Door 2 0 0 18336 0 0
+~
+~
+Door 3 0 0 18310 0 0
+~
+~
+End
+
+#18312
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18287 0 0
+~
+~
+Door 1 0 0 18313 0 0
+~
+~
+Door 2 0 0 18337 0 0
+~
+~
+Door 3 0 0 18311 0 0
+~
+~
+End
+
+#18313
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18288 0 0
+~
+~
+Door 1 0 0 18314 0 0
+~
+~
+Door 2 0 0 18338 0 0
+~
+~
+Door 3 0 0 18312 0 0
+~
+~
+End
+
+#18314
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18006 1 100
+Reset O 18006 -1 20
+Door 0 0 0 18289 0 0
+~
+~
+Door 1 0 0 18315 0 0
+~
+~
+Door 2 0 0 18339 0 0
+~
+~
+Door 3 0 0 18313 0 0
+~
+~
+End
+
+#18315
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18290 0 0
+~
+~
+Door 1 0 0 18316 0 0
+~
+~
+Door 2 0 0 18340 0 0
+~
+~
+Door 3 0 0 18314 0 0
+~
+~
+End
+
+#18316
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18291 0 0
+~
+~
+Door 1 0 0 18317 0 0
+~
+~
+Door 2 0 0 18341 0 0
+~
+~
+Door 3 0 0 18315 0 0
+~
+~
+End
+
+#18317
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18292 0 0
+~
+~
+Door 1 0 0 18318 0 0
+~
+~
+Door 2 0 0 18342 0 0
+~
+~
+Door 3 0 0 18316 0 0
+~
+~
+End
+
+#18318
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18293 0 0
+~
+~
+Door 1 0 0 18319 0 0
+~
+~
+Door 2 0 0 18343 0 0
+~
+~
+Door 3 0 0 18317 0 0
+~
+~
+End
+
+#18319
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18294 0 0
+~
+~
+Door 1 0 0 18320 0 0
+~
+~
+Door 2 0 0 18344 0 0
+~
+~
+Door 3 0 0 18318 0 0
+~
+~
+End
+
+#18320
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18295 0 0
+~
+~
+Door 1 0 0 18321 0 0
+~
+~
+Door 2 0 0 18345 0 0
+~
+~
+Door 3 0 0 18319 0 0
+~
+~
+End
+
+#18321
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18296 0 0
+~
+~
+Door 1 0 0 18322 0 0
+~
+~
+Door 2 0 0 18346 0 0
+~
+~
+Door 3 0 0 18320 0 0
+~
+~
+End
+
+#18322
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18297 0 0
+~
+~
+Door 1 0 0 18323 0 0
+~
+~
+Door 2 0 0 18347 0 0
+~
+~
+Door 3 0 0 18321 0 0
+~
+~
+End
+
+#18323
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18298 0 0
+~
+~
+Door 1 0 0 18324 0 0
+~
+~
+Door 2 0 0 18348 0 0
+~
+~
+Door 3 0 0 18322 0 0
+~
+~
+End
+
+#18324
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18299 0 0
+~
+~
+Door 1 0 0 18325 0 0
+~
+~
+Door 2 0 0 18349 0 0
+~
+~
+Door 3 0 0 18323 0 0
+~
+~
+End
+
+#18325
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18300 0 0
+~
+~
+Door 1 0 0 18326 0 0
+~
+~
+Door 2 0 0 18350 0 0
+~
+~
+Door 3 0 0 18324 0 0
+~
+~
+End
+
+#18326
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18301 0 0
+~
+~
+Door 1 0 0 18327 0 0
+~
+~
+Door 2 0 0 18351 0 0
+~
+~
+Door 3 0 0 18325 0 0
+~
+~
+End
+
+#18327
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18302 0 0
+~
+~
+Door 1 0 0 18328 0 0
+~
+~
+Door 2 0 0 18352 0 0
+~
+~
+Door 3 0 0 18326 0 0
+~
+~
+End
+
+#18328
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18008 1 100
+Door 0 0 0 18303 0 0
+~
+~
+Door 1 0 0 18329 0 0
+~
+~
+Door 2 0 0 18353 0 0
+~
+~
+Door 3 0 0 18327 0 0
+~
+~
+End
+
+#18329
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18304 0 0
+~
+~
+Door 1 0 0 18330 0 0
+~
+~
+Door 2 0 0 18354 0 0
+~
+~
+Door 3 0 0 18328 0 0
+~
+~
+End
+
+#18330
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18305 0 0
+~
+~
+Door 2 0 0 18355 0 0
+~
+~
+Door 3 0 0 18329 0 0
+~
+~
+End
+
+#18331
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18306 0 0
+~
+~
+Door 1 0 0 18332 0 0
+~
+~
+Door 2 0 0 18356 0 0
+~
+~
+Door 3 0 0 18091 0 0
+~
+~
+End
+
+#18332
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18307 0 0
+~
+~
+Door 1 0 0 18333 0 0
+~
+~
+Door 2 0 0 18357 0 0
+~
+~
+Door 3 0 0 18331 0 0
+~
+~
+End
+
+#18333
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18308 0 0
+~
+~
+Door 1 0 0 18334 0 0
+~
+~
+Door 2 0 0 18358 0 0
+~
+~
+Door 3 0 0 18332 0 0
+~
+~
+End
+
+#18334
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18309 0 0
+~
+~
+Door 1 0 0 18335 0 0
+~
+~
+Door 2 0 0 18359 0 0
+~
+~
+Door 3 0 0 18333 0 0
+~
+~
+End
+
+#18335
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18310 0 0
+~
+~
+Door 1 0 0 18336 0 0
+~
+~
+Door 2 0 0 18360 0 0
+~
+~
+Door 3 0 0 18334 0 0
+~
+~
+End
+
+#18336
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18311 0 0
+~
+~
+Door 1 0 0 18337 0 0
+~
+~
+Door 2 0 0 18361 0 0
+~
+~
+Door 3 0 0 18335 0 0
+~
+~
+End
+
+#18337
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18017 1 100
+Door 0 0 0 18312 0 0
+~
+~
+Door 1 0 0 18338 0 0
+~
+~
+Door 2 0 0 18362 0 0
+~
+~
+Door 3 0 0 18336 0 0
+~
+~
+End
+
+#18338
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18313 0 0
+~
+~
+Door 1 0 0 18339 0 0
+~
+~
+Door 2 0 0 18363 0 0
+~
+~
+Door 3 0 0 18337 0 0
+~
+~
+End
+
+#18339
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18314 0 0
+~
+~
+Door 1 0 0 18340 0 0
+~
+~
+Door 2 0 0 18364 0 0
+~
+~
+Door 3 0 0 18338 0 0
+~
+~
+End
+
+#18340
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18315 0 0
+~
+~
+Door 1 0 0 18341 0 0
+~
+~
+Door 2 0 0 18365 0 0
+~
+~
+Door 3 0 0 18339 0 0
+~
+~
+End
+
+#18341
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18316 0 0
+~
+~
+Door 1 0 0 18342 0 0
+~
+~
+Door 2 0 0 18366 0 0
+~
+~
+Door 3 0 0 18340 0 0
+~
+~
+End
+
+#18342
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18317 0 0
+~
+~
+Door 1 0 0 18343 0 0
+~
+~
+Door 2 0 0 18367 0 0
+~
+~
+Door 3 0 0 18341 0 0
+~
+~
+End
+
+#18343
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18318 0 0
+~
+~
+Door 1 0 0 18344 0 0
+~
+~
+Door 2 0 0 18368 0 0
+~
+~
+Door 3 0 0 18342 0 0
+~
+~
+End
+
+#18344
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18319 0 0
+~
+~
+Door 1 0 0 18345 0 0
+~
+~
+Door 2 0 0 18369 0 0
+~
+~
+Door 3 0 0 18343 0 0
+~
+~
+End
+
+#18345
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18320 0 0
+~
+~
+Door 1 0 0 18346 0 0
+~
+~
+Door 2 0 0 18370 0 0
+~
+~
+Door 3 0 0 18344 0 0
+~
+~
+End
+
+#18346
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18321 0 0
+~
+~
+Door 1 0 0 18347 0 0
+~
+~
+Door 2 0 0 18371 0 0
+~
+~
+Door 3 0 0 18345 0 0
+~
+~
+End
+
+#18347
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18322 0 0
+~
+~
+Door 1 0 0 18348 0 0
+~
+~
+Door 2 0 0 18372 0 0
+~
+~
+Door 3 0 0 18346 0 0
+~
+~
+End
+
+#18348
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18323 0 0
+~
+~
+Door 1 0 0 18349 0 0
+~
+~
+Door 2 0 0 18373 0 0
+~
+~
+Door 3 0 0 18347 0 0
+~
+~
+End
+
+#18349
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18324 0 0
+~
+~
+Door 1 0 0 18350 0 0
+~
+~
+Door 2 0 0 18374 0 0
+~
+~
+Door 3 0 0 18348 0 0
+~
+~
+End
+
+#18350
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18325 0 0
+~
+~
+Door 1 0 0 18351 0 0
+~
+~
+Door 2 0 0 18375 0 0
+~
+~
+Door 3 0 0 18349 0 0
+~
+~
+End
+
+#18351
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18326 0 0
+~
+~
+Door 1 0 0 18352 0 0
+~
+~
+Door 2 0 0 18376 0 0
+~
+~
+Door 3 0 0 18350 0 0
+~
+~
+End
+
+#18352
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18327 0 0
+~
+~
+Door 1 0 0 18353 0 0
+~
+~
+Door 2 0 0 18377 0 0
+~
+~
+Door 3 0 0 18351 0 0
+~
+~
+End
+
+#18353
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18328 0 0
+~
+~
+Door 1 0 0 18354 0 0
+~
+~
+Door 2 0 0 18378 0 0
+~
+~
+Door 3 0 0 18352 0 0
+~
+~
+End
+
+#18354
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18329 0 0
+~
+~
+Door 1 0 0 18355 0 0
+~
+~
+Door 2 0 0 18379 0 0
+~
+~
+Door 3 0 0 18353 0 0
+~
+~
+End
+
+#18355
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18330 0 0
+~
+~
+Door 2 0 0 18380 0 0
+~
+~
+Door 3 0 0 18354 0 0
+~
+~
+End
+
+#18356
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18016 1 100
+Door 0 0 0 18331 0 0
+~
+~
+Door 1 0 0 18357 0 0
+~
+~
+Door 2 0 0 18381 0 0
+~
+~
+Door 3 0 0 18090 0 0
+~
+~
+End
+
+#18357
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18332 0 0
+~
+~
+Door 1 0 0 18358 0 0
+~
+~
+Door 2 0 0 18382 0 0
+~
+~
+Door 3 0 0 18356 0 0
+~
+~
+End
+
+#18358
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18333 0 0
+~
+~
+Door 1 0 0 18359 0 0
+~
+~
+Door 2 0 0 18383 0 0
+~
+~
+Door 3 0 0 18357 0 0
+~
+~
+End
+
+#18359
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18334 0 0
+~
+~
+Door 1 0 0 18360 0 0
+~
+~
+Door 2 0 0 18384 0 0
+~
+~
+Door 3 0 0 18358 0 0
+~
+~
+End
+
+#18360
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18335 0 0
+~
+~
+Door 1 0 0 18361 0 0
+~
+~
+Door 2 0 0 18385 0 0
+~
+~
+Door 3 0 0 18359 0 0
+~
+~
+End
+
+#18361
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18336 0 0
+~
+~
+Door 1 0 0 18362 0 0
+~
+~
+Door 2 0 0 18386 0 0
+~
+~
+Door 3 0 0 18360 0 0
+~
+~
+End
+
+#18362
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18337 0 0
+~
+~
+Door 1 0 0 18363 0 0
+~
+~
+Door 2 0 0 18387 0 0
+~
+~
+Door 3 0 0 18361 0 0
+~
+~
+End
+
+#18363
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18338 0 0
+~
+~
+Door 1 0 0 18364 0 0
+~
+~
+Door 2 0 0 18388 0 0
+~
+~
+Door 3 0 0 18362 0 0
+~
+~
+End
+
+#18364
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18339 0 0
+~
+~
+Door 1 0 0 18365 0 0
+~
+~
+Door 2 0 0 18389 0 0
+~
+~
+Door 3 0 0 18363 0 0
+~
+~
+End
+
+#18365
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18340 0 0
+~
+~
+Door 1 0 0 18366 0 0
+~
+~
+Door 2 0 0 18390 0 0
+~
+~
+Door 3 0 0 18364 0 0
+~
+~
+End
+
+#18366
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18341 0 0
+~
+~
+Door 1 0 0 18367 0 0
+~
+~
+Door 2 0 0 18391 0 0
+~
+~
+Door 3 0 0 18365 0 0
+~
+~
+End
+
+#18367
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18342 0 0
+~
+~
+Door 1 0 0 18368 0 0
+~
+~
+Door 2 0 0 18392 0 0
+~
+~
+Door 3 0 0 18366 0 0
+~
+~
+End
+
+#18368
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18343 0 0
+~
+~
+Door 1 0 0 18369 0 0
+~
+~
+Door 2 0 0 18393 0 0
+~
+~
+Door 3 0 0 18367 0 0
+~
+~
+End
+
+#18369
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18344 0 0
+~
+~
+Door 1 0 0 18370 0 0
+~
+~
+Door 2 0 0 18394 0 0
+~
+~
+Door 3 0 0 18368 0 0
+~
+~
+End
+
+#18370
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18345 0 0
+~
+~
+Door 1 0 0 18371 0 0
+~
+~
+Door 3 0 0 18369 0 0
+~
+~
+End
+
+#18371
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18346 0 0
+~
+~
+Door 1 0 0 18372 0 0
+~
+~
+Door 3 0 0 18370 0 0
+~
+~
+End
+
+#18372
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18347 0 0
+~
+~
+Door 1 0 0 18373 0 0
+~
+~
+Door 3 0 0 18371 0 0
+~
+~
+End
+
+#18373
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18348 0 0
+~
+~
+Door 1 0 0 18374 0 0
+~
+~
+Door 3 0 0 18372 0 0
+~
+~
+End
+
+#18374
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18349 0 0
+~
+~
+Door 1 0 0 18375 0 0
+~
+~
+Door 3 0 0 18373 0 0
+~
+~
+End
+
+#18375
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18350 0 0
+~
+~
+Door 1 0 0 18376 0 0
+~
+~
+Door 3 0 0 18374 0 0
+~
+~
+End
+
+#18376
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18008 1 100
+Door 0 0 0 18351 0 0
+~
+~
+Door 1 0 0 18377 0 0
+~
+~
+Door 3 0 0 18375 0 0
+~
+~
+End
+
+#18377
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18352 0 0
+~
+~
+Door 1 0 0 18378 0 0
+~
+~
+Door 3 0 0 18376 0 0
+~
+~
+End
+
+#18378
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18353 0 0
+~
+~
+Door 1 0 0 18379 0 0
+~
+~
+Door 3 0 0 18377 0 0
+~
+~
+End
+
+#18379
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18354 0 0
+~
+~
+Door 1 0 0 18380 0 0
+~
+~
+Door 3 0 0 18378 0 0
+~
+~
+End
+
+#18380
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18355 0 0
+~
+~
+Door 3 0 0 18379 0 0
+~
+~
+End
+
+#18381
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18356 0 0
+~
+~
+Door 1 0 0 18382 0 0
+~
+~
+Door 2 0 0 18395 0 0
+~
+~
+Door 3 0 0 18089 0 0
+~
+~
+End
+
+#18382
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18357 0 0
+~
+~
+Door 1 0 0 18383 0 0
+~
+~
+Door 2 0 0 18396 0 0
+~
+~
+Door 3 0 0 18381 0 0
+~
+~
+End
+
+#18383
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18358 0 0
+~
+~
+Door 1 0 0 18384 0 0
+~
+~
+Door 2 0 0 18397 0 0
+~
+~
+Door 3 0 0 18382 0 0
+~
+~
+End
+
+#18384
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18359 0 0
+~
+~
+Door 1 0 0 18385 0 0
+~
+~
+Door 2 0 0 18398 0 0
+~
+~
+Door 3 0 0 18383 0 0
+~
+~
+End
+
+#18385
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Reset M 18004 1 100
+Door 0 0 0 18360 0 0
+~
+~
+Door 1 0 0 18386 0 0
+~
+~
+Door 2 0 0 18399 0 0
+~
+~
+Door 3 0 0 18384 0 0
+~
+~
+End
+
+#18386
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18361 0 0
+~
+~
+Door 1 0 0 18387 0 0
+~
+~
+Door 2 0 0 18400 0 0
+~
+~
+Door 3 0 0 18385 0 0
+~
+~
+End
+
+#18387
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18362 0 0
+~
+~
+Door 1 0 0 18388 0 0
+~
+~
+Door 2 0 0 18401 0 0
+~
+~
+Door 3 0 0 18386 0 0
+~
+~
+End
+
+#18388
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18363 0 0
+~
+~
+Door 1 0 0 18389 0 0
+~
+~
+Door 2 0 0 18402 0 0
+~
+~
+Door 3 0 0 18387 0 0
+~
+~
+End
+
+#18389
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18364 0 0
+~
+~
+Door 1 0 0 18390 0 0
+~
+~
+Door 2 0 0 18403 0 0
+~
+~
+Door 3 0 0 18388 0 0
+~
+~
+End
+
+#18390
+Name A Rocky  Escarpment~
+Descr
+This rocky cliff seems impassable, although not very high. It seems as if
+the very earth itself has split in an attempt to remove this foul place from
+her surface. It occurs to you that you might be able to climb up a faint,
+narrow path, if only you had the right equipment. 
+~
+Sector 5
+Door 0 0 0 18365 0 0
+~
+~
+Door 1 0 0 18391 0 0
+~
+~
+Door 2 0 0 18404 0 0
+~
+~
+Door 3 0 0 18389 0 0
+~
+~
+End
+
+#18391
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18366 0 0
+~
+~
+Door 1 0 0 18392 0 0
+~
+~
+Door 3 0 0 18390 0 0
+~
+~
+End
+
+#18392
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Door 0 0 0 18367 0 0
+~
+~
+Door 1 0 0 18393 0 0
+~
+~
+Door 3 0 0 18391 0 0
+~
+~
+End
+
+#18393
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18013 1 100
+Reset O 12550 7 100
+Door 0 0 0 18368 0 0
+~
+~
+Door 1 0 0 18394 0 0
+~
+~
+Door 3 0 0 18392 0 0
+~
+~
+End
+
+#18394
+Name The Blight~
+Descr
+You are deep inside The Blight, strange noises echo into the distance,
+making you wonder just how anything could survive in this place, the sounds
+of jets of steam shooting into the sky startle you from your contemplation,
+and you think it would be a good idea to move on. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 18369 0 0
+~
+~
+Door 3 0 0 18393 0 0
+~
+~
+End
+
+#18395
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18381 0 0
+~
+~
+Door 1 0 0 18396 0 0
+~
+~
+Door 2 0 0 18405 0 0
+~
+~
+Door 3 0 0 18088 0 0
+~
+~
+End
+
+#18396
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18382 0 0
+~
+~
+Door 1 0 0 18397 0 0
+~
+~
+Door 2 0 0 18406 0 0
+~
+~
+Door 3 0 0 18395 0 0
+~
+~
+End
+
+#18397
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18383 0 0
+~
+~
+Door 1 0 0 18398 0 0
+~
+~
+Door 2 0 0 18407 0 0
+~
+~
+Door 3 0 0 18396 0 0
+~
+~
+End
+
+#18398
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18384 0 0
+~
+~
+Door 1 0 0 18399 0 0
+~
+~
+Door 2 0 0 18408 0 0
+~
+~
+Door 3 0 0 18397 0 0
+~
+~
+End
+
+#18399
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18010 1 100
+Door 0 0 0 18385 0 0
+~
+~
+Door 1 0 0 18400 0 0
+~
+~
+Door 2 0 0 18409 0 0
+~
+~
+Door 3 0 0 18398 0 0
+~
+~
+End
+
+#18400
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18386 0 0
+~
+~
+Door 1 0 0 18401 0 0
+~
+~
+Door 2 0 0 18410 0 0
+~
+~
+Door 3 0 0 18399 0 0
+~
+~
+End
+
+#18401
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18387 0 0
+~
+~
+Door 1 0 0 18402 0 0
+~
+~
+Door 2 0 0 18411 0 0
+~
+~
+Door 3 0 0 18400 0 0
+~
+~
+End
+
+#18402
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18388 0 0
+~
+~
+Door 1 0 0 18403 0 0
+~
+~
+Door 2 0 0 18412 0 0
+~
+~
+Door 3 0 0 18401 0 0
+~
+~
+End
+
+#18403
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18389 0 0
+~
+~
+Door 1 0 0 18404 0 0
+~
+~
+Door 2 0 0 18413 0 0
+~
+~
+Door 3 0 0 18402 0 0
+~
+~
+End
+
+#18404
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18390 0 0
+~
+~
+Door 2 0 0 18414 0 0
+~
+~
+Door 3 0 0 18403 0 0
+~
+~
+End
+
+#18405
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18395 0 0
+~
+~
+Door 1 0 0 18406 0 0
+~
+~
+Door 2 0 0 18415 0 0
+~
+~
+Door 3 0 0 18082 0 0
+~
+~
+End
+
+#18406
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18396 0 0
+~
+~
+Door 1 0 0 18407 0 0
+~
+~
+Door 2 0 0 18416 0 0
+~
+~
+Door 3 0 0 18405 0 0
+~
+~
+End
+
+#18407
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18397 0 0
+~
+~
+Door 1 0 0 18408 0 0
+~
+~
+Door 2 0 0 18417 0 0
+~
+~
+Door 3 0 0 18406 0 0
+~
+~
+End
+
+#18408
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18398 0 0
+~
+~
+Door 1 0 0 18409 0 0
+~
+~
+Door 2 0 0 18418 0 0
+~
+~
+Door 3 0 0 18407 0 0
+~
+~
+End
+
+#18409
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18399 0 0
+~
+~
+Door 1 0 0 18410 0 0
+~
+~
+Door 2 0 0 18419 0 0
+~
+~
+Door 3 0 0 18408 0 0
+~
+~
+End
+
+#18410
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18400 0 0
+~
+~
+Door 1 0 0 18411 0 0
+~
+~
+Door 2 0 0 18420 0 0
+~
+~
+Door 3 0 0 18409 0 0
+~
+~
+End
+
+#18411
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18401 0 0
+~
+~
+Door 1 0 0 18412 0 0
+~
+~
+Door 2 0 0 18421 0 0
+~
+~
+Door 3 0 0 18410 0 0
+~
+~
+End
+
+#18412
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18402 0 0
+~
+~
+Door 1 0 0 18413 0 0
+~
+~
+Door 2 0 0 18422 0 0
+~
+~
+Door 3 0 0 18411 0 0
+~
+~
+End
+
+#18413
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18403 0 0
+~
+~
+Door 1 0 0 18414 0 0
+~
+~
+Door 2 0 0 18423 0 0
+~
+~
+Door 3 0 0 18412 0 0
+~
+~
+End
+
+#18414
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18404 0 0
+~
+~
+Door 2 0 0 18424 0 0
+~
+~
+Door 3 0 0 18413 0 0
+~
+~
+End
+
+#18415
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18405 0 0
+~
+~
+Door 1 0 0 18416 0 0
+~
+~
+Door 2 0 0 18426 0 0
+~
+~
+Door 3 0 0 18025 0 0
+~
+~
+End
+
+#18416
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18406 0 0
+~
+~
+Door 1 0 0 18417 0 0
+~
+~
+Door 2 0 0 18427 0 0
+~
+~
+Door 3 0 0 18415 0 0
+~
+~
+End
+
+#18417
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Door 0 0 0 18407 0 0
+~
+~
+Door 1 0 0 18418 0 0
+~
+~
+Door 2 0 0 18428 0 0
+~
+~
+Door 3 0 0 18416 0 0
+~
+~
+End
+
+#18418
+Name The Blight~
+Descr
+This cracked, desolate land seems to suck the very soul out of you. As
+you travel further across, the feeling that Something is watching you
+intensifies, making you nervously look behind you. 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18408 0 0
+~
+~
+Door 1 0 0 18419 0 0
+~
+~
+Door 2 0 0 18429 0 0
+~
+~
+Door 3 0 0 18417 0 0
+~
+~
+End
+
+#18419
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18409 0 0
+~
+~
+Door 1 0 0 18420 0 0
+~
+~
+Door 2 0 0 18430 0 0
+~
+~
+Door 3 0 0 18418 0 0
+~
+~
+End
+
+#18420
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18410 0 0
+~
+~
+Door 1 0 0 18421 0 0
+~
+~
+Door 2 0 0 18431 0 0
+~
+~
+Door 3 0 0 18419 0 0
+~
+~
+End
+
+#18421
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18411 0 0
+~
+~
+Door 1 0 0 18422 0 0
+~
+~
+Door 2 0 0 18432 0 0
+~
+~
+Door 3 0 0 18420 0 0
+~
+~
+End
+
+#18422
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18412 0 0
+~
+~
+Door 1 0 0 18423 0 0
+~
+~
+Door 2 0 0 18433 0 0
+~
+~
+Door 3 0 0 18421 0 0
+~
+~
+End
+
+#18423
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18413 0 0
+~
+~
+Door 1 0 0 18424 0 0
+~
+~
+Door 2 0 0 18434 0 0
+~
+~
+Door 3 0 0 18422 0 0
+~
+~
+End
+
+#18424
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18414 0 0
+~
+~
+Door 1 0 0 18425 0 0
+~
+~
+Door 2 0 0 18435 0 0
+~
+~
+Door 3 0 0 18423 0 0
+~
+~
+End
+
+#18425
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 2 0 0 18436 0 0
+~
+~
+Door 3 0 0 18424 0 0
+~
+~
+End
+
+#18426
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18415 0 0
+~
+~
+Door 1 0 0 18427 0 0
+~
+~
+Door 2 0 0 18439 0 0
+~
+~
+Door 3 0 0 18023 0 0
+~
+~
+End
+
+#18427
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18416 0 0
+~
+~
+Door 1 0 0 18428 0 0
+~
+~
+Door 2 0 0 18440 0 0
+~
+~
+Door 3 0 0 18426 0 0
+~
+~
+End
+
+#18428
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18417 0 0
+~
+~
+Door 1 0 0 18429 0 0
+~
+~
+Door 2 0 0 18441 0 0
+~
+~
+Door 3 0 0 18427 0 0
+~
+~
+End
+
+#18429
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18418 0 0
+~
+~
+Door 1 0 0 18430 0 0
+~
+~
+Door 2 0 0 18442 0 0
+~
+~
+Door 3 0 0 18428 0 0
+~
+~
+End
+
+#18430
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18419 0 0
+~
+~
+Door 1 0 0 18431 0 0
+~
+~
+Door 2 0 0 18443 0 0
+~
+~
+Door 3 0 0 18429 0 0
+~
+~
+End
+
+#18431
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18420 0 0
+~
+~
+Door 1 0 0 18432 0 0
+~
+~
+Door 2 0 0 18444 0 0
+~
+~
+Door 3 0 0 18430 0 0
+~
+~
+End
+
+#18432
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18421 0 0
+~
+~
+Door 1 0 0 18433 0 0
+~
+~
+Door 2 0 0 18445 0 0
+~
+~
+Door 3 0 0 18431 0 0
+~
+~
+End
+
+#18433
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Reset M 18017 1 100
+Door 0 0 0 18422 0 0
+~
+~
+Door 1 0 0 18434 0 0
+~
+~
+Door 2 0 0 18446 0 0
+~
+~
+Door 3 0 0 18432 0 0
+~
+~
+End
+
+#18434
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18423 0 0
+~
+~
+Door 1 0 0 18435 0 0
+~
+~
+Door 2 0 0 18447 0 0
+~
+~
+Door 3 0 0 18433 0 0
+~
+~
+End
+
+#18435
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18424 0 0
+~
+~
+Door 1 0 0 18436 0 0
+~
+~
+Door 2 0 0 18448 0 0
+~
+~
+Door 3 0 0 18434 0 0
+~
+~
+End
+
+#18436
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18425 0 0
+~
+~
+Door 1 0 0 18437 0 0
+~
+~
+Door 2 0 0 18449 0 0
+~
+~
+Door 3 0 0 18435 0 0
+~
+~
+End
+
+#18437
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 1 0 0 18438 0 0
+~
+~
+Door 2 0 0 18450 0 0
+~
+~
+Door 3 0 0 18436 0 0
+~
+~
+End
+
+#18438
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 2 0 0 18451 0 0
+~
+~
+Door 3 0 0 18437 0 0
+~
+~
+End
+
+#18439
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18426 0 0
+~
+~
+Door 1 0 0 18440 0 0
+~
+~
+Door 2 0 0 18158 0 0
+~
+~
+Door 3 0 0 18020 0 0
+~
+~
+End
+
+#18440
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18427 0 0
+~
+~
+Door 1 0 0 18441 0 0
+~
+~
+Door 2 0 0 18159 0 0
+~
+~
+Door 3 0 0 18439 0 0
+~
+~
+End
+
+#18441
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18428 0 0
+~
+~
+Door 1 0 0 18442 0 0
+~
+~
+Door 2 0 0 18160 0 0
+~
+~
+Door 3 0 0 18440 0 0
+~
+~
+End
+
+#18442
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Reset M 18016 1 100
+Door 0 0 0 18429 0 0
+~
+~
+Door 1 0 0 18443 0 0
+~
+~
+Door 2 0 0 18161 0 0
+~
+~
+Door 3 0 0 18441 0 0
+~
+~
+End
+
+#18443
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 5
+Door 0 0 0 18430 0 0
+~
+~
+Door 1 0 0 18444 0 0
+~
+~
+Door 2 0 0 18162 0 0
+~
+~
+Door 3 0 0 18442 0 0
+~
+~
+End
+
+#18444
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18431 0 0
+~
+~
+Door 1 0 0 18445 0 0
+~
+~
+Door 2 0 0 18163 0 0
+~
+~
+Door 3 0 0 18443 0 0
+~
+~
+End
+
+#18445
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18432 0 0
+~
+~
+Door 1 0 0 18446 0 0
+~
+~
+Door 2 0 0 18164 0 0
+~
+~
+Door 3 0 0 18444 0 0
+~
+~
+End
+
+#18446
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18433 0 0
+~
+~
+Door 1 0 0 18447 0 0
+~
+~
+Door 2 0 0 18165 0 0
+~
+~
+Door 3 0 0 18445 0 0
+~
+~
+End
+
+#18447
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Reset M 18015 1 100
+Door 0 0 0 18434 0 0
+~
+~
+Door 1 0 0 18448 0 0
+~
+~
+Door 2 0 0 18166 0 0
+~
+~
+Door 3 0 0 18446 0 0
+~
+~
+End
+
+#18448
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18435 0 0
+~
+~
+Door 1 0 0 18449 0 0
+~
+~
+Door 2 0 0 18167 0 0
+~
+~
+Door 3 0 0 18447 0 0
+~
+~
+End
+
+#18449
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18436 0 0
+~
+~
+Door 1 0 0 18450 0 0
+~
+~
+Door 2 0 0 18168 0 0
+~
+~
+Door 3 0 0 18448 0 0
+~
+~
+End
+
+#18450
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Reset M 18016 1 100
+Door 0 0 0 18437 0 0
+~
+~
+Door 1 0 0 18451 0 0
+~
+~
+Door 2 0 0 18169 0 0
+~
+~
+Door 3 0 0 18449 0 0
+~
+~
+End
+
+#18451
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 0 0 0 18438 0 0
+~
+~
+Door 1 0 0 18452 0 0
+~
+~
+Door 2 0 0 18170 0 0
+~
+~
+Door 3 0 0 18450 0 0
+~
+~
+End
+
+#18452
+Name The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Door 2 0 0 18171 0 0
+~
+~
+Door 3 0 0 18451 0 0
+~
+~
+End
+
+#18499
+Name Bevier's Pad~
+Descr
+Welcome to Bevier's Pad. This is the place where Bevier goes to sit back,
+relax, take in a few beers, and cool off from building. You are welcome to
+kick back and enjoy the serene view from the balcony while you stay. 
+~
+Flags 3146758
+Sector 0
+End
+
+#18500
+Name The Beginning of The Blight~
+Descr
+This black, sandy waste seems to stretch on forever. You sense an aura of
+despair emanating from this foul place making you shiver with fear, despite
+the blistering heat 
+~
+Sector 10
+Reset M 18003 1 100
+Door 0 0 0 18007 0 0
+~
+~
+Door 1 0 0 18001 0 0
+~
+~
+Door 3 0 0 27204 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

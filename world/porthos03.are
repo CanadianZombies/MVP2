@@ -1,0 +1,4182 @@
+#AREADATA 
+Name porthos' fifth~
+Repop [1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Porthos~
+VNUMs 22101 22401
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#22101
+Name githyar~
+Short githyar, the ancient wizard~
+Long 
+The ancient elven wizard, Githyar, wanders around the fields.
+~
+Descr
+~
+AMax 1
+AYeller 204
+AWillhelp 0
+NHeight 104
+ActBits 256
+ActBits3 524288
+ActBits4 12288
+Affect_By 680
+Money 100
+Level 200
+Sex 1
+MobType 1
+Guard 0
+BCasts Balefire~
+BCast_P 3
+End
+
+#22131
+Name bunny~
+Short a bunny~
+Long 
+A small bunny hops around the field.
+~
+Descr
+~
+AMax 4
+NHeight 0
+Level 12
+MobType 18
+Guard 0
+End
+
+#22177
+Name doe~
+Short a small doe~
+Long 
+A small doe is here, eating some grass.
+~
+Descr
+~
+AMax 4
+NHeight 0
+Level 10
+MobType 18
+Guard 0
+End
+
+#22228
+Name elven mage~
+Short an elven mage~
+Long 
+A crippled elven mage makes his way through the forest.
+~
+Descr
+~
+AMax 1
+NHeight 60
+Affect_By 552
+Money 150
+Level 80
+Sex 1
+MobType 1
+Hp 15
+Guard 0
+End
+
+#22281
+Name phantasmic presence~
+Short a phantasmic presence~
+Long 
+A phantasmic presence floats around the area.
+~
+Descr
+~
+AMax 1
+NHeight 32767
+Affect_By 590506
+Level 175
+MobType 21
+Guard 0
+End
+
+#22298
+Name small fox~
+Short a small fox~
+Long 
+A small fox is here, chewing on some tree bark.
+~
+Descr
+~
+AMax 5
+NHeight 4
+Level 15
+MobType 16
+Guard 0
+End
+
+#22299
+Name kulu battlemage~
+Short kulu~
+Long 
+The famous dwarven battlemage, Kulu, wanders around here.
+~
+Descr
+~
+AMax 1
+NHeight 64
+Affect_By 682
+Money 500
+Level 250
+Sex 1
+MobType 2
+Hp 13
+Guard 0
+GDamR -24
+End
+
+#22325
+Name forest elf~
+Short a forest elf~
+Long 
+A forest elf attempts to camoflauge himself against a bush.
+~
+Descr
+~
+AMax 1
+NHeight 60
+Affect_By 512
+Money 45
+Level 45
+Sex 1
+MobType 1
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#22101
+Name stone red floating~
+Short [0ma floating [1m[31mred[0m stone~
+Descr
+A small red stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 50 50 0 0
+Weight 1
+Cost 100
+Affect 14 3 1 0 0
+Affect 13 3 1 0 0
+Affect 20 -1 1 0 0
+End
+
+#22102
+Name heavy iron long sword longsword~
+Short a heavy, [1m[30miron [0mlongsword~
+Descr
+A longsword crafted from heavy iron lies here.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 3 0 0 0 2 6 0
+Weight 6
+Cost 200
+End
+
+#22103
+Name humming red orb~
+Short [0ma [1m[33mhumming[0m, [1m[31mred[0m orb~
+Descr
+A small humming orb rests here.
+[0;36m~
+Type 3
+Extra 536871042
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 21 1 1 98 0 0 0 0 0 0
+Weight 1
+Cost 50
+End
+
+#22104
+Name hate loc tshirt shirt~
+Short [0ma t-shirt that says '[1m[33mFUCK LOC!![0m'~
+Descr
+Tshirt
+[0;36m~
+Type 13
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22105
+Name white marble collar~
+Short [0ma [1m[37mwhite marble[0m collar~
+Descr
+A collar made of the finest marble is sitting here.
+[0;36m~
+Type 9
+Extra 2
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 2 0 0 0 40 40 0 0
+Weight 2
+Cost 1000
+Affect 18 1 1 0 0
+Affect 13 5 1 0 0
+End
+
+#22154
+Name dim torch~
+Short a dimly lit torch~
+Descr
+[0mA [1m[30mdimly-lit [1m[33mtorch[0m flickers on the northern wall.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+End
+
+#22279
+Name stone fire~
+Short a stone of fire~
+Descr
+A large stone with a flame engraved upon it lies here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22281
+Name stone elements~
+Short a stone depicting all elements~
+Descr
+A huge stone depicting all of the elements sits in the center of the circle.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22286
+Name stone water~
+Short a stone of water~
+Descr
+A large stone with a wave of water engraved upon it lies here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22287
+Name stone air~
+Short a stone of air~
+Descr
+A large stone with a billowing cloud engraved upon it lies here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22291
+Name stone earth~
+Short a stone of earth~
+Descr
+A large stone with a maple tree engraved upon it lies here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#22299
+Name blood stained mace~
+Short [0m[32ma [1m[31mb[0m[31ml[1mo[0m[31mo[1md[0m-[1m[30mstained[0m[32m battle mace[0m~
+Descr
+A rather large mace stained with blood rests here.
+[0;36m~
+Type 5
+Extra 536870912
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 45 0 8 0 0 0 4 4 0
+Weight 3
+Cost 500
+Affect 18 -1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#22300
+Name flaming skull tattoo~
+Short [0ma [1m[33mf[31ml[33ma[31mm[33mi[31mn[33mg [1m[30mskull[0m tattoo~
+Descr
+(no description)~
+Type 9
+Extra 536870912
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 0 0 0
+Weight 1
+Cost 100
+Affect 19 1 1 0 0
+Affect 18 -1 1 0 0
+End
+
+#22325
+Name acorn earring~
+Short [0man [33macorn[0m earring~
+Descr
+A small earring made from an acorn lies here.
+[0;36m~
+Type 9
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 40 40 0 0
+Weight 1
+Cost 50
+Affect 13 2 2 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#22101
+Name Dunshai Pass~
+Descr
+~
+Reset M 22101 1 100
+Reset O 53 1 1
+Reset O 22105 -1 2
+Door 0 0 0 22102 0 0
+~
+~
+Door 1 0 0 22228 0 0
+~
+~
+Door 2 0 0 22227 0 0
+~
+~
+Door 3 0 0 22157 0 0
+~
+~
+End
+
+#22102
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22103 0 0
+~
+~
+Door 1 0 0 22229 0 0
+~
+~
+Door 2 0 0 22101 0 0
+~
+~
+Door 3 0 0 22178 0 0
+~
+~
+End
+
+#22103
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22179 0 0
+~
+~
+Door 1 0 0 22104 0 0
+~
+~
+Door 2 0 0 22102 0 0
+~
+~
+Door 3 0 0 22177 0 0
+~
+~
+End
+
+#22104
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22105 0 0
+~
+~
+Door 1 0 0 22231 0 0
+~
+~
+Door 2 0 0 22229 0 0
+~
+~
+Door 3 0 0 22103 0 0
+~
+~
+End
+
+#22105
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22106 0 0
+~
+~
+Door 1 0 0 22232 0 0
+~
+~
+Door 2 0 0 22104 0 0
+~
+~
+Door 3 0 0 22179 0 0
+~
+~
+End
+
+#22106
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22107 0 0
+~
+~
+Door 1 0 0 22233 0 0
+~
+~
+Door 2 0 0 22105 0 0
+~
+~
+Door 3 0 0 22180 0 0
+~
+~
+End
+
+#22107
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22185 0 0
+~
+~
+Door 1 0 0 22108 0 0
+~
+~
+Door 2 0 0 22106 0 0
+~
+~
+Door 3 0 0 22181 0 0
+~
+~
+End
+
+#22108
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22186 0 0
+~
+~
+Door 1 0 0 22109 0 0
+~
+~
+Door 2 0 0 22233 0 0
+~
+~
+Door 3 0 0 22107 0 0
+~
+~
+End
+
+#22109
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22187 0 0
+~
+~
+Door 1 0 0 22110 0 0
+~
+~
+Door 2 0 0 22234 0 0
+~
+~
+Door 3 0 0 22108 0 0
+~
+~
+End
+
+#22110
+Name Dunshai Pass, Before a Bridge~
+Descr
+~
+Door 0 0 0 22191 0 0
+~
+~
+Door 1 0 0 22113 0 0
+~
+~
+Door 2 0 0 22236 0 0
+~
+~
+Door 3 0 0 22109 0 0
+~
+~
+End
+
+#22111
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 1 0 0 22112 0 0
+~
+~
+Door 2 0 0 22110 0 0
+~
+~
+End
+
+#22112
+Name Dunshai Pass~
+Descr
+~
+Door 2 0 0 22113 0 0
+~
+~
+Door 3 0 0 22111 0 0
+~
+~
+End
+
+#22113
+Name On the Sudron Bridge~
+Descr
+~
+Door 1 0 0 22114 0 0
+~
+~
+Door 3 0 0 22110 0 0
+~
+~
+End
+
+#22114
+Name On the Sudron Bridge~
+Descr
+~
+Door 1 0 0 22115 0 0
+~
+~
+Door 3 0 0 22113 0 0
+~
+~
+End
+
+#22115
+Name Dunshai Pass, Before a Bridge~
+Descr
+~
+Door 0 0 0 22198 0 0
+~
+~
+Door 1 0 0 22116 0 0
+~
+~
+Door 2 0 0 22240 0 0
+~
+~
+Door 3 0 0 22114 0 0
+~
+~
+End
+
+#22116
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22117 0 0
+~
+~
+Door 1 0 0 22242 0 0
+~
+~
+Door 2 0 0 22241 0 0
+~
+~
+Door 3 0 0 22115 0 0
+~
+~
+End
+
+#22117
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22201 0 0
+~
+~
+Door 1 0 0 22118 0 0
+~
+~
+Door 2 0 0 22116 0 0
+~
+~
+Door 3 0 0 22198 0 0
+~
+~
+End
+
+#22118
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22204 0 0
+~
+~
+Door 1 0 0 22119 0 0
+~
+~
+Door 2 0 0 22242 0 0
+~
+~
+Door 3 0 0 22117 0 0
+~
+~
+End
+
+#22119
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22206 0 0
+~
+~
+Door 1 0 0 22120 0 0
+~
+~
+Door 2 0 0 22243 0 0
+~
+~
+Door 3 0 0 22118 0 0
+~
+~
+End
+
+#22120
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22207 0 0
+~
+~
+Door 1 0 0 22209 0 0
+~
+~
+Door 2 0 0 22121 0 0
+~
+~
+Door 3 0 0 22119 0 0
+~
+~
+End
+
+#22121
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22120 0 0
+~
+~
+Door 1 0 0 22210 0 0
+~
+~
+Door 2 0 0 22122 0 0
+~
+~
+Door 3 0 0 22243 0 0
+~
+~
+End
+
+#22122
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22121 0 0
+~
+~
+Door 1 0 0 22123 0 0
+~
+~
+Door 2 0 0 22247 0 0
+~
+~
+End
+
+#22123
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22210 0 0
+~
+~
+Door 1 0 0 22124 0 0
+~
+~
+Door 2 0 0 22249 0 0
+~
+~
+Door 3 0 0 22122 0 0
+~
+~
+End
+
+#22124
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22212 0 0
+~
+~
+Door 1 0 0 22125 0 0
+~
+~
+Door 2 0 0 22251 0 0
+~
+~
+Door 3 0 0 22123 0 0
+~
+~
+End
+
+#22125
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22213 0 0
+~
+~
+Door 1 0 0 22216 0 0
+~
+~
+Door 2 0 0 22126 0 0
+~
+~
+Door 3 0 0 22124 0 0
+~
+~
+End
+
+#22126
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22125 0 0
+~
+~
+Door 1 0 0 22127 0 0
+~
+~
+Door 2 0 0 22253 0 0
+~
+~
+Door 3 0 0 22251 0 0
+~
+~
+End
+
+#22127
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22216 0 0
+~
+~
+Door 1 0 0 22128 0 0
+~
+~
+Door 2 0 0 22254 0 0
+~
+~
+Door 3 0 0 22126 0 0
+~
+~
+End
+
+#22128
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22217 0 0
+~
+~
+Door 1 0 0 22220 0 0
+~
+~
+Door 2 0 0 22129 0 0
+~
+~
+Door 3 0 0 22127 0 0
+~
+~
+End
+
+#22129
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22128 0 0
+~
+~
+Door 1 0 0 22130 0 0
+~
+~
+Door 2 0 0 22256 0 0
+~
+~
+Door 3 0 0 22254 0 0
+~
+~
+End
+
+#22130
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22220 0 0
+~
+~
+Door 1 0 0 22131 0 0
+~
+~
+Door 2 0 0 22257 0 0
+~
+~
+Door 3 0 0 22129 0 0
+~
+~
+End
+
+#22131
+Name Dunshai Pass~
+Descr
+~
+Reset M 22131 4 100
+Door 0 0 0 22221 0 0
+~
+~
+Door 1 0 0 22132 0 0
+~
+~
+Door 2 0 0 22258 0 0
+~
+~
+Door 3 0 0 22130 0 0
+~
+~
+End
+
+#22132
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22133 0 0
+~
+~
+Door 1 0 0 22260 0 0
+~
+~
+Door 2 0 0 22259 0 0
+~
+~
+Door 3 0 0 22131 0 0
+~
+~
+End
+
+#22133
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22134 0 0
+~
+~
+Door 1 0 0 22261 0 0
+~
+~
+Door 2 0 0 22132 0 0
+~
+~
+Door 3 0 0 22221 0 0
+~
+~
+End
+
+#22134
+Name A Turn in Dunshai Pass~
+Descr
+~
+Flags 2
+Door 0 0 0 22300 0 0
+~
+~
+Door 1 0 0 22135 0 0
+~
+~
+Door 2 0 0 22133 0 0
+~
+~
+Door 3 0 0 22219 0 0
+~
+~
+End
+
+#22135
+Name Dunshai Pass~
+Descr
+~
+Flags 2
+Door 0 0 0 22301 0 0
+~
+~
+Door 1 0 0 22136 0 0
+~
+~
+Door 2 0 0 22261 0 0
+~
+~
+Door 3 0 0 22134 0 0
+~
+~
+End
+
+#22136
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22304 0 0
+~
+~
+Door 1 0 0 22137 0 0
+~
+~
+Door 2 0 0 22322 0 0
+~
+~
+Door 3 0 0 22135 0 0
+~
+~
+End
+
+#22137
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22308 0 0
+~
+~
+Door 1 0 0 22138 0 0
+~
+~
+Door 2 0 0 22324 0 0
+~
+~
+Door 3 0 0 22136 0 0
+~
+~
+End
+
+#22138
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22139 0 0
+~
+~
+Door 1 0 0 22329 0 0
+~
+~
+Door 2 0 0 22326 0 0
+~
+~
+Door 3 0 0 22137 0 0
+~
+~
+End
+
+#22139
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22140 0 0
+~
+~
+Door 1 0 0 22330 0 0
+~
+~
+Door 2 0 0 22138 0 0
+~
+~
+Door 3 0 0 22308 0 0
+~
+~
+End
+
+#22140
+Name A Turn in Dunshai Pass~
+Descr
+~
+Door 0 0 0 22312 0 0
+~
+~
+Door 1 0 0 22141 0 0
+~
+~
+Door 2 0 0 22139 0 0
+~
+~
+Door 3 0 0 22309 0 0
+~
+~
+End
+
+#22141
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22314 0 0
+~
+~
+Door 1 0 0 22142 0 0
+~
+~
+Door 2 0 0 22330 0 0
+~
+~
+Door 3 0 0 22140 0 0
+~
+~
+End
+
+#22142
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22316 0 0
+~
+~
+Door 1 0 0 22143 0 0
+~
+~
+Door 2 0 0 22331 0 0
+~
+~
+Door 3 0 0 22141 0 0
+~
+~
+End
+
+#22143
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22318 0 0
+~
+~
+Door 1 0 0 22320 0 0
+~
+~
+Door 2 0 0 22144 0 0
+~
+~
+Door 3 0 0 22142 0 0
+~
+~
+End
+
+#22144
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22143 0 0
+~
+~
+Door 1 0 0 22145 0 0
+~
+~
+Door 2 0 0 22333 0 0
+~
+~
+Door 3 0 0 22331 0 0
+~
+~
+End
+
+#22145
+Name Before a Small Cave~
+Descr
+~
+Door 0 0 0 22320 0 0
+~
+~
+Door 1 0 0 22146 0 0
+~
+~
+Door 2 0 0 22335 0 0
+~
+~
+Door 3 0 0 22144 0 0
+~
+~
+End
+
+#22146
+Name A Cave Carved Into the Boulder~
+Descr
+~
+Flags 5
+Sector 0
+Door 3 0 0 22145 0 0
+~
+~
+Door 5 0 0 22147 0 0
+~
+~
+End
+
+#22147
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 22148 0 0
+~
+~
+Door 4 0 0 22146 0 0
+~
+~
+End
+
+#22148
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Reset O 22154 -5 100
+Door 1 0 0 22149 0 0
+~
+~
+Door 3 0 0 22147 0 0
+~
+~
+End
+
+#22149
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 22150 0 0
+~
+~
+Door 3 0 0 22148 0 0
+~
+~
+End
+
+#22150
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Reset O 22154 -5 100
+Door 1 0 0 22151 0 0
+~
+~
+Door 2 0 0 22149 0 0
+~
+~
+End
+
+#22151
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 22152 0 0
+~
+~
+Door 3 0 0 22150 0 0
+~
+~
+End
+
+#22152
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 22153 0 0
+~
+~
+Door 2 0 0 22151 0 0
+~
+~
+End
+
+#22153
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Reset O 22154 -5 100
+Door 1 0 0 22154 0 0
+~
+~
+Door 3 0 0 22152 0 0
+~
+~
+End
+
+#22154
+Name In an Underground Passage~
+Descr
+~
+Flags 4
+Sector 0
+Door 3 0 0 22153 0 0
+~
+~
+Door 4 0 0 22155 0 0
+~
+~
+End
+
+#22155
+Name A Small Cave~
+Descr
+~
+Flags 4
+Sector 0
+Door 5 0 0 22154 0 0
+~
+~
+End
+
+#22156
+Name ~
+Descr
+~
+Door 0 0 0 22144 0 0
+~
+~
+End
+
+#22157
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22178 0 0
+~
+~
+Door 1 0 0 22101 0 0
+~
+~
+Door 2 0 0 22226 0 0
+~
+~
+Door 3 0 0 22158 0 0
+~
+~
+End
+
+#22158
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22159 0 0
+~
+~
+Door 1 0 0 22157 0 0
+~
+~
+Door 2 0 0 22225 0 0
+~
+~
+Door 3 0 0 22223 0 0
+~
+~
+End
+
+#22159
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22176 0 0
+~
+~
+Door 1 0 0 22178 0 0
+~
+~
+Door 2 0 0 22158 0 0
+~
+~
+Door 3 0 0 22160 0 0
+~
+~
+End
+
+#22160
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22174 0 0
+~
+~
+Door 1 0 0 22159 0 0
+~
+~
+Door 2 0 0 22223 0 0
+~
+~
+Door 3 0 0 22161 0 0
+~
+~
+End
+
+#22161
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22162 0 0
+~
+~
+Door 1 0 0 22160 0 0
+~
+~
+Door 2 0 0 22222 0 0
+~
+~
+Door 3 0 0 22169 0 0
+~
+~
+End
+
+#22162
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22163 0 0
+~
+~
+Door 1 0 0 22174 0 0
+~
+~
+Door 2 0 0 22161 0 0
+~
+~
+Door 3 0 0 22168 0 0
+~
+~
+End
+
+#22163
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22170 0 0
+~
+~
+Door 1 0 0 22173 0 0
+~
+~
+Door 2 0 0 22162 0 0
+~
+~
+Door 3 0 0 22164 0 0
+~
+~
+End
+
+#22164
+Name Dunshai Pass~
+Descr
+~
+Door 0 0 0 22165 0 0
+~
+~
+Door 1 0 0 22163 0 0
+~
+~
+Door 2 0 0 22168 0 0
+~
+~
+End
+
+#22165
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22166 0 0
+~
+~
+Door 1 0 0 22170 0 0
+~
+~
+Door 2 0 0 22164 0 0
+~
+~
+End
+
+#22166
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22167 0 0
+~
+~
+Door 1 0 0 22171 0 0
+~
+~
+Door 2 0 0 22165 0 0
+~
+~
+End
+
+#22167
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22166 0 0
+~
+~
+End
+
+#22168
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22164 0 0
+~
+~
+Door 1 0 0 22162 0 0
+~
+~
+Door 2 0 0 22169 0 0
+~
+~
+End
+
+#22169
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22168 0 0
+~
+~
+Door 1 0 0 22161 0 0
+~
+~
+End
+
+#22170
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22171 0 0
+~
+~
+Door 1 0 0 22172 0 0
+~
+~
+Door 2 0 0 22163 0 0
+~
+~
+Door 3 0 0 22165 0 0
+~
+~
+End
+
+#22171
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22170 0 0
+~
+~
+Door 3 0 0 22166 0 0
+~
+~
+End
+
+#22172
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22173 0 0
+~
+~
+Door 3 0 0 22170 0 0
+~
+~
+End
+
+#22173
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22177 4 100
+Door 0 0 0 22172 0 0
+~
+~
+Door 1 0 0 22175 0 0
+~
+~
+Door 2 0 0 22174 0 0
+~
+~
+Door 3 0 0 22163 0 0
+~
+~
+End
+
+#22174
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22173 0 0
+~
+~
+Door 1 0 0 22176 0 0
+~
+~
+Door 2 0 0 22160 0 0
+~
+~
+Door 3 0 0 22162 0 0
+~
+~
+End
+
+#22175
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22196 0 0
+~
+~
+Door 2 0 0 22176 0 0
+~
+~
+Door 3 0 0 22173 0 0
+~
+~
+End
+
+#22176
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22175 0 0
+~
+~
+Door 1 0 0 22177 0 0
+~
+~
+Door 2 0 0 22159 0 0
+~
+~
+Door 3 0 0 22174 0 0
+~
+~
+End
+
+#22177
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22131 4 100
+Door 0 0 0 22196 0 0
+~
+~
+Door 1 0 0 22103 0 0
+~
+~
+Door 2 0 0 22178 0 0
+~
+~
+Door 3 0 0 22176 0 0
+~
+~
+End
+
+#22178
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22177 0 0
+~
+~
+Door 1 0 0 22102 0 0
+~
+~
+Door 2 0 0 22157 0 0
+~
+~
+Door 3 0 0 22159 0 0
+~
+~
+End
+
+#22179
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22180 0 0
+~
+~
+Door 1 0 0 22105 0 0
+~
+~
+Door 2 0 0 22103 0 0
+~
+~
+Door 3 0 0 22196 0 0
+~
+~
+End
+
+#22180
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22181 0 0
+~
+~
+Door 1 0 0 22106 0 0
+~
+~
+Door 2 0 0 22179 0 0
+~
+~
+Door 3 0 0 22197 0 0
+~
+~
+End
+
+#22181
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22182 0 0
+~
+~
+Door 1 0 0 22107 0 0
+~
+~
+Door 2 0 0 22180 0 0
+~
+~
+End
+
+#22182
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22185 0 0
+~
+~
+Door 2 0 0 22181 0 0
+~
+~
+End
+
+#22183
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22184 0 0
+~
+~
+Door 2 0 0 22182 0 0
+~
+~
+End
+
+#22184
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22185 0 0
+~
+~
+End
+
+#22185
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22184 0 0
+~
+~
+Door 1 0 0 22186 0 0
+~
+~
+Door 2 0 0 22107 0 0
+~
+~
+Door 3 0 0 22182 0 0
+~
+~
+End
+
+#22186
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22187 0 0
+~
+~
+Door 2 0 0 22108 0 0
+~
+~
+Door 3 0 0 22185 0 0
+~
+~
+End
+
+#22187
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22188 0 0
+~
+~
+Door 1 0 0 22191 0 0
+~
+~
+Door 2 0 0 22109 0 0
+~
+~
+Door 3 0 0 22186 0 0
+~
+~
+End
+
+#22188
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22189 0 0
+~
+~
+Door 2 0 0 22187 0 0
+~
+~
+End
+
+#22189
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22190 0 0
+~
+~
+Door 1 0 0 22192 0 0
+~
+~
+Door 2 0 0 22191 0 0
+~
+~
+Door 3 0 0 22188 0 0
+~
+~
+End
+
+#22190
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22189 0 0
+~
+~
+End
+
+#22191
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22189 0 0
+~
+~
+Door 1 0 0 22194 0 0
+~
+~
+Door 2 0 0 22110 0 0
+~
+~
+Door 3 0 0 22187 0 0
+~
+~
+End
+
+#22192
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22193 0 0
+~
+~
+Door 2 0 0 22194 0 0
+~
+~
+Door 3 0 0 22189 0 0
+~
+~
+End
+
+#22193
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 1 0 0 22199 0 0
+~
+~
+Door 2 0 0 22195 0 0
+~
+~
+Door 3 0 0 22192 0 0
+~
+~
+End
+
+#22194
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22192 0 0
+~
+~
+Door 1 0 0 22195 0 0
+~
+~
+Door 3 0 0 22191 0 0
+~
+~
+End
+
+#22195
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22193 0 0
+~
+~
+Door 1 0 0 22198 0 0
+~
+~
+Door 3 0 0 22194 0 0
+~
+~
+End
+
+#22196
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22197 0 0
+~
+~
+Door 1 0 0 22179 0 0
+~
+~
+Door 2 0 0 22177 0 0
+~
+~
+Door 3 0 0 22175 0 0
+~
+~
+End
+
+#22197
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22180 0 0
+~
+~
+Door 2 0 0 22196 0 0
+~
+~
+End
+
+#22198
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22199 0 0
+~
+~
+Door 1 0 0 22117 0 0
+~
+~
+Door 2 0 0 22115 0 0
+~
+~
+Door 3 0 0 22195 0 0
+~
+~
+End
+
+#22199
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22200 0 0
+~
+~
+Door 1 0 0 22201 0 0
+~
+~
+Door 2 0 0 22198 0 0
+~
+~
+Door 3 0 0 22193 0 0
+~
+~
+End
+
+#22200
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 1 0 0 22202 0 0
+~
+~
+Door 2 0 0 22199 0 0
+~
+~
+End
+
+#22201
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22202 0 0
+~
+~
+Door 1 0 0 22204 0 0
+~
+~
+Door 2 0 0 22117 0 0
+~
+~
+Door 3 0 0 22199 0 0
+~
+~
+End
+
+#22202
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22203 0 0
+~
+~
+Door 1 0 0 22205 0 0
+~
+~
+Door 2 0 0 22201 0 0
+~
+~
+Door 3 0 0 22200 0 0
+~
+~
+End
+
+#22203
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 2 0 0 22202 0 0
+~
+~
+End
+
+#22204
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22205 0 0
+~
+~
+Door 1 0 0 22206 0 0
+~
+~
+Door 2 0 0 22118 0 0
+~
+~
+Door 3 0 0 22201 0 0
+~
+~
+End
+
+#22205
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22204 0 0
+~
+~
+Door 3 0 0 22202 0 0
+~
+~
+End
+
+#22206
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22207 0 0
+~
+~
+Door 2 0 0 22119 0 0
+~
+~
+Door 3 0 0 22204 0 0
+~
+~
+End
+
+#22207
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22177 4 100
+Door 1 0 0 22208 0 0
+~
+~
+Door 2 0 0 22120 0 0
+~
+~
+Door 3 0 0 22206 0 0
+~
+~
+End
+
+#22208
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22209 0 0
+~
+~
+Door 3 0 0 22207 0 0
+~
+~
+End
+
+#22209
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22208 0 0
+~
+~
+Door 1 0 0 22211 0 0
+~
+~
+Door 2 0 0 22210 0 0
+~
+~
+Door 3 0 0 22120 0 0
+~
+~
+End
+
+#22210
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22131 4 100
+Door 0 0 0 22209 0 0
+~
+~
+Door 1 0 0 22212 0 0
+~
+~
+Door 2 0 0 22123 0 0
+~
+~
+Door 3 0 0 22121 0 0
+~
+~
+End
+
+#22211
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22212 0 0
+~
+~
+Door 3 0 0 22209 0 0
+~
+~
+End
+
+#22212
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22211 0 0
+~
+~
+Door 1 0 0 22213 0 0
+~
+~
+Door 2 0 0 22124 0 0
+~
+~
+Door 3 0 0 22210 0 0
+~
+~
+End
+
+#22213
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22214 0 0
+~
+~
+Door 2 0 0 22125 0 0
+~
+~
+Door 3 0 0 22212 0 0
+~
+~
+End
+
+#22214
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22215 0 0
+~
+~
+Door 2 0 0 22216 0 0
+~
+~
+Door 3 0 0 22213 0 0
+~
+~
+End
+
+#22215
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 2 0 0 22217 0 0
+~
+~
+Door 3 0 0 22214 0 0
+~
+~
+End
+
+#22216
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22214 0 0
+~
+~
+Door 1 0 0 22217 0 0
+~
+~
+Door 2 0 0 22127 0 0
+~
+~
+Door 3 0 0 22125 0 0
+~
+~
+End
+
+#22217
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22215 0 0
+~
+~
+Door 1 0 0 22218 0 0
+~
+~
+Door 2 0 0 22128 0 0
+~
+~
+Door 3 0 0 22216 0 0
+~
+~
+End
+
+#22218
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 1 0 0 22219 0 0
+~
+~
+Door 2 0 0 22220 0 0
+~
+~
+Door 3 0 0 22217 0 0
+~
+~
+End
+
+#22219
+Name Within a Grassy Field~
+Descr
+~
+Flags 2
+Sector 2
+Door 0 0 0 22297 0 0
+~
+~
+Door 1 0 0 22134 0 0
+~
+~
+Door 2 0 0 22221 0 0
+~
+~
+Door 3 0 0 22218 0 0
+~
+~
+End
+
+#22220
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22218 0 0
+~
+~
+Door 1 0 0 22221 0 0
+~
+~
+Door 2 0 0 22130 0 0
+~
+~
+Door 3 0 0 22128 0 0
+~
+~
+End
+
+#22221
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22219 0 0
+~
+~
+Door 1 0 0 22133 0 0
+~
+~
+Door 2 0 0 22131 0 0
+~
+~
+Door 3 0 0 22220 0 0
+~
+~
+End
+
+#22222
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22161 0 0
+~
+~
+Door 1 0 0 22223 0 0
+~
+~
+End
+
+#22223
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22160 0 0
+~
+~
+Door 1 0 0 22158 0 0
+~
+~
+Door 2 0 0 22224 0 0
+~
+~
+Door 3 0 0 22222 0 0
+~
+~
+End
+
+#22224
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22223 0 0
+~
+~
+Door 1 0 0 22225 0 0
+~
+~
+End
+
+#22225
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22158 0 0
+~
+~
+Door 1 0 0 22226 0 0
+~
+~
+Door 3 0 0 22224 0 0
+~
+~
+End
+
+#22226
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22157 0 0
+~
+~
+Door 1 0 0 22227 0 0
+~
+~
+Door 3 0 0 22225 0 0
+~
+~
+End
+
+#22227
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22101 0 0
+~
+~
+Door 1 0 0 22265 0 0
+~
+~
+Door 3 0 0 22226 0 0
+~
+~
+End
+
+#22228
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22229 0 0
+~
+~
+Door 3 0 0 22101 0 0
+~
+~
+End
+
+#22229
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22104 0 0
+~
+~
+Door 1 0 0 22230 0 0
+~
+~
+Door 2 0 0 22228 0 0
+~
+~
+Door 3 0 0 22102 0 0
+~
+~
+End
+
+#22230
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22231 0 0
+~
+~
+Door 3 0 0 22229 0 0
+~
+~
+End
+
+#22231
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22232 0 0
+~
+~
+Door 2 0 0 22230 0 0
+~
+~
+Door 3 0 0 22104 0 0
+~
+~
+End
+
+#22232
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22233 0 0
+~
+~
+Door 1 0 0 22235 0 0
+~
+~
+Door 2 0 0 22231 0 0
+~
+~
+Door 3 0 0 22105 0 0
+~
+~
+End
+
+#22233
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22108 0 0
+~
+~
+Door 1 0 0 22234 0 0
+~
+~
+Door 2 0 0 22232 0 0
+~
+~
+Door 3 0 0 22106 0 0
+~
+~
+End
+
+#22234
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22109 0 0
+~
+~
+Door 1 0 0 22236 0 0
+~
+~
+Door 2 0 0 22235 0 0
+~
+~
+Door 3 0 0 22233 0 0
+~
+~
+End
+
+#22235
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22234 0 0
+~
+~
+Door 3 0 0 22232 0 0
+~
+~
+End
+
+#22236
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22177 4 100
+Door 0 0 0 22110 0 0
+~
+~
+Door 1 0 0 22237 0 0
+~
+~
+Door 3 0 0 22234 0 0
+~
+~
+End
+
+#22237
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 1 0 0 22239 0 0
+~
+~
+Door 2 0 0 22238 0 0
+~
+~
+Door 3 0 0 22236 0 0
+~
+~
+End
+
+#22238
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22237 0 0
+~
+~
+Door 1 0 0 22263 0 0
+~
+~
+End
+
+#22239
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 1 0 0 22240 0 0
+~
+~
+Door 2 0 0 22263 0 0
+~
+~
+Door 3 0 0 22237 0 0
+~
+~
+End
+
+#22240
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22115 0 0
+~
+~
+Door 1 0 0 22241 0 0
+~
+~
+Door 2 0 0 22264 0 0
+~
+~
+Door 3 0 0 22239 0 0
+~
+~
+End
+
+#22241
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22131 4 100
+Door 0 0 0 22116 0 0
+~
+~
+Door 1 0 0 22244 0 0
+~
+~
+Door 3 0 0 22240 0 0
+~
+~
+End
+
+#22242
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22118 0 0
+~
+~
+Door 1 0 0 22243 0 0
+~
+~
+Door 2 0 0 22244 0 0
+~
+~
+Door 3 0 0 22116 0 0
+~
+~
+End
+
+#22243
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22119 0 0
+~
+~
+Door 1 0 0 22121 0 0
+~
+~
+Door 3 0 0 22242 0 0
+~
+~
+End
+
+#22244
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22242 0 0
+~
+~
+Door 3 0 0 22241 0 0
+~
+~
+End
+
+#22245
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 3 0 0 22244 0 0
+~
+~
+End
+
+#22246
+Name ~
+Descr
+~
+Door 3 0 0 22122 0 0
+~
+~
+End
+
+#22247
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22122 0 0
+~
+~
+Door 1 0 0 22249 0 0
+~
+~
+End
+
+#22248
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22247 0 0
+~
+~
+Door 1 0 0 22250 0 0
+~
+~
+End
+
+#22249
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22123 0 0
+~
+~
+Door 1 0 0 22251 0 0
+~
+~
+Door 3 0 0 22247 0 0
+~
+~
+End
+
+#22250
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22249 0 0
+~
+~
+Door 3 0 0 22248 0 0
+~
+~
+End
+
+#22251
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Reset M 22177 4 100
+Door 0 0 0 22124 0 0
+~
+~
+Door 1 0 0 22126 0 0
+~
+~
+Door 2 0 0 22252 0 0
+~
+~
+Door 3 0 0 22249 0 0
+~
+~
+End
+
+#22252
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22251 0 0
+~
+~
+Door 1 0 0 22253 0 0
+~
+~
+End
+
+#22253
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22126 0 0
+~
+~
+Door 1 0 0 22254 0 0
+~
+~
+Door 3 0 0 22252 0 0
+~
+~
+End
+
+#22254
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22127 0 0
+~
+~
+Door 1 0 0 22129 0 0
+~
+~
+Door 2 0 0 22255 0 0
+~
+~
+Door 3 0 0 22253 0 0
+~
+~
+End
+
+#22255
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22254 0 0
+~
+~
+Door 1 0 0 22256 0 0
+~
+~
+End
+
+#22256
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22129 0 0
+~
+~
+Door 1 0 0 22257 0 0
+~
+~
+Door 3 0 0 22255 0 0
+~
+~
+End
+
+#22257
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22130 0 0
+~
+~
+Door 1 0 0 22258 0 0
+~
+~
+Door 3 0 0 22256 0 0
+~
+~
+End
+
+#22258
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22131 0 0
+~
+~
+Door 1 0 0 22259 0 0
+~
+~
+Door 3 0 0 22257 0 0
+~
+~
+End
+
+#22259
+Name Within a Grassy Field~
+Descr
+~
+Sector 2
+Door 0 0 0 22132 0 0
+~
+~
+Door 3 0 0 22258 0 0
+~
+~
+End
+
+#22260
+Name Within a Grassy Field~
+Descr
+~
+Flags 2
+Sector 2
+Door 0 0 0 22261 0 0
+~
+~
+Door 1 0 0 22323 0 0
+~
+~
+Door 3 0 0 22132 0 0
+~
+~
+End
+
+#22261
+Name Within a Grassy Field~
+Descr
+~
+Flags 2
+Sector 2
+Door 0 0 0 22135 0 0
+~
+~
+Door 1 0 0 22322 0 0
+~
+~
+Door 2 0 0 22260 0 0
+~
+~
+Door 3 0 0 22133 0 0
+~
+~
+End
+
+#22263
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22239 0 0
+~
+~
+Door 1 0 0 22264 0 0
+~
+~
+Door 3 0 0 22238 0 0
+~
+~
+End
+
+#22264
+Name The Sudron River~
+Descr
+~
+Sector 6
+Door 0 0 0 22240 0 0
+~
+~
+Door 3 0 0 22263 0 0
+~
+~
+End
+
+#22265
+Name A Narrow Dirt Path~
+Descr
+~
+Door 2 0 0 22266 0 0
+~
+~
+Door 3 0 0 22227 0 0
+~
+~
+End
+
+#22266
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22265 0 0
+~
+~
+Door 1 0 0 22267 0 0
+~
+~
+End
+
+#22267
+Name A Narrow Dirt Path~
+Descr
+~
+Door 2 0 0 22268 0 0
+~
+~
+Door 3 0 0 22266 0 0
+~
+~
+End
+
+#22268
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22267 0 0
+~
+~
+Door 1 0 0 22269 0 0
+~
+~
+End
+
+#22269
+Name A Narrow Dirt Path~
+Descr
+~
+Door 1 0 0 22270 0 0
+~
+~
+Door 3 0 0 22268 0 0
+~
+~
+End
+
+#22270
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22271 0 0
+~
+~
+Door 1 0 0 22292 0 0
+~
+~
+Door 3 0 0 22269 0 0
+~
+~
+End
+
+#22271
+Name A Narrow Dirt Path~
+Descr
+~
+Door 1 0 0 22272 0 0
+~
+~
+Door 2 0 0 22270 0 0
+~
+~
+End
+
+#22272
+Name A Narrow Dirt Path~
+Descr
+~
+Door 1 0 0 22273 0 0
+~
+~
+Door 2 0 0 22292 0 0
+~
+~
+Door 3 0 0 22271 0 0
+~
+~
+End
+
+#22273
+Name A Narrow Dirt Path~
+Descr
+~
+Door 2 0 0 22274 0 0
+~
+~
+Door 3 0 0 22272 0 0
+~
+~
+End
+
+#22274
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22273 0 0
+~
+~
+Door 1 0 0 22294 0 0
+~
+~
+Door 2 0 0 22275 0 0
+~
+~
+Door 3 0 0 22292 0 0
+~
+~
+End
+
+#22275
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22274 0 0
+~
+~
+Door 1 0 0 22276 0 0
+~
+~
+Door 2 0 0 22296 0 0
+~
+~
+Door 3 0 0 22293 0 0
+~
+~
+End
+
+#22276
+Name A Narrow Dirt Path~
+Descr
+~
+Door 0 0 0 22294 0 0
+~
+~
+Door 1 0 0 22277 0 0
+~
+~
+Door 2 0 0 22295 0 0
+~
+~
+Door 3 0 0 22275 0 0
+~
+~
+End
+
+#22277
+Name A Narrow Dirt Path~
+Descr
+~
+Door 2 0 0 22278 0 0
+~
+~
+Door 3 0 0 22276 0 0
+~
+~
+End
+
+#22278
+Name A Marble Arch~
+Descr
+~
+Flags 2
+Door 0 0 0 22277 0 0
+~
+~
+Door 2 0 0 22279 0 0
+~
+~
+End
+
+#22279
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Reset O 22279 -5 100
+Reset O 51 -3 1
+Door 0 0 0 22278 0 0
+~
+~
+Door 2 0 0 22280 0 0
+~
+~
+End
+
+#22280
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22279 0 0
+~
+~
+Door 1 0 0 22283 0 0
+~
+~
+Door 2 0 0 22281 0 0
+~
+~
+Door 3 0 0 22282 0 0
+~
+~
+End
+
+#22281
+Name The Center of the Circle~
+Descr
+~
+Flags 2097152
+Reset O 22281 -5 100
+Reset O 50268 -3 1
+Reset M 22281 1 100
+Door 0 0 0 22280 0 0
+~
+~
+Door 1 0 0 22285 0 0
+~
+~
+Door 2 0 0 22288 0 0
+~
+~
+Door 3 0 0 22284 0 0
+~
+~
+End
+
+#22282
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 1 0 0 22280 0 0
+~
+~
+Door 2 0 0 22284 0 0
+~
+~
+End
+
+#22283
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 2 0 0 22285 0 0
+~
+~
+Door 3 0 0 22280 0 0
+~
+~
+End
+
+#22284
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22282 0 0
+~
+~
+Door 1 0 0 22281 0 0
+~
+~
+Door 2 0 0 22289 0 0
+~
+~
+Door 3 0 0 22286 0 0
+~
+~
+End
+
+#22285
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22283 0 0
+~
+~
+Door 1 0 0 22287 0 0
+~
+~
+Door 2 0 0 22290 0 0
+~
+~
+Door 3 0 0 22281 0 0
+~
+~
+End
+
+#22286
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Reset O 22286 -5 100
+Reset O 57 -3 1
+Door 1 0 0 22284 0 0
+~
+~
+End
+
+#22287
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Reset O 22287 -5 100
+Reset O 60 -3 1
+Door 3 0 0 22285 0 0
+~
+~
+End
+
+#22288
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22281 0 0
+~
+~
+Door 1 0 0 22290 0 0
+~
+~
+Door 2 0 0 22291 0 0
+~
+~
+Door 3 0 0 22289 0 0
+~
+~
+End
+
+#22289
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22284 0 0
+~
+~
+Door 1 0 0 22288 0 0
+~
+~
+End
+
+#22290
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Door 0 0 0 22285 0 0
+~
+~
+Door 3 0 0 22288 0 0
+~
+~
+End
+
+#22291
+Name A Circle of Stones~
+Descr
+~
+Sector 2
+Reset O 22291 -5 100
+Reset O 54 -3 1
+Door 0 0 0 22288 0 0
+~
+~
+End
+
+#22292
+Name Alongside the Path~
+Descr
+~
+Sector 2
+Door 0 0 0 22272 0 0
+~
+~
+Door 1 0 0 22274 0 0
+~
+~
+Door 2 0 0 22293 0 0
+~
+~
+Door 3 0 0 22270 0 0
+~
+~
+End
+
+#22293
+Name Alongside the Path~
+Descr
+~
+Sector 2
+Door 0 0 0 22292 0 0
+~
+~
+Door 1 0 0 22275 0 0
+~
+~
+End
+
+#22294
+Name Alongside the Path~
+Descr
+~
+Sector 2
+Door 2 0 0 22276 0 0
+~
+~
+Door 3 0 0 22274 0 0
+~
+~
+End
+
+#22295
+Name Alongside the Path~
+Descr
+~
+Sector 2
+Door 0 0 0 22276 0 0
+~
+~
+Door 3 0 0 22296 0 0
+~
+~
+End
+
+#22296
+Name Alongside the Path~
+Descr
+~
+Sector 2
+Door 0 0 0 22275 0 0
+~
+~
+Door 1 0 0 22295 0 0
+~
+~
+End
+
+#22297
+Name The Edge of a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22298 0 0
+~
+~
+Door 1 0 0 22300 0 0
+~
+~
+Door 2 0 0 22219 0 0
+~
+~
+End
+
+#22298
+Name The Edge of a Forest~
+Descr
+~
+Sector 3
+Reset M 22298 4 100
+Door 1 0 0 22299 0 0
+~
+~
+Door 2 0 0 22297 0 0
+~
+~
+End
+
+#22299
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22302 0 0
+~
+~
+Door 2 0 0 22300 0 0
+~
+~
+Door 3 0 0 22298 0 0
+~
+~
+End
+
+#22300
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22299 0 0
+~
+~
+Door 1 0 0 22301 0 0
+~
+~
+Door 2 0 0 22134 0 0
+~
+~
+Door 3 0 0 22297 0 0
+~
+~
+End
+
+#22301
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22302 0 0
+~
+~
+Door 1 0 0 22304 0 0
+~
+~
+Door 2 0 0 22135 0 0
+~
+~
+Door 3 0 0 22300 0 0
+~
+~
+End
+
+#22302
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22303 0 0
+~
+~
+Door 1 0 0 22305 0 0
+~
+~
+Door 2 0 0 22301 0 0
+~
+~
+Door 3 0 0 22299 0 0
+~
+~
+End
+
+#22303
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22306 0 0
+~
+~
+Door 2 0 0 22302 0 0
+~
+~
+End
+
+#22304
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22305 0 0
+~
+~
+Door 1 0 0 22308 0 0
+~
+~
+Door 2 0 0 22136 0 0
+~
+~
+Door 3 0 0 22301 0 0
+~
+~
+End
+
+#22305
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22228 1 100
+Reset O 22103 -1 1
+Reset O 22101 -1 1
+Door 0 0 0 22306 0 0
+~
+~
+Door 1 0 0 22309 0 0
+~
+~
+Door 2 0 0 22304 0 0
+~
+~
+Door 3 0 0 22302 0 0
+~
+~
+End
+
+#22306
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22307 0 0
+~
+~
+Door 1 0 0 22310 0 0
+~
+~
+Door 2 0 0 22305 0 0
+~
+~
+Door 3 0 0 22303 0 0
+~
+~
+End
+
+#22307
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22311 0 0
+~
+~
+Door 2 0 0 22306 0 0
+~
+~
+End
+
+#22308
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22309 0 0
+~
+~
+Door 1 0 0 22139 0 0
+~
+~
+Door 2 0 0 22137 0 0
+~
+~
+Door 3 0 0 22304 0 0
+~
+~
+End
+
+#22309
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22310 0 0
+~
+~
+Door 1 0 0 22140 0 0
+~
+~
+Door 2 0 0 22308 0 0
+~
+~
+Door 3 0 0 22305 0 0
+~
+~
+End
+
+#22310
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22298 4 100
+Door 0 0 0 22311 0 0
+~
+~
+Door 1 0 0 22312 0 0
+~
+~
+Door 2 0 0 22309 0 0
+~
+~
+Door 3 0 0 22306 0 0
+~
+~
+End
+
+#22311
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22313 0 0
+~
+~
+Door 2 0 0 22310 0 0
+~
+~
+Door 3 0 0 22307 0 0
+~
+~
+End
+
+#22312
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22313 0 0
+~
+~
+Door 1 0 0 22314 0 0
+~
+~
+Door 2 0 0 22140 0 0
+~
+~
+Door 3 0 0 22310 0 0
+~
+~
+End
+
+#22313
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22315 0 0
+~
+~
+Door 2 0 0 22312 0 0
+~
+~
+Door 3 0 0 22311 0 0
+~
+~
+End
+
+#22314
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22315 0 0
+~
+~
+Door 1 0 0 22316 0 0
+~
+~
+Door 2 0 0 22141 0 0
+~
+~
+Door 3 0 0 22312 0 0
+~
+~
+End
+
+#22315
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22317 0 0
+~
+~
+Door 2 0 0 22314 0 0
+~
+~
+Door 3 0 0 22313 0 0
+~
+~
+End
+
+#22316
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22317 0 0
+~
+~
+Door 1 0 0 22318 0 0
+~
+~
+Door 2 0 0 22142 0 0
+~
+~
+Door 3 0 0 22314 0 0
+~
+~
+End
+
+#22317
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 22319 0 0
+~
+~
+Door 2 0 0 22316 0 0
+~
+~
+Door 3 0 0 22315 0 0
+~
+~
+End
+
+#22318
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22325 1 100
+Reset O 22325 -1 10
+Door 0 0 0 22319 0 0
+~
+~
+Door 1 0 0 22321 0 0
+~
+~
+Door 2 0 0 22143 0 0
+~
+~
+Door 3 0 0 22316 0 0
+~
+~
+End
+
+#22319
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 2 0 0 22318 0 0
+~
+~
+Door 3 0 0 22317 0 0
+~
+~
+End
+
+#22320
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22321 0 0
+~
+~
+Door 2 0 0 22145 0 0
+~
+~
+Door 3 0 0 22143 0 0
+~
+~
+End
+
+#22321
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 2 0 0 22320 0 0
+~
+~
+Door 3 0 0 22318 0 0
+~
+~
+End
+
+#22322
+Name The Edge of a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22136 0 0
+~
+~
+Door 1 0 0 22324 0 0
+~
+~
+Door 2 0 0 22323 0 0
+~
+~
+Door 3 0 0 22261 0 0
+~
+~
+End
+
+#22323
+Name The Edge of a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22322 0 0
+~
+~
+Door 1 0 0 22325 0 0
+~
+~
+Door 3 0 0 22260 0 0
+~
+~
+End
+
+#22324
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22298 4 100
+Door 0 0 0 22137 0 0
+~
+~
+Door 1 0 0 22326 0 0
+~
+~
+Door 2 0 0 22325 0 0
+~
+~
+Door 3 0 0 22322 0 0
+~
+~
+End
+
+#22325
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22299 1 100
+Reset O 22299 -1 1
+Reset O 22300 -1 1
+Door 0 0 0 22324 0 0
+~
+~
+Door 1 0 0 22327 0 0
+~
+~
+Door 3 0 0 22323 0 0
+~
+~
+End
+
+#22326
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22138 0 0
+~
+~
+Door 1 0 0 22328 0 0
+~
+~
+Door 2 0 0 22327 0 0
+~
+~
+Door 3 0 0 22324 0 0
+~
+~
+End
+
+#22327
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22326 0 0
+~
+~
+Door 3 0 0 22325 0 0
+~
+~
+End
+
+#22328
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22329 0 0
+~
+~
+Door 3 0 0 22326 0 0
+~
+~
+End
+
+#22329
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22330 0 0
+~
+~
+Door 2 0 0 22328 0 0
+~
+~
+Door 3 0 0 22138 0 0
+~
+~
+End
+
+#22330
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22141 0 0
+~
+~
+Door 2 0 0 22329 0 0
+~
+~
+Door 3 0 0 22139 0 0
+~
+~
+End
+
+#22331
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22142 0 0
+~
+~
+Door 1 0 0 22144 0 0
+~
+~
+Door 2 0 0 22332 0 0
+~
+~
+End
+
+#22332
+Name Within a Forest~
+Descr
+~
+Sector 3
+Reset M 22298 4 100
+Door 0 0 0 22331 0 0
+~
+~
+Door 1 0 0 22333 0 0
+~
+~
+End
+
+#22333
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22144 0 0
+~
+~
+Door 1 0 0 22335 0 0
+~
+~
+Door 2 0 0 22334 0 0
+~
+~
+Door 3 0 0 22332 0 0
+~
+~
+End
+
+#22334
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22333 0 0
+~
+~
+Door 1 0 0 22336 0 0
+~
+~
+End
+
+#22335
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22145 0 0
+~
+~
+Door 2 0 0 22336 0 0
+~
+~
+Door 3 0 0 22333 0 0
+~
+~
+End
+
+#22336
+Name Within a Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 22335 0 0
+~
+~
+Door 3 0 0 22334 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

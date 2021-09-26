@@ -1,0 +1,735 @@
+#AREADATA 
+Name the Mountains~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 70201 70300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#70201
+Name small griffin~
+Short a small griffin~
+Long 
+A small griffin is here, angrily sqwaking.
+~
+Descr
+This small griffin is just developing her winged feathers, and probably
+needs lots of rest to develop into a big, mean ole griffin.  
+~
+AMax 3
+NHeight 0
+ActBits 11
+Affect_By 655360
+Money 21
+Level 21
+Sex 2
+MobType 5
+Guard 0
+End
+
+#70202
+Name large griffin~
+Short a large griffin~
+Long 
+A large griffin hovers above the ground here.
+~
+Descr
+This large griffin looks rather mean and hungry.  It probably would
+rather be soaring above the clouds, but right now it prefers to hover to
+hunt for food.  
+~
+AMax 1
+NHeight 0
+ActBits 25
+ActBits3 4194304
+Affect_By 524288
+Money 44
+Level 44
+MobType 5
+Guard 0
+End
+
+#70203
+Name cloud giant~
+Short a cloud giant~
+Long 
+A massive cloud giant is here, observing all who travel atop the mountain.
+~
+Descr
+This massive, thirty foot tall creature looks regal and omnicient.  He
+and his dying kind now all dwell upon this huge mountain where they can
+contemplate the rest of their existence.  
+~
+Attackmsg smash~
+AMax 3
+NHeight 0
+ActBits 17
+ActBits4 2048
+Affect_By 40
+Money 250
+Level 250
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#70204
+Name goat mountain~
+Short a mountain goat~
+Long 
+A mountain goat wanders along here, looking for shrubs to eat.
+~
+Descr
+What?  You've never seen a goat before??
+~
+AMax 3
+NHeight 0
+ActBits 17
+Money 3
+Level 3
+Sex 1
+MobType 18
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#950
+Name bread cbread~
+Short some bread~
+Descr
+A piece of bread is here.
+[0;36m~
+Type 19
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 4 0 0 90 90 0 0
+Weight 11
+Cost 9483
+End
+
+#951
+Name giant giant's girdle storm~
+Short the storm-giant's girdle~
+Descr
+The ancient girdle of the storm giants lies here on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 8
+Cost 39284
+Affect 19 1 1 0 0
+Affect 20 -1 1 0 0
+ExtraDescr girdle~
+This ancient girdle is the one-of-a-kind artifact that the storm giants
+
+cherished for so long.  Now it is no longer theirs, and its owner now
+
+possesses its great and unknown powers.  
+
+~
+End
+
+#70225
+Name large bracers stone APB~
+Short large stone bracers~
+Descr
+A large pair of bracers lie here on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 10 10 50 50 10 1
+Weight 3
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#70201
+Name ADDITION;A Rocky, Twisty Path~
+Descr
+This rocky path looks treacherous, and it climbs steeply to the west. 
+You can see a forest begin to the east, and a small trail leads through it. 
+Far to the west you see a large mountain rising into the clouds.  
+~
+Movemess
+(null)~
+Door 1 0 0 70000 30 30
+~
+(null)~
+Door 3 0 0 70202 30 30
+~
+(null)~
+End
+
+#70202
+Name A Rocky, Twisty Path~
+Descr
+The path climbs to the north, and goes down towards a forest to the east.
+The rocks underfoot are slippery and difficult to walk upon, and that
+mountain sure looks high.  If you are heading west, you may be in for a
+long, cold journey.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 70203 30 30
+~
+(null)~
+Door 1 0 0 70201 30 30
+~
+(null)~
+End
+
+#70203
+Name A Rocky, Twisty Path~
+Descr
+The path begins to slope upward to the west, and downward to the forest
+floor to the south.  You are almost at the base of a huge mountain range,
+and it looks as if this path will take you over the largest of the mountains
+in that range.  
+~
+Sector 4
+Movemess
+(null)~
+Door 2 0 0 70202 30 30
+~
+(null)~
+Door 3 0 0 70204 30 30
+~
+(null)~
+End
+
+#70204
+Name A Rocky, Twisty Path~
+Descr
+The rocky path leads down to the east, and starts up the base of the
+largest mountain in the range on an almost-verticle path up from here.  You
+can see light forest to the east.  
+~
+Flags 2
+Sector 4
+Movemess
+(null)~
+Door 1 0 0 70203 30 30
+~
+(null)~
+Door 4 0 0 70205 30 30
+~
+(null)~
+End
+
+#70205
+Name A Windy Path up a Large Mountain~
+Descr
+This winding path all looks the same.  There is a small verticle rockface
+here that leads down to the light forest and the eastern lands.  A cool
+breeze gently blows against your face, and you lust for the dangerous foes
+and obstacles you will face in the future.  
+~
+Sector 4
+Movemess
+(null)~
+Door 3 0 0 70206 30 30
+~
+(null)~
+Door 5 0 0 70204 30 30
+~
+(null)~
+End
+
+#70206
+Name A Windy Path up a Large Mountain~
+Descr
+This winding path all looks the same.  The path curves down to the east,
+and up to the south, leading to a high mountain peak.  
+~
+Sector 4
+Reset M 70204 3 100
+Movemess
+(null)~
+Door 1 0 0 70205 30 30
+~
+(null)~
+Door 2 0 0 70207 30 30
+~
+(null)~
+End
+
+#70207
+Name A Windy Path up a Large Mountain~
+Descr
+This winding path all looks the same.  The path slopes sharply downward
+to the north, and up to the south.  You feel weary about travelling to the
+top of this peak, as it looks as if it is still miles above you.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 70206 30 30
+~
+(null)~
+Door 2 0 0 70208 30 30
+~
+(null)~
+End
+
+#70208
+Name A Windy Path up a Large Mountain~
+Descr
+This winding path all looks the same.  It curves to the north and west;
+west leading up the mountain to the peak, and north leading down the
+mountain on the treacherous winding trail.  
+~
+Sector 4
+Reset M 70204 3 100
+Movemess
+(null)~
+Door 0 0 0 70207 30 30
+~
+(null)~
+Door 3 0 0 70209 30 30
+~
+(null)~
+End
+
+#70209
+Name A Windy Path up a Large Mountain~
+Descr
+The winding path stops abruptly here.  A verticle ledge leads up to the
+mountaintop, and the path leads down into a light forest to the east.  The
+slippery rocks underfoot make you cautious of your surroundings.  
+~
+Flags 2
+Sector 4
+Reset M 70201 3 100
+Movemess
+(null)~
+Door 1 0 0 70208 30 30
+~
+(null)~
+Door 4 0 0 70210 30 30
+~
+(null)~
+End
+
+#70210
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  There is a
+path leading down the mountainside here.  
+~
+Sector 4
+Movemess
+(null)~
+Door 3 0 0 70211 30 30
+~
+(null)~
+Door 5 0 0 70209 30 30
+~
+(null)~
+End
+
+#70211
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  
+~
+Sector 4
+Reset M 70203 3 100
+Movemess
+(null)~
+Door 0 0 0 70212 30 30
+~
+(null)~
+Door 1 0 0 70210 30 30
+~
+(null)~
+Door 3 0 0 70224 30 30
+~
+(null)~
+End
+
+#70212
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 259 0 4320 30 30
+~
+crack~
+Door 1 0 0 70226 30 30
+~
+(null)~
+Door 2 0 0 70211 30 30
+~
+(null)~
+Door 3 0 0 70213 30 30
+~
+(null)~
+End
+
+#70213
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  There is a
+path leading down the mountainside here.  
+~
+Sector 4
+Movemess
+(null)~
+Door 1 0 0 70212 30 30
+~
+(null)~
+Door 5 0 0 70214 30 30
+~
+(null)~
+End
+
+#70214
+Name A Windy Path up a Large Mountain~
+Descr
+You stand at a steep ledge on a path winding up to the high mountain
+peak.  To the south the path curves down the mountain, and to the north is a
+small verticle ledge where you can climb up to the very top of the mountain.
+~
+Flags 2
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 70228 0 0
+~
+~
+Door 2 0 0 70215 30 30
+~
+(null)~
+Door 4 0 0 70213 30 30
+~
+(null)~
+End
+
+#70215
+Name A Windy Path up a Large Mountain~
+Descr
+The path turns to the north and to the west here, heading up to the
+north, and down to the west.  Rocks tumble down the mountainside, making you
+feel uneasy about venturing further up the mountain.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 70214 30 30
+~
+(null)~
+Door 3 0 0 70216 30 30
+~
+(null)~
+End
+
+#70216
+Name A Windy Path up a Large Mountain~
+Descr
+This twisted path is rocky and dangerous; one small mistake could send
+you plumeting down the steep slope to your death.  The whole path you are
+travelling upon looks oddly similar to the path you were just on.  
+~
+Sector 4
+Reset M 70201 3 100
+Movemess
+(null)~
+Door 1 0 0 70215 30 30
+~
+(null)~
+Door 2 0 0 70217 30 30
+~
+(null)~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#70217
+Name A Windy Path up a Large Mountain~
+Descr
+The path turns abruptly here; to the north the path continues to climb to
+the top of the mountain, and to the west the path carves its spurratic
+pattern down the side of the mountain.  
+~
+Sector 4
+Reset M 70204 3 100
+Movemess
+(null)~
+Door 0 0 0 70216 30 30
+~
+(null)~
+Door 3 0 0 70218 30 30
+~
+(null)~
+End
+
+#70218
+Name A Windy Path up a Large Mountain~
+Descr
+This twisted path is rocky and dangerous; one small mistake could send
+you plumeting down the steep slope to your death.  The whole path you are
+travelling upon looks oddly similar to the path you were just on.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 70217 30 30
+~
+(null)~
+Door 3 0 0 70219 30 30
+~
+(null)~
+End
+
+#70219
+Name A Windy Path up a Large Mountain~
+Descr
+The path turns to the north and to the east here, heading up to the east,
+and down to the north.  Rocks tumble down the mountainside, making you feel
+uneasy about venturing further up the mountain.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 70220 30 30
+~
+(null)~
+Door 1 0 0 70218 30 30
+~
+(null)~
+End
+
+#70220
+Name A Windy Path up a Large Mountain~
+Descr
+This twisted path is rocky and dangerous; one small mistake could send
+you plumeting down the steep slope to your death.  The whole path you are
+travelling upon looks oddly similar to the path you were just on.  
+~
+Sector 4
+Reset M 70201 3 100
+Movemess
+(null)~
+Door 2 0 0 70219 30 30
+~
+(null)~
+Door 3 0 0 70221 30 30
+~
+(null)~
+End
+
+#70221
+Name A Windy Path up a Large Mountain~
+Descr
+This windy path is covered with loose rock and gravel, which makes it
+difficult to tread upon.  To the east, the path only gets steeper, and a
+small path leads almost straight down from here to the base of the mountain.
+~
+Sector 4
+Movemess
+(null)~
+Door 1 0 0 70220 30 30
+~
+(null)~
+Door 5 0 0 70222 30 30
+~
+(null)~
+End
+
+#70222
+Name Base of a Large Mountain~
+Descr
+You stand at the base of a huge mountain range.  From the looks of the
+winding path up the largest mountain, you begin to think that any attempts
+to journey to the other side may be dangerous.  
+~
+Flags 2
+Sector 4
+Movemess
+(null)~
+Door 3 0 0 3579 0 0
+~
+~
+Door 4 0 0 70221 30 30
+~
+(null)~
+End
+
+#70223
+Name A Less-Travelled Road~
+Descr
+This road runs east and west.  To the east, a large mountain range
+begins, stretching high up into the sky.  You consider going east for a
+brief moment and realize how dangerous it would be...  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 3451 0 0
+~
+~
+Door 3 0 0 29017 0 0
+~
+~
+End
+
+#70224
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  
+~
+Sector 4
+Reset M 70203 3 100
+Reset O 951 12 1
+Movemess
+(null)~
+Door 1 0 0 70211 30 30
+~
+(null)~
+Door 2 0 0 70225 30 30
+~
+(null)~
+End
+
+#70225
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  You can climb
+a bit further up the mountain here to a steep mountain slope above.  
+~
+Sector 4
+Reset M 70203 3 100
+Reset O 70225 9 1
+Movemess
+(null)~
+Door 0 0 0 70224 30 30
+~
+(null)~
+Door 4 0 0 22953 0 0
+~
+~
+End
+
+#70226
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  
+~
+Reset M 70202 2 100
+Movemess
+(null)~
+Door 3 0 0 70212 30 30
+~
+(null)~
+Door 5 0 0 13801 0 0
+~
+~
+End
+
+#70227
+Name Atop a Large Mountain~
+Descr
+The view from the top of the mountain is magnificent.  Far to the east
+you can see forest; to the northeast you can see ocean.  To the west you can
+see blackened forest and a strange volcano to the northwest.  
+~
+Flags 2
+Movemess
+(null)~
+End
+
+#70228
+Name A Path leading Downward~
+Descr
+This path leads down to the north, and up to the south.  You can see a
+huge mountain towering above you just to the east of here.  The air is
+pleasant, and you feel quite far away from any sort of civilization.  
+~
+Door 0 0 0 70229 0 0
+~
+~
+Door 2 0 0 70214 0 0
+~
+~
+End
+
+#70229
+Name A Path leading Downward~
+Descr
+The path gets very steep here, leading almost vertically down.  To the
+south, the path climbs up the slope of a massive mountain.  Far below, to
+the north, you can make out a field and some strange buildings.  
+~
+Door 2 0 0 70228 0 0
+~
+~
+Door 5 0 0 70230 0 0
+~
+~
+End
+
+#70230
+Name A Steep Path~
+Descr
+The path is very steep here, leading up onto another path, and down to
+the north, leading into a field of sage.  You can see a huge mountain
+towering above you just to the southeast of here.  
+~
+Door 0 0 0 26701 0 0
+~
+~
+Door 4 0 0 70229 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

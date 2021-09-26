@@ -1,0 +1,6506 @@
+#AREADATA 
+Name Caverns of the Lost Souls~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYour soul survives another day.
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Sabelis~
+VNUMs 30300 30599
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#30300
+Name no name~
+Short a lost soul over-seer~
+Long 
+The over-seer of the lost souls is watching the souls far off in the distance.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536936464
+Affect_By 1573544
+Money 101
+Level 101
+Sex 1
+Guard 0
+Spec spec_warrior
+BKicks 1
+BFlurries 1
+BWarrior_P 30
+End
+
+#30301
+Name a demon~
+Short a demon~
+Long 
+A demon cries out for more souls to be found.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits 65584
+Affect_By 33554433
+Money 75
+Level 75
+MobType 9
+Guard 0
+Spec spec_eatcorpse
+End
+
+#30302
+Name a lost soul~
+Short a lost soul~
+Long 
+A lost soul lingers here trying to find its way.
+~
+Descr
+~
+AMax 15
+NHeight 0
+ActBits 65552
+Affect_By 524289
+Money 100
+Level 100
+Sex 2
+MobType 21
+Guard 0
+End
+
+#30303
+Name piece of the lost soul~
+Short a piece of the lost soul~
+Long 
+A piece of the lost soul is here screaming in agony as it suffers.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 604045312
+Affect_By 524968
+AffectTWO 4
+Money 130
+Level 130
+MobType 21
+Guard 0
+BCasts soulsmash~
+BCast_P 25
+End
+
+#30304
+Name a piece of the lost soul~
+Short a piece of the lost soul~
+Long 
+A piece of the lost soul is here screaming in agony as it suffers.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 67174416
+ActBits3 524288
+Affect_By 524968
+Money 130
+Level 130
+MobType 21
+Guard 0
+Spec spec_warrior
+BKicks 1
+BFlurries 1
+BTackles 1
+BWarrior_P 10
+End
+
+#30305
+Name piece of the lost soul~
+Short a piece of the lost soul~
+Long 
+A piece of the lost soul is here screaming in agony as it suffers.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108880
+ActBits4 2048
+Affect_By 33448
+Money 130
+Level 130
+MobType 11
+Guard 0
+GHitR 10
+GDamR 30
+Spec spec_thief
+End
+
+#30306
+Name a demon cries for more souls~
+Short a demon~
+Long 
+A demon cries out for more souls to be found.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits 65584
+Money 75
+Level 75
+MobType 11
+Guard 0
+Spec spec_eatcorpse
+End
+
+#30307
+Name satan prac teacher~
+Short satan, the soul keeper,~
+Long 
+|Teacher| Satan growls in anger as he watches nearby for new souls to steal.
+~
+Descr
+~
+AMax 1
+ActBits 67109120
+ActBits3 524288
+ActBits4 6144
+Affect_By 33448
+AffectTWO 8
+Money 160
+Level 160
+Sex 1
+MobType 5
+Guard 0
+GHitR 22
+GDamR 22
+Spec spec_warrior
+BWarrior_P 50
+ASklTaught 0 103
+ASklTaught 1 8
+ASklTaught 2 191
+End
+
+#0
+
+
+
+#OBJDATA
+#30300
+Name glass spectacle eyepatch eye~
+Short a [1m[30msingle[0m [1m[36mg[0m[36mla[1m[36mss [1m[34ms[0m[34mp[0m[37me[36mc[37mt[1m[36ma[30mc[0m[34ml[1m[34me[0m~
+Descr
+.
+[0;36m~
+Type 9
+Wear 33554433
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 10 10 10 10 10 10
+Weight 3
+Cost 5000
+Affect 17 -1 1 0 0
+Affect 14 10 1 0 0
+Affect 18 3 1 0 0
+End
+
+#30301
+Name key to lost souls door~
+Short a small [1m[30mkey[0m to the [1m[37mc[0m[37ma[1m[30mv[0m[37me[1m[37mr[1m[30mn[0m~
+Descr
+A piece of metal in the mangled form of a circle
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#30302
+Name lost soul ring finger~
+Short [1m[30mring[0m of [31ml[1m[31mo[0m[37ms[1m[30mt[0m [31ms[1m[31mo[0m[37mu[1m[30ml[0m[31ms[0m~
+Descr
+A small piece of metal.
+[0;36m~
+Type 9
+Extra 1
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 10 10 10 10
+Weight 0
+Cost 0
+Affect 15 10 1 0 0
+Affect 13 10 1 0 0
+Affect 20 -2 1 0 0
+End
+
+#30303
+Name breastplate iron lost soul body~
+Short an [36miron[0m [1m[30mbreastplate[0m of the [31ml[1m[31mo[0m[37ms[1m[30mt[0m [31ms[1m[31mo[0m[37mu[1m[30ml[0m[31ms[0m~
+Descr
+A dull piece of metal lays here.
+[0;36m~
+Type 9
+Extra 64
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 10 10 25 25 10 10
+Weight 5
+Cost 2300
+Affect 14 10 1 0 0
+Affect 13 15 1 0 0
+Affect 17 -1 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#30304
+Name lost soul dagger weapon BS APB piercing~
+Short [1m[31mB[0m[31mlood[0m[32m-[31mst[1main[0m[31med [1m[30mdagger[0m of [31ml[1mo[30ms[37mt [0m[31ms[1mo[30mu[37ml[0m[31ms[0m~
+Descr
+A piece of [1m[30mmetal[0m that looks similar to a weapon covered in [1m[31mb[0m[31mloo[1m[31md[0m lies here.
+[0;36m~
+Type 5
+Extra 131074
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 11 0 0 0 7 3 0
+Weight 1
+Cost 50000
+Affect 14 10 1 0 0
+Affect 18 2 1 0 0
+Affect 25 3 1 0 0
+Affect 19 1 1 0 0
+End
+
+#30305
+Name kneepad knee night sky~
+Short [1m[30mkneepad[0m of the [1m[34mn[0m[34migh[1m[34mt [0m[36ms[1m[36mk[0m[36my[0m~
+Descr
+A [1m[30mdark[0m-colored piece of armor-looking eq lies here.
+[0;36m~
+Type 9
+Wear 2097153
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 10 10 10 10
+Weight 1
+Cost 0
+Affect 22 2 1 0 0
+Affect 18 2 1 0 0
+Affect 14 5 1 0 0
+End
+
+#30306
+Name cloak hope about~
+Short [1m[30mcloak[0m of [36mgl[1m[36mea[0m[36mmi[1m[36mng [0m[35mh[1m[35mo[0m[35mpe[0m~
+Descr
+You can feel the hope radiating from this cloak as it lies here in the dust.
+[0;36m~
+Type 9
+Extra 65
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 5 2 3 10 10 10 10 10 10
+Weight 5
+Cost 2500
+Affect 27 4 1 0 0
+Affect 13 20 1 0 0
+End
+
+#30307
+Name back demonic demon wings wing apb~
+Short [1m[30mpair of [0m[31md[1m[31mem[0m[31mo[1m[31mn[0m[31mic [1m[30mw[0m[37min[1m[30mgs[0m~
+Descr
+Something evil with two weird looking wings is lying here.
+[0;36m~
+Type 9
+Wear 8388609
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 10 10 10 10 10 10
+Weight 3
+Cost 666666
+Affect 19 1 1 0 0
+Affect 14 15 1 0 0
+Affect 18 3 1 0 0
+Affect 15 -10 1 0 0
+End
+
+#30308
+Name gauntlets arms decaying earth~
+Short [1m[30mgauntlets[0m of the [1m[33mde[0m[33mca[1m[33my[0m[33mi[1m[33mng [1m[32me[0m[32mar[1m[32mth[0m~
+Descr
+A dying piece of green arm armor sits here.
+[0;36m~
+Type 9
+Extra 1
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 10 10 10 10
+Weight 0
+Cost 0
+Affect 13 20 1 0 0
+Affect 14 15 1 0 0
+Affect 17 -5 1 0 0
+Affect 26 5 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#30300
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Sector 10
+Door 0 259 0 28659 30 30
+~
+lost souls~
+Door 2 259 0 30301 30 30
+~
+strangedoor~
+End
+
+#30301
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 259 0 30300 30 30
+~
+strangedoor~
+Door 1 0 0 30303 0 0
+~
+~
+Door 2 0 0 30304 0 0
+~
+~
+Door 3 0 0 30302 0 0
+~
+~
+End
+
+#30302
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30301 0 0
+~
+~
+Door 2 0 0 30307 0 0
+~
+~
+End
+
+#30303
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30308 0 0
+~
+~
+Door 3 0 0 30301 0 0
+~
+~
+End
+
+#30304
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Reset M 30300 1 100
+Reset O 30301 -1 100
+Door 0 0 0 30301 0 0
+~
+~
+Door 1 0 0 30308 0 0
+~
+~
+Door 2 0 0 30305 0 0
+~
+~
+Door 3 0 0 30307 0 0
+~
+~
+End
+
+#30305
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30304 0 0
+~
+~
+Door 1 0 0 30311 0 0
+~
+~
+Door 2 3 0 30309 30 30
+~
+Entrance~
+Door 3 0 0 30310 0 0
+~
+~
+End
+
+#30306
+Name Approaching the World of the Lost Souls~
+Descr
+~
+Door 1 0 0 30304 0 0
+~
+~
+End
+
+#30307
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30302 0 0
+~
+~
+Door 1 0 0 30304 0 0
+~
+~
+Door 2 0 0 30310 0 0
+~
+~
+End
+
+#30308
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30303 0 0
+~
+~
+Door 2 0 0 30311 0 0
+~
+~
+Door 3 0 0 30304 0 0
+~
+~
+End
+
+#30309
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30305 0 0
+~
+~
+Door 4 0 0 30312 0 0
+~
+~
+End
+
+#30310
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30307 0 0
+~
+~
+Door 1 0 0 30305 0 0
+~
+~
+End
+
+#30311
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 9
+Sector 0
+Door 0 0 0 30308 0 0
+~
+~
+Door 3 0 0 30305 0 0
+~
+~
+End
+
+#30312
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 4 0 0 30313 0 0
+~
+~
+Door 5 0 0 30309 0 0
+~
+~
+End
+
+#30313
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 4 0 0 30314 0 0
+~
+~
+Door 5 0 0 30312 0 0
+~
+~
+End
+
+#30314
+Name Approaching the World of the Lost Souls~
+NAP 116
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30315 0 0
+~
+~
+Door 5 0 0 30313 0 0
+~
+~
+End
+
+#30315
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30316 0 0
+~
+~
+Door 3 0 0 30314 0 0
+~
+~
+End
+
+#30316
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30317 0 0
+~
+~
+Door 3 0 0 30315 0 0
+~
+~
+End
+
+#30317
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30318 0 0
+~
+~
+Door 3 0 0 30316 0 0
+~
+~
+End
+
+#30318
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30317 0 0
+~
+~
+Door 2 0 0 30319 0 0
+~
+~
+End
+
+#30319
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30318 0 0
+~
+~
+Door 3 0 0 30320 0 0
+~
+~
+End
+
+#30320
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30319 0 0
+~
+~
+Door 3 0 0 30321 0 0
+~
+~
+End
+
+#30321
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30320 0 0
+~
+~
+Door 2 0 0 30322 0 0
+~
+~
+End
+
+#30322
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30321 0 0
+~
+~
+Door 4 0 0 30323 0 0
+~
+~
+End
+
+#30323
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 4 0 0 30324 0 0
+~
+~
+Door 5 0 0 30322 0 0
+~
+~
+End
+
+#30324
+Name Approaching the World of the Lost Souls~
+Descr
+Ahead into this long tunnel are the caverns. The sound of screams grow
+louder with every step. Their moans and cries of "turn back before it is too
+late" gives off this painful eerie experience. The light lessens as the
+caverns reach deeper and deeper into the earth. 
+~
+Flags 8
+Sector 0
+Door 2 23 30301 30360 30 30
+~
+Iron Gate~
+Door 5 0 0 30323 0 0
+~
+~
+End
+
+#30325
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30301 1 100
+Door 1 0 0 30328 0 0
+~
+~
+Door 2 0 0 30326 0 0
+~
+~
+End
+
+#30326
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30325 0 0
+~
+~
+Door 1 0 0 30329 0 0
+~
+~
+Door 2 0 0 30327 0 0
+~
+~
+End
+
+#30327
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30326 0 0
+~
+~
+Door 1 0 0 30330 0 0
+~
+~
+End
+
+#30328
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30301 1 100
+Door 1 0 0 30331 0 0
+~
+~
+Door 2 0 0 30329 0 0
+~
+~
+Door 3 0 0 30325 0 0
+~
+~
+End
+
+#30329
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30328 0 0
+~
+~
+Door 1 0 0 30332 0 0
+~
+~
+Door 2 0 0 30330 0 0
+~
+~
+Door 3 0 0 30326 0 0
+~
+~
+End
+
+#30330
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30329 0 0
+~
+~
+Door 1 0 0 30333 0 0
+~
+~
+Door 2 0 0 30570 0 0
+~
+~
+Door 3 0 0 30327 0 0
+~
+~
+End
+
+#30331
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30334 0 0
+~
+~
+Door 2 0 0 30332 0 0
+~
+~
+Door 3 0 0 30328 0 0
+~
+~
+End
+
+#30332
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30331 0 0
+~
+~
+Door 1 0 0 30335 0 0
+~
+~
+Door 2 0 0 30333 0 0
+~
+~
+Door 3 0 0 30329 0 0
+~
+~
+End
+
+#30333
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30332 0 0
+~
+~
+Door 1 0 0 30336 0 0
+~
+~
+Door 3 0 0 30330 0 0
+~
+~
+End
+
+#30334
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30335 0 0
+~
+~
+Door 3 0 0 30331 0 0
+~
+~
+End
+
+#30335
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30334 0 0
+~
+~
+Door 1 3 0 30337 30 30
+~
+IronGate~
+Door 2 0 0 30336 0 0
+~
+~
+Door 3 0 0 30332 0 0
+~
+~
+End
+
+#30336
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30335 0 0
+~
+~
+Door 3 0 0 30333 0 0
+~
+~
+End
+
+#30337
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30338 0 0
+~
+~
+Door 3 3 0 30335 30 30
+~
+IronGate~
+End
+
+#30338
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30339 0 0
+~
+~
+Door 3 0 0 30337 0 0
+~
+~
+End
+
+#30339
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 3 0 30342 30 30
+~
+Fence~
+Door 3 0 0 30338 0 0
+~
+~
+End
+
+#30340
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 1 0 0 30345 0 0
+~
+~
+Door 2 0 0 30341 0 0
+~
+~
+End
+
+#30341
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30340 0 0
+~
+~
+Door 1 0 0 30346 0 0
+~
+~
+Door 2 0 0 30342 0 0
+~
+~
+End
+
+#30342
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30341 0 0
+~
+~
+Door 1 0 0 30347 0 0
+~
+~
+Door 2 0 0 30343 0 0
+~
+~
+Door 3 3 0 30339 30 30
+~
+Fence~
+End
+
+#30343
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30342 0 0
+~
+~
+Door 1 0 0 30348 0 0
+~
+~
+Door 2 0 0 30344 0 0
+~
+~
+End
+
+#30344
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30343 0 0
+~
+~
+Door 1 0 0 30349 0 0
+~
+~
+End
+
+#30345
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30350 0 0
+~
+~
+Door 2 0 0 30346 0 0
+~
+~
+Door 3 0 0 30340 0 0
+~
+~
+End
+
+#30346
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30345 0 0
+~
+~
+Door 1 0 0 30351 0 0
+~
+~
+Door 2 0 0 30347 0 0
+~
+~
+Door 3 0 0 30341 0 0
+~
+~
+End
+
+#30347
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30346 0 0
+~
+~
+Door 1 0 0 30352 0 0
+~
+~
+Door 2 0 0 30348 0 0
+~
+~
+Door 3 0 0 30342 0 0
+~
+~
+End
+
+#30348
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30347 0 0
+~
+~
+Door 1 0 0 30353 0 0
+~
+~
+Door 2 0 0 30349 0 0
+~
+~
+Door 3 0 0 30343 0 0
+~
+~
+End
+
+#30349
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30348 0 0
+~
+~
+Door 1 0 0 30354 0 0
+~
+~
+Door 3 0 0 30344 0 0
+~
+~
+End
+
+#30350
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 1 0 0 30355 0 0
+~
+~
+Door 2 0 0 30351 0 0
+~
+~
+Door 3 0 0 30345 0 0
+~
+~
+End
+
+#30351
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30350 0 0
+~
+~
+Door 1 0 0 30356 0 0
+~
+~
+Door 2 0 0 30352 0 0
+~
+~
+Door 3 0 0 30346 0 0
+~
+~
+End
+
+#30352
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30351 0 0
+~
+~
+Door 1 0 0 30357 0 0
+~
+~
+Door 2 0 0 30353 0 0
+~
+~
+Door 3 0 0 30347 0 0
+~
+~
+End
+
+#30353
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30352 0 0
+~
+~
+Door 1 0 0 30358 0 0
+~
+~
+Door 2 0 0 30354 0 0
+~
+~
+Door 3 0 0 30348 0 0
+~
+~
+End
+
+#30354
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30353 0 0
+~
+~
+Door 1 0 0 30359 0 0
+~
+~
+Door 2 3 0 30385 30 30
+~
+Fence~
+Door 3 0 0 30349 0 0
+~
+~
+End
+
+#30355
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30360 0 0
+~
+~
+Door 2 0 0 30356 0 0
+~
+~
+Door 3 0 0 30350 0 0
+~
+~
+End
+
+#30356
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30355 0 0
+~
+~
+Door 1 0 0 30361 0 0
+~
+~
+Door 2 0 0 30357 0 0
+~
+~
+Door 3 0 0 30351 0 0
+~
+~
+End
+
+#30357
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30356 0 0
+~
+~
+Door 1 0 0 30362 0 0
+~
+~
+Door 2 0 0 30358 0 0
+~
+~
+Door 3 0 0 30352 0 0
+~
+~
+End
+
+#30358
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30357 0 0
+~
+~
+Door 1 0 0 30363 0 0
+~
+~
+Door 2 0 0 30359 0 0
+~
+~
+Door 3 0 0 30353 0 0
+~
+~
+End
+
+#30359
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30358 0 0
+~
+~
+Door 1 0 0 30364 0 0
+~
+~
+Door 3 0 0 30354 0 0
+~
+~
+End
+
+#30360
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 7 30301 30324 30 30
+~
+Iron Gate~
+Door 1 0 0 30365 0 0
+~
+~
+Door 2 0 0 30361 0 0
+~
+~
+Door 3 0 0 30355 0 0
+~
+~
+End
+
+#30361
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30360 0 0
+~
+~
+Door 1 0 0 30366 0 0
+~
+~
+Door 2 0 0 30362 0 0
+~
+~
+Door 3 0 0 30356 0 0
+~
+~
+End
+
+#30362
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30361 0 0
+~
+~
+Door 1 0 0 30367 0 0
+~
+~
+Door 2 0 0 30363 0 0
+~
+~
+Door 3 0 0 30357 0 0
+~
+~
+End
+
+#30363
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30362 0 0
+~
+~
+Door 1 0 0 30368 0 0
+~
+~
+Door 2 0 0 30364 0 0
+~
+~
+Door 3 0 0 30358 0 0
+~
+~
+End
+
+#30364
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30363 0 0
+~
+~
+Door 1 0 0 30369 0 0
+~
+~
+Door 3 0 0 30359 0 0
+~
+~
+End
+
+#30365
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30370 0 0
+~
+~
+Door 2 0 0 30366 0 0
+~
+~
+Door 3 0 0 30360 0 0
+~
+~
+End
+
+#30366
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30365 0 0
+~
+~
+Door 1 0 0 30371 0 0
+~
+~
+Door 2 0 0 30367 0 0
+~
+~
+Door 3 0 0 30361 0 0
+~
+~
+End
+
+#30367
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30366 0 0
+~
+~
+Door 1 0 0 30372 0 0
+~
+~
+Door 2 0 0 30368 0 0
+~
+~
+Door 3 0 0 30362 0 0
+~
+~
+End
+
+#30368
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30367 0 0
+~
+~
+Door 1 0 0 30373 0 0
+~
+~
+Door 2 0 0 30369 0 0
+~
+~
+Door 3 0 0 30363 0 0
+~
+~
+End
+
+#30369
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30368 0 0
+~
+~
+Door 1 0 0 30374 0 0
+~
+~
+Door 3 0 0 30364 0 0
+~
+~
+End
+
+#30370
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 1 0 0 30375 0 0
+~
+~
+Door 2 0 0 30371 0 0
+~
+~
+Door 3 0 0 30365 0 0
+~
+~
+End
+
+#30371
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30370 0 0
+~
+~
+Door 1 0 0 30376 0 0
+~
+~
+Door 2 0 0 30372 0 0
+~
+~
+Door 3 0 0 30366 0 0
+~
+~
+End
+
+#30372
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30371 0 0
+~
+~
+Door 1 0 0 30377 0 0
+~
+~
+Door 2 0 0 30373 0 0
+~
+~
+Door 3 0 0 30367 0 0
+~
+~
+End
+
+#30373
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30372 0 0
+~
+~
+Door 1 0 0 30378 0 0
+~
+~
+Door 2 0 0 30374 0 0
+~
+~
+Door 3 0 0 30368 0 0
+~
+~
+End
+
+#30374
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30373 0 0
+~
+~
+Door 1 0 0 30379 0 0
+~
+~
+Door 3 0 0 30369 0 0
+~
+~
+End
+
+#30375
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30380 0 0
+~
+~
+Door 2 0 0 30376 0 0
+~
+~
+Door 3 0 0 30370 0 0
+~
+~
+End
+
+#30376
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30375 0 0
+~
+~
+Door 1 0 0 30381 0 0
+~
+~
+Door 2 0 0 30377 0 0
+~
+~
+Door 3 0 0 30371 0 0
+~
+~
+End
+
+#30377
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30376 0 0
+~
+~
+Door 1 0 0 30382 0 0
+~
+~
+Door 2 0 0 30378 0 0
+~
+~
+Door 3 0 0 30372 0 0
+~
+~
+End
+
+#30378
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30377 0 0
+~
+~
+Door 1 0 0 30383 0 0
+~
+~
+Door 2 0 0 30379 0 0
+~
+~
+Door 3 0 0 30373 0 0
+~
+~
+End
+
+#30379
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30378 0 0
+~
+~
+Door 1 0 0 30384 0 0
+~
+~
+Door 3 0 0 30374 0 0
+~
+~
+End
+
+#30380
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 2 0 0 30381 0 0
+~
+~
+Door 3 0 0 30375 0 0
+~
+~
+End
+
+#30381
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30380 0 0
+~
+~
+Door 2 0 0 30382 0 0
+~
+~
+Door 3 0 0 30376 0 0
+~
+~
+End
+
+#30382
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30381 0 0
+~
+~
+Door 1 259 0 30405 30 30
+~
+soul~
+Door 2 0 0 30383 0 0
+~
+~
+Door 3 0 0 30377 0 0
+~
+~
+End
+
+#30383
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30382 0 0
+~
+~
+Door 2 0 0 30384 0 0
+~
+~
+Door 3 0 0 30378 0 0
+~
+~
+End
+
+#30384
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30302 1 100
+Door 0 0 0 30383 0 0
+~
+~
+Door 3 0 0 30379 0 0
+~
+~
+End
+
+#30385
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 3 0 30354 30 30
+~
+Fence~
+Door 2 0 0 30386 0 0
+~
+~
+End
+
+#30386
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30385 0 0
+~
+~
+Door 2 0 0 30387 0 0
+~
+~
+End
+
+#30387
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30386 0 0
+~
+~
+Door 1 0 0 30388 0 0
+~
+~
+End
+
+#30388
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30389 0 0
+~
+~
+Door 3 0 0 30387 0 0
+~
+~
+End
+
+#30389
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30390 0 0
+~
+~
+Door 3 0 0 30388 0 0
+~
+~
+End
+
+#30390
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30389 0 0
+~
+~
+Door 4 0 0 30391 0 0
+~
+~
+End
+
+#30391
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 3 0 0 30392 0 0
+~
+~
+Door 5 0 0 30390 0 0
+~
+~
+End
+
+#30392
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30391 0 0
+~
+~
+Door 3 0 0 30393 0 0
+~
+~
+End
+
+#30393
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30392 0 0
+~
+~
+Door 2 0 0 30394 0 0
+~
+~
+End
+
+#30394
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30393 0 0
+~
+~
+Door 2 0 0 30395 0 0
+~
+~
+End
+
+#30395
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30394 0 0
+~
+~
+Door 1 0 0 30396 0 0
+~
+~
+End
+
+#30396
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30397 0 0
+~
+~
+Door 3 0 0 30395 0 0
+~
+~
+End
+
+#30397
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30398 0 0
+~
+~
+Door 3 0 0 30396 0 0
+~
+~
+End
+
+#30398
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30397 0 0
+~
+~
+Door 4 0 0 30402 0 0
+~
+~
+End
+
+#30399
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30420 0 0
+~
+~
+Door 3 0 0 30400 0 0
+~
+~
+End
+
+#30400
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30399 0 0
+~
+~
+Door 3 0 0 30401 0 0
+~
+~
+End
+
+#30401
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30400 0 0
+~
+~
+Door 2 0 0 30402 0 0
+~
+~
+End
+
+#30402
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30401 0 0
+~
+~
+Door 5 0 0 30398 0 0
+~
+~
+End
+
+#30403
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30422 0 0
+~
+~
+Door 2 0 0 30421 0 0
+~
+~
+End
+
+#30404
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30420 0 0
+~
+~
+Door 4 0 0 30421 0 0
+~
+~
+End
+
+#30405
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30406 0 0
+~
+~
+Door 3 259 0 30382 30 30
+~
+soul~
+End
+
+#30406
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30407 0 0
+~
+~
+Door 3 259 0 30405 30 30
+~
+soul~
+End
+
+#30407
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30409 0 0
+~
+~
+Door 3 0 0 30406 0 0
+~
+~
+End
+
+#30408
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30411 0 0
+~
+~
+Door 2 0 0 30409 0 0
+~
+~
+End
+
+#30409
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30408 0 0
+~
+~
+Door 1 0 0 30412 0 0
+~
+~
+Door 2 0 0 30410 0 0
+~
+~
+Door 3 0 0 30407 0 0
+~
+~
+End
+
+#30410
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30409 0 0
+~
+~
+Door 1 0 0 30413 0 0
+~
+~
+End
+
+#30411
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Sector 0
+Door 1 0 0 30414 0 0
+~
+~
+Door 2 0 0 30412 0 0
+~
+~
+Door 3 0 0 30408 0 0
+~
+~
+End
+
+#30412
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30411 0 0
+~
+~
+Door 1 0 0 30415 0 0
+~
+~
+Door 2 0 0 30413 0 0
+~
+~
+Door 3 0 0 30409 0 0
+~
+~
+End
+
+#30413
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30412 0 0
+~
+~
+Door 1 0 0 30416 0 0
+~
+~
+Door 3 0 0 30410 0 0
+~
+~
+End
+
+#30414
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30417 0 0
+~
+~
+Door 2 0 0 30415 0 0
+~
+~
+Door 3 0 0 30411 0 0
+~
+~
+End
+
+#30415
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Reset M 30303 1 100
+Reset O 30302 0 10
+Reset O 30305 31 5
+Door 0 0 0 30414 0 0
+~
+~
+Door 1 0 0 30418 0 0
+~
+~
+Door 2 0 0 30416 0 0
+~
+~
+Door 3 0 0 30412 0 0
+~
+~
+End
+
+#30416
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30415 0 0
+~
+~
+Door 1 0 0 30419 0 0
+~
+~
+Door 3 0 0 30413 0 0
+~
+~
+End
+
+#30417
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30418 0 0
+~
+~
+Door 3 0 0 30414 0 0
+~
+~
+End
+
+#30418
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30417 0 0
+~
+~
+Door 2 0 0 30419 0 0
+~
+~
+Door 3 0 0 30415 0 0
+~
+~
+End
+
+#30419
+Name World of the Lost Souls~
+Descr
+The rooms appear to be full of souls flying around bumping into the walls
+looking for a way to escape from their horrible lives. They appeared
+frightened of their master that lives below the earth and plead that no
+strangers wander near their master in fear that they might become enslaved
+as well. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30418 0 0
+~
+~
+Door 3 0 0 30416 0 0
+~
+~
+End
+
+#30420
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30399 0 0
+~
+~
+Door 2 0 0 30404 0 0
+~
+~
+End
+
+#30421
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30403 0 0
+~
+~
+Door 5 0 0 30404 0 0
+~
+~
+End
+
+#30422
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30423 0 0
+~
+~
+Door 3 0 0 30403 0 0
+~
+~
+End
+
+#30423
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30424 0 0
+~
+~
+Door 3 0 0 30422 0 0
+~
+~
+End
+
+#30424
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30423 0 0
+~
+~
+Door 2 0 0 30425 0 0
+~
+~
+End
+
+#30425
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30424 0 0
+~
+~
+Door 2 0 0 30426 0 0
+~
+~
+End
+
+#30426
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30425 0 0
+~
+~
+Door 2 0 0 30427 0 0
+~
+~
+End
+
+#30427
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30426 0 0
+~
+~
+Door 1 259 0 30447 30 30
+~
+rightsoul~
+Door 2 0 0 30448 0 0
+~
+~
+Door 3 259 0 30428 30 30
+~
+leftsoul~
+End
+
+#30428
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 259 0 30427 30 30
+~
+leftsoul~
+Door 3 0 0 30436 0 0
+~
+~
+End
+
+#30429
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30432 0 0
+~
+~
+Door 2 0 0 30430 0 0
+~
+~
+End
+
+#30430
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30429 0 0
+~
+~
+Door 1 0 0 30433 0 0
+~
+~
+Door 2 0 0 30431 0 0
+~
+~
+End
+
+#30431
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30430 0 0
+~
+~
+Door 1 0 0 30434 0 0
+~
+~
+End
+
+#30432
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30435 0 0
+~
+~
+Door 2 0 0 30433 0 0
+~
+~
+Door 3 0 0 30429 0 0
+~
+~
+End
+
+#30433
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30304 1 100
+Reset O 30303 4 10
+Reset O 30308 8 10
+Door 0 0 0 30432 0 0
+~
+~
+Door 1 0 0 30436 0 0
+~
+~
+Door 2 0 0 30434 0 0
+~
+~
+Door 3 0 0 30430 0 0
+~
+~
+End
+
+#30434
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30433 0 0
+~
+~
+Door 1 0 0 30437 0 0
+~
+~
+Door 3 0 0 30431 0 0
+~
+~
+End
+
+#30435
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30436 0 0
+~
+~
+Door 3 0 0 30432 0 0
+~
+~
+End
+
+#30436
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30435 0 0
+~
+~
+Door 1 0 0 30428 0 0
+~
+~
+Door 2 0 0 30437 0 0
+~
+~
+Door 3 0 0 30433 0 0
+~
+~
+End
+
+#30437
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30436 0 0
+~
+~
+Door 3 0 0 30434 0 0
+~
+~
+End
+
+#30438
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30439 0 0
+~
+~
+Door 3 0 0 30443 0 0
+~
+~
+End
+
+#30439
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30438 0 0
+~
+~
+Door 2 0 0 30440 0 0
+~
+~
+Door 3 0 0 30442 0 0
+~
+~
+End
+
+#30440
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30439 0 0
+~
+~
+Door 3 0 0 30441 0 0
+~
+~
+End
+
+#30441
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30442 0 0
+~
+~
+Door 1 0 0 30440 0 0
+~
+~
+Door 3 0 0 30446 0 0
+~
+~
+End
+
+#30442
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30305 1 100
+Reset O 30304 21 2
+Reset O 30300 37 7
+Door 0 0 0 30443 0 0
+~
+~
+Door 1 0 0 30439 0 0
+~
+~
+Door 2 0 0 30441 0 0
+~
+~
+Door 3 0 0 30445 0 0
+~
+~
+End
+
+#30443
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30438 0 0
+~
+~
+Door 2 0 0 30442 0 0
+~
+~
+Door 3 0 0 30444 0 0
+~
+~
+End
+
+#30444
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30443 0 0
+~
+~
+Door 2 0 0 30445 0 0
+~
+~
+End
+
+#30445
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Door 0 0 0 30444 0 0
+~
+~
+Door 1 0 0 30442 0 0
+~
+~
+Door 2 0 0 30446 0 0
+~
+~
+Door 3 0 0 30447 0 0
+~
+~
+End
+
+#30446
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30445 0 0
+~
+~
+Door 1 0 0 30441 0 0
+~
+~
+End
+
+#30447
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30445 0 0
+~
+~
+Door 3 259 0 30427 30 30
+~
+rightsoul~
+End
+
+#30448
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30427 0 0
+~
+~
+Door 2 0 0 30449 0 0
+~
+~
+End
+
+#30449
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30448 0 0
+~
+~
+Door 2 0 0 30450 0 0
+~
+~
+End
+
+#30450
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30449 0 0
+~
+~
+Door 2 0 0 30451 0 0
+~
+~
+End
+
+#30451
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30450 0 0
+~
+~
+Door 2 0 0 30452 0 0
+~
+~
+End
+
+#30452
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30451 0 0
+~
+~
+Door 1 0 0 30453 0 0
+~
+~
+End
+
+#30453
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30454 0 0
+~
+~
+Door 3 0 0 30452 0 0
+~
+~
+End
+
+#30454
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30455 0 0
+~
+~
+Door 3 0 0 30453 0 0
+~
+~
+End
+
+#30455
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30456 0 0
+~
+~
+Door 3 0 0 30454 0 0
+~
+~
+End
+
+#30456
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30457 0 0
+~
+~
+Door 3 0 0 30455 0 0
+~
+~
+End
+
+#30457
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30458 0 0
+~
+~
+Door 3 0 0 30456 0 0
+~
+~
+End
+
+#30458
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30457 0 0
+~
+~
+Door 2 0 0 30459 0 0
+~
+~
+End
+
+#30459
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30458 0 0
+~
+~
+Door 3 0 0 30460 0 0
+~
+~
+End
+
+#30460
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30459 0 0
+~
+~
+Door 3 0 0 30461 0 0
+~
+~
+End
+
+#30461
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30460 0 0
+~
+~
+Door 3 0 0 30462 0 0
+~
+~
+End
+
+#30462
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30461 0 0
+~
+~
+Door 3 0 0 30463 0 0
+~
+~
+End
+
+#30463
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30462 0 0
+~
+~
+Door 3 0 0 30464 0 0
+~
+~
+End
+
+#30464
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30463 0 0
+~
+~
+Door 2 0 0 30465 0 0
+~
+~
+End
+
+#30465
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30464 0 0
+~
+~
+Door 2 0 0 30466 0 0
+~
+~
+End
+
+#30466
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30465 0 0
+~
+~
+Door 1 0 0 30467 0 0
+~
+~
+End
+
+#30467
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30468 0 0
+~
+~
+Door 3 0 0 30466 0 0
+~
+~
+End
+
+#30468
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30469 0 0
+~
+~
+Door 3 0 0 30467 0 0
+~
+~
+End
+
+#30469
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30470 0 0
+~
+~
+Door 3 0 0 30468 0 0
+~
+~
+End
+
+#30470
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30471 0 0
+~
+~
+Door 3 0 0 30469 0 0
+~
+~
+End
+
+#30471
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30470 0 0
+~
+~
+Door 3 0 0 30472 0 0
+~
+~
+End
+
+#30472
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30471 0 0
+~
+~
+Door 3 0 0 30473 0 0
+~
+~
+End
+
+#30473
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30472 0 0
+~
+~
+Door 3 0 0 30474 0 0
+~
+~
+End
+
+#30474
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30473 0 0
+~
+~
+Door 3 0 0 30475 0 0
+~
+~
+End
+
+#30475
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30474 0 0
+~
+~
+Door 2 0 0 30476 0 0
+~
+~
+End
+
+#30476
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30475 0 0
+~
+~
+Door 2 0 0 30477 0 0
+~
+~
+End
+
+#30477
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30476 0 0
+~
+~
+Door 1 0 0 30478 0 0
+~
+~
+End
+
+#30478
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30479 0 0
+~
+~
+Door 3 0 0 30477 0 0
+~
+~
+End
+
+#30479
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30480 0 0
+~
+~
+Door 3 0 0 30478 0 0
+~
+~
+End
+
+#30480
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30481 0 0
+~
+~
+Door 3 0 0 30479 0 0
+~
+~
+End
+
+#30481
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30480 0 0
+~
+~
+Door 2 0 0 30482 0 0
+~
+~
+End
+
+#30482
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30481 0 0
+~
+~
+Door 3 0 0 30483 0 0
+~
+~
+End
+
+#30483
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30482 0 0
+~
+~
+Door 3 0 0 30484 0 0
+~
+~
+End
+
+#30484
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30483 0 0
+~
+~
+Door 3 0 0 30485 0 0
+~
+~
+End
+
+#30485
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30484 0 0
+~
+~
+Door 3 0 0 30486 0 0
+~
+~
+End
+
+#30486
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30485 0 0
+~
+~
+Door 3 0 0 30487 0 0
+~
+~
+End
+
+#30487
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30488 0 0
+~
+~
+Door 1 0 0 30486 0 0
+~
+~
+End
+
+#30488
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30489 0 0
+~
+~
+Door 2 0 0 30487 0 0
+~
+~
+End
+
+#30489
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Sector 0
+Door 0 0 0 30490 0 0
+~
+~
+Door 2 0 0 30488 0 0
+~
+~
+End
+
+#30490
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30489 0 0
+~
+~
+Door 3 0 0 30491 0 0
+~
+~
+End
+
+#30491
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30490 0 0
+~
+~
+Door 3 0 0 30492 0 0
+~
+~
+End
+
+#30492
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30493 0 0
+~
+~
+Door 1 0 0 30491 0 0
+~
+~
+End
+
+#30493
+Name Hallway in the World of Lost Souls~
+Descr
+The light is growing sparse but there is just though to see that the
+walls are covered in blood. Dead bodies are lying all around on the ground
+from previous adventurers that didn't survive their journey. The walls are
+covered in writing from people that made it this far in capital letters
+saying to turn back now before it is too late. AAAHHHHHHHHHHHHHHHH 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30494 0 0
+~
+~
+Door 2 0 0 30492 0 0
+~
+~
+End
+
+#30494
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30507 0 0
+~
+~
+Door 1 0 0 30495 0 0
+~
+~
+Door 2 0 0 30493 0 0
+~
+~
+Door 3 0 0 30520 0 0
+~
+~
+End
+
+#30495
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30506 0 0
+~
+~
+Door 1 0 0 30496 0 0
+~
+~
+Door 3 0 0 30494 0 0
+~
+~
+End
+
+#30496
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30497 0 0
+~
+~
+Door 3 0 0 30495 0 0
+~
+~
+End
+
+#30497
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30498 0 0
+~
+~
+Door 2 0 0 30496 0 0
+~
+~
+Door 3 0 0 30506 0 0
+~
+~
+End
+
+#30498
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30499 0 0
+~
+~
+Door 2 0 0 30497 0 0
+~
+~
+Door 3 0 0 30505 0 0
+~
+~
+End
+
+#30499
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30500 0 0
+~
+~
+Door 2 0 0 30498 0 0
+~
+~
+Door 3 0 0 30504 0 0
+~
+~
+End
+
+#30500
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30501 0 0
+~
+~
+Door 2 0 0 30499 0 0
+~
+~
+Door 3 0 0 30503 0 0
+~
+~
+End
+
+#30501
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 2 0 0 30500 0 0
+~
+~
+Door 3 0 0 30502 0 0
+~
+~
+End
+
+#30502
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30501 0 0
+~
+~
+Door 2 0 0 30503 0 0
+~
+~
+Door 3 0 0 30513 0 0
+~
+~
+End
+
+#30503
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30502 0 0
+~
+~
+Door 1 0 0 30500 0 0
+~
+~
+Door 2 0 0 30504 0 0
+~
+~
+Door 3 0 0 30512 0 0
+~
+~
+End
+
+#30504
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30503 0 0
+~
+~
+Door 1 0 0 30499 0 0
+~
+~
+Door 2 0 0 30505 0 0
+~
+~
+End
+
+#30505
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30504 0 0
+~
+~
+Door 1 0 0 30498 0 0
+~
+~
+Door 2 0 0 30506 0 0
+~
+~
+End
+
+#30506
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30505 0 0
+~
+~
+Door 1 0 0 30497 0 0
+~
+~
+Door 2 0 0 30495 0 0
+~
+~
+Door 3 0 0 30507 0 0
+~
+~
+End
+
+#30507
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 1 0 0 30506 0 0
+~
+~
+Door 2 0 0 30494 0 0
+~
+~
+Door 3 0 0 30508 0 0
+~
+~
+End
+
+#30508
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30509 0 0
+~
+~
+Door 1 0 0 30507 0 0
+~
+~
+Door 2 0 0 30520 0 0
+~
+~
+Door 3 0 0 30519 0 0
+~
+~
+End
+
+#30509
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30510 0 0
+~
+~
+Door 2 0 0 30508 0 0
+~
+~
+Door 3 0 0 30518 0 0
+~
+~
+End
+
+#30510
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30511 0 0
+~
+~
+Door 2 0 0 30509 0 0
+~
+~
+Door 3 0 0 30517 0 0
+~
+~
+End
+
+#30511
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30514 0 0
+~
+~
+Door 1 0 0 30512 0 0
+~
+~
+Door 2 0 0 30510 0 0
+~
+~
+Door 3 0 0 30516 0 0
+~
+~
+End
+
+#30512
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30513 0 0
+~
+~
+Door 1 0 0 30503 0 0
+~
+~
+Door 3 0 0 30511 0 0
+~
+~
+End
+
+#30513
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 1 0 0 30502 0 0
+~
+~
+Door 2 0 0 30512 0 0
+~
+~
+Door 3 0 0 30514 0 0
+~
+~
+End
+
+#30514
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30513 0 0
+~
+~
+Door 2 0 0 30511 0 0
+~
+~
+Door 3 0 0 30515 0 0
+~
+~
+End
+
+#30515
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 1 0 0 30514 0 0
+~
+~
+Door 2 0 0 30516 0 0
+~
+~
+End
+
+#30516
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30515 0 0
+~
+~
+Door 1 0 0 30511 0 0
+~
+~
+Door 2 0 0 30517 0 0
+~
+~
+End
+
+#30517
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30516 0 0
+~
+~
+Door 1 0 0 30510 0 0
+~
+~
+Door 2 0 0 30518 0 0
+~
+~
+End
+
+#30518
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30517 0 0
+~
+~
+Door 1 0 0 30509 0 0
+~
+~
+Door 2 0 0 30519 0 0
+~
+~
+End
+
+#30519
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30518 0 0
+~
+~
+Door 1 0 0 30508 0 0
+~
+~
+Door 2 0 0 30521 0 0
+~
+~
+End
+
+#30520
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30508 0 0
+~
+~
+Door 1 0 0 30494 0 0
+~
+~
+Door 3 0 0 30521 0 0
+~
+~
+End
+
+#30521
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30306 1 100
+Door 0 0 0 30519 0 0
+~
+~
+Door 1 0 0 30520 0 0
+~
+~
+Door 3 259 0 30522 30 30
+~
+lost~
+End
+
+#30522
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 259 0 30521 30 30
+~
+lost~
+Door 3 0 0 30523 0 0
+~
+~
+End
+
+#30523
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30524 0 0
+~
+~
+Door 1 0 0 30522 0 0
+~
+~
+Door 3 0 0 30535 0 0
+~
+~
+End
+
+#30524
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30525 0 0
+~
+~
+Door 2 0 0 30523 0 0
+~
+~
+Door 3 0 0 30533 0 0
+~
+~
+End
+
+#30525
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30526 0 0
+~
+~
+Door 2 0 0 30524 0 0
+~
+~
+Door 3 0 0 30532 0 0
+~
+~
+End
+
+#30526
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30527 0 0
+~
+~
+Door 2 0 0 30525 0 0
+~
+~
+Door 3 0 0 30531 0 0
+~
+~
+End
+
+#30527
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30528 0 0
+~
+~
+Door 2 0 0 30526 0 0
+~
+~
+Door 3 0 0 30530 0 0
+~
+~
+End
+
+#30528
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30527 0 0
+~
+~
+Door 3 0 0 30529 0 0
+~
+~
+End
+
+#30529
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30528 0 0
+~
+~
+Door 2 0 0 30530 0 0
+~
+~
+End
+
+#30530
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30529 0 0
+~
+~
+Door 1 0 0 30527 0 0
+~
+~
+Door 2 0 0 30531 0 0
+~
+~
+End
+
+#30531
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30530 0 0
+~
+~
+Door 1 0 0 30526 0 0
+~
+~
+Door 2 0 0 30532 0 0
+~
+~
+End
+
+#30532
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30531 0 0
+~
+~
+Door 1 0 0 30525 0 0
+~
+~
+Door 2 0 0 30533 0 0
+~
+~
+End
+
+#30533
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30532 0 0
+~
+~
+Door 1 0 0 30524 0 0
+~
+~
+Door 2 0 0 30535 0 0
+~
+~
+Door 3 0 0 30536 0 0
+~
+~
+End
+
+#30534
+Name Deep Into the World of Lost Souls~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 30523 0 0
+~
+~
+End
+
+#30535
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30536 0 0
+~
+~
+Door 1 0 0 30523 0 0
+~
+~
+Door 3 0 0 30538 0 0
+~
+~
+End
+
+#30536
+Name Deep Into the World of Lost Souls~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 30533 0 0
+~
+~
+Door 2 0 0 30535 0 0
+~
+~
+Door 3 0 0 30537 0 0
+~
+~
+End
+
+#30537
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30536 0 0
+~
+~
+Door 2 0 0 30538 0 0
+~
+~
+Door 3 0 0 30540 0 0
+~
+~
+End
+
+#30538
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30537 0 0
+~
+~
+Door 1 0 0 30535 0 0
+~
+~
+Door 3 0 0 30539 0 0
+~
+~
+End
+
+#30539
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30540 0 0
+~
+~
+Door 1 0 0 30538 0 0
+~
+~
+Door 3 0 0 30550 0 0
+~
+~
+End
+
+#30540
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30541 0 0
+~
+~
+Door 1 0 0 30537 0 0
+~
+~
+Door 2 0 0 30539 0 0
+~
+~
+Door 3 0 0 30549 0 0
+~
+~
+End
+
+#30541
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30542 0 0
+~
+~
+Door 2 0 0 30540 0 0
+~
+~
+Door 3 0 0 30548 0 0
+~
+~
+End
+
+#30542
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30543 0 0
+~
+~
+Door 2 0 0 30541 0 0
+~
+~
+Door 3 0 0 30547 0 0
+~
+~
+End
+
+#30543
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30544 0 0
+~
+~
+Door 2 0 0 30542 0 0
+~
+~
+Door 3 0 0 30546 0 0
+~
+~
+End
+
+#30544
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30543 0 0
+~
+~
+Door 3 0 0 30545 0 0
+~
+~
+End
+
+#30545
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30544 0 0
+~
+~
+Door 2 0 0 30546 0 0
+~
+~
+End
+
+#30546
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30545 0 0
+~
+~
+Door 1 0 0 30543 0 0
+~
+~
+Door 2 0 0 30547 0 0
+~
+~
+End
+
+#30547
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30546 0 0
+~
+~
+Door 1 0 0 30542 0 0
+~
+~
+Door 2 0 0 30548 0 0
+~
+~
+End
+
+#30548
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30547 0 0
+~
+~
+Door 1 0 0 30541 0 0
+~
+~
+Door 2 0 0 30549 0 0
+~
+~
+End
+
+#30549
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30548 0 0
+~
+~
+Door 1 0 0 30540 0 0
+~
+~
+Door 2 0 0 30550 0 0
+~
+~
+End
+
+#30550
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30549 0 0
+~
+~
+Door 1 0 0 30539 0 0
+~
+~
+Door 3 0 0 30551 0 0
+~
+~
+End
+
+#30551
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30550 0 0
+~
+~
+Door 3 0 0 30552 0 0
+~
+~
+End
+
+#30552
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30553 0 0
+~
+~
+Door 1 0 0 30551 0 0
+~
+~
+Door 3 0 0 30563 0 0
+~
+~
+End
+
+#30553
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30554 0 0
+~
+~
+Door 2 0 0 30552 0 0
+~
+~
+Door 3 0 0 30562 0 0
+~
+~
+End
+
+#30554
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30555 0 0
+~
+~
+Door 2 0 0 30553 0 0
+~
+~
+Door 3 0 0 30561 0 0
+~
+~
+End
+
+#30555
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30556 0 0
+~
+~
+Door 2 0 0 30554 0 0
+~
+~
+Door 3 0 0 30560 0 0
+~
+~
+End
+
+#30556
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30557 0 0
+~
+~
+Door 2 0 0 30555 0 0
+~
+~
+Door 3 0 0 30559 0 0
+~
+~
+End
+
+#30557
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 30556 0 0
+~
+~
+Door 3 0 0 30558 0 0
+~
+~
+End
+
+#30558
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Reset M 30307 1 100
+Reset O 30307 -1 5
+Door 1 0 0 30557 0 0
+~
+~
+Door 2 0 0 30559 0 0
+~
+~
+End
+
+#30559
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30558 0 0
+~
+~
+Door 1 0 0 30556 0 0
+~
+~
+Door 2 0 0 30560 0 0
+~
+~
+End
+
+#30560
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30559 0 0
+~
+~
+Door 1 0 0 30555 0 0
+~
+~
+Door 2 0 0 30561 0 0
+~
+~
+End
+
+#30561
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30560 0 0
+~
+~
+Door 1 0 0 30554 0 0
+~
+~
+Door 2 0 0 30562 0 0
+~
+~
+End
+
+#30562
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30561 0 0
+~
+~
+Door 1 0 0 30553 0 0
+~
+~
+Door 2 0 0 30563 0 0
+~
+~
+Door 3 0 0 30565 0 0
+~
+~
+End
+
+#30563
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30562 0 0
+~
+~
+Door 1 0 0 30552 0 0
+~
+~
+Door 3 0 0 30564 0 0
+~
+~
+End
+
+#30564
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30565 0 0
+~
+~
+Door 1 0 0 30563 0 0
+~
+~
+Door 3 0 0 30567 0 0
+~
+~
+End
+
+#30565
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30562 0 0
+~
+~
+Door 2 0 0 30564 0 0
+~
+~
+Door 3 0 0 30566 0 0
+~
+~
+End
+
+#30566
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30565 0 0
+~
+~
+Door 2 0 0 30567 0 0
+~
+~
+Door 3 0 0 30569 0 0
+~
+~
+End
+
+#30567
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30566 0 0
+~
+~
+Door 1 0 0 30564 0 0
+~
+~
+Door 3 0 0 30568 0 0
+~
+~
+End
+
+#30568
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 30569 0 0
+~
+~
+Door 1 0 0 30567 0 0
+~
+~
+End
+
+#30569
+Name Deep Into the World of Lost Souls~
+Descr
+The room appears to be dark compared to the hallway before it. There are
+some very hungry looking demons looking around for more souls to steal. They
+chuckle as the screams echo through the caverns. In the next room over it
+sounds as though there is a large monster waiting for someone to find it. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 30566 0 0
+~
+~
+Door 2 0 0 30568 0 0
+~
+~
+End
+
+#30570
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30330 0 0
+~
+~
+Door 2 0 0 30571 0 0
+~
+~
+End
+
+#30571
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30570 0 0
+~
+~
+Door 3 0 0 30572 0 0
+~
+~
+End
+
+#30572
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 1 0 0 30571 0 0
+~
+~
+Door 3 0 0 30573 0 0
+~
+~
+End
+
+#30573
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30574 0 0
+~
+~
+Door 1 0 0 30572 0 0
+~
+~
+End
+
+#30574
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 2 0 0 30573 0 0
+~
+~
+Door 3 0 0 30575 0 0
+~
+~
+End
+
+#30575
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 1 0 0 30574 0 0
+~
+~
+Door 3 0 0 30576 0 0
+~
+~
+End
+
+#30576
+Name A Small Crumbling Path~
+Descr
+There appears to be a small crumbling path ahead leading further into
+the earth. The cave walls surrounding the path seem like they are caving in
+and about ready to collapse on top of anyone below. Screams echo through the
+area warning of possible danger ahead. 
+~
+Sector 0
+Door 1 0 0 30575 0 0
+~
+~
+Door 3 0 0 30577 0 0
+~
+~
+End
+
+#30577
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30578 0 0
+~
+~
+Door 1 0 0 30576 0 0
+~
+~
+Door 2 0 0 30581 0 0
+~
+~
+Door 3 0 0 30588 0 0
+~
+~
+End
+
+#30578
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30579 0 0
+~
+~
+Door 2 0 0 30577 0 0
+~
+~
+Door 3 0 0 30589 0 0
+~
+~
+End
+
+#30579
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30580 0 0
+~
+~
+Door 2 0 0 30578 0 0
+~
+~
+Door 3 0 0 30590 0 0
+~
+~
+End
+
+#30580
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 2 0 0 30579 0 0
+~
+~
+Door 3 0 0 30591 0 0
+~
+~
+End
+
+#30581
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30577 0 0
+~
+~
+Door 2 0 0 30582 0 0
+~
+~
+Door 3 0 0 30587 0 0
+~
+~
+End
+
+#30582
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30581 0 0
+~
+~
+Door 2 0 0 30583 0 0
+~
+~
+Door 3 0 0 30586 0 0
+~
+~
+End
+
+#30583
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30582 0 0
+~
+~
+Door 3 0 0 30584 0 0
+~
+~
+End
+
+#30584
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30586 0 0
+~
+~
+Door 1 0 0 30583 0 0
+~
+~
+Door 3 0 0 30598 0 0
+~
+~
+End
+
+#30585
+Name World of the Lost Souls~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 30584 0 0
+~
+~
+End
+
+#30586
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30587 0 0
+~
+~
+Door 1 0 0 30582 0 0
+~
+~
+Door 2 0 0 30584 0 0
+~
+~
+Door 3 0 0 30597 0 0
+~
+~
+End
+
+#30587
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30588 0 0
+~
+~
+Door 1 0 0 30581 0 0
+~
+~
+Door 2 0 0 30586 0 0
+~
+~
+Door 3 0 0 30596 0 0
+~
+~
+End
+
+#30588
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Flags 1
+Sector 0
+Reset M 30304 1 100
+Reset O 30306 11 5
+Door 0 0 0 30589 0 0
+~
+~
+Door 1 0 0 30577 0 0
+~
+~
+Door 2 0 0 30587 0 0
+~
+~
+Door 3 0 0 30595 0 0
+~
+~
+End
+
+#30589
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30590 0 0
+~
+~
+Door 1 0 0 30578 0 0
+~
+~
+Door 2 0 0 30588 0 0
+~
+~
+Door 3 0 0 30594 0 0
+~
+~
+End
+
+#30590
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30591 0 0
+~
+~
+Door 1 0 0 30579 0 0
+~
+~
+Door 2 0 0 30589 0 0
+~
+~
+Door 3 0 0 30593 0 0
+~
+~
+End
+
+#30591
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Reset M 30301 1 100
+Door 1 0 0 30580 0 0
+~
+~
+Door 2 0 0 30590 0 0
+~
+~
+Door 3 0 0 30592 0 0
+~
+~
+End
+
+#30592
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 1 0 0 30591 0 0
+~
+~
+Door 2 0 0 30593 0 0
+~
+~
+End
+
+#30593
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30592 0 0
+~
+~
+Door 1 0 0 30590 0 0
+~
+~
+Door 2 0 0 30594 0 0
+~
+~
+End
+
+#30594
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30593 0 0
+~
+~
+Door 1 0 0 30589 0 0
+~
+~
+Door 2 0 0 30595 0 0
+~
+~
+End
+
+#30595
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Reset M 30301 1 100
+Door 0 0 0 30594 0 0
+~
+~
+Door 1 0 0 30588 0 0
+~
+~
+Door 2 0 0 30596 0 0
+~
+~
+End
+
+#30596
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30595 0 0
+~
+~
+Door 1 0 0 30587 0 0
+~
+~
+Door 2 0 0 30597 0 0
+~
+~
+End
+
+#30597
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30596 0 0
+~
+~
+Door 1 0 0 30586 0 0
+~
+~
+Door 2 0 0 30598 0 0
+~
+~
+End
+
+#30598
+Name A Large Cavern~
+Descr
+It seems like the light throughout the cave dims as a slightly larger
+opening approaches closer. There are piles of bones and decaying bodies
+laying on the ground with bloody swords laying discarded beside them.
+Screams echo through the area warning of possible danger ahead. 
+~
+Sector 0
+Door 0 0 0 30597 0 0
+~
+~
+Door 1 0 0 30584 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,609 @@
+#AREADATA 
+Name remove this area it is crap. Caves/Caverns~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 70151 70200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#70151
+Name bat large~
+Short a large bat~
+Long 
+A large bat flaps around here, looking for a place to hang from.
+~
+Descr
+This large bat looks like it poses little threat, although it does look
+rather angry at the moment.  
+~
+AMax 4
+NHeight 0
+ActBits 9
+Affect_By 524800
+Money 3
+Level 3
+Sex 1
+MobType 18
+Guard 0
+End
+
+#70152
+Name evil human warrior~
+Short an evil human warrior~
+Long 
+An evil human warrior rests here, dangling his feet into the small pool.
+~
+Descr
+This warrior looks like he might have gotten lost in the caves.  At the
+moment he is enjoying the cold water splashing over his tired feet.  You can
+tell he is evil by the red symbol of Krag tattoo'd on his feet.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -100
+Money 23
+Level 23
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#70153
+Name giant worm~
+Short a giant worm~
+Long 
+A giant worm is here, tunneling in the hard clay.
+~
+Descr
+This huge worm has an incredibly tough skin, which could possibly be used
+as a shield if you could get a nice piece of skin.  However, this worm is
+simply enormous, and its acid-breath and huge powerful body make you think
+that it would be a tough task.  
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 544
+Alignment -90
+Money 72
+Level 72
+MobType 18
+Guard 0
+Spec spec_breath_acid
+End
+
+#70154
+Name strange man black robes~
+Short a black-robed man~
+Long 
+A strange man in black robes stands here, calmly observing you.
+~
+Descr
+This man's strange gaze leads you to believe he is skilled in the ways of
+magic.  Perhaps he could teach you a thing or two...  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Alignment -100
+Money 56
+Level 56
+Sex 1
+MobType 0
+Guard 0
+End
+
+#70155
+Name wandering elf~
+Short a wandering elf~
+Long 
+A wandering elf is here, exploring the caves.
+~
+Descr
+This elf looks too concerned with exploring the caves than worrying about
+visitors...  Perhaps he's just lost, come to think of it...  
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 520
+Money 18
+Level 18
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#70151
+Name pool water~
+Short a pool of water~
+Descr
+Never seen by morts.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#70152
+Name worm hide SAVE AC~
+Short a piece of worm hide~
+Descr
+A piece of worm hide has been left here, meant for use as a shield.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 3 0 0 100 100 0 0
+Weight 1
+Cost 1645
+Affect 17 -1 1 0 0
+Affect 20 -1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#70151
+Name A Path through some Large Boulders~
+Descr
+You stand on a small slope of shale and other black rocks and boulders. 
+The entrance to a strange cave lies to the west, and you can see a field
+with a path running through it to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 70028 30 30
+~
+(null)~
+Door 3 0 0 70152 30 30
+~
+(null)~
+End
+
+#70152
+Name Entrance to a Cave~
+Descr
+You stand at the entrance of a cave.  The cave leads west into the
+mountain, and you can hear the sound of dripping water closeby in that
+direction.  To the east you can see a rocky slope.  
+~
+Flags 6
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 70151 30 30
+~
+(null)~
+Door 3 0 0 70153 30 30
+~
+(null)~
+End
+
+#70153
+Name Just inside the Cave~
+Descr
+You stand just inside a cave.  Water drips from the earthen and stone
+ceiling, and many stalagmites have formed on the ground here.  You can see
+the entrance to the cave to the east.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70154 30 30
+~
+(null)~
+Door 1 0 0 70152 30 30
+~
+(null)~
+Door 3 0 0 70155 30 30
+~
+(null)~
+End
+
+#70154
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 70153 30 30
+~
+(null)~
+Door 3 0 0 70156 30 30
+~
+(null)~
+End
+
+#70155
+Name A Twisty Junction~
+Descr
+You stand at a three-way junction.  As you look west, you can make out a
+passageway made of stone and then a large cavern.  To the east you can make
+out the entrance to the cave, and to the south you can see another
+passageway, this one damp and earthen.  
+~
+Flags 5
+Sector 0
+Reset M 70151 4 100
+Movemess
+(null)~
+Door 1 0 0 70153 30 30
+~
+(null)~
+Door 2 0 0 70167 30 30
+~
+(null)~
+Door 3 0 0 70166 30 30
+~
+(null)~
+End
+
+#70156
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70154 30 30
+~
+(null)~
+Door 1 0 0 70154 30 30
+~
+(null)~
+Door 3 0 0 70157 30 30
+~
+(null)~
+End
+
+#70157
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Reset M 70151 4 100
+Movemess
+(null)~
+Door 0 0 0 70158 30 30
+~
+(null)~
+Door 1 0 0 70156 30 30
+~
+(null)~
+Door 2 0 0 70154 30 30
+~
+(null)~
+End
+
+#70158
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Reset M 70155 1 100
+Reset O 1019 0 36
+Reset O 220 4 30
+Reset O 206 6 100
+Reset O 237 21 45
+Movemess
+(null)~
+Door 0 0 0 70156 30 30
+~
+(null)~
+Door 2 0 0 70157 30 30
+~
+(null)~
+Door 3 0 0 70159 30 30
+~
+(null)~
+End
+
+#70159
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Reset M 70154 1 100
+Reset O 1024 21 17
+Reset O 219 4 100
+Reset O 205 6 100
+Movemess
+(null)~
+Door 1 0 0 70158 30 30
+~
+(null)~
+Door 3 0 0 70160 30 30
+~
+(null)~
+End
+
+#70160
+Name A Natural Cave Passage~
+Descr
+The gray, nondescript stone walls are rough, and constant drone of the
+sound of water dripping all around you seems to confuse you.  You feel as if
+your head is swimming and you can't seem to get your bearings...  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70158 30 30
+~
+(null)~
+Door 1 0 0 70159 30 30
+~
+(null)~
+Door 2 0 0 70161 30 30
+~
+(null)~
+Door 3 0 0 70158 30 30
+~
+(null)~
+End
+
+#70161
+Name A Large Cavern~
+Descr
+You stand in the northwest corner of an immense cavern.  You can see an
+odd-looking passage begin to the north, and the cavern expands before you to
+the south and east.  Stalagtites and stalagmites cover the ceiling and
+floor, and you find it treacherous to walk here.  
+~
+Flags 268435463
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70160 30 30
+~
+(null)~
+Door 1 0 0 70163 30 30
+~
+(null)~
+Door 2 0 0 70162 30 30
+~
+(null)~
+End
+
+#70162
+Name A Large Cavern~
+Descr
+You stand at the southwest corner of a large cavern.  A niche can be seen
+to the west, and cavern continues to the north and east.  Strangely enough,
+there are few stalagmites here, but quite a few stalagtites hanging from the
+cavern ceiling.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70161 30 30
+~
+(null)~
+Door 1 0 0 70165 30 30
+~
+(null)~
+Door 3 0 0 70164 30 30
+~
+(null)~
+End
+
+#70163
+Name A Large Cavern~
+Descr
+You stand at the northeast corner of a large cavern.  A stone passageway
+leads east of here.  The stalagmites on the floor make you weary about where
+you step, and you don't feel safe here.  
+~
+Flags 268435463
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 70166 30 30
+~
+(null)~
+Door 2 0 0 70165 30 30
+~
+(null)~
+Door 3 0 0 70161 30 30
+~
+(null)~
+End
+
+#70164
+Name A Small, Damp Niche~
+Descr
+You stand in a small, damp niche.  Water runs down in a steady stream on
+the west wall, and you realize you could probably fill your waterskins in
+the pool that has formed on the ground here.  
+~
+Flags 5
+Sector 0
+Reset M 70152 1 100
+Reset O 224 5 84
+Reset O 237 21 40
+Reset O 234 8 19
+Reset O 209 6 10
+Reset O 222 4 14
+Reset O 70151 -5 100
+Movemess
+(null)~
+Door 1 0 0 70162 30 30
+~
+(null)~
+End
+
+#70165
+Name A Large Cavern~
+Descr
+You stand in the southeast corner of a large cavern.  Sharp, dangerous-
+looking stalagmites rise up from the ground and make your footing
+treacherous.  You feel like this room is an accident just waiting to happen.
+~
+Flags 268435463
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70163 30 30
+~
+(null)~
+Door 3 0 0 70162 30 30
+~
+(null)~
+End
+
+#70166
+Name A Stone Passageway~
+Descr
+You stand in a stone passageway, water dripping along its walls.  You can
+see a large cavern open up to the west, and the passage seems to split to
+the east, branching in three seperate directions.  
+~
+Flags 5
+Sector 0
+Reset M 70151 4 100
+Movemess
+(null)~
+Door 1 0 0 70155 30 30
+~
+(null)~
+Door 3 0 0 70163 30 30
+~
+(null)~
+End
+
+#70167
+Name An Earthen Passageway~
+Descr
+You stand in an earthen passageway.  The air smells of damp soil and
+there is a fine mist that lingers in the air, making it difficult to see
+very far in any direction.  
+~
+Flags 5
+Sector 0
+Reset M 70151 4 100
+Movemess
+(null)~
+Door 0 0 0 70155 30 30
+~
+(null)~
+Door 2 0 0 70168 30 30
+~
+(null)~
+End
+
+#70168
+Name An Earthen Passageway~
+Descr
+You stand in an earthen passageway.  The air smells of damp soil and
+there is a fine mist that lingers in the air, making it difficult to see
+very far in any direction.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70167 30 30
+~
+(null)~
+Door 1 0 0 70167 30 30
+~
+(null)~
+Door 3 0 0 70169 30 30
+~
+(null)~
+End
+
+#70169
+Name An Earthen Passageway~
+Descr
+You stand in an earthen passageway.  The air smells of damp soil and
+there is a fine mist that lingers in the air, making it difficult to see
+very far in any direction.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 70168 30 30
+~
+(null)~
+Door 2 0 0 70170 30 30
+~
+(null)~
+End
+
+#70170
+Name An Earthen Cavern~
+Descr
+You stand in a large, earthen cavern.  Water drips from all around, and a
+small pool has formed at the base of the south wall.  The mud underfoot is
+slick and you find yourself slipping when you try to move around quickly. 
+You can see a passage to the north.  
+~
+Flags 5
+Sector 0
+Reset M 70153 1 100
+Reset O 70152 -1 9
+Reset O 70151 -5 100
+Movemess
+(null)~
+Door 0 0 0 70169 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

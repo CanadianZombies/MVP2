@@ -1,0 +1,4252 @@
+#AREADATA 
+Name Frigidia & Mercurio~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou begin to shiver from the coldness.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Meliere~
+VNUMs 27101 27300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#27101
+Name keeper gatekeeper gate~
+Short Gate Keeper~
+Long 
+The Gate Keeper watches those who enter, with a curious eye.
+~
+Descr
+The Gate Keeper is the protectorate of the Frigidian Ice Cave.  It
+stands firmly at attention, eyeing you cautiously.  Attempting to
+pass without paying a toll may result in the Gate Keeper attacking
+you.  Its body of stone and its strength would surely crush you.
+~
+AMax 1
+NHeight 0
+ActBits 19
+ActBits3 524288
+Alignment 1000
+Money 63
+Level 63
+MobType 10
+Guard 0
+End
+
+#27102
+Name iceman man male citizen~
+Short an ice man~
+Long 
+A male citizen hunts for the monster who has escaped.
+~
+Descr
+He is strong, yet terrified of the monster who has escaped.  He
+tells you, "Becareful, this creature is wicked.  Be on guard!".
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 30
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+End
+
+#27103
+Name ice woman female citizen~
+Short an ice woman~
+Long 
+A female citizen runs by screaming for her life.
+~
+Descr
+As a Frigidian citizen, she looks ice cold, but today she seems 
+white as a ghost.  "The monster has escaped, run for your life!",
+she bellows out.  "Run!  Run now, if you want to live!", she says
+to you, as she tries to find a hiding place.
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment 20
+Money 8
+Level 8
+Sex 2
+MobType 0
+Guard 0
+End
+
+#27104
+Name ice monster creature~
+Short The Ice Monster~
+Long 
+The Ice Monster finds you and attacks on sight!
+~
+Descr
+The Ice Monster tells you, "Die Scum!"
+~
+AMax 1
+NHeight 0
+ActBits 33554441
+Affect_By 552
+Alignment -50
+Money 17
+Level 17
+MobType 18
+Guard 0
+End
+
+#27105
+Name hargar shop shopkeeper man store~
+Short Hargar~
+Long 
+Hargar is here, peddling his wares.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 55
+Level 55
+Sex 1
+MobType 0
+Guard 0
+Shop    0  19  17   9   5 90 5 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#27106
+Name caveman cave man hideous nasty evil creature~
+Short a caveman~
+Long 
+A caveman laughs hysterically, and begins attacking.
+~
+Descr
+This may be the creature you have heard while walking around the
+island.  His laughter is evil.  His eyes are burning red.  He
+looks insane with frenzy.  'You will be enslaved!', it exclaims.
+~
+AMax 1
+NHeight 0
+ActBits 13
+Alignment -100
+Money 15
+Level 15
+Sex 1
+MobType 18
+Guard 0
+End
+
+#27107
+Name old man citizen elder elderly~
+Short an old man~
+Long 
+An elderly citizen tries to escape, but is slow on his cane.
+~
+Descr
+An elderly man in his mid 70s...he walks with the aid of a wooden cane.
+~
+AMax 2
+NHeight 0
+ActBits 33
+Alignment 50
+Money 6
+Level 6
+Sex 1
+MobType 0
+Guard 0
+End
+
+#27108
+Name bat black~
+Short a bat~
+Long 
+A bat flys at your head, and begins to attack.
+~
+Descr
+A black bat flaps his wings angrily...it appears to be quite upset
+that you have entered its' domain.   It bites at your head.
+~
+AMax 18
+NHeight 0
+ActBits 100663305
+Alignment -50
+Money 4
+Level 4
+MobType 13
+Guard 0
+End
+
+#27109
+Name snow creature~
+Short a snow creature~
+Long 
+A snow creature is angered that you have disturbed it.
+~
+Descr
+The snowman is huge and quite strong.  Normally they sleep unless
+disturbed, often snoaring very loudly.  On occasions, especially if
+hungry, they have been known to attack strangers.  Pass with caution.
+~
+AMax 1
+NHeight 0
+ActBits 15
+Affect_By 131624
+Alignment 200
+Money 28
+Level 28
+MobType 18
+Guard 0
+Spec spec_breath_frost
+End
+
+#27110
+Name rat hairy black~
+Short a hairy, black rat~
+Long 
+The hairy, black rat does not like your presence here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 603979791
+Affect_By 131584
+Alignment -25
+Money 13
+Level 13
+MobType 7
+Guard 0
+End
+
+#27111
+Name black purple wierd plant plants~
+Short some black and purple plants~
+Long 
+Some ugly colored plants here seem to like you.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 67108891
+Affect_By 65536
+Alignment -50
+Money 6
+Level 6
+MobType 17
+Guard 0
+End
+
+#27113
+Name sea serpent~
+Short a sea serpent~
+Long 
+A Sea Serpent jets out from the frozen ice and attacks.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 13
+ActBits3 32768
+Affect_By 168
+Alignment -200
+Money 15
+Level 15
+MobType 14
+Guard 0
+End
+
+#27114
+Name creature lava~
+Short a lava creature~
+Long 
+A lava creature roams the island in search for food.
+~
+Descr
+It appears to be half-human and half-lava....strange!  It doesn't look
+threatening, but you decide to stay at a distance from it.
+~
+AMax 3
+NHeight 0
+ActBits 5
+Alignment 50
+Money 6
+Level 6
+MobType 9
+Guard 0
+ArmorClass 2
+End
+
+#27115
+Name snake water large~
+Short water snake~
+Long 
+A large, water snake slithers along trying to bite you.
+~
+Descr
+It appears to be a river snake, and very poisonous.
+~
+AMax 1
+NHeight 0
+ActBits 9
+Affect_By 8392704
+Money 6
+Level 6
+MobType 20
+Guard 0
+Spec spec_poison
+End
+
+#27116
+Name clam small~
+Short a clam~
+Long 
+A small clam is here.
+~
+Descr
+Your average fresh water clam.
+~
+AMax 3
+NHeight 0
+ActBits 19
+ActBits3 4
+Affect_By 131072
+Alignment 100
+Money 6
+Level 6
+MobType 14
+Guard 27116
+End
+
+#27117
+Name vulture giant~
+Short a giant vulture~
+Long 
+A giant vulture is here trying to kill you.
+~
+Descr
+A large bird of prey, with a brightly colored head and dark plumage.
+It appears to be carnivorous! 
+~
+AMax 2
+NHeight 0
+ActBits 9
+Money 8
+Level 8
+MobType 13
+Guard 0
+End
+
+#27119
+Name lythande armorer~
+Short Lythande~
+Long 
+Lythande, the local armorer stands here repairing armor.
+~
+Descr
+Lythande is of muscular-build, short blonde hair, hazel eyes and is
+very tall for his age of 45.  He is wearing brown leather boots, a
+bronze platemail, gauntlets, and arm and leg protectors.  He carries
+a satchel, which contains his tools. 
+~
+AMax 1
+NHeight 0
+ActBits 2097171
+ActBits3 1048576
+Affect_By 134217768
+Alignment 500
+Money 50
+Level 50
+Sex 1
+MobType 0
+Alt_vnum 27118
+Guard 0
+End
+
+#27121
+Name freezo~
+Short lord Freezo~
+Long 
+Lord Freezo is here, mumbling strange incantations.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 65536
+Money 200
+Level 200
+Guard 0
+End
+
+#27220
+Name flame~
+Short The Flame~
+Long 
+The Flame attempts to enslave you, watch out!
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 29
+Affect_By 34603688
+Alignment -100
+Money 21
+Level 21
+MobType 9
+Guard 0
+End
+
+#27221
+Name beetle black~
+Short a black beetle~
+Long 
+A black beetle is here, eating something.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 5
+Affect_By 33280
+Alignment -5
+Money 1
+Level 1
+MobType 7
+Guard 0
+End
+
+#27222
+Name girl ice~
+Short an ice girl~
+Long 
+An ice girl is here, crying for her mother.
+~
+Descr
+She is crying.  She spots you and asks, "Can you help me find my
+mommy?", then begins to cry profusely once again.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 50
+Money 4
+Level 4
+Sex 2
+MobType 0
+Guard 0
+End
+
+#27224
+Name adventurer scared startled~
+Short a startled adventurer~
+Long 
+A startled adventurer is here, trying to find the way out.
+~
+Descr
+He looks quite startled.  He asks you, "Know the way out?", in
+scared tone.  You answer him quickly and carry about your own
+business.  You think, "He is on his own!".
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 75
+Money 6
+Level 6
+Sex 1
+MobType 0
+Guard 0
+End
+
+#27225
+Name adventurer enslaved~
+Short an enslaved adventurer~
+Long 
+An enslaved adventurer looks like he is dead.
+~
+Descr
+His eyes appear to be black holes.  You have heard about this...
+This poor adventurer has been enslaved...
+RUN, because if he kills you, you too, will be enslaved.
+~
+AMax 1
+NHeight 0
+ActBits 13
+Affect_By 552
+Alignment -100
+Money 8
+Level 8
+Sex 1
+MobType 9
+Guard 0
+End
+
+#27226
+Name elf dark~
+Short a dark elf~
+Long 
+A dark elf is here, spying for someone.
+~
+Descr
+The female elf is a dark elf, sent by The Flame, to spy on the
+Frigidian Cave and its citizens.  She eyes you with lust in her
+eyes.  She winks at you, then makes a high pitch scream.
+~
+AMax 1
+NHeight 0
+ActBits 9
+Affect_By 552
+Alignment -50
+Money 9
+Level 9
+Sex 2
+MobType 1
+Guard 0
+End
+
+#27227
+Name zombie undead~
+Short a zombie~
+Long 
+A zombie stomps by on a mission to enslave someone.
+~
+Descr
+It is definately undead!  It has been enslaved by The Flame.
+It has been told that The Flame resides in the volcano.
+The zombie stomps by, searching for someone to enslave.
+~
+AMax 1
+NHeight 0
+ActBits 5
+Affect_By 552
+Alignment -150
+Money 11
+Level 11
+MobType 9
+Guard 0
+End
+
+#27228
+Name bird pretty~
+Short a pretty bird~
+Long 
+A pretty bird in here, sitting in his cage.
+~
+Descr
+He is green and yellow.  A pet of Meliere's.
+He eyes you as he eats.
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 1000
+Money 1
+Level 1
+MobType 13
+Guard 0
+ArmorClass -1000
+End
+
+#27229
+Name adventurer injured~
+Short an injured adventurer~
+Long 
+An injured adventurer rests here.
+~
+Descr
+She looks at you with pain her face.  She has been badly beatened,
+clawed, and scratched.  Her wounds look bad.  She tells you that
+she almight died.
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+Alignment 56
+Money 3
+Level 3
+Sex 2
+MobType 0
+Guard 0
+End
+
+#27230
+Name renquist warlock~
+Short Renquist the warlock~
+Long 
+You catch an evil warlock off guard...he fireballs you!
+~
+Descr
+Renquist is a warlock who has been enslaved by the evil, Flame.  Once a
+highly decorated spellcrafter, he is now controlled entirely, his actions,
+at times, brutal.  He is on a mission for The Flame.  You sense hate in his
+black eyes, as your eyes meet his.  
+~
+AMax 1
+NHeight 0
+ActBits 21
+ActBits3 1572864
+ActBits4 4096
+Affect_By 1082026
+Alignment -150
+Money 80
+Level 80
+Sex 1
+MobType 9
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#27101
+Name sphere floating~
+Short a sphere~
+Descr
+[1m[33mA sphere floats here.
+[0;36m~
+Type 12
+Extra 65600
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1001 0 0 0 0 0 0 0 0
+Weight 0
+Cost 10
+ExtraDescr sphere~
+It has a faint humming sound.
+
+
+~
+End
+
+#27102
+Name water waterfall great~
+Short great waterfall~
+Descr
+A Great Waterfall stands erected here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27103
+Name a ladder~
+Short a ladder~
+Descr
+A ladder is here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 27200 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27104
+Name ladder~
+Short a ladder~
+Descr
+A ladder is here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 27114 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27105
+Name key~
+Short a key made out of ice~
+Descr
+A key made from ice lies here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 35
+End
+
+#27106
+Name black sword~
+Short a black sword~
+Descr
+A heavy, black two-handed sword lies here.
+[0;36m~
+Type 5
+Extra 264768
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 3 0 0 0 3 6 0
+Weight 14
+Cost 1550
+ExtraDescr sword black~
+It was designed by the same weaponsmith who forged the flamberge.
+
+
+However, this sword's blade is much sharper and longer, and thus
+
+
+has more weight added.  It is an excellent weapon for those who
+
+
+can wield it.
+
+
+~
+End
+
+#27107
+Name wooden cane~
+Short a wooden cane~
+Descr
+A wooden cane has been left here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 7 0 0 0 1 5 0
+Weight 0
+Cost 290
+Affect 13 9 1 0 0
+Affect 14 5 1 0 0
+End
+
+#27108
+Name ice pick icepick~
+Short an ice pick~
+Descr
+An ice pick was left here carelessly.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 11 0 0 0 1 6 0
+Weight 0
+Cost 300
+End
+
+#27109
+Name ice cube icecube~
+Short a melting ice cube~
+Descr
+A melting ice cube has been left here.
+[0;36m~
+Type 8
+Extra 65
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1020
+Affect 17 -6 1 0 0
+Affect 1 2 1 0 0
+End
+
+#27110
+Name ice sword icesword~
+Short an ice sword~
+Descr
+A Sword of Ice has been dropped here.
+[0;36m~
+Type 5
+Extra 263168
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 1 0 0 0 3 4 0
+Weight 1
+Cost 1950
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+ExtraDescr sword icesword ice~
+You see a large, heavy sword.  Two-handed swords like this are swung over
+
+
+the head as opposed to a slashing motion.  This one was designed to slice
+
+
+through armor and tough flesh.
+
+
+~
+End
+
+#27111
+Name golden breastplate~
+Short a [1m[33mgolden [0mbreastplate~
+Descr
+A golden breastplate has been carelessly left here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 3
+Cost 6020
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+Affect 13 5 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#27112
+Name cherry staff~
+Short a cherry staff~
+Descr
+A long, cherry staff has been left here.
+[0;36m~
+Type 4
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 26 3 3 56 0 0 0 0 0 0
+Weight 1
+Cost 871
+End
+
+#27113
+Name golden boots~
+Short a pair of [1m[33mgolden [0mboots~
+Descr
+A pair of [1m[33mgolden [0m[36mboots lie here.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 40 40 0 0
+Weight 1
+Cost 3210
+Affect 14 12 1 0 0
+End
+
+#27114
+Name metal lockbox~
+Short a damaged, metal lockbox~
+Descr
+A damaged, metal lockbox is here.
+[0;36m~
+Type 15
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 7 27101 0 0 0 0 0 0 0
+Weight 11
+Cost 38
+End
+
+#27115
+Name metal key~
+Short a lockbox key~
+Descr
+A metal, lockbox key has been left here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 10
+End
+
+#27116
+Name belt leather~
+Short a fine leather belt~
+Descr
+A leather belt has been left here.
+[0;36m~
+Type 15
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 55
+ExtraDescr belt leather~
+This is a troll-made leather belt.
+
+
+~
+End
+
+#27117
+Name chainmail mail chain~
+Short some chain mail~
+Descr
+Some chain mail lies here, bunched up on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 50 50 0 0
+Weight 2
+Cost 1022
+ExtraDescr mail chain chainmail~
+This armor consists of tiny interlocking rings of steel.
+
+
+~
+End
+
+#27118
+Name jewel piece~
+Short a piece of jewel~
+Descr
+A piece of jewel has been dropped here.
+[0;36m~
+Type 8
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 333
+ExtraDescr jewel piece~
+It looks very valuable.
+
+
+~
+End
+
+#27119
+Name bracelet mithril~
+Short a mithril bracelet~
+Descr
+A mithril bracelet is lying here.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 50 50 0 0
+Weight 0
+Cost 495
+ExtraDescr bracelet mithril~
+Made entirely of bands of mithril, this bracelet has images of
+
+
+gemstones engraved upon it.
+
+
+~
+End
+
+#27121
+Name blackberries~
+Short some blackberries~
+Descr
+Some blackberries grow on a bush nearby.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1
+ExtraDescr blackberries~
+They look very tasty!
+
+
+~
+End
+
+#27125
+Name gauntlets bronze~
+Short bronze gauntlets~
+Descr
+A pair of bronze gauntlets lie here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 3
+Cost 200
+Affect 17 -2 1 0 0
+ExtraDescr gauntlets bronze~
+You see metal gloves made of bronze.
+
+
+~
+End
+
+#27127
+Name crown jewelled~
+Short a jewelled crown~
+Descr
+A jewelled crown lies here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 0 0 0 0 0 0
+Weight 0
+Cost 195
+ExtraDescr crown jewelled~
+It is a finely crafted gold crown fit for a king.  Many precious
+
+
+jewels are imbedded in it.
+
+
+~
+End
+
+#27128
+Name chest gold~
+Short a gold chest~
+Descr
+A gold chest with a shiny lock sits here.
+[0;36m~
+Type 15
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 500 15 27129 0 0 0 0 0 0 0
+Weight 500
+Cost 0
+ExtraDescr chest gold~
+You are looking upon a large, and obviously heavy, solid-gold chest.
+
+
+Judging from the condition of it and the lock, you would hazard to
+
+
+guess that it is well-used.
+
+
+~
+End
+
+#27129
+Name key gold~
+Short a gold key~
+Descr
+A shiny gold key lies here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 50
+ExtraDescr key gold~
+This is a beautifully crafted key made from pure gold.
+
+
+~
+End
+
+#27130
+Name coins pile~
+Short a great pile of treasure~
+Descr
+A great, gleeming pile of treasure lies at your feet.
+[0;36m~
+Type 20
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 2 0 0 0 0 0 0 0 0
+Weight 2
+Cost 15
+ExtraDescr pile coins~
+You notice you're drooling as you estimate the number of coins
+
+
+at about 40 gold!
+
+
+~
+End
+
+#27131
+Name robe wool~
+Short a long wool robe~
+Descr
+A wool robe has been left here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 50 50 0 0
+Weight 1
+Cost 210
+ExtraDescr robe wool~
+It is a dirty, wool robe.
+
+
+~
+End
+
+#27133
+Name snowball~
+Short a snowball~
+Descr
+A snowball is here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 5
+ExtraDescr snowball~
+Just your average snowball.
+
+
+~
+End
+
+#27134
+Name sulphur sulpher~
+Short sulpher~
+Descr
+Some sulpher is here.
+[0;36m~
+Type 8
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 10
+End
+
+#27135
+Name tree ancient~
+Short an ancient tree~
+Descr
+An ancient tree stands here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 27205 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr tree ancient~
+It looks climbable!
+
+
+~
+End
+
+#27136
+Name tree ancient~
+Short an ancient tree~
+Descr
+An ancient tree stands here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 27202 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr tree ancient~
+It looks climbable!
+
+
+~
+End
+
+#27137
+Name pearl white~
+Short a white pearl~
+Descr
+A white pearl has been left here.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 80 80 22 0 0 0 0 0 0
+Weight 1
+Cost 1050
+ExtraDescr pearl white~
+A valuable white pearl.
+
+
+~
+End
+
+#27138
+Name key stone~
+Short a stone key~
+Descr
+A stone key has been left here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 2
+ExtraDescr key ~
+A key made from stone.
+
+
+~
+End
+
+#27139
+Name stump tree~
+Short a tree stump~
+Descr
+A tree stump is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27140
+Name tree stump~
+Short a tree stump~
+Descr
+A tree stump is here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27222
+Name feather yellow~
+Short a yellow feather~
+Descr
+A yellow feather lays here.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#27223
+Name pond water~
+Short a pond~
+Descr
+A small pond bubbles with fresh spring water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#27101
+Name Room of Glass~
+Descr
+This room permeates a strong brightness, which comes from outside the 
+glass structure which encompasses you.  There is a large wooden desk 
+on the west wall, a sofa on the southern wall, while a plaque hangs 
+noticeably in front of you.  The general appearance here is clean, and 
+well kept.  A sphere floats at waist-length in the center of the room.
+~
+Flags 3163286
+Sector 0
+ExtraDescr glass~
+You see your own reflection. *GASP*
+
+
+~
+ExtraDescr desk~
+The desk is cluttered with manuscripts and letters of importance.
+
+
+A framed picture of a beautiful woman rests above a red rose.
+
+
+~
+ExtraDescr sofa~
+It looks inviting.
+
+
+~
+ExtraDescr plaque~
+//==============================//
+
+
+ // HOME IS WHERE THE HEART IS  //
+
+
+//=============================//  
+
+
+~
+ExtraDescr picture~
+It is a framed picture of 'Sandy', Meliere's fiancee.  She is
+
+
+dressed in a white robe, wearing a crown, and red ruby slippers.
+
+
+~
+ExtraDescr manuscripts scripts letters notes~
+You can't quite make out the lettering.
+
+
+~
+ExtraDescr woman~
+She is very beautiful.
+
+
+~
+ExtraDescr cage~
+The cage prevents you from harming the bird inside.
+
+
+~
+Reset M 27228 1 100
+Reset O 27101 -5 100
+Movemess
+(null)~
+End
+
+#27102
+Name Path to Frigidia~
+Descr
+You are on a dirt path leading south to a forest, while to
+the north the path continues.  To the north you can faintly
+make out a big dome of ice.  Unclimable stone walls parallel
+this path.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27103 30 30
+~
+door~
+Door 2 0 0 9946 30 30
+~
+(null)~
+End
+
+#27103
+Name Path to Frigidia~
+Descr
+You are on a dirt path leading south  to a forest, while to
+the north the path continues.  To the north you can see a huge
+dome of ice.  Unclimable stone walls parallel this path.
+~
+Movemess
+(null)~
+Door 0 0 0 27104 30 30
+~
+door~
+Door 2 0 0 27102 30 30
+~
+door~
+End
+
+#27104
+Name Path to Frigidia~
+Descr
+You are on a dirt path leading south to a forest, while to
+the north you can make out what appears to be an entrance
+to a huge ice cave.
+~
+ExtraDescr clue~
+Clue #9 Find the the orc who protects those who serve him, he has the next.
+
+
+~
+ExtraDescr clue~
+Clue #9 Find the place of turning tracks, deep within lies the next.
+
+
+~
+Reset M 27101 1 100
+Reset O 27110 21 15
+Movemess
+(null)~
+Door 0 0 0 27105 30 30
+~
+door~
+Door 2 0 0 27103 30 30
+~
+door~
+End
+
+#27105
+Name Entrance to Frigidia~
+Descr
+This is the entrance to the Frigidian Ice Cave.  From within this cave
+are the many territories of Frigidia, the land of the ice beings.  The
+natives live here in comfort, with their close friends, in peace and quiet. 
+Strangers are welcomed.  Please do not litter.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 27106 30 30
+~
+door~
+Door 2 0 0 27104 30 30
+~
+door~
+End
+
+#27106
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27107 30 30
+~
+door~
+Door 1 0 0 27113 30 30
+~
+door~
+Door 2 0 0 27105 30 30
+~
+door~
+Door 3 0 0 27121 30 30
+~
+door~
+End
+
+#27107
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Reset M 27107 3 100
+Reset O 27107 21 100
+Movemess
+(null)~
+Door 0 0 0 27108 30 30
+~
+door~
+Door 1 0 0 27112 30 30
+~
+door~
+Door 2 0 0 27106 30 30
+~
+door~
+Door 3 0 0 27117 30 30
+~
+door~
+End
+
+#27108
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Reset O 27105 -5 100
+Movemess
+(null)~
+Door 0 0 0 27109 30 30
+~
+door~
+Door 1 0 0 27111 30 30
+~
+door~
+Door 2 0 0 27107 30 30
+~
+door~
+Door 3 0 0 27116 30 30
+~
+door~
+End
+
+#27109
+Name Northern Wall of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Reset M 27102 10 100
+Movemess
+(null)~
+Door 1 0 0 27110 30 30
+~
+door~
+Door 2 0 0 27108 30 30
+~
+door~
+Door 3 0 0 27115 30 30
+~
+door~
+End
+
+#27110
+Name Northeastern Corner of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 27111 30 30
+~
+door~
+Door 3 0 0 27109 30 30
+~
+door~
+End
+
+#27111
+Name Eastern Side of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  A 
+door is to the east.
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+"WAR ROOM"
+
+
+~
+Reset M 27103 3 100
+Reset O 27127 5 20
+Reset M 27102 5 80
+Reset O 27108 21 60
+Movemess
+(null)~
+Door 0 0 0 27110 30 30
+~
+door~
+Door 1 7 27105 27114 55 55
+~
+door~
+Door 2 0 0 27112 30 30
+~
+door~
+Door 3 0 0 27108 30 30
+~
+door~
+End
+
+#27112
+Name Eastern Side of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27111 30 30
+~
+door~
+Door 2 0 0 27113 30 30
+~
+door~
+Door 3 0 0 27107 30 30
+~
+door~
+End
+
+#27113
+Name Southeastern Corner of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Reset M 27222 1 75
+Movemess
+(null)~
+Door 0 0 0 27112 30 30
+~
+door~
+Door 3 0 0 27106 30 30
+~
+door~
+End
+
+#27114
+Name Large Storage Area~
+Descr
+You are in a large storage area.  The east and west walls are covered by
+large shelves, which hold many boxes of different sizes.  On the northern
+wall, large wooden crates are stacked right up the ceiling.  The dust in
+here shows that this area has not been used for some time. 
+~
+Flags 7
+Sector 0
+Reset O 27103 -5 100
+Movemess
+(null)~
+Door 3 7 27105 27111 55 55
+~
+door~
+End
+
+#27115
+Name Ice Monster Cage~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  A cage
+is here, unlocked and opened.
+~
+Flags 4
+Sector 0
+Reset M 27121 1 100
+Movemess
+(null)~
+Door 1 0 0 27109 30 30
+~
+door~
+Door 2 0 0 27116 30 30
+~
+door~
+Door 3 0 0 27120 30 30
+~
+door~
+End
+
+#27116
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Reset M 27103 3 100
+Reset O 27118 -1 20
+Reset M 27102 5 80
+Reset O 27108 21 100
+Movemess
+(null)~
+Door 0 0 0 27115 30 30
+~
+door~
+Door 1 0 0 27108 30 30
+~
+door~
+Door 2 0 0 27117 30 30
+~
+door~
+Door 3 0 0 27119 30 30
+~
+door~
+End
+
+#27117
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Reset O 27105 -5 100
+Movemess
+(null)~
+Door 0 0 0 27116 30 30
+~
+door~
+Door 1 0 0 27107 30 30
+~
+door~
+Door 2 0 0 27121 30 30
+~
+door~
+Door 3 0 0 27118 30 30
+~
+door~
+End
+
+#27118
+Name Western Side of Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Reset M 27103 3 100
+Reset M 27102 5 80
+Reset O 27108 21 80
+Movemess
+(null)~
+Door 0 0 0 27119 30 30
+~
+door~
+Door 1 0 0 27117 30 30
+~
+door~
+Door 2 0 0 27122 30 30
+~
+door~
+End
+
+#27119
+Name Western Side of Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27120 30 30
+~
+door~
+Door 1 0 0 27116 30 30
+~
+door~
+Door 2 0 0 27118 30 30
+~
+door~
+End
+
+#27120
+Name Northwestern Corner of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Reset O 27108 -5 100
+Reset M 27104 1 100
+Movemess
+(null)~
+Door 1 0 0 27115 30 30
+~
+door~
+Door 2 0 0 27119 30 30
+~
+door~
+End
+
+#27121
+Name Ice Hall~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about.  You
+are in the master hallway of the cave.
+~
+Flags 4
+Sector 0
+Reset M 27107 5 75
+Movemess
+(null)~
+Door 0 0 0 27117 30 30
+~
+door~
+Door 1 0 0 27106 30 30
+~
+door~
+Door 3 0 0 27122 30 30
+~
+door~
+End
+
+#27122
+Name Southwestern Corner of Ice Cave~
+Descr
+You are inside a huge ice cave.  From the fifty foot high ceiling,
+icicles form, occasionally dripping water.  The floor is made of
+soft snow, which makes a crunching noise as you move about. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27118 30 30
+~
+door~
+Door 1 0 0 27121 30 30
+~
+door~
+Door 3 0 0 27123 30 30
+~
+door~
+End
+
+#27123
+Name Branching Tunnel~
+Descr
+You are in a small tunnel dug out from solid ice, which leads east
+into the ice cave.  The ice tunnel continues to the north.
+~
+Flags 7
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27124 30 30
+~
+door~
+Door 1 0 0 27122 30 30
+~
+door~
+End
+
+#27124
+Name Branching Tunnel~
+Descr
+You are in a small tunnel dug out from solid ice.  A stairway
+leading down is to the west.  The ice tunnel continues to the south.
+~
+Flags 5
+Sector 0
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Movemess
+(null)~
+Door 2 0 0 27123 30 30
+~
+door~
+Door 3 0 0 27125 30 30
+~
+door~
+End
+
+#27125
+Name Stairs~
+Descr
+You are at a set of stairs.
+Exits lead east and down.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27124 30 30
+~
+door~
+Door 5 0 0 27126 30 30
+~
+door~
+End
+
+#27126
+Name Underground Tunnel~
+Descr
+You are in an undeground tunnel, carved out of solid ice.  It is
+extremely cold here.  There is no light.  You see a stairway here.
+The ice tunnel continues to the west.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 27127 30 30
+~
+door~
+Door 4 0 0 27125 30 30
+~
+door~
+End
+
+#27127
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel which has no lighting.  The walls,
+floor and ceiling are solid ice.  It is cold.  Exits lead east
+and north.
+~
+Flags 5
+Sector 0
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Movemess
+(null)~
+Door 0 0 0 27128 30 30
+~
+door~
+Door 1 0 0 27126 30 30
+~
+door~
+End
+
+#27128
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+You can hear running water in the distance.  Exits lead north and south.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27129 30 30
+~
+door~
+Door 2 0 0 27127 30 30
+~
+door~
+End
+
+#27129
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+You can hear running water in the distance.  Exits lead north and south.
+~
+Flags 5
+Sector 0
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Movemess
+(null)~
+Door 0 0 0 27130 30 30
+~
+door~
+Door 2 0 0 27128 30 30
+~
+door~
+End
+
+#27130
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+The sound of running water sounds louder here.  Exits lead south and east.
+~
+Flags 5
+Sector 0
+Reset M 27108 10 75
+Movemess
+(null)~
+Door 1 0 0 27131 30 30
+~
+door~
+Door 2 0 0 27129 30 30
+~
+door~
+End
+
+#27131
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+The sound of running water seems to be getting louder.  Exits lead east
+and west.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27132 30 30
+~
+door~
+Door 3 0 0 27130 30 30
+~
+door~
+End
+
+#27132
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+The sound of running water seems to be getting louder.  Exits lead north
+and west.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27133 30 30
+~
+door~
+Door 3 0 0 27131 30 30
+~
+door~
+End
+
+#27133
+Name Underground Tunnel~
+Descr
+You are in an underground tunnel made from solid ice.  The intense cold
+makes you shiver slightly.  The walls, floor and ceiling are solid ice.
+The sound of running water seems to be getting louder.  Exits lead south
+and west.
+~
+Flags 4
+Sector 0
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Reset M 27108 10 75
+Movemess
+(null)~
+Door 2 0 0 27132 30 30
+~
+door~
+Door 3 0 0 27134 30 30
+~
+door~
+End
+
+#27134
+Name Underground Dome~
+Descr
+You are at the south end of a large underground dome, which rises
+high above your head.  To the north you see a tremendous looking
+waterfall.  The only other exit is east.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27135 30 30
+~
+door~
+Door 1 0 0 27133 30 30
+~
+door~
+End
+
+#27135
+Name Before the Great Waterfall~
+Descr
+You are in the middle of the underground dome.  Erected before you
+is a crystal clear waterfall.  The mist gently hits your face.
+Some exotic plants and flowers grow here, along with ancient trees
+that reach high in the air.  Along with the sounds of running water,
+birds chirp happily.  You sense the serenity here.
+~
+Flags 3094
+Sector 0
+ExtraDescr plants~
+They smell beautiful.
+
+
+~
+ExtraDescr flowers~
+They look and smell beautiful.
+
+
+~
+ExtraDescr plants~
+Very exotic plants, unlike any you have ever seen.  Maybe they only
+
+
+grow here?
+
+
+~
+Reset M 27119 1 75
+Reset O 27102 -5 100
+Movemess
+(null)~
+Door 0 0 0 27136 30 30
+~
+(null)~
+Door 2 0 0 27134 30 30
+~
+door~
+Door 3 0 0 27177 30 30
+~
+(null)~
+End
+
+#27136
+Name Behind the Waterfall~
+Descr
+You are at the north end of an underground dome, which rises high
+above your head.  You could pass through the waterfall to the south,
+or go north onto a snowy path.
+~
+Flags 6
+Sector 0
+Reset M 27226 1 75
+Movemess
+(null)~
+Door 0 0 0 27137 30 30
+~
+(null)~
+Door 2 0 0 27135 30 30
+~
+(null)~
+End
+
+#27137
+Name Snowy Path~
+Descr
+You are on a man-made snow path, which leads east to an under-
+ground lake.  The snow here is soft, and your feet sink in it
+alittle.  A weak wind blows softly from the east.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27138 30 30
+~
+(null)~
+Door 2 0 0 27136 30 30
+~
+(null)~
+End
+
+#27138
+Name Snowy Path~
+Descr
+You are on a man-made snow path, which leads east to an underground 
+lake.  The snow here is getting softer - your upto your ankles in it.  
+The snowy path continues west.  You see a lakeshore to the east. 
+~
+Flags 4
+Sector 0
+Reset O 27133 -5 30
+Reset M 27109 1 100
+Reset O 27109 21 1
+Movemess
+(null)~
+Door 1 0 0 27139 30 30
+~
+(null)~
+Door 3 0 0 27137 30 30
+~
+(null)~
+End
+
+#27139
+Name Shore of Lake~
+Descr
+You are on the shore of an underground lake.  You gaze in all directions.
+The lake seems to be totally frozen, and safe to travel on, except for 
+some small patches of melted ice.  But where does it go?  Your nose picks
+up a smell which seems to resemble that of sulphur.
+~
+Flags 6
+Sector 0
+Reset M 27116 5 100
+Reset M 27116 5 100
+Reset M 27116 5 100
+Reset O 27137 -1 8
+Movemess
+(null)~
+Door 1 0 0 27141 30 30
+~
+(null)~
+Door 3 0 0 27138 30 30
+~
+(null)~
+End
+
+#27140
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27140 30 30
+~
+(null)~
+Door 1 0 0 27144 30 30
+~
+(null)~
+Door 2 0 0 27141 30 30
+~
+(null)~
+Door 3 0 0 27140 30 30
+~
+(null)~
+End
+
+#27141
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots. The lakeshore is west, while the lake
+continues in all other directions, for as far as your eyes can see. 
+You continue to smell sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27140 30 30
+~
+(null)~
+Door 1 0 0 27145 30 30
+~
+(null)~
+Door 2 0 0 27142 30 30
+~
+(null)~
+Door 3 0 0 27139 30 30
+~
+(null)~
+End
+
+#27142
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27141 30 30
+~
+(null)~
+Door 1 0 0 27146 30 30
+~
+(null)~
+Door 2 0 0 27143 30 30
+~
+(null)~
+Door 3 0 0 27142 30 30
+~
+(null)~
+End
+
+#27143
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27142 30 30
+~
+(null)~
+Door 1 0 0 27147 30 30
+~
+(null)~
+Door 2 0 0 27143 30 30
+~
+(null)~
+Door 3 0 0 27143 30 30
+~
+(null)~
+End
+
+#27144
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Reset M 27113 5 80
+Movemess
+(null)~
+Door 0 0 0 27144 30 30
+~
+(null)~
+Door 1 0 0 27148 30 30
+~
+(null)~
+Door 2 0 0 27145 30 30
+~
+(null)~
+Door 3 0 0 27140 30 30
+~
+(null)~
+End
+
+#27145
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27144 30 30
+~
+(null)~
+Door 1 0 0 27149 30 30
+~
+(null)~
+Door 2 0 0 27146 30 30
+~
+(null)~
+Door 3 0 0 27141 30 30
+~
+(null)~
+End
+
+#27146
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Reset M 27113 10 70
+Movemess
+(null)~
+Door 0 0 0 27145 30 30
+~
+(null)~
+Door 1 0 0 27150 30 30
+~
+(null)~
+Door 2 0 0 27147 30 30
+~
+(null)~
+Door 3 0 0 27142 30 30
+~
+(null)~
+End
+
+#27147
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27146 30 30
+~
+(null)~
+Door 1 0 0 27151 30 30
+~
+(null)~
+Door 2 0 0 27147 30 30
+~
+(null)~
+Door 3 0 0 27143 30 30
+~
+(null)~
+End
+
+#27148
+Name Unsafe Spot~
+Descr
+Oh no!  The ice gives way here!  You tumble into the extremely cold water...
+ 
+        You try to swim......
+            Your arms moving wildly....
+                 The ice water begins to chill your blood...
+                       Your thoughts become unclear...
+~
+Flags 8192
+Sector 0
+Move_dir 3
+Movemess
+being pulled back to the shore by the strong current.
+~
+Door 3 0 0 27139 30 30
+~
+(null)~
+End
+
+#27149
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Reset M 27113 5 10
+Movemess
+(null)~
+Door 0 0 0 27148 30 30
+~
+(null)~
+Door 1 0 0 27154 30 30
+~
+(null)~
+Door 2 0 0 27150 30 30
+~
+(null)~
+Door 3 0 0 27145 30 30
+~
+(null)~
+End
+
+#27150
+Name Unsafe Spot~
+Descr
+Oh no!  The ice gives way here!  You tumble into the extremely cold water...
+ 
+        You try to swim......
+            Your arms moving wildly....
+                 The ice water begins to chill your blood...
+                       Your thoughts become unclear...
+~
+Flags 8198
+Sector 0
+Move_dir 3
+Movemess
+being pulled to shore by the strong current.
+~
+Door 3 0 0 27139 30 30
+~
+(null)~
+End
+
+#27151
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27151 30 30
+~
+(null)~
+Door 1 0 0 27155 30 30
+~
+(null)~
+Door 2 0 0 27151 30 30
+~
+(null)~
+Door 3 0 0 27147 30 30
+~
+(null)~
+End
+
+#27152
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 27153 30 30
+~
+(null)~
+End
+
+#27153
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27152 30 30
+~
+(null)~
+Door 1 0 0 27156 30 30
+~
+(null)~
+Door 2 0 0 27154 30 30
+~
+(null)~
+Door 3 0 0 27148 30 30
+~
+(null)~
+End
+
+#27154
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27153 30 30
+~
+(null)~
+Door 1 0 0 27158 30 30
+~
+(null)~
+Door 2 0 0 27155 30 30
+~
+(null)~
+Door 3 0 0 27149 30 30
+~
+(null)~
+End
+
+#27155
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27154 30 30
+~
+(null)~
+Door 1 0 0 27159 30 30
+~
+(null)~
+Door 2 0 0 27155 30 30
+~
+(null)~
+Door 3 0 0 27151 30 30
+~
+(null)~
+End
+
+#27156
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Reset M 27113 10 70
+Movemess
+(null)~
+Door 0 0 0 27156 30 30
+~
+(null)~
+Door 1 0 0 27156 30 30
+~
+(null)~
+Door 2 0 0 27158 30 30
+~
+(null)~
+Door 3 0 0 27153 30 30
+~
+(null)~
+End
+
+#27157
+Name Island Path~
+Descr
+You are on a narrow path, heading north towards the volcano.  Huge 
+vultures, swoop down, trying to grab onto you - but you avoid them by 
+ducking.  Cooled lava mounds make it hard to walk. 
+~
+Sector 0
+ExtraDescr mounds~
+Cooled lava form mounds, making it hard to walk.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 27201 30 30
+~
+(null)~
+Door 2 0 0 27195 30 30
+~
+(null)~
+End
+
+#27158
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues in all other
+directions, for as far as your eyes can see.  You continue to smell
+sulphur in the air. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27156 30 30
+~
+(null)~
+Door 1 0 0 27158 30 30
+~
+(null)~
+Door 2 0 0 27159 30 30
+~
+(null)~
+Door 3 0 0 27154 30 30
+~
+(null)~
+End
+
+#27159
+Name Underground Lake~
+Descr
+You gaze around and see that most of the lake is frozen, and safe to 
+travel on.  However, you see the areas which look melted and decide you
+should not navigate to those spots.  The lake continues north, south,
+and west.  To the east, the lake branches off to a small black river.
+The sulphur smell is very strong here.  You see a volcano in the distance.
+~
+Flags 2
+Sector 0
+ExtraDescr black river~
+The black river looks safe enough to travel on, if you have
+
+
+a boat of some sort -- swimming the river may be fatal.
+
+
+~
+ExtraDescr volcano~
+You can barely see it from here, but you CAN hear the ground tremble
+
+
+slightly.  You shiver.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 27158 30 30
+~
+(null)~
+Door 1 0 0 27179 30 30
+~
+(null)~
+Door 2 0 0 27159 30 30
+~
+(null)~
+Door 3 0 0 27155 30 30
+~
+(null)~
+End
+
+#27160
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusal.  Exits lead east and west.
+~
+Movemess
+(null)~
+Door 1 0 0 27161 30 30
+~
+(null)~
+End
+
+#27161
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and west.
+~
+Movemess
+(null)~
+Door 0 0 0 27162 30 30
+~
+(null)~
+Door 3 0 0 27160 30 30
+~
+(null)~
+End
+
+#27162
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 27163 30 30
+~
+(null)~
+Door 2 0 0 27161 30 30
+~
+(null)~
+End
+
+#27163
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead south and east.
+~
+Movemess
+(null)~
+Door 1 0 0 27164 30 30
+~
+(null)~
+Door 2 0 0 27162 30 30
+~
+(null)~
+End
+
+#27164
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead east and west.
+~
+Movemess
+(null)~
+Door 1 0 0 27165 30 30
+~
+(null)~
+Door 3 0 0 27163 30 30
+~
+(null)~
+End
+
+#27165
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and west.
+~
+Movemess
+(null)~
+Door 0 0 0 27166 30 30
+~
+(null)~
+Door 3 0 0 27164 30 30
+~
+(null)~
+End
+
+#27166
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and south.
+~
+Reset M 27229 1 100
+Reset O 27139 -5 100
+Movemess
+(null)~
+Door 0 0 0 27167 30 30
+~
+(null)~
+Door 2 0 0 27165 30 30
+~
+(null)~
+End
+
+#27167
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead south and west.
+~
+Movemess
+(null)~
+Door 2 0 0 27166 30 30
+~
+(null)~
+End
+
+#27168
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead east and west.
+~
+Reset O 27222 -5 80
+Movemess
+(null)~
+Door 3 0 0 27169 30 30
+~
+(null)~
+End
+
+#27169
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and east.
+~
+Reset M 27230 1 100
+Reset O 27106 21 50
+Reset O 27222 22 80
+Reset O 27131 11 100
+Reset O 27134 -1 100
+Movemess
+(null)~
+Door 0 0 0 27170 30 30
+~
+(null)~
+Door 1 0 0 27168 30 30
+~
+(null)~
+End
+
+#27170
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead south and west.
+~
+Reset O 27140 -5 100
+Reset O 27106 -3 2
+Reset O 27130 -3 2
+Movemess
+(null)~
+Door 2 0 0 27169 30 30
+~
+(null)~
+Door 3 0 0 27171 30 30
+~
+(null)~
+End
+
+#27171
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead east and west.
+~
+Movemess
+(null)~
+Door 1 0 0 27170 30 30
+~
+(null)~
+Door 3 0 0 27172 30 30
+~
+(null)~
+End
+
+#27172
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead south and east.
+~
+Reset O 27222 -5 40
+Movemess
+(null)~
+Door 1 0 0 27171 30 30
+~
+(null)~
+Door 2 0 0 27173 30 30
+~
+(null)~
+End
+
+#27173
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and south.
+~
+Reset O 27139 -5 100
+Movemess
+(null)~
+Door 0 0 0 27172 30 30
+~
+(null)~
+Door 2 0 0 27174 30 30
+~
+(null)~
+End
+
+#27174
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 27173 30 30
+~
+(null)~
+Door 2 0 0 27175 30 30
+~
+(null)~
+End
+
+#27175
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead north and east.
+~
+Movemess
+(null)~
+Door 0 0 0 27174 30 30
+~
+(null)~
+Door 1 0 0 27176 30 30
+~
+(null)~
+End
+
+#27176
+Name Path Circling Cave~
+Descr
+You are on a path of ice that circles the outside of the ice cave.
+You notice nothing unusual.  Exits lead east and west.
+~
+Reset O 27139 -5 100
+Movemess
+(null)~
+Door 0 0 0 27175 30 30
+~
+(null)~
+End
+
+#27177
+Name Hargar's Shoppe~
+Descr
+You step inside the small shop.  Hargar, the keeper of the shop, comes up
+to you a moment later, and inquires if you have anything to sell, or if
+you are buying.  He then proceeds to show you what is in his shop.
+~
+Sector 0
+Reset M 27105 1 100
+Reset O 14603 -1 100
+Reset O 14593 -1 100
+Reset O 14622 -1 100
+Reset O 27108 -1 100
+Movemess
+(null)~
+Door 1 0 0 27135 30 30
+~
+(null)~
+End
+
+#27179
+Name Black River~
+Descr
+A polluted, black river flows here, the stench is almost unbearable,
+and masks the sulphur smell.  On each side of you, a lava-like banking,
+where wierd looking plants grow.  The black and purple plants seem almost
+alive.  To the east you can make out a small island.  To the northeast,
+you can see a large volcano.  To the west is a frozen lake.
+~
+Sector 6
+ExtraDescr river~
+The black river is safe enough to travel on, as long as you stay
+
+
+in your boat -- swimming the river could prove fatal.
+
+
+~
+ExtraDescr black purple wierd plants~
+The black and purple plants almost seem alive.  They seem to move
+
+
+in the direction of your travel, like they are following you.
+
+
+~
+ExtraDescr volcano~
+You have a hard time focusing on it.  The black and purple plants
+
+
+somehow obscure your vision.
+
+
+~
+ExtraDescr banking lava~
+Too slipperly to climb.
+
+
+~
+Movemess
+(null)~
+Door 1 0 0 27180 30 30
+~
+(null)~
+Door 3 0 0 27159 30 30
+~
+(null)~
+End
+
+#27180
+Name Black River~
+Descr
+A polluted, black river flows here, the stench is almost unbearable,
+and masks the sulphur smell.  On each side of you, a lava-like banking,
+where wierd looking plants grow.  The black and purple plants seem almost
+alive.  To the east you can make out a small island.  To the northeast,
+you can see a large volcano.  To the west is a frozen lake.
+~
+Sector 6
+ExtraDescr island~
+The island looks like a lava pit.  The volcano in the distance gurgles
+
+
+at times.  You feel safe enough to continue your travels.
+
+
+~
+ExtraDescr river~
+The black river is safe enough to travel on, as long as you stay
+
+
+in your boat -- swimming the river could prove fatal.
+
+
+~
+ExtraDescr plants wierd black purple~
+The black and purple plants almost seem alive.  They seem to move
+
+
+in the direction of your travel, like they are following you.
+
+
+~
+ExtraDescr lake frozen~
+It looks safe to travel on.
+
+
+~
+ExtraDescr banking lava~
+You can't climb over that..surely.
+
+
+~
+Reset M 27111 1 75
+Movemess
+(null)~
+Door 1 0 0 27181 30 30
+~
+(null)~
+Door 3 0 0 27179 30 30
+~
+(null)~
+End
+
+#27181
+Name Black River~
+Descr
+The river ends here.  You blow your nose and continue onward.
+The river continues to the west.  A frozen lake is visible in
+the western direction.  To the northeast you see a volcano.
+~
+Sector 6
+ExtraDescr river~
+The black river is safe enough to travel on, as long as you stay
+
+
+in your boat -- swimming the river could prove fatal.
+
+
+~
+ExtraDescr volcano~
+It is hard to see the volcano, due to the tears in your eyes,
+
+
+caused by the sulphur fumes.  ah-CHOO, you sneeze again.
+
+
+~
+Reset M 27115 2 100
+Movemess
+(null)~
+Door 1 0 0 27182 30 30
+~
+(null)~
+Door 3 0 0 27180 30 30
+~
+(null)~
+End
+
+#27182
+Name Island Shore~
+Descr
+You are on the shore of the island of Mercurio.  This island was once
+inhabited by the ice warriors.  When the volcano erupted many moons
+ago, many of the warriors perished, while some others escaped the deadly
+lava flows.  Today, hideous, EVIL creatures roam this island, looking
+for beings to enslave.  You see a volcano to the north.
+~
+Flags 6
+Sector 6
+ExtraDescr volcano~
+Right now, you don't have time to stare at the volcano, you need
+
+
+to find a safe area to rest.
+
+
+~
+ExtraDescr volcano~
+Right now you do not have time to sightsee - you need to find a
+
+
+safe place to rest.
+
+
+~
+Movemess
+(null)~
+Door 1 0 0 27183 30 30
+~
+(null)~
+Door 3 0 0 27181 30 30
+~
+(null)~
+End
+
+#27183
+Name Island of Mercurio~
+Descr
+You are on a small underground island, which is now inhabited by
+evil creatures that roam the land.  Various remains of the earlier
+years, when ice warriors resided here, are scattered about, in
+total ruins.  You sense someone, or something, watching you.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27185 30 30
+~
+(null)~
+Door 2 0 0 27186 30 30
+~
+(null)~
+Door 3 0 0 27182 30 30
+~
+(null)~
+End
+
+#27184
+Name Island of Mercurio~
+Descr
+This island was once inhabited by ice warriors, a descendant family
+of the Frigidian people.  With the warriors gone, the land destroyed
+by the volacano eruption, only evil creatures roam this land.  Various
+remains lay scattered about - demolished clay buildings, burnt trees,
+and lots of hardened lava.  The cooled lava forms mounds in the soft
+ground, making it hard to walk or run easily.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27187 30 30
+~
+(null)~
+Door 2 0 0 27185 30 30
+~
+(null)~
+End
+
+#27185
+Name Island of Mercurio~
+Descr
+Many moons ago, when the volcano erupted, this island was devasted by
+deadly, hot-flowing lava.  Now that the ice warriors have gone, the
+evil creatures who reside here now, wreak havoc on visitors.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27184 30 30
+~
+(null)~
+Door 2 0 0 27183 30 30
+~
+(null)~
+End
+
+#27186
+Name Island of Mercurio~
+Descr
+Many moons ago, when the volcano erupted, this island was devasted by
+deadly, hot-flowing lava.  Now that the ice warriors have gone, the
+evil creatures who reside here now, wreak havoc on visitors.  You sense
+that someone, or something, is watching you.  You notice a solo hut,
+standing to the east.  Sounds can be heard from that direction.
+~
+Flags 4
+Sector 0
+Reset O 27121 -5 100
+Reset O 27121 -5 100
+Movemess
+(null)~
+Door 0 0 0 27183 30 30
+~
+(null)~
+Door 1 0 0 27190 30 30
+~
+(null)~
+End
+
+#27187
+Name Island of Mercurio~
+Descr
+Various remains lay scattered about - demolished clay buildings, burnt
+trees, and lots of hardened lava.  The cooled lava forms mounds in the
+soft ground, making it hard to walk or run easily.  You sense someone,
+or something is watching you.
+~
+Flags 4
+Sector 0
+ExtraDescr remains~
+Worthless now, since the devastation.
+
+
+~
+Movemess
+(null)~
+Door 2 0 0 27188 30 30
+~
+(null)~
+Door 3 0 0 27184 30 30
+~
+(null)~
+End
+
+#27188
+Name Island of Mercurio~
+Descr
+The Frigidian people use to haul supplies to the ice warriors every
+new moon, but since the massive destruction here, nothing seems to
+breathe, live, or even visit here.  You ponder your reasons for exploring
+this desolated place.  You hear a sound, and listen...
+~
+Flags 4
+Sector 0
+Reset M 27227 3 75
+Movemess
+(null)~
+Door 0 0 0 27187 30 30
+~
+(null)~
+Door 2 0 0 27189 30 30
+~
+(null)~
+End
+
+#27189
+Name Island of Mercurio~
+Descr
+In this area of the island, there was a building, now totally ruined,
+it is a reminder of the deadly force of an erupting volcano.  There is
+nothing even salvagable from this destruction.  You decide to move on.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27188 30 30
+~
+(null)~
+Door 1 0 0 27193 30 30
+~
+(null)~
+End
+
+#27190
+Name Inside the Small Hut~
+Descr
+You are in probably the only standing hut on this desolated island.
+A wooden table stands in the center.  Several decayed manuscripts
+clutter the clay floor.  A slab of flat rock rests in the back of the
+hut, more likely, a bed of some sort.  Though this hut looks clean,
+there is something missing.  You sense you are being watched.
+~
+Flags 67108870
+Sector 0
+Reset O 27131 -5 60
+Movemess
+(null)~
+Door 1 0 0 27194 30 30
+~
+(null)~
+Door 2 0 0 27199 30 30
+~
+(null)~
+Door 3 0 0 27186 30 30
+~
+(null)~
+End
+
+#27191
+Name Island of Mercurio~
+Descr
+Many moons ago, when the volcano erupted, this island was devasted by
+deadly, hot-flowing lava.  Now that the ice warriors have gone, the
+evil creatures who reside here now, wreak havoc on visitors.  You sense
+ that someone, or something, is watching you.  You notice a volcano to
+the north.  Sounds can be heard from that direction.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27195 30 30
+~
+(null)~
+Door 2 0 0 27192 30 30
+~
+(null)~
+End
+
+#27192
+Name Small Pond~
+Descr
+Amazing, a small pond, untouched by the flowing lava.  You take a sip
+and glance around.  The water taste fresh.  The pond seems to be bubbling,
+perhaps a spring funds it.  Other than the debris around the pond, this
+area seems untouched.  You see a volcano to the north.
+~
+Flags 4
+Sector 0
+ExtraDescr debris~
+All useless articles, not worth salvaging.
+
+
+~
+ExtraDescr pond~
+It looks untouched by the lava flow.
+
+
+~
+Reset O 27223 -5 100
+Movemess
+(null)~
+Door 0 0 0 27191 30 30
+~
+(null)~
+Door 1 0 0 27196 30 30
+~
+(null)~
+End
+
+#27193
+Name Island of Mercurio~
+Descr
+Many moons ago, when the volcano erupted, this island was devasted by
+deadly, hot-flowing lava.  Now that the ice warriors have gone, the
+evil creatures who reside here now, wreak havoc on visitors.  You sense
+that someone, or something, is watching you.
+~
+Flags 4
+Sector 0
+Reset M 27114 10 90
+Movemess
+(null)~
+Door 2 0 0 27194 30 30
+~
+(null)~
+Door 3 0 0 27189 30 30
+~
+(null)~
+End
+
+#27194
+Name Island of Mercurio~
+Descr
+You catch the sight of the mighty volcano, standing high above the
+ground, on this underground island.  The ground shakes slightly,
+and you decide to move alittle faster, debating if you should turn
+back or continue onward.  You hear a hideous scream, then silence.
+~
+Flags 4
+Sector 0
+Reset M 27225 5 75
+Reset M 27114 10 75
+Movemess
+(null)~
+Door 0 0 0 27193 30 30
+~
+(null)~
+Door 1 0 0 27198 30 30
+~
+(null)~
+Door 3 0 0 27190 30 30
+~
+(null)~
+End
+
+#27195
+Name Island of Mercurio~
+Descr
+You are on a small island path, which leads north to a huge tree.
+Ruins are scattered all about.  Branches and rocks clutter the path,
+making it hard to manuever easily.  You sense someone, or something
+is watching you.  You tense up, calm down, and continue onward.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27157 30 30
+~
+(null)~
+Door 3 0 0 27191 30 30
+~
+(null)~
+End
+
+#27196
+Name Island of Mercurio~
+Descr
+This island was devasted by deadly, hot-flowing lava from the volcano
+you can see from the north.  You start to panic as you hear chanting,
+along with the hideous laughter and screams you have been hearing as
+you travel along this island.  You debate going forward.  You see a
+small pond to the west.  An altar is the south.
+~
+Flags 4
+Sector 0
+Reset M 27114 10 75
+Movemess
+(null)~
+Door 2 0 0 27197 30 30
+~
+(null)~
+Door 3 0 0 27192 30 30
+~
+(null)~
+End
+
+#27197
+Name Sacrificial Altar~
+Descr
+The sight on the altar turns your stomache, you look away.  Terror
+overcomes you for a moment, then subsides.  Are they animal or human
+remains?  The bones are burnt beyond recognition.  You hear hideous
+laughter.  You yearn to leave, then....you hear footsteps...
+~
+Flags 8388612
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27196 30 30
+~
+(null)~
+Door 2 0 0 27198 30 30
+~
+(null)~
+End
+
+#27198
+Name Island of Mercurio~
+Descr
+The Frigidian people use to haul supplies to the ice warriors every
+new moon, but since the massive destruction here, nothing seems to
+breathe, live, or even visit here.  You see an altar to the north.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27197 30 30
+~
+(null)~
+Door 3 0 0 27194 30 30
+~
+(null)~
+End
+
+#27199
+Name Inside the Small Hut~
+Descr
+The backroom of the hut seems to be empty, except for a few boxes,
+crates laying about, and some rusted tools are scattered on the floor.
+Then you notice the blood stains!  Is it human or animal blood?
+You panic and start to breathe hard.  You settle down and look around
+again.  Though this hut looks clean, there is something missing.  You
+hear a rustling noise from in back of the hut...
+~
+Flags 4
+Sector 0
+Reset O 27118 -5 20
+Reset M 27106 1 75
+Reset O 14574 21 30
+Movemess
+(null)~
+Door 0 0 0 27190 30 30
+~
+(null)~
+End
+
+#27200
+Name A Dusty Attic~
+Descr
+You cough as you enter the attic.  What dust!  This place hasn't been
+cleaned for ages, you guess.  Boxes, shelves, and various vases of 
+different colors occupy the space here.  You hear some rustling between
+the boxes and the junk in the western corner, but are not alarmed.
+You shiver from the cold, stale air. 
+~
+Sector 0
+Reset O 27128 -5 15
+Reset O 27130 -3 2
+Reset O 27127 -3 10
+Reset O 27125 -3 10
+Reset O 27119 -3 3
+Reset O 27117 -3 10
+Reset O 27104 -5 100
+Reset M 27110 1 100
+Reset O 27129 -1 50
+Movemess
+(null)~
+End
+
+#27201
+Name Island Path~
+Descr
+The path is very narrow here.  To the north is a volcano, while to the 
+south, you hear hideous laughter and screams coming from the island. The 
+air here smells of sulphur.  The vultures continue to annoy you. 
+~
+Flags 4
+Sector 0
+Reset M 27117 3 100
+Reset M 27117 3 100
+Movemess
+(null)~
+Door 0 0 0 27202 30 30
+~
+(null)~
+Door 2 0 0 27157 30 30
+~
+(null)~
+End
+
+#27202
+Name An Ancient Tree on an Island Path~
+Descr
+You are on a narrow path leading to a volcano.  An ancient tree stands 
+here rising high in the air.  It is possible to climb, but ponder what 
+may be up there.  Cautiously, you move on.  The vultures, for now, at 
+least, have ceased trying to grab you.
+~
+Flags 6
+Sector 0
+ExtraDescr tree~
+It looks climable.
+
+
+~
+Reset O 27135 -5 100
+Movemess
+(null)~
+Door 0 0 0 27203 30 30
+~
+(null)~
+Door 2 0 0 27201 30 30
+~
+(null)~
+End
+
+#27203
+Name Island Path~
+Descr
+The island path leads north and south.  To the north, you see that this 
+path merges with a trail, leading up to a volcano; while south you see a 
+small island that looks devastated.  The sulphur odor is strong.
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27204 30 30
+~
+(null)~
+Door 2 0 0 27202 30 30
+~
+(null)~
+End
+
+#27204
+Name Volcano Trail~
+Descr
+You are on a trail leading north to a volcano.  The trail is covered
+with fallen branches from the trees, which grow off to the east and west.
+The trail seems to have been burnt by intense heat.
+~
+Sector 0
+ExtraDescr trees~
+Some of the trees look dead.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 27206 30 30
+~
+(null)~
+Door 1 0 0 18500 0 0
+~
+~
+Door 2 0 0 27203 30 30
+~
+(null)~
+End
+
+#27205
+Name Atop an Ancient Tree~
+Descr
+You are on a strong branch, atop an ancient tree.  Looking south you see a 
+small island.  To the southwest you see a frozen lake.  You can see from the 
+viewpoint, that the volcano to the north, looks inactive. Surveying the 
+grounds in your immediate area, you find the most of the land has been burnt 
+by intense heat.  Trees stand decayed or growing off to the east and west.  
+You see movement from the island.  You notice there is no wind blowing.
+~
+Flags 1188
+Sector 0
+Reset M 27117 4 75
+Reset O 27136 -5 100
+Movemess
+(null)~
+End
+
+#27206
+Name Volcano Trail~
+Descr
+The volcano trail continues to the north, towards an inactive volcano.
+From high above your head, vultures fly, often attacking each other.
+Sounds can be heard up ahead, and south of you, where the volcano trail
+merges to an island path.  This trail looks like it has been travelled
+on a great deal.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27207 30 30
+~
+(null)~
+Door 1 0 0 18007 0 0
+~
+~
+Door 2 0 0 27204 30 30
+~
+(null)~
+End
+
+#27207
+Name Volcano Trail~
+Descr
+The volcano trail continues to the north, towards an inactive volcano.
+From high above your head, vultures fly, often attacking each other.
+Sounds can be heard up ahead, and south of you, where the volcano trail
+merges to an island path.  This trail looks like it has been travelled
+on a great deal.
+~
+Sector 0
+Reset M 27117 5 75
+Movemess
+(null)~
+Door 0 0 0 27208 30 30
+~
+(null)~
+Door 1 0 0 18026 0 0
+~
+~
+Door 2 0 0 27206 30 30
+~
+(null)~
+End
+
+#27208
+Name Volcano Trail~
+Descr
+The volcano trail leads north to the base of the volcano.  You see an 
+ancient tree rising high into the air, to the south.  Sounds can be heard 
+up ahead, and south of you, where the volcano trail merges to an island 
+path.  Vultures fly high above your head, often attacking each other.
+~
+Flags 2
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27209 30 30
+~
+(null)~
+Door 1 0 0 18027 0 0
+~
+~
+Door 2 0 0 27207 30 30
+~
+(null)~
+End
+
+#27209
+Name Base of the Volcano~
+Descr
+You are at the base of a large volcano.  You can climb up, safely toward 
+the top of the volcano, or return to the volcano path to the south. 
+Vultures fly high above your head, often attacking each other.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 18028 0 0
+~
+~
+Door 2 0 0 27208 30 30
+~
+(null)~
+Door 4 0 0 27210 30 30
+~
+(null)~
+End
+
+#27210
+Name Climbing the Volcano~
+Descr
+You are on a large, inactive volcano.  You can climb up toward the top
+of the volcano, or climb down to the base.  You watch your steps, for
+the mounds created by cooling lava, would surely trip you, making you
+fall flat on your face.  You see an island to the south.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27211 30 30
+~
+(null)~
+Door 5 0 0 27209 30 30
+~
+(null)~
+End
+
+#27211
+Name Halfway on the Volcano~
+Descr
+You are on a large, inactive volcano.  You can climb up toward the top
+of the volcano, or climb down to the base.  You watch your steps, for
+the mounds created by cooling lava, would surely trip you, making you
+fall flat on your face.  You see an island to the south.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27212 30 30
+~
+(null)~
+Door 5 0 0 27210 30 30
+~
+(null)~
+End
+
+#27212
+Name Top of the Volcano~
+Descr
+After hours of hours of tedious climbing, you have reached the top
+of this inactive volcano.  From here, you can safely climb down into
+volcano, or move south, climbing down to the base of the volcano.
+The sulphur odor is almost unbearable here.
+~
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 27211 30 30
+~
+(null)~
+Door 5 0 0 27213 30 30
+~
+(null)~
+End
+
+#27213
+Name Climbing Down into the Volcano~
+Descr
+You are climbing down into an inactive volcano.  From this advantage
+point, you can see movement below.  Several adventurers pass you, heading
+out of the volcano, they greet you, and move along.  You can climb up,
+out of the volcano, to the top, or continue downward.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27212 30 30
+~
+(null)~
+Door 5 0 0 27214 30 30
+~
+(null)~
+End
+
+#27214
+Name Climbing Down into the Volcano~
+Descr
+You are climbing down into an inactive volcano.  From this advantage
+point, you can see movement below.  There is little heat, but the odor
+of sulphur is awful.  You can climb up, heading out of the volcano,
+or continue downward.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27213 30 30
+~
+(null)~
+Door 5 0 0 27215 30 30
+~
+(null)~
+End
+
+#27215
+Name Climbing Down into the Volcano~
+Descr
+You are climbing down into an inactive volcano.  From this advantage
+point, you can see movement below.  There is little heat, but the odor
+of sulphur is awful.  You can climb up, heading out of the volcano,
+or continue downward.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27214 30 30
+~
+(null)~
+Door 5 0 0 27216 30 30
+~
+(null)~
+End
+
+#27216
+Name Halfway Down into the Volcano~
+Descr
+You are climbing down into an inactive volcano.  From this advantage
+point, you can see movement below.  There is little heat, but the odor
+of sulphur is awful.  You can climb up, heading out of the volcano,
+or continue downward.
+~
+Flags 134217732
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27215 30 30
+~
+(null)~
+Door 5 0 0 27217 30 30
+~
+(null)~
+End
+
+#27217
+Name Near the Bottom inside the Volcano~
+Descr
+You are climbing down into an inactive volcano.  From this advantage
+point, you can see movement below.  There is little heat, but the odor
+of sulphur is awful.  You can climb up, heading out of the volcano,
+or continue downward.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 4 0 0 27216 30 30
+~
+(null)~
+Door 5 0 0 27218 30 30
+~
+(null)~
+End
+
+#27218
+Name At the Bottom inside the Volcano~
+Descr
+You are at the bottom of the inactive volcano.  There is little heat, 
+but the odor of sulphur is awful.  You can climb up, heading out of the
+volcano, or travel east along a passageway.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27220 30 30
+~
+(null)~
+Door 4 0 0 27217 30 30
+~
+(null)~
+End
+
+#27219
+Name Inside a volcano~
+Descr
+You are inside, on the west side, of an inactive volcano.  You are at the 
+very bottom.  You can see a trail which leads east and west.  At various
+times you can hear muffled voices, that sound human.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27221 30 30
+~
+(null)~
+Door 3 0 0 27220 30 30
+~
+(null)~
+End
+
+#27220
+Name Inside a volcano~
+Descr
+You are inside, on the southwest side, of an inactive volcano.  You are 
+at the very bottom.  You can see a trail which leads east and west.  
+Sometimes, other adventurers pass you, heading for the exit, to the west. 
+~
+Flags 4
+Sector 0
+Reset O 27134 -5 40
+Movemess
+(null)~
+Door 1 0 0 27219 30 30
+~
+(null)~
+Door 3 0 0 27218 30 30
+~
+(null)~
+End
+
+#27221
+Name Inside a volcano~
+Descr
+You are inside, on the south side, of an inactive volcano.  You are at 
+the very bottom.  You can see trails which lead north, east and west.  
+Strange noises can be heard at times.
+~
+Sector 0
+Reset O 27134 -5 70
+Movemess
+(null)~
+Door 0 0 0 27228 30 30
+~
+(null)~
+Door 1 0 0 27222 30 30
+~
+(null)~
+Door 3 0 0 27219 30 30
+~
+(null)~
+End
+
+#27222
+Name Inside a volcano~
+Descr
+You are inside, on the southeast side, of an inactive volcano.  You are 
+at the very bottom.  You can see trails which lead north and west. 
+Strange writings are etched on the wall. 
+~
+Flags 4
+Sector 0
+ExtraDescr writings~
+It appears someone has etched the following on the stone wall:
+
+
+NWNWSW do fl ENN ex
+
+
+~
+Reset M 27221 10 75
+Movemess
+(null)~
+Door 0 0 0 27227 30 30
+~
+(null)~
+Door 3 0 0 27221 30 30
+~
+(null)~
+End
+
+#27223
+Name Inside a volcano~
+Descr
+You are inside, in the center, of an inactive volcano.  You are at the 
+very bottom.  You can see a trail which lead north.  There is a room 
+beyond a door here, to the west.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27226 30 30
+~
+(null)~
+Door 3 7 27138 27224 55 55
+~
+door~
+End
+
+#27224
+Name Torture Chamber~
+Descr
+You are in a large room, inside, on the western side, of an inactive 
+volcano.  There is a large, stone slab in the center of the room.  
+Knives, picks and other sharp instruments lay next to the slab, on a 
+stone table.  There is an eerie feeling you get in this room.  There
+is a door to the east.
+~
+Flags 16777220
+Sector 0
+ExtraDescr slab~
+The slab is about 10' x 4', and is made entirely from stone rock.
+
+
+Examining it closer, you notice blood stains and bone fragments.
+
+
+~
+ExtraDescr table~
+This chunk of stone rock forms a table-like structure.  It is blood
+
+
+stained.  Instruments, also blood stained, lay upon it.  Examining it
+
+
+closer, you notice a severed finger still wiggling.
+
+
+~
+ExtraDescr instruments picks knives~
+They are too large for your use.
+
+
+~
+ExtraDescr room~
+The room is cold and clamy.  You sense evil here.
+
+
+~
+ExtraDescr finger~
+It is pointing at you, as it jerks around ontop the stone table.
+
+
+~
+Reset M 27220 1 75
+Reset O 27112 22 40
+Movemess
+(null)~
+Door 1 7 27138 27223 55 55
+~
+door~
+End
+
+#27225
+Name Inside a volcano~
+Descr
+You are inside, on the northwest side, of an inactive volcano.  You are
+at the very bottom.  You can see trails which lead south and east.
+Noises can be heard from the east.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 27226 30 30
+~
+(null)~
+Door 2 0 0 27223 30 30
+~
+(null)~
+End
+
+#27226
+Name Inside a volcano~
+Descr
+You are inside, on the northwest side, of an inactive volcano.  You are
+at the very bottom.  You can see trails which lead in all directions.
+Noises can be heard from the south.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27222 30 30
+~
+(null)~
+Door 1 0 0 27227 30 30
+~
+(null)~
+Door 2 0 0 27228 30 30
+~
+(null)~
+Door 3 0 0 27225 30 30
+~
+(null)~
+End
+
+#27227
+Name Inside a volcano~
+Descr
+You are inside, on the north side, of an inactive volcano.  You are at 
+the very bottom.  You can see trails which lead east, west and south.  
+Noises can be heard from the north. 
+~
+Flags 4
+Sector 0
+Reset M 27224 1 75
+Reset O 27138 -5 80
+Movemess
+(null)~
+Door 1 0 0 27222 30 30
+~
+(null)~
+Door 2 0 0 27222 30 30
+~
+(null)~
+Door 3 0 0 27221 30 30
+~
+(null)~
+End
+
+#27228
+Name Inside a volcano~
+Descr
+You are inside, on the north side, of an inactive volcano.  You are
+at the very bottom.  You can see trails which lead in all directions.
+Noises can be heard from the west.
+~
+Flags 134217732
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 27226 30 30
+~
+(null)~
+Door 1 0 0 27227 30 30
+~
+(null)~
+Door 2 0 0 27221 30 30
+~
+(null)~
+Door 3 0 0 27225 30 30
+~
+(null)~
+End
+
+#27258
+Name ~
+Descr
+~
+End
+
+#0
+
+
+
+#$

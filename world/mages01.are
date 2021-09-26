@@ -1,0 +1,358 @@
+#AREADATA 
+Name Good Mage's Cult~
+Repop [1;30mAn aura of magic fills the air. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 2150 2199
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#2198
+Name artesia~
+Short artesia~
+Long 
+Artesia, the mighty wizard, is here working on some new spells.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 258
+Affect_By 50331784
+Money 300
+Level 400
+Sex 2
+MobType 0
+Hp 20
+Guard 0
+ASklTaught 0 22
+ASklTaught 1 13
+ASklTaught 2 137
+ASklTaught 3 115
+ASklTaught 4 87
+ASklTaught 5 93
+ASklTaught 6 153
+ASklTaught 7 138
+ASklTaught 8 139
+ASklTaught 9 17
+End
+
+#2199
+Name statue mage~
+Short a statue of a mighty wizard~
+Long 
+A large statue of a powerful wizard is here glaring down upon you.
+~
+Descr
+~
+AMax 1
+NHeight 90
+ActBits 2
+Affect_By 50332296
+Level 500
+Sex 1
+MobType 15
+Hp 30
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#2150
+Name token mage's sect~
+Short a Mage's cult token~
+Descr
+A Mage's cult token is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 5000
+End
+
+#2196
+Name fountain~
+Short mage's fountain~
+Descr
+A magical fountain is floating about the room.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2197
+Name sign~
+Short sign~
+Descr
+A sign is here explaining entrance into the Virtuoso cult.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the mages sect. Here are the things you will need in order to
+
+join our sect: You must first have obtained a token from an area seller. If
+
+you have not yet obtained level 30, you may give that token to the statue
+
+for membership into our sect. 
+
+ 
+
+Once you are a member, you may say "enter sect" for safe passage into our halls.
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#2150
+Name A Magical Clearing~
+Descr
+A mystical part of the Forests of Avalon, this clearing was created by
+pure magic. The huge trees wrap around in a perfect circle with a small path
+off to the west. 
+~
+Door 0 0 0 17659 0 0
+~
+~
+Door 3 0 0 2165 0 0
+~
+~
+End
+
+#2151
+Name Before the Cult of the Virtuoso~
+Descr
+A huge statue of an ancient wizard stands before you. Made from the
+finest stone anywhere this appears to be the strongest statue you've ever
+seen. I wonder what kind of damage this statue could do if it were alive? 
+Wait a minute, it IS alive!  
+~
+Flags 16384
+Reset M 2199 1 100
+Reset O 2197 -5 100
+Door 0 0 0 2165 0 0
+~
+~
+End
+
+#2152
+Name Before The Tower of Magic~
+Descr
+Could this be the great tower of magic you have heard stories about?  For
+some reason you've never seen it before; could it only be visible to
+members?  Perhaps you should take a closer look. 
+~
+Flags 1156
+Door 0 0 0 2153 0 0
+~
+~
+Door 2 0 0 2151 0 0
+~
+~
+End
+
+#2153
+Name Base of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Reset O 2149 -5 100
+Door 2 0 0 2152 0 0
+~
+~
+Door 4 0 0 2154 0 0
+~
+~
+Door 5 0 0 2155 0 0
+~
+~
+End
+
+#2154
+Name Second Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 132
+Door 1 23 0 2163 99 99
+~
+door~
+Door 3 23 0 2162 99 99
+~
+door~
+Door 4 0 0 2156 0 0
+~
+~
+Door 5 0 0 2153 0 0
+~
+~
+End
+
+#2155
+Name A Mage's Study~
+Descr
+This room houses the most powerful spells in all the land. Stacks and
+stacks of books lay on the floor as this room appears to have been the study
+hall for the most powerful mages of all time. Perhaps you should take some
+time to read one of these works. 
+~
+Flags 3163268
+Reset O 101 -5 100
+Door 4 0 0 2153 0 0
+~
+~
+End
+
+#2156
+Name Third Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Door 4 0 0 2157 0 0
+~
+~
+Door 5 0 0 2154 0 0
+~
+~
+End
+
+#2157
+Name Fourth Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Door 1 23 0 2161 99 99
+~
+door~
+Door 3 23 0 2160 99 99
+~
+door~
+Door 4 0 0 2158 0 0
+~
+~
+Door 5 0 0 2156 0 0
+~
+~
+End
+
+#2158
+Name Atop the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Door 0 0 0 2159 0 0
+~
+~
+Door 5 0 0 2157 0 0
+~
+~
+End
+
+#2159
+Name Artesia's Chambers~
+Descr
+Artesia, the great sorcerer, has retired to these halls in order to train
+those in the art of sorcery. Should you ever wish to anger her and leave the
+sect she has built, say "leave sect now" and she will be happy to cast you
+from these halls forever. 
+~
+Flags 1156
+Reset M 2198 1 100
+Door 2 0 0 2158 0 0
+~
+~
+End
+
+#2160
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 1 0 0 2157 0 0
+~
+~
+End
+
+#2161
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 3 0 0 2157 0 0
+~
+~
+End
+
+#2162
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 1 0 0 2154 0 0
+~
+~
+End
+
+#2163
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 3 0 0 2154 0 0
+~
+~
+End
+
+#2165
+Name A Mystical Path~
+Descr
+A path of magic will either lead you to your destiny or your demise. Do
+you dare continue down this path?  
+~
+Door 1 0 0 2150 0 0
+~
+~
+Door 2 0 0 2151 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

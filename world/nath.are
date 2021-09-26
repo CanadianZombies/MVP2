@@ -1,0 +1,3213 @@
+#AREADATA 
+Name The Skavens' Domain~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear someone whistling in the dark.
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Divit~
+VNUMs 40601 40800
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#40603
+Name Skaven Guard~
+Short Skaven Guard~
+Long 
+A guard clad in rags stands here, glaring out from beneath his hood.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 134283816
+Alignment -900
+Money 51
+Level 51
+Sex 1
+MobType 0
+Guard 4
+RaceHate 1024
+ArmorClass 20
+End
+
+#40604
+Name Skaven Citizen~
+Short Skaven Citizen~
+Long 
+A Ratlike citizen stares up at you with beady red eyes.
+~
+Descr
+You are standing in what seems to be the center of this large camp
+stay warm.
+~
+AMax 4
+NHeight 0
+ActBits 17
+Alignment -500
+Money 300
+Level 30
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 1
+End
+
+#40606
+Name Skaven Citizen~
+Short a skaven citizen~
+Long 
+A citizen huddles by the fire here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -500
+Money 300
+Level 30
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 1
+End
+
+#40607
+Name Skaven Shaman~
+Short a skaven shaman~
+Long 
+A Shaman waves his skull-tipped staff in the air.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1048576
+Affect_By 640
+Alignment -1000
+Money 38
+Level 38
+Sex 1
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40608
+Name Skavan Rat Rider~
+Short a skaven rat-rider~
+Long 
+A Skaven rider is here looking for his mount.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 536870929
+ActBits3 131076
+Affect_By 552
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard -95
+Spec spec_warrior
+RaceHate 1
+ArmorClass 10
+End
+
+#40609
+Name Large Battle Rat~
+Short a battle rat~
+Long 
+A huge rat is here, glaring darkly in your direction.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 536879121
+ActBits3 4
+Affect_By 512
+Alignment -500
+Money 13
+Level 13
+Sex 1
+MobType 7
+Guard -96
+RaceHate 69337601
+End
+
+#40610
+Name Roft~
+Short Roft~
+Long 
+Roft stands here, with a bored look on his face.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 520
+Alignment -2000
+Money 10000
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Shop    0   5   0   0   0 145 35 1 24
+Shopd2 5
+Shopd3 4
+ArmorClass 400
+End
+
+#40611
+Name Tinker Gnome Slave~
+Short a tinkergnome slave~
+Long 
+A short tinkergnome sits at his work area chained to the ground here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 1000
+Money 5
+Level 5
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40612
+Name shady figure slave driver~
+Short a slave driver~
+Long 
+A Shady figure stands in the corner glaring at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -5000
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 1537
+End
+
+#40613
+Name Fliff ~
+Short Fliff~
+Long 
+Fliff stands here, checking shelves and watching for shoplifting skaven.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -1000
+Money 5000
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+Shop    0  19  17  18   2 1 50 1 24
+Shopd2 5
+Shopd3 4
+ArmorClass 0
+End
+
+#40614
+Name Apprentice skaven shaman~
+Short a shaman apprentice~
+Long 
+A skaven stands here, shaking his staff at you!
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 49
+Affect_By 512
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40615
+Name beast A skaven thief~
+Short a skaven thief~
+Long 
+A shady figure runs in and out of the shadows here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 49
+Affect_By 512
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#40616
+Name A skaven warrior~
+Short a skaven warrior~
+Long 
+A taller skaven stands here, wielding a light sword.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 49
+Affect_By 512
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+ArmorClass 98
+End
+
+#40617
+Name Buff skaven warrior~
+Short a skaven warrior~
+Long 
+An extremely skilled skaven warrior stands here, picking his teeth.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ArmorClass 96
+End
+
+#40618
+Name skaven rags shaman~
+Short a skaven shaman~
+Long 
+A Skaven dressed in rags stands here, his hands glowing with energy.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 33
+Affect_By 512
+Alignment -500
+Money 300
+Level 35
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40619
+Name thief black guard blackguard~
+Short a skaven blackguard~
+Long 
+An agile thief stands here, obviously not liking your attention.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 512
+Alignment -500
+Money 15
+Level 15
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#40620
+Name Skaven monk~
+Short a skaven monk~
+Long 
+A robed monk is here walking towards the guildhouse.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -500
+Money 14
+Level 14
+Sex 2
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40621
+Name A skaven Monk~
+Short a skaven monk~
+Long 
+A monk stands here staring at you from under a deep red hood.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment -500
+Money 12
+Level 12
+Sex 1
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40622
+Name tinkergnome gnome unhappy~
+Short a tinkergnome~
+Long 
+An unhappy gnome sits at his forge chained to the weight behind him.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097155
+Alignment 1000
+Money 36
+Level 36
+Sex 2
+MobType 0
+Guard 0
+End
+
+#40623
+Name young skaven~
+Short a young skaven~
+Long 
+A young skaven runs around in the tent carrying broken armor and weapons.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -500
+Money 1
+Level 1
+MobType 0
+Guard 0
+End
+
+#40624
+Name skaven citizen woman PRTCT~
+Short a skaven healer~
+Long 
+A small skaven woman runs around attending to the wounded.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 128
+Alignment -500
+Money 14
+Level 14
+Sex 2
+MobType 0
+Guard 0
+End
+
+#40625
+Name Trylox Master Trainer~
+Short Trylox~
+Long 
+Trylox sits in his gnarled chair, located in the darkest corner.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 512
+Alignment -500
+Money 300
+Level 40
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40626
+Name Tyud Armorer~
+Short Tyud~
+Long 
+Tyud is at his workbench mending together scraps of armor.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097155
+Affect_By 552
+Alignment -500
+Money 300
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Shop    0   9   0   0   0 175 30 1 24
+Shopd2 5
+Shopd3 4
+ArmorClass -1
+End
+
+#40627
+Name Female skaven citizen~
+Short a skaven citizen~
+Long 
+A female skaven citizen stands here, trying not to be noticed.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 512
+Alignment -500
+Money 10
+Level 10
+Sex 2
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40628
+Name Nethinder the master shaman~
+Short Nethinder~
+Long 
+A very old shaman rests his ancient bones in a huge jewelled chair.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 520
+Alignment -500
+Money 300
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40629
+Name Ginth the master warrior~
+Short Ginth~
+Long 
+Ginth sits at a huge banquet table here, drinking a mug of ale as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Alignment -500
+Money 300
+Level 40
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#40630
+Name minotaur warrior guard~
+Short a minotaur guard~
+Long 
+A towering minotaur warrior stands next to Nethinder, obviously a guard.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 4
+Affect_By 520
+Alignment -100
+Money 95
+Level 45
+MobType 0
+Guard -76
+Spec spec_warrior
+End
+
+#40631
+Name A Huge Minotaur Guard~
+Short a minotaur guard~
+Long 
+A huge minotaur rests in the small living cove dug into the west wall.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 4
+Affect_By 512
+Alignment -1000
+Money 64
+Level 64
+Sex 1
+MobType 0
+Guard -76
+End
+
+#40632
+Name Skaven drunk citizen ~
+Short a drunken skaven~
+Long 
+A skaven citizen lies on the ground here, passed out with a smile on his face.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 1000
+Money 3
+Level 3
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40633
+Name Drunk Skaven Soldier~
+Short a drunken skaven~
+Long 
+A skaven soldier lies here, passed out or beaten senseless.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 2000
+Money 6
+Level 6
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40634
+Name A skaven citizen~
+Short a skaven citizen~
+Long 
+A citizen of Nath sits here, listening to the music and enjoying himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 500
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+RaceHate 513
+End
+
+#40635
+Name Skaven citizen~
+Short a skaven citizen~
+Long 
+A Skaven sits here at his table talking with his friends.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 512
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+RaceHate 513
+End
+
+#40636
+Name Skaven Brawler Bar Fighter~
+Short a skaven brawler~
+Long 
+A large skaven stands here, looking for a fight to jump into.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 71303171
+Alignment -1000
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40637
+Name Female Skaven Citizen PRTCT~
+Short a skaven citizen~
+Long 
+A female citizen of Nath stands here, avoiding the eyes of males.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Alignment 1000
+Money 10
+Level 10
+Sex 2
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40638
+Name Skaven Soldier PRTCT~
+Short a skaven soldier~
+Long 
+A skaven sits at a table talking with his allies about the day's events.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 1
+Alignment -500
+Money 15
+Level 15
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40639
+Name Skaven Bar Tender~
+Short Blip~
+Long 
+A confused looking skaven stands behind the bar staring into space.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -1000
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Shop    0  17   0   0   0 100 10 1 24
+Shopd2 5
+Shopd3 4
+RaceHate 1
+End
+
+#40640
+Name Skaven Fiddler PRTCT~
+Short a skaven fiddler~
+Long 
+A short skaven stands here plays his fiddle to the enjoyment of others.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40641
+Name short skaven child~
+Short a skaven child~
+Long 
+A very short skaven sneaks along in the shadows.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Affect_By 512
+Alignment 100
+Money 4
+Level 4
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+RaceHate 1
+End
+
+#40642
+Name Battle Rat~
+Short a battle rat~
+Long 
+A huge rat is here, glaring darkly at you.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 536870915
+Affect_By 552
+Alignment -400
+Money 12
+Level 12
+Sex 1
+MobType 0
+Guard 0
+RaceHate 1
+ArmorClass 80
+End
+
+#40643
+Name Shirm the Magic fool~
+Short Shirm~
+Long 
+Shirm sits at his desk, watching over his apprentices.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -200
+Money 10000
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Shop    0  21   4   3  10 133 30 1 24
+Shopd2 5
+Shopd3 4
+End
+
+#40644
+Name Minotaur bum~
+Short a homeless minotaur~
+Long 
+A huge figure lays here, leaning against the wall and feeding the rats.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -1000
+Money 41
+Level 41
+Sex 1
+MobType 0
+Guard 0
+ArmorClass 80
+End
+
+#40645
+Name Huge Minotaur Guard~
+Short a huge minotaur~
+Long 
+A huge minotaur clad in black armor stands at the gate here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -500
+Money 300
+Level 40
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#40646
+Name Skaven god demon ~
+Short the great skaven demon~
+Long 
+A huge skaven demon lies on his pillow, emitting an evil glow.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Alignment -500
+Money 300
+Level 50
+Sex 1
+MobType 0
+Guard 0
+ArmorClass -100
+End
+
+#40648
+Name Human street sweeper~
+Short a street sweeper~
+Long 
+A poorly dressed human stands here, pushing a garbage can.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 21
+Affect_By 512
+Alignment 500
+Money 4
+Level 4
+Sex 1
+MobType 0
+Guard 0
+Spec spec_janitor
+End
+
+#40649
+Name Skaven Bounty Hunter~
+Short a bounty hunter~
+Long 
+A shady skaven stands here, clad in a robe and armed with a sword.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+ActBits3 2097152
+Affect_By 552
+Money 13
+Level 13
+Sex 1
+MobType 0
+Guard 0
+RaceHate 5
+End
+
+#40650
+Name A Skaven Shaman Guard Skavenguard~
+Short a skaven guard~
+Long 
+A dark guard stands here, wielding his sword with incredible skill.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 520
+Alignment -500
+Money 24
+Level 24
+Sex 1
+MobType 0
+Guard 0
+RaceHate 1
+End
+
+#40651
+Name Iyut the Banker~
+Short Iyut~
+Long 
+Iyut, a small, but very smart skaven jumps from one foot to another here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131075
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40652
+Name Beaten gnome~
+Short a beaten gnome~
+Long 
+A small gnome is here, running from the skaven who are causing him pain.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Alignment 300
+Money 5
+Level 5
+Sex 1
+MobType 3
+Guard 0
+End
+
+#40653
+Name veteran war skaven~
+Short a veteran war-skaven~
+Long 
+A middle-aged, scar covered skaven warrior glances cautiously at you.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Affect_By 520
+Alignment -200
+Money 44
+Level 44
+Sex 1
+Guard 0
+Spec spec_warrior
+End
+
+#40654
+Name Gilly the Butcher~
+Short Gilly~
+Long 
+Gilly stands here, staring at you with beady red eyes.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -1000
+Money 200
+Level 200
+Sex 2
+Guard 0
+Shop    0  19   0   0   0 100 20 1 24
+Shopd2 5
+Shopd3 4
+End
+
+#40655
+Name A human adventurer~
+Short a human adventurer~
+Long 
+A wounded human rests here, obviously left behind in a raid.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+Affect_By 520
+Alignment 400
+Money 28
+Level 28
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#40656
+Name Owl~
+Short an owl~
+Long 
+An owl swoops down from a tree to catch a small mouse.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 512
+Money 3
+Level 3
+Sex 1
+MobType 13
+Guard 0
+End
+
+#40657
+Name A small rat~
+Short a small rat~
+Long 
+A rat scurries across the path in front of you.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Money 3
+Level 3
+Sex 1
+MobType 7
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#40603
+Name A Riding Lance~
+Short [1m[30mA [0m[36mRiding [1m[30mLance[0m~
+Descr
+A finely made lance shines in the dirt here.
+[0;36m~
+Type 5
+Extra 1073873408
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 2 5 0
+Weight 1
+Cost 100
+Affect 19 2 1 0 0
+End
+
+#40605
+Name Skaven War Lance~
+Short [31mA Skaven [1m[31mWar [0m[31mLance[0m~
+Descr
+A small, shimmering [31mwar[36m lance lies here.
+[0;36m~
+Type 5
+Extra 131584
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 11 0 0 0 2 7 0
+Weight 4
+Cost 2500
+Affect 18 8 1 0 0
+End
+
+#40606
+Name Rags~
+Short a set of rags~
+Descr
+A pile of badly constructed rags lie here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 30 30 0 0
+Weight 0
+Cost 100
+End
+
+#40607
+Name Bonfire~
+Short [37mA huge [1m[31mfire[37m[0m roars and crackles brightly.~
+Descr
+[37mA huge [1m[31mfire[37m[0m roars and crackles brightly.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40608
+Name Skull tipped staff~
+Short a [1m[37mskull[0m tipped staff~
+Descr
+A long staff with a small skull on the end of it lies here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 18 0 7 0 0 0 3 5 0
+Weight 1
+Cost 2000
+End
+
+#40609
+Name Skaven short dagger~
+Short a skaven short dagger~
+Descr
+A skaven short dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131584
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 11 0 0 0 2 6 0
+Weight 0
+Cost 1300
+End
+
+#40610
+Name Skaven Shortsword~
+Short a skaven shortsword~
+Descr
+A Gnarled shortsword lies on the ground here.
+[0;36m~
+Type 5
+Extra 262656
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 1 0 0 0 2 5 0
+Weight 1
+Cost 600
+Affect 19 1 1 0 0
+End
+
+#40611
+Name Work hammer~
+Short a work hammer~
+Descr
+A tinker's work hammer lies here.
+[0;36m~
+Type 5
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 8 0 0 0 2 4 0
+Weight 3
+Cost 100
+End
+
+#40612
+Name dusty bag~
+Short [33mDusty [1m[30mBag[0m~
+Descr
+A bag covered in dirt lies on the ground here.
+[0;36m~
+Type 15
+Wear 40961
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 40 1 0 0 0 0 0 0 0 0
+Weight 1
+Cost 800
+End
+
+#40613
+Name Barbed whip spiked~
+Short [1m[30mA [0m[36mBarbed [1m[30mWhip [0m~
+Descr
+A [31mdeadly [36mlooking barbed whip lies on the ground here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 4 0 0 0 3 5 0
+Weight 1
+Cost 2000
+Affect 18 2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#40615
+Name small wooden staff~
+Short a small [33mwooden[0m staff~
+Descr
+A short wooden staff lies here in the dirt.
+[0;36m~
+Type 5
+Extra 524288
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 7 0 0 0 0 0 1 6 0
+Weight 0
+Cost 10
+End
+
+#40617
+Name Skaven parrying shield~
+Short [31mA Skaven [36mParrying [31mShield[0m~
+Descr
+A small shield shaped like a long oval lies here.
+[0;36m~
+Type 9
+Extra 512
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 25 25 0 0
+Weight 1
+Cost 800
+Affect 18 2 2 0 0
+Affect 14 10 1 0 0
+End
+
+#40618
+Name Skaven Black Leather Armor~
+Short [31mSkaven [1m[30mBlack Leather [0m[31mArmor[0m~
+Descr
+A pile of [1m[30mblack leather [0m[36mlies on the ground here.
+[0;36m~
+Type 9
+Extra 512
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 30 30 0 0
+Weight 4
+Cost 4500
+Affect 14 20 1 0 0
+End
+
+#40619
+Name Skaven Black Leather Pants~
+Short [31mSkaven [1m[30mBlack Leather [0m[31mPants[0m~
+Descr
+A pile of [1m[30mblack leather [0m[36mlies on the ground here.
+[0;36m~
+Type 9
+Extra 512
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 30 30 0 0
+Weight 1
+Cost 998
+Affect 14 20 1 0 0
+End
+
+#40620
+Name skaven running boots~
+Short [31mSkaven [36mRunning [31mBoots[0m~
+Descr
+A set of customized soft leather boots lie here.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 10 10 10 10 10 25 25 0 0
+Weight 2
+Cost 895
+Affect 14 30 1 0 0
+End
+
+#40622
+Name torn red robe~
+Short [31mA [34mTorn [31mRed Robe[0m~
+Descr
+A [31mred [36mrobe lies in a pile on the ground here.
+[0;36m~
+Type 9
+Extra 512
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 10 10 0 0
+Weight 1
+Cost 500
+Affect 18 1 1 0 0
+End
+
+#40623
+Name Bone handled Head cutter~
+Short [31mA [1m[37mBone-Handled [30mHead[0m[34m-[31mCutter[0m~
+Descr
+A huge [1m[37mbone-handled [0m[36maxe is stuck into the ground here.
+[0;36m~
+Type 5
+Extra 262146
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 12 0 0 0 3 6 0
+Weight 6
+Cost 3998
+Affect 19 2 2 0 0
+End
+
+#40624
+Name Huge Crimson Maul~
+Short [31mA [34mHuge [36mGlimmering [31mMaul[0m~
+Descr
+A huge maul leans against the wall here.
+[0;36m~
+Type 5
+Extra 524802
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 3 6 0
+Weight 10
+Cost 6000
+Affect 18 -10 1 0 0
+End
+
+#40625
+Name Nose ring~
+Short [31mA [34mLarge [0m[33mGold [0m[31mNose[34m-[31mRing[0m~
+Descr
+A large [0m[33mgold [0m[36mnose-ring lies in the dirt here.
+[0;36m~
+Type 8
+Extra 513
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 0 0 0 0
+Weight 0
+Cost 344
+Affect 13 8 1 0 0
+End
+
+#40626
+Name huge Minotaur War Belt Loin Cloth~
+Short [31mA [34mHuge [33mMinotaur [31mWar[34m-[31mBelt[0m~
+Descr
+A large belt with a flank of cloth hanging down in front and back lies here.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 40 40 0 0
+Weight 3
+Cost 1495
+Affect 18 1 1 0 0
+Affect 13 10 1 0 0
+End
+
+#40628
+Name A skaven firecracker~
+Short [31mA Skaven Firecracker[0m~
+Descr
+A small shot glass full of a red liquid lies here.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 3 3 0 0 0 0 0 0
+Weight 0
+Cost 50
+End
+
+#40629
+Name Sign~
+Short A Small Sign Tagged to the Door~
+Descr
+A small sign is here hung on the west gate.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+-_Battle-Rat Containment_-
+
+
+  -ENTER AT OWN RISK!!!-
+
+
+   --------------------
+
+
+~
+ExtraDescr sign~
+_Battle-Rat Containment_
+
+
+                            ENTER AT OWN RISK!
+
+
+                          ----------------------
+
+
+~
+End
+
+#40630
+Name Fiddle~
+Short [31mA Skaven [36mFiddle[0m~
+Descr
+A small fiddle lies here against the wall.
+[0;36m~
+Type 4
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 29 32 1 0 0 0 0 0 0
+Weight 1
+Cost 30
+End
+
+#40631
+Name Staff of the Shaman~
+Short [34mStaff[31m of the [36mShaman[0m~
+Descr
+A gnarled [1m[36mglowing[0m[36m staff lies on the ground here.
+[0;36m~
+Type 4
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 2 2 26 0 0 0 0 0 0
+Weight 0
+Cost 1652
+End
+
+#40632
+Name Thick black potion~
+Short [31mThick [1m[30mBlack [0m[31mPotion[0m~
+Descr
+A disgusting looking liquid lies on the ground here.
+[0;36m~
+Type 10
+Extra 512
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 35 44 44 1 0 0 0 0 0 0
+Weight 1
+Cost 8948
+End
+
+#40633
+Name Small Gnarled Wand~
+Short [31mA [34mSmall [33mGnarled[31m Wand[0m~
+Descr
+A small twisted wand lies on the ground here.
+[0;36m~
+Type 3
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 2 2 60 0 0 0 0 0 0
+Weight 1
+Cost 2394
+End
+
+#40634
+Name A Huge Dark Cloak~
+Short [1m[30mA [0m[34mHuge [1m[30mDark Cloak[0m~
+Descr
+A huge dark cloak lies in a pile here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 5 5 5 5 0 35 35 0 0
+Weight 5
+Cost 1000
+Affect 18 -1 1 0 0
+Affect 24 6 1 0 0
+End
+
+#40635
+Name Hidden dagger~
+Short [37ma[34m hidden[37m dagger[0m~
+Descr
+An almost invisible dagger lies on the ground here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 9 0 11 0 0 0 6 4 0
+Weight 0
+Cost 433
+End
+
+#40636
+Name Black breast plate~
+Short a black breastplate~
+Descr
+A huge black breastplate lies here.
+[0;36m~
+Type 9
+Extra 513
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 6
+Cost 1283
+Affect 13 4 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#40637
+Name Red bone ring~
+Short [31mRed [1m[37mBone [0m[31mRing[0m~
+Descr
+A small ring made from red bone lies on the ground here.
+[0;36m~
+Type 9
+Extra 3
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 50 50 10 10
+Weight 0
+Cost 10000
+Affect 17 -2 1 0 0
+Affect 13 5 1 0 0
+Affect 18 1 1 0 0
+End
+
+#40638
+Name A small manhole~
+Short A Small Manhole~
+Descr
+A small, frequently used manhole is set into the ground here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40665 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40639
+Name A hole in the ceiling~
+Short A Hole In The Ceiling.~
+Descr
+A hole is cut into the ceiling here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40610 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40640
+Name Soft leather cloak~
+Short a soft leather cloak~
+Descr
+A pile of soft leather lies here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 10 10 0 0
+Weight 1
+Cost 100
+Affect 14 10 1 0 0
+End
+
+#40641
+Name Skaven full hood~
+Short a skaven hood~
+Descr
+A hood made of thick black leather lies on the ground here.
+[0;36m~
+Type 9
+Extra 512
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 40 40 0 0
+Weight 1
+Cost 855
+Affect 17 -1 1 0 0
+Affect 14 5 1 0 0
+End
+
+#40642
+Name a strong leather whip~
+Short A Strong Leather Whip~
+Descr
+A coil of thick leather lies on the ground here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 4 0 0 0 2 5 0
+Weight 3
+Cost 1095
+End
+
+#40643
+Name banquet table~
+Short a banquet Table~
+Descr
+A banquet table decorated with find entres.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60149 60149 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40644
+Name small hole~
+Short A small Hole~
+Descr
+A small hole is here, barely big enough to fit you inside it.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40679 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40645
+Name skaven shoulder plate~
+Short [31mSkaven [36mShoulder [31mPlate[0m~
+Descr
+A small shoulder plate lies on the ground here.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 30 30 0 0
+Weight 1
+Cost 1000
+Affect 17 -3 1 0 0
+Affect 18 1 1 0 0
+Affect 14 20 1 0 0
+End
+
+#40646
+Name shady mist~
+Short A [1m[30mThick [0m[36mMist[0m~
+Descr
+A almost unseen mist floats in the air here.
+[0;36m~
+Type 8
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 4000
+Affect 24 3 0 0 0
+Affect 23 4 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#40665
+Name Below the Square, in a Musty Cavern.~
+Descr
+You are standing in a puddle.  The sound of dripping water echoes
+throughout the hallways.  You can see a light far off to the east, and a
+very low chanting sound can be heard here.  
+~
+Flags 5
+Reset O 40639 -5 100
+Door 1 0 0 40666 0 0
+~
+~
+End
+
+#40666
+Name Path in Cavern.~
+Descr
+You are standing in a puddle.  The sound of dripping water echoes
+throughout the hallways.  You can see a light far off to the east, and a
+very low chanting sound can be heard here.  
+~
+Flags 4
+Door 1 0 0 40667 0 0
+~
+~
+Door 3 0 0 40665 0 0
+~
+~
+End
+
+#40667
+Name Entrance to Underground Skaven Temple~
+Descr
+This underground building is huge, and built almost from pure ivory. 
+Glancing quickly from side to side, you can see red eyes in the shadows. 
+Two large large horned beings guard the entrance to this amazing temple.  
+~
+Flags 4
+Reset M 40645 2 100
+Reset O 40636 4 50
+Reset M 40645 2 100
+Reset O 40624 21 23
+Reset O 40636 4 50
+Door 1 0 0 40668 0 0
+~
+~
+Door 3 0 0 40666 0 0
+~
+~
+End
+
+#40668
+Name Inside Underground Skaven Temple~
+Descr
+As noticed from the outside, this huge temple is made from pure ivory and
+carved with great skill.  A huge pillow lies here at the end of the temple. 
+Skaven citizens bring offerings and pay their respects in front of the huge
+pillow.  A large painting of a Demon is hanging behind the large pillow.  
+~
+Flags 4
+Reset M 40646 1 100
+Reset O 40637 -1 15
+Reset O 40024 7 90
+Reset O 14007 4 90
+Reset O 40608 22 85
+Reset O 40625 25 100
+Door 3 0 0 40667 0 0
+~
+~
+End
+
+#40670
+Name Bank of Nath~
+Descr
+This is the small bank of the city Nath.  A small skaven sits by the
+vault jumping around to at the site of you.  The vaults here don't look very
+safe, you ponder your choice as to deposit your money.  
+~
+Flags 4
+Sector 0
+Reset M 40651 1 100
+Door 0 0 0 40608 0 0
+~
+~
+End
+
+#40671
+Name Gilly's Raw Meat Shop~
+Descr
+You are standing in a small butcher shop, owned by a huge female skaven
+named Gilly.  You can see through the open door in the back that there are
+huge slabs of meat hanging down in the meat locker.  When you catch Gilly's
+attention she scurries over to help you.  
+~
+Flags 4
+Sector 0
+Reset M 40654 1 100
+Reset O 14597 25 100
+Door 2 0 0 40624 0 0
+~
+~
+End
+
+#40672
+Name End of Dusty Road~
+Descr
+This is where the road you have been following ends into a clutter of
+trees.  Just beyond this point you can see a huge gate that seems to be
+unguarded, but the presence of other animals in the area is disturbing.  
+~
+Reset M 40657 3 100
+Door 1 0 0 40673 0 0
+~
+~
+Door 3 0 0 40603 0 0
+~
+~
+End
+
+#40673
+Name Following a Dusty Road~
+Descr
+This path is a narrow, dirt road that leads through a thick and dark
+forest.  As you glance from side to side you can see shadowy figures running
+off into the distance and the glow of red eyes in the darkness.  The light
+wind here sends shivers up your spine as you think of the upcoming danger at
+the end of this road.  
+~
+Reset M 40656 2 100
+Door 2 0 0 40674 0 0
+~
+~
+Door 3 0 0 40672 0 0
+~
+~
+End
+
+#40674
+Name Following a Dusty Road~
+Descr
+This path is a narrow, dirt road that leads through a thick and dark
+forest.  As you glance from side to side you can see shadowy figures running
+off into the distance and the glow of red eyes in the darkness.  The light
+wind here sends shivers up your spine as you think of the upcoming danger at
+the end of this road.  
+~
+Reset M 40657 3 100
+Door 0 0 0 40673 0 0
+~
+~
+Door 2 0 0 40675 0 0
+~
+~
+End
+
+#40675
+Name Following a Dusty Road~
+Descr
+This path is a narrow, dirt road that leads through a thick and dark
+forest.  As you glance from side to side you can see shadowy figures running
+off into the distance and the glow of red eyes in the darkness.  The light
+wind here sends shivers up your spine as you think of the upcoming danger at
+the end of this road.  
+~
+Reset M 40657 3 100
+Door 0 0 0 40674 0 0
+~
+~
+Door 1 0 0 40676 0 0
+~
+~
+End
+
+#40676
+Name Following a Dusty Road~
+Descr
+This path is a narrow, dirt road that leads through a thick and dark
+forest.  As you glance from side to side you can see shadowy figures running
+off into the distance and the glow of red eyes in the darkness.  The light
+wind here sends shivers up your spine as you think of the upcoming danger at
+the end of this road.  
+~
+Reset M 40656 2 100
+Door 1 0 0 40677 0 0
+~
+~
+Door 3 0 0 40675 0 0
+~
+~
+End
+
+#40677
+Name Following a Dusty Road~
+Descr
+This path is a narrow, dirt road that leads through a thick and dark
+forest.  As you glance from side to side you can see shadowy figures running
+off into the distance and the glow of red eyes in the darkness.  The light
+wind here sends shivers up your spine as you think of the upcoming danger at
+the end of this road.  
+~
+Door 1 0 0 40678 0 0
+~
+~
+Door 3 0 0 40676 0 0
+~
+~
+End
+
+#40678
+Name A Huge Clearing~
+Descr
+You are standing in a huge clearing where all the trees have been cleared
+out from the constant travel through this area.  There is an opening between
+the trees to the west which leads onto a dirt road heading west.  An owl
+hoots overhead and flys away when you glance back in surprise.  There is a
+chattering sound coming from the thick brush.  
+~
+Flags 2
+Reset O 40644 -5 100
+Door 1 259 0 6511 30 30
+~
+rock~
+Door 3 0 0 40677 0 0
+~
+~
+End
+
+#40679
+Name Inside the Hole~
+Descr
+~
+Flags 32
+Door 1 0 0 40680 0 0
+~
+~
+Door 3 0 0 40678 0 0
+~
+~
+End
+
+#40680
+Name A Large Clearing~
+Descr
+You are standing in the center of a large clearing.  Surrounded by large
+trees and dark brush.  You glance around yourself to notice that the sound
+of birds and owls stops here, there isn't a sound to be heard.  A soft wind
+blows through the trees making a whistle sound.  
+~
+Reset O 40644 -5 100
+Reset M 40655 1 100
+Reset O 209 6 20
+Reset O 203 7 25
+Reset O 222 4 44
+Door 1 0 0 40681 0 0
+~
+~
+End
+
+#40681
+Name Beyond the Large Rock~
+Descr
+This is a small path leading only west, it seems to be hidden from most
+view because of the twigs and leaves thrown over it to make it look like the
+normal forest bed.  
+~
+Reset O 40639 -5 100
+Door 3 0 0 40680 0 0
+~
+~
+End
+
+#40603
+Name Entrance to Nath~
+Descr
+This is the entrance to the city of Nath, home of the Skaven. It looks 
+like a rundown city, that could have once been a very large city and was
+raided by the Skaven and taken over. 
+~
+Flags 2
+Reset M 40603 3 100
+Reset O 40605 21 50
+Reset M 40603 3 100
+Reset O 40605 21 50
+Reset M 40603 3 100
+Reset O 40605 21 50
+Door 1 0 0 40672 0 0
+~
+~
+Door 3 3 0 40604 30 30
+~
+Town Gate~
+End
+
+#40604
+Name Inside the East Gate of Nath~
+Descr
+This is the east gate of Nath.  Small rat-like people scurry around you. 
+As you turn to look behind you, you see a figure clad in rags fleeing into
+an alley.  
+~
+Reset M 40650 3 100
+Reset O 40620 7 60
+Reset O 40619 6 60
+Reset O 237 21 70
+Reset O 40640 11 80
+Reset M 40604 5 100
+Reset O 40606 -1 75
+Reset M 40609 4 100
+Reset M 40608 4 100
+Reset O 40603 21 35
+Reset O 40606 11 100
+Door 0 0 0 40605 30 30
+~
+door~
+Door 1 3 0 40603 30 30
+~
+Town Gate~
+Door 2 0 0 40606 30 30
+~
+door~
+Door 3 0 0 40607 30 30
+~
+door~
+End
+
+#40605
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40652 2 100
+Reset M 40648 3 100
+Door 0 0 0 40621 30 30
+~
+door~
+Door 2 0 0 40604 30 30
+~
+door~
+End
+
+#40606
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset O 40629 -5 100
+Door 0 0 0 40604 30 30
+~
+door~
+Door 2 0 0 40625 30 30
+~
+door~
+Door 3 3 0 40661 30 30
+~
+Rat Cage Gate~
+End
+
+#40607
+Name East Street of Nath~
+Descr
+You are walking along the east streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound of
+chanting and a roaring fire can be heard to the west.
+~
+Door 0 0 0 40647 30 30
+~
+door~
+Door 1 0 0 40604 30 30
+~
+door~
+Door 3 0 0 40610 30 30
+~
+door~
+End
+
+#40608
+Name West Street of Nath~
+Descr
+You are walking along the west streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound of
+chanting and a roaring fire can be heard to the east.
+~
+Reset M 40652 2 100
+Reset M 40627 5 100
+Reset O 40606 11 75
+Reset M 40648 3 100
+Door 1 0 0 40610 30 30
+~
+door~
+Door 2 0 0 40670 0 0
+~
+~
+Door 3 0 0 40612 30 30
+~
+door~
+End
+
+#40609
+Name Side Street in Nath~
+Descr
+You are walking along the north streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound of
+chanting and a roaring fire can be heard to the south.
+~
+Door 0 0 0 40615 30 30
+~
+door~
+Door 2 0 0 40610 30 30
+~
+door~
+End
+
+#40610
+Name The Center of Nath~
+Descr
+You are standing in the center of the city Nath.  This is the place where
+all the skaven citizens come by at night to sit by the fire for warmth.  You
+see a group of citizens sitting in a circle around the fire, watching the
+show put on by the shaman, who is waving his staff wildly and reciting
+chants.  
+~
+Flags 2097152
+Reset O 40638 -5 100
+Reset O 40607 -5 100
+Reset M 40607 1 100
+Reset O 40646 -1 2
+Reset O 40606 -1 75
+Reset O 40608 21 100
+Reset O 40641 5 75
+Reset M 40606 4 100
+Reset O 40606 -1 75
+Reset M 40606 4 100
+Reset O 40606 -1 75
+Reset M 40606 4 100
+Reset O 40606 -1 75
+Door 0 0 0 40609 30 30
+~
+door~
+Door 1 0 0 40607 30 30
+~
+door~
+Door 2 0 0 40620 0 0
+~
+~
+Door 3 0 0 40608 30 30
+~
+door~
+End
+
+#40611
+Name Side Street in Nath~
+Descr
+You are walking along the south streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound of
+chanting and a roaring fire can be heard to the north.
+~
+Shd 1
+Reset M 40650 3 100
+Reset O 40620 7 60
+Reset O 40619 6 60
+Reset O 237 21 70
+Reset O 40640 11 80
+Reset M 40604 5 100
+Reset O 40606 11 75
+End
+
+#40612
+Name West street of Nath~
+Descr
+You are walking along the west streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound
+of chanting and a roaring fire can be heard to the east.
+~
+Reset M 40609 4 100
+Reset M 40608 4 100
+Reset O 40603 21 35
+Reset M 40653 2 100
+Reset O 40642 21 80
+Reset O 40645 24 5
+Door 0 0 0 40613 30 30
+~
+door~
+Door 1 0 0 40608 30 30
+~
+door~
+Door 2 0 0 40614 30 30
+~
+door~
+End
+
+#40613
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Door 0 0 0 40617 30 30
+~
+door~
+Door 2 0 0 40612 30 30
+~
+door~
+Door 3 0 0 40657 0 0
+~
+~
+End
+
+#40614
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Door 0 0 0 40612 30 30
+~
+door~
+Door 2 0 0 40618 30 30
+~
+door~
+Door 3 0 0 40662 0 0
+~
+~
+End
+
+#40615
+Name Side Street in Nath~
+Descr
+You are walking along the north streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you. The sound of
+chanting and a roaring fire can be heard to the south.
+~
+Shd 1
+Reset M 40627 5 100
+Reset O 40606 11 75
+Door 0 0 0 40624 30 30
+~
+door~
+Door 2 0 0 40609 30 30
+~
+door~
+Door 3 0 0 40616 30 30
+~
+door~
+End
+
+#40616
+Name Side Street in Nath~
+Descr
+You are walking along the north streets of Nath, noticing the vast
+population of skaven scurrying to hide when they see you.  The sound of
+chanting and a roaring fire can be heard to the south.  
+~
+Door 0 0 0 40646 30 30
+~
+door~
+Door 1 0 0 40615 30 30
+~
+door~
+Door 3 0 0 40617 30 30
+~
+door~
+End
+
+#40617
+Name Corner in Nath~
+Descr
+This damp, dark area is covered with rats, they scurry out from
+underneath your feet as you move along.  Larger beings sit against the wall
+feeding these creatures crumbs, grinning wickedly at you.  
+~
+Shd 1
+Reset M 40644 1 100
+Reset O 40634 11 9
+Reset O 40635 21 60
+Door 1 0 0 40616 30 30
+~
+door~
+Door 2 0 0 40613 30 30
+~
+door~
+End
+
+#40618
+Name Entrance to the Battlegrounds~
+Descr
+You are stand before a large open field with tents and tables scattered
+in a non-orderly way.  The warriors and heros of this city spar and test
+their abilities against each other in various areas.  You hear the clanking
+of swords on armor, the true sound of battle.  
+~
+Door 0 0 0 40614 30 30
+~
+door~
+Door 2 3 0 40628 100 100
+~
+Gate to Field~
+End
+
+#40619
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side to side and see red eyes staring at you from the inside of windows and from the shadows. There is a musty smoke smell in the air.
+~
+Reset M 40649 1 100
+Reset O 236 21 100
+Reset O 40640 11 100
+End
+
+#40620
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40641 2 100
+Door 0 0 0 40610 0 0
+~
+~
+Door 2 0 0 40627 30 30
+~
+door~
+End
+
+#40621
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Door 0 0 0 40622 30 30
+~
+door~
+Door 2 0 0 40605 30 30
+~
+door~
+End
+
+#40622
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40627 5 100
+Reset O 40606 11 75
+Door 2 0 0 40621 30 30
+~
+door~
+Door 3 0 0 40623 30 30
+~
+door~
+End
+
+#40623
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40641 2 100
+Reset M 40604 5 100
+Reset O 40606 -1 75
+Door 1 0 0 40622 30 30
+~
+door~
+Door 3 0 0 40624 30 30
+~
+door~
+End
+
+#40624
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40650 3 100
+Reset O 40620 7 60
+Reset O 40619 6 60
+Reset O 237 21 70
+Reset O 40640 11 80
+Reset M 40648 3 100
+Door 0 0 0 40671 0 0
+~
+~
+Door 1 0 0 40623 30 30
+~
+door~
+Door 2 0 0 40615 30 30
+~
+door~
+End
+
+#40625
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Door 0 0 0 40606 30 30
+~
+door~
+Door 2 0 0 40649 0 0
+~
+~
+Door 3 0 0 40626 30 30
+~
+door~
+End
+
+#40626
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40627 5 100
+Reset O 40606 11 100
+Door 1 0 0 40625 30 30
+~
+door~
+Door 3 0 0 40627 30 30
+~
+door~
+End
+
+#40627
+Name Side Street in Nath~
+Descr
+This dark street seems like it is never abandoned, you glance from side
+to side and see red eyes staring at you from the inside of windows and from
+the shadows.  There is a musty smoke smell in the air.  
+~
+Shd 1
+Reset M 40653 1 100
+Reset O 40618 -1 20
+Reset O 40642 -1 20
+Reset O 40620 -1 20
+Reset M 40604 5 100
+Reset O 40606 11 75
+Door 0 0 0 40620 30 30
+~
+door~
+Door 1 0 0 40626 30 30
+~
+door~
+End
+
+#40628
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Door 0 3 0 40618 100 100
+~
+Gate to Field~
+Door 1 0 0 40630 30 30
+~
+door~
+Door 2 0 0 40633 30 30
+~
+door~
+Door 3 0 0 40629 30 30
+~
+door~
+End
+
+#40629
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Reset M 40616 2 100
+Reset O 30 21 100
+Door 1 0 0 40628 30 30
+~
+door~
+Door 2 0 0 40632 30 30
+~
+door~
+Door 5 0 0 40644 0 0
+~
+~
+End
+
+#40630
+Name On the Battlefield~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Reset M 40616 2 100
+Reset O 40610 21 100
+Door 2 0 0 40631 30 30
+~
+door~
+Door 3 0 0 40628 30 30
+~
+door~
+End
+
+#40631
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Door 0 0 0 40630 30 30
+~
+door~
+Door 2 0 0 40635 30 30
+~
+door~
+Door 3 0 0 40633 30 30
+~
+door~
+End
+
+#40632
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Door 0 0 0 40629 30 30
+~
+door~
+Door 1 0 0 40633 30 30
+~
+door~
+Door 2 0 0 40636 30 30
+~
+door~
+End
+
+#40633
+Name Center of Battlefields~
+Descr
+This is the center of activity on the field, warriors spar against each
+other and test their might/minds versus their own kind.  A torched pile of
+armor lays here at your feet, obviosly a weak shaman who couldn't stand his
+ground against a powerfull fireball.  
+~
+Reset M 40614 2 100
+Reset O 40615 21 100
+Reset M 40617 1 100
+Reset O 236 21 100
+Door 0 0 0 40628 30 30
+~
+door~
+Door 1 0 0 40631 30 30
+~
+door~
+Door 2 0 0 40634 30 30
+~
+door~
+Door 3 0 0 40632 30 30
+~
+door~
+End
+
+#40634
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Reset M 40618 1 100
+Reset O 40615 21 100
+Door 0 0 0 40633 30 30
+~
+door~
+Door 1 0 0 40635 30 30
+~
+door~
+Door 2 0 0 40638 30 30
+~
+door~
+Door 3 0 0 40636 30 30
+~
+door~
+End
+
+#40635
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Door 0 0 0 40631 30 30
+~
+door~
+Door 1 0 0 40645 30 30
+~
+door~
+Door 3 0 0 40634 30 30
+~
+door~
+End
+
+#40636
+Name On the Battlefields~
+Descr
+You are standing on the mushy ground where dried blood and broken weapons
+scatter the ground.  The sound of clanking swords and shields gets louder
+here.  The warriors around here seem to be ready for a war.  
+~
+Reset M 40614 2 100
+Reset O 40615 21 100
+Door 0 0 0 40632 30 30
+~
+door~
+Door 1 0 0 40634 30 30
+~
+door~
+Door 3 0 0 40637 30 30
+~
+door~
+End
+
+#40637
+Name Resting tent~
+Descr
+This is the tent where the skaven come to rest from their tiresome
+sparring with often the more powerfull of their race.  A small skaven runs
+around offering bandages and aid to those in need.  
+~
+Flags 3145732
+Sector 0
+Reset M 40624 1 100
+Door 1 0 0 40636 30 30
+~
+door~
+End
+
+#40638
+Name Entrance to the Guild of Nath~
+Descr
+This dark and gloomy poor excuse for a castle is where most
+battle-shamans achieve a higher rank among their companions, other than
+killing them in a deul.  The gate to the south has rusted off and fallen to
+the ground.  Small beady red eyes can bee seen near the castle walls.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40634 30 30
+~
+door~
+Door 2 3 0 40639 30 30
+~
+Courtyard Gate~
+End
+
+#40639
+Name Courtyard of Guild~
+Descr
+This is where the entrance to the guild is found, it seems to be guarded
+by robed monks, with only their red eyes shining through the blackness under
+their hood.  The silence here sends a chill through all your senses.  
+~
+Reset M 40620 2 100
+Reset O 40615 21 100
+Reset O 40622 11 50
+Reset M 40620 2 100
+Reset O 40622 11 50
+Reset O 40615 21 100
+Door 0 3 0 40638 30 30
+~
+Courtyard Gate~
+Door 2 3 0 40640 30 30
+~
+Gate~
+End
+
+#40640
+Name Inside Grand Hall~
+Descr
+You are standing in a huge hall that looks almost totally baren eccept
+the occasional darke figure moving around in the shadows.  Three large
+entryways lead in all directions, each leading to a different master of that
+art.  
+~
+Flags 4
+Sector 0
+Reset M 40621 2 100
+Reset O 40622 11 50
+Reset O 40615 21 100
+Reset M 40621 2 100
+Reset O 40622 11 50
+Reset O 40615 21 100
+Door 0 3 0 40639 30 30
+~
+Gate~
+Door 1 0 0 40641 30 30
+~
+door~
+Door 2 0 0 40643 30 30
+~
+door~
+Door 3 0 0 40642 30 30
+~
+door~
+End
+
+#40641
+Name Hall of Thieves~
+Descr
+This is a very dark room, you can barely see your hand in front of your
+face, but you can hear movement in the distance and catch a gleaming eye
+once in a while.  
+~
+Flags 4
+Sector 0
+Reset M 40625 1 100
+Door 3 0 0 40640 30 30
+~
+door~
+End
+
+#40642
+Name Hall of Warriors~
+Descr
+This room has a large table sitting in the middle, covered in food. 
+Sitting at the head of the table is a muscular skaven named Ginth.  Ginth
+was stuck as the guildmaster because of he many flawless victories over his
+opponents.  Though, most skaven do not prefer to follow in the steps of a
+warrior, some do.  
+~
+Flags 4
+Sector 0
+Reset O 40643 -5 100
+Reset M 40629 1 100
+Door 1 0 0 40640 30 30
+~
+door~
+End
+
+#40643
+Name Hall of the Shaman~
+Descr
+In this hall, the walls are covered in writing, as if someone had
+scratched in every letter with their fingernails.  A very wise and very old
+skaven sits in his chair, staring off into the ceiling as if he is looking
+for something.  
+~
+Flags 4
+Sector 0
+Reset M 40628 1 100
+Reset O 58 -1 40
+Reset M 40630 1 100
+Reset O 40617 10 40
+Reset O 40623 21 2
+Reset O 40626 12 25
+Door 0 0 0 40640 30 30
+~
+door~
+End
+
+#40644
+Name Under the Battlefields~
+Descr
+~
+Door 1 0 0 40650 0 0
+~
+~
+Door 2 0 0 40656 0 0
+~
+~
+Door 4 0 0 40629 0 0
+~
+~
+End
+
+#40645
+Name Repair tent~
+Descr
+In this tent many young skaven scurry from one end of the tent, to the
+other carrying broken weapons and armor to the blacksmith.  The blacksmith
+looks to be of the tinkergnome race, the skaven must have spared his life
+for this sole purpose.  He is chained to the wall by his ankles and is not
+permitted to move out of a certain area.  
+~
+Flags 4
+Sector 0
+Reset M 40622 1 100
+Reset O 40611 21 100
+Reset M 40623 2 100
+Door 3 0 0 40635 30 30
+~
+door~
+End
+
+#40646
+Name Fliff's Utility shop~
+Descr
+This is a small business run in a large rundown house.  Fliff makes a
+living selling his equipment to the adventurers that pass through town. 
+Fliff has been known for his previous record as a thief, and is not a highly
+respected member of Nath.  
+~
+Flags 4
+Sector 0
+Reset M 40613 1 100
+Reset O 40612 -1 100
+Reset O 33 20 100
+Reset O 37 20 100
+Reset O 39 20 100
+Reset O 14599 -1 100
+Reset O 14588 -1 100
+Door 2 0 0 40616 30 30
+~
+door~
+End
+
+#40647
+Name Roft's Place of Pain~
+Descr
+This room has finely made weapons hanging on the walls, obviosly not made
+by at skaven.  Roft sits at his counter carving a hole in his desk.  
+~
+Flags 4
+Sector 0
+Reset M 40610 1 100
+Reset O 40609 -1 100
+Reset O 40610 -1 100
+Reset O 14580 -1 100
+Reset O 40642 -1 100
+Door 0 519 0 40648 20 20
+~
+Backdoor~
+Door 2 0 0 40607 30 30
+~
+door~
+End
+
+#40648
+Name Roft's Backroom~
+Descr
+This must be where every weapon that is displayed outside is
+made/repaired.  Small gnomes sit chained to heavy anchors working hard at a
+forge.  A skaven dressed in rags sits keeping a watchfull eye on your every
+move.  
+~
+Flags 4
+Sector 0
+Reset M 40612 1 100
+Reset O 40613 21 3
+Reset O 40606 -1 75
+Reset M 40611 2 100
+Reset O 40611 21 100
+Reset M 40611 2 100
+Reset O 40611 21 100
+Door 2 519 0 40647 20 20
+~
+Backdoor~
+End
+
+#40649
+Name Tyud's Armor~
+Descr
+As most Skaven prefer, this shop does not seem like an armor shop at all,
+but that of a cloth and leather store.  Skaven hate to be weighted down by
+heavy armors and prefer to wear light plate or a thick leather instead. 
+This could easily be compared to most of them having a scrawny appearance.  
+~
+Flags 4
+Sector 0
+Reset M 40626 1 100
+Reset O 218 -1 100
+Reset O 206 -1 100
+Reset O 213 -1 100
+Reset O 201 -1 100
+Reset O 225 -1 100
+Door 0 0 0 40625 0 0
+~
+~
+End
+
+#40650
+Name Under the Battlefields~
+Descr
+~
+Door 1 0 0 40651 0 0
+~
+~
+Door 3 0 0 40644 0 0
+~
+~
+End
+
+#40651
+Name Under the Battlefields~
+Descr
+~
+Reset M 40615 3 100
+Reset O 238 21 100
+Door 2 0 0 40652 0 0
+~
+~
+Door 3 0 0 40650 0 0
+~
+~
+End
+
+#40652
+Name Under the Battlefields~
+Descr
+~
+Door 0 0 0 40651 0 0
+~
+~
+Door 2 0 0 40653 0 0
+~
+~
+End
+
+#40653
+Name Under the Battlefields~
+Descr
+~
+Reset M 40619 1 100
+Reset O 40609 21 100
+Door 0 0 0 40652 0 0
+~
+~
+Door 3 0 0 40654 0 0
+~
+~
+End
+
+#40654
+Name Under the Battlefields~
+Descr
+~
+Reset M 40615 3 100
+Reset O 238 21 100
+Door 1 0 0 40653 0 0
+~
+~
+Door 3 0 0 40655 0 0
+~
+~
+End
+
+#40655
+Name Under the Battlefields~
+Descr
+~
+Door 0 0 0 40656 0 0
+~
+~
+Door 1 0 0 40654 0 0
+~
+~
+End
+
+#40656
+Name Under the Battlefields~
+Descr
+~
+Reset M 40615 3 100
+Reset O 238 21 100
+Door 0 0 0 40644 0 0
+~
+~
+Door 2 0 0 40655 0 0
+~
+~
+End
+
+#40657
+Name Entrance to the Drunken Rat~
+Descr
+This is the entrance to a cheerfull place with music playing loudly and
+the sound of chattering skaven echoes throughout the room.  The not rare
+sight of a passed out skaven soldier or citizen at your feet makes you
+realize how much these creatures love their alchohol.  Bar fights break out
+in 10 minute intervals and sometimes result in the death of a fellow skaven
+or two.  
+~
+Flags 4
+Sector 0
+Reset M 40639 1 100
+Reset O 14604 -1 100
+Reset O 40628 -1 100
+Door 0 0 0 40660 0 0
+~
+~
+Door 1 0 0 40613 0 0
+~
+~
+Door 3 0 0 40658 0 0
+~
+~
+End
+
+#40658
+Name Inside the Drunken Rat~
+Descr
+You are standing in between tables and chairs.  As you peer around
+yourself you see tons of skaven citizens and warriors conversing over the
+daily events.  A small band of skaven play fiddles loudly and with great
+skill, the music fills you with a feeling of self-pride.  
+~
+Flags 4
+Sector 0
+Reset M 40637 3 100
+Reset O 40606 11 100
+Reset M 40633 2 100
+Reset O 40628 21 100
+Reset M 40633 2 100
+Reset O 40628 21 100
+Reset M 40638 3 100
+Reset O 40610 21 75
+Reset M 40638 3 100
+Reset O 40610 21 75
+Reset M 40638 3 100
+Reset O 40610 21 75
+Door 0 0 0 40659 0 0
+~
+~
+Door 1 0 0 40657 0 0
+~
+~
+End
+
+#40659
+Name Inside the Drunken Rat~
+Descr
+You are standing in between tables and chairs.  As you peer around
+yourself you see tons of skaven citizens and warriors conversing over the
+daily events.  A small band of skaven play fiddles loudly and with great
+skill, the music fills you with a feeling of self-pride.  
+~
+Flags 4
+Sector 0
+Reset M 40635 3 100
+Reset O 40606 11 100
+Reset M 40635 3 100
+Reset O 40606 11 100
+Reset M 40635 3 100
+Reset O 40606 11 100
+Reset M 40632 2 100
+Reset O 40628 21 100
+Reset M 40636 2 100
+Reset O 236 21 100
+Reset O 40606 11 100
+Door 1 0 0 40660 0 0
+~
+~
+Door 2 0 0 40658 0 0
+~
+~
+End
+
+#40660
+Name Inside the Drunken Rat~
+Descr
+You are standing in between tables and chairs.  As you peer around
+yourself you see tons of skaven citizens and warriors conversing over the
+daily events.  A small band of skaven play fiddles loudly and with great
+skill, the music fills you with a feeling of self-pride.  
+~
+Flags 4
+Sector 0
+Reset M 40634 3 100
+Reset O 40606 11 100
+Reset M 40640 1 100
+Reset O 40630 21 50
+Reset M 40632 2 100
+Reset O 40628 21 100
+Reset M 40637 2 100
+Reset O 40606 11 100
+Reset M 40637 2 100
+Reset O 40606 11 100
+Reset M 40636 2 100
+Reset O 40606 11 100
+Reset O 236 21 100
+Door 2 0 0 40657 0 0
+~
+~
+Door 3 0 0 40659 0 0
+~
+~
+End
+
+#40661
+Name The Rat Pen~
+Descr
+This large pen has many snarling, pissed off rats glaring darkly in your
+direction.  There is a small skaven boy who feeds these beasts hiding behind
+a trough.  
+~
+Flags 4
+Sector 0
+Reset M 40642 4 100
+Reset M 40642 4 100
+Reset M 40642 4 100
+Reset M 40642 4 100
+Door 1 3 0 40606 30 30
+~
+Rat Cage Gate~
+Door 5 259 0 8444 30 30
+~
+hiddendoor~
+End
+
+#40662
+Name Skaven Magic Shop~
+Descr
+You are standing in a huge shack with skaven apprentice mages working
+away in lbratories.  Shirm the owner of the store sits and his desk watching
+you intently.  As you peer around you see many interesting items hanging in
+pouches on the walls.  
+~
+Flags 4
+Sector 0
+Reset M 40643 1 100
+Reset O 40632 -1 100
+Reset O 40631 -1 100
+Reset O 40633 -1 80
+Door 1 0 0 40614 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,6685 @@
+#AREADATA 
+Name Open Area and Highway~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA strong wind blows across the highway.
+~[0;37m
+SRepop 22
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 3201 3450
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#3201
+Name large fat rabbit~
+Short a large, fat rabbit~
+Long 
+A large, fat rabbit is here, chewing on some grass.
+~
+Descr
+This enormous, fat rabbit looks like his teeth have been sharpened like
+razors, probably because of all the food he constantly chews.  
+~
+AMax 5
+NHeight 0
+ActBits 33
+ActBits3 65536
+Money 3
+Level 3
+MobType 18
+ArmorClass 99
+End
+
+#3202
+Name cute small rabbit~
+Short a cute, small rabbit~
+Long 
+A cute, small rabbit is here, bouncing around.
+~
+Descr
+This cute rabbit looks furry and full of energy.  It merily bounces along
+here, oblivious to human or other presence.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 5
+Money 1
+Level 1
+MobType 7
+ArmorClass 99
+End
+
+#3203
+Name small fox~
+Short a small, energetic fox~
+Long 
+A small fox skips around here, looking for rabbits.
+~
+Descr
+This fox looks like he is either hunting rabbits or just playing around
+in the grass..  Either way, she seems quite oblivious to your presence.  
+~
+AMax 3
+NHeight 0
+ActBits 536870913
+Alignment 15
+Money 3
+Level 3
+Sex 2
+MobType 6
+End
+
+#3204
+Name patrol patrolling ranger large~
+Short a patrolling ranger~
+Long 
+A patrolling ranger is here, protecting travellers from outlaws and beasts.
+~
+Descr
+This ranger looks like he has saved many an adventurer from disaster from
+the pround smile on his face.  He is definately one of the fine men who keep
+the highway safe for travellers.  
+~
+AMax 1
+NHeight 0
+ActBits 1073741825
+ActBits3 4210696
+Alignment 45
+Money 28
+Level 28
+Sex 1
+MobType 0
+RaceHate 134217728
+End
+
+#3205
+Name large grey wolf beast~
+Short a large, grey wolf~
+Long 
+A large, grey wolf stands here, salivating at your sudden appearance.
+~
+Descr
+This wolf looks quite hungry, and although wolves are not known to attack
+people, this one looks pretty desperate for food.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Money 7
+Level 7
+Sex 1
+MobType 6
+End
+
+#3206
+Name bandit small beast~
+Short a small bandit~
+Long 
+A small, shady looking bandit is here, making trouble.
+~
+Descr
+This small bandit doesn't look like he wants to cause you any harm, but
+he sure looks like he's meditating on your coin purse.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 8
+Alignment -55
+Money 14
+Level 14
+Sex 1
+MobType 0
+Spec spec_thief
+End
+
+#3207
+Name small snake garder~
+Short a small snake~
+Long 
+A small snake slithers harmlessly along here.
+~
+Descr
+This snake looks harmless enough.  Perhaps you should step on it, just to
+make sure...  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 1
+Level 1
+MobType 20
+End
+
+#3208
+Name midget guard gate gateguard~
+Short a tiny, midget gateguard~
+Long 
+A tiny, midget gateguard stands here, defending the city bravely with his life.
+~
+Descr
+This tiny human is totally naked, but it's hard to make out any features
+of his body because he is short and stocky even for a midget.  
+~
+AMax 2
+NHeight 0
+ActBits 3
+ActBits3 2
+Money 3
+Level 3
+Sex 1
+MobType 0
+Guard 2
+ArmorClass 99
+End
+
+#3209
+Name midget citizen man~
+Short a small midget citizen~
+Long 
+A small midget citizen stands here, looking up at you in horror.
+~
+Descr
+The midgets must have a thing against clothes...  It must be a happenin'
+village...  To bad you are here, ruining their little party.  
+~
+AMax 5
+NHeight 0
+ActBits 1
+Alignment -1000
+Money 30
+Level 30
+Sex 1
+MobType 0
+ArmorClass 99
+End
+
+#3210
+Name mayor midget codeone~
+Short the mayor of Midgeton~
+Long 
+The mayor of Midgeton stands here, looking up at you in horror.
+~
+Descr
+This midget looks not quite as small as the rest, and he looks like he
+might have a clue as to how to fight.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Alignment 10
+Money 100
+Level 100
+Sex 1
+MobType 0
+End
+
+#3211
+Name bodyguard aone body guard midget~
+Short a midget bodyguard~
+Long 
+A midget bodyguard is standing here, guarding the mayor.
+~
+Descr
+This small bodyguard trembles in fear from your entrance, but he looks
+like he would protect his trusty mayor to the end.  
+~
+AMax 2
+NHeight 0
+ActBits 8388611
+Alignment 5
+Money 25
+Level 25
+Sex 1
+MobType 0
+End
+
+#3212
+Name council member midget~
+Short a midget council member~
+Long 
+A midget council member stands here, trembling and shaking.
+~
+Descr
+This council member looks like you could pick off all of his friends and
+he would do nothing about it but stand there and hope that you don't squash
+him next.  
+~
+AMax 3
+NHeight 0
+ActBits 3
+Alignment -1000
+Money 45
+Level 45
+Sex 1
+MobType 0
+End
+
+#3213
+Name large squirrel giant~
+Short a giant squirrel~
+Long 
+A giant squirrel, the size of a wolf is here, collecting nuts.
+~
+Descr
+The size of this creature is simple amazing, and you wonder what freak of
+nature created this large squirrel...  Those teeth look sharp!  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+MobType 18
+Guard 0
+End
+
+#3214
+Name beast cougar cat large~
+Short a large cougar~
+Long 
+A large cougar stands here, obviously upset and angry.
+~
+Descr
+This large cat looks very frustrated and hungry.  You probably look like
+a full, juicy cut of steak to it right now.  
+~
+AMax 1
+NHeight 0
+ActBits 9
+Money 12
+Level 12
+Sex 2
+MobType 16
+Guard 0
+ArmorClass 75
+End
+
+#3215
+Name bat small~
+Short a small bat~
+Long 
+A small but dangerous-looking bat flies around here.
+~
+Descr
+This little bat looks ferocious and mean, despite it's tiny size and
+furry appearance.  
+~
+AMax 4
+NHeight 0
+ActBits 9
+ActBits3 65536
+Affect_By 524288
+Money 2
+Level 2
+MobType 7
+Guard 0
+End
+
+#3216
+Name brown bear large~
+Short a large, brown bear~
+Long 
+A large, brown bear stands here, looking very angry.
+~
+Descr
+This bear looks like he is pissed because he is lost inside of this
+confusing twisty passage.  
+~
+AMax 1
+NHeight 0
+ActBits 9
+Alignment 20
+Money 14
+Level 14
+MobType 18
+Guard 0
+End
+
+#3217
+Name large cave bear cavebear huge~
+Short a huge cave-bear~
+Long 
+A huge cave-bear is here, growling at you.
+~
+Descr
+This bear must be at least 15 feet tall, and is coated with thick fur. 
+Its razor-sharp, white teeth and enormous claws make it look like an
+incredible opponent.  
+~
+AMax 1
+NHeight 0
+ActBits 536870923
+Affect_By 131072
+Alignment 55
+Money 31
+Level 31
+MobType 18
+Guard 0
+ArmorClass -45
+End
+
+#3218
+Name large ogre adventurer~
+Short a large, ogre adventurer~
+Long 
+A large ogre adventurer is wandering around here, exploring the area.
+~
+Descr
+This huge ogre looks like he has spent many of his days experiencing the
+world.  He looks wisened and does not look like a threat even to a fly.  He
+smiles as he notices you looking at him.  
+~
+AMax 1
+NHeight 0
+ActBits 1073741825
+Affect_By 512
+Alignment 200
+Money 51
+Level 51
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+ArmorClass -15
+End
+
+#3219
+Name nokkers hermit female dirty small~
+Short Nokkers the hermit~
+Long 
+A small female hermit stands here, contemplating life.
+~
+Descr
+The lack of a shirt on this young, dirty female immediately draws your
+attention to her breasts.  They are near-perfect in form, supple and
+delicate.  The small nipple at the end of each looks tender and beautiful. 
+You wonder why such a beautiful woman became a hermit, and why she doesn't
+have a shirt.  You can see a spark in here eye that tells you she is witty
+and wise.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Alignment 15
+Money 16
+Level 16
+Sex 2
+MobType 0
+Guard 0
+End
+
+#3220
+Name goat mountain~
+Short a mountain goat~
+Long 
+A mountain goat stands here, chewing on some grass near the ledge.
+~
+Descr
+This goat takes no notice of you and continues munching on the grass
+around.  No matter how much you disturb him, he always turns his head back
+to the ground.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 4
+Level 4
+Sex 1
+MobType 18
+Guard 0
+End
+
+#3221
+Name human warrior adventurer~
+Short a human adventurer~
+Long 
+A human warrior sits here by the spring, enjoying the pure, clean water.
+~
+Descr
+This warrior looks like he has adventured for many years, wandering far
+and wide throughout the country.  He is obviously taking a long breather,
+and he seems happy enough at this large spring atop the plateau.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment 10
+Money 12
+Level 12
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#3222
+Name large coyote~
+Short a coyote~
+Long 
+A coyote is here, lazily wandering around, enjoying the spectacular view.
+~
+Descr
+This coyote looks like he means you no harm; he just wants to enjoy the
+splendid view and the cool wind that rushes atop this plateau.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 6
+Level 6
+Sex 2
+MobType 6
+Guard 0
+End
+
+#3223
+Name Kantar wanderer~
+Short Kantar~
+Long 
+Kantar the wanderer is here, exploring the area.
+~
+Descr
+Kantar's moderately well-formed muscles and hardened face tell you of
+great troubles in his past.  He now wanders the lands, enjoying the scenery
+and exploring.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 8
+Money 29
+Level 29
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3224
+Name warg small beast~
+Short a small warg~
+Long 
+A small warg is here, grunting angrily.
+~
+Descr
+This warg's tough hide and sharp claws and teeth make it look like a
+tough opponent.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 131072
+Alignment -40
+Money 10
+Level 10
+Sex 1
+MobType 6
+Guard 0
+RaceHate 67108864
+ArmorClass -22
+End
+
+#3240
+Name elusive sentinel~
+Short an elusive sentinel~
+Long 
+An elusive sentinel is here to warn of intruders.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 66058
+Alignment 1000
+Money 50
+Level 50
+MobType 0
+Guard 0
+End
+
+#3300
+Name life demon huge~
+Short huge demon~
+Long 
+A huge demon of death stands here waiting for darkies to kill.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 3
+ActBits3 524288
+Affect_By 680
+Alignment 1000
+Money 150
+Level 150
+MobType 11
+Guard 0
+End
+
+#3325
+Name large warg hungry~
+Short a large warg~
+Long 
+A large, hungry warg stands here, salivating at your appearance.
+~
+Descr
+The snot and druel running out of this creatures nose and mouth, make a
+sticky mess on the ground.  This creature seems to have been formed by the
+dark hand of evil.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 131072
+Alignment -40
+Money 14
+Level 14
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#3326
+Name gate guard gateguard PRTCT~
+Short a burly gateguard~
+Long 
+A burly gateguard stands here, protecting Thaenar from attackers.
+~
+Descr
+This guard looks strong and determined to keep evil out of the fair city
+of Thaenar.  You also notice his longing gaze directed at Hanna...  
+~
+AMax 2
+NHeight 0
+ActBits 8388611
+Alignment 90
+Money 36
+Level 36
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#3327
+Name hanna sentry codeone~
+Short Hanna~
+Long 
+Hanna, the beautiful gate guardian of Thaenar, stands here.
+~
+Descr
+Here beautiful smile and dark brown, soft hair makes her look helpless
+and cuddly.  Then you notice a strange glint in her eyes that makes you
+think otherwise.  Perhaps she is more determined and tough than you think.  
+~
+AMax 1
+NHeight 0
+ActBits 4194307
+ActBits3 4096
+Affect_By 40
+Alignment 500
+Money 76
+Level 76
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#3328
+Name primrose provisioner~
+Short Primrose~
+Long 
+Primrose the provisioner stands here, waiting to help you buy something.
+~
+Descr
+This big, buff guy looks like he gave up the life of hunting and
+sportsmanship to make money selling goods in Thaenar.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Affect_By 40
+Alignment 150
+Money 41
+Level 41
+Sex 1
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 110 40 0 24
+Shopd2 5
+Shopd3 4
+End
+
+#3329
+Name jimbo giant guard thaenar aone~
+Short Jimbo~
+Long 
+Jimbo, the giant guard of Thaenar, stands here, staring blankly into space.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 4
+Alignment 80
+Money 61
+Level 61
+Sex 1
+MobType 4
+Guard 0
+ArmorClass -45
+End
+
+#3330
+Name Ikari weaponsmith weapon smith shopkeeper PRTCT~
+Short Ikari~
+Long 
+Ikari, the weaponsmith of Thaenar, stands here proud and tall.
+~
+Descr
+This large man looks like he has spent his whole life in weapons and war,
+and you notice he keeps well in shape too...  
+~
+AMax 1
+NHeight 0
+ActBits 135266307
+Alignment 400
+Money 57
+Level 57
+Sex 1
+MobType 0
+Guard 0
+Shop    0   5   0   0   0 135 55 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#3331
+Name bodyguard guard AONE large man~
+Short a large bodyguard~
+Long 
+A large bodyguard stands here, watching for troublemakers.
+~
+Descr
+This large man looks quite skilled in the art of protection and
+body-guarding, but his biggest advantage is the large amount of protective
+blubber and large on this beast of a man.  
+~
+AMax 3
+NHeight 0
+ActBits 4194307
+Alignment 10
+Money 44
+Level 44
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#3332
+Name llanus prtct~
+Short Llanus~
+Long 
+Llanus is here, waiting to help you select an armor to purchase.
+~
+Descr
+Llanus is scarred and battle hardened.  It looks like he could have used
+more durable armor in his fighting days...  
+~
+AMax 1
+NHeight 0
+ActBits 136314883
+Affect_By 8
+Alignment 400
+Money 62
+Level 62
+Sex 1
+MobType 0
+Guard 0
+Shop    0   9   0   0   0 105 54 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 134217728
+ArmorClass -95
+End
+
+#3333
+Name Rinko PRTCT shop shopkeeper~
+Short Rinko~
+Long 
+Rinko stands here, waiting to sell you a mystical item.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Alignment 200
+Money 42
+Level 42
+MobType 0
+Guard 0
+Shop   21  10   4   3   2 21 30 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#3334
+Name guild guildmaster tinker PRTCT~
+Short The tinker's guildmaster~
+Long 
+[Guild] The Tinker's Guildmaster stands here, waiting to enroll you.
+~
+Descr
+The guildmaster stands here with a look of great understanding and pride
+on his face.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+ActBits3 16
+Affect_By 168
+Money 79
+Level 79
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3336
+Name cavalier man knight~
+Short a cavalier~
+Long 
+A cavalier rides along here, keeping the roads safe.
+~
+Descr
+This knight looks like he has fun patrolling the road; whacking the
+invaders.  He smiles at you when you look at him.  
+~
+AMax 1
+NHeight 0
+ActBits 1073741827
+ActBits3 147468
+Alignment 95
+Money 26
+Level 26
+Sex 1
+MobType 0
+Guard 9
+RaceHate 134217728
+End
+
+#3337
+Name horse mount~
+Short a horse~
+Long 
+A trusty horse wanders around the area here.
+~
+Descr
+This trusty steed looks like a great mount if it isn't already taken.  
+~
+AMax 1
+NHeight 54
+ActBits 8193
+Money 20
+Level 20
+Sex 1
+MobType 18
+Guard 0
+End
+
+#3338
+Name gnome small~
+Short a gnome~
+Long 
+A small gnome sits here on a rock, enjoying the sights of the forest.
+~
+Descr
+This small gnome looks like he has nothing better to do than hang out
+here, watching the road.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 4194304
+Affect_By 512
+Alignment 10
+Money 7
+Level 7
+Sex 1
+MobType 3
+Guard 0
+End
+
+#3339
+Name traveller~
+Short a traveller~
+Long 
+A traveller is here, exploring the lands.
+~
+Descr
+You see a hardened yet weary traveller who endlessly travels the world,
+exploring new places and discovering the wonders of the lands.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment -35
+Money 15
+Level 15
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#3340
+Name cub bear~
+Short a bear cub~
+Long 
+A bear cub wanders around here, exploring the world.
+~
+Descr
+This cute, furry bear cub has a mean-looking set of claws..  It's small
+appearance makes it look like an easy opponent, though.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Money 3
+Level 3
+Sex 1
+MobType 18
+Guard 0
+End
+
+#3341
+Name wolf black large AONE~
+Short a black wolf~
+Long 
+A large black wolf is here, prowling the area.
+~
+Descr
+This wolf's fur is as black as night, and the glow in his eyes make him
+look like he is possessed by evil.  
+~
+AMax 4
+NHeight 0
+ActBits 134217729
+ActBits3 262152
+Money 9
+Level 9
+MobType 6
+Guard 0
+RaceHate 402653184
+End
+
+#3342
+Name dark priest~
+Short a dark priest~
+Long 
+A dark priest stands here, performing some unholy ritual.
+~
+Descr
+This dark priest seems to be eminating an evil aura of darkness.  He
+grins wickedly at you when he notices you looking at him.  
+~
+AMax 1
+NHeight 0
+ActBits 67108867
+Alignment -310
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3343
+Name midget thief~
+Short a midget thief~
+Long 
+A shady-looking midget character is here, trying to look mean.
+~
+Descr
+This midget looks like his heart is filled with evil and corruption.  
+~
+AMax 4
+NHeight 0
+ActBits 3
+Alignment -1000
+Money 45
+Level 45
+MobType 0
+Guard 0
+End
+
+#3344
+Name kobold guard AONE~
+Short a kobold guard~
+Long 
+A kobold guard is here, looking at you with an evil grin on his face.
+~
+Descr
+This small kobold looks stocky and tough.  He keeps the caves safe from
+non-kobold would-be invaders...  Or at least he tries.  
+~
+AMax 1
+NHeight 0
+ActBits 268435459
+ActBits3 2
+Affect_By 512
+Alignment -90
+Money 13
+Level 13
+Sex 1
+MobType 3
+Guard 3
+End
+
+#3345
+Name kobold guard ATWO~
+Short a kobold guard~
+Long 
+A kobold guard is here, guarding the entrance to the kobold caves.
+~
+Descr
+This short and stocky kobold guard looks like he knows what he's doing
+when it comes to combat.  He however looks fairly inexperienced and not to
+quick on his feet.  
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+ActBits3 2
+Alignment -500
+Money 14
+Level 14
+Sex 1
+MobType 3
+Guard 0
+Spec spec_warrior
+End
+
+#3346
+Name small kobold~
+Short a small kobold~
+Long 
+A small kobold is here, enjoying the comfort of his home.
+~
+Descr
+This gnome looks quite small, although his teeth do look mighty pointy
+and sharp...  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -100
+Money 7
+Level 7
+Sex 1
+MobType 18
+Guard 0
+End
+
+#3347
+Name kobold lady woman maiden~
+Short a kobold maiden~
+Long 
+A kobold maiden stands here, trying to look her best for outsiders.
+~
+Descr
+You almost throw up at the sight of this ugly, smelly koboldish wench. 
+She smiles at you, and you can see green slime ooze from the cracks in
+between her teeth.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -90
+Money 8
+Level 8
+Sex 2
+MobType 3
+Guard 0
+Spec spec_warrior
+End
+
+#3348
+Name kobold king~
+Short the kobold king~
+Long 
+The kobold king sits here, staring blankly at the cave walls.
+~
+Descr
+Even though the king looks pretty out of it, his large muscles and stocky
+build make you realize he is an outstanding fighter with those fists of his.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 31
+Level 31
+Sex 1
+MobType 3
+Guard 0
+End
+
+#3349
+Name guard kobold warrior~
+Short a kobold guard~
+Long 
+A kobold guard stands here, alert and ready for action.
+~
+Descr
+This guard looks strong, but still quite small.  Perhaps you should kick
+his evil butt into the ground.  
+~
+AMax 2
+NHeight 0
+ActBits 11
+Affect_By 131072
+Alignment -100
+Money 14
+Level 14
+Sex 1
+MobType 3
+Guard 0
+End
+
+#3350
+Name bluhart man large adventurer~
+Short Bluhart~
+Long 
+Bluhart, the great adventurer of the lands is here, wandering around.
+~
+Descr
+This huge, muscular adventurer looks like he has been through thick and
+thin.  His dark moustache and flowing hair make him look quite friendly.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 552
+Alignment 300
+Money 63
+Level 63
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ArmorClass -40
+End
+
+#3351
+Name peace cleric wandering teacher~
+Short Peace~
+Long 
+Peace, the powerful cleric of the white robes, stands here.
+~
+Descr
+This large woman looks older and wiser than time itself, and her intense
+gaze and large figure make you think twice about causing trouble.  
+~
+AMax 1
+NHeight 0
+ActBits 1073742081
+ActBits3 1048576
+Alignment 1000
+Money 84
+Level 84
+Sex 2
+MobType 0
+Guard 0
+RaceHate 134217728
+ArmorClass -110
+End
+
+#3352
+Name travelling merchant~
+Short a travelling merchant~
+Long 
+A travelling merchant stands here, waiting to sell you some goods.
+~
+Descr
+This hardy merchant looks like he makes quite a living on the open
+road...  Perhaps he might have something good to sell you.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 8
+Money 34
+Level 34
+Sex 1
+MobType 0
+Guard 0
+Shop    9   5  10   2  11 180 45 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#3353
+Name thief shady~
+Short a thief~
+Long 
+A thief stands here, leaning against the walls of Thaenar.
+~
+Descr
+This shady thief leans against the wall of Thaenar, playing with a sharp
+dagger.  He doesn't look like he's in a very good mood...  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment -140
+Money 11
+Level 11
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#3354
+Name wanderer adventurer man~
+Short a wanderer~
+Long 
+A wanderer is here, roaming the lands.
+~
+Descr
+This tall man looks like he is fairly new to adventuring.  Although he
+looks well-built, he looks clumsy and not very coordinated.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 8
+Alignment 50
+Money 13
+Level 13
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3355
+Name dark beast darkbeast~
+Short a darkbeast~
+Long 
+A legendary darkbeast stands here, ready to rip you apart!
+~
+Descr
+This legendary beast has a sleek form, with its muscles rippling for all
+to see and fear.  It appears as if it's hungry; or maybe it's always hungry
+for the flesh of foolish adventurers that wander here...  
+~
+AMax 3
+NHeight 0
+ActBits 9
+ActBits4 4096
+Affect_By 552
+Money 22
+Level 22
+MobType 18
+Guard 0
+Spec spec_poison
+End
+
+#3356
+Name small dragon baby~
+Short a small dragon~
+Long 
+A small dragon is here, ready to tear you to shreds.
+~
+Descr
+Ouch.  This dragon may be small, but it still looks damn mean!  
+~
+AMax 1
+NHeight 0
+ActBits 11
+ActBits4 2048
+Affect_By 66088
+Money 41
+Level 41
+Sex 1
+Guard 0
+ArmorClass -220
+End
+
+#3357
+Name jean paul jean-paul evil adventurer~
+Short Jean-Paul~
+Long 
+Jean-Paul, the evil adventurer, stands in the shadows watching you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108867
+Affect_By 66088
+Alignment -900
+Money 82
+Level 82
+Sex 1
+Guard 0
+Spec spec_warrior
+End
+
+#3358
+Name chompers~
+Short Chompers~
+Long 
+Chompers, the strange knight, rumored to be 1000 years old, stands here.
+~
+Descr
+This strange knight must have returned to the lands when he heard of the
+great evil starting to grow again.  He looks like he's been working out
+every day of his 1000 year existance.  
+~
+AMax 0
+NHeight 0
+ActBits 17
+ActBits3 1048584
+ActBits4 4096
+Affect_By 552
+Alignment 900
+Money 98
+Level 98
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#3359
+Name tariel~
+Short tariel~
+Long 
+Tariel, the protector of all that good, stands tall ready to fight.
+~
+Descr
+~
+AMax 1
+NHeight 89
+ActBits 16
+ActBits3 540672
+Affect_By 524968
+Money 150
+Level 150
+Sex 2
+MobType 0
+Guard 0
+RaceHate 134217728
+BCasts "Curse"~
+BCast_P 40
+End
+
+#3400
+Name cult member~
+Short a Mage's cult member~
+Long 
+A Mage's cult member is gesturing wildly at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 2150
+ShopCS A cult member snaps his fingers and a token appears out of thin air.~
+End
+
+#3434
+Name A Beutiful Naked Masseuse~
+Short a Masseuse~
+Long 
+A Beutiful Masseuse is waiting to fufil your fantasy.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Sex 2
+Guard 0
+End
+
+#3450
+Name a thief~
+Short a thief~
+Long 
+A thief is here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 3
+Alignment 16960
+Money 200
+Level 200
+MobType 27
+Guard 0
+Spec spec_breath_any
+End
+
+#0
+
+
+
+#OBJDATA
+#3201
+Name mace small steel~
+Short a small [0m[36msteel[0m mace~
+Descr
+A small steel mace lies here on the ground.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 11 0 8 0 0 0 2 6 0
+Weight 1
+Cost 775
+Affect 18 -1 1 0 0
+End
+
+#3202
+Name tiny fountain small~
+Short a tiny fountain~
+Descr
+A tiny fountain is here, pouring forth a trickle of water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3203
+Name nuts small nut pine pinenuts~
+Short a few pine-nuts~
+Descr
+A few pine-nuts have been scattered on the ground here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 4
+End
+
+#3205
+Name stream water~
+Short a small stream~
+Descr
+A small stream trickles along here.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3206
+Name pool water~
+Short a small pool~
+Descr
+A small pool has been formed at the base of the waterfall here.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3207
+Name fur cave bear cavebear about +1 STR~
+Short a large cave-bear [33mfur[0m~
+Descr
+A large cave-bear fur sits here on the ground, apparently unclaimed.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 29 29 0 0
+Weight 9
+Cost 5260
+Affect 1 1 1 0 0
+End
+
+#3208
+Name large steel sword jagged edged~
+Short a jagged-edged [36msteel[0m sword~
+Descr
+A jagged-edged, steel sword lies here, looking massive.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 17 0 3 0 0 0 2 9 0
+Weight 10
+Cost 8440
+Affect 18 -1 1 0 0
+End
+
+#3209
+Name blue metal bracelet strange wrist~
+Short a [34mblue[1m[30m, [30mmetal [0mbracelet~
+Descr
+A strange, blue metal bracelet lies here on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 40 40 10 1
+Weight 1
+Cost 8809
+Affect 17 -2 1 0 0
+Affect 18 1 1 0 0
+End
+
+#3210
+Name blue steel breastplate breast plate body~
+Short a [34mblue [0msteel breastplate~
+Descr
+A magnificent, [34mblue [0m[36msteel breastplate lies here on the ground
+[0;36m~
+Type 9
+Extra 536870913
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 10 10 40 40 10 1
+Weight 4
+Cost 9995
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#3211
+Name blue chain pants leggings legs~
+Short a pair of [1m[34mblue[0m, [1m[37mchain pants~
+Descr
+A pair of [1m[34mblue[0m-[1m[37msteel [0m[36mchain pants lies here.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 10 10 40 40 10 1
+Weight 8
+Cost 4505
+Affect 14 5 1 0 0
+Affect 17 -1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#3212
+Name skirt dirty~
+Short a dirty skirt~
+Descr
+A dirty skirt lies here on the ground.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 4
+End
+
+#3213
+Name clay earring +5 HP~
+Short a [1m[30mcl[0m[37ma[1m[30my [0mearring~
+Descr
+An earring made of red clay is here on the ground.
+[0;36m~
+Type 9
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 40 40 10 1
+Weight 0
+Cost 1095
+Affect 20 -1 1 0 0
+Affect 21 4 1 0 0
+Affect 13 5 1 0 0
+End
+
+#3214
+Name spring water~
+Short a large spring~
+Descr
+A large spring of water is here, bubbling forth pure mountain water.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3215
+Name river stream water~
+Short a river~
+Descr
+A river is here, flowing with moderate force in this riverbed.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3216
+Name lake water~
+Short the lake~
+Descr
+This should never be seen by morts :)
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3217
+Name large pool water~
+Short a large pool~
+Descr
+A large pool is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 24557 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3218
+Name fountain water~
+Short a large fountain~
+Descr
+A large fountain is here, pouring forth cool, refreshing water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3219
+Name wooden buckler wood shield~
+Short a [0m[33mwooden[0m buckler~
+Descr
+A wooden buckler lies here on the ground.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 10 10 40 40 10 1
+Weight 2
+Cost 780
+Affect 17 -2 1 0 0
+End
+
+#3220
+Name sign~
+Short a sign~
+Descr
+A sign is here, firmly implanted into the ground.
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The sign reads:
+
+
+ Yes, you still journey through the lands created by the ancient hand
+
+
+ of Orin.  Enjoy the scenery, and if you need me... blah blah..
+
+
+There are some strange runes carved below....
+
+
+"oemlen@indiana.edu"
+
+
+~
+End
+
+#3221
+Name dagger wavy blade bladed~
+Short a wavy-bladed dagger~
+Descr
+A wavy-bladed dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 11 0 0 0 3 3 0
+Weight 3
+Cost 1944
+End
+
+#3222
+Name falchion sword~
+Short a falchion~
+Descr
+A falchion lies here on the ground, waiting to be claimed.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 3 0 0 0 2 7 0
+Weight 5
+Cost 1965
+Affect 19 1 1 0 0
+Affect 18 -2 1 0 0
+End
+
+#3223
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 35 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 955
+End
+
+#3224
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 87 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 1320
+End
+
+#3225
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 24 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 1875
+End
+
+#3326
+Name black heart beating still gem DEATH LVL 30~
+Short a [30m[1mblack[37m[0m, still-beating heart~
+Descr
+A black heart lies here, still beating slowly on the ground!
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 16 50 50 30 0 0 0 0 0 0
+Weight 1
+Cost 12
+Affect 26 3 1 0 0
+End
+
+#3327
+Name silver breastplate plate breast body~
+Short a [1m[37msilver [0mbreastplate~
+Descr
+[36mA [1m[37msilver [0m[36mbreastplate lies here on the ground, looking magnificent.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 10 10 40 40 10 1
+Weight 4
+Cost 7550
+End
+
+#3328
+Name heavy chain cloak about~
+Short a heavy [1m[37mc[0m[37mh[1m[37ma[0m[37mi[1m[37mn[0m cloak~
+Descr
+A heavy chain cloak lies here, bunched up on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 10 10 40 40 10 1
+Weight 5
+Cost 9584
+Affect 14 -10 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#3329
+Name clear stone bracelet quartz wrist~
+Short a [1m[37mclear[30m stone [0mbracelet~
+Descr
+A clear stone bracelet made out of quartz crystals lies here.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 20 20 20 20 20 1
+Weight 0
+Cost 2095
+Affect 18 1 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#3330
+Name sceptre large~
+Short a large sceptre~
+Descr
+A large scepter lies here on the ground.
+[0;36m~
+Type 5
+Extra 8913921
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 8 0 0 0 2 7 0
+Weight 4
+Cost 1430
+Affect 19 1 1 0 0
+End
+
+#3331
+Name white bracelet holy +5 HEALBONUS wrist~
+Short a [1m[33mh[37mo[33mly[0m, [1m[37mwhite[0m bracelet~
+Descr
+A holy-looking white bracelet lies here on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 40 40 10 1
+Weight 1
+Cost 9954
+Affect 17 -2 1 0 0
+Affect 27 5 1 0 0
+End
+
+#3332
+Name plain cloak travelling~
+Short a plain, [33mleather[0m travelling cloak~
+Descr
+A plain, leather travelling cloak lies here on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 40 40 10 1
+Weight 0
+Cost 421
+Affect 14 5 1 0 0
+End
+
+#3450
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#0
+
+
+
+#ROOMDATA
+#3201
+Name The Western Highway~
+Descr
+The sounds of birds chirping at all hours of the day, the sounds of grass
+gently swaying in the wind, and the sounds of a stream trickling nearby all
+ease your soul and make you smile.  There is a small path leading to the
+south of here.  
+~
+Movemess
+(null)~
+Door 0 0 0 4814 0 0
+~
+~
+Door 1 0 0 1154 30 30
+~
+door~
+Door 2 0 0 3203 30 30
+~
+door~
+Door 3 0 0 3205 30 30
+~
+door~
+End
+
+#3202
+Name Lush, Open Fields~
+Descr
+The lush green field seems alive with life and energy.  Everywhere you
+look, you can see small insects, different flowers, colorful soil and
+rocks...  You begin to appreciate what mother nature has done for the world.
+~
+Sector 2
+Reset M 1075 3 100
+Reset M 3201 7 100
+Movemess
+(null)~
+Door 0 0 0 3209 30 30
+~
+door~
+Door 1 0 0 1170 30 30
+~
+door~
+Door 2 0 0 1177 30 30
+~
+door~
+Door 3 0 0 3206 30 30
+~
+door~
+End
+
+#3203
+Name A Path through Open Fields~
+Descr
+The grasses sway gently in the breeze as the wind rustles each blade,
+making waves appear in the field.  You begin to think that each blade of
+grass is important in creating the beautiful effect of the field shimmering
+in the wind.  The path continues to the north and south.  
+~
+Sector 2
+Reset M 3340 3 100
+Movemess
+(null)~
+Door 0 0 0 3201 30 30
+~
+door~
+Door 1 0 0 1176 30 30
+~
+door~
+Door 2 0 0 3218 30 30
+~
+door~
+Door 3 0 0 3219 30 30
+~
+door~
+End
+
+#3204
+Name A Path Around Xylar~
+Descr
+The air is perfumed with the scent of sweet flowers and grass.  The air
+is clean and crisp, and you can see the highway in plain view to the south. 
+Far to the east you can see Xylar.
+~
+Reset M 3204 2 100
+Reset O 236 21 100
+Reset O 3201 21 70
+Reset O 219 4 100
+Reset O 206 6 100
+Reset O 202 7 100
+Movemess
+(null)~
+Door 0 0 0 3206 30 30
+~
+door~
+Door 1 0 0 1177 30 30
+~
+door~
+Door 2 0 0 4806 0 0
+~
+~
+Door 3 0 0 3211 30 30
+~
+door~
+End
+
+#3205
+Name The Western Highway~
+Descr
+The dirt and grass highway upon which you travel is comfortable and easy
+to walk upon.  The soil is soft but firm, and the wind blows gently upon
+your exposed skin, cooling you and refreshing your senses.  
+~
+Reset M 3337 1 100
+Reset M 3336 1 100
+Movemess
+(null)~
+Door 1 0 0 3201 30 30
+~
+door~
+Door 2 0 0 3219 30 30
+~
+door~
+Door 3 0 0 3214 30 30
+~
+door~
+End
+
+#3206
+Name A Path Around Xylar~
+Descr
+The fertile soil underfoot makes for easy travel.  It also provides a
+lush carpet for trees, grasses, bushes and flowers to grow upon.  The air is
+sweet with the smell of wildflowers, and a gentle wind caresses your face.  
+~
+Reset M 3202 6 100
+Movemess
+(null)~
+Door 0 0 0 3207 30 30
+~
+door~
+Door 1 0 0 3202 30 30
+~
+door~
+Door 2 0 0 3204 30 30
+~
+door~
+Door 3 0 0 3210 30 30
+~
+door~
+End
+
+#3207
+Name A Path Around Xylar~
+Descr
+The grasses here do not grow as tall because of the trees and bushes
+blocking thier light.  The sounds of wildlife come from all around you, and
+the ground is soft and fertile.  
+~
+Reset M 3202 6 100
+Movemess
+(null)~
+Door 0 0 0 3244 30 30
+~
+door~
+Door 1 0 0 3209 30 30
+~
+door~
+Door 2 0 0 3206 30 30
+~
+door~
+Door 3 0 0 3208 30 30
+~
+door~
+Door 5 0 0 15801 0 0
+~
+~
+End
+
+#3208
+Name A Trickling Stream in a Light Forest~
+Descr
+A trickling stream runs here, providing fresh, clean water for animals
+and plants alike.  The soil is soft, and the trees are scattered just enough
+to let grass grow and flowers bloom.  
+~
+Sector 6
+Reset M 3205 2 100
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3243 30 30
+~
+door~
+Door 1 0 0 3207 30 30
+~
+door~
+Door 2 0 0 3210 30 30
+~
+door~
+Door 3 0 0 3241 30 30
+~
+door~
+End
+
+#3209
+Name A Path Around Xylar~
+Descr
+The grasses sway gently in the breeze as the wind rustles each blade,
+making waves appear in the field.  You begin to think that each blade of
+grass is important in creating the beautiful effect of the field shimmering
+in the wind.  
+~
+Movemess
+(null)~
+Door 0 0 0 3245 30 30
+~
+door~
+Door 1 0 0 1171 30 30
+~
+door~
+Door 2 0 0 3202 30 30
+~
+door~
+Door 3 0 0 3207 30 30
+~
+door~
+End
+
+#3210
+Name A Trickling Stream in a Light Forest~
+Descr
+The sparkling water that runs through here is cold and looks quite
+refreshing.  The stream bank is covered with grass and flowers, and trees
+spring up here and there, creating a forest-like atmosphere.  
+~
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3208 30 30
+~
+door~
+Door 1 0 0 3206 30 30
+~
+door~
+Door 2 0 0 3211 30 30
+~
+door~
+Door 3 0 0 3213 30 30
+~
+door~
+End
+
+#3211
+Name Light Forest near the Western Highway~
+Descr
+The grasses here do not grow as tall because of the trees and bushes
+blocking thier light.  The sounds of wildlife come from all around you, and
+the ground is soft and fertile.  You can see the western highway just to the
+south of here.  
+~
+Sector 2
+Reset M 3350 1 100
+Reset O 1062 23 80
+Reset O 201 7 90
+Reset O 223 -1 30
+Reset O 3329 -1 25
+Reset O 3327 4 68
+Reset O 3328 11 11
+Movemess
+(null)~
+Door 0 0 0 3210 30 30
+~
+door~
+Door 1 0 0 3204 30 30
+~
+door~
+Door 2 0 0 4809 0 0
+~
+~
+Door 3 0 0 3212 30 30
+~
+door~
+End
+
+#3212
+Name A Trickling Stream in a Light Forest~
+Descr
+A trickling stream runs here, providing fresh, clean water for animals
+and plants alike.  The soil is soft, and the trees are scattered just enough
+to let grass grow and flowers bloom.  
+~
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3213 30 30
+~
+door~
+Door 1 0 0 3211 30 30
+~
+door~
+Door 2 0 0 4812 0 0
+~
+~
+Door 3 0 0 3237 30 30
+~
+door~
+End
+
+#3213
+Name A Trickling Stream in a Light Forest~
+Descr
+The ground is covered with grass and wildflowers, and small trees are
+scattered throughout the area.  A small, crystal-clear stream runs along
+here, providing the forest's inhabitants with clean water.  To the north you
+can hear the sound of fast-rushing water.  
+~
+Sector 6
+Reset M 1074 4 100
+Reset M 3201 7 100
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3241 30 30
+~
+door~
+Door 1 0 0 3210 30 30
+~
+door~
+Door 2 0 0 3212 30 30
+~
+door~
+Door 3 0 0 3249 30 30
+~
+door~
+End
+
+#3214
+Name A Small Stream Crossing on the Western Highway~
+Descr
+The highway crosses a small, trickling stream here.  The water looks
+clean and refreshing.  The highway continues east and west, and a light
+forest borders the road to the north and south.  
+~
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 1 0 0 3205 30 30
+~
+door~
+Door 2 0 0 3220 30 30
+~
+door~
+Door 3 0 0 3215 30 30
+~
+door~
+End
+
+#3215
+Name The Western Highway~
+Descr
+The dirt and grass highway upon which you travel is comfortable and easy
+to walk upon.  The soil is soft but firm, and the wind blows gently upon
+your exposed skin, cooling you and refreshing your senses.  
+~
+Movemess
+(null)~
+Door 1 0 0 3214 30 30
+~
+door~
+Door 2 0 0 3221 30 30
+~
+door~
+Door 3 0 0 3216 30 30
+~
+door~
+End
+
+#3216
+Name A Bend in the Western Highway~
+Descr
+The highway bends to the south annd east here.  Far to the east, you can
+make out the great city of Xylar.  There is a strange rock here that has the
+name of several great ancient gods here: "Orin and Smack" 
+~
+Movemess
+(null)~
+Door 1 0 0 3215 30 30
+~
+door~
+Door 2 0 0 3222 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A large rock blocks your way and forces the road to curve south.  
+~
+door~
+End
+
+#3217
+Name An Open Field of Wheat~
+Descr
+The trees here are of moderate size, and several pine trees are mixed
+with the coniferous trees.  The smell of dry leaves and pine is wonderful,
+and a cool wind rustles the leaves playfully.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 1176 30 30
+~
+door~
+Door 1 0 0 1174 30 30
+~
+door~
+Door 3 0 0 3218 30 30
+~
+door~
+End
+
+#3218
+Name A Path through a Lightly Forested Area~
+Descr
+The trees here are moderately dense, and you can see fields open up to
+the north.  The air is fresh and smells of flowers and pine, and the travel
+is easy upon the soft soil underfoot.  The path continues south and north.  
+~
+Sector 2
+Reset M 1074 4 100
+Movemess
+(null)~
+Door 0 0 0 3203 30 30
+~
+door~
+Door 1 0 0 3217 30 30
+~
+door~
+Door 2 0 0 3223 30 30
+~
+door~
+Door 3 0 0 3289 30 30
+~
+door~
+End
+
+#3219
+Name A Light Forest Bordering the Western Highway~
+Descr
+The short trees here do not obstruct your view of the sky, and this
+place is almost like an open field with small coniferous trees growing in
+small patches.  The air is clean and fresh, and you feel full of power.  
+~
+Sector 2
+Reset M 3201 7 100
+Reset M 3351 1 100
+Reset O 3330 21 45
+Reset O 9806 4 100
+Reset O 3331 13 1
+Movemess
+(null)~
+Door 0 0 0 3205 30 30
+~
+door~
+Door 1 0 0 3203 30 30
+~
+door~
+Door 2 0 0 3289 30 30
+~
+door~
+Door 3 0 0 3220 30 30
+~
+door~
+End
+
+#3220
+Name A Trickling Stream in a Light Forest~
+Descr
+A small stream runs through this area of light forest, providing clean,
+clear water to the trees, grasses and wildlife in the area.  You can see the
+road crossing the stream to the north.  
+~
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3214 30 30
+~
+door~
+Door 1 0 0 3219 30 30
+~
+door~
+Door 2 0 0 3287 30 30
+~
+door~
+Door 3 0 0 3221 30 30
+~
+door~
+End
+
+#3221
+Name A Lightly Forested Area near the Western Highway~
+Descr
+This area is spotted with many small trees and shrubs, although there are
+still wild grasses and wildflows growing on the ground.  You can see the
+western highway to the north and the west.  
+~
+Sector 2
+Reset M 3339 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Movemess
+(null)~
+Door 0 0 0 3215 30 30
+~
+door~
+Door 1 0 0 3220 30 30
+~
+door~
+Door 2 0 0 3286 30 30
+~
+door~
+Door 3 0 0 3222 30 30
+~
+door~
+End
+
+#3222
+Name The Western Highway~
+Descr
+The road widens here, and the dirt gets a bit harder as the air begins to
+dry ever so slightly.  You can still hear birds and wildlife all around you,
+and you can see light forest on either side of the road.  
+~
+Reset M 3223 1 100
+Reset O 237 21 70
+Reset O 207 6 100
+Reset O 225 5 100
+Reset O 220 4 100
+Reset O 201 7 100
+Movemess
+(null)~
+Door 0 0 0 3216 30 30
+~
+door~
+Door 2 0 0 3238 30 30
+~
+door~
+Door 3 0 0 3353 30 30
+~
+(null)~
+End
+
+#3223
+Name Outside the Northern Gate of Midgeton~
+Descr
+The small gate is barely high enough to step through, and you realize you
+must be at the legendary town of midgeton.  Rumored to be occupied only by
+small, weak humans, you are eager to find out if this rumor is true...  
+~
+Flags 2
+Sector 2
+Reset M 3208 3 100
+Reset M 3208 3 100
+Movemess
+(null)~
+Door 0 0 0 3218 30 30
+~
+door~
+Door 2 3 0 3224 30 30
+You see a weak wooden, tiny gate that leads into midgeton.  
+~
+gate~
+End
+
+#3224
+Name Inside the Northern Gate of Midgeton~
+Descr
+The pebbles underfoot look like small, rounded rocks, until you realize
+that they are the cobblestones for the main street of the town.  Main street
+of midgeton can be seen to the south, and the gate is to the north.  
+~
+Movemess
+(null)~
+Door 0 3 0 3223 30 30
+You see a tiny gate which provides ample defense for this village.  
+~
+gate~
+Door 2 0 0 3225 30 30
+~
+door~
+End
+
+#3225
+Name Main Midgeton Street~
+Descr
+The small cobbles underfoot and the tiny wooden houses around you make
+you feel as big as your ego.  There are several large houses which you can
+fit into to the northwest, southwest and the southeast.  
+~
+Reset M 3343 4 100
+Reset M 3209 5 100
+Movemess
+(null)~
+Door 0 0 0 3224 30 30
+~
+door~
+Door 1 0 0 3226 30 30
+~
+door~
+Door 3 0 0 3227 30 30
+~
+door~
+End
+
+#3226
+Name Midgeton's Main Square~
+Descr
+You stand in the large (?)  Central square of midgeton.  There is a small
+fountain trickling to the east, and main street can be seen to the west. 
+The incredible fear in the midgets you meet makes you grin evilly.  
+~
+Reset M 3209 5 100
+Movemess
+(null)~
+Door 1 0 0 3232 30 30
+~
+door~
+Door 2 0 0 3230 30 30
+~
+door~
+Door 3 0 0 3225 30 30
+~
+door~
+End
+
+#3227
+Name Main Midgeton Street~
+Descr
+The tiny cobbles make you laugh at the futility of this race of midgets. 
+Perhaps you should just crush them all to put them out of their misery.  The
+main street continues east and west of here.  
+~
+Reset M 3209 5 100
+Movemess
+(null)~
+Door 1 0 0 3225 30 30
+~
+door~
+Door 3 0 0 3228 30 30
+~
+door~
+End
+
+#3228
+Name Main Midgeton Street~
+Descr
+The west end of Midgeton's main street is swept and clean.  You can see a
+door with ornate carvings on it to the south, and a small wooden door to the
+north.  The main street ends a ways to the east in Midgeton's main square.  
+~
+Reset M 3343 4 100
+Reset M 3209 5 100
+Movemess
+(null)~
+Door 0 3 0 3234 30 30
+You see a weak, wooden door.
+~
+woodendoor~
+Door 1 0 0 3227 30 30
+~
+door~
+Door 2 3 0 3229 30 30
+You see a wooden door with fancy carvings on it.
+~
+door~
+End
+
+#3229
+Name Inside the Chief of Midgeton's House~
+Descr
+You can almost stand upright in this large, well-furnished midget's home.
+There are small trophies on the walls, and there is a door leading east into
+the council chamber of Midgeton.  
+~
+Flags 4
+Sector 0
+Reset M 3210 1 100
+Reset O 58 -1 20
+Reset O 30 21 100
+Reset M 3211 2 100
+Reset M 3211 2 100
+Movemess
+(null)~
+Door 0 3 0 3228 30 30
+You see the wooden door that leads out of this house.  
+~
+door~
+Door 1 0 0 3233 30 30
+~
+door~
+End
+
+#3230
+Name Midgeton's Main Square~
+Descr
+This part of Midgeton's main square is where all the punks and
+troublemakers must hang out, judging from the tiny bits of garbage all over
+the ground.  You can see a house that almost looks big enough to enter to
+the east.  
+~
+Movemess
+(null)~
+Door 0 0 0 3226 30 30
+~
+door~
+Door 1 0 0 3231 30 30
+~
+door~
+End
+
+#3231
+Name Midgeton's Main Square~
+Descr
+As you look around this tiny square, you notice a house that might be
+just big enough to fit in to the east of here.  To the northwest you can see
+main street, and to the west you can see a dirty part of the main square.  
+~
+Movemess
+(null)~
+Door 0 0 0 3232 30 30
+~
+door~
+Door 1 3 0 3235 30 30
+You see a small wooden door.
+~
+door~
+Door 3 0 0 3230 30 30
+~
+door~
+End
+
+#3232
+Name Midgeton's Main Square~
+Descr
+You stand in a central meeting place for midgetonians.  The tiny,
+trickling fountain must seem ten feet tall to the little buggers.  You can
+see a house that might be large enough to enter to the south east.  
+~
+Reset M 3209 5 100
+Reset O 3202 -5 100
+Movemess
+(null)~
+Door 2 0 0 3231 30 30
+~
+door~
+Door 3 0 0 3226 30 30
+~
+door~
+End
+
+#3233
+Name Inside the Council Chamber of Midgeton~
+Descr
+The plain council chamber has one single, small table in the middle. 
+Besides that, the room is totally bare.  You have trouble standing up in
+here because of the low ceiling.  
+~
+Flags 4
+Sector 0
+Reset M 3212 1 100
+Reset M 3212 1 100
+Reset M 3212 1 100
+Movemess
+(null)~
+Door 1 259 0 3450 30 30
+~
+hiddendoor~
+Door 3 0 0 3229 30 30
+~
+door~
+End
+
+#3234
+Name Inside a House in Midgeton~
+Descr
+You stand in a small house, just north of Midgeton's main street.  To the
+south you can see the puny wooden door that leads out of this dirty little
+house.  The smell of cooking rabbit lingers in the air here.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 3228 30 30
+You see a weak wooden door.
+~
+woodendoor~
+End
+
+#3235
+Name Inside a House in Midgeton~
+Descr
+You have to duck and almost crawl to get into this house, but once you
+are inside, you have little problem standing.  There is tiny furniture all
+over the room, and several other rooms leading out of this room, which you
+cannot enter because of your size.  
+~
+Flags 4
+Sector 0
+Reset M 3343 4 100
+Reset M 3343 4 100
+Movemess
+(null)~
+Door 3 3 0 3231 30 30
+You see a small wooden door.
+~
+door~
+End
+
+#3236
+Name A Light Forest Bordering the Road~
+Descr
+The light forest borders the western highway to the north.  To the
+south, you can actually see the highway bend to the west and the south. 
+There looks like there has been a fire here recently.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3250 30 30
+~
+door~
+Door 1 0 0 3237 30 30
+~
+door~
+Door 2 0 0 4817 0 0
+~
+~
+Door 3 0 0 0 30 30
+A large cliff-face rises up to the west, blocking your way.  
+~
+(null)~
+End
+
+#3237
+Name A Light Forest Bordering the Road~
+Descr
+The air smells of pine, which is suprising considering the large amount
+of coniferous trees all around you.  The trees are not too tall, and it
+looks like there has been a forest fire here a few years back.  
+~
+Sector 3
+Reset M 3338 1 100
+Movemess
+(null)~
+Door 0 0 0 3249 30 30
+~
+door~
+Door 1 0 0 3212 30 30
+~
+door~
+Door 2 0 0 4815 0 0
+~
+~
+Door 3 0 0 3236 30 30
+~
+door~
+End
+
+#3238
+Name The Western Highway~
+Descr
+The large dirt highway turns to the north and west here.  The air is
+fresh and clean, and the travel is moderately easy.  A pleasant breeze blows
+gently along the grasses by the side of the road.  
+~
+Movemess
+(null)~
+Door 0 0 0 3222 30 30
+~
+door~
+Door 2 0 0 3355 30 30
+~
+door~
+Door 3 0 0 3239 30 30
+~
+door~
+End
+
+#3239
+Name The Western Highway~
+Descr
+The dirt and grass highway upon which you travel is comfortable and easy
+to walk upon.  The soil is soft but firm, and the wind blows gently upon
+your exposed skin, cooling you and refreshing your senses.  
+~
+Reset M 3352 1 100
+Reset O 206 -1 100
+Reset O 201 -1 100
+Reset O 211 -1 100
+Reset O 236 -1 100
+Movemess
+(null)~
+Door 0 0 0 3353 30 30
+~
+(null)~
+Door 1 0 0 3238 30 30
+~
+door~
+Door 2 0 0 3356 30 30
+~
+(null)~
+Door 3 0 0 3240 30 30
+~
+door~
+End
+
+#3240
+Name The Western Highway~
+Descr
+The large highway grows narrower here, and almost just looks like two
+wagon tracks in a grassy field.  Trees grow on either side of the road,
+providing shade on hot days, and shelter from rain on colder days.  
+~
+Movemess
+(null)~
+Door 0 0 0 3354 30 30
+~
+(null)~
+Door 1 0 0 3239 30 30
+~
+door~
+Door 2 0 0 3357 30 30
+~
+(null)~
+Door 3 0 0 3358 30 30
+~
+(null)~
+End
+
+#3241
+Name A Forest near the Cliffs~
+Descr
+The trees are quite large here, and the jutting cliff rises up quite
+inexpectedly to the west.  The looks like there is a plateau up on top of
+the cliff if you could get up there.  Even with grappling equipment, this
+cliff is far from climbable.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3242 30 30
+~
+door~
+Door 1 0 0 3208 30 30
+~
+door~
+Door 2 0 0 3213 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A large cliff-face rises up to the west, blocking your progress.  
+~
+door~
+Door 4 0 0 3280 30 30
+~
+door~
+End
+
+#3242
+Name At the Base of a Tall Cliff~
+Descr
+The trees around you are tall and healthy, and a jutting cliff rises up
+to the sky to the north and west.  There seems to be a small hole in the
+cliff to the west...  It almost looks like a cave.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 3243 30 30
+~
+door~
+Door 2 0 0 3241 30 30
+~
+door~
+Door 3 0 0 3251 30 30
+A large cliff-face rises up to the west, blocking your movement in that
+direction.  
+~
+door~
+Door 4 0 0 3280 30 30
+~
+door~
+End
+
+#3243
+Name At the Base of a Large Waterfall~
+Descr
+Magnificent rushing waters pour down the side of the cliff, forming a
+beautiful waterfall.  There is a pool here at the bottom of the cliff, and a
+stream runs south from it.  The rocks to the north are slippery and totally
+unclimbable.  
+~
+Sector 6
+Movemess
+(null)~
+Door 1 0 0 3244 30 30
+~
+door~
+Door 2 0 0 3208 30 30
+~
+door~
+Door 3 0 0 3242 30 30
+~
+door~
+Door 4 0 0 3279 30 30
+~
+door~
+End
+
+#3244
+Name At the Base of a Tall Cliff~
+Descr
+The trees are large here, forming a moderately-thick forest.  A large,
+unscalable cliff rises up into the sky to the north.  Perhaps there is a way
+to get to the top nearby.  You can hear rushing water somewhere to the west.
+~
+Sector 3
+Reset M 1074 4 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A large, totally unclimbable cliff-face rises up to the north.  
+~
+door~
+Door 1 0 0 3245 30 30
+~
+door~
+Door 2 0 0 3207 30 30
+~
+door~
+Door 3 0 0 3243 30 30
+~
+door~
+Door 4 0 0 3285 30 30
+~
+door~
+End
+
+#3245
+Name A Lightly Forested area near some Tall Cliffs~
+Descr
+The forest grows a little thicker here, and to the northwest you can see
+a massive cliff rise up, reaching into the sky.  Far at the top of the cliff
+it looks like there might be a flat plateau upon which you can travel.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3246 30 30
+~
+door~
+Door 1 0 0 1172 30 30
+~
+door~
+Door 2 0 0 3209 30 30
+~
+door~
+Door 3 0 0 3244 30 30
+~
+door~
+End
+
+#3246
+Name The Base of a Steep Cliff~
+Descr
+A large cliff-face rises up far above you to the north and to the west. 
+The trees are large, and the forest floor is dark and soft to walk upon. 
+The trees provide excellent shade during the summer and protection during
+the winter months.  
+~
+Sector 3
+Reset M 3213 3 100
+Reset O 3203 21 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A huge, unscalable cliff-face rises up to the north.
+~
+door~
+Door 1 0 0 3247 30 30
+~
+door~
+Door 2 0 0 3245 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A large, unscalable cliff-face blocks your way to the west.  
+~
+door~
+Door 4 0 0 3277 30 30
+~
+door~
+End
+
+#3247
+Name A Lightly Forested Area near Xylar~
+Descr
+The sparsity of the trees barely makes this place a forest, but the
+wildlife and sounds of birds can be heard above you in the trees.  The
+forest floor is made of soft soil, which is comfortable to walk upon.  
+~
+Sector 3
+Reset M 3213 3 100
+Reset O 3203 21 35
+Movemess
+(null)~
+Door 0 0 0 3248 30 30
+~
+door~
+Door 1 0 0 1179 30 30
+~
+door~
+Door 2 0 0 1172 30 30
+~
+door~
+Door 3 0 0 3246 30 30
+~
+door~
+End
+
+#3248
+Name A Dense Forest at the Base of a Cliff~
+Descr
+The large, tall trees press up against a massive cliff to the west.  You
+think at first yuou could climb it if you had the proper equipment, but then
+you realize that you could never make it to the top.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 9825 30 30
+Huge, thick trees make progress to the north impossible.  
+~
+door~
+Door 1 0 0 1181 30 30
+~
+door~
+Door 2 0 0 3247 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A tall, totally unclimbable cliff rises up to the west.  
+~
+door~
+End
+
+#3249
+Name A Forest near a Large Cliff-face~
+Descr
+A large cliff-face rises up far above you to the north.  The trees are
+large, and the forest floor is dark and soft to walk upon.  The trees
+provide excellent shade in the summer and protection in the winter.  
+~
+Shd 1
+Sector 3
+Reset M 3218 1 100
+Reset O 3209 -1 14
+Reset O 237 22 98
+Reset O 3210 4 8
+Reset O 3211 6 16
+Reset O 3208 21 4
+Reset O 3213 -1 15
+Reset O 3328 -1 35
+Reset O 3219 -1 15
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A large cliff-face rises up to the norht, blocking your movement in that
+direction.  The rocks are too steep to climb.  
+~
+door~
+Door 1 0 0 3213 30 30
+~
+door~
+Door 2 0 0 3237 30 30
+~
+door~
+Door 3 0 0 3250 30 30
+~
+door~
+Door 4 0 0 3281 30 30
+~
+door~
+End
+
+#3250
+Name A Forest near a Large Cliff-face~
+Descr
+The trees are quite large here, and the jutting cliff rises up quite
+inexpectedly to the north.  The looks like there is a plateau up on top of
+the cliff if you could get up there.  Even with grappling equipment, this
+cliff is far from climbable.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3382 30 30
+A large cliff-face rises up to the north.  
+~
+door~
+Door 1 0 0 3249 30 30
+~
+door~
+Door 2 0 0 3236 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A large cliff-face rises up to the west, blocking progress in that direction.
+~
+(null)~
+Door 4 0 0 3282 30 30
+~
+door~
+End
+
+#3251
+Name Inside a Cave in the Cliffs~
+Descr
+Water drips from the grey stone ceiling, and a cool wind blows in from
+the east.  A twisty looking passage begins to the north, and you can't hear
+anything but the drip of water coming from it.  
+~
+Flags 7
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3252 30 30
+~
+door~
+Door 1 0 0 3242 30 30
+~
+door~
+End
+
+#3252
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  You can see a different-looking passage to the south!  
+~
+Flags 5
+Sector 0
+Reset M 3215 5 100
+Movemess
+(null)~
+Door 0 0 0 3254 30 30
+~
+door~
+Door 2 0 0 3251 30 30
+~
+door~
+Door 3 0 0 3253 30 30
+~
+door~
+End
+
+#3253
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3255 30 30
+~
+door~
+Door 1 0 0 3252 30 30
+~
+door~
+End
+
+#3254
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 3252 30 30
+~
+door~
+Door 3 0 0 3261 30 30
+~
+door~
+End
+
+#3255
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 3253 30 30
+~
+door~
+Door 3 0 0 3256 30 30
+~
+door~
+End
+
+#3256
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3215 5 100
+Movemess
+(null)~
+Door 1 0 0 3255 30 30
+~
+door~
+Door 2 0 0 3257 30 30
+~
+door~
+End
+
+#3257
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3256 30 30
+~
+door~
+Door 3 0 0 3258 30 30
+~
+door~
+End
+
+#3258
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 134217733
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3259 30 30
+~
+door~
+Door 1 0 0 3257 30 30
+~
+door~
+End
+
+#3259
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3260 30 30
+~
+door~
+Door 2 0 0 3258 30 30
+~
+door~
+End
+
+#3260
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3217 1 100
+Reset O 3207 11 15
+Movemess
+(null)~
+Door 2 0 0 3259 30 30
+~
+door~
+End
+
+#3261
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3215 5 100
+Movemess
+(null)~
+Door 0 0 0 3262 30 30
+~
+door~
+Door 1 0 0 3254 30 30
+~
+door~
+End
+
+#3262
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3215 5 100
+Movemess
+(null)~
+Door 1 0 0 3263 30 30
+~
+door~
+Door 2 0 0 3261 30 30
+~
+door~
+Door 3 0 0 3264 30 30
+~
+door~
+End
+
+#3263
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 7
+Sector 0
+Reset M 3219 1 100
+Reset O 3212 6 100
+Movemess
+(null)~
+Door 3 0 0 3262 30 30
+~
+door~
+End
+
+#3264
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 7
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3265 30 30
+~
+door~
+Door 1 0 0 3262 30 30
+~
+door~
+End
+
+#3265
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3214 2 100
+Movemess
+(null)~
+Door 1 0 0 3266 30 30
+~
+door~
+Door 2 0 0 3264 30 30
+~
+door~
+Door 3 0 0 3267 30 30
+~
+door~
+End
+
+#3266
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 3265 30 30
+~
+door~
+End
+
+#3267
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 3265 30 30
+~
+door~
+Door 2 0 0 3268 30 30
+~
+door~
+End
+
+#3268
+Name A Twisty Passage in a Cave~
+Descr
+The walls all look the same; grey, bleak, cold stone.  Water drips in a
+constant rhythm from the stone ceiling, and you begin to think you might be
+lost.  A cold wind blows around here, suggesting that there must be a way
+out of this maze.  
+~
+Flags 5
+Sector 0
+Reset M 3216 1 100
+Movemess
+(null)~
+Door 0 0 0 3267 30 30
+~
+door~
+End
+
+#3269
+Name Narrow Trail up a Steep Slope~
+Descr
+This small trail is treacherous and narrow, and to the south there is a
+massive drop-off.  To the west is also an incredible dropoff, and you fear
+that the loose rock underfoot will make you plummet to your death.  The
+trail continues to the north.  
+~
+Sector 2
+Reset M 3220 1 100
+Movemess
+(null)~
+Door 0 0 0 3270 30 30
+~
+door~
+Door 2 0 0 3277 30 30
+~
+door~
+Door 3 0 0 3278 30 30
+~
+door~
+End
+
+#3270
+Name Narrow Trail up a Steep Slope~
+Descr
+The trail slowly widens to the west on top of the incredible, high
+plateau that overlooks all of the lands west of Xylar.  To the south, the
+narrow, treacherous trail continues.  To the north and east, cliff faces
+rise up, blocking your progress.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A cliff-face blocks your progress in that direction.
+~
+door~
+Door 1 0 0 0 30 30
+A cliff-face blocks your progress in that direction.  
+~
+door~
+Door 2 0 0 3269 30 30
+~
+door~
+Door 3 0 0 3271 30 30
+~
+door~
+End
+
+#3271
+Name On Top of a High Plateau~
+Descr
+The magnificent, grassy plateau looks like beautiful waves on the ocean
+as a wind blows through the tall grasses.  Several rocks lie around, their
+roots somewhere deep in the center of the plateau.  There is a spring here,
+which pours forth an incredible amount of pure, fresh water.  
+~
+Sector 6
+Reset M 3222 2 100
+Reset O 3214 -5 100
+Reset M 3221 1 100
+Movemess
+(null)~
+Door 1 0 0 3270 30 30
+~
+door~
+Door 2 0 0 3272 30 30
+~
+door~
+Door 3 0 0 3274 30 30
+~
+door~
+End
+
+#3272
+Name On top of a High Plateau~
+Descr
+You stand at the southern edge of this incredible plateau.  Sheer cliff
+faces drop straight down to thick forest straight below and to the south of
+here.  You feel dizzy as you look downward...  There is a small stream that
+trickles along here before it plunges over the cliff face to the south.  
+~
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3271 30 30
+~
+door~
+Door 1 0 0 3278 30 30
+~
+door~
+Door 2 0 0 3279 30 30
+~
+door~
+Door 3 0 0 3273 30 30
+~
+door~
+End
+
+#3273
+Name On top of a High Plateau~
+Descr
+The smell of pure, fresh air blowing across your battle-hardened nose
+makes you feel like a great god standing atop a huge mountain overlooking
+your followers.  To the south is a dropoff straight down to some thick
+forest.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 3274 30 30
+~
+door~
+Door 1 0 0 3272 30 30
+~
+door~
+Door 2 0 0 3280 30 30
+~
+door~
+Door 3 0 0 3275 30 30
+~
+door~
+End
+
+#3274
+Name On top of a High Plateau~
+Descr
+Tall grasses and a cool wind make you feel like you are standing on top
+of the world.  As you look south across the lands west of Xylar, you can see
+the western highway and large forested areas.  Far to the south you can make
+out swamps and mountains.  
+~
+Sector 2
+Reset M 3222 2 100
+Movemess
+(null)~
+Door 1 0 0 3271 30 30
+~
+door~
+Door 2 0 0 3273 30 30
+~
+door~
+End
+
+#3275
+Name On top of a High Plateau~
+Descr
+The spacious plateau, jutting up from the flat lands just west of Xylar
+makes you wonder about its geographical creation.  What catastrophic event
+caused this great piece of earth to rise up several thousand feet from the
+forest floor below?  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 3273 30 30
+~
+door~
+Door 2 0 0 3281 30 30
+~
+door~
+Door 3 0 0 3276 30 30
+~
+door~
+End
+
+#3276
+Name On top of a High Plateau~
+Descr
+As you peer over the ledge to the south, down upon miniature trees and
+grasses, you begin to feel dizzy.  The grass underfoot is soft and
+comfortable, and you realize this would be a nice place to sit down and
+rest, away from the ledge.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+~
+door~
+Door 1 0 0 3275 30 30
+~
+door~
+Door 2 0 0 3282 30 30
+~
+door~
+End
+
+#3277
+Name In the Air by a Large Plateau~
+Descr
+The view from mid-air is magnificent; below you are huge treetops and
+just to the north of you is a small path along the cliff-face.  The breeze
+blows against you, buffeting you around, and although you are flying
+comfortably, it would be safer to land soon.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3269 30 30
+~
+door~
+Door 5 0 0 3246 30 30
+~
+door~
+End
+
+#3278
+Name In the Air by a Large Plateau~
+Descr
+A cool breeze brushes against you, blowing you gently around as you hover
+here in mid-air.  The view is spectacular, and although you are used to
+flying, the thousand foot drop off below still makes you nervous.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bang into a cliff wall..  Try going east or west.  
+~
+door~
+Door 1 0 0 3269 30 30
+~
+door~
+Door 2 0 0 3285 30 30
+~
+door~
+Door 3 0 0 3272 30 30
+~
+door~
+Door 5 0 0 3246 30 30
+~
+door~
+End
+
+#3279
+Name In the Air above a Huge Waterfall~
+Descr
+As you hover in mid-air, you notice a spectacular waterfall below you. 
+It cascades down almost a thousand feet, crashing against the rocks below. 
+Mist rises off the water, cooling your tired skin and refreshing you.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3272 30 30
+~
+door~
+Door 1 0 0 3285 30 30
+~
+door~
+Door 3 0 0 3280 30 30
+~
+door~
+Door 5 0 0 3243 30 30
+~
+door~
+End
+
+#3280
+Name In the Air by a Large Plateau~
+Descr
+Strong winds buffet you around here in the air, and several times you fly
+dangerously close to the rocks.  Down below you lies a large forest, and the
+view from here is spectacular.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3273 30 30
+~
+door~
+Door 1 0 0 3279 30 30
+~
+door~
+Door 3 0 0 3281 30 30
+~
+door~
+Door 5 0 0 3241 30 30
+~
+door~
+End
+
+#3281
+Name In the Air by a Large Plateau~
+Descr
+Cool winds blow against you, chilling your blood.  As you look down, you
+begin to get dizzy, even though your flying experience has hardened you to
+the perspectives of free flight...  It looks like it's almost 1000 feet to
+the bottom of the forest below.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3275 30 30
+~
+door~
+Door 1 0 0 3280 30 30
+~
+door~
+Door 3 0 0 3282 30 30
+~
+door~
+Door 5 0 0 3249 30 30
+~
+door~
+End
+
+#3282
+Name In the Air by a Large Plateau~
+Descr
+A strong gust of wind blows you around, gently pushing you into the rocky
+cliff-face.  The huge dropoff below makes your head spin even with your
+extensive free-flight experiences.  Trees spot the land below like small
+toothpicks, and you realize you must be over a thousand feet up.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3276 30 30
+~
+door~
+Door 1 0 0 3281 30 30
+~
+door~
+Door 5 0 0 3250 30 30
+~
+door~
+End
+
+#3285
+Name In the Air by a Large Plateau~
+Descr
+A cool breeze brushes against you, blowing you gently around as you hover
+here in mid-air.  The view is spectacular, and although you are used to
+flying, the thousand foot drop off below still makes you nervous.  
+~
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 3278 30 30
+~
+door~
+Door 3 0 0 3279 30 30
+~
+door~
+Door 5 0 0 3244 30 30
+~
+door~
+End
+
+#3286
+Name A Lightly Forested Area near the Western Highway~
+Descr
+The western highway can be seen in plain view just to the west of here. 
+More forest continues to the north and east, and the pungent smell of sap
+and pine comes from the areas to the east and the south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 3221 30 30
+~
+door~
+Door 1 0 0 3287 30 30
+~
+door~
+Door 2 0 0 3290 30 30
+~
+door~
+Door 3 0 0 3238 30 30
+~
+door~
+End
+
+#3287
+Name At a Stream Running through a Thick Pine Forest~
+Descr
+The forest thickens here, releasing a strong odor of pine and tree-sap. 
+The soft dirt underfoot is comfortable to walk upon, although the density of
+the trees makes travel a bit slow through this area.  
+~
+Shd 1
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3220 30 30
+~
+door~
+Door 1 0 0 3289 30 30
+~
+door~
+Door 2 0 0 3288 30 30
+~
+door~
+Door 3 0 0 3286 30 30
+~
+door~
+End
+
+#3288
+Name A Thick, Rocky Forest~
+Descr
+A small stream gets a little larger here because of the drainoff from the
+lands around here.  To the south, the stream is surrounded by huge,
+impassible trees on both sides.  The only way of going to the south seems to
+be to swim in the stream.  
+~
+Shd 1
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 0 0 0 3287 30 30
+~
+door~
+Door 1 0 0 0 30 30
+A large wooden wall of a small village blocks your way in this direction.  
+~
+door~
+Door 3 0 0 3290 30 30
+~
+door~
+End
+
+#3289
+Name In a Thick Pine Forest~
+Descr
+The air is quite still and the trees block out much of the sun during the
+day as you journey through this area.  The smell of sap and sticky feel of
+it on your skin makes you feel a bit uneasy as you plow through this thick
+forest.  The forest lightens to the east, and you can see a path in that
+direction.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3219 30 30
+~
+door~
+Door 1 0 0 3218 30 30
+~
+door~
+Door 2 0 0 0 30 30
+A large wooden wall of some small village blocks your way in this direction.
+~
+door~
+Door 3 0 0 3287 30 30
+~
+door~
+End
+
+#3290
+Name A Thick, Rocky Forest~
+Descr
+The forest here is extremely thick and difficult to move through, and the
+rocks on the ground don't help either.  The air carries the scent of mixed
+flowers, trees, and most of all, pine.  You can see the rocky forest
+continue to the east.  
+~
+Shd 1
+Sector 3
+Reset M 3224 2 100
+Movemess
+(null)~
+Door 0 0 0 3286 30 30
+~
+door~
+Door 1 0 0 3288 30 30
+~
+door~
+Door 2 0 0 0 30 30
+Large rocks rise up, blocking your way.  
+~
+(null)~
+Door 3 0 0 3355 30 30
+~
+(null)~
+End
+
+#3291
+Name In a Cold, Fast-Flowing Stream~
+Descr
+Tall trees rise up on either side of the bank, forcing you to stay
+swimming in the chilly river.  The river is fed by small streams flowing
+down from the sides of the bank, and the stream grows rougher and larger to
+the south.  You begin to doubt that any swimming skills would help you in
+the waters to the south.  
+~
+Flags 2
+Sector 6
+Reset O 3205 -5 100
+Movemess
+(null)~
+Door 1 0 0 0 30 30
+A sloped incline with densly-packed trees prevents movement to the east.
+~
+door~
+Door 2 0 0 3292 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A sloped incline with densly-packed trees prevents movement to the west.
+~
+door~
+End
+
+#3292
+Name On a Fast-Flowing River~
+Descr
+The water flows quite fast here, and although it doesn't push you along
+at an incredible rate yet, you can see up ahead the current grows stronger. 
+To the north, the water turns into a smaller stream, and to the south the
+river narrows, creating some rapids.  
+~
+Sector 7
+Reset O 3215 -5 100
+Movemess
+(null)~
+Door 0 0 0 3291 30 30
+~
+door~
+Door 2 0 0 3293 30 30
+~
+door~
+End
+
+#3293
+Name On a Fast-Flowing River~
+Descr
+The river bends north and west here; to the west, rapids seem to begin to
+form.  To the north the river calms significantly and becomes wider and less
+fast-flowing.  Trees on the side of the river bank make it impossible to
+venture into the thick woods on either side of the river.  
+~
+Flags 8192
+Sector 7
+Reset O 3215 -5 100
+Move_dir 3
+Movemess
+carried along by the strong current to the west.
+~
+Door 0 0 0 3292 30 30
+~
+door~
+Door 3 0 0 3294 30 30
+~
+door~
+End
+
+#3294
+Name On a Fast-Flowing River~
+Descr
+The sparkling waters of this magnificent river become white with foam and
+air pockets as the water rushes around the rocks which hinder your progress.
+The banks are covered with dense trees, blocking any chance of escaping the
+river and travelling by land.  
+~
+Flags 8192
+Sector 7
+Reset O 3215 -5 100
+Move_dir 3
+Movemess
+swept away by the fast-moving waters.
+~
+Door 1 0 0 3293 30 30
+~
+door~
+Door 3 0 0 3295 30 30
+~
+door~
+End
+
+#3295
+Name On a Fast-Flowing River~
+Descr
+The turbulent river bends here, and the waters smash violently against
+rocks near the bank of the river.  Huge trees block any chance of leaving
+the river and travelling by land.  
+~
+Flags 8192
+Sector 7
+Reset O 3215 -5 100
+Move_dir 2
+Movemess
+pushed south by the strong river currents.
+~
+Door 1 0 0 3294 30 30
+~
+door~
+Door 2 0 0 3296 30 30
+~
+door~
+End
+
+#3296
+Name On a Fast-Flowing River~
+Descr
+The nearly-white water rapids subside here a little, and to the south you
+can see a large lake.  To the north the river continues, become more and
+more violent the further upstream you look.  
+~
+Flags 8192
+Sector 7
+Reset O 3215 -5 100
+Move_dir 2
+Movemess
+swept downstream into lake Ikantha.  
+~
+Door 0 0 0 3295 30 30
+~
+door~
+Door 2 0 0 3297 30 30
+~
+door~
+End
+
+#3297
+Name On the Lake Ikantha~
+Descr
+The peaceful waters of lake Ikantha are fed by a large river that pours
+in to the lake just north of here.  The crystal clear, blue waters look
+inviting and pleasant, and you feel like taking a bath in the pure waters.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 0 0 0 3296 30 30
+~
+door~
+Door 1 0 0 3301 30 30
+~
+door~
+Door 2 0 0 3299 30 30
+~
+door~
+Door 3 0 0 3298 30 30
+~
+door~
+End
+
+#3298
+Name On the Lake Ikantha~
+Descr
+To the northeast, a river rushes into the lake, feeding it with an
+everlasting supply of fresh, sparkling water.  The trees on the side of the
+lake are thick and impassable, but there looks like there is a small path
+throught the trees to the southwest.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 1 0 0 3297 30 30
+~
+door~
+Door 2 0 0 3300 30 30
+~
+door~
+End
+
+#3299
+Name On the Lake Ikantha~
+Descr
+The peaceful waters are deep and crystal clear.  Below the surface of the
+water you can see many rocks and apparent caverns, far below.  The water is
+cool to the touch, and to the north you can see the river that feeds this
+beautiful lake.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 0 0 0 3297 30 30
+~
+door~
+Door 1 0 0 3302 30 30
+~
+door~
+Door 3 0 0 3300 30 30
+~
+door~
+Door 5 0 0 3305 30 30
+~
+door~
+End
+
+#3300
+Name On the Lake Ikantha~
+Descr
+The sparkling, clear water of the lake looks almost transparent as you
+gaze down into the depths.  You can barely make out the bottom of the
+lake...  There is a path that leads through the trees to the west of here.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 0 0 0 3298 30 30
+~
+door~
+Door 1 0 0 3299 30 30
+~
+door~
+Door 3 0 0 3303 30 30
+~
+door~
+Door 5 0 0 3304 30 30
+~
+door~
+End
+
+#3301
+Name On the Lake Ikantha~
+Descr
+Some leaves float on the surface of the lake here, creating wonderful
+rippling affects as they swirl around in unseen currents.  To the northwest
+is the river that feeds this calm lake; its clear waters providing an
+everlasting life to this beautiful lake.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 2 0 0 3302 30 30
+~
+door~
+Door 3 0 0 3297 30 30
+~
+door~
+End
+
+#3302
+Name On the Lake Ikantha~
+Descr
+The peaceful waters are deep and crystal clear.  Below the surface of the
+water you can see many rocks and apparent caverns, far below.  The water is
+cool to the touch, and to the north you can see the river that feeds this
+beautiful lake.  
+~
+Sector 6
+Reset O 3216 -5 100
+Movemess
+(null)~
+Door 0 0 0 3301 30 30
+~
+door~
+Door 3 0 0 3299 30 30
+~
+door~
+Door 5 0 0 3306 30 30
+~
+door~
+End
+
+#3303
+Name A Trail through a Dark Forest~
+Descr
+The dark forest above blocks out all natural light that may exist during
+the daylight hours.  You can see Lake Ikantha to the east, and the trail
+continues to the west.  The dark, foreboding trees seem to rustle with a
+warning about the area you have come to.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Huge trees and rocks block your way to the north.
+~
+door~
+Door 1 0 0 3300 30 30
+~
+door~
+Door 2 0 0 0 30 30
+Large rocks and tall, densly packed trees block your way to the south.  
+~
+door~
+Door 3 0 0 3313 30 30
+~
+door~
+End
+
+#3304
+Name In the Deep Waters of Lake Ikantha~
+Descr
+The waters brush against you gently, cooling your whole body.  You find
+it hard to see what is down here, because of the way the water distorts your
+vision, but you can clearly see there are rocks to the west and north.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 1 0 0 3305 30 30
+~
+door~
+Door 4 0 0 3300 30 30
+~
+door~
+End
+
+#3305
+Name In the Deep Waters of Lake Ikantha~
+Descr
+From the blurry vision you see through the distortion of the water, you
+guess that you are somewhere in the middle of the lake.  You can see some
+large rocks to the north, and you decide it would be best not to swim in
+that direction.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Large rocks block your way to the north.  
+~
+door~
+Door 1 0 0 3306 30 30
+~
+door~
+Door 2 0 0 3307 30 30
+~
+door~
+Door 3 0 0 3304 30 30
+~
+door~
+Door 4 0 0 3299 30 30
+~
+door~
+End
+
+#3306
+Name In the Deep Waters of Lake Ikantha~
+Descr
+Strange sparkling lights and shadows create eerie patterns below the lake
+here.  You can see large rocks to the north and east, blocking your progress
+in those directions.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 3 0 0 3305 30 30
+~
+door~
+Door 4 0 0 3302 30 30
+~
+door~
+End
+
+#3307
+Name In a Dark Underwater Passage~
+Descr
+The close proximity of rough, sharp rocks makes you swim with caution. 
+The dark underwater passage turns sharply down here, going deeper into the
+earth.  To the north, you can see the large body of water under the lake.  
+~
+Flags 1
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 0 0 0 3305 30 30
+~
+door~
+Door 5 0 0 3308 30 30
+~
+door~
+End
+
+#3308
+Name Underwater Passageway through Large Rocks~
+Descr
+As the passageway narrows, you become more and more weary as to your
+close proximity to sharp rocks.  The watery passage turns east and up here,
+and you think you can make out a dim light coming from east of here.  
+~
+Flags 1
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 1 0 0 3309 30 30
+~
+door~
+Door 4 0 0 3307 30 30
+~
+door~
+End
+
+#3309
+Name Underwater Passageway through Large Rocks~
+Descr
+A strange seaweed gives off a very dim light as it pulsates against the
+sharp rocks that make up this underwater passageway.  The passage turns
+south and west here, and in both directions the rocky passage appears to be
+dark and unending.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 2 0 0 3310 30 30
+~
+door~
+Door 3 0 0 3308 30 30
+~
+door~
+End
+
+#3310
+Name Underwater Passageway through Large Rocks~
+Descr
+The underwater passage runs north and up here.  Far above you, a faint
+light shimmers in through the water.  There is a carving on the stones here,
+covered with algae; it reads, "Orin was here."  
+~
+Flags 1
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 0 0 0 3309 30 30
+~
+door~
+Door 4 0 0 3311 30 30
+~
+door~
+End
+
+#3311
+Name In a Large Pool of Water~
+Descr
+As you float gently underwater, below the surface of this pool, you
+notice a rocky underwater passage that leads down into the watery depths. 
+Above you, you can make out the outlines of trees and a large forest.  
+~
+Sector 8
+Movemess
+(null)~
+Door 4 0 0 3312 30 30
+~
+door~
+Door 5 0 0 3310 30 30
+~
+door~
+End
+
+#3312
+Name At a Large Pool in a Thick Forest~
+Descr
+The huge trees tower high above you, stretching far into the sky blocking
+all but the most powerful rays of sun during the daylight hours.  There is a
+large pool here that looks refreshing and clear.  You can see far down into
+the pool, but not to the very bottom.  
+~
+Flags 2
+Shd 1
+Sector 3
+Reset O 3217 -5 100
+Movemess
+(null)~
+Door 2 0 0 25001 0 0
+~
+~
+Door 5 0 0 3311 30 30
+~
+door~
+End
+
+#3313
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3318 30 30
+~
+door~
+Door 1 0 0 3303 30 30
+~
+door~
+Door 2 0 0 3315 30 30
+~
+door~
+Door 3 0 0 3317 30 30
+~
+door~
+End
+
+#3314
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 3313 30 30
+~
+door~
+Door 3 0 0 3316 30 30
+~
+door~
+End
+
+#3315
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3313 30 30
+~
+door~
+Door 2 0 0 3313 30 30
+~
+door~
+Door 3 0 0 3318 30 30
+~
+door~
+End
+
+#3316
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Reset M 3224 2 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Massive, tightly-packed trees block your way in that direction.
+~
+door~
+Door 1 0 0 3314 30 30
+~
+door~
+Door 2 0 0 3317 30 30
+~
+door~
+Door 3 0 0 3317 30 30
+~
+door~
+End
+
+#3317
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Reset M 3325 2 100
+Movemess
+(null)~
+Door 0 0 0 3316 30 30
+~
+door~
+Door 1 0 0 3313 30 30
+~
+door~
+Door 2 0 0 3318 30 30
+~
+door~
+Door 3 0 0 3321 30 30
+~
+door~
+End
+
+#3318
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Reset M 3325 2 100
+Movemess
+(null)~
+Door 0 0 0 3317 30 30
+~
+door~
+Door 1 0 0 3315 30 30
+~
+door~
+Door 2 0 0 3315 30 30
+~
+door~
+Door 3 0 0 3319 30 30
+~
+door~
+End
+
+#3319
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3321 30 30
+~
+door~
+Door 1 0 0 3318 30 30
+~
+door~
+Door 2 0 0 3320 30 30
+~
+door~
+Door 3 0 0 3323 30 30
+~
+door~
+End
+
+#3320
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3319 30 30
+~
+door~
+Door 1 0 0 3323 30 30
+~
+door~
+Door 3 0 0 3371 30 30
+~
+(null)~
+End
+
+#3321
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3322 30 30
+~
+door~
+Door 1 0 0 3317 30 30
+~
+door~
+Door 2 0 0 3319 30 30
+~
+door~
+Door 3 0 0 3318 30 30
+~
+door~
+End
+
+#3322
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3318 30 30
+~
+door~
+Door 1 0 0 3324 30 30
+~
+door~
+Door 2 0 0 3321 30 30
+~
+door~
+Door 3 0 0 3317 30 30
+~
+door~
+End
+
+#3323
+Name In the Forest of Thaenar~
+Descr
+The massive, towering trees all look exactly the same!  Your head spins
+when you try to get your senses, and you feel very lost and afraid.  The
+leaves and branches underfoot make for hard travelling, and there seems to
+be an unnatural silence in the air.  
+~
+Flags 2176
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3319 30 30
+~
+door~
+Door 1 0 0 3319 30 30
+~
+door~
+Door 2 0 0 3321 30 30
+~
+door~
+Door 3 0 0 3320 30 30
+~
+door~
+End
+
+#3324
+Name An Ancient Path through the Forest of Thaenar~
+Descr
+Surrounded by densly-packed, impassible trees, this path is dark and
+foreboding.  Still, there seems to be signs of civilized life around here;
+several twigs have been broken or burned, and there are some pieces of scrap
+metal lying on the ground, firmly imbedded in the soil.  
+~
+Flags 2
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3325 30 30
+~
+door~
+Door 1 0 0 3371 30 30
+~
+(null)~
+Door 3 0 0 3322 30 30
+~
+door~
+End
+
+#3325
+Name An Ancient Path through the Forest of Thaenar~
+Descr
+Surrounded by densly-packed, impassible trees, this path is dark and
+foreboding.  Still, there seems to be signs of civilized life around here;
+several twigs have been broken or burned, and there are some pieces of scrap
+metal lying on the ground, firmly imbedded in the soil.  
+~
+Flags 2
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 3324 30 30
+~
+door~
+Door 3 0 0 3326 30 30
+~
+door~
+End
+
+#3326
+Name A Dusty Dirt Road through some Light Forest~
+Descr
+The small breeze that blows past picks up dust from the dry road and
+blows it around in strange circular patterns.  The road continues to the
+west, and to the east you can see a dark trail leading into the forest of
+Thaenar.  To the south is a dark forested area.  
+~
+Movemess
+(null)~
+Door 1 0 0 3325 30 30
+~
+door~
+Door 2 0 0 3349 30 30
+~
+door~
+Door 3 0 0 3327 30 30
+~
+door~
+End
+
+#3327
+Name A Dusty Dirt Road through some Light Forest~
+Descr
+You think for a brief moment you can see small town walls to the
+northwest of here.  To the south lies the great forest of Thaenar, and to
+the north there are large, impassable rocks blocking your travels in that
+direction.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Huge rocks and boulders block your way to the north.
+~
+door~
+Door 1 0 0 3326 30 30
+~
+door~
+Door 2 0 0 3348 30 30
+~
+door~
+Door 3 0 0 3328 30 30
+~
+door~
+End
+
+#3328
+Name A Dusty Dirt Road through some Light Forest~
+Descr
+The road underfoot is well travelled, and packed hard.  You can see a
+lightly forested area to the south, and some walls of a city to the
+northwest.  The north is blocked by some large rocks and boulders.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Some massive rocks and large boulders block your way.
+~
+door~
+Door 1 0 0 3327 30 30
+~
+door~
+Door 2 0 0 3347 30 30
+~
+door~
+Door 3 0 0 3329 30 30
+~
+door~
+End
+
+#3329
+Name A Dusty Dirt Road~
+Descr
+The road turns south and east here.  To the north there are huge,
+impassible boulders and rocks, and to the west lies a lightly forested area.
+You can see town walls through the trees to the northwest.  There is a sign
+here, firmly implanted in the ground.  
+~
+Reset O 3220 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Huge rocks and boulders block your way to the north.
+~
+door~
+Door 1 0 0 3328 30 30
+~
+door~
+Door 2 0 0 3330 30 30
+~
+door~
+Door 3 0 0 3346 30 30
+~
+door~
+End
+
+#3330
+Name A Dusty Dirt Road~
+Descr
+Dust swirls around low to the ground as the wind whips across the
+hard-packed soil underfoot.  The road turns north and west here, and to the
+northwest you can see the town walls of Thaenar.  A lightly forested area
+can be seen to the south.  
+~
+Movemess
+(null)~
+Door 0 0 0 3329 30 30
+~
+door~
+Door 1 0 0 3347 30 30
+~
+door~
+Door 2 0 0 3351 30 30
+~
+door~
+Door 3 0 0 3331 30 30
+~
+door~
+End
+
+#3331
+Name A Dusty Dirt Road~
+Descr
+The dirt road underfoot is packed and rough to walk upon.  However, you
+can see a beautiful meadow to the south, and the town gate of Thaenar to the
+northwest, and you feel comfortable knowing you are close to society.  
+~
+Movemess
+(null)~
+Door 0 0 0 3346 30 30
+~
+door~
+Door 1 0 0 3330 30 30
+~
+door~
+Door 2 0 0 3352 30 30
+~
+door~
+Door 3 0 0 3332 30 30
+~
+door~
+End
+
+#3332
+Name Before the Gates of Thaenar~
+Descr
+The dusty road turns south and east here, and the large gates of Thaenar
+are to the north.  The air is fresh, and you can smell the familiar scent of
+people and civilization to the north.  
+~
+Movemess
+(null)~
+Door 0 1 0 3333 55 55
+You see the large town gates of Thaenar.  
+~
+gate~
+Door 1 0 0 3331 30 30
+~
+door~
+Door 2 0 0 3334 30 30
+~
+door~
+End
+
+#3333
+Name The Gatehouse of Thaenar~
+Descr
+The large gatehouse appears to be the only way into the town of Thaenar,
+and from the cleanliness of the ground and polished stone walls, it looks
+like the citizens take great pride in the protection of their town.  
+~
+Flags 2
+Shd 1
+Sector 0
+Reset M 3326 2 100
+Reset O 236 21 100
+Reset O 202 7 80
+Reset O 209 6 100
+Reset O 221 4 100
+Reset M 3326 2 100
+Reset O 1025 21 50
+Reset O 209 6 100
+Reset O 220 4 100
+Reset O 203 7 65
+Reset M 3327 1 100
+Reset O 3208 21 5
+Reset O 210 6 100
+Reset O 220 4 100
+Reset O 3219 10 95
+Movemess
+(null)~
+Door 0 0 0 3335 30 30
+~
+door~
+Door 2 1 0 3332 55 55
+You see the large gates of Thaenar.
+~
+gate~
+End
+
+#3334
+Name A Dusty Dirt Road~
+Descr
+The road turns here, leading north to the gates of Thaenar, west to more
+road, and east to a beautiful meadow.  The huge gates of Thaenar make you
+feel safe and close to civilization.  
+~
+Movemess
+(null)~
+Door 0 0 0 3332 30 30
+~
+door~
+Door 1 0 0 3352 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The thick trees of the Thaenar forest block your way.  
+~
+(null)~
+Door 3 0 0 3378 30 30
+~
+(null)~
+End
+
+#3335
+Name The Main Street of Thaenar~
+Descr
+The clean streets and ancient feel to this city makes you look around in
+awe at the ancient stones and buildings.  High town walls rise up to the
+west, and the main street continues to the north.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3336 30 30
+~
+door~
+Door 2 0 0 3333 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The town walls of Thaenar prevent you from going this direction.
+~
+door~
+End
+
+#3336
+Name The Main Street of Thaenar~
+Descr
+You can see the weapon shop to the armorer's shop to the east.  To the
+north, the street continues and then ends in the main town square of
+Thaenar.  The rustic, ancient feel of this town impresses you when you think
+about how well this town has stood the tests of time.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3337 30 30
+~
+door~
+Door 1 1 0 3342 40 40
+~
+woodendoor~
+Door 2 0 0 3335 30 30
+~
+door~
+Door 3 1 0 3341 55 55
+~
+irondoor~
+End
+
+#3337
+Name The Main Street of Thaenar~
+Descr
+The main street ends to the north, and the town square of Thaenar begins.
+To the northwest you can see the public fountain, and to the south the main
+street leads straight to the guard house.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3339 30 30
+~
+door~
+Door 2 0 0 3336 30 30
+~
+door~
+Door 3 0 0 3338 30 30
+~
+door~
+End
+
+#3338
+Name Thaenar's Main City Square~
+Descr
+The main street begins to the east of here, and a large fountain pours
+forth clean water to the north of here.  The ancient walls of Thaenar seem
+to speak of timeless understanding, knowledge, and perserverance.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3340 30 30
+~
+door~
+Door 1 0 0 3337 30 30
+~
+door~
+Door 3 0 0 3345 30 30
+~
+door~
+End
+
+#3339
+Name Thaenar's Main City Square~
+Descr
+The main city square is extremely clean and tidy, and it is obvious that
+the citizens of this town take great pride in keeping their town clean.  A
+large fountain flows forth with pure water just to the west of here.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3344 30 30
+~
+door~
+Door 2 0 0 3337 30 30
+~
+door~
+Door 3 0 0 3340 30 30
+~
+door~
+End
+
+#3340
+Name Thaenar's Main City Square~
+Descr
+This corner of Thaenar seems to be older than the rest of the city. 
+Although the stones underfoot are free from rubbish and debris, they look
+worn and cracked.  You can see main street to the southeast of here.  
+~
+Sector 0
+Reset O 3218 -5 100
+Movemess
+(null)~
+Door 0 0 0 3343 30 30
+~
+door~
+Door 1 0 0 3339 30 30
+~
+door~
+Door 2 0 0 3338 30 30
+~
+door~
+End
+
+#3341
+Name The Thaenar Weaponry~
+Descr
+Exotic and bizzare weapons line the walls and shelves of this amazing
+little shop.  A large steel door to the east appears to be the only way out
+of the store, and it would be wise to think twice before causing any mayhem
+here because of your limited escape route.  
+~
+Flags 4
+Sector 0
+Reset M 3330 1 100
+Reset O 237 -1 100
+Reset O 3221 -1 100
+Reset M 3331 3 100
+Movemess
+(null)~
+Door 1 1 0 3336 55 55
+~
+irondoor~
+End
+
+#3342
+Name The Thaenar Armory~
+Descr
+The legends of occasional magical armors being sold at this shop come to
+mind as you look around.  The shop is clean and neat, and smells of hot
+metal comes from the back of the shop.  Perhaps the armorer can repair
+dented armor here...  
+~
+Flags 4
+Sector 0
+Reset M 3332 1 100
+Reset O 214 -1 55
+Reset O 211 -1 100
+Reset O 209 -1 85
+Reset O 240 -1 100
+Reset O 241 -1 30
+Reset O 203 -1 100
+Reset O 227 -1 100
+Reset O 222 -1 66
+Reset O 219 -1 100
+Reset M 3331 3 100
+Movemess
+(null)~
+Door 3 1 0 3336 40 40
+~
+woodendoor~
+End
+
+#3343
+Name Happy Trails Inn and Brewery~
+Descr
+This cozy inn makes you feel safe and comfortable.  A large fire burns
+brightly in the stone fireplace, and the pleasant smell of good ale meets
+your travel-hardened nose.  The wooden stools and dark, polished wood that
+make up the walls of the inn add to its charm.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 3340 30 30
+~
+door~
+End
+
+#3344
+Name Thaenar's House of Mystical Treasures~
+Descr
+This clean, neatly-organized shop seems to humm with a magical energy, no
+doubtedly from all the magical objects in the room.  Potions line the
+shelves, and you look around in amazement at the selection.  
+~
+Flags 4
+Sector 0
+Reset M 3331 3 100
+Reset M 3333 1 100
+Movemess
+(null)~
+Door 2 0 0 3339 30 30
+~
+door~
+End
+
+#3345
+Name The Thaenar Provisioner's Shop~
+Descr
+The scent of dried beef and dried fruit meets your hardened nose as you
+enter the store.  Primrose the provisioner of Thaenar, who also doubles as
+the baker, owns the shop, as a large plaque on the wall tells you.  
+~
+Flags 4
+Sector 0
+ExtraDescr plaque~
+"Primrose the provisioner of Thaenar, Baker of Thaenar, owner of this
+
+
+fine establishment, is here to serve you."  
+
+
+~
+Reset M 3328 1 100
+Reset O 32 90 75
+Reset O 33 -1 100
+Reset O 36 -1 100
+Reset M 3329 1 100
+Movemess
+(null)~
+Door 1 0 0 3338 30 30
+~
+door~
+End
+
+#3346
+Name A Lightly Forested Area~
+Descr
+The pleasant smell of pine and wildflowers scents the air here.  You can
+see the town walls of Thaenar to the west of here, and a dusty dirt road to
+the south and east of here.  
+~
+Sector 2
+Reset M 3353 1 100
+Reset O 205 6 100
+Reset O 238 21 100
+Movemess
+(null)~
+Door 1 0 0 3329 30 30
+~
+door~
+Door 2 0 0 3331 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The walls of the small town of Thaenar blocks your way to the west.  
+~
+door~
+End
+
+#3347
+Name A Lightly Forested Area~
+Descr
+The trees are less dense here, but still provide a comfortable shade
+during the daylight hours.  You can see the dusty road to the west and north
+of here.  This looks like a perfect spot to rest your tired body.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3328 30 30
+~
+door~
+Door 1 0 0 3348 30 30
+~
+door~
+Door 2 0 0 3350 30 30
+~
+door~
+Door 3 0 0 3330 30 30
+~
+door~
+End
+
+#3348
+Name A Thick Forested Area~
+Descr
+You have seen so many trees they begin to all look the same!  You feel
+disoriented, and it is not until you look north and see the dusty road in
+plain sight that you feel comfortable again.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3327 30 30
+~
+door~
+Door 1 0 0 3349 30 30
+~
+door~
+Door 2 0 0 3323 30 30
+~
+door~
+Door 3 0 0 3347 30 30
+~
+door~
+End
+
+#3349
+Name A Thick Forested Area~
+Descr
+You have seen so many trees they begin to all look the same!  You feel
+disoriented, and it is not until you look north and see the dusty road in
+plain sight that you feel comfortable again.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 3326 30 30
+~
+door~
+Door 1 0 0 3321 30 30
+~
+door~
+Door 2 0 0 3321 30 30
+~
+door~
+Door 3 0 0 3348 30 30
+~
+door~
+End
+
+#3350
+Name A Heavily Forested Area~
+Descr
+You have seen so many trees they begin to all look the same!  You feel
+disoriented, and it is not until you look north and see the dusty road in
+plain sight that you feel comfortable again.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3347 30 30
+~
+door~
+Door 1 0 0 3323 30 30
+~
+door~
+Door 2 0 0 3323 30 30
+~
+door~
+Door 3 0 0 3351 30 30
+~
+door~
+End
+
+#3351
+Name A Lightly Forested Area~
+Descr
+This lightly-forested area smells of pine and fresh grass.  A dirt road
+runs to the north, and you can see the town walls of Thaenar rise up to the
+northwest.  A dense forest begins to the east of here.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3330 30 30
+~
+door~
+Door 1 0 0 3350 30 30
+~
+door~
+Door 3 0 0 3352 30 30
+~
+door~
+End
+
+#3352
+Name A Beautiful Meadow~
+Descr
+Small wildflowers and wild grasses fill the air with a light, pleasant
+scent, filling you with a sense of relaxation.  You can see the gate of the
+town of Thaenar to the northwest of here, and you feel like you are close to
+civilized society.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 3331 30 30
+~
+door~
+Door 1 0 0 3351 30 30
+~
+door~
+Door 3 0 0 3334 30 30
+~
+door~
+End
+
+#3353
+Name A Light Forest Bordering the Road~
+Descr
+The light forest here smells of sweet pine and strange but pleasant moss.
+The air is fresh and a cool breeze gently caresses your hardened face.  You
+can see the road to the east and south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A large rock blocks your way to the north.
+~
+(null)~
+Door 1 0 0 3222 30 30
+~
+(null)~
+Door 2 0 0 3239 30 30
+~
+(null)~
+Door 3 0 0 3354 30 30
+~
+(null)~
+End
+
+#3354
+Name A Light Forest Bordering the Road~
+Descr
+The bright green leaves and smell of flowers makes you feel alive and
+full of energy.  You can see the road in plain sight to the south, and a
+darker forest on the other side of the road.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 3353 30 30
+~
+(null)~
+Door 2 0 0 3240 30 30
+~
+(null)~
+Door 3 0 0 3359 30 30
+~
+(null)~
+End
+
+#3355
+Name A Thick, Rocky Forest~
+Descr
+The large rocks on the forest floor make travel difficult through this
+area.  The towering trees almost completely block the sunlight during day,
+but provide excellent shelter during harsh weather.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3238 30 30
+~
+(null)~
+Door 1 0 0 3290 30 30
+~
+(null)~
+Door 3 0 0 3356 30 30
+~
+(null)~
+End
+
+#3356
+Name A Thick, Rocky Forest~
+Descr
+The forest here is extremely thick and difficult to move through, and the
+rocks on the ground don't help either.  The air carries the scent of mixed
+flowers, trees, and most of all, pine.  You can see the rocky forest
+continue to the east.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3239 30 30
+~
+(null)~
+Door 1 0 0 3355 30 30
+~
+(null)~
+Door 3 0 0 3357 30 30
+~
+(null)~
+End
+
+#3357
+Name A Thick, Rocky Forest~
+Descr
+The large rocks on the forest floor make travel difficult through this
+area.  The towering trees almost completely block the sunlight during day,
+but provide excellent shelter during harsh weather.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3240 30 30
+~
+(null)~
+Door 1 0 0 3356 30 30
+~
+(null)~
+Door 3 0 0 3360 30 30
+~
+(null)~
+End
+
+#3358
+Name The Western Highway~
+Descr
+The highway continues to the west here, and the soft yet packed soil
+makes for easy travelling.  You notice a large path leading south of here,
+into a enormous forest.  The path looks safe enough...  
+~
+Reset M 3300 1 100
+Movemess
+(null)~
+Door 0 0 0 3359 30 30
+~
+(null)~
+Door 1 0 0 3240 30 30
+~
+(null)~
+Door 2 0 0 3360 30 30
+~
+(null)~
+Door 3 0 0 25901 0 0
+~
+~
+End
+
+#3359
+Name A Light Forest Bordering the Road~
+Descr
+The light forest is pleasant and easy to travel through.  There is a
+strange evil aura, however coming from the path to the north.  The light
+forest continues to the east, and you can see the road to the south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 3354 30 30
+~
+(null)~
+Door 2 0 0 3358 30 30
+~
+(null)~
+Door 3 0 0 25902 0 0
+~
+~
+End
+
+#3360
+Name A Path through a Forest~
+Descr
+The forest air grows dense and thick here, and a strange, sickeningly-
+sweet odor hangs in the air.  The forest gets rocky to the east, and you can
+see the large road open up to the north of here.  The path continues north
+and south.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3358 30 30
+~
+(null)~
+Door 1 0 0 3357 30 30
+~
+(null)~
+Door 3 0 0 25903 0 0
+~
+~
+End
+
+#3361
+Name A Lightly Forested Area~
+Descr
+A powerful evil aura eminates from a mysterious clearing just to the
+north of here.  To the south you can barely make out a road through the
+light trees.  The air is thick and you find it hard to breath.  
+~
+Flags 2
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3362 30 30
+~
+(null)~
+Door 2 0 0 25925 0 0
+~
+~
+End
+
+#3362
+Name A Large Clearing~
+Descr
+The grass underfoot is stained red and brown, and a horrible odor lingers
+in the still air.  The source of the evil aura seems to be coming from the
+northwest of here.  There is a small path through some light woods to the
+south of here too.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3365 30 30
+~
+(null)~
+Door 2 0 0 3361 30 30
+~
+(null)~
+Door 3 0 0 3363 30 30
+~
+(null)~
+End
+
+#3363
+Name A Large Clearing~
+Descr
+The foul stench of rotten blood and dead, rotting plant-life makes this
+area seem mysterious and evil.  A great sense of power washes over you, and
+you feel a smug feeling of evil seeping into your heart.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3364 30 30
+~
+(null)~
+Door 1 0 0 3362 30 30
+~
+(null)~
+Door 3 0 0 3366 30 30
+~
+(null)~
+End
+
+#3364
+Name The Center of a Large Clearing~
+Descr
+A mysterious darkness seems to pour down from the heavens here, creating
+a powerful feeling of fear in your heart.  Dried blood stains the grass, and
+you realize this is a place where evil rituals are carried out.  
+~
+Shd 1
+Sector 3
+Reset M 3342 1 100
+Reset O 207 -1 100
+Reset O 3326 -1 35
+Movemess
+(null)~
+Door 0 0 0 3369 30 30
+~
+(null)~
+Door 1 0 0 3365 30 30
+~
+(null)~
+Door 2 0 0 3363 30 30
+~
+(null)~
+Door 3 0 0 3367 30 30
+~
+(null)~
+End
+
+#3365
+Name A Large Clearing~
+Descr
+The grass here is dead, and the air smells of death.  A dark, evil air
+seems to push against you, seeping into your soul, and gnawing at your
+beating heart.  You can see a path a ways to the south of here.  
+~
+Sector 3
+Reset M 3341 3 100
+Reset M 3341 3 100
+Reset M 3341 3 100
+Movemess
+(null)~
+Door 0 0 0 3370 30 30
+~
+(null)~
+Door 2 0 0 3362 30 30
+~
+(null)~
+Door 3 0 0 3364 30 30
+~
+(null)~
+End
+
+#3366
+Name A Large Clearing~
+Descr
+The foul stench of rotten blood and dead, rotting plant-life makes this
+area seem mysterious and evil.  A great sense of power washes over you, and
+you feel a smug feeling of evil seeping into your heart.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3367 30 30
+~
+(null)~
+Door 1 0 0 3363 30 30
+~
+(null)~
+End
+
+#3367
+Name A Large Clearing~
+Descr
+The brown, decaying grass gives off a noxious odor here, and an evil
+power seems to seep up from the earth.  Your heart feels black and you grin
+smugly as you feel a strange potential of evil power course through your
+soul.  You can see the center of the clearing to the east.  
+~
+Sector 3
+Reset M 3341 3 100
+Movemess
+(null)~
+Door 0 0 0 3368 30 30
+~
+(null)~
+Door 1 0 0 3364 30 30
+~
+(null)~
+Door 2 0 0 3366 30 30
+~
+(null)~
+End
+
+#3368
+Name A Large Clearing~
+Descr
+The foul stench of rotten blood and dead, rotting plant-life makes this
+area seem mysterious and evil.  A great sense of power washes over you, and
+you feel a smug feeling of evil seeping into your heart.  There is a strange
+cobblestone path that reeks of evil to the west of here.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 3369 30 30
+~
+(null)~
+Door 2 0 0 3367 30 30
+~
+(null)~
+End
+
+#3369
+Name A Large Clearing~
+Descr
+The brown, decaying grass gives off a noxious odor here, and an evil
+power seems to seep up from the earth.  Your heart feels black and you grin
+smugly as you feel a strange potential of evil power course through your
+soul.  You can see the center of the clearing to the south.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 3398 0 0
+~
+~
+Door 1 0 0 3370 30 30
+~
+(null)~
+Door 2 0 0 3364 30 30
+~
+(null)~
+Door 3 0 0 3368 30 30
+~
+(null)~
+End
+
+#3370
+Name A Large Clearing~
+Descr
+The foul stench of rotten blood and dead, rotting plant-life makes this
+area seem mysterious and evil.  A great sense of power washes over you, and
+you feel a smug feeling of evil seeping into your heart.  
+~
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 3365 30 30
+~
+(null)~
+Door 3 0 0 3369 30 30
+~
+(null)~
+End
+
+#3371
+Name A Trail through the Forest~
+Descr
+The woods get less dense here, and a trail begins.  To the east you can
+see the confusing forest of Thaenar; it's massive trees stretching into the
+sky.  To the south, the path through this light forest continues.  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 3320 30 30
+~
+(null)~
+Door 2 0 0 3372 30 30
+~
+(null)~
+Door 3 0 0 3324 30 30
+~
+(null)~
+End
+
+#3372
+Name A Trail through the Forest~
+Descr
+The trail splits here, leading west, south, and north.  To the northeast,
+the trees get thicker, and you recognize that area as the mystical forest of
+Thaenar.  You can see a large yet safe-looking forest open up to the west.  
+~
+Movemess
+(null)~
+Door 0 0 0 3371 30 30
+~
+(null)~
+Door 2 0 0 3373 30 30
+~
+(null)~
+Door 3 0 0 3377 30 30
+~
+(null)~
+End
+
+#3373
+Name A Trail through the Forest~
+Descr
+The trail here is surrounded by massive trees, which block any chances of
+straying from the path.  To the north you notice a split in the trail, and
+to the northeast you can see the dark and mysterious forest of Thaenar.  
+~
+Movemess
+(null)~
+Door 0 0 0 3372 30 30
+~
+(null)~
+Door 3 0 0 3374 30 30
+~
+(null)~
+End
+
+#3374
+Name A Trail through the Forest~
+Descr
+The trail curves to the east and south here.  Large trees on either side
+of the trail forces you to stay on the path.  You can see the large trees of
+the forest of Thaenar somewhere to the east, and lighter forest to the
+northwest.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Tightly-packed trees block the way.  
+~
+(null)~
+Door 1 0 0 3373 30 30
+~
+(null)~
+Door 2 0 0 3375 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+Dense pine trees and thick undergrowth makes travel impossible to the west.
+~
+(null)~
+End
+
+#3375
+Name A Trail through the Forest~
+Descr
+The trail leads north and south here.  Thick trees surround it on either
+side, but you can make out some lighter forest to the southwest.  The air is
+pleasant, and smells of pine and damp wood.  
+~
+Movemess
+(null)~
+Door 0 0 0 3374 30 30
+~
+(null)~
+Door 2 0 0 3376 30 30
+~
+(null)~
+End
+
+#3376
+Name A Trail through the Forest~
+Descr
+As you wander upon this trail with tightly packed-trees on either side,
+you notice a small, neatly cobbled path to the west, leading into a light
+forest.  You can hear birds chirping and small squirrels rustling from
+somewhere to the west.  
+~
+Movemess
+(null)~
+Door 0 0 0 3375 30 30
+~
+(null)~
+Door 3 0 0 8721 30 30
+~
+(null)~
+End
+
+#3377
+Name A Trail through the Forest~
+Descr
+The trail opens up to the west into a light forest.  The air is pleasant
+and fresh, and you can smell pine and wet wood.  The trail continues east
+and west.  You can see the large forest of Thaenar a ways to the east.  
+~
+Movemess
+(null)~
+Door 1 0 0 3372 30 30
+~
+(null)~
+Door 3 0 0 8724 30 30
+~
+(null)~
+End
+
+#3378
+Name A Dusty Dirt Road~
+Descr
+The dusty dirt road leads east and west here, and to the northeast you
+can make out the town walls of Thaenar.  You can see a large forest to the
+southwest, but you have to stay on the road because huge rocks block your
+progress to the north and south.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Huge boulders block the way to the north.  
+~
+(null)~
+Door 1 0 0 3334 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+A large rock blocks your way to the south.
+~
+(null)~
+Door 3 0 0 3379 30 30
+~
+(null)~
+End
+
+#3379
+Name A Dusty Dirt Road~
+Descr
+The road curves south and east here, and large rocks on either side of it
+block any attemppts to venture to the north or west.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A large rock blocks your way.  
+~
+(null)~
+Door 1 0 0 3378 30 30
+~
+(null)~
+Door 2 0 0 3380 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+A huge, towering pillar of rock blocks your way.  
+~
+(null)~
+End
+
+#3380
+Name A Dusty Dirt Road~
+Descr
+The dusty dirt road runs north and south here.  To the north you can see
+large pillars of impassable rocks, and to the east and west, dense forest
+rises up, the trees touching the sky.  
+~
+Movemess
+(null)~
+Door 0 0 0 3379 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+Huge, densly-packed trees block your way.  
+~
+(null)~
+Door 2 0 0 3381 30 30
+~
+(null)~
+End
+
+#3381
+Name A Dusty Dirt Road~
+Descr
+The dusty dirt road runs north and west here.  To the northeast you can
+see large pillars of impassable rocks, and to the east and west, dense
+forest rises up, the trees touching the sky.  To the west, a larger road
+opens up, leading into a light forest.  
+~
+Movemess
+(null)~
+Door 0 0 0 3380 30 30
+~
+(null)~
+Door 3 0 0 8729 30 30
+~
+(null)~
+End
+
+#3382
+Name Entrance to the Kobold Caves~
+Descr
+You can tell this is the entrance to the Kobold Caves because of the
+large sign here, stuck into the ground.  Tunnels run north and west, and you
+can see the forest open up out to the south.  
+~
+Flags 7
+Sector 0
+ExtraDescr sign~
++--------------+
+
+
+| Kobuld Kaevs |
+
+
+|  Stae Out    |
+
+
+| nO Visiter   |
+
+
++--------------+
+
+
+      | |
+
+
+      | |
+
+
+      | |
+
+
+      *-*
+
+
+~
+Reset M 3344 1 100
+Reset M 3345 1 100
+Movemess
+(null)~
+Door 0 0 0 3384 30 30
+~
+(null)~
+Door 2 0 0 3250 30 30
+~
+(null)~
+Door 3 0 0 3383 30 30
+~
+(null)~
+End
+
+#3383
+Name Inside the Kobold Cave~
+Descr
+The cave walls are gray and bleak, and slime drips from the stone
+ceiling.  You can see the entrance to the kobold caves to the east, and the
+passage bends to the north here.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3385 30 30
+~
+(null)~
+Door 1 0 0 3382 30 30
+~
+(null)~
+End
+
+#3384
+Name Inside the Kobold Cave~
+Descr
+Horrible smells of dirty little kobolds and other creatures hit your nose
+with incredible force, and you stagger, waiting for your senses to return. 
+The passage here leads east and south.  To the south you can see the
+entrance to the caves.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 3387 30 30
+~
+(null)~
+Door 2 0 0 3382 30 30
+~
+(null)~
+End
+
+#3385
+Name Inside the Kobold Cave~
+Descr
+The narrow tunnel curves to the south and west here, and water drips from
+the stones above you.  The tunnel curves to the south and west here, and a
+fresh breeze blows in from somewhere to the south.  
+~
+Flags 5
+Sector 0
+Reset M 3347 2 100
+Movemess
+(null)~
+Door 2 0 0 3383 30 30
+~
+(null)~
+Door 3 0 0 3393 30 30
+~
+(null)~
+End
+
+#3387
+Name Inside the Kobold Cave~
+Descr
+The tunnel continues north and also turns west here.  The horrible smells
+that seem to come from all around are almost unbearable, and your eyes water
+as you try to look around at your surroundings.  
+~
+Flags 5
+Sector 0
+Reset M 3346 4 100
+Movemess
+(null)~
+Door 0 0 0 3388 30 30
+~
+(null)~
+Door 3 0 0 3384 30 30
+~
+(null)~
+End
+
+#3388
+Name Inside the Kobold Cave~
+Descr
+The cave splits three ways here; to the east, west and south.  The dirt
+underfoot is yellowish-brown and squishy, and you realize you may be
+standing on who knows what of these awful little kobolds.  
+~
+Flags 5
+Sector 0
+Reset M 3346 4 100
+Movemess
+(null)~
+Door 1 0 0 3390 30 30
+~
+(null)~
+Door 2 0 0 3387 30 30
+~
+(null)~
+Door 3 0 0 3389 30 30
+~
+(null)~
+End
+
+#3389
+Name Inside the Kobold Cave~
+Descr
+The cave bends north and east here, and to the east you can see a
+three-way junction of tunnels.  Water drips from the ceiling, and you feel
+uneasy here.  The hard stone walls are covered with a grey slime-like
+substance.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3391 30 30
+~
+(null)~
+Door 1 0 0 3388 30 30
+~
+(null)~
+End
+
+#3390
+Name Inside the Kobold Cave~
+Descr
+The dreary tunnel drips green slime onto your head, and you feel very
+uneasy here.  Horrible smells seem to seep up through the soft ground, and
+your eyes begin to water uncontrollably.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 3392 30 30
+~
+(null)~
+Door 3 0 0 3388 30 30
+~
+(null)~
+End
+
+#3391
+Name Inside the Kobold Cave~
+Descr
+The cave deadends here with a black stone wall to the north.  To the
+south the cave turns, and you can feel a putrid and horrible smelling breeze
+blow against your face here.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 3389 30 30
+~
+(null)~
+End
+
+#3392
+Name Inside the Kobold Cave~
+Descr
+You stand at the end of a stuffy and smell tunnel.  There is a large pile
+of greenish sludge in the corner, and you realize you must be at the
+kobold's bathroom.  The tunnel runs west, and you can see a junction a ways
+in that direction.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 3390 30 30
+~
+(null)~
+End
+
+#3393
+Name Inside the Kobold Cave~
+Descr
+You stand at the end of a stone passage inside the kobold caves.  There
+is a hole leading down into a large chamber below, and you think you might
+hear mumbled voices coming from below, although it could just be your
+footfalls.  
+~
+Flags 5
+Sector 0
+Reset M 3346 4 100
+Movemess
+(null)~
+Door 1 0 0 3385 30 30
+~
+(null)~
+Door 5 0 0 3394 30 30
+~
+(null)~
+End
+
+#3394
+Name A Large, Underground Meeting Hall~
+Descr
+You stand in a large underground cavern which appears to be a meeting
+hall for the kobolds.  The exit is in the ceiling in the southeast corner of
+the room, and it leads up to the smelly passages of the kobold caves above. 
+~
+Flags 5
+Sector 0
+Reset M 3349 2 100
+Movemess
+(null)~
+Door 0 0 0 3395 30 30
+~
+(null)~
+Door 3 0 0 3396 30 30
+~
+(null)~
+Door 4 0 0 3393 30 30
+~
+(null)~
+End
+
+#3395
+Name A Large, Underground Meeting Hall~
+Descr
+You stand in a large underground cavern which appears to be a meeting
+hall for the kobolds.  The exit is in the ceiling in the southeast corner of
+the room, and it leads up to the smelly passages of the kobold caves above. 
+~
+Flags 5
+Sector 0
+Reset M 3348 1 100
+Movemess
+(null)~
+Door 2 0 0 3394 30 30
+~
+(null)~
+Door 3 0 0 3397 30 30
+~
+(null)~
+End
+
+#3396
+Name A Large, Underground Meeting Hall~
+Descr
+You stand in a large underground cavern which appears to be a meeting
+hall for the kobolds.  The exit is in the ceiling in the southeast corner of
+the room, and it leads up to the smelly passages of the kobold caves above. 
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 3397 30 30
+~
+(null)~
+Door 1 0 0 3394 30 30
+~
+(null)~
+End
+
+#3397
+Name A Large, Underground Meeting Hall~
+Descr
+You stand in a large underground cavern which appears to be a meeting
+hall for the kobolds.  The exit is in the ceiling in the southeast corner of
+the room, and it leads up to the smelly passages of the kobold caves above. 
+~
+Flags 5
+Sector 0
+Reset M 3349 2 100
+Movemess
+(null)~
+Door 1 0 0 3395 30 30
+~
+(null)~
+Door 2 0 0 3396 30 30
+~
+(null)~
+End
+
+#3398
+Name A Narrow, Rocky Path~
+Descr
+You stand on a path that leads through a small rocky canyon.  You can see
+a clearing to the south, and more rocky path just to the north of here.  The
+air is cool here, and these rocks look quite ancient.  
+~
+Flags 2
+Door 0 0 0 3399 0 0
+~
+~
+Door 2 0 0 3369 0 0
+~
+~
+End
+
+#3399
+Name A Narrow, Rocky Path~
+Descr
+You stand on a path that leads through a small rocky canyon.  You can see
+a clearing a ways off to the south, and more rocky path just to the north of
+here.  The air is cool here, and these rocks look quite ancient.  
+~
+Door 0 0 0 3400 0 0
+~
+~
+Door 2 0 0 3398 0 0
+~
+~
+End
+
+#3400
+Name A Narrow, Rocky Path~
+Descr
+The rocky path turns here, leading east into a forest, and south onto
+more rocky, treacherous path that leads through this small rocky area.  A
+cool breeze makes you cautious of what lies ahead...  
+~
+Flags 2
+Door 1 0 0 3401 0 0
+~
+~
+Door 2 0 0 3399 0 0
+~
+~
+End
+
+#3401
+Name A Path through a Forest~
+Descr
+You stand on a path that leads through a dark forest.  You can make out a
+rocky path through the trees to the west, and more twisty path to the north.
+The trees here seem very old, and you wonder how long this forest has been
+around for.  
+~
+Shd 1
+Door 0 0 0 3402 0 0
+~
+~
+Door 1 0 0 3406 0 0
+~
+~
+Door 3 0 0 3400 0 0
+~
+~
+End
+
+#3402
+Name A Path through a Forest~
+Descr
+A damp, cool breeze blows through the trees here, and a small voice in
+your head tells you should turn back, and that the area ahead might be the
+most dangerous area you have ever explored.  
+~
+Shd 1
+Reset M 3355 3 100
+Door 1 0 0 3403 0 0
+~
+~
+Door 2 0 0 3401 0 0
+~
+~
+End
+
+#3403
+Name A Path through a Forest~
+Descr
+A damp, cool breeze blows through the trees here, and a small voice in
+your head tells you should turn back, and that the area ahead might be the
+most dangerous area you have ever explored.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 3404 0 0
+~
+~
+Door 1 0 0 3408 0 0
+~
+~
+Door 2 0 0 3406 0 0
+~
+~
+Door 3 0 0 3402 0 0
+~
+~
+End
+
+#3404
+Name A Path through a Forest~
+Descr
+A damp, cool breeze blows through the trees here, and a small voice in
+your head tells you should turn back, and that the area ahead might be the
+most dangerous area you have ever explored.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 3405 0 0
+~
+~
+Door 1 0 0 3410 0 0
+~
+~
+Door 2 0 0 3403 0 0
+~
+~
+End
+
+#3405
+Name A Path through a Forest~
+Descr
+A damp, cool breeze blows through the trees here, and a small voice in
+your head tells you should turn back, and that the area ahead might be the
+most dangerous area you have ever explored.  You can make out a strange
+castle far to the north of here.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 51900 0 0
+~
+~
+Door 1 0 0 0 30 30
+A large tree blocks the way.  
+~
+~
+Door 2 0 0 3404 0 0
+~
+~
+Door 3 0 0 3411 0 0
+~
+~
+End
+
+#3406
+Name A Dark Forest~
+Descr
+This dark forest gives you the creeps...  Mangled, human-like shapes give
+the trees an ethereal quality, and you feel small and insignificant in this
+strange forest.  A strange wind blows against you, almost tearing into your
+flesh, and you begin to shiver uncontrollably.  
+~
+Shd 1
+Sector 3
+Door 0 0 0 3403 0 0
+~
+~
+Door 1 0 0 3407 0 0
+~
+~
+Door 3 0 0 3401 0 0
+~
+~
+End
+
+#3407
+Name A Dark Forest~
+Descr
+This dark forest almost seems to whisper as the wind rushes through the
+pine branches...  You try to block out the noise, but the sounds seem to
+invade your soul, and you are suddenly very afraid.  
+~
+Shd 1
+Sector 3
+Reset M 3355 3 100
+Door 0 0 0 3408 0 0
+~
+~
+Door 1 0 0 3409 0 0
+~
+~
+Door 3 0 0 3406 0 0
+~
+~
+End
+
+#3408
+Name A Dark Forest~
+Descr
+Something about the strange shapes of the trees gives you a strange
+feeling of being watched by some higher being.  You can see a path to the
+west of here, although it doesn't look much safer than travelling in the
+forest.  
+~
+Shd 1
+Sector 4
+Reset M 3355 3 100
+Door 0 0 0 3410 0 0
+~
+~
+Door 2 0 0 3407 0 0
+~
+~
+Door 3 0 0 3403 0 0
+~
+~
+End
+
+#3409
+Name A Clearing in the Dark Forest~
+Descr
+This strange clearing is blocked on all sides but west by large trees. 
+It's nice to be away from the strange trees, but you feel as if some
+invisible force is watching you in this clearing.  
+~
+Sector 2
+Reset M 3357 1 40
+Reset O 3327 4 25
+Reset O 1062 -1 100
+Reset O 40020 21 6
+Door 3 0 0 3407 0 0
+~
+~
+End
+
+#3410
+Name A Dark Forest~
+Descr
+This dark forest almost seems to whisper as the wind rushes through the
+pine branches...  You try to block out the noise, but the sounds seem to
+invade your soul, and you are suddenly very afraid.  
+~
+Shd 1
+Sector 4
+Door 0 0 0 0 30 30
+A large tree blocks the way.  
+~
+~
+Door 2 0 0 3408 0 0
+~
+~
+Door 3 0 0 3404 0 0
+~
+~
+End
+
+#3411
+Name A Small Clearing in the Dark Forest~
+Descr
+This small clearing gives you the creeps.  The way the grass gives off an
+eerie glow, to the shapes of the trees...  It all makes you fear for your
+safety.  Perhaps you should leave this area while you still have your life. 
+~
+Reset M 3356 1 100
+Door 1 0 0 3405 0 0
+~
+~
+Door 2 0 0 3405 0 0
+~
+~
+End
+
+#3450
+Name A HiddenRoom~
+Descr
+The plain council chamber has one single, small table in the middle. 
+Besides that, the room is totally bare.  You have trouble standing up in
+here because of the low ceiling.  
+~
+Door 3 3 0 3233 30 30
+~
+hiddendoor~
+End
+
+#0
+
+
+
+#$

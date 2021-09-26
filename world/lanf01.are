@@ -1,0 +1,715 @@
+#AREADATA 
+Name Lair of the Balrog~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Lanfear~
+VNUMs 5220 5299
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#5220
+Name Mouth of a Cave~
+Descr
+Water drips down from the cieling, collecting in pools on the ground. The
+lights of your torches do little to illuminate the darkness found here in
+the cave, and deep breathing heard from somewhere nearby makes you clutch
+your weapons tightly. 
+~
+Flags 6
+Door 0 0 0 5221 0 0
+~
+~
+Door 4 0 0 2387 0 0
+~
+~
+End
+
+#5221
+Name Inside a Cave~
+Descr
+Water drips down from the cieling, collecting in pools on the ground. The
+lights of your torches do little to illuminate the darkness found here in
+the cave, and deep breathing heard from somewhere nearby makes you clutch
+your weapons tightly. 
+~
+Door 0 0 0 5222 0 0
+~
+~
+Door 2 0 0 5220 0 0
+~
+~
+End
+
+#5222
+Name A Split in the Tunnel~
+Descr
+Here the tunnel branches in two directions. To the east, faint sounds of
+chanting can be heard. To the west, silence. To the south is the forest. 
+~
+Door 1 0 0 5223 0 0
+~
+~
+Door 2 0 0 5221 0 0
+~
+~
+Door 3 0 0 5231 0 0
+~
+~
+End
+
+#5223
+Name Before the Temple Doors~
+Descr
+The chanting seems to originate from behind a pair of closed doors.
+Standing in the room, and barring your way are two of the largest kobolds
+you've ever seen. 
+~
+Reset M 2230 1 100
+Reset M 2230 1 100
+Door 1 3 0 5224 30 30
+~
+temple door~
+Door 3 0 0 5222 0 0
+~
+~
+End
+
+#5224
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 0 0 0 5225 0 0
+~
+~
+Door 1 0 0 5228 0 0
+~
+~
+Door 2 0 0 5226 0 0
+~
+~
+Door 3 3 0 5223 30 30
+~
+temple door~
+End
+
+#5225
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 1 0 0 5227 0 0
+~
+~
+Door 2 0 0 5224 0 0
+~
+~
+End
+
+#5226
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 0 0 0 5224 0 0
+~
+~
+Door 1 0 0 5229 0 0
+~
+~
+End
+
+#5227
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 2 0 0 5228 0 0
+~
+~
+Door 3 0 0 5225 0 0
+~
+~
+End
+
+#5228
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 0 0 0 5227 0 0
+~
+~
+Door 1 0 0 5230 0 0
+~
+~
+Door 2 0 0 5229 0 0
+~
+~
+Door 3 0 0 5224 0 0
+~
+~
+End
+
+#5229
+Name Inside the Kobold Temple~
+Descr
+Standing in this room, you hear a chanting coming from the eastern side
+of the room. Looking east, you see a raised altar, upon which is strapped a
+human - obviously for the purpose of sacrifice. Standing above her, and
+holding a large dagger is a kobold dressed in the clothes of a priest. 
+~
+Door 0 0 0 5228 0 0
+~
+~
+Door 3 0 0 5226 0 0
+~
+~
+End
+
+#5230
+Name Kobold's Pulpit~
+Descr
+Atop a set of stairs is an altar. Chained here is a human, kicking and
+screaming as a kobold clothed in sacrifical robes advances, wielding a large
+dagger. 
+~
+Flags 2097152
+Reset M 2231 1 100
+Reset M 2229 1 100
+Door 3 0 0 5228 0 0
+~
+~
+End
+
+#5231
+Name A Dark, Dingy Tunnel~
+Descr
+This tunnel seems to be well-worn, with many footprints along its floor.
+Light here is provided by torches set into the walls at 15 foot intervals. 
+~
+Door 1 0 0 5222 0 0
+~
+~
+Door 3 0 0 5232 0 0
+~
+~
+End
+
+#5232
+Name A Dark, Dingy Tunnel~
+Descr
+This tunnel seems to be well-worn, with many footprints along its floor.
+Light here is provided by torches set into the walls at 15 foot intervals. 
+~
+Door 1 0 0 5231 0 0
+~
+~
+Door 3 0 0 5233 0 0
+~
+~
+End
+
+#5233
+Name A Dark, Dingy Tunnel~
+Descr
+This tunnel seems to be well-worn, with many footprints along its floor.
+Light here is provided by torches set into the walls at 15 foot intervals. 
+~
+Door 1 0 0 5232 0 0
+~
+~
+Door 5 0 0 5234 0 0
+~
+~
+End
+
+#5234
+Name A Dark, Dingy Tunnel~
+Descr
+This tunnel seems to be well-worn, with many footprints along its floor.
+Light here is provided by torches set into the walls at 15 foot intervals. 
+~
+Flags 2
+Door 0 0 0 5245 0 0
+~
+~
+Door 4 0 0 5233 0 0
+~
+~
+Door 5 0 0 5235 0 0
+~
+~
+End
+
+#5235
+Name Before the Kobold Gaol~
+Descr
+This tunnel seems to be well-worn, with many footprints along its floor.
+Light here is provided by torches set into the walls at 15 foot intervals. 
+~
+Flags 2
+Door 3 3 0 5236 30 30
+~
+door~
+Door 4 0 0 5234 0 0
+~
+~
+End
+
+#5236
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Reset M 2227 1 100
+Door 0 0 0 5242 0 0
+~
+~
+Door 1 3 0 5235 30 30
+~
+door~
+Door 2 0 0 5241 0 0
+~
+~
+Door 3 0 0 5237 0 0
+~
+~
+End
+
+#5237
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Reset M 2228 1 100
+Reset M 2227 1 100
+Door 0 0 0 5243 0 0
+~
+~
+Door 1 0 0 5236 0 0
+~
+~
+Door 2 0 0 5240 0 0
+~
+~
+Door 3 0 0 5238 0 0
+~
+~
+End
+
+#5238
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Reset M 2227 1 100
+Door 0 0 0 5244 0 0
+~
+~
+Door 1 0 0 5237 0 0
+~
+~
+Door 2 0 0 5239 0 0
+~
+~
+End
+
+#5239
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Door 0 0 0 5238 0 0
+~
+~
+Door 1 0 0 5240 0 0
+~
+~
+End
+
+#5240
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Reset M 2227 1 100
+Door 0 0 0 5237 0 0
+~
+~
+Door 1 0 0 5241 0 0
+~
+~
+Door 3 0 0 5239 0 0
+~
+~
+End
+
+#5241
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Door 0 0 0 5236 0 0
+~
+~
+Door 3 0 0 5240 0 0
+~
+~
+End
+
+#5242
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Door 2 0 0 5236 0 0
+~
+~
+Door 3 0 0 5243 0 0
+~
+~
+End
+
+#5243
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Reset M 2227 1 100
+Door 1 0 0 5242 0 0
+~
+~
+Door 2 0 0 5237 0 0
+~
+~
+Door 3 0 0 5244 0 0
+~
+~
+End
+
+#5244
+Name Inside the Gaol~
+Descr
+Rats scurry into the straw strewn on the floor as you walk into this
+room. Next to no light reaches the far corners of the gaol, where pitiful
+cries for mercy can be heard. These are the captives of the raids upon the
+caravans, slowly wasting away. 
+~
+Flags 4
+Door 1 0 0 5243 0 0
+~
+~
+Door 2 0 0 5238 0 0
+~
+~
+End
+
+#5245
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Door 0 0 0 5246 0 0
+~
+~
+Door 2 0 0 5234 0 0
+~
+~
+End
+
+#5246
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 1 0 0 5247 0 0
+~
+~
+Door 2 0 0 5245 0 0
+~
+~
+Door 3 0 0 5248 0 0
+~
+~
+End
+
+#5247
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 1 0 0 5256 0 0
+~
+~
+Door 2 0 0 5257 0 0
+~
+~
+Door 3 0 0 5246 0 0
+~
+~
+End
+
+#5248
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 0 0 0 5254 0 0
+~
+~
+Door 1 0 0 5246 0 0
+~
+~
+Door 2 0 0 5249 0 0
+~
+~
+Door 3 0 0 5251 0 0
+~
+~
+End
+
+#5249
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 0 0 0 5248 0 0
+~
+~
+Door 3 0 0 5250 0 0
+~
+~
+End
+
+#5250
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 1 0 0 5249 0 0
+~
+~
+End
+
+#5251
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 0 0 0 5252 0 0
+~
+~
+Door 1 0 0 5248 0 0
+~
+~
+End
+
+#5252
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 2 0 0 5251 0 0
+~
+~
+Door 3 0 0 5253 0 0
+~
+~
+End
+
+#5253
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 1 0 0 5252 0 0
+~
+~
+End
+
+#5254
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 0 0 0 5255 0 0
+~
+~
+Door 2 0 0 5248 0 0
+~
+~
+End
+
+#5255
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 2 0 0 5254 0 0
+~
+~
+End
+
+#5256
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 0 0 0 5258 0 0
+~
+~
+Door 3 0 0 5247 0 0
+~
+~
+End
+
+#5257
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 0 0 0 5247 0 0
+~
+~
+End
+
+#5258
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Door 1 0 0 5259 0 0
+~
+~
+Door 2 0 0 5256 0 0
+~
+~
+End
+
+#5259
+Name Kobold Living Quarters~
+Descr
+In these dark, smelly warrens live the kobold army that Balrog has in his
+employ. In the recesses of the tunnels, movement can be seen. 
+~
+Reset M 2226 1 100
+Reset M 2226 1 100
+Door 3 0 0 5258 0 0
+~
+~
+End
+
+#5260
+Name ~
+Descr
+~
+End
+
+#5261
+Name ~
+Descr
+~
+End
+
+#0
+
+
+
+#$

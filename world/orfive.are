@@ -1,0 +1,905 @@
+#AREADATA 
+Name The Hidden Forest~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe presence of evil here is overwhelming.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 50000 50200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#50001
+Name man black mage teacher~
+Short a mage~
+Long 
+A wise man, cloaked in black sits on a stump here.
+~
+Descr
+This man looks extremely wise..  Perhaps he could teack you something.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 552
+Money 67
+Level 67
+Sex 1
+MobType 0
+Guard 0
+RaceHate 335544320
+End
+
+#50003
+Name wolf large black AONE~
+Short a large wolf~
+Long 
+A large, black wolf wanders around here, looking for food.
+~
+Descr
+His thick fur and sharp fangs make you think twice about going close
+enough to pet him.  
+~
+AMax 3
+NHeight 0
+ActBits 134217729
+ActBits3 262144
+Alignment -900
+Money 5
+Level 5
+Sex 1
+MobType 6
+Guard 0
+RaceHate 335544320
+End
+
+#50004
+Name bat large~
+Short a large bat~
+Long 
+A large bat flies around here, looking for fresh blood to suck.
+~
+Descr
+This large bat looks quite vicious; and you can never tell when bats are
+hungry or not...  Look at those fangs...  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 524288
+Alignment -20
+Money 2
+Level 2
+MobType 18
+Guard 0
+RaceHate 67108864
+End
+
+#50005
+Name large vampire bat~
+Short a vampire bat~
+Long 
+A large vampire bat is flapping around here.
+~
+Descr
+This evil-looking bat looks pretty vicious.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 524808
+Alignment -90
+Money 3
+Level 3
+Sex 1
+MobType 18
+Guard 0
+RaceHate 67108864
+End
+
+#50006
+Name cave bear large~
+Short a cave bear~
+Long 
+A large cave bear is here, angry that he was awakened.
+~
+Descr
+This mean mother wants to rip you and two and then lick out your insides.
+Better hope he doesn't notice you are here.  
+~
+AMax 1
+NHeight 0
+ActBits 9
+Affect_By 131584
+Money 21
+Level 21
+Sex 2
+MobType 18
+Guard 0
+Spec spec_warrior
+End
+
+#50007
+Name vampire man~
+Short a vampire~
+Long 
+A strange man with pointy teeth stands here, grinning at you.
+~
+Descr
+This strange man almost looks like a vampire; but you know vampires only
+exist in the ancient legends, right?  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment -1
+Money 200
+Level 70
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#50008
+Name sage dark evil teacher~
+Short the sage~
+Long 
+[Teacher] The sage, keeper of evil powers, stands here.
+~
+Descr
+~
+AMax 1
+ActBits 259
+Affect_By 8
+Alignment -100
+Money 100
+Level 50
+Sex 1
+MobType 26
+Guard 0
+RaceHate 67108864
+ASklTaught 0 79
+ASklTaught 1 36
+ASklTaught 2 62
+ASklTaught 3 98
+ASklTaught 4 104
+ASklTaught 5 131
+End
+
+#50010
+Name cult member~
+Short a Warrior's cult member~
+Long 
+A Warrior's cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 23
+Shopd2 5
+Shopd3 4
+ShopCr 9050
+ShopCS A cult member snaps his fingers and a token appears out of thin air.~
+End
+
+#50023
+Name quest shaman quest2~
+Short a quest shaman~
+Long 
+A quest shaman is standing here radiating power.
+~
+Descr
+You see a giant statue with mystical markings on it. You wonder how long
+this has been here, because you notice blood on the ground. You also notice
+a strange aura of good surrounding this ominous creation. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 648
+Alignment 1000
+Money 500
+Level 500
+MobType 15
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#955
+Name dagger diamond hilt hilted~
+Short a diamond-hilted dagger~
+Descr
+A dagger with a hilt made of diamond lies here on the ground.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 90 0 11 0 0 0 5 3 0
+Weight 2
+Cost 11054
+Affect 18 3 1 0 0
+Affect 19 1 1 0 0
+End
+
+#956
+Name heart grey gray~
+Short a grey, still-beating heart~
+Descr
+A grey, still-beating heart lies here on the ground.
+[0;36m~
+Type 26
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 54 31 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 4309
+End
+
+#50000
+Name black cloak ~
+Short a [1m[30mblack cloak[0m~
+Descr
+A black cloak lies here on the ground, looking mysterious.
+[0;36m~
+Type 9
+Extra 1
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 60 60 0 0
+Weight 0
+Cost 4394
+Affect 14 5 1 0 0
+Affect 23 4 1 0 0
+Affect 18 1 1 0 0
+End
+
+#50001
+Name silver plate bracelet~
+Short a [0m[37ms[1m[30mi[0m[37ml[1m[30mv[0m[37me[1m[30mr[0m bracelet~
+Descr
+A plate silver bracelet is here, lying on the ground.
+[0;36m~
+Type 8
+Extra 528
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 50 50 0 0
+Weight 0
+Cost 1847
+Affect 17 -2 1 0 0
+Affect 13 5 1 0 0
+Affect 14 5 1 0 0
+End
+
+#50003
+Name vial blood~
+Short a vial of [31mblood[37m~
+Descr
+A vial of blood lies here on the ground.
+[0;36m~
+Type 10
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 28 46 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 995
+End
+
+#50006
+Name black pants cloth~
+Short some [1m[30mblack[0m pants~
+Descr
+Some strange-looking black pants lie here on the ground.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 55 55 0 0
+Weight 0
+Cost 1011
+Affect 15 3 1 0 0
+Affect 14 10 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#50000
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest that looks like has been burned down
+recently.  The blackened stumps density and stench of ash seems to intensify
+to the east.  
+~
+Sector 3
+Reset M 8458 2 100
+Reset O 236 21 55
+Reset O 217 4 90
+Reset O 205 6 20
+Movemess
+(null)~
+Door 0 0 0 29189 30 30
+~
+(null)~
+Door 1 0 0 50003 30 30
+~
+(null)~
+Door 2 0 0 50001 30 30
+~
+(null)~
+Door 3 0 0 29191 30 30
+~
+(null)~
+End
+
+#50001
+Name A Blackened Forest~
+Descr
+You stand in a black forest.  The ground is littered with ash of burned
+trees, and the trees that do grow here are withered and dying.  Large,
+impassable trees block your way to the south.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 50000 30 30
+~
+(null)~
+Door 1 0 0 50002 30 30
+~
+(null)~
+Door 2 0 0 6062 30 30
+Large, impassable trees block your way to the south.  
+~
+(null)~
+Door 3 0 0 29192 30 30
+~
+(null)~
+End
+
+#50002
+Name A Blackened Forest~
+Descr
+You stand in a black forest.  The ground is littered with ash of burned
+trees, and the trees that do grow here are withered and dying.  Large,
+impassable trees block your way to the south.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 50003 30 30
+~
+(null)~
+Door 1 0 0 50005 30 30
+~
+(null)~
+Door 2 0 0 6063 30 30
+Huge towering trees block your way to the south.  
+~
+(null)~
+Door 3 0 0 50001 30 30
+~
+(null)~
+End
+
+#50003
+Name A Blackened Forest~
+Descr
+You stand in a dark, black forest.  Some smoldering ashes still smoke
+here, and you can smell rotting leaves in the air.  The ground is black and
+fertile and the air is still and calm.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29188 30 30
+~
+(null)~
+Door 1 0 0 50004 30 30
+~
+(null)~
+Door 2 0 0 50002 30 30
+~
+(null)~
+Door 3 0 0 50000 30 30
+~
+(null)~
+End
+
+#50004
+Name A Blackened Forest~
+Descr
+The forest is damp and stinks of rotting wet flesh here.  The tree leaves
+are blackened and dead, and a strange evil aura seeps up from the ground
+here.  You can see more forest for a long ways to the north.  
+~
+Shd 1
+Sector 3
+Reset M 50004 3 100
+Movemess
+(null)~
+Door 0 0 0 50006 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 50005 30 30
+~
+(null)~
+Door 3 0 0 50003 30 30
+~
+(null)~
+End
+
+#50005
+Name A Blackened Forest~
+Descr
+You stand in a black forest.  The ground is littered with ash of burned
+trees, and the trees that do grow here are withered and dying.  Large,
+impassable trees block your way to the south.  
+~
+Shd 1
+Sector 3
+Reset M 8456 3 100
+Movemess
+(null)~
+Door 0 0 0 50004 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 6064 0 0
+~
+~
+Door 3 0 0 50002 30 30
+~
+(null)~
+End
+
+#50006
+Name A Blackened Forest~
+Descr
+You stand in a dark, black forest.  Some smoldering ashes still smoke
+here, and you can smell rotting leaves in the air.  The ground is black and
+fertile and the air is still and calm.  
+~
+Shd 1
+Sector 3
+Reset M 50001 1 100
+Movemess
+(null)~
+Door 0 0 0 50007 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 50004 30 30
+~
+(null)~
+Door 3 0 0 29188 30 30
+~
+(null)~
+End
+
+#50007
+Name A Blackened Forest~
+Descr
+The forest is damp and stinks of rotting wet flesh here.  The tree leaves
+are blackened and dead, and a strange evil aura seeps up from the ground
+here.  You can see more forest and then the road a ways to the north.  
+~
+Shd 1
+Sector 3
+Reset M 8456 3 100
+Reset M 50003 3 100
+Movemess
+(null)~
+Door 0 0 0 29181 0 0
+~
+~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 50006 30 30
+~
+(null)~
+Door 3 0 0 29187 0 0
+~
+~
+End
+
+#50008
+Name Inside a Cave~
+Descr
+You stand in a large, stone cave.  To the east you can see the paved road
+through some large grasses.  Bat excrement covers the ground and you begin
+to wonder what lovely creatures live inside this cave.  
+~
+Flags 13
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8481 30 30
+~
+(null)~
+Door 2 0 0 6598 0 0
+~
+~
+Door 3 0 0 50009 30 30
+~
+(null)~
+End
+
+#50009
+Name Inside a Cave~
+Descr
+You stand at a three-way junction inside of a cave in the hills.  The air
+is still and water drips from the ceiling in a slow, steady rhythm.  You can
+see a large cavern to the south, and the passage appears to dead-end to the
+west.  
+~
+Flags 13
+Sector 0
+Reset M 50005 4 100
+Reset M 50005 4 100
+Movemess
+(null)~
+Door 1 0 0 50008 30 30
+~
+(null)~
+Door 2 0 0 50010 30 30
+~
+(null)~
+Door 3 0 0 50011 30 30
+~
+(null)~
+End
+
+#50010
+Name Inside a Cave~
+Descr
+You stand in a north-south passage, inside a cave covered with bat
+droppings.  You can see a cavern to the south and a large, three-way
+junction to the north.  The walls are cold and slimy to the touch.  
+~
+Flags 12
+Sector 0
+Reset M 50005 4 100
+Movemess
+(null)~
+Door 0 0 0 50009 30 30
+~
+(null)~
+Door 2 0 0 50012 30 30
+~
+(null)~
+End
+
+#50011
+Name Inside a Cave~
+Descr
+You stand at an apparent dead-end, although you think you can feel a
+strange breeze blowing in from the west.  Perhaps there is a way out in that
+direction.  You can see the cave entrance a ways off to the east.  
+~
+Flags 13
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 50009 30 30
+~
+(null)~
+Door 3 259 0 50016 30 30
+You see a suspicious looking wall made of stone.  
+~
+stonewall~
+End
+
+#50012
+Name In a Large Cavern~
+Descr
+You stand inside a large cavern.  Slime and bat goo oozes down the walls,
+and horrible-smelling liquid drips constantly onto your head.  You think you
+can hear screeching in the far distance.  
+~
+Flags 12
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 50010 30 30
+~
+(null)~
+Door 2 0 0 50015 30 30
+~
+(null)~
+Door 3 0 0 50013 30 30
+~
+(null)~
+End
+
+#50013
+Name In a Large Cavern~
+Descr
+You stand inside a large cavern.  Slime and bat goo oozes down the walls,
+and horrible-smelling liquid drips constantly onto your head.  You think you
+can hear screeching in the far distance.  
+~
+Flags 13
+Sector 0
+Reset M 50006 1 100
+Reset O 3207 11 20
+Movemess
+(null)~
+Door 1 0 0 50012 30 30
+~
+(null)~
+Door 2 0 0 50014 30 30
+~
+(null)~
+End
+
+#50014
+Name In a Large Cavern~
+Descr
+You stand inside a large cavern.  Slime and bat goo oozes down the walls,
+and horrible-smelling liquid drips constantly onto your head.  You think you
+can hear screeching in the far distance.  
+~
+Flags 12
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 50013 30 30
+~
+(null)~
+Door 1 0 0 50015 30 30
+~
+(null)~
+End
+
+#50015
+Name In a Large Cavern~
+Descr
+You stand inside a large cavern.  Slime and bat goo oozes down the walls,
+and horrible-smelling liquid drips constantly onto your head.  You think you
+can hear screeching in the far distance.  
+~
+Flags 12
+Sector 0
+Reset M 50007 1 100
+Reset O 205 6 100
+Reset O 219 -1 60
+Reset O 50000 11 40
+Reset O 50001 13 17
+Movemess
+(null)~
+Door 0 0 0 50012 30 30
+~
+(null)~
+Door 1 0 0 1670 0 0
+~
+~
+Door 3 0 0 50014 30 30
+~
+(null)~
+End
+
+#50016
+Name A Small Cavern under a Hill~
+Descr
+You stand in a small cavern, under a large hill.  You can see the
+entrance to the cavern a ways off to the west, and there is a solid looking
+wall of stone to the east.  A small draught of air blows in from the east.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 259 0 50011 30 30
+~
+stonewall~
+Door 3 0 0 50017 30 30
+~
+(null)~
+End
+
+#50017
+Name Entrance to a Small Cavern~
+Descr
+You stand at the entrance to a small cavern, deep in the hills.  The air
+is damp, and a small breeze gently blows by you, carrying the scent of bat
+droppings and wet air into your battle-hardened nose.  You can see a small
+clearing of blackened grass to the west.  
+~
+Flags 7
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 50016 30 30
+~
+(null)~
+Door 3 0 0 50018 30 30
+~
+(null)~
+End
+
+#50018
+Name A Small, Secret Clearing~
+Descr
+You stand in a small, secret clearing.  The grass all around is matted
+and looks quite trampled.  The air is cool and a cold wind gently blows
+across your battle-hardened face.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 50017 30 30
+~
+(null)~
+Door 2 0 0 50019 30 30
+~
+(null)~
+Door 3 0 0 50020 30 30
+~
+(null)~
+End
+
+#50019
+Name A Small, Secret Clearing~
+Descr
+You stand in a small, secret clearing.  The grass all around is matted
+and looks quite trampled.  The air is cool and a cold wind gently blows
+across your battle-hardened face.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50018 30 30
+~
+(null)~
+Door 3 0 0 50021 30 30
+~
+(null)~
+End
+
+#50020
+Name A Small, Secret Clearing~
+Descr
+You stand in a small, secret clearing.  The grass all around is matted
+and looks quite trampled.  The air is cool and a cold wind gently blows
+across your battle-hardened face.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 50018 30 30
+~
+(null)~
+Door 2 0 0 50021 30 30
+~
+(null)~
+End
+
+#50021
+Name A Small, Secret Clearing~
+Descr
+You stand in a small, secret clearing.  The grass all around is matted
+and looks quite trampled.  The air is cool and a cold wind gently blows
+across your battle-hardened face.  
+~
+Sector 2
+Reset M 50008 1 100
+Reset O 52 -1 40
+Reset O 50006 6 35
+Reset O 50000 11 22
+Movemess
+(null)~
+Door 0 0 0 50020 30 30
+~
+(null)~
+Door 1 0 0 50019 30 30
+~
+(null)~
+Door 2 0 0 50022 30 30
+~
+(null)~
+Door 3 0 0 50023 30 30
+~
+(null)~
+End
+
+#50022
+Name A Grassy Field~
+Descr
+You stand in a large, grassy field.  The black here seems to eminate a
+horrible evil energy, and noxious fumes and horrible smells rise from the
+ground.  The air is still and stagnant, and you feel nautious.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50021 30 30
+~
+(null)~
+Door 2 259 0 64301 30 30
+~
+rockwall~
+Door 3 0 0 50024 30 30
+~
+(null)~
+End
+
+#50023
+Name A Grassy Field~
+Descr
+You stand in a large, grassy field.  The black here seems to eminate a
+horrible evil energy, and noxious fumes and horrible smells rise from the
+ground.  The air is still and stagnant, and you feel nautious.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 50021 30 30
+~
+(null)~
+Door 2 0 0 50024 30 30
+~
+(null)~
+End
+
+#50024
+Name A Grassy Field~
+Descr
+You stand in a large, grassy field.  The black here seems to eminate a
+horrible evil energy, and noxious fumes and horrible smells rise from the
+ground.  The air is still and stagnant, and you feel nautious.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50023 30 30
+~
+(null)~
+Door 1 0 0 50022 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

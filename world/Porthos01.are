@@ -1,0 +1,4268 @@
+#AREADATA 
+Name Hezlos and Surrounding Area~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA sudden rustle of leaves startle you. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Porthos~
+VNUMs 8801 9000
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#8894
+Name guardian statue~
+Short a guardian statue~
+Long 
+A statue in the shape of Hezlos protects the city from invaders.
+~
+Descr
+~
+AMax 2
+NHeight 180
+ActBits 2
+Affect_By 128
+Money 101
+Level 101
+Sex 1
+MobType 15
+Guard 0
+End
+
+#8905
+Name jallen banker~
+Short jallen the banker~
+Long 
+Jallen the town banker stands here counting a large sum of money.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 131074
+Affect_By 8
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#8906
+Name griznar repair man repairman~
+Short griznar the repairman~
+Long 
+Griznar is here, mending a broken breastplate.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 3145730
+Affect_By 8
+Money 101
+Level 101
+MobType 0
+Guard 0
+End
+
+#8910
+Name niesha elven elf sorceress~
+Short niesha~
+Long 
+Niesha the elven sorceress meditates in her chamber.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 2
+Affect_By 136
+Money 195
+Level 195
+Sex 2
+MobType 1
+Guard 0
+End
+
+#8914
+Name liynn~
+Short liynn the baker~
+Long 
+Liynn the baker is here baking some bread.
+~
+Descr
+~
+AMax 1
+NHeight 53
+ActBits 2
+Affect_By 8
+Money 101
+Level 101
+Sex 2
+MobType 0
+Guard 0
+Shop    0  19   0   0   0 100 10 1 23
+Shopd2 1
+Shopd3 100
+ShopCr 37
+ShopCS Liynn pulls a loaf of bread out of the oven.~
+End
+
+#8918
+Name jikkar dwarf dwarven warrior~
+Short jikkar~
+Long 
+Jikkar the dwarven warrior is here practicing his fighting skills.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 2
+Affect_By 136
+Money 150
+Level 150
+Sex 1
+MobType 2
+Guard 0
+Spec spec_warrior
+End
+
+#8923
+Name lizira~
+Short lizira~
+Long 
+Lizira is here meditating peacefully in her chamber.
+~
+Descr
+~
+AMax 1
+NHeight 47
+ActBits 2
+Affect_By 136
+Money 250
+Level 250
+Sex 2
+MobType 19
+Guard 0
+End
+
+#8924
+Name jingizu~
+Short jingizu~
+Long 
+Jingizu the infamous thief eyes your inventory and gold.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 2
+Affect_By 680
+Money 125
+Level 125
+Sex 1
+MobType 26
+Guard 0
+Spec spec_thief
+End
+
+#8999
+Name small wood-elf elf~
+Short a small wood-elf~
+Long 
+A small wood-elf is darting around the forest.
+~
+Descr
+~
+AMax 10
+NHeight 40
+Affect_By 520
+Money 101
+Level 101
+Sex 1
+MobType 1
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#8820
+Name large moss-covered boulder~
+Short a large boulder~
+Descr
+A large boulder prevents the river from flowing north.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 8840 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#8840
+Name boulder~
+Short a large boulder~
+Descr
+A large boulder.
+[0;36m~
+Type 30
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8820 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8841
+Name leaves~
+Short the leaves~
+Descr
+The leaves.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8919 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8897
+Name wishing well fountain~
+Short the wishing well~
+Descr
+The famous wishing well is here, bubbling fresh clear water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8909
+Name red ivory ring APB finger~
+Short [0ma [1m[31mred[37m ivory[0m ring~
+Descr
+A small ring has been left here
+[0;36m~
+Type 9
+Extra 536870914
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 50 50 10 1
+Weight 1
+Cost 0
+Affect 13 -5 1 0 0
+Affect 19 1 1 0 0
+End
+
+#8910
+Name anklet red ivory ankle~
+Short [0ma [1m[31mred[1m[37m ivory[0m anklet~
+Descr
+An anklet made of red ivory rests here.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 1
+Cost 5000
+Affect 22 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#8916
+Name titanium arm-guards guards APB arms~
+Short [0ma pair of [1m[37mtitanium[0m arm-guards~
+Descr
+A pair of titanium arm guards sit here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 50 50 0 0
+Weight 3
+Cost 5000
+Affect 19 1 1 0 0
+Affect 18 -2 1 0 0
+End
+
+#8917
+Name titanium gauntlets hands~
+Short [0ma pair of [1m[37mtitanium[0m gauntlets~
+Descr
+A pair of titanium gauntlets sit here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 2
+Cost 5999
+Affect 18 2 1 0 0
+End
+
+#8918
+Name titanium greaves kick legs~
+Short [0ma pair of [1m[37mtitanium[0m greaves~
+Descr
+A pair of titanium greaves sit here.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 4
+Cost 300
+Affect 14 10 1 0 0
+Affect 22 2 1 0 0
+End
+
+#8923
+Name lizira's necklace Lizira HEALBONUS AC neck~
+Short [1m[31mL[0m[31mi[1m[33mz[31mi[0m[31mr[1m[33ma[31m'[0m[31ms [1m[31mNe[0m[31mc[1m[33mkl[0m[31ma[1mcE[0m~
+Descr
+A beautiful necklace has been foolishly left here!
+[0;36m~
+Type 9
+Extra 536870945
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 0 0 50 50 0 0
+Weight 2
+Cost 1240
+Affect 17 -2 1 0 0
+Affect 27 4 1 0 0
+End
+
+#8924
+Name emerald hilted emerald-hilted dagger weapon~
+Short [0man [1m[32memerald[0m-[1m[37mhilted[0m dagger~
+Descr
+A long dagger with an emerald hilt lies here.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 1 30 0
+Weight 2
+Cost 12999
+Affect 18 2 1 0 0
+Affect 19 2 1 0 0
+End
+
+#8999
+Name doll rastan talking quest~
+Short [0ma [1m[31mT[33ma[0m[31ml[1mk[33mi[0m[31mn[1mG [32mR[0m[0ma[1m[37mS[1m[32mt[0m[32ma[1m[37mN [36mD[0m[36mo[1mLL[0m~
+Descr
+An annoying talking doll is here.. argh!
+[0;36m~
+Type 8
+Extra 537001985
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 5999
+Affect 18 1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#9000
+Name token~
+Short a Thief's cult token~
+Descr
+A Thief's cult token is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 5000
+End
+
+#0
+
+
+
+#ROOMDATA
+#8801
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8802 0 0
+~
+~
+Door 1 0 0 8842 0 0
+~
+~
+Door 3 0 0 8812 0 0
+~
+~
+End
+
+#8802
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8803 0 0
+~
+~
+Door 1 0 0 8843 0 0
+~
+~
+Door 2 0 0 8801 0 0
+~
+~
+Door 3 0 0 8813 0 0
+~
+~
+End
+
+#8803
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8845 0 0
+~
+~
+Door 1 0 0 8844 0 0
+~
+~
+Door 2 0 0 8802 0 0
+~
+~
+Door 3 0 0 8804 0 0
+~
+~
+End
+
+#8804
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8805 0 0
+~
+~
+Door 1 0 0 8803 0 0
+~
+~
+Door 2 0 0 8813 0 0
+~
+~
+Door 3 0 0 8814 0 0
+~
+~
+End
+
+#8805
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8806 0 0
+~
+~
+Door 1 0 0 8845 0 0
+~
+~
+Door 2 0 0 8804 0 0
+~
+~
+Door 3 0 0 8815 0 0
+~
+~
+End
+
+#8806
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8807 0 0
+~
+~
+Door 1 0 0 8846 0 0
+~
+~
+Door 2 0 0 8805 0 0
+~
+~
+Door 3 0 0 8856 0 0
+~
+~
+End
+
+#8807
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8816 0 0
+~
+~
+Door 1 0 0 8847 0 0
+~
+~
+Door 2 0 0 8806 0 0
+~
+~
+Door 3 0 0 8808 0 0
+~
+~
+End
+
+#8808
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8809 0 0
+~
+~
+Door 1 0 0 8807 0 0
+~
+~
+Door 2 0 0 8856 0 0
+~
+~
+Door 3 0 0 8857 0 0
+~
+~
+End
+
+#8809
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8810 0 0
+~
+~
+Door 1 0 0 8816 0 0
+~
+~
+Door 2 0 0 8808 0 0
+~
+~
+Door 3 0 0 8858 0 0
+~
+~
+End
+
+#8810
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8811 0 0
+~
+~
+Door 1 0 0 8849 0 0
+~
+~
+Door 2 0 0 8809 0 0
+~
+~
+Door 3 0 0 8859 0 0
+~
+~
+End
+
+#8811
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8819 0 0
+~
+~
+Door 1 0 0 8850 0 0
+~
+~
+Door 2 0 0 8810 0 0
+~
+~
+Door 3 0 0 8817 0 0
+~
+~
+End
+
+#8812
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8813 0 0
+~
+~
+Door 1 0 0 8801 0 0
+~
+~
+Door 3 0 0 8852 0 0
+~
+~
+End
+
+#8813
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8804 0 0
+~
+~
+Door 1 0 0 8802 0 0
+~
+~
+Door 2 0 0 8812 0 0
+~
+~
+Door 3 0 0 8853 0 0
+~
+~
+End
+
+#8814
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8815 0 0
+~
+~
+Door 1 0 0 8804 0 0
+~
+~
+Door 2 0 0 8853 0 0
+~
+~
+Door 3 0 0 8854 0 0
+~
+~
+End
+
+#8815
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8856 0 0
+~
+~
+Door 1 0 0 8805 0 0
+~
+~
+Door 2 0 0 8814 0 0
+~
+~
+Door 3 0 0 8855 0 0
+~
+~
+End
+
+#8816
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8849 0 0
+~
+~
+Door 1 0 0 8848 0 0
+~
+~
+Door 2 0 0 8807 0 0
+~
+~
+Door 3 0 0 8809 0 0
+~
+~
+End
+
+#8817
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8818 0 0
+~
+~
+Door 1 0 0 8811 0 0
+~
+~
+Door 2 0 0 8859 0 0
+~
+~
+Door 3 0 0 8860 0 0
+~
+~
+End
+
+#8818
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8829 0 0
+~
+~
+Door 1 0 0 8819 0 0
+~
+~
+Door 2 0 0 8817 0 0
+~
+~
+Door 3 0 0 8861 0 0
+~
+~
+End
+
+#8819
+Name The Argorn River~
+Descr
+You are floating peacefully down the river at a slow rate. The river
+isn't too deep at all, 4 to possibly 5 feet deep. To the north you notice a
+large boulder, and what appears to be an island. 
+~
+Sector 6
+Door 0 0 0 8820 0 0
+~
+~
+Door 1 0 0 8851 0 0
+~
+~
+Door 2 0 0 8811 0 0
+~
+~
+Door 3 0 0 8818 0 0
+~
+~
+End
+
+#8820
+Name The River Branches~
+Descr
+The peaceful Argorn river suddenly changes pace as it crashes into the
+large boulder ahead. It speeds up and seperates into two branches. 
+~
+Sector 6
+Reset O 8820 -5 100
+Door 1 0 0 8821 0 0
+~
+~
+Door 2 0 0 8819 0 0
+~
+~
+Door 3 0 0 8829 0 0
+~
+~
+End
+
+#8821
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8822 0 0
+~
+~
+Door 1 0 0 8961 0 0
+~
+~
+Door 2 0 0 8851 0 0
+~
+~
+Door 3 0 0 8820 0 0
+~
+~
+End
+
+#8822
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8865 0 0
+~
+~
+Door 1 0 0 8823 0 0
+~
+~
+Door 2 0 0 8821 0 0
+~
+~
+Door 3 0 0 8862 0 0
+~
+~
+End
+
+#8823
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8864 0 0
+~
+~
+Door 1 0 0 8824 0 0
+~
+~
+Door 2 0 0 8961 0 0
+~
+~
+Door 3 0 0 8822 0 0
+~
+~
+End
+
+#8824
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8825 0 0
+~
+~
+Door 1 0 0 8958 0 0
+~
+~
+Door 2 0 0 8960 0 0
+~
+~
+Door 3 0 0 8823 0 0
+~
+~
+End
+
+#8825
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8826 0 0
+~
+~
+Door 1 0 0 8957 0 0
+~
+~
+Door 2 0 0 8824 0 0
+~
+~
+Door 3 0 0 8864 0 0
+~
+~
+End
+
+#8826
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8884 0 0
+~
+~
+Door 1 0 0 8827 0 0
+~
+~
+Door 2 0 0 8825 0 0
+~
+~
+Door 3 0 0 8870 0 0
+~
+~
+End
+
+#8827
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8828 0 0
+~
+~
+Door 1 0 0 8955 0 0
+~
+~
+Door 2 0 0 8957 0 0
+~
+~
+Door 3 0 0 8826 0 0
+~
+~
+End
+
+#8828
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8937 0 0
+~
+~
+Door 1 0 0 8954 0 0
+~
+~
+Door 2 0 0 8827 0 0
+~
+~
+Door 3 0 0 8884 0 0
+~
+~
+End
+
+#8829
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8863 0 0
+~
+~
+Door 1 0 0 8820 0 0
+~
+~
+Door 2 0 0 8818 0 0
+~
+~
+Door 3 0 0 8830 0 0
+~
+~
+End
+
+#8830
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8831 0 0
+~
+~
+Door 1 0 0 8829 0 0
+~
+~
+Door 2 0 0 8861 0 0
+~
+~
+Door 3 0 0 8983 0 0
+~
+~
+End
+
+#8831
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8868 0 0
+~
+~
+Door 1 0 0 8863 0 0
+~
+~
+Door 2 0 0 8830 0 0
+~
+~
+Door 3 0 0 8832 0 0
+~
+~
+End
+
+#8832
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8869 0 0
+~
+~
+Door 1 0 0 8831 0 0
+~
+~
+Door 2 0 0 8983 0 0
+~
+~
+Door 3 0 0 8833 0 0
+~
+~
+End
+
+#8833
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8834 0 0
+~
+~
+Door 1 0 0 8832 0 0
+~
+~
+Door 2 0 0 8982 0 0
+~
+~
+Door 3 0 0 8980 0 0
+~
+~
+End
+
+#8834
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8835 0 0
+~
+~
+Door 1 0 0 8869 0 0
+~
+~
+Door 2 0 0 8833 0 0
+~
+~
+Door 3 0 0 8979 0 0
+~
+~
+End
+
+#8835
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8877 0 0
+~
+~
+Door 1 0 0 8875 0 0
+~
+~
+Door 2 0 0 8834 0 0
+~
+~
+Door 3 0 0 8836 0 0
+~
+~
+End
+
+#8836
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8876 0 0
+~
+~
+Door 1 0 0 8835 0 0
+~
+~
+Door 2 0 0 8979 0 0
+~
+~
+Door 3 0 0 8837 0 0
+~
+~
+End
+
+#8837
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 5
+Door 0 0 0 8838 0 0
+~
+~
+Door 1 0 0 8836 0 0
+~
+~
+Door 2 0 0 8978 0 0
+~
+~
+Door 3 0 0 8976 0 0
+~
+~
+End
+
+#8838
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8995 0 0
+~
+~
+Door 1 0 0 8876 0 0
+~
+~
+Door 2 0 0 8837 0 0
+~
+~
+Door 3 0 0 8839 0 0
+~
+~
+End
+
+#8839
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8992 0 0
+~
+~
+Door 1 0 0 8838 0 0
+~
+~
+Door 2 0 0 8976 0 0
+~
+~
+Door 3 0 0 8963 0 0
+~
+~
+End
+
+#8840
+Name Atop a Boulder~
+Descr
+You've climbed the boulder and reached the top. You can see over most of
+the forest now. To the north you notice a lake and another island. 
+~
+Reset O 8840 -5 100
+Door 0 0 0 8841 0 0
+~
+~
+End
+
+#8841
+Name Atop a Boulder~
+Descr
+You can see over all of the trees in the forest now. You notice a lake to
+the north along with an island in the center. It is so peaceful up here on
+this boulder. 
+~
+Reset O 8841 -5 100
+Door 2 0 0 8840 0 0
+~
+~
+End
+
+#8842
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8843 0 0
+~
+~
+Door 3 0 0 8801 0 0
+~
+~
+End
+
+#8843
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8844 0 0
+~
+~
+Door 2 0 0 8842 0 0
+~
+~
+Door 3 0 0 8802 0 0
+~
+~
+End
+
+#8844
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8988 0 0
+~
+~
+Door 2 0 0 8843 0 0
+~
+~
+Door 3 0 0 8803 0 0
+~
+~
+End
+
+#8845
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8846 0 0
+~
+~
+Door 1 0 0 8988 0 0
+~
+~
+Door 2 0 0 8803 0 0
+~
+~
+Door 3 0 0 8805 0 0
+~
+~
+End
+
+#8846
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8847 0 0
+~
+~
+Door 2 0 0 8845 0 0
+~
+~
+Door 3 0 0 8806 0 0
+~
+~
+End
+
+#8847
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8848 0 0
+~
+~
+Door 2 0 0 8846 0 0
+~
+~
+Door 3 0 0 8807 0 0
+~
+~
+End
+
+#8848
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8989 0 0
+~
+~
+Door 2 0 0 8847 0 0
+~
+~
+Door 3 0 0 8816 0 0
+~
+~
+End
+
+#8849
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8850 0 0
+~
+~
+Door 1 0 0 8989 0 0
+~
+~
+Door 2 0 0 8816 0 0
+~
+~
+Door 3 0 0 8810 0 0
+~
+~
+End
+
+#8850
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8851 0 0
+~
+~
+Door 2 0 0 8849 0 0
+~
+~
+Door 3 0 0 8811 0 0
+~
+~
+End
+
+#8851
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8821 0 0
+~
+~
+Door 1 0 0 8962 0 0
+~
+~
+Door 2 0 0 8850 0 0
+~
+~
+Door 3 0 0 8819 0 0
+~
+~
+End
+
+#8852
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8853 0 0
+~
+~
+Door 1 0 0 8812 0 0
+~
+~
+End
+
+#8853
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8814 0 0
+~
+~
+Door 1 0 0 8813 0 0
+~
+~
+Door 2 0 0 8852 0 0
+~
+~
+Door 3 0 0 8987 0 0
+~
+~
+End
+
+#8854
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8855 0 0
+~
+~
+Door 1 0 0 8814 0 0
+~
+~
+Door 2 0 0 8987 0 0
+~
+~
+End
+
+#8855
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8986 0 0
+~
+~
+Door 1 0 0 8815 0 0
+~
+~
+Door 2 0 0 8854 0 0
+~
+~
+End
+
+#8856
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8808 0 0
+~
+~
+Door 1 0 0 8806 0 0
+~
+~
+Door 2 0 0 8815 0 0
+~
+~
+Door 3 0 0 8986 0 0
+~
+~
+End
+
+#8857
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8858 0 0
+~
+~
+Door 1 0 0 8808 0 0
+~
+~
+Door 2 0 0 8986 0 0
+~
+~
+End
+
+#8858
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8859 0 0
+~
+~
+Door 1 0 0 8809 0 0
+~
+~
+Door 2 0 0 8857 0 0
+~
+~
+End
+
+#8859
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8817 0 0
+~
+~
+Door 1 0 0 8810 0 0
+~
+~
+Door 2 0 0 8858 0 0
+~
+~
+Door 3 0 0 8985 0 0
+~
+~
+End
+
+#8860
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8861 0 0
+~
+~
+Door 1 0 0 8817 0 0
+~
+~
+Door 2 0 0 8985 0 0
+~
+~
+End
+
+#8861
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8830 0 0
+~
+~
+Door 1 0 0 8818 0 0
+~
+~
+Door 2 0 0 8860 0 0
+~
+~
+Door 3 0 0 8984 0 0
+~
+~
+End
+
+#8862
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8866 0 0
+~
+~
+Door 1 0 0 8822 0 0
+~
+~
+Door 3 0 0 8863 0 0
+~
+~
+End
+
+#8863
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Reset M 7 1 100
+Door 0 0 0 8867 0 0
+~
+~
+Door 1 0 0 8862 0 0
+~
+~
+Door 2 0 0 8829 0 0
+~
+~
+Door 3 0 0 8831 0 0
+~
+~
+End
+
+#8864
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8870 0 0
+~
+~
+Door 1 0 0 8825 0 0
+~
+~
+Door 2 0 0 8823 0 0
+~
+~
+Door 3 0 0 8865 0 0
+~
+~
+End
+
+#8865
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8871 0 0
+~
+~
+Door 1 0 0 8864 0 0
+~
+~
+Door 2 0 0 8822 0 0
+~
+~
+Door 3 0 0 8866 0 0
+~
+~
+End
+
+#8866
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8872 0 0
+~
+~
+Door 1 0 0 8865 0 0
+~
+~
+Door 2 0 0 8862 0 0
+~
+~
+Door 3 0 0 8867 0 0
+~
+~
+End
+
+#8867
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8873 0 0
+~
+~
+Door 1 0 0 8866 0 0
+~
+~
+Door 2 0 0 8863 0 0
+~
+~
+Door 3 0 0 8868 0 0
+~
+~
+End
+
+#8868
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8874 0 0
+~
+~
+Door 1 0 0 8867 0 0
+~
+~
+Door 2 0 0 8831 0 0
+~
+~
+Door 3 0 0 8869 0 0
+~
+~
+End
+
+#8869
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8875 0 0
+~
+~
+Door 1 0 0 8868 0 0
+~
+~
+Door 2 0 0 8832 0 0
+~
+~
+Door 3 0 0 8834 0 0
+~
+~
+End
+
+#8870
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8883 0 0
+~
+~
+Door 1 0 0 8826 0 0
+~
+~
+Door 2 0 0 8864 0 0
+~
+~
+Door 3 0 0 8871 0 0
+~
+~
+End
+
+#8871
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8882 0 0
+~
+~
+Door 1 0 0 8870 0 0
+~
+~
+Door 2 0 0 8865 0 0
+~
+~
+Door 3 0 0 8872 0 0
+~
+~
+End
+
+#8872
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Below you is a strange set of
+marble stairs. 
+~
+Sector 3
+Door 0 0 0 8881 0 0
+~
+~
+Door 1 0 0 8871 0 0
+~
+~
+Door 2 0 0 8866 0 0
+~
+~
+Door 3 0 0 8873 0 0
+~
+~
+Door 5 0 0 8885 0 0
+~
+~
+End
+
+#8873
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8880 0 0
+~
+~
+Door 1 0 0 8872 0 0
+~
+~
+Door 2 0 0 8867 0 0
+~
+~
+Door 3 0 0 8874 0 0
+~
+~
+End
+
+#8874
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8879 0 0
+~
+~
+Door 1 0 0 8873 0 0
+~
+~
+Door 2 0 0 8868 0 0
+~
+~
+Door 3 0 0 8875 0 0
+~
+~
+End
+
+#8875
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8878 0 0
+~
+~
+Door 1 0 0 8874 0 0
+~
+~
+Door 2 0 0 8869 0 0
+~
+~
+Door 3 0 0 8835 0 0
+~
+~
+End
+
+#8876
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8935 0 0
+~
+~
+Door 1 0 0 8877 0 0
+~
+~
+Door 2 0 0 8836 0 0
+~
+~
+Door 3 0 0 8838 0 0
+~
+~
+End
+
+#8877
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8933 0 0
+~
+~
+Door 1 0 0 8878 0 0
+~
+~
+Door 2 0 0 8835 0 0
+~
+~
+Door 3 0 0 8876 0 0
+~
+~
+End
+
+#8878
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8925 0 0
+~
+~
+Door 1 0 0 8879 0 0
+~
+~
+Door 2 0 0 8875 0 0
+~
+~
+Door 3 0 0 8877 0 0
+~
+~
+End
+
+#8879
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4059 0 0
+~
+~
+Door 1 0 0 8880 0 0
+~
+~
+Door 2 0 0 8874 0 0
+~
+~
+Door 3 0 0 8878 0 0
+~
+~
+End
+
+#8880
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 4060 0 0
+~
+~
+Door 1 0 0 8881 0 0
+~
+~
+Door 2 0 0 8873 0 0
+~
+~
+Door 3 0 0 8879 0 0
+~
+~
+End
+
+#8881
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4061 0 0
+~
+~
+Door 1 0 0 8882 0 0
+~
+~
+Door 2 0 0 8872 0 0
+~
+~
+Door 3 0 0 8880 0 0
+~
+~
+End
+
+#8882
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8927 0 0
+~
+~
+Door 1 0 0 8883 0 0
+~
+~
+Door 2 0 0 8871 0 0
+~
+~
+Door 3 0 0 8881 0 0
+~
+~
+End
+
+#8883
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8928 0 0
+~
+~
+Door 1 0 0 8884 0 0
+~
+~
+Door 2 0 0 8870 0 0
+~
+~
+Door 3 0 0 8882 0 0
+~
+~
+End
+
+#8884
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8930 0 0
+~
+~
+Door 1 0 0 8828 0 0
+~
+~
+Door 2 0 0 8826 0 0
+~
+~
+Door 3 0 0 8883 0 0
+~
+~
+End
+
+#8885
+Name A Marble Staircase~
+Descr
+You are now on a descending staircase leading under the forest. You can
+hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8887 0 0
+~
+~
+Door 4 0 0 8872 0 0
+~
+~
+End
+
+#8886
+Name A Marble Staircase~
+Descr
+Desc You are now on a descending staircase leading under the forest. You
+can hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+End
+
+#8887
+Name A Marble Staircase~
+Descr
+Desc You are now on a descending staircase leading under the forest. You
+can hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8888 0 0
+~
+~
+Door 3 0 0 8885 0 0
+~
+~
+End
+
+#8888
+Name A Marble Staircase~
+Descr
+Desc You are now on a descending staircase leading under the forest. You
+can hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8887 0 0
+~
+~
+Door 2 0 0 8889 0 0
+~
+~
+End
+
+#8889
+Name A Marble Staircase~
+Descr
+Desc You are now on a descending staircase leading under the forest. You
+can hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8888 0 0
+~
+~
+Door 3 0 0 8890 0 0
+~
+~
+End
+
+#8890
+Name A Marble Staircase~
+Descr
+You are now on a descending staircase leading under the forest. You can
+hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8889 0 0
+~
+~
+Door 3 0 0 8891 0 0
+~
+~
+End
+
+#8891
+Name A Marble Staircase~
+Descr
+You are now on a descending staircase leading under the forest. You can
+hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8892 0 0
+~
+~
+Door 1 0 0 8890 0 0
+~
+~
+End
+
+#8892
+Name A Marble Staircase~
+Descr
+You are now on a descending staircase leading under the forest. You can
+hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8893 0 0
+~
+~
+Door 2 0 0 8891 0 0
+~
+~
+End
+
+#8893
+Name A Marble Staircase~
+Descr
+You are now on a descending staircase leading under the forest. You can
+hear the sounds of a city nearby. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8894 0 0
+~
+~
+Door 2 0 0 8892 0 0
+~
+~
+End
+
+#8894
+Name An Ivory Archway~
+Descr
+The staircase has led you to a beautiful ivory archway. To the north you
+can see a small town and several figures wandering around. Two enormous
+stone statues faithfully guard the area. 
+~
+Flags 4
+Sector 0
+Reset M 8894 1 100
+Reset O 202 21 100
+Reset M 8894 1 100
+Reset O 202 21 100
+Door 0 0 0 8895 0 0
+~
+~
+Door 2 0 0 8893 0 0
+~
+~
+End
+
+#8895
+Name Sapphire Avenue~
+Descr
+This north-south street is considered the main street of the town. Its
+name of course comes from the bluish hue eminating it. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8896 0 0
+~
+~
+Door 2 0 0 8894 0 0
+~
+~
+End
+
+#8896
+Name Sapphire Avenue~
+Descr
+This north-south street is considered the main street of the town. Its
+name of course comes from the bluish hue eminating it. To the west is a
+nice-looking door. To the north you see a large fountain. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8897 0 0
+~
+~
+Door 2 0 0 8895 0 0
+~
+~
+Door 3 3 0 8904 30 30
+~
+grand door~
+End
+
+#8897
+Name The Wishing Well~
+Descr
+This is considered the center of Hezlos. A large fountain known as the
+wishing well has been erected here. Legends say that those who donate to the
+well shall be granted a wish. 
+~
+Flags 4
+Sector 0
+Reset O 8897 -5 100
+Door 0 0 0 8899 0 0
+~
+~
+Door 1 0 0 8901 0 0
+~
+~
+Door 2 0 0 8896 0 0
+~
+~
+End
+
+#8898
+Name ~
+Descr
+~
+Door 2 0 0 8897 0 0
+~
+~
+End
+
+#8899
+Name The Crystal Hall~
+Descr
+You now stand in a very relaxing room known as the Crystal Hall. This is
+where the inhabitants come when they need to relax. You feel a strange force
+beckoning you to take a seat. 
+~
+Flags 2097156
+Sector 0
+Door 2 0 0 8897 0 0
+~
+~
+End
+
+#8901
+Name Ruby Lane~
+Descr
+You are travelling on a dazzling east-west street known as Ruby Lane.
+Obviously its name comes from the many rubies that line the street's edge.
+The sight of this street is just magnificent. You notice a bank to the
+north. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8905 0 0
+~
+~
+Door 1 0 0 8902 0 0
+~
+~
+Door 3 0 0 8897 0 0
+~
+~
+End
+
+#8902
+Name Ruby Lane~
+Descr
+You are travelling on a dazzling east-west street known as Ruby Lane.
+Obviously its name comes from the many rubies that line the street's edge.
+The sight of this street is just magnificent. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8903 0 0
+~
+~
+Door 3 0 0 8901 0 0
+~
+~
+End
+
+#8903
+Name Corner of Ruby and Emerald~
+Descr
+This is the corner where Ruby and Emerald Lane intersect. Both streets
+are simply amazing. To the north is the armor and weapon repair shop. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8906 0 0
+~
+~
+Door 2 0 0 8911 0 0
+~
+~
+Door 3 0 0 8902 0 0
+~
+~
+End
+
+#8904
+Name A Grand Hallway~
+Descr
+You're travelling inside a huge passageway. In the near distance you can
+hear the chanting of strange, unknown phrases. 
+~
+Flags 4
+Sector 0
+Door 1 3 0 8896 30 30
+~
+grand door~
+Door 3 0 0 8907 0 0
+~
+~
+End
+
+#8905
+Name The Bank of Hezlos~
+Descr
+You've entered the town's bank. A short man is ready to collect your
+cash. Several safe deposits line the back wall. 
+~
+Flags 4
+Sector 0
+Reset M 8905 1 100
+Door 2 0 0 8901 0 0
+~
+~
+End
+
+#8906
+Name Griznar's Repair Shop~
+Descr
+You've entered the town's armor and weapon repair shop. A large man sits
+on the workbench repairing a breastplate. 
+~
+Flags 4
+Sector 0
+Reset M 8906 1 100
+Door 2 0 0 8903 0 0
+~
+~
+End
+
+#8907
+Name A Grand Hallway~
+Descr
+You're travelling inside a huge passageway. In the near distance you can
+hear the chanting of strange, unknown phrases. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8904 0 0
+~
+~
+Door 3 0 0 8908 0 0
+~
+~
+End
+
+#8908
+Name A Grand Hallway~
+Descr
+You're travelling inside a huge passageway. In the near distance you can
+hear the chanting of strange, unknown phrases. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8907 0 0
+~
+~
+Door 3 0 0 8909 0 0
+~
+~
+End
+
+#8909
+Name A Grand Hallway~
+Descr
+You're travelling inside a huge passageway. In the near distance you can
+hear the chanting of strange, unknown phrases. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8908 0 0
+~
+~
+Door 3 0 0 8910 0 0
+~
+~
+End
+
+#8910
+Name An Ornate Chamber~
+Descr
+The passage has led to a beautiful ornate chamber with gems lining the
+walls. An elven sorceress is meditating here, she wears jewelry crafted of
+the finest red ivory. 
+~
+Flags 4
+Sector 0
+Reset M 8910 1 100
+Reset O 8910 -1 15
+Reset O 8909 -1 5
+Reset O 8910 -1 15
+Door 1 0 0 8909 0 0
+~
+~
+End
+
+#8911
+Name Emerald Lane~
+Descr
+This street is obviously named after the large chunks of emerald that lie
+alongside. The view is simply breathtaking. To the west is the bakery. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8903 0 0
+~
+~
+Door 2 0 0 8912 0 0
+~
+~
+Door 3 0 0 8914 0 0
+~
+~
+End
+
+#8912
+Name Emerald Lane~
+Descr
+This street is obviously named after the large chunks of emerald that lie
+alongside. The view is simply breathtaking. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8911 0 0
+~
+~
+Door 2 0 0 8913 0 0
+~
+~
+End
+
+#8913
+Name Emerald Lane~
+Descr
+This street is obviously named after the large chunks of emerald that lie
+alongside. The view is simply breathtaking. To the east is a beautiful
+golden door. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8912 0 0
+~
+~
+Door 1 3 0 8915 30 30
+~
+golden door~
+Door 5 259 0 8924 30 30
+~
+emerald~
+End
+
+#8914
+Name Liynn's Bakery~
+Descr
+You've entered the town's bakery. A short, fat woman works here alone.
+You smile at her and check out what she has to offer. 
+~
+Flags 4
+Sector 0
+Reset M 8914 1 100
+Reset O 37 50 100
+Door 1 0 0 8911 0 0
+~
+~
+End
+
+#8915
+Name A Golden Passage~
+Descr
+You're travelling inside a blindingly bright golden passage. In the near
+distance you can hear someone fighting. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8916 0 0
+~
+~
+Door 3 3 0 8913 30 30
+~
+golden door~
+End
+
+#8916
+Name A Golden Passage~
+Descr
+You're travelling inside a blindingly bright golden passage. In the near
+distance you can hear someone fighting. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8917 0 0
+~
+~
+Door 3 0 0 8915 0 0
+~
+~
+End
+
+#8917
+Name A Golden Passage~
+Descr
+You're travelling inside a blindingly bright golden passage. In the near
+distance you can hear someone fighting. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8916 0 0
+~
+~
+Door 2 0 0 8918 0 0
+~
+~
+End
+
+#8918
+Name A Golden Chamber~
+Descr
+The passage has led to a large chamber of gold, with a small but strong
+looking dwarf in the center. He appears to be practicing fighting
+techniques, and is wearing a suit of titanium armor. 
+~
+Flags 4
+Sector 0
+Reset M 8918 1 100
+Reset O 8917 -1 15
+Reset O 8918 -1 15
+Reset O 8916 -1 5
+Door 0 0 0 8917 0 0
+~
+~
+End
+
+#8919
+Name On a Large Branch~
+Descr
+You're standing on a long, sturdy branch of the tree. Several insects
+buzz around you, making you angry. 
+~
+Door 1 0 0 8920 0 0
+~
+~
+End
+
+#8920
+Name Atop a Large Tree~
+Descr
+You're on top of an enormous tree. The only way is to go down and explore
+the rest of this magnificent tree. 
+~
+Door 3 0 0 8919 0 0
+~
+~
+Door 5 0 0 8921 0 0
+~
+~
+End
+
+#8921
+Name Climbing a Large Tree~
+Descr
+You're about three quarters of the way up the tree. Nothing much exciting
+here. As you look down you can see the ground. 
+~
+Door 4 0 0 8920 0 0
+~
+~
+Door 5 0 0 8922 0 0
+~
+~
+End
+
+#8922
+Name Before a Hole in the Tree~
+Descr
+You're almost to the ground. You notice the tree has been hollowed out
+here. As you peek into the hole you can see a small figure chanting strange
+and mysterious words. 
+~
+Door 0 0 0 8923 0 0
+~
+~
+Door 4 0 0 8921 0 0
+~
+~
+Door 5 0 0 8872 0 0
+~
+~
+End
+
+#8923
+Name Inside the Tree~
+Descr
+This creature has turned this small hole into a wonderful home. She sits
+in the middle of the room, beckoning you to join her. 
+~
+Flags 4
+Sector 0
+Reset M 8923 1 100
+Reset O 8923 -1 5
+Door 2 0 0 8922 0 0
+~
+~
+End
+
+#8924
+Name An Dark Chamber~
+Descr
+The loose emerald you opened has led to a very dark chamber with a
+cloaked figure standing against the northern wall. He sneaks around the
+room, eyeing your equipment. He wields a dagger with an emerald hilt. 
+~
+Flags 5
+Sector 0
+Reset M 8924 1 100
+Reset O 8924 -1 5
+Door 4 259 0 8913 30 30
+~
+emerald~
+End
+
+#8925
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8926 0 0
+~
+~
+Door 1 0 0 4059 0 0
+~
+~
+Door 2 0 0 8878 0 0
+~
+~
+Door 3 0 0 8933 0 0
+~
+~
+End
+
+#8926
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 4056 0 0
+~
+~
+Door 1 0 0 4058 0 0
+~
+~
+Door 2 0 0 8925 0 0
+~
+~
+Door 3 0 0 8934 0 0
+~
+~
+End
+
+#8927
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 4063 0 0
+~
+~
+Door 1 0 0 8928 0 0
+~
+~
+Door 2 0 0 8882 0 0
+~
+~
+Door 3 0 0 4061 0 0
+~
+~
+End
+
+#8928
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8929 0 0
+~
+~
+Door 1 0 0 8930 0 0
+~
+~
+Door 2 0 0 8883 0 0
+~
+~
+Door 3 0 0 8927 0 0
+~
+~
+End
+
+#8929
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4065 0 0
+~
+~
+Door 1 0 0 8931 0 0
+~
+~
+Door 2 0 0 8928 0 0
+~
+~
+Door 3 0 0 4063 0 0
+~
+~
+End
+
+#8930
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8931 0 0
+~
+~
+Door 1 0 0 8937 0 0
+~
+~
+Door 2 0 0 8884 0 0
+~
+~
+Door 3 0 0 8928 0 0
+~
+~
+End
+
+#8931
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 8932 0 0
+~
+~
+Door 1 0 0 8938 0 0
+~
+~
+Door 2 0 0 8930 0 0
+~
+~
+Door 3 0 0 8929 0 0
+~
+~
+End
+
+#8932
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4068 0 0
+~
+~
+Door 1 0 0 8939 0 0
+~
+~
+Door 2 0 0 8931 0 0
+~
+~
+Door 3 0 0 4065 0 0
+~
+~
+End
+
+#8933
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8934 0 0
+~
+~
+Door 1 0 0 8925 0 0
+~
+~
+Door 2 0 0 8877 0 0
+~
+~
+Door 3 0 0 8935 0 0
+~
+~
+End
+
+#8934
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4055 0 0
+~
+~
+Door 1 0 0 8926 0 0
+~
+~
+Door 2 0 0 8933 0 0
+~
+~
+Door 3 0 0 8936 0 0
+~
+~
+End
+
+#8935
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 8936 0 0
+~
+~
+Door 1 0 0 8933 0 0
+~
+~
+Door 2 0 0 8876 0 0
+~
+~
+Door 3 0 0 8995 0 0
+~
+~
+End
+
+#8936
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Reset M 8999 10 100
+Door 0 0 0 4054 0 0
+~
+~
+Door 1 0 0 8934 0 0
+~
+~
+Door 2 0 0 8935 0 0
+~
+~
+Door 3 0 0 8994 0 0
+~
+~
+End
+
+#8937
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8938 0 0
+~
+~
+Door 1 0 0 8940 0 0
+~
+~
+Door 2 0 0 8828 0 0
+~
+~
+Door 3 0 0 8930 0 0
+~
+~
+End
+
+#8938
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 8939 0 0
+~
+~
+Door 1 0 0 8941 0 0
+~
+~
+Door 2 0 0 8937 0 0
+~
+~
+Door 3 0 0 8931 0 0
+~
+~
+End
+
+#8939
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 4069 0 0
+~
+~
+Door 1 0 0 8942 0 0
+~
+~
+Door 2 0 0 8938 0 0
+~
+~
+Door 3 0 0 8932 0 0
+~
+~
+End
+
+#8940
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8941 0 0
+~
+~
+Door 1 0 0 8952 0 0
+~
+~
+Door 2 0 0 8954 0 0
+~
+~
+Door 3 0 0 8937 0 0
+~
+~
+End
+
+#8941
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8942 0 0
+~
+~
+Door 1 0 0 8943 0 0
+~
+~
+Door 2 0 0 8940 0 0
+~
+~
+Door 3 0 0 8938 0 0
+~
+~
+End
+
+#8942
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4070 0 0
+~
+~
+Door 1 0 0 8944 0 0
+~
+~
+Door 2 0 0 8941 0 0
+~
+~
+Door 3 0 0 8939 0 0
+~
+~
+End
+
+#8943
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8944 0 0
+~
+~
+Door 1 0 0 8950 0 0
+~
+~
+Door 2 0 0 8952 0 0
+~
+~
+Door 3 0 0 8941 0 0
+~
+~
+End
+
+#8944
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 8945 0 0
+~
+~
+Door 1 0 0 8949 0 0
+~
+~
+Door 2 0 0 8943 0 0
+~
+~
+Door 3 0 0 8942 0 0
+~
+~
+End
+
+#8945
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4072 0 0
+~
+~
+Door 1 0 0 8946 0 0
+~
+~
+Door 2 0 0 8944 0 0
+~
+~
+Door 3 0 0 4070 0 0
+~
+~
+End
+
+#8946
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4073 0 0
+~
+~
+Door 1 0 0 8947 0 0
+~
+~
+Door 2 0 0 8949 0 0
+~
+~
+Door 3 0 0 8945 0 0
+~
+~
+End
+
+#8947
+Name A Rocky Shoreline Around the Lake~
+Descr
+You are scrambling over the rocky shore of Argorn Lake. You think you can
+make out some trees of some sort towards the middle of the lake. Maybe there
+is an island in the middle of this strange lake. But if you want to find
+out, you better know how to swim, or things could get ugly. There is no
+telling what lives in this lake. 
+~
+Sector 5
+Door 0 0 0 4074 0 0
+~
+~
+Door 2 0 0 8948 0 0
+~
+~
+Door 3 0 0 8946 0 0
+~
+~
+End
+
+#8948
+Name A Rocky Shoreline Around the Lake~
+Descr
+You are scrambling over the rocky shore of Argorn Lake. You think you can
+make out some trees of some sort towards the middle of the lake. Maybe there
+is an island in the middle of this strange lake. But if you want to find
+out, you better know how to swim, or things could get ugly. There is no
+telling what lives in this lake. 
+~
+Sector 5
+Door 0 0 0 8947 0 0
+~
+~
+Door 3 0 0 8949 0 0
+~
+~
+End
+
+#8949
+Name A Rocky Shoreline Around the Lake~
+Descr
+You are scrambling over the rocky shore of Argorn Lake. You think you can
+make out some trees of some sort towards the middle of the lake. Maybe there
+is an island in the middle of this strange lake. But if you want to find
+out, you better know how to swim, or things could get ugly. There is no
+telling what lives in this lake. 
+~
+Sector 5
+Door 0 0 0 8946 0 0
+~
+~
+Door 1 0 0 8948 0 0
+~
+~
+Door 2 0 0 8950 0 0
+~
+~
+Door 3 0 0 8944 0 0
+~
+~
+End
+
+#8950
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8949 0 0
+~
+~
+Door 2 0 0 8951 0 0
+~
+~
+Door 3 0 0 8943 0 0
+~
+~
+End
+
+#8951
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8950 0 0
+~
+~
+Door 3 0 0 8952 0 0
+~
+~
+End
+
+#8952
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8943 0 0
+~
+~
+Door 1 0 0 8951 0 0
+~
+~
+Door 2 0 0 8953 0 0
+~
+~
+Door 3 0 0 8940 0 0
+~
+~
+End
+
+#8953
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8952 0 0
+~
+~
+Door 3 0 0 8954 0 0
+~
+~
+End
+
+#8954
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8940 0 0
+~
+~
+Door 1 0 0 8953 0 0
+~
+~
+Door 2 0 0 8955 0 0
+~
+~
+Door 3 0 0 8828 0 0
+~
+~
+End
+
+#8955
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8954 0 0
+~
+~
+Door 2 0 0 8956 0 0
+~
+~
+Door 3 0 0 8827 0 0
+~
+~
+End
+
+#8956
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8955 0 0
+~
+~
+Door 3 0 0 8957 0 0
+~
+~
+End
+
+#8957
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8827 0 0
+~
+~
+Door 1 0 0 8956 0 0
+~
+~
+Door 2 0 0 8958 0 0
+~
+~
+Door 3 0 0 8825 0 0
+~
+~
+End
+
+#8958
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8957 0 0
+~
+~
+Door 2 0 0 8959 0 0
+~
+~
+Door 3 0 0 8824 0 0
+~
+~
+End
+
+#8959
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8958 0 0
+~
+~
+Door 3 0 0 8960 0 0
+~
+~
+End
+
+#8960
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8824 0 0
+~
+~
+Door 1 0 0 8959 0 0
+~
+~
+Door 3 0 0 8961 0 0
+~
+~
+End
+
+#8961
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8823 0 0
+~
+~
+Door 1 0 0 8960 0 0
+~
+~
+Door 2 0 0 8962 0 0
+~
+~
+Door 3 0 0 8821 0 0
+~
+~
+End
+
+#8962
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8961 0 0
+~
+~
+Door 3 0 0 8851 0 0
+~
+~
+End
+
+#8963
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8991 0 0
+~
+~
+Door 1 0 0 8839 0 0
+~
+~
+Door 2 0 0 8975 0 0
+~
+~
+Door 3 0 0 8964 0 0
+~
+~
+End
+
+#8964
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8965 0 0
+~
+~
+Door 1 0 0 8963 0 0
+~
+~
+Door 2 0 0 8974 0 0
+~
+~
+Door 3 0 0 8972 0 0
+~
+~
+End
+
+#8965
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8966 0 0
+~
+~
+Door 1 0 0 8991 0 0
+~
+~
+Door 2 0 0 8964 0 0
+~
+~
+Door 3 0 0 8971 0 0
+~
+~
+End
+
+#8966
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8967 0 0
+~
+~
+Door 1 0 0 8990 0 0
+~
+~
+Door 2 0 0 8965 0 0
+~
+~
+Door 3 0 0 8970 0 0
+~
+~
+End
+
+#8967
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 6167 0 0
+~
+~
+Door 1 0 0 8968 0 0
+~
+~
+Door 2 0 0 8966 0 0
+~
+~
+Door 3 0 0 6169 0 0
+~
+~
+End
+
+#8968
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8969 0 0
+~
+~
+Door 1 0 0 4052 0 0
+~
+~
+Door 2 0 0 8990 0 0
+~
+~
+Door 3 0 0 8967 0 0
+~
+~
+End
+
+#8969
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 4049 0 0
+~
+~
+Door 1 0 0 4051 0 0
+~
+~
+Door 2 0 0 8968 0 0
+~
+~
+Door 3 0 0 6167 0 0
+~
+~
+End
+
+#8970
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 6169 0 0
+~
+~
+Door 1 0 0 8966 0 0
+~
+~
+Door 2 0 0 8971 0 0
+~
+~
+End
+
+#8971
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8970 0 0
+~
+~
+Door 1 0 0 8965 0 0
+~
+~
+Door 2 0 0 8972 0 0
+~
+~
+End
+
+#8972
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8971 0 0
+~
+~
+Door 1 0 0 8964 0 0
+~
+~
+Door 2 0 0 8973 0 0
+~
+~
+End
+
+#8973
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8972 0 0
+~
+~
+Door 1 0 0 8974 0 0
+~
+~
+End
+
+#8974
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8964 0 0
+~
+~
+Door 1 0 0 8975 0 0
+~
+~
+Door 3 0 0 8973 0 0
+~
+~
+End
+
+#8975
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8963 0 0
+~
+~
+Door 1 0 0 8976 0 0
+~
+~
+Door 3 0 0 8974 0 0
+~
+~
+End
+
+#8976
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8839 0 0
+~
+~
+Door 1 0 0 8837 0 0
+~
+~
+Door 2 0 0 8977 0 0
+~
+~
+Door 3 0 0 8975 0 0
+~
+~
+End
+
+#8977
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8976 0 0
+~
+~
+Door 1 0 0 8978 0 0
+~
+~
+End
+
+#8978
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8837 0 0
+~
+~
+Door 1 0 0 8979 0 0
+~
+~
+Door 3 0 0 8977 0 0
+~
+~
+End
+
+#8979
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8836 0 0
+~
+~
+Door 1 0 0 8834 0 0
+~
+~
+Door 2 0 0 8980 0 0
+~
+~
+Door 3 0 0 8978 0 0
+~
+~
+End
+
+#8980
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8979 0 0
+~
+~
+Door 1 0 0 8833 0 0
+~
+~
+Door 2 0 0 8981 0 0
+~
+~
+End
+
+#8981
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8980 0 0
+~
+~
+Door 1 0 0 8982 0 0
+~
+~
+End
+
+#8982
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8833 0 0
+~
+~
+Door 1 0 0 8983 0 0
+~
+~
+Door 3 0 0 8981 0 0
+~
+~
+End
+
+#8983
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8832 0 0
+~
+~
+Door 1 0 0 8830 0 0
+~
+~
+Door 2 0 0 8984 0 0
+~
+~
+Door 3 0 0 8982 0 0
+~
+~
+End
+
+#8984
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8983 0 0
+~
+~
+Door 1 0 0 8861 0 0
+~
+~
+End
+
+#8985
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8860 0 0
+~
+~
+Door 1 0 0 8859 0 0
+~
+~
+End
+
+#8986
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a large lake. Jagged rocks line the edge of the
+water making travel slow and tough in this area. 
+~
+Sector 5
+Door 0 0 0 8857 0 0
+~
+~
+Door 1 0 0 8856 0 0
+~
+~
+Door 2 0 0 8855 0 0
+~
+~
+End
+
+#8987
+Name A Rocky Shoreline~
+Descr
+~
+Sector 5
+Door 0 0 0 8854 0 0
+~
+~
+Door 1 0 0 8853 0 0
+~
+~
+End
+
+#8988
+Name A Rocky Shoreline~
+Descr
+~
+Sector 5
+Door 2 0 0 8844 0 0
+~
+~
+Door 3 0 0 8845 0 0
+~
+~
+End
+
+#8989
+Name A Rocky Shoreline~
+Descr
+You are at the shore of a flowing river. Jagged rocks line the edge of
+the water making travel slow and tough in this area. 
+~
+Sector 5
+Door 2 0 0 8848 0 0
+~
+~
+Door 3 0 0 8849 0 0
+~
+~
+End
+
+#8990
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8968 0 0
+~
+~
+Door 1 0 0 8993 0 0
+~
+~
+Door 2 0 0 8991 0 0
+~
+~
+Door 3 0 0 8966 0 0
+~
+~
+End
+
+#8991
+Name A Narrow, Fast Moving River~
+Descr
+You are floating rapidly down a very fast moving and narrow river. You
+notice sharp rocks just below the surface of the water but move quickly to
+dodge them. To the west you see a large forested area. 
+~
+Sector 6
+Door 0 0 0 8990 0 0
+~
+~
+Door 1 0 0 8992 0 0
+~
+~
+Door 2 0 0 8963 0 0
+~
+~
+Door 3 0 0 8965 0 0
+~
+~
+End
+
+#8992
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a 
+~
+Sector 3
+Door 0 0 0 8993 0 0
+~
+~
+Door 1 0 0 8995 0 0
+~
+~
+Door 2 0 0 8839 0 0
+~
+~
+Door 3 0 0 8991 0 0
+~
+~
+End
+
+#8993
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a larger body of water. 
+~
+Sector 3
+Door 0 0 0 4052 0 0
+~
+~
+Door 1 0 0 8994 0 0
+~
+~
+Door 2 0 0 8992 0 0
+~
+~
+Door 3 0 0 8990 0 0
+~
+~
+End
+
+#8994
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 4053 0 0
+~
+~
+Door 1 0 0 8936 0 0
+~
+~
+Door 2 0 0 8995 0 0
+~
+~
+Door 3 0 0 8993 0 0
+~
+~
+End
+
+#8995
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, you notice that the forest ends here. Fast
+moving water now surrounds you from almost all directions. The water seems
+to be flowing north emptying into a 
+~
+Sector 3
+Door 0 0 0 8994 0 0
+~
+~
+Door 1 0 0 8935 0 0
+~
+~
+Door 2 0 0 8838 0 0
+~
+~
+Door 3 0 0 8992 0 0
+~
+~
+End
+
+#8996
+Name Inside the Secret Hideout~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 8999 0 0
+~
+~
+Door 1 0 0 8997 0 0
+~
+~
+End
+
+#8997
+Name Inside the Secret Hideout~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 8998 0 0
+~
+~
+Door 3 0 0 8996 0 0
+~
+~
+End
+
+#8998
+Name Inside the Secret Hideout~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 8997 0 0
+~
+~
+Door 3 0 0 8999 0 0
+~
+~
+End
+
+#8999
+Name Inside the Secret Hideout~
+Descr
+~
+Flags 2097156
+Sector 0
+Door 1 0 0 8998 0 0
+~
+~
+Door 2 0 0 8996 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

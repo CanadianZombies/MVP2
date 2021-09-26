@@ -1,0 +1,2126 @@
+#AREADATA 
+Name An Old Coal Mine~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe smell of sulphur and iron fills your nosrils as a loud roar echoes through the mines.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Spectre Meligor~
+VNUMs 11750 11849
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#11750
+Name venomous rat~
+Short a venomous rat~
+Long 
+A poisonous rat stares menacingly at you.
+~
+Descr
+~
+AMax 30
+NHeight 2
+ActBits 24
+ActBits3 65536
+Affect_By 512
+Money 5
+Level 5
+MobType 7
+Guard 0
+End
+
+#11760
+Name great coal dragon PRAC~
+Short the coal dragon~
+Long 
+The great coal dragon stands here, blending in with the shadows.
+~
+Descr
+This is perhaps one of the most ferocious monsters you have ever seen.
+With its razor sharp claws and indestructable scales, it seems more powerful
+than any mortal. 
+~
+AMax 1
+NHeight 96
+ActBits 258
+Affect_By 520
+Alignment -1000
+Money 180
+Level 180
+MobType 11
+Guard 0
+BCasts falling star~
+BCast_P 15
+End
+
+#11762
+Name blue slime~
+Short some blue slime~
+Long 
+Some strange, blue slime hangs on the wall here.
+~
+Descr
+~
+AMax 9
+NHeight 1
+ActBits 24
+ActBits3 65536
+Affect_By 512
+Money 6
+Level 6
+MobType 8
+Guard 0
+End
+
+#11773
+Name dwarven miner~
+Short a dwarven miner~
+Long 
+A dwarven miner is here, searching for valuable gems.
+~
+Descr
+~
+AMax 6
+NHeight 55
+ActBits 20
+Affect_By 512
+Alignment 600
+Money 55
+Level 55
+Sex 1
+MobType 2
+Guard 0
+BCasts curse~
+BCast_P 50
+End
+
+#11788
+Name gnomish miner~
+Short a gnomish miner~
+Long 
+An old, gnomish miner is here, digging for minerals.
+~
+Descr
+~
+AMax 4
+NHeight 52
+ActBits 20
+Affect_By 512
+Alignment 550
+Money 13
+Level 13
+Sex 1
+MobType 3
+Guard 0
+End
+
+#11818
+Name drunk dwarf~
+Short a drunk dwarf~
+Long 
+A drunk dwarf hobbles around the room.
+~
+Descr
+~
+AMax 1
+NHeight 58
+ActBits 2
+Affect_By 513
+Alignment -200
+Money 20
+Level 20
+Sex 1
+MobType 2
+Guard 0
+End
+
+#11821
+Name dwarf~
+Short an elder dwarf~
+Long 
+An elder dwarf rests in the center of the room.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 258
+Affect_By 648
+Alignment 800
+Money 90
+Level 90
+Sex 1
+MobType 2
+Guard 0
+End
+
+#11827
+Name stocky dwarf~
+Short a stocky dwarf~
+Long 
+A stocky dwarf raises an eyebrow as you look at him.
+~
+Descr
+~
+AMax 5
+NHeight 55
+ActBits 16
+Affect_By 512
+Alignment 700
+Money 15
+Level 15
+Sex 1
+MobType 2
+Guard 0
+End
+
+#11842
+Name kindor Battlerager~
+Short master miner~
+Long 
+Kindor stands here waiting to inflict pain and death on all who fail to work the mines.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1107296256
+ActBits4 4096
+Affect_By 8832
+Money 800
+Level 90
+Sex 1
+MobType 2
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#11760
+Name flaming charcoal~
+Short a [1m[31mfl[0m[31mami[1m[31mng [30mcharcoal[0m~
+Descr
+A burning charcoal hovers in mid-air.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131173
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 1
+Weight 0
+Cost 20000
+Affect 19 1 1 0 0
+End
+
+#11832
+Name masters 12 Headed Whip~
+Short [34mThe [32mMasters [31mWhip~
+Descr
+The masters twelve-headed whip of power rests on the ground.
+[0;36m~
+Type 5
+Extra 1048611
+Maxinroom 10
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 4 0 0 0 4 12 0
+Weight 2
+Cost 20000
+Affect 19 2 1 0 0
+Affect 18 2 1 0 0
+Affect 1 1 1 0 0
+Affect 13 15 1 0 0
+Limtd 5
+End
+
+#11853
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#11750
+Name The Rat's Nest~
+Descr
+It seems you have stumbled across a rat's nest. The stench is nearly
+unbearable, and you must keep your breaths short just to remain in here.
+Your eyes widen in horror when you begin to see rats crawl out from the
+walls by the hundreds. 
+~
+Flags 5
+Sector 0
+Reset M 11750 5 95
+Door 2 0 0 11849 0 0
+~
+~
+End
+
+#11751
+Name A Turn in the Tunnel~
+Descr
+You have arrived at a wide turn in the tunnel. You feel as if it is
+curving forever, and the other side of the turn is not visible to you. To
+your delight, the stench starts to fade away as you continue through this
+tunnel. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11752 0 0
+~
+~
+Door 3 0 0 11842 0 0
+~
+~
+End
+
+#11752
+Name The Great Mining Tunnel~
+Descr
+This seems to be a very typical mining tunnel. Rusted, torn up tracks
+continue down the tunnel and into the darkness. Several mine carts are
+against the walls, filled with dirt and coal. As you make your way down this
+tunnel, you keep your eyes open for a valuable gem on the ground. 
+~
+Flags 5
+Sector 0
+Reset M 11788 1 100
+Door 0 0 0 11751 0 0
+~
+~
+Door 2 0 0 11753 0 0
+~
+~
+End
+
+#11753
+Name The Great Mining Tunnel~
+Descr
+This seems to be a very typical mining tunnel. Rusted, torn up tracks
+continue down the tunnel and into the darkness. Several mine carts are
+against the walls, filled with dirt and coal. As you make your way down this
+tunnel, you keep your eyes open for a valuable gem on the ground. 
+~
+Flags 5
+Sector 0
+Reset M 11827 1 100
+Door 0 0 0 11752 0 0
+~
+~
+Door 2 0 0 11754 0 0
+~
+~
+End
+
+#11754
+Name The Great Mining Tunnel~
+Descr
+This seems to be a very typical mining tunnel. Rusted, torn up tracks
+continue down the tunnel and into the darkness. Several mine carts are
+against the walls, filled with dirt and coal. As you make your way down this
+tunnel, you keep your eyes open for a valuable gem on the ground. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11753 0 0
+~
+~
+Door 2 0 0 11755 0 0
+~
+~
+End
+
+#11755
+Name A Small Intersection~
+Descr
+You have come to a three-way intersection. The tracks make their way
+further down the tunnel, but you wonder what may be down the corridor to the
+west... 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 0 0 0 11754 0 0
+~
+~
+Door 2 0 0 11761 0 0
+~
+~
+Door 3 0 0 11756 0 0
+~
+~
+End
+
+#11756
+Name A Charred Hallway~
+Descr
+The walls of this corridor are as black as night, and it becomes very
+difficult for you to see what's ahead. As you travel further into this dark
+tunnel, you begin to feel more and more desolated from the outside world.
+You get the urge to turn back, but something pushes you further into the
+darkness. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11755 0 0
+~
+~
+Door 3 0 0 11757 0 0
+~
+~
+End
+
+#11757
+Name A Charred Hallway~
+Descr
+The walls of this corridor are as black as night, and it becomes very
+difficult for you to see what's ahead. As you travel further into this dark
+tunnel, you begin to feel more and more desolated from the outside world.
+You get the urge to turn back, but something pushes you further into the
+darkness. 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 1 0 0 11756 0 0
+~
+~
+Door 3 0 0 11758 0 0
+~
+~
+End
+
+#11758
+Name A Charred Hallway~
+Descr
+The walls of this corridor are as black as night, and it becomes very
+difficult for you to see what's ahead. As you travel further into this dark
+tunnel, you begin to feel more and more desolated from the outside world.
+You get the urge to turn back, but something pushes you further into the
+darkness. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11796 0 0
+~
+~
+Door 1 0 0 11757 0 0
+~
+~
+Door 3 0 0 11759 0 0
+~
+~
+End
+
+#11759
+Name A Charred Hallway~
+Descr
+The walls of this corridor are as black as night, and it becomes very
+difficult for you to see what's ahead. As you travel further into this dark
+tunnel, you begin to feel more and more desolated from the outside world. A
+deafening roar echos from nearby, and you look around the turn to see what
+it was. You paralyze in your foot steps as you see... 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11758 0 0
+~
+~
+Door 2 0 0 11760 0 0
+~
+~
+End
+
+#11760
+Name Coal Dragon's Lair~
+Descr
+You have entered upon the great coal dragon's lair. Bones lay upon the
+ground, and blood is smeared across the walls. Your eyes widen and your
+mouth drops as you see the great dragon, guarding his marvelous hoard of
+gold. 
+~
+Flags 5
+Sector 0
+Reset M 11760 1 100
+Reset O 11760 100 1
+Door 0 0 0 11759 0 0
+~
+~
+Door 2 259 0 11797 30 30
+~
+bones~
+End
+
+#11761
+Name A Large Junction~
+Descr
+This junction seems to have been used quite frequently in the past. The
+tracks are very worn, but still seem operable. While examining the ground,
+you notice several footprints, but you are not sure how old they may be... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11755 0 0
+~
+~
+Door 1 0 0 11762 0 0
+~
+~
+Door 2 0 0 11766 0 0
+~
+~
+End
+
+#11762
+Name A Blue Tunnel~
+Descr
+You have stumbled across a strange, blue tunnel here. The air is quite
+moist and the floor is very sticky. You nearly faint when you realize that
+the walls are covered with moving slime. 
+~
+Flags 5
+Sector 0
+Reset M 11762 2 95
+Door 1 0 0 11763 0 0
+~
+~
+Door 3 0 0 11761 0 0
+~
+~
+End
+
+#11763
+Name A Blue Tunnel~
+Descr
+You have stumbled across a strange, blue tunnel here. The air is quite
+moist and the floor is very sticky. You nearly faint when you realize that
+the walls are covered with moving slime. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11764 0 0
+~
+~
+Door 3 0 0 11762 0 0
+~
+~
+End
+
+#11764
+Name A Blue Tunnel~
+Descr
+You have stumbled across a strange, blue tunnel here. The air is quite
+moist and the floor is very sticky. You nearly faint when you realize that
+the walls are covered with moving slime. 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 0 0 0 11765 0 0
+~
+~
+Door 3 0 0 11763 0 0
+~
+~
+End
+
+#11765
+Name A Dead End~
+Descr
+After hacking and slashing your way through the tunnel, you find nothing
+but dissapointment. Your wasted efforts have only brought you to a dead end,
+and you are starting to lose hope. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11764 0 0
+~
+~
+End
+
+#11766
+Name The Great Mining Tunnel~
+Descr
+This seems to be a very typical mining tunnel. Rusted, torn up tracks
+continue down the tunnel and into the darkness. Several mine carts are
+against the walls, filled with dirt and coal. As you make your way down this
+tunnel, you keep your eyes open for a valuable gem on the ground. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11761 0 0
+~
+~
+Door 2 0 0 11767 0 0
+~
+~
+End
+
+#11767
+Name The Great Mining Tunnel~
+Descr
+This seems to be a very typical mining tunnel. Rusted, torn up tracks
+continue down the tunnel and into the darkness. Several mine carts are
+against the walls, filled with dirt and coal. As you make your way down this
+tunnel, you keep your eyes open for a valuable gem on the ground. 
+~
+Flags 5
+Sector 0
+Reset M 11827 1 100
+Door 0 0 0 11766 0 0
+~
+~
+Door 2 0 0 11768 0 0
+~
+~
+End
+
+#11768
+Name Before the Bridge~
+Descr
+You stand in the middle of a small intersection, but it's the bridge
+ahead of you that catches your eye. It extends about 100 feet, across an
+enourmous pit. You start to feel nauseous as you think about crossing it,
+because it looks very fragile. Unfortunately, it seems that you have no
+other choice if you want to get out of these mines. 
+~
+Flags 5
+Sector 0
+Reset M 11750 3 95
+Door 0 0 0 11767 0 0
+~
+~
+Door 2 0 0 11776 0 0
+~
+~
+Door 3 0 0 11769 0 0
+~
+~
+End
+
+#11769
+Name A Narrow Tunnel~
+Descr
+The walls of this tunnel seem as if they are going to close in on you.
+There is hardly enough room to walk, and you have to turn sideways at some
+points. The end of this tunnel is nearby, but you wonder if you can fit
+through the tight area up ahead. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11768 0 0
+~
+~
+Door 3 0 0 11770 0 0
+~
+~
+End
+
+#11770
+Name The Gemstone Mine~
+Descr
+This mine was once a frequently used excavation site. The large holes in
+the wall are sings of intense mining in the past, but there is no evidence
+of anything recent. Suddenly, you hear a loud cough in the distance. Perhaps
+you are not alone in here... 
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 0 0 0 11771 0 0
+~
+~
+Door 1 0 0 11769 0 0
+~
+~
+Door 3 0 0 11773 0 0
+~
+~
+End
+
+#11771
+Name The Gemstone Mine~
+Descr
+This mine was once a frequently used excavation site. The large holes in
+the wall are sings of intense mining in the past, but there is no evidence
+of anything recent. Suddenly, you hear a loud cough in the distance. Perhaps
+you are not alone in here... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11772 0 0
+~
+~
+Door 2 0 0 11770 0 0
+~
+~
+End
+
+#11772
+Name The Hall of Gemstones~
+Descr
+You gaze around yourself in awe at one of the most beautiful sights in
+the world. The walls around you are made of emeralds, rubies, and sapphires,
+creating a wondrous glow. You assume that this room was built in recognition
+to the gods. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11771 0 0
+~
+~
+End
+
+#11773
+Name The Gemstone Mine~
+Descr
+This mine was once a frequently used excavation site. The large holes in
+the wall are sings of intense mining in the past, but there is no evidence
+of anything recent. Suddenly, you hear a loud cough in the distance. Perhaps
+you are not alone in here... 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 1 0 0 11770 0 0
+~
+~
+Door 2 0 0 11798 0 0
+~
+~
+Door 3 0 0 11774 0 0
+~
+~
+End
+
+#11774
+Name The Gemstone Mine~
+Descr
+This mine was once a frequently used excavation site. The large holes in
+the wall are sings of intense mining in the past, but there is no evidence
+of anything recent. Suddenly, you hear a loud cough in the distance. Perhaps
+you are not alone in here... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11775 0 0
+~
+~
+Door 1 0 0 11773 0 0
+~
+~
+End
+
+#11775
+Name The Gemstone Mine~
+Descr
+Pile upon pile of various gems collect in the back of the room here. You
+see everything from quartz to rubies to diamonds stacked here. Although you
+are not much of an appraiser, you judge that they are not worth anything, or
+else they probably wouldn't be sitting here collecting dust. 
+~
+Flags 5
+Sector 0
+Door 0 259 0 11797 30 30
+~
+gems~
+Door 2 0 0 11774 0 0
+~
+~
+End
+
+#11776
+Name On a Perilous Bridge~
+Descr
+This old, wooden bridge looks as if it will collapse at any moment. You
+look down and notice that you are over a large pit, formed ages ago. Several
+parts of the bridge are falling apart, and you hope you make it to the other
+side before plummetting to your death. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11768 0 0
+~
+~
+Door 1 0 0 11777 0 0
+~
+~
+End
+
+#11777
+Name On a Perilous Bridge~
+Descr
+This old, wooden bridge looks as if it will collapse at any moment. You look down and notice that you are over a large pit, formed ages ago. Several parts of the bridge are falling apart, and you hope you make it to the other side before plummetting to your death.
+~
+Flags 5
+Sector 0
+Door 2 0 0 11778 0 0
+~
+~
+Door 3 0 0 11776 0 0
+~
+~
+End
+
+#11778
+Name On a Perilous Bridge~
+Descr
+This old, wooden bridge looks as if it will collapse at any moment. You
+look down and notice that you are over a large pit, formed ages ago. Several
+parts of the bridge are falling apart, and you hope you make it to the other
+side before plummetting to your death. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11777 0 0
+~
+~
+Door 2 0 0 11779 0 0
+~
+~
+End
+
+#11779
+Name Before the Bridge~
+Descr
+You stand in the middle of a small intersection, but it's the bridge
+ahead of you that catches your eye. It extends about 100 feet, across an
+enourmous pit. You start to feel nauseous as you think about crossing it,
+because it looks very fragile. Unfortunately, it seems that you have no
+other choice if you want to get out of these mines. 
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 0 0 0 11778 0 0
+~
+~
+Door 1 0 0 11780 0 0
+~
+~
+Door 3 0 0 11786 0 0
+~
+~
+End
+
+#11780
+Name A Wide Passageway~
+Descr
+You find yourself inside of a large, open passage. The walls are as dry
+as the desert sands, and so is the air. The sounds you make seem to echo
+slightly, giving you a feeling of isolation. As you let out a loud cough,
+several rats scurry into the shadows for protection. 
+~
+Flags 5
+Sector 0
+Reset M 11827 1 100
+Door 1 0 0 11781 0 0
+~
+~
+Door 3 0 0 11779 0 0
+~
+~
+End
+
+#11781
+Name A Curve in the Passageway~
+Descr
+The passageway makes a wide turn here, giving you the chance to see whats
+up ahead. As you expected, you see nothing but a continuation of the passage
+you are in. As you walk through, you notice a pile of dry, decaying bones
+laying in the corner of the room. 
+~
+Flags 5
+Sector 0
+Reset M 11750 3 95
+Door 0 0 0 11782 0 0
+~
+~
+Door 3 0 0 11780 0 0
+~
+~
+End
+
+#11782
+Name A Wide Passageway~
+Descr
+You find yourself inside of a large, open passage. The walls are as dry
+as the desert sands, and so is the air. The sounds you make seem to echo
+slightly, giving you a feeling of isolation. As you let out a loud cough,
+several rats scurry into the shadows for protection. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11783 0 0
+~
+~
+Door 2 0 0 11781 0 0
+~
+~
+End
+
+#11783
+Name A Small Junction~
+Descr
+The passage breaks off into two directions here. You try to decide which
+way to go, but it is very difficult being that you cannot see down the
+corridor. You cross your fingers and head towards what you hope is the right
+way. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11785 0 0
+~
+~
+Door 1 0 0 11784 0 0
+~
+~
+Door 2 0 0 11782 0 0
+~
+~
+End
+
+#11784
+Name A Massive Wall~
+Descr
+A massive, stone wall blocks your path here. It towers over you, standing
+more than 50 feet high. You look for a way around the wall, but there
+doesn't seem to be any. Angered by this remarkable obstruction, you storm
+out of the room in a great fury. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 11783 0 0
+~
+~
+End
+
+#11785
+Name The Room of Shadows~
+Descr
+An erie feeling of evil envelops you upon your entrance to this room. The
+walls, ceiling, and floor seem to be empty voids of darkness, making you
+afraid to move. The sounds of wailing banshees and howling ghosts ring in
+your ears, paralyzing you. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11783 0 0
+~
+~
+End
+
+#11786
+Name A Blackened Tunnel~
+Descr
+The walls in this tunnel are blackened from the coals that were once
+carried in and out of here daily. Now it is just an abandoned passage of ash
+and soot. The ground is covered with a layer of ashes, one foot thick. You
+suddenly trip over something buried in the ashes, and stand up with an
+agitated look on your face. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11779 0 0
+~
+~
+Door 3 0 0 11787 0 0
+~
+~
+End
+
+#11787
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11786 0 0
+~
+~
+Door 2 0 0 11788 0 0
+~
+~
+Door 3 0 0 11789 0 0
+~
+~
+End
+
+#11788
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Reset M 11788 1 100
+Door 0 0 0 11787 0 0
+~
+~
+Door 2 0 0 11794 0 0
+~
+~
+End
+
+#11789
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11787 0 0
+~
+~
+Door 3 0 0 11790 0 0
+~
+~
+End
+
+#11790
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 0 0 0 11799 0 0
+~
+~
+Door 1 0 0 11789 0 0
+~
+~
+Door 2 0 0 11791 0 0
+~
+~
+End
+
+#11791
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11790 0 0
+~
+~
+Door 2 0 0 11792 0 0
+~
+~
+End
+
+#11792
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11791 0 0
+~
+~
+Door 1 0 0 11793 0 0
+~
+~
+End
+
+#11793
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 1 0 0 11794 0 0
+~
+~
+Door 3 0 0 11792 0 0
+~
+~
+End
+
+#11794
+Name The Coal Mine~
+Descr
+You find yourself inside of an old, abandoned coal mine. You can barely
+breathe, and the fumes of the ashes make you light headed. There doesn't
+seem to be any evidence of recent excavation, but it's worth taking a look
+around. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11788 0 0
+~
+~
+Door 2 0 0 11795 0 0
+~
+~
+Door 3 0 0 11793 0 0
+~
+~
+End
+
+#11795
+Name A Sloping Passage~
+Descr
+Upon entering this steep passage, you feel very cold. There is a draft
+coming in from somewhere in the room, but you are not sure where. Perhaps it
+has something to do with the water dripping down from the ceiling... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 11794 0 0
+~
+~
+Door 2 259 0 31065 30 30
+~
+Mine~
+End
+
+#11796
+Name A Small Burrow~
+Descr
+It seems you have entered a small burrow off the path. It is dark and
+dry, and your clothing has become covered with dirt. You do your best to
+shake off the rats clawing at your legs. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11846 0 0
+~
+~
+Door 2 0 0 11758 0 0
+~
+~
+End
+
+#11797
+Name A Secret Tunnel~
+Descr
+The scent of decay and rotting corpses fills your nostrils here. Pieces
+of torn up track lay upon the ground, and large gems are half-buried in the
+dirt here. You try to figure out why this tunnel was built, and you come to
+the conclusion that perhaps it was a shortcut, to brings in gems to appease
+the dragon. 
+~
+Flags 5
+Sector 0
+Door 0 259 0 11760 30 30
+~
+bones~
+Door 2 259 0 11775 30 30
+~
+gems~
+End
+
+#11798
+Name A Short, Jagged Tunnel~
+Descr
+Large pieces of sharp rock extend from the walls here, creating a minor
+hazard. This tunnel's purpose seems to be the link of the two mines. Large,
+iron, mine tracks run through the center of the tunnel, worn through time
+and usage. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11773 0 0
+~
+~
+Door 2 0 0 11799 0 0
+~
+~
+End
+
+#11799
+Name A Short, Jagged Tunnel~
+Descr
+Large pieces of sharp rock extend from the walls here, creating a minor
+hazard. This tunnel's purpose seems to be the link of the two mines. Large,
+iron, mine tracks run through the center of the tunnel, worn through time
+and usage. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11798 0 0
+~
+~
+Door 2 0 0 11790 0 0
+~
+~
+End
+
+#11800
+Name Entrance to the Mines~
+Descr
+You have arrived at the entrance to a secret mine!  After taking several
+seconds to adjust to the lighting, you take a look at your surroundings. It
+is very dark and difficult to breathe. Dirt, ashes and the like cover the
+floor. You gasp as you notice many insects and rats in the area. After
+taking a deep breath, you move on. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 11801 0 0
+~
+~
+Door 4 259 0 18162 30 30
+~
+coals~
+End
+
+#11801
+Name Atop a Pile of Coals~
+Descr
+You find yourself standing on a large pile of coals here. The air is
+stuffy and you feel very cold. As you look around yourself, you wonder just
+how long it will take to find your way through these mines... 
+~
+Flags 5
+Sector 0
+Reset M 11788 1 100
+Door 0 0 0 11800 0 0
+~
+~
+Door 1 0 0 11806 0 0
+~
+~
+Door 2 0 0 11809 0 0
+~
+~
+Door 3 0 0 11802 0 0
+~
+~
+End
+
+#11802
+Name A Small Tunnel~
+Descr
+The ceiling of this tunnel is very low, causing you to lower your head
+slightly. The walls around you seem to be closing in with every step you
+take. As a bead of sweat rolls down your face, you begin to realize that
+this tunnel is actually quite warm. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11801 0 0
+~
+~
+Door 3 0 0 11803 0 0
+~
+~
+End
+
+#11803
+Name A Curve in the Tunnel~
+Descr
+You notice yourself turning as the tunnel begins to curve slightly. You
+look hard into the darkness ahead of you, because you swear you saw
+something move. After several seconds, you continue onward into whatever the
+darkness may hold. 
+~
+Flags 5
+Sector 0
+Reset M 11750 1 95
+Door 1 0 0 11802 0 0
+~
+~
+Door 2 0 0 11804 0 0
+~
+~
+End
+
+#11804
+Name A Sharp Turn in the Tunnel~
+Descr
+The tunnel comes to an abrupt turn and you bump into the wall!  Ouch! 
+After taking several seconds to recover, you move on, being a bit more aware
+of your surroundings. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11803 0 0
+~
+~
+Door 3 0 0 11805 0 0
+~
+~
+End
+
+#11805
+Name End of the Tunnel~
+Descr
+Unfortunately, your trip through this small tunnel was not well rewarded.
+You have come to a dead end!  Time to turn back and find another way through
+this!  
+~
+Flags 5
+Sector 0
+Door 1 0 0 11804 0 0
+~
+~
+End
+
+#11806
+Name Through a Narrow Passage~
+Descr
+After taking several steps, you realize the passage is beginning to
+narrow. It has become very dark and you can't see very far ahead of
+yourself. Being guided by a sixth sense, you continue onward hoping you have
+taken the correct route. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11807 0 0
+~
+~
+Door 3 0 0 11801 0 0
+~
+~
+End
+
+#11807
+Name Through a Narrow Passage~
+Descr
+The passage seems to narrow even more. You have no choice but to keep
+your arms close to your sides, so that you can squeeze through it. You are
+beginning to feel very uncomfortable, and you hope that the passage widens
+soon. 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 1 0 0 11808 0 0
+~
+~
+Door 3 0 0 11806 0 0
+~
+~
+End
+
+#11808
+Name Before a Large Hole~
+Descr
+You find yourself standing before a large hole which you cannot see the
+bottom of. You stare down into it and see nothing but darkness. Suddenly, a
+strange silence fills the air as you ponder whether or not you should take
+this leap of faith... 
+~
+Flags 5
+Sector 0
+Door 3 0 0 11807 0 0
+~
+~
+Door 5 259 0 11818 30 30
+~
+slime covered slab~
+End
+
+#11809
+Name A Jagged Corridor~
+Descr
+The walls of this corridor make you very frightened. Sharp pieces of rock
+jut out from the walls, almost cutting your arms. You do your best to stay
+away from them. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11801 0 0
+~
+~
+Door 2 0 0 11810 0 0
+~
+~
+End
+
+#11810
+Name A Turn in the Corridor~
+Descr
+The corridor begins to turn slightly, and you still try to avoid the
+jagged walls. But something else has come to your attention. A mysterious
+puddle is formed in the center of the room. Where did it come from?  
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 0 0 0 11809 0 0
+~
+~
+Door 1 0 0 11811 0 0
+~
+~
+End
+
+#11811
+Name A Turn in the Corridor~
+Descr
+You nearly scrape yourself against the wall again here. As you continue
+through this turn, you feel very cold. You shiver slightly, and are very
+confused as to why the temperature is frequently changing. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11812 0 0
+~
+~
+Door 3 0 0 11810 0 0
+~
+~
+End
+
+#11812
+Name A Crumbled Intersection~
+Descr
+You find yourself at a crumbled intersection. The ceiling looks as if it
+will collapse any second. So does the floor. You feel very vulnerable
+standing here, and get the feeling you should leave quickly. 
+~
+Flags 5
+Sector 0
+Reset M 11788 1 100
+Door 0 0 0 11811 0 0
+~
+~
+Door 2 0 0 11824 0 0
+~
+~
+Door 5 0 0 11813 0 0
+~
+~
+End
+
+#11813
+Name A Mound of Debris~
+Descr
+A pile of all sorts of things is here. Broken mining tools, helmets,
+ashes, coals, dirt, etc. have created a large hill. Suddenly, several rats
+and large insects crawl out of the hill, and you get the feeling you should
+go somewhere else. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11814 0 0
+~
+~
+Door 4 0 0 11812 0 0
+~
+~
+End
+
+#11814
+Name In a Cramped Burrow~
+Descr
+This is the tightest situation you have ever been in. It is taking you a
+very long time to get through this burrow, especially after getting stuck
+several times. You look ahead of you, and see that the burrow is coming to
+an end. 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 1 0 0 11815 0 0
+~
+~
+Door 3 0 0 11813 0 0
+~
+~
+End
+
+#11815
+Name Intersection of Burrows~
+Descr
+You find that you have a little bit of room to stretch here. After
+relaxing for about a minute, you continue on through the chain of burrows. 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 0 0 0 11816 0 0
+~
+~
+Door 2 0 0 11819 0 0
+~
+~
+Door 3 0 0 11814 0 0
+~
+~
+End
+
+#11816
+Name A Tight Burrow~
+Descr
+The origin of this burrow is unknown to you, but very convenient. If it
+were not here, how would you get out?  You take a deep breath and begin to
+crawl through this tight burrow, hoping you dont get stuck, and that you
+make it to the other side. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11817 0 0
+~
+~
+Door 2 0 0 11815 0 0
+~
+~
+End
+
+#11817
+Name A Tight Burrow~
+Descr
+The origin of this burrow is unknown to you, but very convenient. If it
+were not here, how would you get out?  You take a deep breath and begin to
+crawl through this tight burrow, hoping you dont get stuck, and that you
+make it to the other side. 
+~
+Flags 5
+Sector 0
+Door 0 3 0 11818 30 30
+~
+door~
+Door 2 0 0 11816 0 0
+~
+~
+End
+
+#11818
+Name A Dark Room~
+Descr
+You look around this damp, dark room and find evidence that someone is
+living here. A couple of tables, and several chairs are in the room. A few
+beer mugs are placed on the tables here, empty. But still, you wonder if
+anyone is around. 
+~
+Flags 4
+Sector 0
+Reset M 11818 1 100
+Door 2 3 0 11817 30 30
+~
+door~
+Door 4 259 0 11808 30 30
+~
+slime covered slab~
+End
+
+#11819
+Name In a Large Burrow~
+Descr
+You find yourself crawling through some of the most disgusting things
+here. Dead insects, rat feces, and other disgusting debris covers the ground
+here. You are almost forced to hold your breath as you quickly make your way
+through this burrow. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11815 0 0
+~
+~
+Door 2 0 0 11820 0 0
+~
+~
+End
+
+#11820
+Name In a Large Burrow~
+Descr
+You find yourself crawling through some of the most disgusting things
+here. Dead insects, rat feces, and other disgusting debris covers the ground
+here. You are almost forced to hold your breath as you quickly make your way
+through this burrow. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11819 0 0
+~
+~
+Door 2 259 0 11821 30 30
+~
+debris~
+End
+
+#11821
+Name A Small Temple~
+Descr
+Bewilderment comes over you as you enter upon a smell temple built under
+these mines. Ancient writings cover the walls, and a warm sense of security
+comes over you. 
+~
+Flags 4
+Sector 0
+Reset M 11821 1 100
+Door 0 259 0 11820 30 30
+~
+debris~
+Door 1 259 0 11822 30 30
+~
+stone slab~
+Door 2 0 0 11823 0 0
+~
+~
+End
+
+#11822
+Name Beneath a Huge Pit~
+Descr
+You arrive at the bottom of a huge pit here, approximately 60 feet deep.
+The walls are unclimbable, and you almost cry as you see the sky above you.
+Just how long will you be trapped in these dreadful mines... 
+~
+Sector 0
+Door 3 3 0 11821 30 30
+~
+stone slab~
+End
+
+#11823
+Name An Old Mine Shaft~
+Descr
+You stand before an old mine shaft here. After looking around, you find
+evidence of recent excavation here. A pick rests against the wall, and many
+worthless gems are scattered on the ground. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11821 0 0
+~
+~
+Door 4 0 0 11840 0 0
+~
+~
+End
+
+#11824
+Name A Jagged Corridor~
+Descr
+The walls of this corridor make you very frightened. Sharp pieces of rock
+extend from the walls, almost cutting your arms. You do your best to avoid
+them. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11812 0 0
+~
+~
+Door 2 0 0 11825 0 0
+~
+~
+End
+
+#11825
+Name A Turn in the Corridor~
+Descr
+You feel a slight inclination while making this turn. The jagged walls
+are beginning to smooth out in this area, and are no longer a danger to you.
+You continue onward, losing focus on the walls, and paying more attention to
+what may lurk in the darkness. 
+~
+Flags 5
+Sector 0
+Reset M 11750 3 95
+Door 0 0 0 11824 0 0
+~
+~
+Door 3 0 0 11826 0 0
+~
+~
+End
+
+#11826
+Name A Damp Tunnel~
+Descr
+You are now walking through a damp tunnel. You touch the wall and find
+that it is wet with moisture. As you continue onward, your sinuses clear,
+and you feel a bit better. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11825 0 0
+~
+~
+Door 3 0 0 11827 0 0
+~
+~
+End
+
+#11827
+Name A Heap of Rusted Mine Carts~
+Descr
+A large pile of rusted mine carts is in the center of the room. You
+nearly trip over a broken wheel while staring at them. You begin to wonder
+why the mining in these tunnels came to an end. You continue onward, hoping
+to find an answer. 
+~
+Flags 5
+Sector 0
+Reset M 11827 1 100
+Reset M 11762 1 95
+Door 0 0 0 11828 0 0
+~
+~
+Door 1 0 0 11826 0 0
+~
+~
+Door 2 0 0 11829 0 0
+~
+~
+End
+
+#11828
+Name A Dead End~
+Descr
+You arrive at a dead stop!  Walls block three of your directions and you
+have no choice but to turn back. You sigh with disappointment, and turn
+around. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 11827 0 0
+~
+~
+End
+
+#11829
+Name A Large Tunnel~
+Descr
+You feel as if you are being watched while walking through this strange
+tunnel. Paranoia sets in as you see many eyes staring at you from the
+shadows. Are these eyes real or is it just your imagination?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 11827 0 0
+~
+~
+Door 2 0 0 11830 0 0
+~
+~
+End
+
+#11830
+Name The Corner of an Enormous Cavern~
+Descr
+This is one of the largest cavern you have ever been in. The ceiling is
+over one hundred feet high, and the walls are very far apart. The ground is
+layered with dirt and debris, and you cough due to the large amount of dust
+in the room. 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 0 0 0 11829 0 0
+~
+~
+Door 1 0 0 11838 0 0
+~
+~
+Door 2 0 0 11831 0 0
+~
+~
+End
+
+#11831
+Name In an Enourmous Cavern~
+Descr
+This cavern seems to echo all the sounds of the mine. You stop and listen
+carefully. You can clearly hear the scurrying of rats across the cavern
+floor. If you focus hard enough, you think you can hear footsteps and
+muffled voices too... 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 0 0 0 11830 0 0
+~
+~
+Door 2 0 0 11833 0 0
+~
+~
+Door 3 0 0 11832 0 0
+~
+~
+End
+
+#11832
+Name A Pile of Rubble~
+Descr
+A large pile of rubble blocks your path here. After examining the rubble
+carefully, you realize that it is blocking an exit of the mine!  You try
+your best to dig through it, but it is just too difficult. You are starting
+to lose hope, but you have no choice but to look for another way out. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11831 0 0
+~
+~
+End
+
+#11833
+Name The Corner of an Enormous Cavern~
+Descr
+There is something strange about this area of the cavern. A dead silence
+has come over the area, and you hear nothing but the beating of your own
+heart. You stop shortly, and gather up the courage to move on. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11831 0 0
+~
+~
+Door 1 0 0 11834 0 0
+~
+~
+End
+
+#11834
+Name At a Junction~
+Descr
+You are now standing at a junction amidst the caverns. The walls around
+you glow a bright red, and the heat is beginning to overwhelm you. You wipe
+the sweat off your forehead and delve deeper into the mines. 
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 1 0 0 11835 0 0
+~
+~
+Door 2 0 0 11841 0 0
+~
+~
+Door 3 0 0 11833 0 0
+~
+~
+End
+
+#11835
+Name The Corner of an Enormous Cavern~
+Descr
+There is something strange about this area of the cavern. A dead silence
+has come over the area, and you hear nothing but the beating of your own
+heart. You stop shortly, and gather up the courage to move on. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11836 0 0
+~
+~
+Door 3 0 0 11834 0 0
+~
+~
+End
+
+#11836
+Name An Enormous Cavern~
+Descr
+You begin to feel lost as you walk around this enormous cavern. You
+notice that as you walk, the floor is declining slightly. You also realize
+that you are very hot, and starting to sweat more than ever. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11837 0 0
+~
+~
+Door 2 0 0 11835 0 0
+~
+~
+End
+
+#11837
+Name The Corner of an Enormous Cavern~
+Descr
+This is one of the largest cavern you have ever been in. The ceiling is
+over one hundred feet high, and the walls are very far apart. The ground is
+layered with dirt and debris, and you cough due to the large amount of dust
+in the room. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11839 0 0
+~
+~
+Door 2 0 0 11836 0 0
+~
+~
+Door 3 0 0 11838 0 0
+~
+~
+End
+
+#11838
+Name An Enormous Cavern~
+Descr
+This cavern seems to echo all the sounds of the mine. You stop and listen
+carefully. You can clearly hear the scurrying of rats across the cavern
+floor. If you focus hard enough, you think you can hear footsteps and
+muffled voices too... 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11837 0 0
+~
+~
+Door 3 0 0 11830 0 0
+~
+~
+End
+
+#11839
+Name A Tightening Passage~
+Descr
+This tightening passage makes you a bit claustrophobic. It seems to get
+smaller and smaller as you walk through. You begin to breath heavy and break
+out in a cold sweat. You close your eyes and keep moving, hoping you will
+find open space soon. 
+~
+Flags 5
+Sector 0
+Reset M 11750 2 95
+Door 1 0 0 11840 0 0
+~
+~
+Door 3 0 0 11837 0 0
+~
+~
+End
+
+#11840
+Name An Old Mine Shaft~
+Descr
+You stand before an old mine shaft here. After looking around, you find
+evidence of recent excavation here. A few picks are on the ground, in
+addition to coals and a few different metals. 
+~
+Flags 5
+Sector 0
+Reset M 11827 1 100
+Door 3 0 0 11839 0 0
+~
+~
+Door 5 0 0 11823 0 0
+~
+~
+End
+
+#11841
+Name The Searing Tunnel~
+Descr
+You are beginning to regret entering this cramped, searing tunnel. The
+origin of these flames is unknown to you, and it is extremely warm. As you
+touch the wall, you burn your hand. You speed up the pace, trying to get out
+of the tunnel as fast as possible. 
+~
+Flags 16777221
+Sector 0
+Door 0 0 0 11834 0 0
+~
+~
+Door 2 0 0 11842 0 0
+~
+~
+End
+
+#11842
+Name At a Reeking Intersection~
+Descr
+Upon entering this intersection, you smell a great stench. You are not
+sure where it came from, nor do you want to find out. You quickly decide to
+continue onward, hoping that you do not head in the direction of the scent's
+origin. 
+~
+Flags 5
+Sector 0
+Reset M 11842 1 100
+Reset O 11832 -1 2
+Door 0 0 0 11841 0 0
+~
+~
+Door 1 0 0 11751 0 0
+~
+~
+Door 3 0 0 11843 0 0
+~
+~
+End
+
+#11843
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Door 1 0 0 11842 0 0
+~
+~
+Door 2 0 0 11844 0 0
+~
+~
+End
+
+#11844
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Reset M 11762 1 95
+Door 0 0 0 11843 0 0
+~
+~
+Door 2 0 0 11845 0 0
+~
+~
+End
+
+#11845
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11844 0 0
+~
+~
+Door 3 0 0 11846 0 0
+~
+~
+End
+
+#11846
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Reset M 11750 3 95
+Door 1 0 0 11845 0 0
+~
+~
+Door 2 0 0 11796 0 0
+~
+~
+Door 3 0 0 11847 0 0
+~
+~
+End
+
+#11847
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11848 0 0
+~
+~
+Door 1 0 0 11846 0 0
+~
+~
+End
+
+#11848
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Reset M 11773 1 100
+Door 2 0 0 11847 0 0
+~
+~
+Door 3 0 0 11849 0 0
+~
+~
+End
+
+#11849
+Name A Putrid Path~
+Descr
+As you walk down the putrid path, you can easily realize where the foul
+scent is coming from. Slime is draped across the walls, and odd debris
+covers the ground. You shriek as several insects begin crawling up your
+leg... 
+~
+Flags 5
+Sector 0
+Door 0 0 0 11750 0 0
+~
+~
+Door 1 0 0 11848 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,3870 @@
+#AREADATA 
+Name Ophidia~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA gentle gust of wind pushes against you...  
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Boneshaman~
+VNUMs 22950 23061
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#22950
+Name shopkeeper bob demon~
+Short Bob the Demon Shopkeeper~
+Long 
+Bob the Demon Shopkeeper, brother of Fred is here offering you his wares
+~
+Descr
+You look at Bob the Demon Shopkeeper and swear he was the same man you
+saw at the weapon shop.  Without being able to think of another explanation
+you decide Bob is either Fred's twin brother or part of a duplication
+experiment.  
+~
+AMax 1
+NHeight 0
+ActBits 538968067
+Affect_By 1107821056
+Alignment -500
+Money 18
+Level 100
+MobType 11
+Guard 0
+Shop    0   9   0   0   0 132 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#22952
+Name Dragon king~
+Short The Dragon King~
+Long 
+The Great Dragon King is here with you, watching over his citizens
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 1107821058
+AffectTWO 1
+Alignment -100
+Money 25
+Level 105
+Sex 1
+MobType 5
+Guard 0
+End
+
+#22953
+Name small dragon sd~
+Short a Small Dragon~
+Long 
+A Small Dragon is here looking very determined.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 1
+Affect_By 524800
+Alignment -100
+Money 25
+Level 34
+Sex 1
+MobType 5
+Guard 22955
+End
+
+#22954
+Name demon slavedriver slave driver~
+Short a Slavedriver~
+Long 
+A Slavedriver is here to keep the Dragonkin Slaves in line
+~
+Descr
+The demon looks quite sadistic and seems to be enjoying his work 
+~
+AMax 10
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Money 27
+Level 40
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#22959
+Name dragon warrior~
+Short a Dragon Warrior~
+Long 
+A Dragon Warrior is here with you, practicing some fatal blows
+~
+Descr
+The Dragon Warrior is quite large and fierce looking.  You notice the
+citizens of this town pay him great respect and also avoid him.  
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 34079240
+AffectTWO 1
+Alignment -50
+Money 27
+Level 75
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#22960
+Name fred demon shopkeeper~
+Short Fred the Demon Shopkeeper~
+Long 
+Fred the Demon Shopkeeper is here forging a long sword.
+~
+Descr
+Fred the Demon Shopkeeper looks very strong and very smart.  You notice
+that he keeps his forging fire lit with fireballs that fly from the palm of
+his hand.  
+~
+AMax 1
+NHeight 0
+ActBits 537919491
+Affect_By 1107821064
+Alignment -500
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 0
+Shop    0   0   5   0   0 122 42 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -50
+End
+
+#22961
+Name dragonkin slave tired~
+Short a Dragonkin Slave~
+Long 
+A Dragon Slave is flying by, looking exhausted.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits 17
+Affect_By 34079232
+AffectTWO 1
+Alignment 1000
+Money 10
+Level 10
+Sex 1
+MobType 5
+Guard 0
+End
+
+#22962
+Name dragonkin slave beaten small~
+Short a Dragonkin Slave~
+Long 
+A small, beaten, Dragonkin Slave is slowly flying by
+~
+Descr
+The Dragonkin Slave is beaten to the brink of death.  Also he isnt very
+big, might be a child or just an unusually small dragonkin.  You laugh and
+spit as you watch the creature crawl by.  
+~
+AMax 10
+NHeight 0
+ActBits 17
+Affect_By 524800
+Alignment 1000
+Money 5
+Level 5
+Sex 1
+MobType 5
+Guard 0
+End
+
+#22963
+Name large dragon dragonkin slave~
+Short a Large Dragonkin Slave~
+Long 
+A Large Dragonkin Slave is here, looking for a chance to escape
+~
+Descr
+The slave is quite large and buff looking, he appears to be searching for
+a way to escape the town...  Maybe you should put a stop to this.  
+~
+AMax 11
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 20
+Level 20
+Sex 1
+MobType 5
+Guard 0
+End
+
+#22968
+Name dragonkin dragon health healthy slave~
+Short a Healthy Dragonkin Slave~
+Long 
+A healthy Dragonkin Slave is flying past you
+~
+Descr
+The slave looks quite healthy.  He must of been a kiss up not to end up
+like the rest of the slaves.  You feel anger rise in you, you HATE kiss-ups.
+~
+AMax 11
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 15
+Level 15
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#22969
+Name black dragon Dark Smoke dark smoke~
+Short Dark Smoke~
+Long 
+Dark Smoke the HUGE Black Dragon is flying around far above your head
+~
+Descr
+The black dragon is flying around in circles far above your head.  After
+tracing his long body with your eyes you decide if he ever stretched out on
+the floor his tail would smash right through one town wall and his head
+would smash through the opposite wall.  You also note that each of his
+biceps are the size of 10 full grown orcs, and decide it would not be very
+smart to pick a fight with Dark Smoke.  
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+ActBits3 524288
+Affect_By 1107821096
+Alignment -700
+Money 275
+Level 275
+Sex 1
+MobType 5
+Guard 0
+Spec spec_breath_any
+ArmorClass -250
+End
+
+#22970
+Name Dragon-mage dragon mage~
+Short The Dragon-Mage~
+Long 
+The Dragon-Mage is here with you, practicing some of his spells.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 1074266664
+Alignment -50
+Money 75
+Level 75
+MobType 5
+Guard 0
+ArmorClass -75
+End
+
+#22971
+Name demon thief~
+Short a demon thief~
+Long 
+A Demon Thief is here peering into your inventory.
+~
+Descr
+The Demon Thief seems quite mean and coarse.  You really don't like the
+way he's looking at your inventory.  
+~
+AMax 1
+NHeight 0
+ActBits 536870929
+Affect_By 1107821056
+Alignment -1000
+Money 50
+Level 50
+Sex 1
+MobType 11
+Guard 0
+Spec spec_thief
+End
+
+#22973
+Name wing-clipped wing clipped dragonkin~
+Short Wing-Clipped Dragonkin~
+Long 
+A Wing-Clipped Dragonkin is here with you waiting to be able to fly again.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 15
+Affect_By 1073742336
+Alignment 1000
+Money 40
+Level 40
+Sex 1
+Guard 0
+Spec spec_warrior
+End
+
+#22974
+Name joseph demon bankteller~
+Short Joseph the Demon Bankteller~
+Long 
+Joseph the Demon Bankteller is here, mutilating a Demon Thief with a fire ball.
+~
+Descr
+You look at Joseph and your mind boggles, he looks exactly like the
+salesman at the weapon shop and the salesman at the armor shop.  You start
+to think maybe there really is a secret experiment going on around here.  
+~
+AMax 1
+NHeight 0
+ActBits 131075
+Affect_By 524840
+Alignment -50
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 0
+ArmorClass -100
+End
+
+#22975
+Name Black moss~
+Short some black moss~
+Long 
+Some Black Moss is growing on the walls.
+~
+Descr
+The moss looks wet and spongey, you'd rather not have to touch it.  
+~
+AMax 1
+NHeight 0
+ActBits 33554435
+Affect_By 1107296768
+Money 20
+Level 20
+MobType 17
+Guard 0
+Spec spec_poison
+RaceHate 201326592
+ArmorClass 50
+End
+
+#22976
+Name green moss~
+Short some green moss~
+Long 
+A patch of green moss is growing on the walls here.
+~
+Descr
+The moss looks slimey and you hope you dont have to touch it.  
+~
+AMax 1
+NHeight 0
+ActBits 33554435
+Affect_By 1107296768
+Money 20
+Level 20
+MobType 17
+Guard 0
+Spec spec_poison
+ArmorClass 50
+End
+
+#22977
+Name purple moss~
+Short some purple moss~
+Long 
+A patch of Purple Moss is growing on the wall here.
+~
+Descr
+The moss looks slimey and spongey, you really dont want to touch it.  
+~
+AMax 1
+NHeight 0
+ActBits 33554435
+Affect_By 1107296768
+Money 20
+Level 20
+MobType 17
+Guard 0
+Spec spec_poison
+ArmorClass 50
+End
+
+#22978
+Name blue moss~
+Short some blue moss~
+Long 
+A patch of Blue Moss is growing on the walls here.
+~
+Descr
+The moss is slimey looking and you dont really want to touch it.  
+~
+AMax 1
+NHeight 0
+ActBits 33554435
+Affect_By 1107296768
+Money 20
+Level 20
+MobType 17
+Guard 0
+Spec spec_poison
+ArmorClass 50
+End
+
+#22979
+Name guard dragonbane~
+Short Dragonbane Guard~
+Long 
+A Dragonbane guard stands here with acid dripping from his mouth.
+~
+Descr
+You look over the Dragonbane Guard and find yourself disgusted.  The
+guard has the body of an orc, a dragon's head, and a dragon's wings.  Also
+the dirty slob is drooling acid all over his armor leaving little holes
+burned through it.  
+~
+AMax 5
+NHeight 0
+ActBits 3
+Affect_By 1107821096
+Alignment -1000
+Money 75
+Level 75
+Sex 1
+MobType 5
+Guard 4
+Spec spec_breath_acid
+ArmorClass -100
+End
+
+#22981
+Name dragonbane citizen~
+Short a Dragonbane citizen~
+Long 
+A Dragonbane Citizen is here passing time by harrassing the slaves
+~
+Descr
+The citizen looks quite large and mean.  He seems to get his kicks from
+beating up on the dragonkin slaves.  Although the two races are related,
+they seem to have very different views.  
+~
+AMax 11
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Money 30
+Level 30
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#22990
+Name dragon gladiator small~
+Short Dragon Gladiator~
+Long 
+A small Dragon Gladiator is waiting for it's next victim
+~
+Descr
+The gladiator is quite small and rather puny.  He can't be older than 15.
+You laugh to yourself when the gladiator tries to look fierce.  
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 5
+Level 5
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#22991
+Name dragon gladiator~
+Short Dragon Gladiator~
+Long 
+A Dragon Gladiator is here picking pieces of flesh from his claws.
+~
+Descr
+This gladiator looks good-sized and thick bodied.  He turns his head,
+looks you over and sneers at you.  He seems pretty sure of himself.  
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 10
+Level 10
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#22992
+Name good sized good-sized demon gladiator~
+Short Demon Gladiator~
+Long 
+A good-sized demon gladiator is here, grinning sadisticly at you
+~
+Descr
+The gladiator looks quite devilish, he seems to get a kick out of ripping
+people to shreds.  You quickly turn away when he looks up at you.  
+~
+AMax 5
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 15
+Level 15
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#22993
+Name demon gladiator large~
+Short large Demon Gladiator~
+Long 
+A Large Demon Gladiator is picking body parts from its teeth
+~
+Descr
+The large creature looks truly evil.  Just looking at him scares you half
+to death.  He is totaly black with red eyes and large, curved horns are
+coming out of the top if his head.  
+~
+AMax 8
+NHeight 0
+ActBits 17
+Affect_By 34079232
+Alignment 1000
+Money 20
+Level 20
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#23006
+Name dragon waitress~
+Short A Waitress~
+Long 
+An almost naked Dragonbane Waitress is here to take your order
+~
+Descr
+The dragonbane waitress is wearing very skimpy clothing and looks quite
+small for her race.  You wish she would wear more clothes because
+dragonbanes are quite disgusting looking.  You quickly turn your head away
+from the ugly beast.  
+~
+AMax 6
+NHeight 0
+ActBits 17
+Affect_By 524800
+Money 15
+Level 15
+Sex 2
+MobType 5
+Guard 0
+End
+
+#23007
+Name coarse dragon~
+Short A Coarse Dragon~
+Long 
+A Coarse Dragon is sitting at the far table looking very mean.
+~
+Descr
+The Dragon looks like he came here to be alone and get drunk, he must of
+had a very bad day.  You don't think it would be wise to fool around with
+him, he might get painfully mad.  
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 524800
+Alignment -50
+Money 17
+Level 17
+Sex 1
+MobType 5
+Guard 0
+Spec spec_warrior
+End
+
+#23010
+Name dragon bartender large~
+Short The Bartender~
+Long 
+A large Dragon is here, working the bar and taking orders.
+~
+Descr
+The bartender isnt very big for a dragon but he's large compared to you. 
+As you look him over he eyes impatiently and waits for you to purchase
+something.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 1074266624
+Money 50
+Level 50
+Sex 1
+MobType 5
+Guard 0
+Shop    0   0   0   0   0 122 42 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#23011
+Name drunk drunken dragon~
+Short A Drunken Dragon~
+Long 
+A drunk dragon tells invisible friends stories of his youth here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 524800
+Alignment -50
+Money 20
+Level 20
+MobType 5
+Guard 0
+Spec spec_janitor
+End
+
+#23014
+Name demon whore demon-whore~
+Short Demon-Whore~
+Long 
+A Demon-Whore is here with you, she looks like the painful kind...
+~
+Descr
+The Demon-Whore is very large and quite evil looking.  You wonder to
+yourself "what ever happened to the nice old fashion whores" 
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+Affect_By 168296960
+Alignment -50
+Money 20
+Level 20
+Sex 2
+MobType 11
+Guard 0
+End
+
+#23015
+Name dragonbane whore dragonbane-whore~
+Short Dragonbane-Whore~
+Long 
+A Dragonbane-Whore is here waiting for you to decide what you want
+~
+Descr
+The Dragonbane-Whore is rather dirty and disgusting looking.  You think
+it might be worth the plague to see what kind of tricks a flying whore could
+do though, maybe someday you'll try it.  The Dragonbane-Whore whinces from
+the pain of her disease.  
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+Affect_By 168296960
+Alignment -50
+Money 20
+Level 20
+Sex 2
+MobType 5
+Guard 0
+End
+
+#23017
+Name moogle whore moogle-whore~
+Short Moogle-Whore~
+Long 
+A Moogle-Whore is showing off her stuff as she dances around the room!
+~
+Descr
+The Moogle-Whore looks quite strong and very intelligent.  You see the
+glint of a mage in her eyes and wonder why the furry ball is a whore.  
+~
+AMax 1
+NHeight 0
+ActBits 536870913
+Affect_By 1242038784
+Alignment -50
+Money 50
+Level 50
+Sex 2
+MobType 11
+Guard 0
+ArmorClass -5
+End
+
+#23019
+Name Feesha demon priestess teacher~
+Short Feesha the Demon Priestess~
+Long 
+Feesha the Demon Priestess is here, teaching a young dragon the light spell.
+~
+Descr
+The priestess looks very intelligent and perhaps may be able to teach you
+something.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 1107821056
+Alignment -50
+Money 100
+Level 100
+Sex 2
+MobType 11
+Guard 0
+ArmorClass -200
+End
+
+#23020
+Name shingtao demon warrior~
+Short Shingtao the Demon Warrior~
+Long 
+Shingtao the Demon Warrior is here teaching a young dragon slash, the hard way.
+~
+Descr
+Shingtao looks amazingly strong and almost impenetrable.  He also looks
+as if he could teach you a few things, maybe you should ask.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 1107821184
+Alignment -50
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+ArmorClass -200
+End
+
+#23023
+Name thrain demon shopkeeper~
+Short Thrain the Demon Shopkeeper~
+Long 
+Thrain the Demon Shopkeeper is here, cutting a gem with a spell unkown to you.
+~
+Descr
+Now you're really confused, Thrain looks just like the banker, the
+weaponsmith, and of course the armor salesman.  You've decided there must be
+something going on for all these duplicates, and who would trust a demon to
+run a store?!?!  You think about questioning Thrain but after getting a
+closer look at his gem cutting spell, you decide to say nothing at all.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1048576
+Affect_By 1107821056
+Alignment -50
+Money 62
+Level 62
+Sex 1
+MobType 11
+Guard 0
+Shop    0   8   0  21   0 100 100 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -200
+End
+
+#23024
+Name thorin demon shopkeeper~
+Short Thorin the Demon Shopkeeper~
+Long 
+Thorin the Demon Shopkeeper is here casting blind and paralyze on a thief
+~
+Descr
+As you've probably guessed by now, Thorin looks exactly like the other
+store owners and bankteller.  You feel a need to get to the bottom of this
+duplication crap.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1572864
+Affect_By 1107821056
+Alignment -50
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 0
+Shop   27  19  17  15   1 122 42 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -200
+End
+
+#23038
+Name dark wizard~
+Short A Dark Wizard~
+Long 
+A Dark Wizard is here selling his wares, which are probably stolen.
+~
+Descr
+The Dark Wizard, surprisingly enough, doesnt look a thing like the other
+shopkeepers.  He's not even a demon, he's a dragon.  He probably looks
+different do to the fact that his store is supplied by the black market and
+therefore the town govornment doesn't know it exists.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1572864
+Affect_By 1107821056
+Alignment -50
+Money 100
+Level 100
+Sex 1
+MobType 5
+Guard 0
+Shop    0   2  10   3   4 122 42 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -200
+End
+
+#23049
+Name large dragon bodyguard body guard~
+Short a Bodyguard~
+Long 
+A large dragon bodyguard is here, watching you suspiciously
+~
+Descr
+The bodyguard looks very big and very loyal.  He's probably here to
+protect the Underlord.  He's also probably paid very well 
+~
+AMax 2
+NHeight 0
+ActBits 3
+ActBits3 4
+Affect_By 1107821056
+Money 20
+Level 20
+Sex 1
+MobType 5
+Guard 12
+Spec spec_warrior
+End
+
+#23050
+Name slave driver slave-driver~
+Short the Slave-Driver~
+Long 
+The Slave-Driver is here, whipping a Dragonkin to the brink of death
+~
+Descr
+The Slave-Driver is an evil Demon who enjoys his work.  He looks very
+strong and quite sadistic.  After glancing into his eyes you feel a need to
+get away from him and only your pride stops you from running.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 34079232
+Alignment -100
+Money 45
+Level 45
+Sex 1
+MobType 11
+Guard 0
+End
+
+#23051
+Name shady dragon ruffian~
+Short a shady looking dragon~
+Long 
+A shady looking dragon is here, eyeing your equipment.
+~
+Descr
+The dragon looks mean and harsh.  He also seems to be looking at your
+equipment just a little too much.  You really dont feel safe next to him.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 34079232
+Alignment -50
+Money 20
+Level 20
+Sex 1
+MobType 5
+Guard 0
+Spec spec_thief
+End
+
+#23052
+Name dragon underlord~
+Short the Underlord~
+Long 
+The Underlord is here, dealing business with a scummy looking dragon.
+~
+Descr
+The Underlord heads all the illegal businesses here.  He seems to have
+some kind of connections with the government to keep him out of jail.  He is
+quite large and mean looking.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 1107821056
+Alignment -50
+Money 60
+Level 60
+Sex 1
+MobType 5
+Guard 0
+RaceHate 67108864
+End
+
+#23060
+Name large black demon~
+Short a Large Black Demon~
+Long 
+A large, black Demon is gazing down at you with the face of death
+~
+Descr
+As you look into the creatures eyes all you see is death.  You are almost
+paralyzed with fear, a feeling you've never had.  You suddenly realize this
+is the end of you.  You also realize this isnt a town for dragon's, it's
+really a demon town, a town full of the utlimate evil.  That explains all
+the demon shopkeepers, and the few demons you noticed on the street.  
+~
+AMax 1
+NHeight 0
+ActBits 11
+ActBits3 2
+Affect_By 1074266664
+Alignment -500
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 4
+Spec spec_breath_fire
+ArmorClass -100
+End
+
+#0
+
+
+
+#OBJDATA
+#22950
+Name levitating fountain~
+Short a levitating fountain~
+Descr
+A Levitating Fountain is here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr fountain~
+The fountain is floating in the air before you.  You look all around the
+
+
+fountain but notice no structure holding it in place.  The fountain is
+
+
+flowing with dark grey water.  
+
+
+~
+ExtraDescr fountain~
+The fountain seems to float in there air. You look all around the fountain abut
+
+
+notice no structure holding it in place. The fountain is flowing with
+
+
+~
+End
+
+#22952
+Name slave slave's muzzle~
+Short a slave's muzzle~
+Descr
+A slave's muzzle has been discarded here.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 5 5 0 0
+Weight 1
+Cost 45
+End
+
+#22953
+Name small wooden sign~
+Short small wooden sign~
+Descr
+A small wooden sign is hanging down from a hole in the clouds.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr read sign~
+The small sign says "You have found the entrance to Ophidia, if you
+
+
+cannot fly you probably can't get in and if your fly spell doesnt last to
+
+
+long it's recommended you dont try."  
+
+
+~
+End
+
+#22954
+Name corpse evil giant~
+Short [31mcorpse of an[0m [30m[1mevil giant[0m~
+Descr
+[31mThe corpse of an [30m[1mevil giant[0m [31mis laying on the ground here.[0m
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23018 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr corpse~
+The corpse is humungous.  You could probably fit your whole family in
+
+
+there.  Maybe even make it a home if you can learn to stand the stench.  
+
+
+~
+End
+
+#22955
+Name dragon scroll fly~
+Short [32mthe dragon scroll[0m~
+Descr
+[37mA rolled up scroll with a[0m [32mDragon[0m design on it is levitating next to you.
+[0;36m~
+Type 2
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 85 52 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 998
+ExtraDescr dragon~
+The scroll is rolled up and sealed with a sealent in the shape of a
+
+
+dragon.  You're not quite sure what to expect from the scroll but the only
+
+
+thing you know about dragons is that they are greedy, mean, super buff, and
+
+
+they can fly.  
+
+
+~
+ExtraDescr scroll~
+The scroll is rolled up and sealed with a sealent in the shape of a
+
+
+dragon.  You're not quite sure what to expect from the scroll but the only
+
+
+thing you know about dragon's is that they are greedy, mean, super buff, and
+
+
+they can fly.  
+
+
+~
+End
+
+#22959
+Name claws~
+Short [32mdragon claws[0m~
+Descr
+[36mA pair of[0m [32mDragon Claws[0m [36mlay on the ground.
+[0;36m~
+Type 9
+Extra 512
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 8
+Cost 3000
+Affect 17 -2 2 0 0
+ExtraDescr claws~
+The Dragon Claws look very tough and are made out of dragon bones and
+
+
+scales.  There's a hole in the bottom of each claw for your hands.  
+
+
+~
+End
+
+#22961
+Name dark black key~
+Short a dark, black key~
+Descr
+A Dark Black Key is laying here on the ground.
+[0;36m~
+Type 18
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+ExtraDescr desc~
+The Key looks very strong and durable.  
+
+
+~
+ExtraDescr desc~
+The key looks very strong as if it opens a heavy lock.  
+
+
+~
+End
+
+#22969
+Name mask~
+Short [32mthe mask of the dragon[0m~
+Descr
+[32mThe mask of the dragon[0m is laying on the ground.
+[0;36m~
+Type 9
+Extra 512
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 4 0 0 0 30 30 0 0
+Weight 8
+Cost 3000
+ExtraDescr mask~
+The mask is a dark green and made out of bone and scales.  It's in the
+
+
+shape of a dragon's face and wicked teeth are carved in the mouth of the
+
+
+mask.  
+
+
+~
+End
+
+#22970
+Name Acidic wand~
+Short an acidic wand~
+Descr
+An acidic wand is laying on the floor here.
+[0;36m~
+Type 3
+Extra 593
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 3 3 115 0 0 0 0 0 0
+Weight 3
+Cost 1888
+ExtraDescr wand~
+The wand is vibrating with power, you wonder what it does....  
+
+
+~
+ExtraDescr acidic~
+The wand is vibrating with power, you wonder what it does...  
+
+
+~
+ExtraDescr acidic The Wand is vibrating with power, you wonder what it does~
+~
+ExtraDescr wand~
+The Wand is vibrating with power, you wonder what it does 
+
+
+~
+End
+
+#22971
+Name demon sword~
+Short demon sword~
+Descr
+A Demon Sword is laying here on the ground.
+[0;36m~
+Type 5
+Extra 264208
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 3 0 0 0 2 7 0
+Weight 5
+Cost 1650
+End
+
+#22981
+Name dragon skin belt~
+Short a dragon skin belt~
+Descr
+A [32mdragon skin belt[0m has been dropped here.
+[0;36m~
+Type 9
+Wear 10241
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 10 10 0 0
+Weight 2
+Cost 500
+ExtraDescr belt~
+The belt is made from thick dragon skin.  It looks very durable.  
+
+
+~
+ExtraDescr dragon~
+The belt is made from thick dragon skin.  It looks very durable.  
+
+
+~
+ExtraDescr skin~
+The belt is made from thick dragon skin.  It looks very durable.  
+
+
+~
+End
+
+#23010
+Name dragon's blood dragon ale drink beer container~
+Short [32mdragon's[0m [31mblood[0m~
+Descr
+[36mA bottle of[0m [32mDragon's[0m [31mBlood[0m [36mhas been discarded here.
+[0;36m~
+Type 17
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 3 0 0 0 0 0 0 0
+Weight 1
+Cost 100
+ExtraDescr dragon~
+This stuff looks like regular old ale only it is slightly more reddish
+
+
+and it smells rather putrid.  You've heard that this stuff is really made
+
+
+from dragon's blood, but that's hard to believe so DRINK UP!  
+
+
+~
+ExtraDescr blood~
+This stuff looks like regular old ale only it is slightly more redish and
+
+
+it smells rather putrid.  You've heard that this stuff is really made from
+
+
+dragon's blood, but that's hard to believe so DRINK UP!  
+
+
+~
+ExtraDescr dragon's~
+This stuff looks like regular old ale only it is slightly more reddish
+
+
+and it smells rather putrid.  You've heard that this stuff is really made
+
+
+from dragon's blood, but that's hard to believe so DRINK UP!  
+
+
+~
+End
+
+#23013
+Name crusty whip~
+Short Crusty Whip~
+Descr
+A Crusty Whip is laying on the floor here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 4 0 0 0 3 4 0
+Weight 2
+Cost 600
+ExtraDescr crusty~
+The whip is very disgusting and crust is flaking off its sides.  
+
+
+~
+ExtraDescr whip~
+The whip is very disgusting and crust is flaking off its sides.  
+
+
+~
+End
+
+#23015
+Name large wooden bed~
+Short large wooden bed~
+Descr
+A Long Wooden Bed is pushed along the far wall of this room.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23017 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr bed~
+The bed is very large and seems to get a lot of use.  
+
+
+~
+End
+
+#23017
+Name loose spring~
+Short loose spring~
+Descr
+A loose Spring is here with you.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 23014 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr spring~
+The spring is very shiny.  
+
+
+~
+End
+
+#23018
+Name eye-hole eye hole~
+Short eye-hole~
+Descr
+An eye-hole allows for light to enter the corpse
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 22953 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23023
+Name good-sized good sized red gem~
+Short a Good-Sized [31mred[0m gem~
+Descr
+[36mA Good-Sized [31mred[0m [36mgem is on the floor, glowing.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 82 82 33 0 0 0 0 0 0
+Weight 1
+Cost 17589
+End
+
+#23024
+Name carved glowing crystal gem~
+Short a carved [1m[37mglowing[0m crystal~
+Descr
+A carved, [1m[37mglowing[0m crystal lies here on the ground.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 55 55 25 0 0 0 0 0 0
+Weight 0
+Cost 43000
+End
+
+#23038
+Name blue potion infravision~
+Short a [1m[34mBlue[0m potion of infravision~
+Descr
+A potion has been discarded here.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 11 11 -1 0 0 0 0 0 0
+Weight 1
+Cost 998
+End
+
+#23051
+Name dragon bone dagger~
+Short a [32mDragon[0m [1mBone[0m dagger~
+Descr
+A dagger made from dragon bones has been discarded here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 11 0 0 0 6 3 0
+Weight 2
+Cost 5847
+ExtraDescr bone~
+The dagger looks quite sturdy and appears to be made of dragon bones.  
+
+
+~
+ExtraDescr dragon~
+The dagger looks quite sturdy and appears to be made of dragon bones.  
+
+
+~
+ExtraDescr dagger~
+The dagger looks quite sturdy and appears to be made of dragon bones.  
+
+
+~
+End
+
+#23052
+Name necklace~
+Short a [1m[33mGold Necklace[0m~
+Descr
+an expensive looking necklace has been discarded here
+[0;36m~
+Type 8
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 1305
+ExtraDescr necklace~
+The necklace looks extremely expensive.  You heard the guy at the gem
+
+
+shop buys stuff like this.  
+
+
+~
+End
+
+#23061
+Name chest~
+Short a Large Black Runed Chest~
+Descr
+A large chest with black runes burned into it is sitting in the corner.
+[0;36m~
+Type 15
+Extra 64
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 99999999 15 23065 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr chest~
+The chest is very large, black runes are burned into it on all sides. 
+
+
+You dont know what the runes mean but they were made under intense heat from
+
+
+the look of it.  The chest seems to be unlocked.  
+
+
+~
+End
+
+#23063
+Name breastplate~
+Short [32mDragon Skin Breastplate[0m~
+Descr
+A breastplate made from dragonskin is here
+[0;36m~
+Type 9
+Extra 2640
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 8
+Cost 10000
+Affect 17 -2 1 0 0
+ExtraDescr breastplate~
+The breastplate is made from a dragon's skin and bones.  It looks
+
+
+extremely tough.  It does look rather uncomfortable though.  
+
+
+~
+End
+
+#23064
+Name dragon bone sword~
+Short a [32mDragon[0m [1mBone[0m [32mSword[0m~
+Descr
+A sword made from a dragon's bone has been dropped here
+[0;36m~
+Type 5
+Extra 264720
+Wear 16385
+Timer 1000
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 3 8 0
+Weight 6
+Cost 23000
+ExtraDescr dragon~
+The sword is a piece of dragon bone sharpened and shaped into what looks
+
+
+like a long sword 
+
+
+~
+ExtraDescr bone~
+The sword is a piece of dragon bone sharpened and shaped into what looks
+
+
+like a long sword 
+
+
+~
+ExtraDescr sword~
+The sword is a piece of dragon bone sharpened and shaped into what looks
+
+
+like a long sword.  
+
+
+~
+End
+
+#23065
+Name a key~
+Short a key~
+Descr
+A key lies here on the ground.
+[0;36m~
+Type 18
+Extra 16384
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#22950
+Name The Center of Ophidia~
+Descr
+You are in the town square of Ophidia.  Set in the middle of the square
+is a giant levitating fountain with a statue of Dark Smoke on the top.  All
+around the town are flying creatures, it seems nothing here can't fly.  Up
+above you is the weapon shop and above that the armor shop.  Roads lead off
+in all directions.  
+~
+Flags 132096
+Sector 9
+Reset O 22950 -5 100
+Reset M 22969 1 100
+Reset O 8075 -1 5
+Door 0 0 0 22952 30 30
+~
+door~
+Door 1 0 0 22951 30 30
+~
+door~
+Door 2 0 0 22959 30 30
+~
+door~
+Door 3 0 0 22954 30 30
+~
+door~
+Door 4 3 0 22960 30 30
+~
+Wooden Door~
+Door 5 1 0 22979 30 30
+~
+Gate to Ophidia~
+End
+
+#22951
+Name East Cloud~
+Descr
+You're over a very thick cloud.  You can't tell what's below you from
+here so you're not sure if you should go down and explore or not.  Many
+people are passing you by, probably because this cloud is between the town
+square and a major road.  From here you can see the large fountain in the
+town square and make out the silhouette of Dark Smoke.  
+~
+Flags 131072
+Sector 9
+Reset M 22981 10 100
+Reset O 22981 12 100
+Door 1 0 0 22963 30 30
+~
+door~
+Door 3 0 0 22950 30 30
+~
+door~
+Door 5 0 0 22976 30 30
+~
+door~
+End
+
+#22952
+Name North Cloud~
+Descr
+You're over a very thick cloud.  You can't tell what's below you from
+here so you're not sure if you should go down and explore or not.  Many
+people are passing you by, probably because this cloud is between the town
+square and a major road.  From here you can see the large fountain in the
+town square and make out the silhouette of Dark Smoke.  
+~
+Reset M 22962 10 100
+Reset O 22952 25 100
+Reset M 22952 1 100
+Reset O 22959 8 50
+Reset O 22969 25 50
+Door 0 0 0 22961 30 30
+~
+door~
+Door 2 0 0 22950 30 30
+~
+door~
+Door 5 0 0 22978 30 30
+~
+door~
+End
+
+#22953
+Name A Steep Mountain Slope~
+Descr
+You're on a steep mountain slope and it looks as if this area has been
+smashed many times by a very heavy object.  A sign is hanging down from a
+hole in the clouds.  You try to look up into the hole but it's just too far
+away.  You can see the mountain slope down below you.  
+~
+Flags 2
+Sector 2
+Reset O 22953 -5 100
+Reset O 22954 -5 100
+Door 4 0 0 22979 30 30
+~
+door~
+Door 5 0 0 70225 0 0
+~
+~
+End
+
+#22954
+Name West Cloud~
+Descr
+You are over the cloud west of the town square.  From here you can't tell
+whats below you and you're not sure if you want to go down or not.  To the
+south of you is a door with a sign on it that says "The Ophidian Bank".  To
+the west of you is a road and to the east of you is the town square.  
+~
+Flags 131072
+Sector 9
+Reset M 22954 10 100
+Reset O 14583 21 100
+Door 1 0 0 22950 30 30
+~
+door~
+Door 2 3 0 22974 30 30
+~
+Wooden Door~
+Door 3 0 0 22965 30 30
+~
+door~
+Door 5 0 0 22975 30 30
+~
+door~
+End
+
+#22959
+Name South Cloud~
+Descr
+You're over a very thick cloud.  You can't tell what's below you from
+here so you're not sure if you should go down and explore or not.  Many
+people are passing you by, probably because this cloud is between the town
+square and a major road.  From here you can see the large fountain in the
+town square and make out the silhouette of Dark Smoke.  
+~
+Flags 131072
+Sector 9
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Reset M 22959 4 100
+Reset O 22969 25 5
+Reset O 22959 8 7
+Door 0 0 0 22950 30 30
+~
+door~
+Door 2 0 0 22967 30 30
+~
+door~
+Door 5 0 0 22977 30 30
+~
+door~
+End
+
+#22960
+Name Fred's Tools of Pain~
+Descr
+This is the town's weapon smith.  The store is pretty shabby and doesn't
+look like it's going to hold together much longer.  On the wall there's a
+sign that says, "Please keep door closed.  50% of potential buyers forget to
+check their flight spell and fall to their deaths."  
+~
+Flags 131076
+Sector 9
+Reset M 22960 1 100
+Reset O 1025 -1 100
+Reset O 50260 -1 100
+Reset O 236 -1 100
+Reset O 22971 -1 100
+Reset O 3201 -1 100
+Reset O 237 -1 100
+Door 4 0 0 22969 30 30
+~
+door~
+Door 5 0 0 22950 30 30
+~
+Wooden Door~
+End
+
+#22961
+Name Dark Claw Road~
+Descr
+This is an old dirt road.  It's beyond you how it got here.  This street
+is one of the busiest in the town so you have to keep alert unless you wanna
+get pushed around.  To the south is a large fountain and the silhouette of
+Dark Smoke, which can only mean its the town square.  To your east is an old
+shack with some strange runes carved in the sides.  The wood looks weak but
+when you push on it you find it to be quite strong.  
+~
+Flags 131072
+Shd 1
+Sector 0
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 0 0 22962 30 30
+~
+door~
+Door 1 31 22961 22970 -24 -24
+~
+Iron Door~
+Door 2 0 0 22952 30 30
+~
+door~
+End
+
+#22962
+Name Dark Claw Road~
+Descr
+This is an old dirt road.  It's beyond you how it got here.  This street
+is one of the busiest in the town so you have to keep alert unless you wanna
+get pushed around.  To the south is a large fountain and the silhouette of
+Dark Smoke, which can only mean its the town square.  
+~
+Flags 131072
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Door 0 0 0 22981 30 30
+~
+door~
+Door 2 0 0 22961 30 30
+~
+door~
+End
+
+#22963
+Name East Main Street~
+Descr
+You are on an old cobold road.  This is the busiest road in the town so
+it is very crowded.  To the north of you is a large, black marble temple. 
+The sign outside the temple says its the Toltec Temple.  The road continues
+on to the east and off to the west is the town square.  
+~
+Flags 131072
+Sector 0
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 0 0 0 23019 30 30
+~
+door~
+Door 1 0 0 22964 30 30
+~
+door~
+Door 3 0 0 22951 30 30
+~
+door~
+End
+
+#22964
+Name East Main Street~
+Descr
+You are on an old cobold road.  This is the busiest street in the whole
+town, due to all the businesses who open here.  As you try to walk down the
+street you get nudged and pushed and sometimes someone throws a punch at
+you.  To the west you can barely make out a large fountain that symbolizes
+the town square.  
+~
+Flags 131072
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22981 10 100
+Reset O 22981 12 100
+Door 1 0 0 22971 30 30
+~
+door~
+Door 3 0 0 22963 30 30
+~
+door~
+End
+
+#22965
+Name West Main Street~
+Descr
+You are on an old cobold road.  There are many people walking up and down
+this street.  This is probably the busiest road in the town and most of the
+businesses are set up here.  At least the legal businesses.  
+~
+Flags 131072
+Sector 0
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 1 0 0 22954 30 30
+~
+door~
+Door 3 0 0 22966 30 30
+~
+door~
+End
+
+#22966
+Name West Main Street~
+Descr
+You are on an old cobold road.  As you walk along the road you wonder
+what's holding it off the ground.  To the north of you lies a very seedy bar
+called the Dragon Claw Tavern.  The road continues on to the east and west. 
+~
+Flags 131074
+Sector 0
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 3 0 23006 30 30
+~
+Wooden Door~
+Door 1 0 0 22965 30 30
+~
+door~
+Door 3 0 0 22980 30 30
+~
+door~
+End
+
+#22967
+Name Black Fang Road~
+Descr
+You are on an old dirt road.  It's beyond you how it got in the sky. 
+This is one of the busiest roads in the town and you have to work to avoid
+getting bumped into all the time.  To the north you can make out a large
+fountain and the silhouette of Dark Smoke, that must be the town square.  To
+your east is a sign that reads "Arena...  If you dont wanna fight, dont come
+in here" 
+~
+Flags 131074
+Sector 0
+Reset M 22981 10 100
+Door 0 0 0 22959 30 30
+~
+door~
+Door 1 3 0 22990 -24 -24
+~
+Large Metal Door~
+Door 2 0 0 22968 30 30
+~
+door~
+End
+
+#22968
+Name Black Fang Road~
+Descr
+You are on an old dirt road.  It's beyond you how it got in the sky. 
+This is one of the busiest roads in the town and you have to work to avoid
+getting bumped into all the time.  To the north you can make out a large
+fountain and the silhouette of Dark Smoke, that must be the town square.  
+~
+Flags 131072
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22968 10 100
+Reset M 22968 10 100
+Door 0 0 0 22967 30 30
+~
+door~
+Door 2 0 0 22982 30 30
+~
+door~
+End
+
+#22969
+Name Bob's Tools of Protection~
+Descr
+This is Ophidia's armor shop.  The service isn't very good but it's worth
+it.  Be warned, Bob does get a little cranky sometimes seeing as how half of
+his customers fall to their death 5 miles below.  If you think he's in a bad
+mood it's probably best to leave now or you could end up leaving in a
+casket.  And remember Bob's motto is, "Buy our stuff cause you'll probably
+need a little more between you and a whitie's blade then just skin."  
+~
+Flags 131072
+Sector 9
+Reset M 22950 1 100
+Reset O 227 -1 100
+Reset O 1054 -1 100
+Reset O 5005 -1 100
+Reset O 40005 -1 100
+Reset O 214 -1 100
+Reset O 212 -1 100
+Reset O 40006 -1 100
+Reset O 208 -1 100
+Reset O 206 -1 100
+Reset O 986 -1 100
+Reset O 40024 -1 100
+Reset O 202 -1 100
+Reset O 234 -1 100
+Reset O 219 -1 100
+Reset O 14591 -1 100
+Reset O 13009 -1 100
+Door 5 0 0 22960 30 30
+~
+door~
+End
+
+#22970
+Name House of a Great Dragon-Mage~
+Descr
+As you look around the room you notice there is nothing below you. 
+Because of this the room is quite barren.  As you walk through the room you
+feel magical energy pouring in from the walls.  
+~
+Flags 131072
+Sector 9
+Reset M 22970 1 100
+Reset O 22970 21 4
+Door 3 1 0 22961 -24 -24
+~
+Iron Door~
+Door 5 0 0 22972 30 30
+~
+door~
+End
+
+#22971
+Name East Main Street~
+Descr
+You are on an old cobold road.  To the north is Shingtao's Warrior
+training and from inside you can hear the screams of trainees.  To the west
+you can barely make out the shape of a fountain.  An alley is off to the
+south and the road continues east and west.  
+~
+Flags 131072
+Sector 0
+Reset M 22971 1 100
+Reset O 221 4 22
+Reset O 22961 2 100
+Reset O 22971 21 27
+Door 0 0 0 23020 30 30
+~
+door~
+Door 1 0 0 23039 0 0
+~
+~
+Door 2 0 0 22989 30 30
+~
+door~
+Door 3 0 0 22964 30 30
+~
+door~
+End
+
+#22972
+Name Half-Way Down a Hole~
+Descr
+You are half-way down a large hole.  The walls here are very slick and
+look impossible to climb.  Below, you can here what sounds like birds
+flapping their wings.  
+~
+Flags 1
+Sector 9
+Door 4 0 0 22970 30 30
+~
+door~
+Door 5 0 0 22973 30 30
+~
+door~
+End
+
+#22973
+Name The Pit~
+Descr
+You are at the bottom of a large pit.  The walls are very slick and would
+be immpossible to climb.  Unless you were teleported here you probably have
+fly and can leave that way.....  If you live.  
+~
+Flags 1
+Reset M 22973 2 100
+Reset M 22973 2 100
+Door 4 0 0 22972 30 30
+~
+door~
+End
+
+#22974
+Name The Dragon's Horde~
+Descr
+This is the bank of Ophidia.  From the outside it looked run-down but on
+the inside it's very classy.  The walls are painted a dark maroon and the
+window curtains are a blood red velvet.  The vault is framed in gold and the
+rest of it is a solid steel.  You feel very secure in storing you money and
+valuables here.  In fact your only real concern is that the bankteller is a
+demon and they aren't usually very trust worthy.  
+~
+Flags 131072
+Sector 9
+Reset M 22974 1 100
+Door 0 3 0 22954 30 30
+~
+Wooden Door~
+Door 5 0 0 23021 0 0
+~
+~
+End
+
+#22975
+Name A Cell~
+Descr
+You are in a dark cell where all the non-flyers fall too.  The walls are
+too slick to climb up and the floor is covered in some kind of wet slime.  
+~
+Flags 5
+Reset M 22975 1 100
+Door 4 0 0 22954 30 30
+~
+door~
+Door 5 0 0 22953 0 0
+~
+~
+End
+
+#22976
+Name A Cell~
+Descr
+You are in a dark cell where all the non-flyers fall too.  The walls are
+too slick to climb up and the floor is covered in some kind of wet slime.  
+~
+Flags 5
+Reset M 22976 1 100
+Door 4 0 0 22951 30 30
+~
+door~
+Door 5 0 0 22953 0 0
+~
+~
+End
+
+#22977
+Name A Cell~
+Descr
+You are in a dark cell where all the non-flyers fall too.  The walls are
+too slick to climb up and the floor is covered in some kind of wet slime.  
+~
+Flags 5
+Reset M 22977 1 100
+Door 4 0 0 22959 30 30
+~
+door~
+Door 5 0 0 22953 0 0
+~
+~
+End
+
+#22978
+Name A Cell~
+Descr
+You are in a dark cell where all the non-flyers fall too.  The walls are
+too slick to climb up and the floor is covered in some kind of wet slime.  
+~
+Flags 5
+Reset M 22978 1 100
+Door 4 0 0 22952 30 30
+~
+door~
+Door 5 0 0 22953 0 0
+~
+~
+End
+
+#22979
+Name Gate to Ophidia~
+Descr
+You are at the gate to Ophidia.  You can't tell whats up there yet, but
+from here you can hear the sounds of wings flapping.  Many Dragonbane guards
+are here to keep the town safe from whitie invaders.  The sound of heavy
+breathing above makes you think even if the guards are defeated, whatever's
+up there should take care of the whities.  
+~
+Flags 2
+Sector 9
+Reset M 22979 5 100
+Reset M 22979 5 100
+Reset M 22979 5 100
+Reset M 22979 5 100
+Reset M 22979 5 100
+Door 4 1 0 22950 30 30
+~
+Gate to Ophidia~
+Door 5 0 0 22953 30 30
+~
+door~
+End
+
+#22980
+Name West Main Street~
+Descr
+You are on an old cobold road.  There are many people walking up and down
+this street.  This is probably the busiest road in the town and most of the
+businesses are set up here.  At least the legal businesses.  
+~
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 1 0 0 22966 30 30
+~
+door~
+Door 3 0 0 23026 0 0
+~
+~
+End
+
+#22981
+Name Dark Claw Road~
+Descr
+This is an old dirt road.  It's beyond you how it got here.  This street
+is one of the busiest in the town so you have to keep alert unless you wanna
+get pushed around.  To the south is a large fountain and the silhouette of
+Dark Smoke, which can only mean its the town square.  To your west is a sign
+that reads, "Provisions for the Dragon, a store that has everything you need
+to survive in the wilderness."  
+~
+Shd 1
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 0 0 0 23025 0 0
+~
+~
+Door 2 0 0 22962 30 30
+~
+door~
+Door 3 3 0 23024 30 30
+~
+Wooden Door~
+End
+
+#22982
+Name Black Fang Road~
+Descr
+You are on an old dirt road.  It's beyond you how it got in the sky. 
+This is one of the busiest roads in the town and you have to work to avoid
+getting bumped into all the time.  To the north you can make out a large
+fountain and the silhouette of Dark Smoke, that must be the town square.  To
+your west is a sign that reads, "The Dragon's Treasures, a store for gem
+lovers and treasure hunters."  To the east is an alley that runs along the
+arena.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22961 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 0 0 0 22968 30 30
+~
+door~
+Door 1 0 0 22983 30 30
+~
+door~
+Door 2 0 0 23049 0 0
+~
+~
+Door 3 3 0 23023 30 30
+~
+Wooden Door~
+End
+
+#22983
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Door 1 0 0 22984 30 30
+~
+door~
+Door 3 0 0 22982 30 30
+~
+door~
+End
+
+#22984
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 1 0 0 22985 30 30
+~
+door~
+Door 3 0 0 22983 30 30
+~
+door~
+End
+
+#22985
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 1 0 0 22986 30 30
+~
+door~
+Door 3 0 0 22984 30 30
+~
+door~
+End
+
+#22986
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Reset M 22959 4 100
+Reset O 22959 8 4
+Reset O 22969 25 8
+Door 0 0 0 22987 30 30
+~
+door~
+Door 3 0 0 22985 30 30
+~
+door~
+End
+
+#22987
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 0 0 0 22988 30 30
+~
+door~
+Door 2 0 0 22986 30 30
+~
+door~
+End
+
+#22988
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 0 0 22989 30 30
+~
+door~
+Door 2 0 0 22987 30 30
+~
+door~
+End
+
+#22989
+Name Alley Behind the Arena~
+Descr
+This is an trash ridden alley that runs along the back of the arena.  You
+can tell no one's cleaned back here in years.  It also looks like a rough
+part of town.  
+~
+Shd 1
+Sector 0
+Door 0 0 0 22971 30 30
+~
+door~
+Door 2 0 0 22988 30 30
+~
+door~
+End
+
+#22990
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22990 4 100
+Door 0 0 0 22991 30 30
+~
+door~
+Door 1 0 0 22996 30 30
+~
+door~
+Door 2 0 0 22992 30 30
+~
+door~
+Door 3 3 0 22967 -24 -24
+~
+Large Metal Door~
+End
+
+#22991
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22991 4 100
+Door 1 0 0 22997 30 30
+~
+door~
+Door 2 0 0 22990 30 30
+~
+door~
+End
+
+#22992
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22992 4 100
+Door 0 0 0 22990 30 30
+~
+door~
+Door 1 0 0 22995 30 30
+~
+door~
+Door 2 0 0 22993 30 30
+~
+door~
+End
+
+#22993
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22993 4 100
+Reset M 22993 4 100
+Reset M 22993 4 100
+Door 0 0 0 22992 30 30
+~
+door~
+Door 1 0 0 22994 30 30
+~
+door~
+End
+
+#22994
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22992 4 100
+Reset M 22993 4 100
+Door 0 0 0 22995 30 30
+~
+door~
+Door 1 0 0 23001 30 30
+~
+door~
+Door 3 0 0 22993 30 30
+~
+door~
+End
+
+#22995
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22991 4 100
+Door 0 0 0 22996 30 30
+~
+door~
+Door 1 0 0 23000 30 30
+~
+door~
+Door 2 0 0 22994 30 30
+~
+door~
+Door 3 0 0 22992 30 30
+~
+door~
+End
+
+#22996
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22993 4 100
+Reset M 22993 4 100
+Door 0 0 0 22997 30 30
+~
+door~
+Door 1 0 0 22999 30 30
+~
+door~
+Door 2 0 0 22995 30 30
+~
+door~
+Door 3 0 0 22990 30 30
+~
+door~
+End
+
+#22997
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Door 1 0 0 22998 30 30
+~
+door~
+Door 2 0 0 22996 30 30
+~
+door~
+Door 3 0 0 22991 30 30
+~
+door~
+End
+
+#22998
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22992 4 100
+Door 1 0 0 23005 30 30
+~
+door~
+Door 2 0 0 22999 30 30
+~
+door~
+Door 3 0 0 22997 30 30
+~
+door~
+End
+
+#22999
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22991 4 100
+Door 0 0 0 22998 30 30
+~
+door~
+Door 1 0 0 23004 30 30
+~
+door~
+Door 2 0 0 23000 30 30
+~
+door~
+Door 3 0 0 22996 30 30
+~
+door~
+End
+
+#23000
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22992 4 100
+Door 0 0 0 22999 30 30
+~
+door~
+Door 1 0 0 23003 30 30
+~
+door~
+Door 2 0 0 23001 30 30
+~
+door~
+Door 3 0 0 22995 30 30
+~
+door~
+End
+
+#23001
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22993 4 100
+Reset M 22990 4 100
+Door 0 0 0 23000 30 30
+~
+door~
+Door 1 0 0 23002 30 30
+~
+door~
+Door 3 0 0 22994 30 30
+~
+door~
+End
+
+#23002
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22991 4 100
+Door 0 0 0 23003 30 30
+~
+door~
+Door 3 0 0 23001 30 30
+~
+door~
+End
+
+#23003
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22993 4 100
+Door 0 0 0 23004 30 30
+~
+door~
+Door 2 0 0 23002 30 30
+~
+door~
+Door 3 0 0 23000 30 30
+~
+door~
+End
+
+#23004
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22992 4 100
+Door 0 0 0 23005 30 30
+~
+door~
+Door 2 0 0 23003 30 30
+~
+door~
+Door 3 0 0 22999 30 30
+~
+door~
+End
+
+#23005
+Name Inside the Arena~
+Descr
+As soon as you step foot in the arena a putrid smell forces you back. 
+You look around and see many gladiators and body parts.  This is definately
+not a family place.  You start to walk around the pools of blood and pieces
+of flesh, looking for something to kill.  None of the gladiators seem
+aggressive, but they do look like they'd enjoy ripping your limbs off.  
+~
+Sector 0
+Reset M 22990 4 100
+Door 2 0 0 23004 30 30
+~
+door~
+Door 3 0 0 22998 30 30
+~
+door~
+End
+
+#23006
+Name Inside the Dragon Claw Tavern~
+Descr
+On the inside the Dragon Claw Tavern appears to be very seedy.  The
+waitresses are wearing almost nothing, the men look rough and mean, and the
+drinks dont look too healthy.  The walls are covered in pictures of heros
+and dragons.  Most of the pictures are of Dark Smoke (the town guardian)
+ripping elves and dragonkins to pieces, or killing them with acid breath. 
+In the north-east corner of the Tavern is a bar and some stairs to the
+second level.  
+~
+Flags 4
+Sector 0
+Reset M 23011 3 100
+Door 0 0 0 23009 30 30
+~
+Wooden Door~
+Door 1 0 0 23007 30 30
+~
+door~
+Door 2 3 0 22966 30 30
+~
+Wooden Door~
+Door 3 0 0 23008 30 30
+~
+door~
+End
+
+#23007
+Name Inside the Dragon Claw Tavern~
+Descr
+On the inside the Dragon Claw Tavern appears to be very seedy.  The
+waitresses are wearing almost nothing, the men look rough and mean, and the
+drinks dont look too healthy.  The walls are covered in pictures of heros
+and dragons.  Most of the pictures are of Dark Smoke (the town guardian)
+ripping elves and dragonkins to pieces, or killing them with acid breath. 
+In the north-east corner of the Tavern is a bar and some stairs to the
+second level.  
+~
+Flags 4
+Sector 0
+Reset M 23007 4 100
+Reset M 23006 6 100
+Reset O 23010 -1 100
+Door 0 0 0 23010 30 30
+~
+door~
+Door 3 0 0 23006 30 30
+~
+door~
+End
+
+#23008
+Name Inside the Dragon Claw Tavern~
+Descr
+On the inside the Dragon Claw Tavern appears to be very seedy.  The
+waitresses are wearing almost nothing, the men look rough and mean, and the
+drinks dont look too healthy.  The walls are covered in pictures of heros
+and dragons.  Most of the pictures are of Dark Smoke (the town guardian)
+ripping elves and dragonkins to pieces, or killing them with acid breath. 
+In the north-east corner of the Tavern is a bar and some stairs to the
+second level.  
+~
+Flags 4
+Sector 0
+Reset M 23007 4 100
+Reset M 23006 6 100
+Reset O 23010 -1 100
+Door 0 0 0 23011 0 0
+~
+~
+Door 1 0 0 23006 30 30
+~
+door~
+End
+
+#23009
+Name Inside the Dragon Claw Tavern~
+Descr
+On the inside the Dragon Claw Tavern appears to be very seedy.  The
+waitresses are wearing almost nothing, the men look rough and mean, and the
+drinks dont look too healthy.  The walls are covered in pictures of heros
+and dragons.  Most of the pictures are of Dark Smoke (the town guardian)
+ripping elves and dragonkins to pieces, or killing them with acid breath. 
+In the north-east corner of the Tavern is a bar and some stairs to the
+second level.  
+~
+Flags 4
+Sector 0
+Reset M 23007 4 100
+Reset M 23006 6 100
+Door 0 3 0 23035 30 30
+~
+Back Door~
+Door 1 0 0 23010 30 30
+~
+door~
+Door 2 0 0 23006 30 30
+~
+Wooden Door~
+Door 3 0 0 23011 30 30
+~
+door~
+End
+
+#23010
+Name The Dragon Claw Bar~
+Descr
+This is the bar area of the Dragon Claw Tavern.  Here you can buy a drink
+or two from the bartender, they only really serve one thing.  The bar is
+nicely polished and has leather siding.  Stools are placed all around for
+weary travelers.  On the wall behind the bar is a giant picture of Dark
+Smoke the town's guardian.  
+~
+Flags 4
+Sector 0
+Reset M 23011 3 100
+Reset M 23007 4 100
+Reset M 23006 6 100
+Reset O 23010 -1 100
+Reset M 23010 1 100
+Reset O 23010 -1 100
+Door 2 0 0 23007 30 30
+~
+door~
+Door 3 0 0 23009 30 30
+~
+door~
+Door 4 3 0 23012 30 30
+~
+Small Door~
+End
+
+#23011
+Name Inside the Dragon Claw Tavern~
+Descr
+On the inside the Dragon Claw Tavern appears to be very seedy.  The
+waitresses are wearing almost nothing, the men look rough and mean, and the
+drinks dont look too healthy.  The walls are covered in pictures of heros
+and dragons.  Most of the pictures are of Dark Smoke (the town guardian)
+ripping elves and dragonkins to pieces, or killing them with acid breath. 
+In the north-east corner of the Tavern is a bar and some stairs to the
+second level.  
+~
+Flags 4
+Sector 0
+Reset M 23011 3 100
+Reset M 23006 6 100
+Reset O 23010 -1 100
+Door 1 0 0 23009 30 30
+~
+door~
+Door 2 0 0 23008 0 0
+~
+~
+End
+
+#23012
+Name Second Floor of the Dragon Claw Tavern~
+Descr
+This is the second floor of the Dragon Claw Tavern.  The stairs lead back
+down to the bar and the hallway continues west to the Suites.  Along the
+walls of the hallway are many large tapestries, mostly showing pictures of
+Dark Smoke shredding elves.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 23013 30 30
+~
+door~
+Door 5 3 0 23010 30 30
+~
+Small Door~
+End
+
+#23013
+Name The Hallway~
+Descr
+The hallway is quite wide and well taken care of.  This would be the
+nicest room in the building if the carpet wasn't worn down from many people
+coming through here each day.  To the north and south are two suites.  
+~
+Flags 4
+Sector 0
+Door 0 3 0 23014 30 30
+~
+Door Marked Privacy~
+Door 1 0 0 23012 30 30
+~
+door~
+Door 2 3 0 23015 30 30
+~
+Door Marked Privacy~
+End
+
+#23014
+Name The Northern Suite~
+Descr
+This is the northern suite.  The walls here are kind of barren accept for
+the occasional spot of blood.  The bed on the far wall is also rather barren
+but looks well used.  There is a barred window looking out onto the alley
+behind the Tavern.  
+~
+Flags 4
+Sector 0
+Reset M 23014 1 100
+Reset O 23013 21 100
+Reset O 23015 -5 100
+Door 2 3 0 23013 30 30
+~
+Door Marked Privacy~
+End
+
+#23015
+Name The Southern Suite~
+Descr
+This is the southern suite.  The window looking out onto main street has
+been covered over with a sheet, perhaps so you may not notice the whore here
+is sick with the plague.  There are no sheets on the bed in here and the
+room seems very empty.  
+~
+Flags 4
+Sector 0
+Reset M 23015 1 100
+Door 0 3 0 23013 30 30
+~
+Door Marked Privacy~
+End
+
+#23017
+Name The Moogle Hiding Place~
+Descr
+This is the place where the moogles hide from pkillers and anything else
+they feel is bad for their health.  
+~
+Flags 2052
+Sector 0
+Reset M 23017 1 100
+Reset O 23017 -5 100
+End
+
+#23018
+Name Inside the Giant's Corpse~
+Descr
+You are inside the Evil Giant's corpse.  Loose pieces of flesh and bones
+hang around your head.  The stench in here is awful and from the scratch
+marks in the flesh, it's safe to say something was or is living here.  
+~
+Flags 4
+Sector 0
+Reset O 22955 -5 100
+Reset O 23018 -5 100
+Reset M 22953 1 100
+End
+
+#23019
+Name The Toltec Temple~
+Descr
+As soon as you enter the large black marble temple, you feel magical
+energy flowing fast through your body.  Your mana seems to be filling up
+very rapidly and you feel like meditating.  The priestess here looks very
+helpful and perhaps she would teach you something if you asked her to.  
+~
+Flags 2228224
+Sector 9
+Reset M 23019 1 100
+Door 2 0 0 22963 30 30
+~
+door~
+Door 5 0 0 23022 30 30
+~
+door~
+End
+
+#23020
+Name Shingtao's Warrior Training~
+Descr
+As soon as you enter the training area you feel healthier and you wounds
+start to disappear right before your eyes.  The room is filled with training
+equipment, some of which looks incredibly painful.  You're not to sure you
+want to learn your skills here, but it is the closest place.  
+~
+Flags 1048580
+Sector 0
+Reset M 23020 1 100
+Door 2 0 0 22971 30 30
+~
+door~
+End
+
+#23021
+Name Target Room~
+Descr
+This is the target area for Ophidian guards, you better get out of here
+before you get poisoned from the darts.  
+~
+Flags 33554433
+Sector 0
+Door 4 0 0 22974 0 0
+~
+~
+End
+
+#23022
+Name The Hot Box~
+Descr
+This room is incredibly hot, you better get out of here before you're
+burned alive.  
+~
+Flags 16777217
+Sector 0
+Door 4 0 0 23019 30 30
+~
+door~
+End
+
+#23023
+Name The Dragon's Treasures~
+Descr
+This is Ophidia's gem shop.  This store looks sturdier than the other
+ones, but that might just be the fact that there's a floor below you.  On
+the shelves behind the counter are thousands of bright, shining gems.  The
+gems are so bright you can only glance at them for a few seconds before your
+eyes start to sting.  
+~
+Flags 4
+Sector 0
+Reset M 23023 1 100
+Reset O 67 5 75
+Reset O 60 5 50
+Reset O 57 5 50
+Reset O 54 5 50
+Reset O 51 5 50
+Door 1 3 0 22982 30 30
+~
+Wooden Door~
+End
+
+#23024
+Name Provisions for the Dragon~
+Descr
+This is Ophidia's provision shop.  The shelves are full of lanterns and
+tinderboxes.  You feel safer here than some of the other stores, probably
+because there's actually a floor beneath you.....  A place to rest.  
+~
+Flags 4
+Sector 0
+Reset M 23024 1 100
+Reset O 14027 -1 2
+Reset O 36 -1 100
+Reset O 14588 -1 100
+Reset O 33 20 100
+Reset O 39 20 100
+Reset O 33 -1 100
+Reset O 5008 -1 100
+Door 1 3 0 22981 30 30
+~
+Wooden Door~
+End
+
+#23025
+Name Dark Claw Road~
+Descr
+This is an old dirt road.  It's beyond you how it got here.  This street
+is one of the busiest in the town so you have to keep alert unless you wanna
+get pushed around.  To the south is a large fountain and the silhouette of
+Dark Smoke, which can only mean its the town square.  To your west and east
+are back alleys that run along the town walls.  
+~
+Shd 1
+Sector 0
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 0 0 23053 0 0
+~
+~
+Door 1 0 0 23040 0 0
+~
+~
+Door 2 0 0 22981 0 0
+~
+~
+Door 3 0 0 23036 0 0
+~
+~
+End
+
+#23026
+Name West Main Street~
+Descr
+You are on an old cobold road.  There are many people walking up and down
+this street.  This is probably the busiest road in the town and most of the
+businesses are set up here.  At least the legal businesses.  
+~
+Sector 0
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 0 0 0 23027 0 0
+~
+~
+Door 1 0 0 22980 0 0
+~
+~
+Door 3 0 0 23056 0 0
+~
+~
+End
+
+#23027
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 0 0 0 23028 0 0
+~
+~
+Door 2 0 0 23026 0 0
+~
+~
+End
+
+#23028
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 0 0 23029 0 0
+~
+~
+Door 2 0 0 23027 0 0
+~
+~
+End
+
+#23029
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Door 0 0 0 23030 0 0
+~
+~
+Door 2 0 0 23028 0 0
+~
+~
+End
+
+#23030
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Door 0 0 0 23031 0 0
+~
+~
+Door 2 0 0 23029 0 0
+~
+~
+End
+
+#23031
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 0 0 0 23032 0 0
+~
+~
+Door 2 0 0 23030 0 0
+~
+~
+End
+
+#23032
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22959 4 100
+Reset O 22959 8 5
+Reset O 22969 25 2
+Door 1 0 0 23033 0 0
+~
+~
+Door 2 0 0 23031 0 0
+~
+~
+End
+
+#23033
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 1 0 0 23034 0 0
+~
+~
+Door 2 0 0 23037 0 0
+~
+~
+Door 3 0 0 23032 0 0
+~
+~
+End
+
+#23034
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22961 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 1 0 0 23035 0 0
+~
+~
+Door 3 0 0 23033 0 0
+~
+~
+End
+
+#23035
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 1 0 0 23036 0 0
+~
+~
+Door 2 3 0 23009 30 30
+~
+Back Door~
+Door 3 0 0 23034 0 0
+~
+~
+End
+
+#23036
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 1 0 0 23025 0 0
+~
+~
+Door 3 0 0 23035 0 0
+~
+~
+End
+
+#23037
+Name A Narrow Passageway~
+Descr
+You stand in a narrow north-south passageway.  You can see a store to the
+south, and more street to the north.  
+~
+Shd 1
+Sector 0
+Door 0 0 0 23033 0 0
+~
+~
+Door 2 3 0 23038 50 50
+~
+Steel Door~
+End
+
+#23038
+Name Black Market Magic Supplies~
+Descr
+You stand in a black market magic supplies store, where it is possible to
+purchase some things the rest of the world perhaps hasn't even seen before. 
+A powerful dark wizard waits here to help you...  
+~
+Flags 4
+Sector 0
+Reset M 23038 1 100
+Reset O 23038 -1 100
+Reset O 1015 -1 100
+Reset O 8404 -1 100
+Reset O 1013 -1 100
+Reset O 14033 -1 100
+Reset O 22955 -1 10
+Door 0 3 0 23037 50 50
+~
+Steel Door~
+End
+
+#23039
+Name East Main Street~
+Descr
+You are on an old cobold road.  This is the busiest street in the whole
+town, due to all the businesses who open here.  As you try to walk down the
+street you get nudged and pushed and sometimes someone throws a punch at
+you.  To the west you can barely make out a large fountain that symbolizes
+the town square.  To the north of you is a back alley, probably full of all
+types of scum.  
+~
+Sector 0
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 0 0 0 23048 0 0
+~
+~
+Door 1 0 0 23055 0 0
+~
+~
+Door 3 0 0 22971 0 0
+~
+~
+End
+
+#23040
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 1 0 0 23041 0 0
+~
+~
+Door 3 0 0 23025 0 0
+~
+~
+End
+
+#23041
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Sector 0
+Door 1 0 0 23042 0 0
+~
+~
+Door 3 0 0 23040 0 0
+~
+~
+End
+
+#23042
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 1 0 0 23043 0 0
+~
+~
+Door 2 3 0 23051 30 30
+~
+Small Wooden Door~
+Door 3 0 0 23041 0 0
+~
+~
+End
+
+#23043
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22961 10 100
+Reset O 22952 25 100
+Reset M 22962 10 100
+Reset O 22952 25 100
+Door 1 0 0 23044 0 0
+~
+~
+Door 3 0 0 23042 0 0
+~
+~
+End
+
+#23044
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22959 4 100
+Door 2 0 0 23045 0 0
+~
+~
+Door 3 0 0 23043 0 0
+~
+~
+End
+
+#23045
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 0 0 0 23044 0 0
+~
+~
+Door 2 0 0 23046 0 0
+~
+~
+End
+
+#23046
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22954 10 100
+Reset O 14583 21 100
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 0 0 0 23045 0 0
+~
+~
+Door 2 0 0 23047 0 0
+~
+~
+End
+
+#23047
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Reset M 22981 10 100
+Reset O 22981 12 100
+Reset M 22963 10 100
+Reset O 22952 25 100
+Reset M 22961 10 100
+Reset O 22952 25 100
+Door 0 0 0 23046 0 0
+~
+~
+Door 2 0 0 23048 0 0
+~
+~
+End
+
+#23048
+Name A Back Alley~
+Descr
+This is a back alley that runs along the town walls.  There is trash all
+over the street, looks like no one cleans up back here.  You can see a few
+slaves hiding from the slavedrivers and trying to look busy.  
+~
+Shd 1
+Sector 0
+Door 0 0 0 23047 0 0
+~
+~
+Door 2 0 0 23039 0 0
+~
+~
+End
+
+#23049
+Name Black Fang Road~
+Descr
+You are on an old dirt road.  It's beyond you how it got in the sky. 
+This is one of the busiest roads in the town and you have to work to avoid
+getting bumped into all the time.  To the north you can make out a large
+fountain and the silhouette of Dark Smoke, that must be the town square.  To
+your west is a large house, whoever owns it must be very wealthy.  
+~
+Shd 1
+Sector 0
+Reset M 22968 10 100
+Reset O 22952 25 100
+Door 0 0 0 22982 0 0
+~
+~
+Door 2 0 0 23054 0 0
+~
+~
+Door 3 3 0 23050 30 30
+~
+Large Oak Door~
+End
+
+#23050
+Name The Slavedriver's House~
+Descr
+The Slave-Driver's house is quite large and filled with all sorts of
+expensive looking items.  From the looks of it, the Slave-Driver is very
+wealthy.  Hmm....  This guy's got it all, a job he enjoys and gets rich
+doing.  
+~
+Flags 4
+Sector 0
+Reset M 23050 1 100
+Reset O 5016 21 100
+Door 1 3 0 23049 30 30
+~
+Large Oak Door~
+End
+
+#23051
+Name Ruffian's Hangout~
+Descr
+This is a small hangout for the town ruffians.  It's pretty much a big
+mess with beer cans and whiskey bottles strewn about.  There's also trash
+and loose papers all over the floor.  All around are tough looking dragons,
+it reminds you of the gangs in the big cities.  
+~
+Flags 4
+Sector 0
+Reset M 23051 3 100
+Door 0 3 0 23042 30 30
+~
+Small Wooden Door~
+Door 2 0 0 23052 0 0
+~
+~
+End
+
+#23052
+Name The Underlord's Back Room~
+Descr
+This is a richly done room in the back of a hangout.  The room is covered
+in expensive looking pictures and in near the back wall is a desk outlined
+in gold.  Behind the desk is a large leather chair where the Underlord sits
+and does most of his business.  On each side of the chair stand two large
+dragon guards.  
+~
+Flags 4
+Sector 0
+Reset M 23049 2 100
+Reset M 23049 2 100
+Reset M 23052 1 100
+Reset O 23052 2 66
+Reset O 3208 21 5
+Door 0 0 0 23051 0 0
+~
+~
+End
+
+#23053
+Name North Gate~
+Descr
+This is the gate out of Ophidia.  It has been sealed off so no one may
+pass.  You've heard stories of whats on the other side, terrible creatures
+that will destroy you on sight.  You're kind of glad the entrance is sealed
+off, it makes you feel safer.  
+~
+Door 2 0 0 23025 0 0
+~
+~
+Door 5 259 0 23057 30 30
+~
+Stoneslab~
+End
+
+#23054
+Name South Gate~
+Descr
+This is the gate out of Ophidia.  It has been sealed off so no one may
+pass.  You've heard stories of whats on the other side, terrible creatures
+that will destroy you on sight.  You're kind of glad the entrance is sealed
+off, it makes you feel safer.  
+~
+Sector 0
+Door 0 0 0 23049 0 0
+~
+~
+End
+
+#23055
+Name East Gate~
+Descr
+This is the gate out of Ophidia.  It has been sealed off so no one may
+pass.  You've heard stories of whats on the other side, terrible creatures
+that will destroy you on sight.  You're kind of glad the entrance is sealed
+off, it makes you feel safer.  
+~
+Sector 0
+Door 3 0 0 23039 0 0
+~
+~
+End
+
+#23056
+Name West Gate~
+Descr
+This is the gate out of Ophidia.  It has been sealed off so no one may
+pass.  You've heard stories of whats on the other side, terrible creatures
+that will destroy you on sight.  You're kind of glad the entrance is sealed
+off, it makes you feel safer.  
+~
+Door 1 0 0 23026 0 0
+~
+~
+End
+
+#23057
+Name Secret Passage out of the Town~
+Descr
+This is a secret passage out of the town, you've heard terrible stories
+from out there.  Maybe you should go back...  
+~
+Sector 0
+Door 0 0 0 23058 0 0
+~
+~
+Door 4 259 0 23053 30 30
+~
+Stoneslab~
+End
+
+#23058
+Name Secret Passage out of the Town~
+Descr
+This is a secret passage out of the town, the farther you go the more
+nervous you feel.  You should definately go back.  
+~
+Sector 0
+Door 0 0 0 23059 0 0
+~
+~
+Door 2 0 0 23057 0 0
+~
+~
+End
+
+#23059
+Name Secret Passage out of the Town~
+Descr
+There is a sign here that reads, "GO BACK!!!  CONTINUE AND DIE!!!  HE
+WILL DESTROY YOU!!!!!!!"  
+~
+Sector 0
+Door 2 0 0 23058 0 0
+~
+~
+Door 4 3 0 23060 30 30
+~
+Black Runed Door~
+End
+
+#23060
+Name Outside the Town~
+Descr
+You are now outside the town.  As you look at the large demon here you
+realize that the dragons were a front.  This is a demon town, and that's why
+you saw so many of them walking around.  This is a town of ultimate evil,
+and this could be the end of you right here.  
+~
+Sector 0
+Reset M 23060 1 100
+Reset O 23065 -1 65
+Door 4 3 0 23061 30 30
+~
+golddoor~
+Door 5 3 0 23059 30 30
+~
+blackdoor~
+End
+
+#23061
+Name The Treasure Room~
+Descr
+Well, since you're not dead you must have defeated the demon.  All that
+is here is yours to take, but be quick for another demon may come once word
+of the slaughtered one is reported.  
+~
+Sector 0
+Reset O 23061 -5 100
+Reset O 23064 -3 5
+Reset O 23063 -3 7
+Reset O 23051 -3 10
+Reset O 22981 -3 15
+Reset O 22955 -3 100
+Reset O 23023 -3 17
+Reset O 1017 -3 60
+Reset O 237 -3 80
+Door 5 3 0 23060 30 30
+~
+Gold Runed Door~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,371 @@
+#AREADATA 
+Name Evil Mage's Cult~
+Repop [1;30mAn aura of magic fills the air. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 9150 9199
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#9150
+Name spirit maziral~
+Short spirit of Maziral~
+Long 
+The spirit of Maziral is here preparing your education.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 258
+Affect_By 50331784
+Money 300
+Level 400
+Sex 2
+MobType 21
+Hp 20
+Guard 0
+ASklTaught 0 22
+ASklTaught 1 137
+ASklTaught 2 87
+ASklTaught 3 153
+ASklTaught 4 13
+ASklTaught 5 139
+ASklTaught 6 115
+ASklTaught 7 93
+ASklTaught 8 17
+ASklTaught 9 138
+End
+
+#9151
+Name statue mage~
+Short a statue of maziral~
+Long 
+A statue of the great sorcerer Maziral stands here radiating power.
+~
+Descr
+~
+AMax 1
+NHeight 90
+ActBits 2
+Affect_By 50332296
+Level 500
+Sex 1
+MobType 15
+Hp 30
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#9150
+Name token mage's sect~
+Short a Mage's cult token~
+Descr
+A Mage's cult token is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 5000
+End
+
+#9151
+Name fountain~
+Short mage's fountain~
+Descr
+A magical fountain is floating about the room.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#9152
+Name sign necromancer~
+Short sign~
+Descr
+A sign explaining entrance to the Necromancer cult is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the House of Maziral. Here are the things you will need in order
+
+to join our sect:
+
+ 
+
+You must first have obtained a token from an area seller.
+
+If you have not yet obtained level 30, you may give that token to the statue
+
+for membership into our sect.
+
+ 
+
+Once you are a member, you may say "enter sect" for safe passage into our halls.
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#9150
+Name A Magical Boulder~
+Descr
+A boulder of magic is alive with a bright glow. Many adventurers have
+attempted to climb the great boulder, but only the greatest wizards of the
+land have been able to make it to the top. 
+~
+Door 0 0 0 9151 0 0
+~
+~
+Door 5 0 0 9165 0 0
+~
+~
+End
+
+#9151
+Name Before the Cult of the Necromancer~
+Descr
+A huge statue of Maziral, the ancient sorcerer, stands before you. Made
+from the finest stone anywhere this appears to be the strongest statue
+you've ever seen. I wonder what kind of damage this statue could do if it
+were alive?  Wait a minute, it IS alive!  
+~
+Flags 16384
+Reset M 9151 1 100
+Reset O 9152 -5 100
+Door 2 0 0 9150 0 0
+~
+~
+End
+
+#9152
+Name Before the Tower of Maziral~
+Descr
+Could this be the great tower of magic you have heard stories about?  For
+some reason you've never seen it before; could it only be visible to
+members?  Perhaps you should take a closer look. 
+~
+Flags 1156
+Sector 0
+Door 0 0 0 9153 0 0
+~
+~
+Door 2 0 0 9151 0 0
+~
+~
+End
+
+#9153
+Name Base of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Sector 0
+Reset O 9102 -5 100
+Door 2 0 0 9152 0 0
+~
+~
+Door 4 0 0 9154 0 0
+~
+~
+Door 5 0 0 9155 0 0
+~
+~
+End
+
+#9154
+Name Second Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Sector 0
+Door 1 23 0 9163 99 99
+~
+door~
+Door 3 23 0 9162 99 99
+~
+door~
+Door 4 0 0 9156 0 0
+~
+~
+Door 5 0 0 9153 0 0
+~
+~
+End
+
+#9155
+Name Marizal's Private Study~
+Descr
+This room houses the most powerful spells in all the land. Stacks and
+stacks of books lay on the floor as this room appears to have been the study
+hall for the most powerful mages of all time. Perhaps you should take some
+time to read one of these works. 
+~
+Flags 3163268
+Sector 0
+Reset O 101 -5 100
+Door 4 0 0 9153 0 0
+~
+~
+End
+
+#9156
+Name Third Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Sector 0
+Door 4 0 0 9157 0 0
+~
+~
+Door 5 0 0 9154 0 0
+~
+~
+End
+
+#9157
+Name Fourth Floor of the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Sector 0
+Door 1 23 0 9161 99 99
+~
+door~
+Door 3 23 0 9160 99 99
+~
+door~
+Door 4 0 0 9158 0 0
+~
+~
+Door 5 0 0 9156 0 0
+~
+~
+End
+
+#9158
+Name Atop the Tower~
+Descr
+This tower is built completely of magic!  You feel a strange bit of
+energy flowing from the walls of the tower almost as if it were alive. 
+~
+Flags 1156
+Sector 0
+Door 0 0 0 9159 0 0
+~
+~
+Door 5 0 0 9157 0 0
+~
+~
+End
+
+#9159
+Name A Room of Pure Magic~
+Descr
+The spirit of the Maziral floats about freely in this room of pure magic.
+Her sole purpose for returning to this land is to educate you in sorcerery.
+Should you ever wish to anger him and leave the sect he has built, say
+"leave sect now" and he will be happy to cast you from these halls forever. 
+~
+Flags 1156
+Sector 0
+Reset M 9150 1 100
+Door 2 0 0 9158 0 0
+~
+~
+End
+
+#9160
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 1 0 0 9157 0 0
+~
+~
+End
+
+#9161
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 3 0 0 9157 0 0
+~
+~
+End
+
+#9162
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 1 0 0 9154 0 0
+~
+~
+End
+
+#9163
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 3 0 0 9154 0 0
+~
+~
+End
+
+#9165
+Name A Magical Boulder~
+Descr
+A boulder of magic is alive with a bright glow. Many adventurers have
+attempted to climb the great boulder, but only the greatest wizards of the
+land have been able to make it to the top. 
+~
+Door 0 0 0 70226 0 0
+~
+~
+Door 4 0 0 9150 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

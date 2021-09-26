@@ -1,0 +1,1475 @@
+#AREADATA 
+Name Larick's Area~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m [0;36mContact an Admin to have this changed when you come up with a messege![37;0m
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Larick~
+VNUMs 10200 10299
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#10200
+Name gareth ranger~
+Short gareth~
+Long 
+Gareth, the skilled ranger, creeps through the forest looking for his prey's tracks.
+~
+Descr
+~
+AMax 1
+NHeight 75
+ActBits 1073741840
+Affect_By 16842784
+Alignment 500
+Money 200
+Level 75
+Sex 1
+MobType 0
+Hp 15
+Guard 1
+Spec spec_warrior
+End
+
+#10201
+Name fur trapper~
+Short a burly fur trapper~
+Long 
+A burly fur trapper walks through the woods checking his snares.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 65536
+Money 37
+Level 20
+Sex 1
+MobType 0
+Hp 20
+Guard 0
+End
+
+#10202
+Name drow conjurer~
+Short a drow conjurer~
+Long 
+A drow conjurer is looking through the undergrowth frantically.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 16
+Affect_By 680
+Alignment 600
+Money 200
+Level 100
+Sex 1
+MobType 1
+Hp 20
+Guard 0
+End
+
+#10203
+Name beaver ~
+Short a furry beaver~
+Long 
+A furry beaver scurries around looking for suitable material for a dam.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 65536
+Level 10
+Sex 1
+MobType 7
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#10200
+Name oak tree~
+Short a magnificent oak tree~
+Descr
+A magnificent oak tree sprouts from the earth, its branches jutting far into the sky.
+[0;36m~
+Type 33
+Extra 268435456
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 10000
+Cost 0
+End
+
+#10201
+Name pentagram~
+Short a giant pentagram~
+Descr
+A giant pentagram made of smooth, well polished stone is positioned in the center of the room.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 6 0 10 10 50 50 11 0
+Weight 1000
+Cost 0
+Affect 13 10 1 0 0
+Affect 19 2 1 0 0
+End
+
+#10202
+Name copper key~
+Short a [0m[31mc[0m[33mopp[0m[31me[0m[33mr[0m key~
+Descr
+A copper key lies here for the taking
+[0;36m~
+Type 18
+Extra 268435456
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 6 0 2 0 0 25 25 0 5
+Weight 0
+Cost 0
+Affect 13 10 1 0 0
+End
+
+#10203
+Name shimmering cloak~
+Short a crimson fountain~
+Descr
+A [1m[31mcr[0m[31mi[1m[31mms[0m[31mo[1m[31mn[0m fountain reflects images of strange far off places.
+[0;36m~
+Type 9
+Extra 805306433
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 3 2 2 0 0 40 40 0 0
+Weight 8
+Cost 1000
+End
+
+#10205
+Name crevasse~
+Short a crevasse~
+Descr
+A long thing crevasse splits an otherwise unbroken glacier in half.
+[0;36m~
+Type 12
+Extra 268435456
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 10287 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#10200
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10201 0 0
+~
+~
+End
+
+#10201
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 0 0 0 10202 0 0
+~
+~
+Door 3 0 0 10200 0 0
+~
+~
+End
+
+#10202
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10203 0 0
+~
+~
+Door 2 0 0 10201 0 0
+~
+~
+End
+
+#10203
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 0 0 0 10204 0 0
+~
+~
+Door 3 0 0 10202 0 0
+~
+~
+End
+
+#10204
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10205 0 0
+~
+~
+Door 2 0 0 10203 0 0
+~
+~
+Door 4 275 0 10288 30 30
+~
+~
+End
+
+#10205
+Name A Winding Forest Path~
+Descr
+~
+Sector 3
+Door 0 0 0 10206 0 0
+~
+~
+Door 3 0 0 10204 0 0
+~
+~
+End
+
+#10206
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10207 0 0
+~
+~
+Door 2 0 0 10205 0 0
+~
+~
+End
+
+#10207
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 0 0 0 10208 0 0
+~
+~
+Door 3 0 0 10206 0 0
+~
+~
+End
+
+#10208
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10209 0 0
+~
+~
+Door 2 0 0 10207 0 0
+~
+~
+End
+
+#10209
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10210 0 0
+~
+~
+Door 3 0 0 10208 0 0
+~
+~
+End
+
+#10210
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 2 0 0 10211 0 0
+~
+~
+Door 3 0 0 10209 0 0
+~
+~
+End
+
+#10211
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 0 0 0 10210 0 0
+~
+~
+Door 1 0 0 10212 0 0
+~
+~
+End
+
+#10212
+Name A Forest Path~
+Descr
+~
+Sector 3
+Door 1 0 0 10213 0 0
+~
+~
+Door 3 0 0 10211 0 0
+~
+~
+End
+
+#10213
+Name A Forest Clearing~
+Descr
+~
+Sector 3
+Door 0 0 0 10214 0 0
+~
+~
+Door 3 0 0 10212 0 0
+~
+~
+End
+
+#10214
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10217 0 0
+~
+~
+Door 1 0 0 10215 0 0
+~
+~
+Door 2 0 0 10213 0 0
+~
+~
+End
+
+#10215
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10216 0 0
+~
+~
+Door 1 0 0 10221 0 0
+~
+~
+Door 2 0 0 10239 0 0
+~
+~
+Door 3 0 0 10214 0 0
+~
+~
+End
+
+#10216
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Reset O 10200 -5 100
+Door 0 0 0 10218 0 0
+~
+~
+Door 1 0 0 10220 0 0
+~
+~
+Door 2 0 0 10215 0 0
+~
+~
+Door 3 0 0 10217 0 0
+~
+~
+End
+
+#10217
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 1 0 0 10216 0 0
+~
+~
+Door 2 0 0 10214 0 0
+~
+~
+End
+
+#10218
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10247 0 0
+~
+~
+Door 1 0 0 10219 0 0
+~
+~
+Door 2 0 0 10216 0 0
+~
+~
+End
+
+#10219
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 2 0 0 10220 0 0
+~
+~
+Door 3 0 0 10218 0 0
+~
+~
+End
+
+#10220
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Reset M 10200 1 100
+Door 0 0 0 10219 0 0
+~
+~
+Door 1 0 0 10223 0 0
+~
+~
+Door 2 0 0 10221 0 0
+~
+~
+Door 3 0 0 10216 0 0
+~
+~
+End
+
+#10221
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10220 0 0
+~
+~
+Door 1 0 0 10222 0 0
+~
+~
+Door 2 0 0 10227 0 0
+~
+~
+Door 3 0 0 10215 0 0
+~
+~
+End
+
+#10222
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10223 0 0
+~
+~
+Door 2 0 0 10230 0 0
+~
+~
+Door 3 0 0 10221 0 0
+~
+~
+End
+
+#10223
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10224 0 0
+~
+~
+Door 2 0 0 10222 0 0
+~
+~
+Door 3 0 0 10220 0 0
+~
+~
+End
+
+#10224
+Name ~
+Descr
+~
+Sector 4
+Door 0 0 0 10225 0 0
+~
+~
+Door 2 0 0 10223 0 0
+~
+~
+End
+
+#10225
+Name ~
+Descr
+~
+Sector 4
+Door 0 0 0 10226 0 0
+~
+~
+Door 2 0 0 10224 0 0
+~
+~
+End
+
+#10226
+Name ~
+Descr
+~
+Sector 4
+Door 0 0 0 10238 0 0
+~
+~
+Door 2 0 0 10225 0 0
+~
+~
+End
+
+#10227
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10221 0 0
+~
+~
+Door 1 0 0 10230 0 0
+~
+~
+Door 2 0 0 10228 0 0
+~
+~
+Door 3 0 0 10239 0 0
+~
+~
+End
+
+#10228
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10227 0 0
+~
+~
+Door 1 0 0 10229 0 0
+~
+~
+Door 2 0 0 10240 0 0
+~
+~
+End
+
+#10229
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10230 0 0
+~
+~
+Door 3 0 0 10228 0 0
+~
+~
+End
+
+#10230
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10222 0 0
+~
+~
+Door 1 0 0 10231 0 0
+~
+~
+Door 2 0 0 10229 0 0
+~
+~
+Door 3 0 0 10227 0 0
+~
+~
+End
+
+#10231
+Name A Hillside Path~
+Descr
+~
+Sector 4
+Door 1 0 0 10232 0 0
+~
+~
+Door 3 0 0 10230 0 0
+~
+~
+End
+
+#10232
+Name A Hillside Path~
+Descr
+~
+Sector 4
+Door 1 0 0 10233 0 0
+~
+~
+Door 2 0 0 10234 0 0
+~
+~
+Door 3 0 0 10231 0 0
+~
+~
+End
+
+#10233
+Name A Hillside Path~
+Descr
+~
+Sector 4
+Door 1 0 0 10236 0 0
+~
+~
+Door 3 0 0 10232 0 0
+~
+~
+End
+
+#10234
+Name The Base of a Mountain~
+Descr
+~
+Sector 4
+Door 0 0 0 10232 0 0
+~
+~
+Door 2 0 0 10235 0 0
+~
+~
+End
+
+#10235
+Name ~
+Descr
+~
+Sector 5
+Door 0 0 0 10234 0 0
+~
+~
+Door 1 0 0 10242 0 0
+~
+~
+End
+
+#10236
+Name ~
+Descr
+~
+Sector 4
+Door 0 0 0 10237 0 0
+~
+~
+Door 3 0 0 10233 0 0
+~
+~
+End
+
+#10237
+Name ~
+Descr
+~
+Sector 4
+Door 1 0 0 10251 0 0
+~
+~
+Door 2 0 0 10236 0 0
+~
+~
+End
+
+#10238
+Name ~
+Descr
+~
+Sector 4
+Door 1 0 0 10246 0 0
+~
+~
+Door 2 0 0 10226 0 0
+~
+~
+End
+
+#10239
+Name A Dark Forest~
+Descr
+~
+Sector 3
+Door 0 0 0 10215 0 0
+~
+~
+Door 1 0 0 10227 0 0
+~
+~
+End
+
+#10240
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10228 0 0
+~
+~
+Door 2 0 0 10244 0 0
+~
+~
+Door 3 259 0 10241 20 20
+~
+~
+End
+
+#10241
+Name A Spacious Cave~
+Descr
+~
+Flags 2097157
+Sector 0
+Reset O 10201 -5 100
+Door 0 5 10202 10252 30 30
+~
+reinforced wood door~
+Door 1 3 0 10240 20 20
+~
+~
+End
+
+#10242
+Name ~
+Descr
+~
+Sector 5
+Door 2 0 0 10243 0 0
+~
+~
+Door 3 0 0 10235 0 0
+~
+~
+End
+
+#10243
+Name ~
+Descr
+~
+Sector 5
+Door 0 0 0 10242 0 0
+~
+~
+Door 1 0 0 10275 0 0
+~
+~
+End
+
+#10244
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10240 0 0
+~
+~
+Door 1 0 0 10253 0 0
+~
+~
+Door 2 0 0 10255 0 0
+~
+~
+Door 3 0 0 10245 0 0
+~
+~
+End
+
+#10245
+Name ~
+Descr
+~
+Sector 3
+Reset M 10202 1 100
+Reset O 10202 10202 10
+Door 1 0 0 10244 0 0
+~
+~
+Door 2 0 0 10256 0 0
+~
+~
+Door 3 0 0 10250 0 0
+~
+~
+End
+
+#10246
+Name ~
+Descr
+~
+Sector 4
+Door 3 0 0 10238 0 0
+~
+~
+End
+
+#10247
+Name ~
+Descr
+~
+Sector 3
+Door 2 0 0 10218 0 0
+~
+~
+Door 3 0 0 10248 0 0
+~
+~
+End
+
+#10248
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10249 0 0
+~
+~
+Door 1 0 0 10247 0 0
+~
+~
+End
+
+#10249
+Name ~
+Descr
+~
+Sector 3
+Door 2 0 0 10248 0 0
+~
+~
+Door 3 0 0 10264 0 0
+~
+~
+End
+
+#10250
+Name ~
+Descr
+~
+Sector 3
+Door 1 0 0 10245 0 0
+~
+~
+End
+
+#10251
+Name ~
+Descr
+~
+Sector 4
+Door 3 0 0 10237 0 0
+~
+~
+End
+
+#10252
+Name A Sleeping Quarters~
+Descr
+~
+Flags 5
+Sector 0
+Door 2 7 10202 10241 30 30
+~
+reinforced wood door~
+End
+
+#10253
+Name The River Nakka~
+Descr
+~
+Sector 6
+Door 2 0 0 10254 0 0
+~
+~
+Door 3 0 0 10244 0 0
+~
+~
+End
+
+#10254
+Name The River Nakka~
+Descr
+~
+Sector 6
+Door 0 0 0 10253 0 0
+~
+~
+Door 1 0 0 10257 0 0
+~
+~
+Door 2 0 0 10261 0 0
+~
+~
+Door 3 0 0 10255 0 0
+~
+~
+End
+
+#10255
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10244 0 0
+~
+~
+Door 1 0 0 10254 0 0
+~
+~
+Door 2 0 0 10259 0 0
+~
+~
+Door 3 0 0 10256 0 0
+~
+~
+End
+
+#10256
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10245 0 0
+~
+~
+Door 1 0 0 10255 0 0
+~
+~
+Door 2 0 0 10260 0 0
+~
+~
+End
+
+#10257
+Name The River Nakka~
+Descr
+~
+Sector 6
+Door 2 0 0 10258 0 0
+~
+~
+Door 3 0 0 10254 0 0
+~
+~
+End
+
+#10258
+Name The River Nakka~
+Descr
+~
+Sector 6
+Door 0 0 0 10257 0 0
+~
+~
+Door 2 0 0 10262 0 0
+~
+~
+Door 3 0 0 10261 0 0
+~
+~
+End
+
+#10259
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10255 0 0
+~
+~
+Door 1 0 0 10261 0 0
+~
+~
+Door 2 0 0 10267 0 0
+~
+~
+Door 3 0 0 10260 0 0
+~
+~
+End
+
+#10260
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10256 0 0
+~
+~
+Door 1 0 0 10259 0 0
+~
+~
+Door 2 0 0 10266 0 0
+~
+~
+End
+
+#10261
+Name Along a River~
+Descr
+~
+Sector 3
+Reset M 10203 1 100
+Reset M 10201 1 100
+Door 0 0 0 10254 0 0
+~
+~
+Door 1 0 0 10258 0 0
+~
+~
+Door 2 0 0 10268 0 0
+~
+~
+Door 3 0 0 10259 0 0
+~
+~
+End
+
+#10262
+Name ~
+Descr
+~
+Sector 6
+Door 0 0 0 10258 0 0
+~
+~
+Door 2 0 0 10269 0 0
+~
+~
+Door 3 0 0 10268 0 0
+~
+~
+End
+
+#10264
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10265 0 0
+~
+~
+Door 1 0 0 10249 0 0
+~
+~
+End
+
+#10265
+Name ~
+Descr
+~
+Sector 3
+Door 2 0 0 10264 0 0
+~
+~
+End
+
+#10266
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10260 0 0
+~
+~
+Door 1 0 0 10267 0 0
+~
+~
+End
+
+#10267
+Name ~
+Descr
+~
+Sector 3
+Reset M 10203 1 100
+Door 0 0 0 10259 0 0
+~
+~
+Door 1 0 0 10268 0 0
+~
+~
+Door 2 0 0 10270 0 0
+~
+~
+Door 3 0 0 10266 0 0
+~
+~
+End
+
+#10268
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10261 0 0
+~
+~
+Door 1 0 0 10262 0 0
+~
+~
+Door 2 0 0 10271 0 0
+~
+~
+Door 3 0 0 10267 0 0
+~
+~
+End
+
+#10269
+Name ~
+Descr
+~
+Sector 6
+Door 0 0 0 10262 0 0
+~
+~
+Door 2 0 0 10273 0 0
+~
+~
+Door 3 0 0 10271 0 0
+~
+~
+End
+
+#10270
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10267 0 0
+~
+~
+Door 1 0 0 10271 0 0
+~
+~
+End
+
+#10271
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10268 0 0
+~
+~
+Door 1 0 0 10269 0 0
+~
+~
+Door 2 0 0 10272 0 0
+~
+~
+Door 3 0 0 10270 0 0
+~
+~
+End
+
+#10272
+Name ~
+Descr
+~
+Sector 3
+Door 0 0 0 10271 0 0
+~
+~
+Door 1 0 0 10273 0 0
+~
+~
+End
+
+#10273
+Name ~
+Descr
+~
+Sector 6
+Door 0 0 0 10269 0 0
+~
+~
+Door 1 0 0 10274 0 0
+~
+~
+Door 3 0 0 10272 0 0
+~
+~
+End
+
+#10274
+Name ~
+Descr
+~
+Sector 6
+Door 3 0 0 10273 0 0
+~
+~
+End
+
+#10275
+Name ~
+Descr
+~
+Sector 11
+Door 0 0 0 10276 0 0
+~
+~
+Door 1 0 0 10280 0 0
+~
+~
+Door 2 0 0 10277 0 0
+~
+~
+Door 3 0 0 10243 0 0
+~
+~
+End
+
+#10276
+Name ~
+Descr
+~
+Sector 11
+Door 2 0 0 10275 0 0
+~
+~
+End
+
+#10277
+Name ~
+Descr
+~
+Sector 11
+Door 0 0 0 10275 0 0
+~
+~
+Door 1 0 0 10278 0 0
+~
+~
+End
+
+#10278
+Name ~
+Descr
+~
+Sector 5
+Door 0 0 0 10280 0 0
+~
+~
+Door 1 0 0 10279 0 0
+~
+~
+Door 3 0 0 10277 0 0
+~
+~
+End
+
+#10279
+Name ~
+Descr
+~
+Sector 5
+Door 3 0 0 10278 0 0
+~
+~
+End
+
+#10280
+Name ~
+Descr
+~
+Sector 11
+Door 0 0 0 10281 0 0
+~
+~
+Door 2 0 0 10278 0 0
+~
+~
+Door 3 0 0 10275 0 0
+~
+~
+End
+
+#10281
+Name ~
+Descr
+~
+Sector 5
+Door 1 0 0 10282 0 0
+~
+~
+Door 2 0 0 10280 0 0
+~
+~
+End
+
+#10282
+Name ~
+Descr
+~
+Sector 5
+Door 0 0 0 10283 0 0
+~
+~
+Door 2 0 0 10284 0 0
+~
+~
+Door 3 0 0 10281 0 0
+~
+~
+End
+
+#10283
+Name ~
+Descr
+~
+Sector 5
+Door 2 0 0 10282 0 0
+~
+~
+Door 3 0 0 10285 0 0
+~
+~
+End
+
+#10284
+Name ~
+Descr
+~
+Sector 5
+Door 0 0 0 10282 0 0
+~
+~
+End
+
+#10285
+Name ~
+Descr
+~
+Sector 11
+Reset O 10205 -5 2
+Door 1 0 0 10283 0 0
+~
+~
+Door 5 259 0 10286 30 30
+~
+~
+End
+
+#10286
+Name ~
+Descr
+~
+Sector 13
+Door 4 0 0 10285 0 0
+~
+~
+Door 5 0 0 10287 0 0
+~
+~
+End
+
+#10287
+Name ~
+Descr
+~
+Door 4 0 0 10286 0 0
+~
+~
+End
+
+#10288
+Name ~
+Descr
+~
+Door 4 0 0 10289 0 0
+~
+~
+Door 5 275 0 10204 30 30
+~
+~
+End
+
+#10289
+Name ~
+Descr
+~
+Door 4 0 0 10290 0 0
+~
+~
+Door 5 0 0 10288 0 0
+~
+~
+End
+
+#10290
+Name ~
+Descr
+~
+Door 4 275 0 6584 30 30
+~
+~
+Door 5 0 0 10289 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

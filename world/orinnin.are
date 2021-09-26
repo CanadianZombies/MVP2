@@ -1,0 +1,1360 @@
+#AREADATA 
+Name The Eastern Road~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 50501 50700
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#50501
+Name bunny rabbit small~
+Short a bunny~
+Long 
+A small bunny rabbit hops along here, looking like target practice.
+~
+Descr
+This cute bunny looks like it could serve as target practice.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 1
+Level 1
+MobType 18
+Hp 20
+Guard 0
+End
+
+#50502
+Name hobbit small~
+Short a small hobbit~
+Long 
+A small hobbit stands here guarding the road from evil.
+~
+Descr
+This hobbit looks like he couldn't even stop a raid of bunnies into
+Xylar.  Perhaps that's why they put guards at the eastern gate as well.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 6
+Level 6
+Sex 1
+MobType 2
+Hp 20
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#50503
+Name deer~
+Short a deer~
+Long 
+A small deer hops along here, looking for grass to munch on.
+~
+Descr
+This deer looks pretty confused...  She doesn't even seem to care that
+you are standing here, looking at her.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 2
+Level 2
+Sex 2
+MobType 18
+Guard 0
+End
+
+#50504
+Name midget explorer man~
+Short a midget explorer~
+Long 
+A midget explorer wanders the roads here, looking for bunnies to kill.
+~
+Descr
+This little man looks quite buff for someone so small.  Perhaps you
+should consider the battle before fighting him.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+Sex 1
+MobType 0
+Guard 0
+End
+
+#50505
+Name champion wimp wimpazoid~
+Short the wimpazoid champion~
+Long 
+The wimpazoid champion warrior stands here, looking out at the hills.
+~
+Descr
+This wimp looks like the bravest of all.  He has almost what you would
+consider some muscle, and his eyes look like they have seen a bit of combat
+in his earlier days.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -100
+Money 29
+Level 29
+Sex 1
+MobType 0
+Hp 20010
+Guard 0
+Spec spec_warrior
+End
+
+#50506
+Name wimp wimpazoid male citizen~
+Short a male wimpazoid~
+Long 
+A male wimpazoid citizen stands here, walking around aimlessly.
+~
+Descr
+This guy looks like a big wimp...  You wonder how he even got the muscles
+he did, because of the fearful look in his eyes.  
+~
+AMax 4
+NHeight 0
+ActBits 33
+Money 24
+Level 24
+Sex 1
+MobType 0
+Hp 20010
+Guard 0
+End
+
+#50507
+Name wimp wimpazoid citizen woman female~
+Short a female wimpazoid~
+Long 
+A female wimpazoid stands here, dreaming of a tall, handsome warrior.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 33
+Money 33
+Level 33
+Sex 2
+MobType 0
+Hp 20010
+Guard 0
+End
+
+#50508
+Name princess sasha~
+Short Princess Sasha~
+Long 
+Princess Sasha stands here; her face flushed and looking exhausted.
+~
+Descr
+This moderately-good looking princess wears a short yet frilly skirt and
+no top.  Her good looking breasts and kind smile tell you of her
+innocence...  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Money 90
+Level 90
+Sex 2
+MobType 0
+Guard 0
+ASklTaught 0 16
+End
+
+#50509
+Name dummy king~
+Short a dummy king~
+Long 
+A dummy is slumped here, trying to draw attention from the real king.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 32
+Level 32
+MobType 27
+Hp 20
+Guard 0
+End
+
+#50510
+Name king wimpazoid wimpazoidius man~
+Short King Wimpazoid~
+Long 
+King Wimpazoid sits here in his throne, trembling.
+~
+Descr
+King Wimpazoid looks like his name sounds.  He begins to tremble and
+shake when he notices that you are looking at him.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 45
+Level 45
+Sex 1
+MobType 0
+Hp 20010
+Guard 0
+End
+
+#50511
+Name queen wimpazoid woman~
+Short Queen Wimpazoid~
+Long 
+Queen Wimpazoid sits here in her throne, grinning evilly.
+~
+Descr
+You see SOMETHING strange about her.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Alignment -500
+Money 44
+Level 44
+Sex 2
+MobType 0
+Hp 20010
+Guard 0
+Spec spec_warrior
+End
+
+#50512
+Name guard wimpazoid~
+Short a wimpazoid guard~
+Long 
+A guard wearing the uniform of the Wimpazoidius army stands here.
+~
+Descr
+This guard stands here trembling as you look at him..  What is that
+strange liquid running down his legs...?  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Money 33
+Level 33
+Sex 1
+MobType 0
+Hp 20010
+Guard 0
+End
+
+#50513
+Name goat~
+Short a goat~
+Long 
+A goat stands here, chewing on some grass between the rocks.
+~
+Descr
+What a plain goat.  Bah...  Target practice!  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Money 2
+Level 2
+Sex 1
+MobType 18
+Guard 0
+End
+
+#50514
+Name large cockroach~
+Short a large cockroach~
+Long 
+A large cockroach wanders around here, looking for corpses to wallow in.
+~
+Descr
+This ugly thing looks quite dangerous...  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 3
+Level 3
+MobType 18
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#50501
+Name Outside the Eastern Gate of Xylar~
+Descr
+You stand just outside the eastern gate of Xylar.  The air is cool and
+calm, yet a bit dry.  You can see the large eastern gate to the west, and a
+large road stretches out to the east of here.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 50514 30 30
+~
+(null)~
+Door 1 0 0 50502 30 30
+~
+(null)~
+Door 2 0 0 50521 0 0
+~
+~
+Door 3 0 0 1017 0 0
+~
+~
+End
+
+#50502
+Name The Road through the Eastern Lands~
+Descr
+This road is dusty and dry, yet there is still a feeling of life and
+nature in the air.  You feel quite safe from orc invasion or any form of
+attack here.  Beautiful fields and light forest surrounds the road to the
+north and south.  
+~
+Movemess
+(null)~
+Door 0 0 0 50513 30 30
+~
+(null)~
+Door 1 0 0 50503 30 30
+~
+(null)~
+Door 2 0 0 50520 30 30
+~
+(null)~
+Door 3 0 0 50501 30 30
+~
+(null)~
+End
+
+#50503
+Name The Road through the Eastern Lands~
+Descr
+You stand on a large dirt road, a ways east of Xylar.  Far to the west,
+you can make out the large gate of the city.  Peaceful fields and lightly
+forested areas surround the road on either side.  
+~
+Reset M 50502 1 100
+Reset O 236 21 67
+Reset O 224 5 88
+Movemess
+(null)~
+Door 0 0 0 50512 30 30
+~
+(null)~
+Door 1 0 0 50504 30 30
+~
+(null)~
+Door 2 0 0 50519 30 30
+~
+(null)~
+Door 3 0 0 50502 30 30
+~
+(null)~
+End
+
+#50504
+Name The Road through the Eastern Lands~
+Descr
+This road is dusty and dry, yet there is still a feeling of life and
+nature in the air.  You feel quite safe from orc invasion or any form of
+attack here.  Beautiful fields and light forest surrounds the road to the
+north and south.  
+~
+Movemess
+(null)~
+Door 0 0 0 50511 30 30
+~
+(null)~
+Door 1 0 0 50505 30 30
+~
+(null)~
+Door 2 0 0 50518 30 30
+~
+(null)~
+Door 3 0 0 50503 30 30
+~
+(null)~
+End
+
+#50505
+Name The Road through the Eastern Lands~
+Descr
+The road is straight and dull here.  You can see the large towers of
+Xylar far to the west, and you can see light forest and fields on either
+side of the road.  The road continues east and west here.  
+~
+Reset M 50514 2 100
+Reset M 50514 2 100
+Movemess
+(null)~
+Door 0 0 0 50510 30 30
+~
+(null)~
+Door 1 0 0 50506 30 30
+~
+(null)~
+Door 2 0 0 50517 30 30
+~
+(null)~
+Door 3 0 0 50504 30 30
+~
+(null)~
+End
+
+#50506
+Name The Road through the Eastern Lands~
+Descr
+You stand on a large dirt road, a ways east of Xylar.  Far to the west,
+you can make out the large gate of the city.  Peaceful fields and lightly
+forested areas surround the road on either side.  You can see a path leading
+south.  
+~
+Movemess
+(null)~
+Door 0 0 0 50509 30 30
+~
+(null)~
+Door 1 0 0 50507 30 30
+~
+(null)~
+Door 2 0 0 50516 30 30
+~
+(null)~
+Door 3 0 0 50505 30 30
+~
+(null)~
+End
+
+#50507
+Name The Road through the Eastern Lands~
+Descr
+This road is dusty and dry, yet there is still a feeling of life and
+nature in the air.  You feel quite safe from orc invasion or any form of
+attack here.  Beautiful fields and light forest surrounds the road to the
+north and south.  
+~
+Movemess
+(null)~
+Door 0 0 0 50508 30 30
+~
+(null)~
+Door 1 0 0 50542 30 30
+~
+(null)~
+Door 2 0 0 50515 30 30
+~
+(null)~
+Door 3 0 0 50506 30 30
+~
+(null)~
+End
+
+#50508
+Name Open Fields along the Road~
+Descr
+The grass is tall and dry, and a slight breeze creates a beautiful
+rippling effect as it blows along the ground.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 50543 30 30
+~
+door~
+Door 2 0 0 50507 30 30
+~
+(null)~
+Door 3 0 0 50509 30 30
+~
+(null)~
+End
+
+#50509
+Name A Light Forest bordering the Road~
+Descr
+You stand in a cool forest.  You can still see the road plainly to the
+south, and you can see a large open field through the trees to the west. 
+Sounds of birds and other creatures comes to you from all around.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 5814 0 0
+~
+~
+Door 1 0 0 50508 30 30
+~
+(null)~
+Door 2 0 0 50506 30 30
+~
+(null)~
+Door 3 0 0 50510 30 30
+~
+(null)~
+End
+
+#50510
+Name A Light Forest bordering the Road~
+Descr
+You stand in a light, coniferous forest.  You can make out huge towers in
+the distance to the west, and you realize that it must be the city of Xylar.
+You can see the road in plain view to the south.  
+~
+Sector 2
+Reset M 50504 2 100
+Reset O 35 10 88
+Reset O 236 21 14
+Reset M 50503 3 100
+Movemess
+(null)~
+Door 0 0 0 5811 0 0
+~
+~
+Door 1 0 0 50509 30 30
+~
+(null)~
+Door 2 0 0 50505 30 30
+~
+(null)~
+Door 3 0 0 50511 30 30
+~
+(null)~
+End
+
+#50511
+Name A Light Forest bordering the Road~
+Descr
+You stand in a cool forest.  You can still see the road plainly to the
+south, and you can see a large open field through the trees to the west. 
+Sounds of birds and other creatures comes to you from all around.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 5807 0 0
+~
+~
+Door 1 0 0 50510 30 30
+~
+(null)~
+Door 2 0 0 50504 30 30
+~
+(null)~
+Door 3 0 0 50512 30 30
+~
+(null)~
+End
+
+#50512
+Name Open Fields Along the Road~
+Descr
+The grass is tall and dry, and a slight breeze creates a beautiful
+rippling effect as it blows along the ground.  You can see the road in plain
+view to the south.  A small forest rises up to the east.  
+~
+Sector 2
+Reset M 50504 2 100
+Reset O 242 10 36
+Reset O 30 21 100
+Reset M 50501 5 100
+Reset M 50501 5 100
+Movemess
+(null)~
+Door 0 0 0 5803 0 0
+~
+~
+Door 1 0 0 50511 30 30
+~
+(null)~
+Door 2 0 0 50503 30 30
+~
+(null)~
+Door 3 0 0 50513 30 30
+~
+(null)~
+End
+
+#50513
+Name A Path Around Xylar~
+Descr
+The trees here are moderately dense, and you can see a lightly forested
+area, much like this area, to the north.  The air is fresh and smells of
+flowers and pine, and the travel is easy upon the soft soil underfoot.
+~
+Reset M 50501 5 100
+Movemess
+(null)~
+Door 0 0 0 4898 30 30
+~
+door~
+Door 1 0 0 50512 30 30
+~
+(null)~
+Door 2 0 0 50502 30 30
+~
+(null)~
+Door 3 0 0 50514 30 30
+~
+(null)~
+End
+
+#50514
+Name A Large Meadow next to Xylar~
+Descr
+The grass is tall and dry, and a slight breeze creates a beautiful
+rippling effect as it blows along the ground.  The large city of xylar rises
+up to the west, and you can see the gate to the southwest of here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 4890 0 0
+~
+~
+Door 1 0 0 50513 30 30
+~
+(null)~
+Door 2 0 0 50501 30 30
+~
+(null)~
+Door 3 0 0 4826 30 30
+The towering walls of Xylar rise up before you to the west.  
+~
+(null)~
+End
+
+#50515
+Name A Light Forest bordering the Road~
+Descr
+You stand in a cool forest.  You can still see the road plainly to the
+north, and you can see a large open field through the trees to the west. 
+Sounds of birds and other creatures comes to you from all around.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50507 30 30
+~
+(null)~
+Door 3 0 0 50516 30 30
+~
+(null)~
+End
+
+#50516
+Name A Path through the Light Forest~
+Descr
+You stand in a light, coniferous forest.  You can make out huge towers in
+the distance to the west, and you realize that it must be the city of Xylar.
+You can see the road in plain view to the north.  You can see a path leading
+south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50506 30 30
+~
+(null)~
+Door 1 0 0 50515 30 30
+~
+(null)~
+Door 3 0 0 50517 30 30
+~
+(null)~
+End
+
+#50517
+Name A Light Forest bordering the Road~
+Descr
+You stand in a cool forest.  You can still see the road plainly to the
+north, and you can see a large open field through the trees to the west. 
+Sounds of birds and other creatures comes to you from all around.  
+~
+Sector 2
+Reset M 50503 3 100
+Movemess
+(null)~
+Door 0 0 0 50505 30 30
+~
+(null)~
+Door 1 0 0 50516 30 30
+~
+(null)~
+Door 3 0 0 50518 30 30
+~
+(null)~
+End
+
+#50518
+Name Open Fields along the Road~
+Descr
+You stand in some large, open fields, just south of the eastern road. 
+You can see the two magnificent tower of Xylar rise far above you far in the
+distance to the west.  The scent of wildflowers makes you feel invigorated
+and full of life.  
+~
+Sector 2
+Reset M 50503 3 100
+Movemess
+(null)~
+Door 0 0 0 50504 30 30
+~
+(null)~
+Door 1 0 0 50517 30 30
+~
+(null)~
+Door 2 0 0 5848 0 0
+~
+~
+Door 3 0 0 50519 30 30
+~
+(null)~
+End
+
+#50519
+Name Open Fields along the Road~
+Descr
+The grass is tall and dry, and a slight breeze creates a beautiful
+rippling effect as it blows along the ground.  You can see the road in plain
+view to the north.  A small forested area can be seen far to the east.  
+~
+Sector 2
+Reset M 50501 5 100
+Movemess
+(null)~
+Door 0 0 0 50503 30 30
+~
+(null)~
+Door 1 0 0 50518 30 30
+~
+(null)~
+Door 2 0 0 4877 0 0
+~
+~
+Door 3 0 0 50520 30 30
+~
+(null)~
+End
+
+#50520
+Name A Path Around Xylar~
+Descr
+The grass is tall and dry, and a slight breeze creates a beautiful
+rippling effect as it blows along the ground.  You can see the road just to
+the north of here, and the gate of Xylar to the north and west.  
+~
+Movemess
+(null)~
+Door 0 0 0 50502 30 30
+~
+(null)~
+Door 1 0 0 50519 30 30
+~
+(null)~
+Door 2 0 0 4848 0 0
+~
+~
+Door 3 0 0 50521 30 30
+~
+(null)~
+End
+
+#50521
+Name Open Fields next to Xylar~
+Descr
+The large city walls of Xylar rise up to the east, and you can see the
+western highway in the distance to the south.  The grasses underfoot look
+green and healthy, and everything seems full of life and energy.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50501 0 0
+~
+~
+Door 1 0 0 50520 30 30
+~
+(null)~
+Door 2 0 0 4847 0 0
+~
+~
+Door 3 0 0 4845 30 30
+The huge walls of Xylar block your way to the west.  
+~
+(null)~
+End
+
+#50522
+Name A Path up a Hill~
+Descr
+You stand on a rocky path that leads up a hill.  To the north you can see
+some light forest, and far in the distance to the southeast you can see what
+looks like a small castle atop a mountain.  
+~
+Movemess
+(null)~
+Door 0 0 0 23406 0 0
+~
+~
+Door 2 0 0 50523 30 30
+~
+(null)~
+End
+
+#50523
+Name A Path up a Small Mountain~
+Descr
+This small path climbs up the side of a small mountain.  To the east you
+can make out some strange gates and a tiny little castle.  You can make out
+the forest and road to the northwest, and you can see the two huge towers of
+Xylar in the distance far to the west.  
+~
+Flags 2
+Reset M 50513 1 100
+Movemess
+(null)~
+Door 0 0 0 50522 30 30
+~
+(null)~
+Door 1 0 0 50524 30 30
+~
+(null)~
+End
+
+#50524
+Name Outside a Small Castle~
+Descr
+You stand just outside a small castle, built upon a small mountain.  The
+path continues down the mountain to the west, and the castle gate is located
+to the south.  The castle gate doesn't look like it has been through many
+conflicts.  
+~
+Movemess
+(null)~
+Door 2 3 0 50525 30 30
+You see the castle gate.  
+~
+gate~
+Door 3 0 0 50523 30 30
+~
+(null)~
+End
+
+#50525
+Name Inside the Foyer of Castle Wimpazoidius~
+Descr
+You stand just inside the foyer of a small castle.  You can see the gate
+to the north and the main hallway, which runs east-west, to the south of
+here.  The smell of dried fruits hangs in the air.  
+~
+Flags 6
+Sector 0
+Reset M 50512 2 100
+Reset O 30 21 100
+Reset M 50512 2 100
+Reset O 30 21 100
+Movemess
+(null)~
+Door 0 3 0 50524 30 30
+You see the castle gate which leads out of this strange castle.  
+~
+gate~
+Door 2 0 0 50526 30 30
+~
+(null)~
+End
+
+#50526
+Name The Main Hallway of Castle Wimpazoidius~
+Descr
+You stand in the main hallway of castle wimpazoidius.  The polished floor
+is made of small stone tiles.  The inhabitants must have been too weak to
+haul in larger tiles.  You can see the foyer and the exit to this castle to
+the north.  
+~
+Flags 4
+Sector 0
+Reset M 50507 4 100
+Movemess
+(null)~
+Door 0 0 0 50525 30 30
+~
+(null)~
+Door 1 0 0 50527 30 30
+~
+(null)~
+Door 3 0 0 50528 30 30
+~
+(null)~
+End
+
+#50527
+Name The Main Hallway of Castle Wimpazoidius~
+Descr
+You stand in the main hallway of castle wimpazoidius.  The polished floor
+is made of small stone tiles.  The inhabitants must have been too weak to
+haul in larger tiles.  The throne room lies to the east.  
+~
+Flags 4
+Sector 0
+Reset M 50507 4 100
+Reset O 1031 6 91
+Movemess
+(null)~
+Door 1 0 0 50537 30 30
+~
+(null)~
+Door 3 0 0 50526 30 30
+~
+(null)~
+End
+
+#50528
+Name The Main Hallway of Castle Wimpazoidius~
+Descr
+You stand in the main hallway of castle wimpazoidius.  The polished floor
+is made of small stone tiles.  The inhabitants must have been too weak to
+haul in larger tiles.  Far to the east you can see the throne room, and far
+to the west is the banquet hall and meeting area.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 50526 30 30
+~
+(null)~
+Door 3 0 0 50529 30 30
+~
+(null)~
+End
+
+#50529
+Name The Main Hallway of Castle Wimpazoidius~
+Descr
+You stand in the main hallway of castle wimpazoidius.  The polished floor
+is made of small stone tiles.  The inhabitants must have been too weak to
+haul in larger tiles.  You can see a door to the south.  
+~
+Flags 4
+Reset M 50507 4 100
+Reset M 50506 4 100
+Movemess
+(null)~
+Door 1 0 0 50528 30 30
+~
+(null)~
+Door 2 3 0 50530 30 30
+~
+door~
+Door 3 0 0 50531 30 30
+~
+(null)~
+End
+
+#50530
+Name The Princess' Chamber~
+Descr
+You stand inside a plush room, covered with pink velvet and animal furs. 
+A small pink bed sits along the far wall, and the door to this chamber is to
+the north.  You would guess this room belonged to the princess.  
+~
+Flags 6
+Sector 0
+Reset M 50508 1 100
+Reset O 1031 6 100
+Movemess
+(null)~
+Door 0 3 0 50529 30 30
+~
+door~
+End
+
+#50531
+Name The Main Hallway of Castle Wimpazoidius~
+Descr
+You stand in the main hallway of castle wimpazoidius.  The polished floor
+is made of small stone tiles.  The inhabitants must have been too weak to
+haul in larger tiles.  You can see the Wimpazoid courtyard to the west.  
+~
+Flags 4
+Sector 0
+Reset M 50507 4 100
+Reset O 1031 6 65
+Movemess
+(null)~
+Door 1 0 0 50529 30 30
+~
+(null)~
+Door 3 0 0 50532 30 30
+~
+(null)~
+End
+
+#50532
+Name The Wimpazoidius Banquet Hall~
+Descr
+You stand in the small yet humble wimpazoidius banquet hall.  Open
+windows and torches provide brilliant light for this room; almost as if the
+inhabitants were deathly afraid of the dark...  
+~
+Flags 4
+Sector 0
+Reset M 50506 4 100
+Movemess
+(null)~
+Door 1 0 0 50531 30 30
+~
+(null)~
+Door 2 0 0 50533 30 30
+~
+(null)~
+Door 3 0 0 50535 30 30
+~
+(null)~
+End
+
+#50533
+Name The Wimpazoidius Banquet Hall~
+Descr
+You stand in the small yet humble wimpazoidius banquet hall.  Open
+windows and torches provide brilliant light for this room; almost as if the
+inhabitants were deathly afraid of the dark...  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 50532 30 30
+~
+(null)~
+Door 3 0 0 50534 30 30
+~
+(null)~
+End
+
+#50534
+Name The Wimpazoidius Banquet Hall~
+Descr
+You stand in the small yet humble wimpazoidius banquet hall.  Open
+windows and torches provide brilliant light for this room; almost as if the
+inhabitants were deathly afraid of the dark...  You can see a small
+courtyard to the south.  
+~
+Flags 4
+Sector 0
+Reset M 50506 4 100
+Movemess
+(null)~
+Door 0 0 0 50535 30 30
+~
+(null)~
+Door 1 0 0 50533 30 30
+~
+(null)~
+Door 2 1 0 50536 30 30
+~
+door~
+End
+
+#50535
+Name The Wimpazoidius Banquet Hall~
+Descr
+You stand in the small yet humble wimpazoidius banquet hall.  Open
+windows and torches provide brilliant light for this room; almost as if the
+inhabitants were deathly afraid of the dark...  
+~
+Flags 4
+Sector 0
+Reset M 50506 4 100
+Movemess
+(null)~
+Door 1 0 0 50532 30 30
+~
+(null)~
+Door 2 0 0 50534 30 30
+~
+(null)~
+End
+
+#50536
+Name A Small Courtyard~
+Descr
+You stand in a small courtyard, just south of the Wimpazoidius banquet
+hall.  The air is pleasant and fresh, and a cool breeze blows against your
+battle-hardened face.  
+~
+Flags 6
+Reset M 50505 1 100
+Reset O 230 8 14
+Reset O 236 21 69
+Reset O 218 4 27
+Movemess
+(null)~
+Door 0 1 0 50534 30 30
+~
+door~
+End
+
+#50537
+Name The Wimpazoidius Throne Room~
+Descr
+You stand in a magnificent throne room.  Trophies of bunny-heads and
+squirrels line the walls, and you can guess that king wimpazoid inherited
+his name for a reason.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 50540 30 30
+~
+(null)~
+Door 2 0 0 50538 30 30
+~
+(null)~
+Door 3 0 0 50527 30 30
+~
+(null)~
+End
+
+#50538
+Name The Wimpazoidius Throne Room~
+Descr
+You stand in a magnificent throne room.  Trophies of bunny-heads and
+squirrels line the walls, and you can guess that King Wimpazoid inherited
+his name for a reason.  Two small thrones have been placed along the wall to
+the south.
+~
+Flags 6
+Sector 0
+Reset M 50510 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Reset O 205 6 9
+Reset O 236 21 12
+Reset M 50511 1 100
+Reset O 1033 6 100
+Reset O 1032 4 100
+Movemess
+(null)~
+Door 0 0 0 50537 30 30
+~
+(null)~
+Door 1 0 0 50539 30 30
+~
+(null)~
+Door 2 259 0 50541 30 30
+~
+secretdoor~
+End
+
+#50539
+Name The Wimpazoidius Throne Room~
+Descr
+You stand in a magnificent throne room.  Trophies of bunny-heads and
+squirrels line the walls, and you can guess that king wimpazoid inherited
+his name for a reason.  Two magnificent thrones have been placed along the
+southern wall here.  
+~
+Flags 4
+Sector 0
+Reset M 50509 1 100
+Movemess
+(null)~
+Door 0 0 0 50540 30 30
+~
+(null)~
+Door 3 0 0 50538 30 30
+~
+(null)~
+End
+
+#50540
+Name The Wimpazoidius Throne Room~
+Descr
+You stand in a magnificent throne room.  Trophies of bunny-heads and
+squirrels line the walls, and you can guess that king wimpazoid inherited
+his name for a reason.  There is a funny looking ardvaark head on the wall. 
+~
+Flags 4
+Sector 0
+ExtraDescr head ardvaark ardvark~
+What a loser.  This guy's prize trophy is an Ardvaark?  
+
+~
+Movemess
+(null)~
+Door 2 0 0 50539 30 30
+~
+(null)~
+Door 3 0 0 50537 30 30
+~
+(null)~
+End
+
+#50541
+Name Inside the Secret Wimpazoidius Room~
+Descr
+~
+Flags 4
+Movemess
+(null)~
+Door 0 3 0 50538 30 30
+~
+secretdoor~
+End
+
+#50542
+Name A Fork in the Road~
+Descr
+The road bends to the north and west here.  A cool, pleasant breeze blows
+against you, and you feel quite safe here.  You can see Xylar far to the
+west.  You think you can make out a castle to the southwest.  
+~
+Door 0 0 0 50543 30 30
+~
+door~
+Door 1 0 0 23401 0 0
+~
+~
+Door 3 0 0 50507 30 30
+~
+door~
+End
+
+#50543
+Name A Road through the Eastern Lands~
+Descr
+You stand on a road leading through the eastern lands.  You see a dusty
+road to the north, and you realize this could mean adventure and possibly
+danger.  You think carefully...  Are you prepared?  
+~
+Reset M 42016 2 100
+Reset O 224 5 75
+Door 0 0 0 42001 30 30
+~
+door~
+Door 1 0 0 0 30 30
+A large, prickly bush blocks your way to the east.  
+~
+~
+Door 2 0 0 50542 30 30
+~
+door~
+Door 3 0 0 50508 30 30
+~
+door~
+End
+
+#50544
+Name A Small Path around Xylar~
+Descr
+This small path leads around the northeast corner of Xylar.  The matted
+grass shows that it is used frequently by those who would rather not show
+their faces in Xylar.  You can see the two massive towers of Xylar rise up
+into the sky over the tall walls to the west of here.  
+~
+Door 0 0 0 50545 0 0
+~
+~
+End
+
+#50545
+Name A Small Path around Xylar~
+Descr
+This small path leads around the northeast corner of Xylar.  The matted
+grass shows that it is used frequently by those who would rather not show
+their faces in Xylar.  The large walls of Xylar block your way to the west,
+and a dense forest blocks the way to the east.  
+~
+Door 0 0 0 50546 0 0
+~
+~
+Door 2 0 0 50544 0 0
+~
+~
+End
+
+#50546
+Name A Small Path around Xylar~
+Descr
+The path bends here, at the corner of the Xylarian walls.  Dense forests
+block your way to the west and south.  The air smells of pine, and the
+strange smell of fresh bread wafts down from the tall xylarian walls to the
+southwest.  
+~
+Door 2 0 0 50545 0 0
+~
+~
+Door 3 0 0 50547 0 0
+~
+~
+End
+
+#50547
+Name A Small Path around Xylar~
+Descr
+This small path is covered with matted grass, and it looks moderately
+well-travelled.  Large trees block your way to the north.  The air is fresh
+and smells of exotic flowers and pine.  
+~
+Door 1 0 0 50546 0 0
+~
+~
+Door 3 0 0 50548 0 0
+~
+~
+End
+
+#50548
+Name A Small Path around Xylar~
+Descr
+This small path is covered with matted grass, and it looks moderately
+well-travelled.  Large trees block your way to the north.  You can see the
+large, towers of Xylar rise up into the sky as you look above the large city
+walls to the south.  
+~
+Door 1 0 0 50547 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

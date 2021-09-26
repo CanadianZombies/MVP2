@@ -1,0 +1,3983 @@
+#AREADATA 
+Name The Open Roads~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA slight breeze blows through your hair.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 29001 29200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#29001
+Name bubba law enforcement highway patrol officer~
+Short Bubba~
+Long 
+Bubba, the brainless patrolman of the open roads, stands here.
+~
+Descr
+This big, dumb ox of a man looks like he has spent quite a time
+perfecting his muscular body of his.  He slobbers and mumbles to himself as
+he walks along, oblivious to the world around him.  
+~
+AMax 0
+NHeight 0
+ActBits 1073741825
+Affect_By 512
+Alignment 400
+Money 64
+Level 64
+Sex 1
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#29002
+Name travelling ranger highway patrol~
+Short a highway ranger~
+Long 
+A highway ranger stands here, patrolling the greenway and western highways.
+~
+Descr
+This incredibly sturdy look, hardened ranger has a tough job; to patrol
+the highways and keep all evil from wandering the lands.  He looks like he
+can do his job extremely well, judging from the large size of his muscles.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+ActBits3 16392
+Affect_By 32
+Alignment 400
+Money 48
+Level 48
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+ArmorClass -25
+End
+
+#29003
+Name large porcupine~
+Short a large porcupine~
+Long 
+A large porcupine is here, waddling around the field.
+~
+Descr
+It's cute face makes you want to cuddle it...  Then you realize that
+might be hazardous to your health.  
+~
+Attackmsg bite~
+AMax 1
+NHeight 0
+ActBits 3
+Money 6
+Level 6
+MobType 18
+Guard 0
+End
+
+#29004
+Name ranger guild guildmaster PRTCT teacher~
+Short the ranger guildmaster~
+Long 
+[Guild][Teacher] The ranger guildmaster stands here, looking powerful yet humble.
+~
+Descr
+This large man looks like he has experienced the world, and has given it
+up to organize the ranger's guild and teach those who can learn from him. 
+He smiles as he notices you are looking at him.  
+~
+AMax 1
+NHeight 0
+ActBits 136315139
+ActBits3 512
+Affect_By 40
+Alignment 1000
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ASklTaught 0 562
+End
+
+#29005
+Name guard huge woman AONE~
+Short a huge guard~
+Long 
+A huge yet beautiful woman of the forest is here, standing guard.
+~
+Descr
+This beautiful woman has an earten aura around here, and you immediately
+can tell she is one of the ranger guilds' finest members.  
+~
+AMax 2
+NHeight 0
+ActBits 4194307
+Alignment 1000
+Money 76
+Level 76
+Sex 2
+MobType 0
+Guard 0
+End
+
+#29006
+Name woodsman large woods man~
+Short a large woodsman~
+Long 
+A large woodsman stands here, smiling at you.
+~
+Descr
+This large woodsman looks like he enjoys his life of seclusion and
+separation in this beautiful green forest.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 8
+Alignment 300
+Money 71
+Level 71
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#29007
+Name tree large living strange golem~
+Short a tree-golem~
+Long 
+A large tree-golem is here, standing watch.
+~
+Descr
+This huge golem looks old, and although it is large, it is made out of
+wood.  You have a sudden urge to take your axe and start chopping...  
+~
+Attackmsg pound~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Money 34
+Level 34
+MobType 10
+Guard 2
+ArmorClass -95
+End
+
+#29008
+Name huge griffin large~
+Short a large griffin~
+Long 
+A large griffin stands here, angered that someone awoke him from his slumber.
+~
+Descr
+This large griffin looks tired, and has settled down here to rest up for
+his long flight back home, high in the mountains west of Gnargnoc.  
+~
+Attackmsg claw~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 131080
+Money 37
+Level 37
+Sex 1
+MobType 18
+Guard 0
+End
+
+#29009
+Name AONE shady man~
+Short a shady thief~
+Long 
+A shady man is here, whistling an innocent tune as he walks.
+~
+Descr
+This man looks like he could be your worst nightmare; his quick moving
+eyes and fast fingers tell you he is adept at murder and mayhem.  
+~
+AMax 2
+NHeight 0
+ActBits 268435459
+ActBits3 262144
+Alignment -400
+Money 21
+Level 21
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#29010
+Name ATWO large bandit shady man~
+Short a large bandit~
+Long 
+A large bandit is here muttering, "I hate it when people look at me!"
+~
+Descr
+This bandit grins evilly as he notices you looking at him.  Your purse
+feels lighter...  Or was that just your imagination?  
+~
+AMax 1
+NHeight 0
+ActBits 134217729
+Alignment -900
+Money 44
+Level 44
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#29011
+Name red mage robed teacher~
+Short a red-robed mage~
+Long 
+A red-robed mage stands here, contemplating the universe.
+~
+Descr
+This mage of the red robes, stands here, lost in thought.  He appears
+knowledgable, and can perhaps teach you something.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Money 46
+Level 46
+Sex 1
+MobType 1
+Guard 0
+ArmorClass 80
+End
+
+#29012
+Name black knight AONE~
+Short a black knight~
+Long 
+A black knight stands here, guarding the road from do-gooders.
+~
+Descr
+As you peer into his eyes, you can see a soul of complete darkness and
+corruption.  He stands here under the command of the dark lord, keeping
+watch that no good-doers enter the sacred evil lands.  
+~
+AMax 0
+NHeight 0
+ActBits 4194305
+ActBits4 4096
+Affect_By 33554984
+Alignment -1000
+Money 119
+Level 119
+Sex 1
+MobType 26
+Guard 3
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#29013
+Name orcish scout AONE~
+Short an orcish scout~
+Long 
+An orcish scout is here, patrolling the area.
+~
+Descr
+This evil looking orc grins at you, and you notice he is missing most of
+his teeth.  A foul stench drifts out of his open mouth.  
+~
+AMax 0
+NHeight 0
+ActBits 268435459
+ActBits3 262144
+Alignment -100
+Money 19
+Level 19
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#29014
+Name orcish patrolman patrol leader ATWO orc~
+Short an orcish patrol leader~
+Long 
+An orcish patrol leader stands here, watching the lands for do-gooders.
+~
+Descr
+This patrol orc looks tough and buff, and the foul body odor he emits
+makes you think twice about getting close to him.  
+~
+AMax 0
+NHeight 0
+ActBits 134217729
+ActBits3 8
+Affect_By 8
+Alignment -300
+Money 44
+Level 44
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#29015
+Name hungry warg large~
+Short a large, hungry warg~
+Long 
+A large, hungry warg wanders around here, looking for white, tender meat.
+~
+Descr
+This beast looks quite ferocious, but you think you might be able to ride
+him.  Better watch out though..  He looks like he would kill a good elf on
+sight.  
+~
+AMax 1
+NHeight 0
+ActBits 8193
+Alignment -100
+Money 10
+Level 10
+Sex 1
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#29016
+Name moving vines~
+Short some moving vines~
+Long 
+Some moving vines wriggle from some blackened trees here.
+~
+Descr
+These vines look tough and powerful, and the vines' thick green tendrils
+look quite dangerous.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 17
+Level 17
+MobType 17
+Guard 0
+RaceHate 67108864
+End
+
+#29017
+Name white knight~
+Short a white knight~
+Long 
+A large, holy-looking knight stands here, guarding the road from evil.
+~
+Descr
+This powerful knight hunts the lands, looking for evil-doers to slay. 
+His bulging muscles and thick mustache tell you he is quite a seasoned and
+stylish fighter.  
+~
+AMax 1
+NHeight 0
+ActBits 1073741827
+ActBits3 16384
+Affect_By 520
+Alignment 1000
+Money 118
+Level 118
+Sex 1
+MobType 0
+Guard 1
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#29018
+Name creepers vines~
+Short some creepers~
+Long 
+Some creepers hang down from the blackened trees here.
+~
+Descr
+These long, hanging vines look like they have a mind of their own; a
+black, twisted and ferocious mind that it!  
+~
+Attackmsg scratch~
+AMax 2
+NHeight 0
+ActBits 33554435
+Money 14
+Level 14
+MobType 17
+Guard 0
+RaceHate 67108864
+End
+
+#29019
+Name mage dark evil teacher~
+Short an evil mage~
+Long 
+An evil mage stands here, practicing his black magic on trees nearby.
+~
+Descr
+This dark mage looks like he is having fun hurling fireballs and other
+magical projectiles at the already-blackened trees.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Alignment -900
+Money 36
+Level 36
+Sex 1
+MobType 26
+Guard 0
+RaceHate 335544320
+ASklTaught 0 153
+End
+
+#29020
+Name black dragon evil~
+Short a huge, black dragon~
+Long 
+A huge, black dragon is here, waiting for a good soul to munch on.
+~
+Descr
+This huge dragon looks like she has been alive thousands of years; her
+tough, hardened scales and fiery eyes make her look like an incredible
+opponent should you ever face her in battle.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 520
+AffectTWO 3
+Alignment -1000
+Money 112
+Level 112
+Sex 2
+MobType 5
+Guard 0
+Spec spec_breath_fire
+RaceHate 335544320
+ArmorClass -360
+End
+
+#29021
+Name evil dwarf strong~
+Short an evil dwarf~
+Long 
+An evil dwarf wanders around here, looking for treasure in the caverns here.
+~
+Descr
+This dwarf looks like his greedy side has gotten the better of him.  He
+lives his life down in this horrible place, digging for treasure.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Affect_By 520
+Alignment -1000
+Money 27
+Level 27
+Sex 1
+MobType 2
+Guard 0
+Spec spec_warrior
+End
+
+#29022
+Name stone earth earthen giant~
+Short an earthen giant~
+Long 
+A giant made out of earthen clay stands here, looking mean.
+~
+Descr
+This tall, earthen giant just barely fits in the underground cave.  He
+looks like his soul has been corrupted by evil from the insane look in his
+eye.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -500
+Money 41
+Level 41
+MobType 4
+Guard 0
+RaceHate 335544320
+End
+
+#29023
+Name large warrior dwarven dwarf~
+Short an evil dwarven warrior~
+Long 
+An evil dwarven warrior stands here, eating any bugs he can get his hands on.
+~
+Descr
+This large dwarven warrior is covered with scars.  He smiles as he lifts
+a bug up to his mouth and bites down, sucking in it's disgusting red and
+white insides.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -300
+Money 28
+Level 28
+Sex 1
+MobType 2
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#29024
+Name large rat~
+Short a large rat~
+Long 
+A large rat is here, sitting on the black soil.
+~
+Descr
+What an ugly creature of darkness.... squish it now!
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment -100
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#29025
+Name white stallion horse beautiful~
+Short a white stallion~
+Long 
+A beautiful white stallion stands here.
+~
+Descr
+This beautiful horse looks pretty tame; perhaps you could ride him.  
+~
+AMax 1
+NHeight 0
+ActBits 8195
+Alignment 50
+Money 50
+Level 50
+Sex 1
+MobType 18
+Guard 0
+End
+
+#29026
+Name fire guard guardian~
+Short a fire guardian~
+Long 
+A huge fire guardian stands here, warning all of great evil ahead.
+~
+Descr
+These large guardians prevent all from entering the dreaded lands of evil
+just north of this accursed place.  
+~
+Attackmsg scorch~
+AMax 2
+NHeight 0
+ActBits 3
+ActBits3 2048
+Affect_By 40
+Alignment 120
+Money 41
+Level 41
+MobType 11
+Guard 0
+Spec spec_breath_fire
+RaceHate 335544320
+End
+
+#29027
+Name wandering elf wander~
+Short a wandering elf~
+Long 
+A wandering elf whistles a merry tune as he explores the area around him.
+~
+Descr
+This tall elf looks like he is quite new at the business of exploration. 
+His strong, tall figure and quick eyes make him look like quite an
+experienced fighter, though.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment 200
+Money 14
+Level 14
+Sex 1
+MobType 1
+Guard 0
+RaceHate 134217728
+End
+
+#29028
+Name moore cat~
+Short a moore-cat~
+Long 
+A large moore-cat stands here, looking powerful and regal.
+~
+Descr
+This large, powerful cat looks like it means you no harm if it is not
+provoked.  It feasts upon small bog-grasses and other plants.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 200
+Money 34
+Level 34
+Sex 2
+MobType 16
+Guard 0
+End
+
+#29029
+Name swamp gnome~
+Short a swamp-gnome~
+Long 
+A swamp-gnome is here, padding around in the muck underfoot.
+~
+Descr
+This small gnome has strange webbed feet that make him able to travel on
+the marsh and wet ground quite quickly and easily.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 9
+Level 9
+Sex 1
+MobType 3
+Guard 0
+End
+
+#29030
+Name wisp spirit will~
+Short a wisp~
+Long 
+A wispy spirit of a will long lost hovers here above the ground.
+~
+Descr
+This glimmering flash of light seems almost transparent, and you feel a
+great power as you look at the blinding wisp.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 524296
+Alignment -10
+Money 20
+Level 20
+MobType 21
+Guard 0
+End
+
+#29031
+Name old man hermit teacher~
+Short an old hermit~
+Long 
+An old hermit sits here in a creaky chair, looking out the window.
+~
+Descr
+This old hermit looks frail and old, but extremely wise....  Perhaps he
+can teach you something.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Alignment 90
+Money 11
+Level 11
+Sex 1
+MobType 0
+Guard 0
+End
+
+#29032
+Name human adventurer female~
+Short a human adventurer~
+Long 
+A tall, female human adventurer explores the area here.
+~
+Descr
+This beautiful woman has a naughty look in her eye.  She also looks like
+she can fend for herself pretty well.  
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment -100
+Money 18
+Level 18
+Sex 2
+MobType 0
+Guard 0
+End
+
+#29033
+Name elf slave escaped~
+Short an escaped slave~
+Long 
+An escaped elf-slave crawls along the ground here, looking weak.
+~
+Descr
+This elf looks like he is trying to escape the horrible elf torture camp
+you know to be to the north of here a ways.  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 400
+Money 2
+Level 2
+Sex 1
+MobType 1
+Guard 0
+End
+
+#29034
+Name dwarf scout scared~
+Short a dwarven scout~
+Long 
+A scared-looking dwarven scout stands here, trembling.
+~
+Descr
+This scout looks like he has seen an orc or a dark elf!  Perhaps he has!  
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment 500
+Money 5
+Level 5
+Sex 1
+MobType 2
+Guard 0
+End
+
+#29035
+Name wild boar~
+Short a wild boar~
+Long 
+A wild boar runs along here, looking for food.
+~
+Descr
+This wild boar looks like it could make a tasty meal of you could hack
+some of it's bodyparts off.  Those teeth and tusks of him look sharp though.
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#29036
+Name killer bunny rabbit~
+Short a killer bunny~
+Long 
+A strange, deformed bunny with black fur, hops around here.
+~
+Descr
+This bunny looks like it could be vicious; it's large size and horrible
+evil look in its eyes tell you he might rip your throat out.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment -1000
+Money 3
+Level 3
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#29037
+Name guard elite wandering man AONE~
+Short an elite guard~
+Long 
+An elite, wandering guard is here, guarding his guildmaster.
+~
+Descr
+This large guard looks tough and buff, and he serves his guildmaster in
+times of need, so you better not fuck with him.  
+~
+AMax 2
+NHeight 0
+ActBits 4194307
+ActBits3 262144
+Affect_By 8
+Money 36
+Level 36
+Sex 1
+MobType 0
+Guard 0
+End
+
+#29038
+Name guild guildmaster warrior Khargar PRTCT teacher~
+Short Khargar~
+Long 
+[Guild] Khargar, the great guildmaster of travelling warriors is here.
+~
+Descr
+Khargar looks like he has been through alot, and his wise brow and
+hardened face make him look like a man of the world.  He smiles at you, and
+you realize you may have a chance at joining the famous warrior guild.  
+~
+AMax 1
+ActBits 134217985
+ActBits3 32
+Money 97
+Level 97
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ASklTaught 0 31
+ASklTaught 1 148
+ASklTaught 2 580
+End
+
+#29039
+Name deformed deer~
+Short a deformed deer~
+Long 
+A deformed deer wanders around here, eating bugs off the ground.
+~
+Descr
+What a bizarre creature..  An evil stench seems to eminate from its
+black, mangled body.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 3
+Level 3
+Sex 2
+MobType 18
+Guard 0
+RaceHate 335544320
+End
+
+#29040
+Name grun reinforcement guard orc grunt PRTCT~
+Short an orcish grunt~
+Long 
+An orcish grunt stands here, guarding the front.
+~
+Descr
+This orcish grunt looks quite dumb, but he does have some mighty large
+muscles...  
+~
+AMax 2
+NHeight 0
+ActBits 134217729
+Affect_By 512
+Alignment -900
+Money 38
+Level 38
+Sex 1
+MobType 25
+Guard 0
+RaceHate 335544320
+End
+
+#29041
+Name death demon huge~
+Short the death demon~
+Long 
+The death demon rises high above you, laughing at your presence.
+~
+Descr
+A enormous demon with charred black skin rises high above you,
+threatening to dismantle your limbs from your body with one powerful slash. 
+Suited in sinister, chaotic armour, it turns to face you and begins to laugh
+at your presence.  
+~
+AMax 1
+NHeight 100
+ActBits 3
+ActBits3 524288
+Affect_By 680
+Alignment -1000
+Money 150
+Level 150
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#29001
+Name anklet blue metal~
+Short a [34mblue [1m[30mmetal[0m[37m anklet~
+Descr
+An anklet made of blue metal is here.
+[0;36m~
+Type 9
+Extra 2
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 2045
+Affect 17 -3 1 0 0
+Affect 18 1 1 0 0
+Affect 22 2 1 0 0
+End
+
+#29002
+Name jade locket highway patrol~
+Short a [0m[32mjade[0m, highway-patrol locket~
+Descr
+A jade locket bearing the insignia of the highway patrol is here.
+[0;36m~
+Type 8
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 2045
+Affect 17 -3 1 0 0
+Affect 14 8 1 0 0
+Affect 13 8 1 0 0
+End
+
+#29003
+Name forest green cloak~
+Short a forest-green cloak~
+Descr
+A forest-green cloak lies here, bunched up in a pile.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 1
+Cost 2877
+Affect 14 10 1 0 0
+Affect 18 1 1 0 0
+Affect 23 2 1 0 0
+End
+
+#29004
+Name green leafy pants~
+Short some leafy-green pants~
+Descr
+Some leafy-green pants lie here, bunched up on the ground.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 955
+Affect 23 4 1 0 0
+Affect 24 3 1 0 0
+End
+
+#29005
+Name red robe~
+Short a red robe~
+Descr
+A soft, red robe is here, lying on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 6 6 0 0
+Weight 1
+Cost 7588
+Affect 14 15 1 0 0
+Affect 5 -1 1 0 0
+Affect 1 -1 1 0 0
+Affect 3 1 1 0 0
+End
+
+#29006
+Name orcish sword blade curved~
+Short a curved, orcish blade~
+Descr
+A curved, orcish blade lies here on the ground.
+[0;36m~
+Type 5
+Extra 262672
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 3 0 0 0 4 4 0
+Weight 4
+Cost 1955
+Affect 18 1 1 0 0
+End
+
+#29007
+Name black cape~
+Short a black cape~
+Descr
+A black, flowing cape lies here on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 60 60 0 0
+Weight 0
+Cost 1325
+Affect 23 3 1 0 0
+Affect 24 3 1 0 0
+End
+
+#29008
+Name short black steel dagger~
+Short a short black dagger~
+Descr
+A short, blackened dagger lies here on the ground, looking quite pointy.
+[0;36m~
+Type 5
+Extra 131073
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 11 0 0 0 3 4 0
+Weight 3
+Cost 1955
+Affect 19 1 1 0 0
+End
+
+#29009
+Name hole~
+Short a hole~
+Descr
+There is a hole in the ground here, leading down into darkness.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 29127 29127 29127 29127 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr hole~
+To enter this dark hole, type "enter hole".  
+
+
+~
+End
+
+#29010
+Name wooden wood club large~
+Short a large, wooden club~
+Descr
+A large wooden club lies here on the ground.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 8 0 0 0 4 4 0
+Weight 7
+Cost 655
+Affect 18 -3 1 0 0
+End
+
+#29011
+Name bloody dragon claw claws~
+Short some [31m[1mbloody[0m[37m dragon claws~
+Descr
+Some bloody dragon claws lie here, obviously chopped off a large dragon.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 50 50 0 0
+Weight 3
+Cost 4938
+Affect 17 -2 2 0 0
+Affect 19 1 1 0 0
+End
+
+#29012
+Name axe pickaxe pick~
+Short a pickaxe~
+Descr
+A pickaxe lies here on the ground, apparently unclaimed.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 11 0 1 0 0 0 2 6 0
+Weight 5
+Cost 545
+Affect 18 -1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#29013
+Name dark orcish chain~
+Short some orcish chainmail~
+Descr
+Some orchish chainmail lies here on the ground, apparently unclaimed.
+[0;36m~
+Type 9
+Extra 2064
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 4
+Cost 1002
+End
+
+#29014
+Name elven short sword shortsword~
+Short an elven shortsword~
+Descr
+An elven shortsword lies here on the ground.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 3 0 0 0 2 7 0
+Weight 3
+Cost 665
+Affect 18 1 1 0 0
+End
+
+#29015
+Name wavy dagger~
+Short a wavy dagger~
+Descr
+A wavy dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 11 0 0 0 3 3 0
+Weight 1
+Cost 1250
+Affect 18 1 1 0 0
+Affect 17 2 1 0 0
+End
+
+#29016
+Name passage~
+Short a hidden passage in the woods~
+Descr
+A hidden passage leads into the forest.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 35417 35417 35417 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#29017
+Name black sinister war helmet~
+Short a [1m[30mblack sinister [0mwar helmet~
+Descr
+A sinister-looking war helmet lies on the ground.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 20 20 0 0
+Weight 8
+Cost 4000
+Affect 14 15 1 0 0
+Affect 13 15 1 0 0
+Affect 18 2 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#29001
+Name The Western Highway~
+Descr
+The highway runs east and west here for quite a ways.  Open fields and
+light forests surround the highway, making for comfortable travelling.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 29050 30 30
+~
+(null)~
+Door 1 0 0 1400 0 0
+~
+~
+Door 2 0 0 29051 30 30
+~
+(null)~
+Door 3 0 0 29002 30 30
+~
+(null)~
+End
+
+#29002
+Name The Western Highway~
+Descr
+The highway is soft and pleasant to travel upon.  You can hear birds and
+unseen creatures coming from the light woods and fields around the highway
+and you feel carefree and content.  To the west, you can see the highway
+bend.  To the east, the highway stretches on for many miles.  
+~
+Movemess
+(null)~
+Door 0 0 0 29052 30 30
+~
+(null)~
+Door 1 0 0 29001 30 30
+~
+(null)~
+Door 2 0 0 29053 30 30
+~
+(null)~
+Door 3 0 0 29003 30 30
+~
+(null)~
+End
+
+#29003
+Name The Western Highway~
+Descr
+The highway bends to the east and south here, and you notice the highway
+stretch on and on as you look to the east.  The highway begins to look much
+less travelled here, and you realize you are far away from any sort of
+civilization or town.  
+~
+Movemess
+(null)~
+Door 0 0 0 29157 30 30
+~
+(null)~
+Door 1 0 0 29002 30 30
+~
+(null)~
+Door 2 0 0 29004 30 30
+~
+(null)~
+End
+
+#29004
+Name The Western Highway~
+Descr
+The highway turns north and west here.  The pleasant surroundings and
+easy travelling make you feel glad to be alive and exploring the world.  You
+feel quite far away from civilization, but very close to nature.  
+~
+Movemess
+(null)~
+Door 0 0 0 29003 30 30
+~
+(null)~
+Door 1 0 0 29053 30 30
+~
+(null)~
+Door 2 0 0 29057 30 30
+~
+(null)~
+Door 3 0 0 29005 30 30
+~
+(null)~
+End
+
+#29005
+Name The Western Highway~
+Descr
+The highway runs east and west here for quite a ways.  Open fields and
+light forests surround the highway, making for comfortable travelling.  The
+soil is soft, and you whistle along merrily.  
+~
+Reset M 29027 3 100
+Reset O 211 9 40
+Reset O 217 4 100
+Reset O 208 6 45
+Movemess
+(null)~
+Door 1 0 0 29004 30 30
+~
+(null)~
+Door 2 0 0 29055 30 30
+~
+(null)~
+Door 3 0 0 29006 30 30
+~
+(null)~
+End
+
+#29006
+Name The Western Highway~
+Descr
+The highway runs east and west here for quite a ways.  Open fields and
+light forests surround the highway, making for comfortable travelling.  
+~
+Movemess
+(null)~
+Door 1 0 0 29005 30 30
+~
+(null)~
+Door 2 0 0 29059 30 30
+~
+(null)~
+Door 3 0 0 29007 30 30
+~
+(null)~
+End
+
+#29007
+Name The Western Highway~
+Descr
+The highway continues to the east and west here, and far ahead to the
+west you can see the highway bend.  A pleasant breeze gently blows against
+you, and your seperation from society makes you feel close to nature.  
+~
+Movemess
+(null)~
+Door 1 0 0 29006 30 30
+~
+(null)~
+Door 3 0 0 29008 30 30
+~
+(null)~
+End
+
+#29008
+Name The Western Highway~
+Descr
+The highway runs east and west here for quite a ways.  Open fields and
+light forests surround the highway, making for comfortable travelling.  
+~
+Movemess
+(null)~
+Door 1 0 0 29007 30 30
+~
+(null)~
+Door 3 0 0 29009 30 30
+~
+(null)~
+End
+
+#29009
+Name The Western Highway~
+Descr
+You can see the highway bend just to the west of here, but looking east,
+the highway seems to stretch on for a long ways.  The ground is easy to walk
+upon, and you are glad to be exploring and not cooped up in a shop, working
+for a living.  
+~
+Movemess
+(null)~
+Door 0 0 0 29199 0 0
+~
+~
+Door 1 0 0 29008 30 30
+~
+(null)~
+Door 3 0 0 29010 30 30
+~
+(null)~
+End
+
+#29010
+Name The Western Highway~
+Descr
+The highway curves north and east here.  To the east, you can see a
+large, straight stretch of road, and to the north the highway appears to get
+twisty.  You feel like you are a long ways from civilized society.  
+~
+Reset M 29010 1 100
+Reset O 206 6 100
+Reset O 1025 21 100
+Reset O 219 4 100
+Reset M 29009 2 100
+Reset O 218 4 70
+Reset O 205 6 100
+Reset M 29009 2 100
+Reset O 205 6 100
+Reset O 218 4 100
+Movemess
+(null)~
+Door 0 0 0 29011 30 30
+~
+(null)~
+Door 1 0 0 29009 30 30
+~
+(null)~
+End
+
+#29011
+Name The Western Highway~
+Descr
+The highway curves to the south and west here.  You feel like you have
+been travelling a long time, and you long for the amenities of
+civilizations.  A light breeze in the air makes your travels pleasant and
+the soft soil underfoot makes the going easy.  
+~
+Movemess
+(null)~
+Door 0 0 0 29197 0 0
+~
+~
+Door 1 0 0 29199 0 0
+~
+~
+Door 2 0 0 29010 30 30
+~
+(null)~
+Door 3 0 0 29012 30 30
+~
+(null)~
+End
+
+#29012
+Name The Western Highway~
+Descr
+The highway turns north and east here and you can see open fields and
+light forest bordering the road.  The air is pleasant, and the soft yet
+packed soil underfoot makes for easy travelling.  
+~
+Movemess
+(null)~
+Door 0 0 0 29013 30 30
+~
+(null)~
+Door 1 0 0 29011 30 30
+~
+(null)~
+End
+
+#29013
+Name The Western Highway~
+Descr
+This road looks smooth and clean, it seems as though it is used
+frequently.  This road has smooth packed dirt on it, to make for easy
+traveling.  This road continues to the south and west, bending it's way
+around the forest and fields.  
+~
+Movemess
+(null)~
+Door 0 0 0 29193 30 30
+~
+(null)~
+Door 1 0 0 29197 0 0
+~
+~
+Door 2 0 0 29012 30 30
+~
+(null)~
+Door 3 0 0 29014 30 30
+~
+(null)~
+End
+
+#29014
+Name The Western Highway~
+Descr
+The road continues east and west here, and just to the east you can see
+the road turn, heading south.  The road seems well-travelled, yet you have a
+strange feeling that you are far from any sort of civilization.  
+~
+Movemess
+(null)~
+Door 0 0 0 29194 0 0
+~
+~
+Door 1 0 0 29013 30 30
+~
+(null)~
+Door 2 0 0 29150 0 0
+~
+~
+Door 3 0 0 29015 30 30
+~
+(null)~
+End
+
+#29015
+Name The Western Highway~
+Descr
+The road runs east and west here, and to the west you can see the great
+junction of roads.  Sweet smells of flowers and grasses blow into your face,
+and you feel youthful and full of inner power.  
+~
+Movemess
+(null)~
+Door 0 0 0 29195 0 0
+~
+~
+Door 1 0 0 29014 30 30
+~
+(null)~
+Door 2 0 0 29079 0 0
+~
+~
+Door 3 0 0 29016 30 30
+~
+(null)~
+End
+
+#29016
+Name Jct;The Great Junction of Roads~
+Descr
+For as far as you can see, roads run in all four directions from this
+massive junction.  The large, beaten dirt underfoot seems to speak of many
+great adventurers past who have travelled this same road.  There is a worn
+sign mounted here.  
+~
+ExtraDescr sign~
++---------------------+
+
+
+| East - To Xylar     |
+
+
+| North- The Ocean    |
+
+
+| South- Marabella    |
+
+
+| West - Unknown      |
+
+
++---------------------+
+
+
+         |   |
+
+
+         |   |
+
+
+         |   |
+
+
+         |   |
+
+
+         ^---^
+
+
+~
+Reset O 29018 -5 100
+Movemess
+(null)~
+Door 0 0 0 29019 30 30
+~
+(null)~
+Door 1 0 0 29015 30 30
+~
+(null)~
+Door 2 0 0 29047 30 30
+~
+(null)~
+Door 3 0 0 94270 0 0
+~
+~
+Door 5 7 0 29200 30 30
+~
+Lockeddoor~
+End
+
+#29019
+Name A Downward Sloping Path~
+Descr
+You stand on a strange road, leading in between two giant cliffs.  Huge,
+tower walls of rock rise up to the east and west, and you can smell salty
+mist in the air to the north.  You can see a great junction to the south.  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 0 30 30
+A large tree prevents travel in that direction.
+~
+~
+Door 2 0 0 29016 0 0
+~
+~
+Door 3 0 0 94300 0 0
+~
+~
+Door 5 0 0 17192 0 0
+~
+~
+End
+
+#29020
+Name Greenway~
+Descr
+The hard-packed soil makes for easy travelling, yet you still feel far
+away from civilization.  Far to the north you can see a large junction of
+roads.  The road curves north and west here.  
+~
+Movemess
+(null)~
+Door 0 0 0 29049 30 30
+~
+(null)~
+Door 1 0 0 29082 30 30
+Tall, thick grasses block your way to the east.
+~
+(null)~
+Door 2 0 0 29084 30 30
+A large, densly-packed bunch of trees block your progress south.
+~
+(null)~
+Door 3 0 0 29021 30 30
+~
+(null)~
+End
+
+#29021
+Name Greenway~
+Descr
+The air here is cool and sweet. You feel very safe here, as if nothing bad
+could happen you you. The road looks as if it has been traveled on many times
+and looks like it is used quite frequently. The Greenway continues to the east,
+and west, running through new lands.
+~
+Movemess
+(null)~
+Door 1 0 0 29020 30 30
+~
+(null)~
+Door 2 0 0 29085 0 0
+~
+~
+Door 3 0 0 29022 30 30
+~
+(null)~
+End
+
+#29022
+Name Greenway~
+Descr
+A cool breeze blows across your battle-hardened face, and you feel glad
+to be alive and exploring the world.  The greenway continues to the east and
+west, and fields and light forest surround the road.  
+~
+Movemess
+(null)~
+Door 1 0 0 29021 30 30
+~
+(null)~
+Door 2 0 0 29086 0 0
+~
+~
+Door 3 0 0 29023 30 30
+~
+(null)~
+End
+
+#29023
+Name Greenway~
+Descr
+This road seems well packed, and looks as if it is used frquently.  The
+air here is very sweet, and you feel safe.  You feel the wind blow across
+your face and you feel comforted to be in such a peaceful place.  The
+Greenway continues to the east, and south, bending through the land.  
+~
+Movemess
+(null)~
+Door 1 0 0 29022 30 30
+~
+(null)~
+Door 2 0 0 29024 30 30
+~
+(null)~
+End
+
+#29024
+Name Greenway~
+Descr
+The greenway runs north and south here, although you can see it bent to
+the east just to the north of here.  The green fields all around sway gently
+in the breeze, and you understand how greenway got its name.  
+~
+Movemess
+(null)~
+Door 0 0 0 29023 30 30
+~
+(null)~
+Door 2 0 0 29025 30 30
+~
+(null)~
+End
+
+#29025
+Name Greenway~
+Descr
+As you travel upon this large greenway, you notice the sounds of birds
+and other animals coming from all around, and you feel very close to nature.
+The soft yet packed soil underfoot makes travelling easy, and you feel at
+ease with the world.  You see a dark trail leading west from here.  
+~
+Movemess
+(null)~
+Door 0 0 0 29024 30 30
+~
+(null)~
+Door 2 0 0 29026 30 30
+~
+(null)~
+Door 3 0 0 50251 0 0
+~
+~
+End
+
+#29026
+Name Greenway~
+Descr
+The soil here is packed very hard, leaving you a very comforting journey. The
+wind here blows through your hair, and you feel safe. The Greenway continues
+to the north and west, shaping itself through the land.
+~
+Reset M 29032 2 100
+Reset O 236 21 100
+Movemess
+(null)~
+Door 0 0 0 29025 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+A small ravine blocks your way to the east.  
+~
+(null)~
+Door 2 0 0 0 30 30
+A Large bunch of trees block your way to the south.  
+~
+(null)~
+Door 3 0 0 29027 0 0
+~
+~
+End
+
+#29027
+Name Greenway~
+Descr
+The greenway runs east and west here, and pleasant green fields surround
+the road, providing a habitat for small animals and various critters.  You
+feel like you are quite far away from civilized society and the thought of
+being totally alone frightens you a little.  
+~
+Movemess
+(null)~
+Door 0 0 0 50251 0 0
+~
+~
+Door 1 0 0 29026 0 0
+~
+~
+Door 2 0 0 29091 30 30
+~
+(null)~
+Door 3 0 0 29028 30 30
+~
+(null)~
+End
+
+#29028
+Name Greenway~
+Descr
+The road here makes traveling extremely easy. You hear the sounds of nature,
+and you feel at peace with yourself. The setting seems very calm and serene.
+The Greenway continues to the east and south, shaping itself through the land.
+~
+Movemess
+(null)~
+Door 0 0 0 50252 0 0
+~
+~
+Door 1 0 0 29027 30 30
+~
+(null)~
+Door 2 0 0 29036 30 30
+~
+(null)~
+Door 3 0 0 50254 0 0
+~
+~
+End
+
+#29029
+Name Greenway~
+Descr
+You travel upon the vast greenway moderately close to Marabella.  You can
+see a junction of roads to the south, and the greenway continues to the
+north.  Fields and light forest surround the road, and you notice heavy wear
+on the ground, indicating this road's popularity with travellers.  
+~
+Movemess
+(null)~
+Door 0 0 0 29046 30 30
+~
+(null)~
+Door 2 0 0 24501 0 0
+~
+~
+End
+
+#29030
+Name A Junction, East of Marabella~
+Descr
+Roads run north, east and west from this large junction.  To the north,
+the huge greenway stretches far into the distance, and to the west, the
+large road leading to Marabella opens up before you.  
+~
+Movemess
+(null)~
+Door 1 0 0 24454 0 0
+~
+~
+Door 3 0 0 29031 30 30
+~
+(null)~
+End
+
+#29031
+Name A Large Road by Marabella~
+Descr
+This road is extremely large, and it looks as if it is used frequently. 
+There are several foorprints on the hard packed soil, leading you to believe
+that people come and go here very often.  This road continues on to the east
+and west, going towards civilization, or back into nature.  
+~
+Movemess
+(null)~
+Door 1 0 0 29030 30 30
+~
+(null)~
+Door 3 0 0 29032 30 30
+~
+(null)~
+End
+
+#29032
+Name A Large Road by Marabella~
+Descr
+This large road looks well-travelled and the packed soil is pleasant to
+journey upon.  You can see a junction in the distance to the east, and the
+city walls of Marabella rise up to the west aways off.  
+~
+Movemess
+(null)~
+Door 1 0 0 29031 30 30
+~
+(null)~
+Door 3 0 0 29033 30 30
+~
+(null)~
+End
+
+#29033
+Name A Large Road by Marabella~
+Descr
+The large road runs east and west here, and you can see the large eastern
+gate of Marabella rise up to the west.  Far to the east you can see a
+junction of roads.  Green fields and light forest surrounds the road, making
+the scenery pleasant as you journey along the vast highway.  
+~
+Movemess
+(null)~
+Door 1 0 0 29032 30 30
+~
+(null)~
+Door 3 0 0 29034 30 30
+~
+(null)~
+End
+
+#29034
+Name A Large Road just Outside of Marabella~
+Descr
+To the west, the great gates of Marabella rise up before you, and to the
+east, the vast, well-travelled road continues.  You feel close to society
+and quite safe as you travel along here, although rumors of some of the
+inhabitants of Marabella make you hesitant about how safe the city itself
+really is.  The soil of this road is soft and comfortable to travel upon.  
+~
+Movemess
+(null)~
+Door 1 0 0 29033 30 30
+~
+(null)~
+Door 3 0 0 14510 0 0
+~
+~
+End
+
+#29035
+Name A Small Road Alongside a Cliff~
+Descr
+You stand on a small, winding road that borders a massive dropoff.  You
+can see a great valley stretch before you to the south, and you wonder if
+there is a way down to it somewhere around here.  
+~
+Flags 2
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 50351 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+That's a mighty steep drop...  
+~
+(null)~
+Door 3 0 0 24445 0 0
+~
+~
+End
+
+#29036
+Name Greenway~
+Descr
+The greenway runs north and south here, although to the north you can see
+the road turn to the east in a gentle curve.  The lush, green fields around
+the road make you realize that greenway was quite properly named.  
+~
+Reset M 29002 2 100
+Reset O 202 7 100
+Reset O 227 5 100
+Reset O 219 4 100
+Reset O 205 6 100
+Reset O 29002 2 70
+Reset O 1026 21 90
+Movemess
+(null)~
+Door 0 0 0 29028 30 30
+~
+(null)~
+Door 1 0 0 29091 30 30
+~
+(null)~
+Door 2 0 0 29037 30 30
+~
+(null)~
+End
+
+#29037
+Name Greenway~
+Descr
+You travel upon a large stretch of the greenway that runs north and
+south.  Light fragrances of flowers and grasses gently blow against your
+face, and you feel like you are out in the middle of nowhere.  
+~
+Movemess
+(null)~
+Door 0 0 0 29036 30 30
+~
+(null)~
+Door 1 0 0 29172 30 30
+~
+(null)~
+Door 2 0 0 29038 30 30
+~
+(null)~
+End
+
+#29038
+Name Greenway~
+Descr
+The beauty of this Greenway is astonishing.  You can see lush grass
+wavering in the wind, and the air itself smell sweet, and somewhat fresh. 
+The Greenway continues to the north and south, bending through the lay of
+the land.  
+~
+Movemess
+(null)~
+Door 0 0 0 29037 30 30
+~
+(null)~
+Door 1 0 0 29173 30 30
+~
+(null)~
+Door 2 0 0 29039 30 30
+~
+(null)~
+Door 3 0 0 29175 30 30
+~
+(null)~
+End
+
+#29039
+Name Greenway~
+Descr
+The road curves to the north and west here, and the signs of civilized
+life and heavy travel become a bit more prominent to the west.  Sounds of
+animals and other small creatures come from unseen niches in the trees and
+fields, and you realize how much a part of nature you are.  
+~
+Movemess
+(null)~
+Door 0 0 0 29038 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+Tall trees block your way to the east.  
+~
+(null)~
+Door 2 0 0 0 30 30
+A small ravine blocks your way to the south.  
+~
+(null)~
+Door 3 0 0 29040 30 30
+~
+(null)~
+End
+
+#29040
+Name Greenway~
+Descr
+You feel as though you are getting closer to civilization. The road seems 
+traveled on more around here, and you can see faint footprints in the dirt.
+The beauty of this place just makes you want to stay here forever, the 
+Greenway continues to the east and south, stretching across the land.
+~
+Reset M 29002 2 50
+Reset O 209 6 100
+Reset O 222 4 100
+Reset O 29002 2 40
+Reset O 237 21 100
+Reset O 29001 -1 10
+Reset O 1022 22 4
+Movemess
+(null)~
+Door 0 0 0 29175 30 30
+~
+(null)~
+Door 1 0 0 29039 30 30
+~
+(null)~
+Door 2 0 0 29041 30 30
+~
+(null)~
+End
+
+#29041
+Name Greenway~
+Descr
+The greenway runs north and south here, and you feel as if you have been
+travelling on this road forever.  The green, lush grasses around the road
+and green trees make the scenery pleasant, and the packed dirt underfoot
+makes the travel moderately easy.  
+~
+Movemess
+(null)~
+Door 0 0 0 29040 30 30
+~
+(null)~
+Door 1 0 0 29176 30 30
+~
+(null)~
+Door 2 0 0 29042 30 30
+~
+(null)~
+End
+
+#29042
+Name Greenway~
+Descr
+You travel upon a long stretch of the greenway that runs north and south.
+On both sides of the road, flowers and small shrubs grow and flourish.  The
+hard-packed soil makes for easy travelling, and you notice many footprints
+and tracks on the road.  
+~
+Movemess
+(null)~
+Door 0 0 0 29041 30 30
+~
+(null)~
+Door 1 0 0 29177 30 30
+~
+(null)~
+Door 2 0 0 29043 30 30
+~
+(null)~
+End
+
+#29043
+Name Greenway~
+Descr
+The footprints on the road, lead you to believe you are getting closer to
+civilization. The hard packed soil makes traveling extremely easy, and you
+can see footprints in the dirt. The greenway continues to the north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 29042 30 30
+~
+(null)~
+Door 2 0 0 29044 30 30
+~
+(null)~
+End
+
+#29044
+Name Greenway~
+Descr
+You travel upon a long stretch of the greenway that runs north and south.
+On both sides of the road, flowers and small shrubs grow and flourish.  The
+hard-packed soil makes for easy travelling, and you notice many footprints
+and tracks on the road.  
+~
+Movemess
+(null)~
+Door 0 0 0 29043 30 30
+~
+(null)~
+Door 2 0 0 29046 30 30
+~
+(null)~
+End
+
+#29045
+Name ~
+Descr
+~
+Movemess
+(null)~
+Door 0 0 0 29044 30 30
+~
+(null)~
+End
+
+#29046
+Name Greenway~
+Descr
+The vast open areas around the road make you realize just how big the
+world is, and you feel tiny in comparison.  The open sky above you and a
+cool breeze make you feel almost totally insignificant.  
+~
+Movemess
+(null)~
+Door 0 0 0 29044 30 30
+~
+(null)~
+Door 2 0 0 29029 30 30
+~
+(null)~
+End
+
+#29047
+Name Greenway~
+Descr
+This Greenway looks serene and peaceful. The air smells sweet here, and you
+feel comforted as you look around. To the north, you can see a junction of
+roads, and to the south the greenway continues.
+~
+Reset M 29032 2 100
+Reset O 201 7 90
+Reset O 237 21 85
+Movemess
+(null)~
+Door 0 0 0 29016 30 30
+~
+(null)~
+Door 1 0 0 29079 0 0
+~
+~
+Door 2 0 0 29048 30 30
+~
+(null)~
+Door 3 0 0 94292 0 0
+~
+~
+End
+
+#29048
+Name Greenway~
+Descr
+This Greenway looks serene and peaceful. The air smells sweet here, and you
+feel comforted as you look around. To the north, and south you can see the
+Greenway continue.
+~
+Movemess
+(null)~
+Door 0 0 0 29047 30 30
+~
+(null)~
+Door 1 0 0 29080 0 0
+~
+~
+Door 2 0 0 29049 30 30
+~
+(null)~
+End
+
+#29049
+Name Greenway~
+Descr
+This Greenway looks serene and peaceful. The air smells sweet here, and you
+feel comforted as you look around. To the north, and south you can see the 
+Greenway continue, stretching into new lands.
+~
+Movemess
+(null)~
+Door 0 0 0 29048 30 30
+~
+(null)~
+Door 1 0 0 29081 0 0
+~
+~
+Door 2 0 0 29020 30 30
+~
+(null)~
+End
+
+#29050
+Name A Lightly Forested Area~
+Descr
+You stand just north of the western highway in some lightly forested
+woodlands.  The air is fresh and a cool breeze blows against your
+travel-weary face.  The light forest continues to the east and west.  
+~
+Flags 2
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 1489 0 0
+~
+~
+Door 2 0 0 29001 30 30
+~
+(null)~
+Door 3 0 0 29052 30 30
+~
+(null)~
+End
+
+#29051
+Name A Lightly Forested Area~
+Descr
+You stand in a lightly forested area, just off the beaten path.  To the
+north you can see the large western highway through the trees, and to the
+east you can see more forest.  Beautiful open fields open up to the west.  
+~
+Flags 2
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29001 30 30
+~
+(null)~
+Door 1 0 0 1492 0 0
+~
+~
+Door 3 0 0 29053 30 30
+~
+(null)~
+End
+
+#29052
+Name A Lightly Forested Area~
+Descr
+You stand just north of the western highway in some lightly forested
+woodlands.  The air is fresh and a cool breeze blows against your
+travel-weary face.  The light forest continues to the east.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29050 30 30
+~
+(null)~
+Door 2 0 0 29002 30 30
+~
+(null)~
+Door 3 0 0 29157 30 30
+~
+(null)~
+End
+
+#29053
+Name A Lush, Open Field next to the Road~
+Descr
+You stand in a beautiful field right next to the great western highway. 
+To the north and west you can see the road, and the tall grasses and flowers
+here make this look like a pleasant place to hang out and watch who goes by.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29002 30 30
+~
+(null)~
+Door 1 0 0 29051 30 30
+~
+(null)~
+Door 2 0 0 29056 30 30
+~
+(null)~
+Door 3 0 0 29004 30 30
+~
+(null)~
+End
+
+#29054
+Name NONE~
+Descr
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 29053 30 30
+~
+(null)~
+Door 2 0 0 29055 30 30
+~
+(null)~
+End
+
+#29055
+Name A Large Open Field~
+Descr
+The large open field runs east and south here, and you can see the great
+western highway just to the north of here.  This looks like a good place to
+hide in the grass and watch the passers-by.  Far to the west you can see
+some light forest.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29005 30 30
+~
+(null)~
+Door 1 0 0 29057 30 30
+~
+(null)~
+Door 3 0 0 29059 30 30
+~
+(null)~
+End
+
+#29056
+Name A Large Open Field~
+Descr
+You stand in a large, open field.  A lush meadow can be seen to the
+north, and the road runs just to the northwest of here.  The pleasant smells
+of flowers and grass make you feel glad to be adventuring.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29053 30 30
+~
+(null)~
+Door 3 0 0 29057 30 30
+~
+(null)~
+End
+
+#29057
+Name A Large Open Field~
+Descr
+The large open field runs east and south here, and you can see the great
+western highway just to the north of here.  This looks like a good place to
+hide in the grass and watch the passers-by.  
+~
+Sector 2
+Reset M 29011 1 100
+Reset O 29005 11 100
+Movemess
+(null)~
+Door 0 0 0 29004 30 30
+~
+(null)~
+Door 1 0 0 29056 30 30
+~
+(null)~
+Door 3 0 0 29055 30 30
+~
+(null)~
+End
+
+#29059
+Name A Large Open Field~
+Descr
+This large open field, just south of the western highway, is large and
+spacious.  To the west some trees begin to spring up, making a light forest.
+To the east is more field for as far as you can see.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29006 30 30
+~
+(null)~
+Door 1 0 0 29055 30 30
+~
+(null)~
+Door 2 0 0 25010 0 0
+~
+~
+End
+
+#29060
+Name A Lightly Forested Area~
+Descr
+You are in a lightly forested area just south of the western highway.  To
+the west, the light forest continues, and to the east you can see a large
+open field.  The air is fresh and pleasant here, and your soul feels full of
+life and energy.  
+~
+Sector 2
+Movemess
+(null)~
+Door 3 0 0 29061 30 30
+~
+(null)~
+End
+
+#29061
+Name A Lightly Forested Area~
+Descr
+You are in a lightly forested area just south of the western highway. 
+You can see a large, open meadow to the west, and the light forest continues
+to the east.  The ground underfoot is soft and easy to tread upon.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 29060 30 30
+~
+(null)~
+Door 3 0 0 29062 30 30
+~
+(null)~
+End
+
+#29062
+Name A Meadow next to the Western Highway~
+Descr
+You stand just south of the western highway in a large, green meadow. 
+Birds chirp from high in the sky somewhere, and you feel at ease with nature
+and the world around you.  You can see light forest to the east and west.  
+~
+Sector 2
+Reset M 29003 1 100
+Movemess
+(null)~
+Door 1 0 0 29061 30 30
+~
+(null)~
+Door 2 0 0 29108 30 30
+~
+(null)~
+Door 3 0 0 29063 30 30
+~
+(null)~
+End
+
+#29063
+Name A Lightly Forested Area~
+Descr
+This lightly forested area, just to the south of the western highway, is
+cool and shaded.  Dew clings to the leaves, and makes you wet as you walk
+through the wet branches here.  
+~
+Sector 2
+Reset O 29016 -5 100
+Movemess
+(null)~
+Door 1 0 0 29062 30 30
+~
+(null)~
+Door 2 0 0 29106 30 30
+~
+(null)~
+Door 3 0 0 29148 30 30
+~
+(null)~
+End
+
+#29079
+Name A Large, Green Field~
+Descr
+You stand in a large, green, open field.  The grasses are tall and
+healthy, and you can see the western highway to the north of here, and
+greenway to the west of here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29015 0 0
+~
+~
+Door 1 0 0 29150 30 30
+~
+(null)~
+Door 2 0 0 29080 30 30
+~
+(null)~
+Door 3 0 0 29047 0 0
+~
+~
+End
+
+#29080
+Name A Large, Green Field~
+Descr
+You stand in a green, lush field just west of Greenway.  The air is fresh
+and there is a light scent of wildflowers that blows in the breeze.  You can
+see the western highway far to the north of here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29079 30 30
+~
+(null)~
+Door 1 0 0 29149 30 30
+~
+(null)~
+Door 2 0 0 29081 30 30
+~
+(null)~
+Door 3 0 0 29048 0 0
+~
+~
+End
+
+#29081
+Name A Large, Green Field~
+Descr
+Wildflowers and tall grasses make this field look like an inviting and
+comfortable place to rest in.  You can see greenway in plain view to the
+west of here, and more field can be seen to the north and south.  
+~
+Sector 2
+Reset M 29027 3 100
+Reset O 217 4 100
+Reset O 207 6 100
+Reset O 236 21 100
+Movemess
+(null)~
+Door 0 0 0 29080 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+There is a desnse forest in that direction.
+~
+~
+Door 2 0 0 29082 30 30
+~
+(null)~
+Door 3 0 0 29049 0 0
+~
+~
+End
+
+#29082
+Name A Large, Green Field~
+Descr
+The air is fresh and it smells like it has rained recently.  Dewdrops on
+the grasses make your legs wet as you travel through this pleasant field. 
+You can see more field to the north and south.  
+~
+Sector 2
+Reset M 29008 1 100
+Movemess
+(null)~
+Door 0 0 0 29081 30 30
+~
+(null)~
+Door 2 0 0 29083 30 30
+~
+(null)~
+Door 3 0 0 29020 0 0
+~
+~
+End
+
+#29083
+Name A Large, Green Field~
+Descr
+This field has many wildflowers, and its close proximity yet not adjacent
+location to the road makes it less travelled than the field to the north or
+the forest to the west.  A thick coniferous forest can be seen to the south.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29082 30 30
+~
+(null)~
+Door 2 0 0 29095 30 30
+~
+(null)~
+Door 3 0 0 29084 30 30
+~
+(null)~
+End
+
+#29084
+Name A Green Coniferous Forest~
+Descr
+This coniferous forest is wet with dew, and wet leaves brush up against
+your face as you travel through the wooded area.  To the north you can see
+greenway turn north and west, and you realize this would be a great hiding
+place to watch people as they travel upon greenway.  
+~
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29020 0 0
+~
+~
+Door 1 0 0 29083 30 30
+~
+(null)~
+Door 2 0 0 29093 30 30
+~
+(null)~
+Door 3 0 0 29085 30 30
+~
+(null)~
+End
+
+#29085
+Name A Thick, Coniferous Forest~
+Descr
+The thick coniferous forest here is green and alive with life.  You can
+see the greenway to the north, and light forest continues to the east.  A
+large open field opens up to the west.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29021 0 0
+~
+~
+Door 1 0 0 29084 30 30
+~
+(null)~
+Door 2 0 0 29092 30 30
+~
+(null)~
+Door 3 0 0 29086 30 30
+~
+(null)~
+End
+
+#29086
+Name A Large, Open Meadow~
+Descr
+This large open meadow is just southeast of a bend in the greenway.  To
+both the north and west you can see the large open road, and to the east,
+thick coniferous trees rise up, creating a small forest.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29022 0 0
+~
+~
+Door 1 0 0 29085 30 30
+~
+(null)~
+Door 2 0 0 29087 30 30
+~
+(null)~
+End
+
+#29087
+Name A Large, Green Field~
+Descr
+This green field, just east of the greenway road, is beautiful and gentle
+to journey through.  A meadow can be seen to the north, and the field
+continues to the south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29086 30 30
+~
+(null)~
+Door 1 0 0 29092 30 30
+~
+(null)~
+Door 2 0 0 29088 30 30
+~
+(null)~
+End
+
+#29088
+Name A Large, Green Field~
+Descr
+You stand in a large, fertile green field.  You can see greenway running
+just to the west of here, and you can hear the trickle of water coming from
+somewhere nearby.  The air is light and pleasant, and you fill your lungs
+with the clean air and feel refreshed.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29087 30 30
+~
+(null)~
+Door 1 0 0 29101 30 30
+~
+(null)~
+Door 2 0 0 29089 30 30
+~
+(null)~
+End
+
+#29089
+Name A Light Forest~
+Descr
+You stand in a light forest, near the large greenway.  The soil underfoot
+is soft and easy to travel upon, and the sounds of birds and other unseen
+creatures seem to come from all around you.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29088 30 30
+~
+(null)~
+End
+
+#29090
+Name A Light Forest~
+Descr
+You stand in a light forest, near the large greenway.  The soil underfoot
+is soft and easy to travel upon, and the sounds of birds and other unseen
+creatures seem to come from all around you.  You can see the greenway just
+to the north of here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29026 30 30
+~
+(null)~
+Door 3 0 0 29091 30 30
+~
+(null)~
+End
+
+#29091
+Name A Light Forest~
+Descr
+This light forest, right next to the greenway, provides a pleasant
+resting spot off the beaten road.  The grass under the trees is damp and
+cool to the touch, and you can hear critters making rustling noises from
+unseen hiding places all around.  
+~
+Sector 2
+Reset M 29027 3 100
+Reset O 230 8 100
+Reset O 217 4 100
+Reset O 206 6 70
+Reset O 29014 21 70
+Movemess
+(null)~
+Door 0 0 0 29027 30 30
+~
+(null)~
+Door 1 0 0 29090 30 30
+~
+(null)~
+Door 2 0 0 29172 30 30
+~
+(null)~
+Door 3 0 0 29036 30 30
+~
+(null)~
+End
+
+#29092
+Name A Thick Coniferous Forest~
+Descr
+This thick forest of broad, green-leafed trees is cool and out of the
+sun's rays during the daylight hours.  You can see the greenway just to the
+west of here through the densly-packed trees.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29085 30 30
+~
+(null)~
+Door 1 0 0 29093 30 30
+~
+(null)~
+Door 2 0 0 29101 30 30
+~
+(null)~
+Door 3 0 0 29087 30 30
+~
+(null)~
+End
+
+#29093
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29084 30 30
+~
+(null)~
+Door 1 0 0 29095 30 30
+~
+(null)~
+Door 2 0 0 29096 30 30
+~
+(null)~
+Door 3 0 0 29092 30 30
+~
+(null)~
+End
+
+#29095
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29083 30 30
+~
+(null)~
+Door 2 0 0 29097 30 30
+~
+(null)~
+Door 3 0 0 29093 30 30
+~
+(null)~
+End
+
+#29096
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29093 30 30
+~
+(null)~
+Door 1 0 0 29097 30 30
+~
+(null)~
+Door 2 0 0 29099 0 0
+~
+~
+Door 3 0 0 29101 30 30
+~
+(null)~
+End
+
+#29097
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29095 30 30
+~
+(null)~
+Door 2 0 0 29098 30 30
+~
+(null)~
+Door 3 0 0 29096 30 30
+~
+(null)~
+End
+
+#29098
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29097 30 30
+~
+(null)~
+Door 3 0 0 29099 30 30
+~
+(null)~
+End
+
+#29099
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Reset M 29007 1 100
+Movemess
+(null)~
+Door 0 0 0 29096 0 0
+~
+~
+Door 1 0 0 29098 30 30
+~
+(null)~
+Door 2 0 0 29100 30 30
+~
+(null)~
+Door 3 0 0 29097 30 30
+~
+(null)~
+End
+
+#29100
+Name A Mysterious Path through a Green Forest~
+Descr
+You tread upon a mysterious path through the thick coniferous forest.  To
+the east and west, dense trees block your way, making travel in those
+directions impossible.  You think you can see a large hut or house to the
+south a ways up ahead.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 29099 30 30
+~
+(null)~
+Door 2 0 0 29102 30 30
+~
+(null)~
+End
+
+#29101
+Name A Thick Coniferous Forest~
+Descr
+The broad-leaved trees seem to confuse you, and everywhere you look you
+bump into huge, green, dew-covered leaves.  Some small grasses grow on the
+forest floor, and a few rocks cover the ground, making travel difficult.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29092 30 30
+~
+(null)~
+Door 1 0 0 29096 30 30
+~
+(null)~
+Door 3 0 0 29088 30 30
+~
+(null)~
+End
+
+#29102
+Name Before a Large House in the Forest~
+Descr
+You stand just north of a large house that is nestled in between these
+thick, dense trees.  The path continues north, but trees block your way to
+the east and west.  The house looks safe enough to enter, and there is a
+welcome mat on the ground.  
+~
+Shd 1
+ExtraDescr mat welcome~
+Welcome all great rangers of the world!  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 29100 30 30
+~
+(null)~
+Door 2 1 0 29103 30 30
+You see a door leading into the house.
+~
+door~
+End
+
+#29103
+Name Inside a Large House in the Forest~
+Descr
+The wooden walls and homey feel to this house make you feel welcome and
+at ease.  There are some trophies of large game on the walls, and you would
+assume that a hunter or ranger lives here.  
+~
+Flags 4
+Sector 0
+Reset M 29006 1 100
+Reset O 3208 21 2
+Reset O 29003 11 35
+Reset O 29004 6 85
+Movemess
+(null)~
+Door 0 1 0 29102 30 30
+You see the door that leads back onto the forest trail.
+~
+door~
+Door 1 0 0 29104 30 30
+~
+(null)~
+End
+
+#29104
+Name Inside a Large House in the Forest~
+Descr
+You are at the eastern end of this large house, deep in the forest. 
+There is a bookshelf against the southern wall, and the room continues to
+the west.  You can see tightly-packed trees as you peer out the windows.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 259 0 29105 30 30
+You can see a bookshelf against the southern wall.
+~
+bookshelf~
+Door 3 0 0 29103 30 30
+~
+(null)~
+End
+
+#29105
+Name Inside the Secret Ranger's Guild~
+Descr
+This cozy room is well-furnished and the walls are carved out of the
+finest, deep brown forest wood.  There is a fire in a fireplace here, and
+you feel strangely at ease here.  
+~
+Flags 4
+Sector 0
+ExtraDescr clue~
+Clue #5 The greatest insect in the realms awaits you with the next clue.
+
+
+~
+Reset M 29004 1 100
+Reset O 210 6 100
+Reset O 3210 4 100
+Reset O 29001 -1 100
+Reset M 29005 2 100
+Reset M 29005 2 100
+Movemess
+(null)~
+Door 0 259 0 29104 30 30
+You can see a bookshelf against the northern wall.
+~
+bookshelf~
+End
+
+#29106
+Name A Thickly Forested Area~
+Descr
+You stand in a thick, forested area.  Little light pours through the
+broad leaves onto the forest floor even during the strongest daylight hours.
+You can see the western highway through the trees to the northeast, and the
+forest continues all around you.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29063 30 30
+~
+(null)~
+Door 1 0 0 29108 30 30
+~
+(null)~
+Door 2 0 0 29107 30 30
+~
+(null)~
+End
+
+#29107
+Name A Thickly Forested Area~
+Descr
+The forest floor is relatively free of undergrowth here, but the small
+rocks and rough branches on the ground make the travelling difficult.  You
+can see some sort of trail beginning to the west of here.  
+~
+Shd 1
+Sector 3
+Reset M 5052 2 100
+Reset O 5007 21 60
+Movemess
+(null)~
+Door 0 0 0 29106 30 30
+~
+(null)~
+Door 1 0 0 29112 30 30
+~
+(null)~
+Door 3 0 0 29109 30 30
+~
+(null)~
+End
+
+#29108
+Name A Thickly Forested Area~
+Descr
+The forest is damp with dew, and as you walk along here, your face gets
+wet with the glistening drops of water on the leaves.  The sky is almost
+totally blocked out by the large trees overhead.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29062 30 30
+~
+(null)~
+Door 2 0 0 29112 30 30
+~
+(null)~
+Door 3 0 0 29106 30 30
+~
+(null)~
+End
+
+#29109
+Name A Path through the Thick Forest~
+Descr
+You stand upon a strange, yet well-trodden trail through the woods.  To
+the east you can see the trail disappear as the forest opens up before you. 
+Far to the southwest you can see a high tower through the tall woods.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29107 30 30
+~
+(null)~
+Door 2 0 0 29110 30 30
+~
+(null)~
+End
+
+#29110
+Name A Path through the Thick Forest~
+Descr
+The trail through the thick forest bends to the north and west here.  To
+the west you think you can make out a town or some sort of city, and a high
+tower rises up from the forest far to the west.  
+~
+Shd 1
+Sector 3
+Reset M 5052 2 100
+Reset O 5007 21 65
+Movemess
+(null)~
+Door 0 0 0 29109 30 30
+~
+(null)~
+Door 3 0 0 29111 30 30
+~
+(null)~
+End
+
+#29111
+Name Before the Gates of Bognia~
+Descr
+You stand before the gates of a moderately sized forest city name Bognia.
+You can see a path through the forest begin to the east here, and you can
+see a high tower rise high above the trees to the west, somewhere in the
+town of Bognia.  
+~
+Flags 2
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29110 30 30
+~
+(null)~
+Door 3 0 0 5002 30 30
+~
+(null)~
+End
+
+#29112
+Name A Thickly Forested Area~
+Descr
+You stand in a thick forested area; all around you are tall trees and
+shrubs.  You think you can see a high tower somewhere in the distance to the
+southwest through the woods.  Rocks on the ground make travel difficult.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 29108 30 30
+~
+(null)~
+Door 3 0 0 29107 30 30
+~
+(null)~
+End
+
+#29147
+Name A Large, Green Field~
+Descr
+You stand in a large, open green field, just to the southwest of a bend
+in the western highway.  The grass is green, and the air is fresh and smells
+of sweet wildflowers.  
+~
+Sector 2
+Movemess
+(null)~
+Door 2 0 0 29148 30 30
+~
+(null)~
+End
+
+#29148
+Name A Lightly Forested Area~
+Descr
+This lightly forested area, just to the southwest of the western highway,
+is cool and shaded.  Dew clings to the leaves, and makes you wet as you walk
+through the wet branches here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29147 30 30
+~
+(null)~
+Door 1 0 0 29063 30 30
+~
+(null)~
+End
+
+#29149
+Name A Large, Green Field~
+Descr
+You stand in a large, open green field.  Birds chirp from a forest to the
+north, and the sweet smell of wildflowers and cut grass hangs in the air.  A
+cool breeze blows gently against your face, and you feel at ease with
+nature.  
+~
+Sector 2
+Reset M 29025 1 100
+Movemess
+(null)~
+Door 0 0 0 29150 30 30
+~
+(null)~
+Door 3 0 0 29080 30 30
+~
+(null)~
+End
+
+#29150
+Name A Light Forested Area~
+Descr
+You are in a lightly forested area, just southwest of a bend in the
+western highway.  To the south and west you can see large, open fields, and
+the air is fresh and sweet here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29014 0 0
+~
+~
+Door 2 0 0 29149 30 30
+~
+(null)~
+Door 3 0 0 29079 30 30
+~
+(null)~
+End
+
+#29157
+Name A Lightly Forested Area~
+Descr
+This lightly forested area, just north of the road is green and healthy. 
+You can see a path leading through the forest to the north, although the
+ground looks quite soft and soggy in that direction.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29158 30 30
+~
+(null)~
+Door 1 0 0 29052 30 30
+~
+(null)~
+Door 2 0 0 29003 30 30
+~
+(null)~
+End
+
+#29158
+Name Before a Small Bog~
+Descr
+You stand before a mushy bog, which opens up just to the west of here. 
+To the south you can see a lightly forested area, and through the trees you
+can make out a road.  Rotten swamp gasses make you wonder if the bog would
+really be the most enjoyable place to explore.  
+~
+Flags 2
+Movemess
+(null)~
+Door 2 0 0 29157 30 30
+~
+(null)~
+Door 3 0 0 29159 30 30
+~
+(null)~
+End
+
+#29159
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29160 30 30
+~
+(null)~
+Door 1 0 0 29158 30 30
+~
+(null)~
+Door 3 0 0 29161 30 30
+~
+(null)~
+End
+
+#29160
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29163 30 30
+~
+(null)~
+Door 2 0 0 29159 30 30
+~
+(null)~
+Door 3 0 0 29162 30 30
+~
+(null)~
+End
+
+#29161
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29162 30 30
+~
+(null)~
+Door 1 0 0 29159 30 30
+~
+(null)~
+End
+
+#29162
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29164 30 30
+~
+(null)~
+Door 1 0 0 29160 30 30
+~
+(null)~
+Door 2 0 0 29161 30 30
+~
+(null)~
+Door 3 0 0 29166 30 30
+~
+(null)~
+End
+
+#29163
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Reset M 29030 1 100
+Movemess
+(null)~
+Door 2 0 0 29160 30 30
+~
+(null)~
+Door 3 0 0 29164 30 30
+~
+(null)~
+End
+
+#29164
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Reset M 29028 1 100
+Movemess
+(null)~
+Door 1 0 0 29163 30 30
+~
+(null)~
+Door 2 0 0 29162 30 30
+~
+(null)~
+Door 3 0 0 29165 30 30
+~
+(null)~
+End
+
+#29165
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Reset M 29029 2 100
+Movemess
+(null)~
+Door 0 0 0 29167 30 30
+~
+(null)~
+Door 1 0 0 29164 30 30
+~
+(null)~
+Door 2 0 0 29166 30 30
+~
+(null)~
+End
+
+#29166
+Name A Small Bog surrounded by Trees~
+Descr
+You stand in a bleak looking bog.  The soggy soil and horrible swamp
+smells make all of this area look similar.  The only way you are able to not
+loose your way is because of the large, impassable trees that border the
+swamp.  
+~
+Sector 2
+Reset M 29029 2 100
+Movemess
+(null)~
+Door 0 0 0 29165 30 30
+~
+(null)~
+Door 1 0 0 29162 30 30
+~
+(null)~
+End
+
+#29167
+Name A Small Path through the Bog~
+Descr
+This small path through the trees actually gets drier, and you realize
+there is firm ground up ahead to the north.  To the south, the bog opens up
+before you, giving off obnoxious swamp odors.  
+~
+Movemess
+(null)~
+Door 0 0 0 29168 30 30
+~
+(null)~
+Door 2 0 0 29165 30 30
+~
+(null)~
+End
+
+#29168
+Name A Small Path~
+Descr
+The path turns to the east and south here, and you can see a strange mud
+and stick hut to the west.  Far to the south you can see some mists and
+realize it must be a swampland or bog.  
+~
+Movemess
+(null)~
+Door 1 0 0 29170 30 30
+~
+(null)~
+Door 2 0 0 29167 30 30
+~
+(null)~
+Door 3 3 0 29169 30 30
+~
+door~
+End
+
+#29169
+Name Inside a Small Hut~
+Descr
+You stand inside a small hut of twigs and mud.  The door out of here is
+located to the east, and you smell burning manure in the distance.  Although
+this hut is quite small, you can see how it might be cozy to a hermit.  
+~
+Flags 4
+Sector 0
+ExtraDescr clue~
+Clue #3 A wise man of fables teaches many things, seek him out.
+
+
+~
+Reset M 29031 1 100
+Movemess
+(null)~
+Door 1 3 0 29168 30 30
+~
+door~
+End
+
+#29170
+Name A Small Path~
+Descr
+The path turns north and west here, and far to the southwest you can see
+a mist rising up from the ground and you assume it is a bog or a swamp.  You
+can see a hut just a ways off to the west of here.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 29171 30 30
+~
+(null)~
+Door 3 0 0 29168 30 30
+~
+(null)~
+End
+
+#29171
+Name A North-South, Soggy Path~
+Descr
+This path begins to get soggy again, and you can see a large swampland
+stetch out before you to the north.  To the south the path gets less wet,
+and you can see a hut to the southwest a ways.  
+~
+Movemess
+(null)~
+Door 0 0 0 11201 30 30
+~
+(null)~
+Door 2 0 0 29170 30 30
+~
+(null)~
+End
+
+#29172
+Name A Light Forest~
+Descr
+This light forest, right next to the greenway, provides a pleasant
+resting spot off the beaten road.  The grass under the trees is damp and
+cool to the touch, and you can hear critters making rustling noises from
+unseen hiding places all around.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29091 30 30
+~
+(null)~
+Door 2 0 0 29173 30 30
+~
+(null)~
+Door 3 0 0 29037 30 30
+~
+(null)~
+End
+
+#29173
+Name A Green Field~
+Descr
+You stand in a lush, open green field, just to the east of Greenway. 
+From looking around at the green bushes, green grasses and other green
+shrubbery you can see it didn't take a genious to come up with the name of
+Greenway.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29172 30 30
+~
+(null)~
+Door 2 0 0 29178 30 30
+~
+(null)~
+Door 3 0 0 29038 30 30
+~
+(null)~
+End
+
+#29174
+Name A Green Field~
+Descr
+You stand in a lush, open green field, just to the east of Greenway. 
+From looking around at the green bushes, green grasses and other green
+shrubbery you can see it didn't take a genious to come up with the name of
+Greenway.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29173 30 30
+~
+(null)~
+Door 3 0 0 29039 30 30
+~
+(null)~
+End
+
+#29175
+Name A Green Field~
+Descr
+You stand in a lush, open green field, just to the northwest of Greenway.
+From looking around at the green bushes, green grasses and other green
+shrubbery you can see it didn't take a genious to come up with the name of
+Greenway.  
+~
+Sector 2
+Movemess
+(null)~
+Door 1 0 0 29038 30 30
+~
+(null)~
+Door 2 0 0 29040 30 30
+~
+(null)~
+End
+
+#29176
+Name A Green Field~
+Descr
+You stand in a lush, open green field, just to the southeast of Greenway.
+From looking around at the green bushes, green grasses and other green
+shrubbery you can see it didn't take a genious to come up with the name of
+Greenway.  
+~
+Movemess
+(null)~
+Door 0 0 0 29039 30 30
+~
+(null)~
+Door 2 0 0 29177 30 30
+~
+(null)~
+Door 3 0 0 29041 30 30
+~
+(null)~
+End
+
+#29177
+Name A Green Field~
+Descr
+You stand in a lush, open green field, just to the east of Greenway. 
+From looking around at the green bushes, green grasses and other green
+shrubbery you can see it didn't take a genious to come up with the name of
+Greenway.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 29176 30 30
+~
+(null)~
+Door 3 0 0 29042 30 30
+~
+(null)~
+End
+
+#29178
+Name A Thickly-Forested Area~
+Descr
+You stand in a moderately thick forested area.  Green trees and plants
+are all around you, brushing up against your face.  You begin to loathe the
+color green as you travel along such green lands.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29173 30 30
+~
+(null)~
+Door 2 0 0 29173 0 0
+~
+~
+Door 3 0 0 29039 30 30
+~
+(null)~
+End
+
+#29193
+Name A Dark Forest by the Highway~
+Descr
+You stand on a narrow trail, in a dark foret.  You are suprised at how
+dense this forest is, and you begin to fear for your life...  Perhaps this
+isn't the place for new adventurers to explore.  
+~
+Flags 2
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 259 0 11278 30 30
+~
+Graveyard~
+Door 1 0 0 29196 0 0
+~
+~
+Door 2 0 0 29013 30 30
+~
+(null)~
+Door 3 0 0 29194 0 0
+~
+~
+End
+
+#29194
+Name A Dark Forest by the Highway~
+Descr
+This dark path through the dense forested hill is rocky and steep.  The
+air around here smells of conflict and turmoil and you notice there are no
+birds or animals around you, and you fear for your life.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29193 0 0
+~
+~
+Door 2 0 0 29014 0 0
+~
+~
+Door 3 0 0 29195 0 0
+~
+~
+End
+
+#29195
+Name A Dark Forest by the Highway~
+Descr
+The dark path bends to the south and east here, and you feel like you are
+nearing the top of a hill.  The air has a faint smell of death and decay in
+it, and you feel like this is not the safest place to adventure.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29194 0 0
+~
+~
+Door 2 0 0 29015 0 0
+~
+~
+End
+
+#29196
+Name A Path on a Forested Hill~
+Descr
+The path curves to the north and west here.  To the west you can see a
+path through a dark forest, and to the north you can see more forested
+hills.  The air is pleasant, except for the slight smell of fire, and the
+feel of conflict and unease.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 29197 0 0
+~
+~
+Door 3 0 0 29193 0 0
+~
+~
+End
+
+#29197
+Name A Path on a Forested Hill~
+Descr
+You stand on a path on a forested hill.  To the south are more hills, and
+to the east is a light forest.  The air seems to warn you of danger ahead,
+and you feel as if nature has forsaken this place.  
+~
+Shd 1
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 29196 0 0
+~
+~
+Door 1 0 0 29198 0 0
+~
+~
+Door 2 0 0 29011 0 0
+~
+~
+Door 3 0 0 29013 0 0
+~
+~
+End
+
+#29198
+Name A Light Forested Area~
+Descr
+You stand in a light forest; a path to a hill to the west and more forest
+and plains to the north.  The air is cool yet pleasant and the rocks
+underfoot are smooth and make for easy travel through this area.  
+~
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 29199 0 0
+~
+~
+Door 3 0 0 29197 0 0
+~
+~
+End
+
+#29199
+Name Some Rolling Hills~
+Descr
+You stand on some plains atop some rolling hills.  To the south you can
+see a light forest, and to the north you can see more rolling hills.  There
+is a slight smell of fire in the air, and you notice some birds beginning to
+sing up ahead to the north.  However, there is still an unease in the air
+that seems to warn you of danger.  
+~
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 29198 0 0
+~
+~
+Door 2 0 0 29009 0 0
+~
+~
+Door 3 0 0 29011 0 0
+~
+~
+End
+
+#29200
+Name A Room Below the Great Junction of Roads~
+Descr
+You stand in a room below the junction of raods, below you is a closed
+door.  This door leads to a neverending place.  
+~
+Flags 6
+Door 4 3 0 29016 30 30
+~
+Locked~
+Door 5 19 0 29201 30 30
+~
+lair~
+End
+
+#0
+
+
+
+#$

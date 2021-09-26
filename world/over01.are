@@ -1,0 +1,460 @@
+#AREADATA 
+Name Over's first~
+Repop The area seems alive again!~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Over Ryne~
+VNUMs 15000 15200
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#15000
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#15001
+Name coyote~
+Short a coyote~
+Long 
+A coyote wonders arround here looking for food.
+~
+Descr
+~
+AMax 5
+NHeight 18
+Level 30
+Sex 1
+MobType 6
+Guard 0
+End
+
+#15002
+Name gray squirrel~
+Short a gray squirrel~
+Long 
+A gray squirrel is here hiding a small nut.
+~
+Descr
+~
+AMax 2
+NHeight 5
+Level 13
+MobType 7
+Hp 9
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#15001
+Name spring~
+Short a clear spring~
+Descr
+A [1m [36mC[37mr[36my[37ms[36mt[37ma[36ml [37mClear [36mSpring[0m is coming out of a fissure in the wall.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Limtd 1
+End
+
+#15002
+Name some small mushrooms mush mushroom~
+Short some small [37mmushrooms[0m~
+Descr
+Some small [37mmushrooms [36mare growing here.
+[0;36m~
+Type 19
+Maxinroom 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 1 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#15000
+Name Main Path to Zakaraz Volcano~
+Descr
+All arround you the vegetation seems to be on fire, the plants glow red
+and seem to have lost all life. No animals seem to survive this terrible
+heat and humidity, even you seem to have trouble breathing. The only
+remaining life here seems to be about a dozen vultures flying arround
+looking for corpses or even the slightest sight of food. The sun's light
+never seems to come much across these lands, although the time might suggest
+day, night entangles this area in eternal darkness. 
+~
+Flags 1
+Sector 4
+Door 0 0 0 15001 0 0
+~
+~
+End
+
+#15001
+Name An Intersection of Paths~
+Descr
+A small path wich seems to be leading to the east forms here. A small
+coyote goes from bush to bush trying to hide from the vultures. You wonder
+if going to the east would not make your journey easier, this intense heat
+is now beginning to dehydrate you. 
+~
+Flags 3
+Sector 10
+Door 0 0 0 15006 0 0
+~
+~
+Door 1 0 0 15002 0 0
+~
+~
+Door 2 0 0 15000 0 0
+~
+~
+End
+
+#15002
+Name A Small Side Path~
+Descr
+This path seems less traveled than the main path, but much more bearable.
+As you scan the room left and right, you notice that the green in plants and
+bushes is now apparent. You notice that the evil presence is only less
+effective arround here, making the sunlight glow on the soil. 
+~
+Sector 3
+Door 1 0 0 15003 0 0
+~
+~
+Door 3 0 0 15001 0 0
+~
+~
+End
+
+#15003
+Name A Sharp Turn~
+Descr
+This path is now taking a sharp turn to the south, leaving you thinking
+if it leads anywhere. Still, as you go farther and farther away from the
+main path,the sky becomes lighter and lighter while the evil presence is
+slowly fainting. 
+~
+Sector 3
+Reset M 15001 1 100
+Door 2 0 0 15004 0 0
+~
+~
+Door 3 0 0 15002 0 0
+~
+~
+End
+
+#15004
+Name A Small Path~
+Descr
+Here the path is coming back to it's normal direction. You notice other
+small animals move front and back through the bushes, eating plants and
+trying to stay away from the volvano. Although this path appears to go away
+from the volcano, it is much more comfortable to travel onto. 
+~
+Flags 2
+Sector 3
+Door 0 0 0 15003 0 0
+~
+~
+Door 1 0 0 15005 0 0
+~
+~
+End
+
+#15005
+Name A Small Path~
+Descr
+You continue walking forward and see how the vegetation grows more and
+more. In contrast to the main path, where evil controls all, the farther you
+go east the weaker the evil presence gets, there seems to be a good force
+counteracting the darkness. 
+~
+Sector 3
+Reset M 15001 1 100
+Door 1 0 0 15011 0 0
+~
+~
+Door 3 0 0 15004 0 0
+~
+~
+End
+
+#15006
+Name Continuing of the Path~
+Descr
+The closer you get to the volcano, the harder it gets to breath. The life
+has now been totally drained from the environement. The ground is now
+becoming half soil half cold lava, making walking a trial and error method.
+As you look in the distance, you can see lava flows burning forests and
+lands to chaos. 
+~
+Flags 1
+Sector 10
+Door 0 0 0 15007 0 0
+~
+~
+Door 2 0 0 15001 0 0
+~
+~
+End
+
+#15007
+Name Bordering a Lava Flow~
+Descr
+The path is now covered with lava and you practically have to jump from
+rock to rock to do forward. The intense heat from the lava makes you sweat
+intensly. As your water drops into the burning lava more steam forms arround
+you, making breathing a harsh task. The only source of light is the red lava
+flowing next to you. 
+~
+Sector 10
+Door 2 0 0 15006 0 0
+~
+~
+Door 3 0 0 15008 0 0
+~
+~
+End
+
+#15008
+Name On the Edge of a Precipice~
+Descr
+To the east, the main path has been covered with mana, and as you look
+north you suddenly loose your balance when you see the immense cliff wich
+has probably been formed by an erruption. To the south, more lava flows by
+you, awaiting for you to fall into it. The path seems to somewhat continue
+to the west, although the walking ground is getting slim. 
+~
+Flags 1
+Sector 10
+Door 1 0 0 15007 0 0
+~
+~
+Door 3 0 0 15009 0 0
+~
+~
+End
+
+#15009
+Name On the Edge of a Precipice~
+Descr
+The path now starts to slowly go down towards the cliff, making heat and
+humidity a factor wich should be well considered. As you look far in the
+distance, you can see a dark stop on the west side of the volcano, all the
+evil energy seems to be coming in waves from there, you can only wonder what
+it is. 
+~
+Flags 1
+Sector 10
+Door 1 0 0 15008 0 0
+~
+~
+Door 2 259 0 15010 30 30
+~
+rock~
+Door 5 0 0 15018 0 0
+~
+~
+End
+
+#15010
+Name A Hidden Lava Cave~
+Descr
+This is a small room inside of a large and old lava flow, wich has
+solidified. There is a small radiant energy emerging from the walls. You can
+feel a healing and heating sensation. The walls faintly glow red as you see
+your wounds heal. 
+~
+Flags 1050628
+Reset O 15001 -5 100
+Door 0 0 0 15009 0 0
+~
+~
+End
+
+#15011
+Name A Small Path Through a Forest~
+Descr
+The vegetation is now fully alive, plants and flowers are everywhere, it
+is incredible that you are a couple feet from a deathland and you can see
+this much life!  There must be a source for all this. 
+~
+Sector 3
+Door 0 0 0 15012 0 0
+~
+~
+Door 1 0 0 15014 0 0
+~
+~
+Door 3 0 0 15005 0 0
+~
+~
+End
+
+#15012
+Name In the Forest, next to the Path~
+Descr
+If the path wass full of vegetation, then this is incredible. Trees,
+flowers, plants, bushes, everything grows here. The life is strong, and no
+evil can be felt. You can now feel a strong good presence far to the east,
+almost like a source of heat. 
+~
+Sector 3
+Door 1 0 0 15013 0 0
+~
+~
+Door 2 0 0 15011 0 0
+~
+~
+End
+
+#15013
+Name In the Forest, next to the Path~
+Descr
+If the path wass full of vegetation, then this is incredible. Trees,
+flowers, plants, bushes, everything grows here. The life is strong, and no
+evil can be felt. You can now feel a strong good presence far to the east,
+almost like a source of heat. 
+~
+Sector 3
+Reset M 15002 2 100
+Door 2 0 0 15014 0 0
+~
+~
+Door 3 0 0 15012 0 0
+~
+~
+End
+
+#15014
+Name A Small Path Through a Forest~
+Descr
+As you look in the distance, you can see a small clearing approaching.
+The closer you get to it, the warmer you feel, the good side defenitely
+posesses this region. The vegetation is fully alive, plants and flowers are
+everywhere, it is incredible that you are a couple feet from a deathland and
+you can see this much life!  
+~
+Sector 3
+Door 0 0 0 15013 0 0
+~
+~
+Door 1 0 0 15015 0 0
+~
+~
+Door 3 0 0 15011 0 0
+~
+~
+End
+
+#15015
+Name Next to a Little Resting Point~
+Descr
+To the south is what seems like a small resting point. As you look in the
+distance, you can see the small clearing to the east get bigger and bigger
+as you approach it. The radiant energy coming from it is now getting strong,
+you can wonder how such a small point can create such a change. 
+~
+Sector 3
+Door 1 0 0 15017 0 0
+~
+~
+Door 2 0 0 15016 0 0
+~
+~
+Door 3 0 0 15014 0 0
+~
+~
+End
+
+#15016
+Name A Small Resting Point~
+Descr
+The grass seems to be a little smaller here. Warriors, mages, and
+travelers seem to gather here before they continue onward. Most of the
+travelers talk of a hard road ahead. Some of the warriors seem to be
+bragging about who might get to bring home the biggest trophy from the
+legendary castle which lies somewhere in the vicinity. 
+~
+Sector 3
+Reset O 15002 -5 100
+Door 0 0 0 15015 0 0
+~
+~
+End
+
+#15017
+Name Getting Closer to a Clearing~
+Descr
+~
+Sector 3
+Door 3 0 0 15015 0 0
+~
+~
+End
+
+#15018
+Name Getting Closer to the Lava Stream~
+Descr
+The intense heat is edging closer and closer. The volcano's top can only
+be getting closer.The intense heat is edging closer and closer. The
+volcano's top can only be getting closer. Soon the magma will be within
+sight and the true meaning of this pleasant surprise of your horrifying
+death. 
+~
+Door 1 0 0 15020 0 0
+~
+~
+Door 4 0 0 15009 0 0
+~
+~
+End
+
+#15020
+Name Moving up the Volano~
+Descr
+The top of the huge volano is now in sight. Steam and smoke clouds lift
+into the air as high as the eye can see. A weird chant can be heard very
+dimly from here, it seems to be coming from inside the volcano itself! 
+Could this be the hidden castle that the warriors talked so much about
+raiding?  Only time can tell. 
+~
+Door 3 0 0 15018 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

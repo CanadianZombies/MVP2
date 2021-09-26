@@ -1,0 +1,2274 @@
+#AREADATA 
+Name The Kobold Caves~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Nicodemus~
+VNUMs 13801 13999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#13802
+Name kobold guard~
+Short a kobold guard~
+Long 
+A kobold guard is here watching you.
+~
+Descr
+~
+AMax 5
+NHeight 40
+ActBits 134217730
+ActBits3 24576
+Affect_By 552
+Alignment -1000
+Money 20
+Level 20
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#13805
+Name large koblad~
+Short a large kobald~
+Long 
+A large kobold is standing here waiting for a fight.
+~
+Descr
+~
+AMax 1
+NHeight 45
+ActBits 67108866
+Affect_By 8
+Alignment -1000
+Money 30
+Level 30
+Sex 2
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#13808
+Name old kobold~
+Short an old kobold~
+Long 
+An old kobold is here keeping to himself.
+~
+Descr
+~
+AMax 7
+NHeight 30
+ActBits 20
+Alignment -1000
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#13814
+Name naked kobold whore~
+Short a kobold whore~
+Long 
+A naked kobold is here lying on a small bed of grass.
+~
+Descr
+She is a frail withered whore awaiting your servieces. She is completely
+naked and her arms are wide open for you. (Amungst other things) 
+~
+AMax 5
+NHeight 45
+ActBits 2
+Alignment -1000
+Money 20
+Level 20
+Sex 2
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#13820
+Name kobold shaman PRAC~
+Short a kobold shaman~
+Long 
+An old kobold shaman is here reading his scrolls.
+~
+Descr
+~
+AMax 1
+NHeight 45
+ActBits 258
+Affect_By 168
+Alignment -1000
+Money 200
+Level 200
+Sex 1
+MobType 20
+Guard 0
+Spec spec_warrior
+ArmorClass 10
+BCasts ray of light~
+End
+
+#13843
+Name blue fish~
+Short a blue back fish~
+Long 
+A blue back fish is here waiting in the calm.
+~
+Descr
+~
+AMax 6
+NHeight 10
+ActBits 24
+Money 40
+Level 40
+MobType 14
+Guard 0
+End
+
+#13850
+Name kobold sapphire digger~
+Short a kobold digger~
+Long 
+A kobold digger is here chipping away rocks.
+~
+Descr
+~
+AMax 10
+NHeight 40
+ActBits 20
+ActBits4 4096
+Money 120
+Level 120
+Sex 2
+MobType 12
+Guard 0
+Spec spec_warrior
+BCasts curse~
+BCasts blindness~
+BCast_P 40
+End
+
+#13870
+Name head kobold digger~
+Short the head kobold digger~
+Long 
+The head kobold digger is here sitting on a large sapphire stone.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 6
+Affect_By 168
+Alignment -1000
+Money 30
+Level 30
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#13888
+Name teenage hooker~
+Short a teenage hooker~
+Long 
+A teenage hooker is here with her legs spread wide open.
+~
+Descr
+~
+AMax 5
+NHeight 65
+Alignment -1000
+Money 1
+Level 1
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#13801
+Name portal floating~
+Short a floating portal~
+Descr
+A strange floating portal is here.
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 13843 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13802
+Name portal~
+Short a floating portal~
+Descr
+A strange floating portal is here.
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 13838 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#13820
+Name sharp kobold tooth~
+Short a sharp kobold tooth~
+Descr
+A sharp kobold tooth is lying here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 0 0 0 0 0 0 0
+Weight 2
+Cost 100
+End
+
+#0
+
+
+
+#ROOMDATA
+#13801
+Name Entrance to the Kobold Caves~
+Descr
+This is a deep black hole which may lead to certain death. Looking
+around, notice there are blue stones and fragments of stone lying all around
+the entrence to the hole. 
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 4 0 0 70226 0 0
+~
+~
+Door 5 0 0 13802 0 0
+~
+~
+End
+
+#13802
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern which looks to have one been a mine
+shaft but is now empty. You can see a faint deep blue light deep inside the
+shaft. Other than that, you can only see the light from the outside. 
+ 
+~
+Flags 4
+Shd 1
+Reset M 13802 1 200
+Reset O 202 -1 100
+Reset M 13802 2 100
+Reset O 202 -1 100
+Reset M 13802 2 100
+Reset O 202 -1 100
+Reset M 13802 2 100
+Reset O 202 -1 100
+Reset M 13802 2 200
+Reset O 202 -1 100
+Door 4 0 0 13801 0 0
+~
+~
+Door 5 0 0 13803 0 0
+~
+~
+End
+
+#13803
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 3145732
+Door 0 0 0 13804 0 0
+~
+~
+Door 3 0 0 13806 0 0
+~
+~
+Door 4 0 0 13802 0 0
+~
+~
+End
+
+#13804
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 2 0 0 13803 0 0
+~
+~
+Door 3 0 0 13805 0 0
+~
+~
+End
+
+#13805
+Name A Small Dirty Room~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13805 1 100
+Door 1 0 0 13804 0 0
+~
+~
+End
+
+#13806
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 1 0 0 13803 0 0
+~
+~
+Door 3 0 0 13807 0 0
+~
+~
+End
+
+#13807
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 0 3 0 13808 30 30
+~
+woodendoor~
+Door 1 0 0 13806 0 0
+~
+~
+Door 2 3 0 13809 30 30
+~
+woodendoor~
+Door 5 0 0 13810 0 0
+~
+~
+End
+
+#13808
+Name A Small Room~
+Descr
+This is a small room fit for one person to stay in. There is a little
+kobold curled up in the corner trying to pass the time. Seeing this, it make
+you want to take a rest too. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 2 3 0 13807 30 30
+~
+woodendoor~
+End
+
+#13809
+Name A Small Room~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 0 3 0 13807 30 30
+~
+woodendoor~
+End
+
+#13810
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 1 0 0 13811 0 0
+~
+~
+Door 4 0 0 13807 0 0
+~
+~
+End
+
+#13811
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 0 0 0 13815 0 0
+~
+~
+Door 1 0 0 13818 0 0
+~
+~
+Door 2 0 0 13812 0 0
+~
+~
+Door 3 0 0 13810 0 0
+~
+~
+End
+
+#13812
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 0 0 0 13811 0 0
+~
+~
+Door 1 0 0 13813 0 0
+~
+~
+End
+
+#13813
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 3 0 0 13812 0 0
+~
+~
+End
+
+#13814
+Name Kobolds Room of Shame~
+Descr
+Entering this room, you can tell that this is a room of unimaginable
+dreams. There are female kobolds all over the floor awaiting pleasure. The
+only thing you may regret about this room is the smell. You may never get it
+out of your clothes. 
+~
+Flags 4
+Reset M 13814 1 100
+Reset M 13814 1 100
+Reset M 13814 1 100
+Reset M 13814 1 100
+Door 1 0 0 13816 0 0
+~
+~
+End
+
+#13815
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 0 0 0 13816 0 0
+~
+~
+Door 2 0 0 13811 0 0
+~
+~
+End
+
+#13816
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 0 0 0 13817 0 0
+~
+~
+Door 2 0 0 13815 0 0
+~
+~
+Door 3 0 0 13814 0 0
+~
+~
+End
+
+#13817
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Door 1 0 0 13821 0 0
+~
+~
+Door 2 0 0 13816 0 0
+~
+~
+Door 3 0 0 13822 0 0
+~
+~
+End
+
+#13818
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13808 1 100
+Door 0 0 0 13819 0 0
+~
+~
+Door 3 0 0 13811 0 0
+~
+~
+End
+
+#13819
+Name Within the Kobold Caves~
+Descr
+You are walking along a dark cavern that looks like it has been part of a
+large mine shaft. There are pick marks, scratches and markings indicating
+that these walls were recently worked on. 
+~
+Flags 4
+Reset M 13802 1 100
+Reset M 13802 1 100
+Door 1 0 0 13820 0 0
+~
+~
+Door 2 0 0 13818 0 0
+~
+~
+End
+
+#13820
+Name A Small Alcove~
+Descr
+This is a compact room small enough to fit five people. There are books
+scrolls and manuscripts all over the place and it's very hard to walk
+around. The shaman is here going over his scrolls and studies. 
+~
+Flags 4
+Reset M 13820 1 100
+Reset O 208 -1 50
+Reset M 13814 1 100
+Door 3 0 0 13819 0 0
+~
+~
+End
+
+#13821
+Name Under A Giant Blue Stone~
+Descr
+This is a small room that look pretty comfortable to rest in.
+There is another rock that you can lay down on and even sleep on.
+Take a rest and be mary.
+~
+Flags 3146757
+Door 3 0 0 13817 0 0
+~
+~
+End
+
+#13822
+Name Above A Deep Shaft~
+Descr
+This deep shaft sounds like it's right above water, but watch out!  If
+you fall, it could mean your certain doom. Do yourself a favor and stay
+clear of the ledge. 
+~
+Flags 4
+Door 1 0 0 13817 0 0
+~
+~
+Door 5 0 0 13823 0 0
+~
+~
+End
+
+#13823
+Name A Dark Shaft~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13824 0 0
+~
+~
+Door 4 0 0 13822 0 0
+~
+~
+End
+
+#13824
+Name Within the Kobold Caves~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Door 1 0 0 13825 0 0
+~
+~
+Door 3 0 0 13823 0 0
+~
+~
+End
+
+#13825
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13826 0 0
+~
+~
+Door 3 0 0 13824 0 0
+~
+~
+End
+
+#13826
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13829 0 0
+~
+~
+Door 2 0 0 13827 0 0
+~
+~
+Door 3 0 0 13825 0 0
+~
+~
+End
+
+#13827
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Sector 6
+Reset M 13843 1 100
+Reset M 13843 1 100
+Door 0 0 0 13826 0 0
+~
+~
+Door 1 0 0 13828 0 0
+~
+~
+End
+
+#13828
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Sector 6
+Reset M 13843 1 100
+Reset M 13843 1 100
+Door 0 0 0 13829 0 0
+~
+~
+Door 3 0 0 13827 0 0
+~
+~
+End
+
+#13829
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13830 0 0
+~
+~
+Door 2 0 0 13828 0 0
+~
+~
+Door 3 0 0 13826 0 0
+~
+~
+End
+
+#13830
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13831 0 0
+~
+~
+Door 2 0 0 13829 0 0
+~
+~
+End
+
+#13831
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13832 0 0
+~
+~
+Door 3 0 0 13830 0 0
+~
+~
+End
+
+#13832
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13833 0 0
+~
+~
+Door 3 0 0 13831 0 0
+~
+~
+End
+
+#13833
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 2 0 0 13834 0 0
+~
+~
+Door 3 0 0 13832 0 0
+~
+~
+End
+
+#13834
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13833 0 0
+~
+~
+Door 2 0 0 13835 0 0
+~
+~
+Door 3 0 0 13839 0 0
+~
+~
+End
+
+#13835
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13834 0 0
+~
+~
+Door 2 0 0 13836 0 0
+~
+~
+Door 3 0 0 13838 0 0
+~
+~
+End
+
+#13836
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13835 0 0
+~
+~
+Door 3 0 0 13837 0 0
+~
+~
+End
+
+#13837
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13838 0 0
+~
+~
+Door 1 0 0 13836 0 0
+~
+~
+Door 3 0 0 13842 0 0
+~
+~
+End
+
+#13838
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Reset O 13801 -5 100
+Door 0 0 0 13839 0 0
+~
+~
+Door 1 0 0 13835 0 0
+~
+~
+Door 2 0 0 13837 0 0
+~
+~
+Door 3 0 0 13841 0 0
+~
+~
+End
+
+#13839
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13834 0 0
+~
+~
+Door 2 0 0 13838 0 0
+~
+~
+Door 3 0 0 13840 0 0
+~
+~
+End
+
+#13840
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 1 0 0 13839 0 0
+~
+~
+Door 2 0 0 13841 0 0
+~
+~
+End
+
+#13841
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13840 0 0
+~
+~
+Door 1 0 0 13838 0 0
+~
+~
+Door 2 0 0 13842 0 0
+~
+~
+End
+
+#13842
+Name An Underground Lake~
+Descr
+These walls are thick and muddy, recently filled and wetted with water.
+Some of the rocks have been chipped away to show a giant blue stone
+underneith. The stome has a sapphire toned color to it but is darker than
+you might expect. 
+~
+Flags 4
+Door 0 0 0 13841 0 0
+~
+~
+Door 1 0 0 13837 0 0
+~
+~
+End
+
+#13843
+Name A Long Black Corridor~
+Descr
+This is a completely new area and all that you can see are blue
+fragmented walls. As you look around, you find that these are parts of
+sapphires chipped away to make a tunnel. Walking down the tunnel, you notice
+an unusual blue light at the end. 
+~
+Flags 1
+Reset O 13802 -5 100
+Door 1 0 0 13844 0 0
+~
+~
+End
+
+#13844
+Name A Long Black Corridor~
+Descr
+This is a completely new area and all that you can see are blue
+fragmented walls. As you look around, you find that these are parts of
+sapphires chipped away to make a tunnel. Walking down the tunnel, you notice
+an unusual blue light at the end. 
+~
+Flags 5
+Door 1 0 0 13845 0 0
+~
+~
+Door 3 0 0 13843 0 0
+~
+~
+End
+
+#13845
+Name A Long Black Corridor~
+Descr
+This is a completely new area and all that you can see are blue
+fragmented walls. As you look around, you find that these are parts of
+sapphires chipped away to make a tunnel. Walking down the tunnel, you notice
+an unusual blue light at the end. 
+~
+Flags 5
+Door 1 0 0 13846 0 0
+~
+~
+Door 3 0 0 13844 0 0
+~
+~
+End
+
+#13846
+Name A Long Black Corridor~
+Descr
+This is a completely new area and all that you can see are blue
+fragmented walls. As you look around, you find that these are parts of
+sapphires chipped away to make a tunnel. Walking down the tunnel, you notice
+an unusual blue light at the end. 
+~
+Flags 5
+Door 1 0 0 13847 0 0
+~
+~
+Door 3 0 0 13845 0 0
+~
+~
+End
+
+#13847
+Name A Long Black Corridor~
+Descr
+This is a completely new area and all that you can see are blue
+fragmented walls. As you look around, you find that these are parts of
+sapphires chipped away to make a tunnel. Walking down the tunnel, you notice
+an unusual blue light at the end. 
+~
+Flags 5
+Door 1 0 0 13848 0 0
+~
+~
+Door 3 0 0 13846 0 0
+~
+~
+End
+
+#13848
+Name Before A Chamber of Sapphire~
+Descr
+Looking around, you notice an extremely large sapphire boulder right in
+front of you. Seeing this, you can see that there is an abnormal light
+radiating from behind this boulder. 
+~
+Flags 5
+Reset M 13850 1 100
+Door 0 259 0 13850 30 30
+~
+sapphire~
+Door 3 0 0 13847 0 0
+~
+~
+End
+
+#13849
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13861 0 0
+~
+~
+Door 1 0 0 13850 0 0
+~
+~
+Door 3 0 0 13871 0 0
+~
+~
+End
+
+#13850
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13851 0 0
+~
+~
+Door 2 259 0 13848 30 30
+~
+sapphire~
+Door 3 0 0 13849 0 0
+~
+~
+End
+
+#13851
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13852 0 0
+~
+~
+Door 2 0 0 13850 0 0
+~
+~
+Door 3 0 0 13861 0 0
+~
+~
+End
+
+#13852
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13853 0 0
+~
+~
+Door 2 0 0 13851 0 0
+~
+~
+Door 3 0 0 13862 0 0
+~
+~
+End
+
+#13853
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13854 0 0
+~
+~
+Door 2 0 0 13852 0 0
+~
+~
+Door 3 0 0 13863 0 0
+~
+~
+End
+
+#13854
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13855 0 0
+~
+~
+Door 2 0 0 13853 0 0
+~
+~
+Door 3 0 0 13864 0 0
+~
+~
+End
+
+#13855
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13856 0 0
+~
+~
+Door 2 0 0 13854 0 0
+~
+~
+Door 3 0 0 13865 0 0
+~
+~
+End
+
+#13856
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13857 0 0
+~
+~
+Door 2 0 0 13855 0 0
+~
+~
+Door 3 0 0 13866 0 0
+~
+~
+End
+
+#13857
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13858 0 0
+~
+~
+Door 2 0 0 13856 0 0
+~
+~
+Door 3 0 0 13867 0 0
+~
+~
+End
+
+#13858
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13859 0 0
+~
+~
+Door 2 0 0 13857 0 0
+~
+~
+Door 3 0 0 13868 0 0
+~
+~
+End
+
+#13859
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13860 0 0
+~
+~
+Door 2 0 0 13858 0 0
+~
+~
+Door 3 0 0 13869 0 0
+~
+~
+End
+
+#13860
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 2 0 0 13859 0 0
+~
+~
+Door 3 0 0 13870 0 0
+~
+~
+End
+
+#13861
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13862 0 0
+~
+~
+Door 1 0 0 13851 0 0
+~
+~
+Door 2 0 0 13849 0 0
+~
+~
+Door 3 0 0 13872 0 0
+~
+~
+End
+
+#13862
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13863 0 0
+~
+~
+Door 1 0 0 13852 0 0
+~
+~
+Door 2 0 0 13861 0 0
+~
+~
+Door 3 0 0 13873 0 0
+~
+~
+End
+
+#13863
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13864 0 0
+~
+~
+Door 1 0 0 13853 0 0
+~
+~
+Door 2 0 0 13862 0 0
+~
+~
+Door 3 0 0 13874 0 0
+~
+~
+End
+
+#13864
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13865 0 0
+~
+~
+Door 1 0 0 13854 0 0
+~
+~
+Door 2 0 0 13863 0 0
+~
+~
+Door 3 0 0 13875 0 0
+~
+~
+End
+
+#13865
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13866 0 0
+~
+~
+Door 1 0 0 13855 0 0
+~
+~
+Door 2 0 0 13864 0 0
+~
+~
+Door 3 0 0 13876 0 0
+~
+~
+End
+
+#13866
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13867 0 0
+~
+~
+Door 1 0 0 13856 0 0
+~
+~
+Door 2 0 0 13865 0 0
+~
+~
+Door 3 0 0 13877 0 0
+~
+~
+End
+
+#13867
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13868 0 0
+~
+~
+Door 1 0 0 13857 0 0
+~
+~
+Door 2 0 0 13866 0 0
+~
+~
+Door 3 0 0 13878 0 0
+~
+~
+End
+
+#13868
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13869 0 0
+~
+~
+Door 1 0 0 13858 0 0
+~
+~
+Door 2 0 0 13867 0 0
+~
+~
+Door 3 0 0 13879 0 0
+~
+~
+End
+
+#13869
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13870 0 0
+~
+~
+Door 1 0 0 13859 0 0
+~
+~
+Door 2 0 0 13868 0 0
+~
+~
+Door 3 0 0 13880 0 0
+~
+~
+End
+
+#13870
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 1 0 0 13860 0 0
+~
+~
+Door 2 0 0 13869 0 0
+~
+~
+End
+
+#13871
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13872 0 0
+~
+~
+Door 1 0 0 13849 0 0
+~
+~
+Door 3 0 0 13881 0 0
+~
+~
+End
+
+#13872
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13873 0 0
+~
+~
+Door 1 0 0 13861 0 0
+~
+~
+Door 2 0 0 13871 0 0
+~
+~
+Door 3 0 0 13882 0 0
+~
+~
+End
+
+#13873
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13874 0 0
+~
+~
+Door 1 0 0 13862 0 0
+~
+~
+Door 2 0 0 13872 0 0
+~
+~
+Door 3 0 0 13883 0 0
+~
+~
+End
+
+#13874
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13875 0 0
+~
+~
+Door 1 0 0 13863 0 0
+~
+~
+Door 2 0 0 13873 0 0
+~
+~
+Door 3 0 0 13884 0 0
+~
+~
+End
+
+#13875
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13876 0 0
+~
+~
+Door 1 0 0 13864 0 0
+~
+~
+Door 2 0 0 13874 0 0
+~
+~
+Door 3 0 0 13885 0 0
+~
+~
+End
+
+#13876
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13877 0 0
+~
+~
+Door 1 0 0 13865 0 0
+~
+~
+Door 2 0 0 13875 0 0
+~
+~
+Door 3 0 0 13886 0 0
+~
+~
+End
+
+#13877
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13878 0 0
+~
+~
+Door 1 0 0 13866 0 0
+~
+~
+Door 2 0 0 13876 0 0
+~
+~
+Door 3 0 0 13887 0 0
+~
+~
+End
+
+#13878
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13879 0 0
+~
+~
+Door 1 0 0 13867 0 0
+~
+~
+Door 2 0 0 13877 0 0
+~
+~
+Door 3 0 0 13888 0 0
+~
+~
+End
+
+#13879
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13880 0 0
+~
+~
+Door 1 0 0 13868 0 0
+~
+~
+Door 2 0 0 13878 0 0
+~
+~
+Door 3 0 0 13889 0 0
+~
+~
+End
+
+#13880
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 1 0 0 13869 0 0
+~
+~
+Door 2 0 0 13879 0 0
+~
+~
+Door 3 0 0 13890 0 0
+~
+~
+End
+
+#13881
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13882 0 0
+~
+~
+Door 1 0 0 13871 0 0
+~
+~
+Door 3 0 0 13891 0 0
+~
+~
+End
+
+#13882
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13883 0 0
+~
+~
+Door 1 0 0 13872 0 0
+~
+~
+Door 2 0 0 13881 0 0
+~
+~
+Door 3 0 0 13892 0 0
+~
+~
+End
+
+#13883
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13884 0 0
+~
+~
+Door 1 0 0 13873 0 0
+~
+~
+Door 2 0 0 13882 0 0
+~
+~
+Door 3 0 0 13893 0 0
+~
+~
+End
+
+#13884
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13885 0 0
+~
+~
+Door 1 0 0 13874 0 0
+~
+~
+Door 2 0 0 13883 0 0
+~
+~
+Door 3 0 0 13894 0 0
+~
+~
+End
+
+#13885
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13886 0 0
+~
+~
+Door 1 0 0 13875 0 0
+~
+~
+Door 2 0 0 13884 0 0
+~
+~
+Door 3 0 0 13895 0 0
+~
+~
+End
+
+#13886
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13887 0 0
+~
+~
+Door 1 0 0 13876 0 0
+~
+~
+Door 2 0 0 13885 0 0
+~
+~
+Door 3 0 0 13896 0 0
+~
+~
+End
+
+#13887
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13888 0 0
+~
+~
+Door 1 0 0 13877 0 0
+~
+~
+Door 2 0 0 13886 0 0
+~
+~
+Door 3 0 0 13897 0 0
+~
+~
+End
+
+#13888
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13889 0 0
+~
+~
+Door 1 0 0 13878 0 0
+~
+~
+Door 2 0 0 13887 0 0
+~
+~
+Door 3 0 0 13898 0 0
+~
+~
+End
+
+#13889
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Reset O 253 -1 100
+Door 0 0 0 13890 0 0
+~
+~
+Door 1 0 0 13879 0 0
+~
+~
+Door 2 0 0 13888 0 0
+~
+~
+Door 3 0 0 13899 0 0
+~
+~
+End
+
+#13890
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. A large sapphire is sitting on the ground, used as a
+table. 
+~
+Flags 3145732
+Reset M 13870 1 100
+Reset O 61 -1 12
+Door 1 0 0 13880 0 0
+~
+~
+Door 2 0 0 13889 0 0
+~
+~
+End
+
+#13891
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13892 0 0
+~
+~
+Door 1 0 0 13881 0 0
+~
+~
+End
+
+#13892
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13893 0 0
+~
+~
+Door 1 0 0 13882 0 0
+~
+~
+Door 2 0 0 13891 0 0
+~
+~
+End
+
+#13893
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13894 0 0
+~
+~
+Door 1 0 0 13883 0 0
+~
+~
+Door 2 0 0 13892 0 0
+~
+~
+End
+
+#13894
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13895 0 0
+~
+~
+Door 1 0 0 13884 0 0
+~
+~
+Door 2 0 0 13893 0 0
+~
+~
+End
+
+#13895
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13896 0 0
+~
+~
+Door 1 0 0 13885 0 0
+~
+~
+Door 2 0 0 13894 0 0
+~
+~
+End
+
+#13896
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13897 0 0
+~
+~
+Door 1 0 0 13886 0 0
+~
+~
+Door 2 0 0 13895 0 0
+~
+~
+End
+
+#13897
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 0 0 0 13898 0 0
+~
+~
+Door 1 0 0 13887 0 0
+~
+~
+Door 2 0 0 13896 0 0
+~
+~
+End
+
+#13898
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Reset M 13850 1 100
+Reset O 253 -1 100
+Door 0 0 0 13899 0 0
+~
+~
+Door 1 0 0 13888 0 0
+~
+~
+Door 2 0 0 13897 0 0
+~
+~
+End
+
+#13899
+Name Inside The Kobold Sapphire Cavers~
+Descr
+This cave is filled with a bright blue light and in some places, it is
+almost imposible to see. Rock and stones alike are all over the ground. This
+is where the head shaman sends his workers that have angered the shaman.
+These caves seem like a great place to dig up some sapphire gems, all thats
+needed is a pick-axe. 
+~
+Flags 4
+Door 1 0 0 13889 0 0
+~
+~
+Door 2 0 0 13898 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

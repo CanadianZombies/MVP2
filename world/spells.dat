@@ -1,0 +1,7675 @@
+#SPELL
+Slot 1
+Gsn 96
+SType 1
+SBits 0
+Sname Burning Hands~
+SFname Burning Hands~
+SLev 9
+Pr1 Fire Bolt~
+Noun $4burning hands$R~
+A2C1 You ignite your hands with magic $B$4fire$R$7 and touch $N.~
+A2V1 $n's hands are engulfed in $B$4fire$R$7 as he reaches for you.~
+A2NV1 $n reaches out for $N with $B$4burning$R$7 hands.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam l/2+i+cm40~
+Mana 19
+ManaT 4
+CastT 23
+Pos 7
+WearO The spell has worn off.~
+CrV1 2
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 24
+SType 4
+SBits 0
+Sname Burning feet~
+SFname Burning feet~
+SLev 12
+Noun Spell~
+A2C1 Some $B$1m$R$1a$3g$B$3i$R$3c$R$1a$B$1l $4f$R$4i$B$4r$R$4e$R surrounds your feet.~
+A2NV1 A $B$1m$R$1a$3g$B$3i$R$3c$R$1a$B$1l $4f$R$4i$B$4r$R$4e$R surrounds $n's feet!~
+Locat 22
+Durat d+l/2~
+Modif bm15~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 10
+ManaT 4
+CastT 10
+Pos 12
+WearO The fire seems to go out around your feet.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 72
+SType 1
+SBits -2143289342
+Sname Aftershock~
+SFname Aftershock~
+SLev 76
+Noun $R$4Af$B$0te$R$6rS$B$0ho$R$4cK$R~
+A2C1 You cause a major $R$4Af$B$0te$R$6rS$B$0ho$R$4cK$R!!!~
+A2V1 $n causes a major $R$4Af$B$0te$R$6rS$B$0ho$R$4cK$R and you fall to the ground!~
+A2NV1 $n creates a huge $R$4Af$B$0te$R$6rS$B$0ho$R$4cK$R and $N falls to the ground!!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+b+l/3+b+w+b+c+c+wm190~
+Mana 80
+ManaT 1
+CastT 45
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 25
+#SPELL
+Slot 0
+Gsn 552
+SType 0
+SBits 0
+Sname Swim~
+SFname Swim~
+SLev 5
+Noun Spell~
+Locat 5
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 16383
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 576
+SType 0
+SBits 0
+Sname Searching~
+SFname Searching~
+SLev 4
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 16383
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 144
+SType 1
+SBits -2143289342
+Sname Rock Slide~
+SFname Rock Slide~
+SLev 54
+Pr1 Boulder~
+Noun $6Rock Slide$R~
+A2C1 You cause an incredible rock slide!~
+A2V1 $n creates an incredible rock slide!~
+A2V2 You are crushed by the rocks from $n's rock slide!~
+A2NV1 $N is crushed by the rocks from $n's rock slide!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+w+b+w*h/2)+(w/2+w*p+w)+l/4+b+w+b+b+wm150~
+Mana 59
+ManaT 1
+CastT 37
+Pos 7
+WearO You feel a little more mobile!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 15
+#SPELL
+Slot 1
+Gsn 48
+SType 2
+SBits 1207959554
+Sname Mass Refresh~
+SFname Mass Refresh~
+SLev 50
+Pr1 Refresh~
+Noun Spell~
+A2C1 You cast a refresh spell.~
+A2V1 You feel a little bit less tired!~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 50+a+w+a~
+Mana 50
+ManaT 8
+CastT 25
+Pos 7
+WearO The spell has worn off.~
+CrV1 64
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 16
+Minwis 22
+Guild1 healerg~
+Guild2 elementg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 192
+SType 1
+SBits 0
+Sname Insurrection~
+SFname Insurrection~
+SLev 80
+Pr1 Excommunicate~
+Noun $B$3I$B$6N$B$7S$B$1U$B$6R$B$3R$B$6E$B$1CT$B$7I$B$6O$B$3N$R~
+A2C1 $n opens the gates of heaven and unleashes the $B$3I$B$6N$B$7S$B$1U$B$6R$B$3R$B$6E$B$1CT$B$7I$B$6O$B$3N$R~
+A2V1 $N unleashes the $B$3I$B$6N$B$7S$B$1U$B$6R$B$3R$B$6E$B$1CT$B$7I$B$6O$B$3N$R$7, your body burns in immense pain.~
+A2NV1 $N unleashes the $B$3I$B$6N$B$7S$B$1U$B$6R$B$3R$B$6E$B$1CT$B$7I$B$6O$B$3N$R$7, your body burns in immense pain.~
+Locat 2
+Durat 5~
+Modif -10~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (h+150)+1/2+(h*w)+d+c+b+cm250~
+Mana 75
+ManaT 1
+CastT 32
+Pos 7
+WearO Blood rushes through your veins, as the paralyzing light fades away.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 25
+Guild1 healerg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 97
+SType 1
+SBits 0
+Sname Fire Bolt~
+SFname Fire Bolt~
+SLev 5
+Pr1 Magic Missile~
+Noun $R$4f$Bi$R$4r$Be $R$4b$Bo$R$4l$Bt$R~
+A2C1 $R$7A bolt of $4fire$7 leaves your hand, striking $N.~
+A2V1 $n raises a hand and a bolt of $4fire$7 shoots out at you!~
+A2NV1 $n cackles as a bolt of $4fire$7 hits $N.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (a2m25)~
+Mana 15
+ManaT 4
+CastT 20
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 18
+Minwis 10
+#SPELL
+Slot 0
+Gsn 553
+SType 0
+SBits 0
+Sname Butcher~
+SFname Butcher~
+SLev 3
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 10008
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 25
+SType 0
+SBits 0
+Sname Ball of Light~
+SFname Ball of Light~
+SLev 5
+Noun Spell~
+A2C1 You snap your fingers and create a small ball of $6$Blight$R.~
+A2NV1 $n snaps $s fingers and creates a small ball of $6$Blight$R.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 5
+ManaT -1
+CastT 24
+Pos 12
+WearO The spell has worn off.~
+CrObj 21
+CrV1 1
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 73
+SType 1
+SBits -2147483646
+Sname Sandstorm~
+SFname Sandstorm~
+SLev 79
+Pr1 Sand Blast~
+Noun $B$6S$R$6a$B$6n$R$6d $B$6S$R$6t$B$6o$R$6r$B$6m$R~
+Locat 0
+Durat w~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+b+l/2+b+w+b+c+c+wm200~
+Mana 85
+ManaT 1
+CastT 46
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 577
+SType 0
+SBits 0
+Sname Second Kick~
+SFname Second Kick~
+SLev 63
+Pr1 kick~
+Noun kick~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 0
+ManaT 0
+CastT 20
+Pos 5
+WearO The spell has worn off.~
+CrV1 9788
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 16
+Guild1 warriorg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 193
+SType 1
+SBits 2097152
+Sname Super Nova~
+SFname Super Nova~
+SLev 91
+Noun $B$7S$B$6u$B$4p$B$6e$B$7r $B$5N$B$0ov$B$5a$R~
+A2C1 $N calls upon the powers of the heavens and unleashes the $B$7S$B$6u$B$4p$B$6e$B$7r $B$5N$B$0ov$B$5a$R ~
+A2V1 $N unleashes the $B$7S$B$6u$B$4p$B$6e$B$7r $B$5N$B$0ov$B$5a$R causing excruitating pain. ~
+A2NV1 $N unleashes the $B$7S$B$6u$B$4p$B$6e$B$7r $B$5N$B$0ov$B$5a$R causing excruitating pain. ~
+Locat 0
+Durat 30~
+Modif 0~
+BitVe 268439553
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam i+1/2+i+w+a+i+w+l*2/3+10~
+Mana 1
+ManaT -1
+CastT 8
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 healerg~
+Guild3 elementg~
+Guild4 wizardg~
+#SPELL
+Slot 1
+Gsn 145
+SType 2
+SBits 1073741826
+Sname Mass Invisibility~
+SFname Mass Invisibility~
+SLev 70
+Pr1 Invisibility~
+Noun Spell~
+A2C1 Your invisibility spell on $N was successful.~
+A2V1 $n has casted a spell of invisibility upon you.~
+A2V2 You slowly fade into thin air.~
+A2NV1 $n casted a spell of invisibility upon $N.~
+A2NV2 $N slowly fades into thin air.~
+Locat 0
+Durat l/6~
+Modif 0~
+BitVe 2
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 85
+ManaT 2
+CastT 70
+Pos 5
+WearO You pop back into existance!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 30
+Minwis 20
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 49
+SType 2
+SBits 1073741834
+Sname Mass Healing~
+SFname Mass Healing~
+SLev 65
+Pr1 Healing~
+Pr2 Mass Refresh~
+Noun Spell~
+A2C1 You cast a spell over all of your allies.~
+A2V1 $n sends a warm feeling through your body.~
+A2NV1 $N looks better!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam ((w*10)*h)+((w*7)*e)+((w*5)*p)+b+a~
+Mana 58
+ManaT 1
+CastT 65
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 14
+Minwis 22
+Guild1 healerg~
+Guild2 elementg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 98
+SType 1
+SBits -2147483646
+Sname Fireball~
+SFname Fireball~
+SLev 18
+Pr1 Burning Hands~
+Pr2 Fists of Fire~
+Noun $B$4F$R$4i$B$6r$R$6eb$B$6a$R$4l$B$4l$R~
+A2C1 $R$7You grin as a massive $B$4fireball$R$7 engulfs your enemies.~
+A2V1 $n sends a massive $B$4fireball$R$7 at you, OUCH!~
+A2NV1 $n grins as $s $B$4fireball$R$7 slams into $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (1+e)+(1+g)+(a+j)+(i/2+b+a)~
+Mana 28
+ManaT 4
+CastT 35
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 10
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 578
+SType 0
+SBits 0
+Sname Dual Backstab~
+SFname Dual Backstab~
+SLev 65
+Pr1 Backstab~
+Pr2 Dual Daggers~
+Noun backstab~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 0
+ManaT 0
+CastT 0
+Pos 9
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 19
+Minwis 23
+Guild1 thiefg~
+Guild2 assassing~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 554
+SType 0
+SBits 0
+Sname Backstab~
+SFname Backstab~
+SLev 15
+Pr1 Piercing Weapons~
+Pr2 Armor Penetration~
+Noun backstab~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 25
+ManaT 0
+CastT 50
+Pos 9
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+Guild1 thiefg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 2
+SType 2
+SBits 1
+Sname Teleport~
+SFname Teleport~
+SLev 90
+Pr1 Locate Person~
+Pr2 Summon~
+Noun Spell~
+A2C1 You feel tug of space and time, and when you recover your senses, you are in a different place.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 120
+ManaT 2
+CastT 60
+Pos 12
+WearO The spell has worn off.~
+CrV1 2
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 24
+Minwis 24
+#SPELL
+Slot 1
+Gsn 146
+SType 1
+SBits 0
+Sname Typhoon~
+SFname Typhoon~
+SLev 72
+Pr1 Cyclone~
+Noun $B$1T$R$1y$B$0p$R$7h$B$0o$R$1o$B$1n~
+A2C1 You summon a massive $B$1T$R$1y$B$0p$R$7h$B$0o$R$1o$B$1n$R to SLAM into $N!~
+A2V1 The heavy rain and strong winds from $n's $B$1T$R$1y$B$0p$R$7h$B$0o$R$1o$B$1n$R slam into you!~
+A2NV1 $n summons a massive $B$1T$R$1y$B$0p$R$7h$B$0o$R$1o$B$1n$R directed at $N!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (90*e)+(70*g)+(b+5*j)+(i+i/2+a+i)+(i/10)+(i/10)+(i/10)~
+Mana 61
+ManaT 2
+CastT 35
+Pos 7
+WearO You feel stronger!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 15
+#SPELL
+Slot 1
+Gsn 50
+SType 2
+SBits 1073741836
+Sname Shower of Life~
+SFname Shower of Life~
+SLev 90
+Pr2 Divine Healing~
+Noun Spell~
+A2C1 A shower of life springs forth from your hands.~
+A2V1 You are bathed in $n's shower of life.~
+A2NV1 $n bathes $N in a shower of life.~
+Locat 0
+BitVe 4199425
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (400+w+w+w+w+w+w+w+*h)+(300+w+w+w+w+w*e)+(150+w+w+w+w*p)+b+wm~
+Mana 150
+ManaT 1
+CastT 35
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 22
+Guild1 healerg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 194
+SType 0
+SBits 67141632
+Sname Portal to Heaven~
+SFname Portal to Heaven~
+SLev 80
+Noun Spell~
+A2C1 $R$3You wave your hands high in the air and call to the heavens!$R~
+A2C2 $R$3A $B$3r$7a$3y $R$3of $B$6li$7g$6ht$R$3 shoots down and a potal opens before you.$R~
+A2NV1 $R$3$N waves their hands high in the air and call to the heavens!$R~
+A2NV2 $R$3A $B$3r$7a$3y $R$3of $B$6li$7g$6ht$R$3 shoots down and a potal opens before you.$R~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 230
+ManaT 1
+CastT 100
+Pos 5
+WearO The spell has worn off.~
+CrObj 8
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 74
+SType 1
+SBits 0
+Sname Nightmare~
+SFname Nightmare~
+SLev 8
+Noun distort~
+A2C1 You hypnotize your $n into a nightmare~
+A2V1 $n causes you to have horrible dreams of evil.~
+A2NV1 $n creats horrible illusions.~
+Locat 15
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam bm15~
+Mana 5
+ManaT 16
+CastT 5
+Pos 7
+WearO You awake from your horrible nightmare.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 26
+SType 0
+SBits 67108864
+Sname Magical Spring~
+SFname Magical Spring~
+SLev 16
+Noun Spell~
+A2C1 You create a $1m$B$3a$R$3g$B$1i$R$3c$B$3a$R$1l $Bspring$R!~
+A2NV1 $n creates a $1m$B$3a$R$3g$B$1i$R$3c$B$3a$R$1l $Bspring$R!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 10
+ManaT 8
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrObj 22
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 171
+SType 2
+SBits 0
+Sname Gods Protection~
+SFname Gods Protection~
+SLev 91
+Noun Spell~
+A2C1 You cast your protection upon the mortal $N~
+A2V1 $n casts a godly protection upon you!!~
+A2NV1 $N casts a godly protection upon $n!!~
+Locat 17
+Linkd sanctuary~
+Durat l/10~
+Modif -l-c~
+BitVe 2
+BitT 8
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT -1
+CastT 1
+Pos 5
+WearO You are no longer under the gods protection!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 99
+SType 1
+SBits 0
+Sname Flamestrike~
+SFname Flamestrike~
+SLev 22
+Pr1 Fists of Fire~
+Noun $B$4flame$R$4strike$R~
+A2C1 $R$7You send forth a torrent of $B$4flame$R$7, striking $N!~
+A2V1 $n sends forth a torrent of $B$4flame$R$7, burning you severely.~
+A2NV1 $n sends forth a torrent of $B$4flame$R$7, burning $N!~
+Locat 0
+Durat N/A~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (20+a*e)+(10*g)+(a*j)+(i+i/2+b)+(i/5)+(i/5)~
+Mana 20
+ManaT 4
+CastT 22
+Pos 7
+WearO None~
+CrV1 16
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 11
+Guild1 wizardg~
+Guild2 battleg~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 75
+SType 1
+SBits 0
+Sname Dark Matter~
+SFname Dark Matter~
+SLev 24
+Pr1 Animate Skeleton~
+Noun $B$0Dark $R$1Matter$R~
+A2C1 You wave your hands as Dark Matter comes out..~
+Locat 0
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (i+w)/2~
+Mana 28
+ManaT 16
+CastT 25
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 555
+SType 0
+SBits 0
+Sname Dodge~
+SFname Dodge~
+SLev 15
+Pr1 parry~
+Noun Spell~
+Locat 1
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 10044
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+#SPELL
+Slot 1
+Gsn 3
+SType 2
+SBits 1073741826
+Sname Call of Courage~
+SFname Call of Courage~
+SLev 60
+Pr1 Battle Fury~
+Noun Spell~
+A2C1 You cast $B$1C$R$1all $B$7o$R$7f $B$4C$R$4ourage$R on $N~
+A2V1 $n casts $B$1C$R$1all $B$7o$R$7f $B$4C$R$4ourage$R upon you.~
+A2NV1 $n casted $B$1C$R$1all $B$7o$R$7f $B$4C$R$4ourage$R on $N.~
+Locat 13
+Durat l/6~
+Modif w~
+BitVe 256
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 75
+ManaT 1
+CastT 45
+Pos 12
+WearO You feel less courageous.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 25
+#SPELL
+Slot 1
+Gsn 27
+SType 128
+SBits 16777216
+Sname Animate Skeleton~
+SFname Animate Skeleton~
+SLev 20
+Pr1 Nightmare~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 35
+ManaT 16
+CastT 40
+Pos 5
+WearO The spell has worn off.~
+CrObj 800
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 579
+SType 0
+SBits 0
+Sname Warcry~
+SFname Warcry~
+SLev 50
+Pr1 Bloodlust~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 50
+ManaT 0
+CastT 10
+Pos 5
+WearO The blood flowing through your veins slows down.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 warriorg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 51
+SType 2
+SBits 4
+Sname Remove Poison~
+SFname Remove Poison~
+SLev 10
+Noun Spell~
+A2C1 You draw $B$2p$R$2o$3iso$B$2n$R from the afflicted.~
+A2V1 You feel the $B$2p$R$2o$3iso$B$2n$R disappearing from your $3bloodstream$R.~
+A2NV1 $N looks a lot less sick.~
+Locat 0
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 10
+ManaT 8
+CastT 15
+Pos 12
+WearO The spell has worn off.~
+CrV1 65
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+#SPELL
+Slot 1
+Gsn 147
+SType 1
+SBits 536870912
+Sname Napalm~
+SFname Napalm~
+SLev 56
+Pr1 Lava~
+Noun $B$6N$R$4a$B$6P$R$4a$B$6L$R$4m$R~
+A2C1 Using all of the knowledge you have of fire, you create an enormous storm of fire!~
+A2V1 $n creates a $B$4f$6i$4e$6r$4y$R storm, engulfing you!~
+A2NV1 $n creates a $B$4f$6i$4e$6r$4y$R storm, engulfing $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (160*e)+(145*g)+(c+c+c*j)+(i+i/2+a)+i+(i/2)+((i*4)/2)~
+Mana 68
+ManaT 4
+CastT 60
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 10
+#SPELL
+Slot 1
+Gsn 100
+SType 1
+SBits -1610612734
+Sname Firestorm~
+SFname Firestorm~
+SLev 27
+Pr1 Fireball~
+Noun $B$4storm of fire$R$7~
+A2C1 You send forth a mighty $B$4Firestorm$R$7!~
+A2V1 $n incinerates you with $s mighty $B$4Firestorm$R$7!~
+A2NV1 $n incinerates $N with $s mighty $B$4Firestorm$R$7.~
+Locat 0
+Durat N/A~
+Modif N/A~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (80*e)+(70*g)+(a*j)+(i+i/2+b-a)+(i/10)+(i/10)~
+Mana 37
+ManaT 4
+CastT 50
+Pos 7
+WearO The spell has worn off.~
+CrV1 4096
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 28
+SType 2
+SBits 1073741826
+Sname Earthen Strength~
+SFname Earthen Strength~
+SLev 40
+Noun Spell~
+A2C1 You cast $R$6Earthen Strength$R on $N.~
+A2V1 You feel your muscles tighten as $R$6Earthen Strength$R is casted on you.~
+A2NV1 $n looks like $s muscles have grown.~
+Locat 1
+Durat l/6~
+Modif 1~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 30
+ManaT 1
+CastT 25
+Pos 7
+WearO Your muscles feel a bit weaker as your spell wears off.~
+CrV1 8208
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 17
+Minwis 15
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 52
+SType 2
+SBits 4
+Sname Cure Blindness~
+SFname Cure Blindness~
+SLev 12
+Noun Spell~
+A2C1 You attempt to remove $N's blindness.~
+A2V1 $n has restored your sight! YOU CAN SEE AGAIN!!!.~
+A2NV1 $n mumbles some words at $N's eyes.~
+Locat 0
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 12
+ManaT 4
+CastT 25
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 8
+Minwis 8
+#SPELL
+Slot 0
+Gsn 580
+SType 0
+SBits 0
+Sname Berserk~
+SFname Berserk~
+SLev 70
+Pr1 Third Attack~
+Pr2 Warcry~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 2
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 warriorg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 172
+SType 4
+SBits 0
+Sname Blur~
+SFname Blur~
+SLev 4
+Pr1 Magic Missile~
+Noun Spell~
+A2C1 Your body begins to $B$1b$3l$R$3u$1r $Ragainst your surroundings.~
+A2NV1 $n becomes very $B$1bl$B$3ur$R$3r$1y$R~
+Locat 17
+Durat (l/2)+24~
+Modif -a-2~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 4
+ManaT 2
+CastT 10
+Pos 5
+WearO You come back into focus.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 2
+Minwis 5
+#SPELL
+Slot 1
+Gsn 148
+SType 4
+SBits 0
+Sname Warrior Rage~
+SFname Warrior Rage~
+SLev 80
+Pr1 Bloodlust~
+Noun Spell~
+A2C1 You cast a spell of Warrior $4R $R$6A$B$4 G$6 E$R on yourself!~
+A2NV1 $n casts a spell of Warrior $4R $R$6A$B$4 G$6 E$R on $mself!~
+Locat 19
+Durat l/4+a~
+Modif (j*8)+(o*15)+(u*10)+(p*12)~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Affl $B$4...is enraged in fury!$R~
+Affs $B$4($N$4Enraged$B)$N~
+Mana 100
+ManaT -1
+CastT 40
+Pos 5
+WearO Your rage is over.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 19
+Minwis 18
+Guild1 warriorg~
+Guild2 palading~
+Guild3 marauderg~
+Guild4 battleg~
+#SPELL
+Slot 1
+Gsn 76
+SType 1
+SBits 0
+Sname Vortex~
+SFname Vortex~
+SLev 40
+Pr1 Whirlwind~
+Pr2 Wind Blast~
+Noun $B$0V$7o$0R$7t$0E$7x$R~
+A2C1 You cast $B$0VoRtEx$R on $n~
+A2V1 $N casts $B$0VoRtEx$R on you.~
+A2NV1 $N casts $B$0VoRtEx$R on $N.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (50*e)+(40*g)+(a+a*j)+(i/5+i/5+a)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 37
+ManaT 2
+CastT 23
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 18
+Minwis 23
+#SPELL
+Slot 0
+Gsn 556
+SType 0
+SBits 0
+Sname Hide~
+SFname Hide~
+SLev 25
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1296
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 assassing~
+Guild2 thiefg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 29
+SType 2
+SBits 0
+Sname Bless~
+SFname Bless~
+SLev 44
+Pr1 Aid~
+Noun Spell~
+A2C1 Your $B$1bless$R was successful.~
+A2V1 You feel $B$1blessed$R!~
+A2NV1 $N is briefly surrounded in a $B$1blue glowing aura$R.~
+Locat 18
+Durat (d/2)+(l/2)~
+Modif (h*20)+(l/4)~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 37
+ManaT 1
+CastT 23
+Pos 12
+WearO You no longer have the blessing of the gods.~
+CrV1 129
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 20
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 581
+SType 1
+SBits 0
+Sname vampiric bite~
+SFname bite~
+SLev 45
+Pr1 Unholy Wrath~
+Noun Vampiric Bite~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 30
+ManaT 0
+CastT 10
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 25
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 53
+SType 1
+SBits 0
+Sname Wind Shear~
+SFname Wind Shear~
+SLev 35
+Pr1 Wind Gust~
+Pr2 Whirlwind~
+Noun $R$1wi$B$0nd$R$7 s$B$0he$R$1ar$R~
+A2C1 You summon a powerful Wind Shear!~
+A2V1 You are knocked off your feet by $n's powerful Wind Shear!~
+A2NV1 $N is hit by $n's powerful Wind Shear!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (30*e)+(25*g)+(a+a*j)+(i/4+a+a)+(i/10)+(i/10)~
+Mana 33
+ManaT 2
+CastT 21
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 5
+SType 2
+SBits 0
+Sname Protection From Good~
+SFname Protection From Good~
+SLev 44
+Pr1 Sanctuary~
+Noun Spell~
+A2C1 You seek protection from the good of the land.~
+A2V1 $n has granted you a special protection from the good of the land.~
+A2NV1 $n has granted $N a special protection from the good of the land.~
+Locat 0
+Durat l/5+a/2~
+Modif 0~
+BitVe 33554432
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 40
+ManaT 1
+CastT 24
+Pos 12
+WearO You feel less protected~
+CrV1 4096
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 15
+Guild1 healerg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 557
+SType 0
+SBits 0
+Sname Peek~
+SFname Peek~
+SLev 5
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 thiefg~
+#SPELL
+Slot 1
+Gsn 149
+SType 2
+SBits 1073741826
+Sname Mass Sanctuary~
+SFname Mass Sanctuary~
+SLev 60
+Pr1 Mass Refresh~
+Pr2 Mass Healing~
+Noun Spell~
+A2C1 You call for the protection of the gods on $N!~
+A2V1 $n casts a spell of sanctuary on you!~
+A2NV1 $n casts a spell of sanctuary on $N!~
+Locat 0
+Durat w/2+a~
+Modif 0~
+BitVe 128
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 100
+ManaT 8
+CastT 30
+Pos 12
+WearO You feel a little less protected!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+Guild1 elementg~
+Guild2 healerg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 173
+SType 4
+SBits 1073741826
+Sname Holy Armor~
+SFname Holy Armor~
+SLev 60
+Pr1 Barrier~
+Pr2 Cloak of Bravery~
+Noun Spell~
+A2C1 You cast $B$7H$6ol$7y $1A$R$1r$Bm$R$1o$Br$R on yourself.~
+A2NV1 $N cast $B$7H$6ol$7y $1A$R$1r$Bm$R$1o$Br$R on themselves.~
+Locat 17
+Durat w+b~
+Modif -1*(w+a)~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 70
+ManaT 1
+CastT 20
+Pos 12
+WearO Your Holy Armor explodes.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 25
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 77
+SType 1
+SBits -2147483646
+Sname Hurricane~
+SFname Hurricane~
+SLev 83
+Pr1 Tornado~
+Pr2 Cyclone~
+Noun $B$3H$1u$R$3RR$1i$3Ca$B$1N$3e$5~
+A2C1 You send a powerful $B$3H$1u$R$3RR$1i$3Ca$B$1N$3e$R at $N~
+A2V1 $N hits you with a powerful $B$3H$1u$R$3RR$1i$3Ca$B$1N$3e$R~
+A2NV1 $N hits $n with a powerful $B$3H$1u$R$3RR$1i$3Ca$B$1N$3e$R~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (78*e)+(65*g)+(a+b+10*j)+(i+i/2+b)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 69
+ManaT 2
+CastT 39
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 102
+SType 1
+SBits 0
+Sname Dust Devil~
+SFname Dust Devil~
+SLev 10
+Pr1 Lightning Bolt~
+Noun $6d$R$6u$B$6s$R$6t $B$4d$R$4e$B$4v$R$4i$B$4l$5~
+A2C1 You send $B$6t$R$6w$B$6i$R$6r$B$6l$R$6i$Bn$R$6g$R $B$1wind$R at $N.~
+A2V1 $n's  $6d$R$6u$B$6s$R$6t $B$4d$R$4e$B$4v$R$4i$B$4l$R slams into you!~
+A2NV1 $n howls as a gust of wind moves toward $N.~
+Locat 0
+Durat N/A~
+Modif N/A~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam l/4+i+am30~
+Mana 13
+ManaT 2
+CastT 11
+Pos 7
+WearO None~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 15
+#SPELL
+Slot 1
+Gsn 174
+SType 2
+SBits 0
+Sname Divine Protection~
+SFname Divine Protection~
+SLev 60
+Pr1 Stone Skin~
+Noun Spell~
+A2C1 You cast Divine Protection on yourself.~
+A2NV1 $N is Protected by a divine intervention.~
+Locat 17
+Durat w-a~
+Modif -w-b~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 75
+ManaT 1
+CastT 30
+Pos 12
+WearO You are no longer Protected!!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 healerg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 30
+SType 2
+SBits 0
+Sname Combat Tactics~
+SFname Combat Tactics~
+SLev 17
+Pr1 Slashing Weapons~
+Noun Spell~
+A2C1 Your enchantment was successful.~
+A2V1 $n aids you with $B$4c$0o$4m$0b$4a$0t$R tactics.~
+A2NV1 $n aids $N in understanding Combat Tactics.~
+Locat 19
+Durat l~
+Modif (a+1)m5~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 15
+ManaT 4
+CastT 17
+Pos 12
+WearO You feel a bit less ready for battle.~
+CrV1 512
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+#SPELL
+Slot 0
+Gsn 582
+SType 0
+SBits 0
+Sname Charge~
+SFname Charge~
+SLev 55
+Pr1 Battle Fury~
+Pr2 Shield Rush~
+Noun Charge~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 30
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 78
+SType 1
+SBits 0
+Sname Acid Arrow~
+SFname Acid Arrow~
+SLev 9
+Pr1 Magic Missile~
+Noun $B$2a$R$2c$B$7i$R$3d $B$2a$R$3r$B$7r$R$2o$B$2w$R~
+A2C1 You shoot a small $B$2acid$R$7 arrow at $N.~
+A2V1 $n shoots a small $B$2acid$R$7 arrow at you.~
+A2NV1 $n shoots a small $B$2acid$R$7 arrow at $N.~
+Locat 0
+Durat a+3~
+Modif 0~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam i+bm25~
+Mana 10
+ManaT 8
+CastT 15
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 18
+Minwis 15
+#SPELL
+Slot 1
+Gsn 54
+SType 1
+SBits 0
+Sname Winds of Chaos~
+SFname Winds of Chaos~
+SLev 45
+Pr1 Unholy Wrath~
+Noun $R$4Cha$B$0o$R$4ti$B$4c $B$0Wi$R$4nd~
+A2C1 You summon a massive swirl of winds!~
+A2V1 You are consumed by $n's Chaotic Wind!~
+A2NV1 $N is surrounded by $n's Chaotic Wind!~
+Locat 19
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 50+(w*3)+(i*2)~
+Mana 50
+ManaT 16
+CastT 45
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 126
+SType 1
+SBits 0
+Sname Sphere of Destruction~
+SFname Sphere of Destruction~
+SLev 85
+Pr1 Balefire~
+Noun $B$4S$0p$6H$4e$0R$6e $4O$0f $6D$4e$0S$6t$4R$0u$6C$4t$0i$6O$4n$0!~
+A2C1 You raise your your hands towards the $B$3Heavens$7!~
+A2C2 You call upon the GODS and create a HUGE ball of $B$4F$6i$4r$6e$7!~
+A2V1 Holy shit!  That hurt like hell!~
+A2NV1 $N is blown away by $n's HUGE ball of $B$4F$6i$4r$6e$7!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 850*(e/2)~
+Mana 95
+ManaT 4
+CastT 120
+Pos 7
+WearO none~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 24
+Minwis 12
+#SPELL
+Slot 1
+Gsn 150
+SType 1
+SBits -2147221502
+Sname Ray of Fatigue~
+SFname Ray of Fatigue~
+SLev 65
+Pr1 Soul Smash~
+Noun $B$1R$R$1a$By $R$2of $B$6F$R$6a$B$0t$R$3i$B$0g$R$6u$B$6e$R~
+A2C1 You cast a $B$1R$R$1a$By $R$2of $B$6F$R$6a$B$0t$R$3i$B$0g$R$6u$B$6e$R upon $N!~
+A2V1 $n hits you with his $B$1R$R$1a$By $R$2of $B$6F$R$6a$B$0t$R$3i$B$0g$R$6u$B$6e$R!~
+A2NV1 $n hits $N with his $B$1R$R$1a$By $R$2of $B$6F$R$6a$B$0t$R$3i$B$0g$R$6u$B$6e$R!~
+Locat 14
+Durat 4~
+Modif (-w*2)-i~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 60+(w*4)+(i*4)~
+Mana 70
+ManaT 16
+CastT 65
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 12
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 6
+SType 2
+SBits 0
+Sname Protection From Evil~
+SFname Protection From Evil~
+SLev 44
+Pr1 Sanctuary~
+Noun Spell~
+A2C1 You seek protection from the evils of the land.~
+A2V1 $n has granted you protection from the evils of the land.~
+A2NV1 $n has granted $N a special protection from the evils of the land.~
+Locat 0
+Durat l/5+a/2~
+Modif 0~
+BitVe 16777216
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 40
+ManaT 1
+CastT 14
+Pos 12
+WearO You feel less protected.~
+CrV1 1
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 15
+Guild1 healerg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 558
+SType 0
+SBits 0
+Sname Locksmithy~
+SFname Locksmithy~
+SLev 14
+Pr1 None~
+Pr2 None~
+Noun Spell~
+Locat 5
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 thiefg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 175
+SType 2
+SBits 16
+Sname Complete Heal~
+SFname Complete Heal~
+SLev 91
+Noun Spell~
+A2C1 With a bright $B$6yellow$R glow, you heal $N of all wounds.~
+A2V1 You feel like your bones heal back together.~
+A2NV1 $N glows in a bright light and is healed.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w*5)+(h*300+c+c)m500~
+Mana 200
+ManaT 1
+CastT 25
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 28
+#SPELL
+Slot 1
+Gsn 55
+SType 1
+SBits 0
+Sname Cyclone~
+SFname Cyclone~
+SLev 65
+Pr1 Tornado~
+Noun $R$1C$B$4Y$B$6C$4L$B$6O$B$4N$R$1E$R~
+A2C1 You call upon the forces of natrue. You slam a $R$1C$B$4Y$B$6C$4L$B$6O$B$4N$R$1E$R into $n.~
+A2V1 $N SLAMS a $R$1C$B$4Y$B$6C$4L$B$6O$B$4N$R$1E$R into you.~
+A2NV1 $N SLAMS a $R$1C$B$4Y$B$6C$4L$B$6O$B$4N$R$1E$R into $n that has to hurt.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (45*e)+(30*g)+(b*j)+(i+i/2+b)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 57
+ManaT 2
+CastT 33
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 15
+#SPELL
+Slot 1
+Gsn 31
+SType 4
+SBits 0
+Sname Bloodlust~
+SFname Bloodlust~
+SLev 40
+Pr1 Combat Tactics~
+Pr2 Second Attack~
+Noun none~
+A2C1 $B$4You feel the calling of the blood!$R$7~
+A2NV1 $n snarls and goes into a fury.~
+Locat 19
+Durat l/2+c~
+Modif (j*4)+(o*10)+(u*6)+(p*8)+3~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 50
+ManaT 4
+CastT 34
+Pos 12
+WearO You calm down.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+Guild1 warriorg~
+Guild2 palading~
+Guild3 marauderg~
+Guild4 battleg~
+#SPELL
+Slot 1
+Gsn 79
+SType 1
+SBits 268435456
+Sname Acid Bolt~
+SFname Acid Bolt~
+SLev 15
+Pr1 Acid Arrow~
+Noun $B$2a$R$2Ci$3Di$2C bO$BlT$R~
+A2C1 You send a bolt of $B$2acid$R$7 out, striking $N.~
+A2V1 $n sends a large bolt of $B$2acid$R$7 at YOU!~
+A2NV1 $n sends a large bolt of $B$2acid$R$7 to strike $N!~
+Locat 0
+Durat a+1~
+Modif 0~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (15*e)+(5*j)+(10*g)+(l/9)+(i/2)+a+bm50~
+Mana 19
+ManaT 8
+CastT 15
+Pos 7
+WearO You feel better.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 11
+Guild1 elementg~
+Guild2 wizardg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 559
+SType 0
+SBits 0
+Sname Sneaking~
+SFname Sneaking~
+SLev 8
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO You stop sneaking...~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 thiefg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 7
+SType 2
+SBits 0
+Sname Sanctuary~
+SFname Sanctuary~
+SLev 43
+Pr1 Shielding~
+Pr2 Barrier~
+Noun Spell~
+A2C1 You call for the $B$1sanctuary$R of the gods!~
+A2V1 You feel the hands of the gods place $B$1sanctuary$R on you.~
+A2NV1 $N $B$6glows$R in the $B$1sanctuary$R of the gods.~
+Locat 17
+Durat l/2+c~
+Modif -a-a~
+BitVe 128
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 80
+ManaT 8
+CastT 30
+Pos 12
+WearO You feel less protected.~
+CrV1 1
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 20
+#SPELL
+Slot 1
+Gsn 127
+SType 1
+SBits -2147483646
+Sname Mystical Fury~
+SFname Mystical Fury~
+SLev 90
+Pr1 Balefire~
+Pr2 Sphere of Destruction~
+Noun $B$1$FM$3y$1s$3t$1i$3c$1a$3l $4F$R$F$4u$B$4ry$R~
+A2C1 Using everything you have learned in the art of Sorcery,~
+A2C2 you create a mystical power more powerful than anything you have ever seen!~
+A2V1 You are hit with pure $4$FDeath!$R~
+A2NV1 $N is hit with pure $4$FDeath!$R~
+Locat 0
+Durat a~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (580+i*e)+(495*g)+(420*j)+b+a+a+a~
+Mana 110
+ManaT 4
+CastT 140
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 27
+Minwis 25
+#SPELL
+Slot 1
+Gsn 103
+SType 1
+SBits 0
+Sname Ice Shards~
+SFname Ice Shards~
+SLev 88
+Pr1 Tropical Storm~
+Noun $B$1I$3c$1e S$3h$1a$3r$1d$3s$R~
+A2C1 You summon a storm of ice shards!~
+A2V1 $n sends forth $1I$3c$1e S$3h$1a$3r$1d$3s$R, raining down on you!~
+A2NV1 $n sends forth $1I$3c$1e S$3h$1a$3r$1d$3s$R, raining down on $N!~
+Locat 22
+Durat l/15~
+Modif -l/2~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (210*e)+(185*g)+(a+c+b+b*j)+(i+i/2+b+i+i+i)~
+Mana 75
+ManaT 8
+CastT 46
+Pos 7
+WearO You feel better.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 15
+Guild1 elementg~
+Guild2 wizardg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 583
+SType 0
+SBits 0
+Sname Investigation~
+SFname Investigation~
+SLev 10
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 9
+WearO The spell has worn off.~
+CrV1 16383
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 560
+SType 0
+SBits 0
+Sname Flash~
+SFname Flash~
+SLev 80
+Pr1 Circle~
+Pr2 Dual Backstab~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 15
+ManaT 0
+CastT 50
+Pos 5
+WearO The spell has worn off.~
+CrV1 11580
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 thiefg~
+Guild2 assassing~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 584
+SType 0
+SBits 0
+Sname Dual Daggers~
+SFname Dual Daggers~
+SLev 40
+Pr1 Piercing Weapons~
+Pr2 Second Attack~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1076
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 20
+Guild1 thiefg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 128
+SType 1
+SBits 0
+Sname Divine Fury~
+SFname Divine Fury~
+SLev 61
+Pr1 Earthen Hammer~
+Noun $B$6D$7iV$1iN$6e $B$4FuRy$R~
+A2C1 You smite $N with your $B$4DIVINE FURY$R!~
+A2V1 You are smitten with $B$4DIVINE FURY$R!~
+A2NV1 $N is smitten with $B$4DIVINE FURY$R!~
+Locat 0
+Durat w~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+l/4+b+w+c+c+wm150~
+Mana 69
+ManaT 1
+CastT 42
+Pos 7
+WearO You can see again!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 24
+#SPELL
+Slot 1
+Gsn 104
+SType 1
+SBits -2147483646
+Sname Chain Lightning~
+SFname Chain Lightning~
+SLev 24
+Pr1 Lightning Bolt~
+Noun $B$7ch$R$7ai$R$6n l$B$6igh$R$6tn$7i$Bng$R~
+A2C1 You create an arcing chain of $B$6lighting bolts!$R~
+A2V1 $n creates an arcing chain of $6lightning bolts$R$7 which hits you!~
+A2NV1 $n creates an arcing chain of $6lightning bolts$R$7 which hits $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (12*e)+(13*g)+(a*j)+(i/4+a)+(i/10)+(i/10)~
+Mana 25
+ManaT 2
+CastT 17
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 11
+Guild1 wizardg~
+Guild2 battleg~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 8
+SType 1
+SBits 536870912
+Sname Balefire~
+SFname Balefire~
+SLev 78
+Pr1 Eruption~
+Noun $4immense FLAME!$R~
+A2C1 $B$7YOU CAUSE UNSPEAKABLE PAIN TO $N WITH YOUR SHIMMERING$R~
+A2C2 $B$7B$6A$7R $6O$7F $6L$7I$6Q$7U$6I$7D $4F$7I$4R$7E$4!$7!$4!$7!$R~
+A2V1 $B$7YOUR SENSES ARE $4*****ROCKED*****$7 AS $n BLASTS YOU WITH A $R~
+A2V2 $B$7S$6H$7I$6M$7M$6E$7R$6I$7N$6G $7BAR OF $1L$7I$1Q$7U$1I$7D $4F$7I$4R$7E$7!!!!$R~
+A2NV1 $B$7$n CREATES A $7S$6H$7I$6M$7M$6E$7R$6I$7N$6G $7BAR OF $1L$7I$1Q$7U$1I$7D $4F$7I$4R$7E$R~
+A2NV2 $B$7THAT SLAMS INTO $N WITH UNSPEAKABLE FORCE!!!!$R~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (400+i*e)+(375*g)+(325*j)+b+a+a~
+Mana 88
+ManaT 4
+CastT 90
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 26
+Minwis 20
+#SPELL
+Slot 1
+Gsn 56
+SType 2
+SBits 0
+Sname Regeneration~
+SFname Regeneration~
+SLev 60
+Noun Spell~
+A2C1 You call to the gods to cure $N.~
+A2V1 $n calls upon the gods to regenerate your wounds.~
+A2NV1 $N looks much healthier.~
+Locat 0
+Durat (d/2)+(l/2)~
+Modif 0~
+BitVe 256
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 60
+ManaT 1
+CastT 35
+Pos 12
+WearO The spell has worn off.~
+CrV1 1
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+Guild1 healerg~
+#SPELL
+Slot 1
+Gsn 80
+SType 1
+SBits 0
+Sname Razor Leaf~
+SFname Razor Leaf~
+SLev 87
+Pr1 Sand Storm~
+Pr2 Divine Fury~
+Noun $B$7R$0a$7z$0o$7r $3L$2e$R$2a$B$2f$5~
+A2C1 You send many $B$7R$0a$7z$0o$7r $3Le$2a$R$2v$B$3es$R at $n.~
+A2V1 $N calls for many leaves to fly at you slicing you like razors.~
+A2NV1 $N calls for leaves from the ground to fly at $n making small cuts all over their body.~
+Locat 0
+BitVe 268435456
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+b+l/2+b+w+b+c+c+w+bm230~
+Mana 95
+ManaT 1
+CastT 51
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 25
+#SPELL
+Slot 1
+Gsn 32
+SType 4
+SBits 0
+Sname Haste~
+SFname Haste~
+SLev 38
+Pr1 Second Attack~
+Noun Spell~
+A2C1 You feel yourself speed up!~
+A2NV1 $n speeds up!~
+Locat 18
+Durat (d/2)+(l/2)~
+Modif l/10~
+BitVe 0
+BitT 8
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 30
+ManaT 2
+CastT 20
+Pos 5
+WearO You slow down.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+Guild1 warriorg~
+Guild2 thiefg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 105
+SType 1
+SBits -2147483646
+Sname Falling Star~
+SFname Falling Star~
+SLev 87
+Pr1 Shooting Stars~
+Pr2 Hurricane~
+Noun $B$F$0F$4a$0l$4l$0i$4n$0g $B$6S$0t$6a$0r$R~
+A2C1 You call upon a star to destroy $N.~
+A2V1 $B$4HOLY SHIT! what the $B$F$1FuCk$R$B$4 was that?!!!$R~
+A2NV1 $B$4HOLY SHIT! what the $B$F$1FuCk$R$B$4 was that?!!!$R~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (290*e)+(270*g)+(c+b+b*j)+(i+i+b+a+i+i)+(i/10)+(i/10)+(i/10)~
+Mana 100
+ManaT 2
+CastT 70
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 25
+Minwis 11
+#SPELL
+Slot 1
+Gsn 9
+SType 2
+SBits 1073741826
+Sname Battle Fury~
+SFname Battle Fury~
+SLev 40
+Pr1 Battle Prayer~
+Noun Spell~
+A2C1 You cast a $B$6p$R$6raye$B$6r$R of $B$4f$R$4ur$B$4y$R on $B$5$N$R~
+A2V1 $n casts a $B$6p$R$6raye$B$6r$R of $B$4f$R$4ur$B$4y$R on you.~
+A2NV1 $n casts a $B$6p$R$6raye$B$6r$R of $B$4f$R$4ur$B$4y$R on $B$5$N$R~
+Locat 19
+Durat w+i~
+Modif w-a~
+BitVe 16
+BitT 4194304
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 60
+ManaT 1
+CastT 35
+Pos 12
+WearO The fury of battle has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 19
+Minwis 24
+#SPELL
+Slot 0
+Gsn 585
+SType 0
+SBits 0
+Sname none~
+SFname Bite~
+SLev 91
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 30
+Minwis 0
+#SPELL
+Slot 1
+Gsn 33
+SType 2
+SBits 1073741826
+Sname Battle Prayer~
+SFname Battle Prayer~
+SLev 25
+Pr1 Heal Light~
+Pr2 Slashing Weapons~
+Noun Spell~
+A2C1 You incant a $B$6prayer$R of $B$4battle$R.~
+A2V1 $n prepares you for $B$4battle$R.~
+A2NV1 $n says a $B$6prayer$R for a good $B$4battle$R on $N.~
+Locat 18
+Durat d+l/2~
+Modif w/2~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 30
+ManaT 1
+CastT 14
+Pos 7
+WearO Your prayer for battle has vanished.~
+CrV1 225
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 14
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 561
+SType 0
+SBits 0
+Sname Bash~
+SFname Bash~
+SLev 9
+Noun bash~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 1
+ManaT 0
+CastT 3
+Pos 5
+WearO The spell has worn off.~
+CrV1 11836
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 19
+Minwis 0
+#SPELL
+Slot 1
+Gsn 153
+SType 1
+SBits 0
+Sname Whirlwind~
+SFname Whirlwind~
+SLev 20
+Pr1 Wind Gust~
+Noun $R$6wh$7i$B$0rl$R$7wi$6nd~
+A2C1 You conjure up a massive $R$6wh$7i$B$0rl$R$7wi$6nd$R~
+A2V1 $n hits you with a massive $R$6wh$7i$B$0rl$R$7wi$6nd$R~
+A2NV1 $n hits $N with a massive $R$6wh$7i$B$0rl$R$7wi$6nd$R~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam i+l/3+am40~
+Mana 21
+ManaT 2
+CastT 15
+Pos 7
+WearO .~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+#SPELL
+Slot 1
+Gsn 81
+SType 1
+SBits -2147221502
+Sname Wrath of God~
+SFname Wrath of God~
+SLev 90
+Pr1 Divine Fury~
+Noun $F$B$0WrAtH $RoF $F$B$1GoD$R~
+A2C1 You raise you hands to the heavens and send the $B$0WrAtH $RoF $B$1GoD$R at $N!~
+A2V1 $n sends forth the $B$0WrAtH $RoF $B$1GoD$R upon you!!~
+A2V2 Holy Hell!!!!! What the $F$B$0FUCK$R!?!?!?!~
+A2NV1 $n sends forth the $B$0WrAtH $RoF $B$1GoD$R at $N.~
+Locat 0
+Durat l/10+a~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+b+l+b+w+b+c+c+w+bm250~
+Mana 100
+ManaT 1
+CastT 53
+Pos 7
+WearO You can see again!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 28
+Minwis 27
+#SPELL
+Slot 1
+Gsn 177
+SType 2
+SBits 0
+Sname Total Protection~
+SFname Total Protection~
+SLev 85
+Pr1 Sanctuary~
+Pr2 Stone Skin~
+Noun Total Protection~
+A2C1 You cast the spell of $B$0P$7r$0O$7t$0E$7c$0T$7i$0O$7n$R~
+A2V1 The spell of $B$0P$7r$0O$7t$0E$7c$0T$7i$0O$7n$R has been casted on you.~
+A2NV1 $N casts the spell of $B$2P$7r$2O$7t$2E$7c$2T$7i$2O$7n$R on themselves.~
+Locat 0
+Durat d+l/2~
+Modif 0~
+BitVe 8192
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 100
+ManaT 1
+CastT 25
+Pos 12
+WearO in a shimmering effect your protection breaks apart and dissolves.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 19
+Minwis 19
+Guild1 healerg~
+Guild2 palading~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 129
+SType 1
+SBits 0
+Sname Shard of Poison~
+SFname Shard of Poison~
+SLev 47
+Pr1 Poison~
+Pr2 Circle~
+Noun $R$6P$3o$2i$Bso$R$2n$R$3e$R$6d$B$2 Shard$R~
+A2C1 You send a $B$2shard$R of $B$2P$R$2o$B$2i$R$2s$B$2o$R$2n$R$7 into $N.~
+A2V1 $n sends a $B$2shard$R of $B$2P$R$2o$B$2i$R$2s$B$2o$R$2n$R$7 into your body.~
+A2NV1 $n sends a $B$2shard$R of $B$2P$R$2o$B$2i$R$2s$B$2o$R$2n$R$7 penetrating $N's flesh.~
+Locat 0
+Durat l/8~
+Modif 0~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (f*50)+(u*40)+(y/2)+a~
+Mana 43
+ManaT 8
+CastT 30
+Pos 7
+WearO The poison has left your blood.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+Guild1 thiefg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 57
+SType 1
+SBits -2147483646
+Sname Lightning Storm~
+SFname Lightning Storm~
+SLev 56
+Pr1 Chain Lightning~
+Pr2 Thunderstorm~
+Noun $R$6Li$Bg$R$7tn$B$6i$R$6ng $B$0St$R$6o$B$0rm~
+A2C1 $n calls up a mighty storm of lightning!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (65*e)+(50*g)+(a+b+c*j)+(i/4+a)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 49
+ManaT 2
+CastT 29
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 15
+#SPELL
+Slot 1
+Gsn 10
+SType 4
+SBits 0
+Sname Detect Invisible~
+SFname Detect Invisible~
+SLev 19
+Noun Spell~
+A2C1 Your eyes glow a soft $1blue$R.~
+A2C2 You can now see into the realm of the invisible.~
+A2NV1 $n's eyes take on a $1blue$R glow.~
+Locat 0
+Durat d+l/2~
+Modif 0~
+BitVe 8
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 19
+ManaT 4
+CastT 15
+Pos 12
+WearO Your blue eyes fade.~
+CrV1 4096
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 34
+SType 128
+SBits 16777216
+Sname Animate Zombie~
+SFname Animate Zombie~
+SLev 40
+Pr1 Animate Skeleton~
+Pr2 Unholy Wrath~
+Noun Spell~
+A2C1 Your spell has risen a zombie from the $B$0dead$R$7!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 45
+ManaT 16
+CastT 55
+Pos 5
+WearO The spell has worn off.~
+CrObj 801
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 82
+SType 4
+SBits 0
+Sname Aid~
+SFname Aid~
+SLev 10
+Noun Aid~
+A2C1 You cast $B$7Aid$R upon yourself.~
+A2NV1 $n looks more healthy.~
+Locat 13
+Durat l/2+c~
+Modif l~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam none~
+Mana 10
+ManaT 1
+CastT 15
+Pos 12
+WearO You dont feel as healthy.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 130
+SType 1
+SBits 0
+Sname Wind of Annihilation~
+SFname Wind of Annihilation~
+SLev 90
+Pr1 Wind of Destruction~
+Noun $B$0<-< $B$0WindS >->$R~
+A2C1 $7You call forth the $B$0<_<_< $B$0WinD of AnnihilatioN >_>_>$R~
+A2V1 $7$n calls forth the $B$0<_<_< $B$0WinD of AnnihilatioN >_>_>$R~
+A2NV1 $7$n calls forth the $B$0<_<_< $B$0WinD of AnnihilatioN >_>_>$R to strike $N!!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (305*e)+(305*g)+(a+c+10*j)+(i+i+b)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 50
+ManaT 2
+CastT 115
+Pos 7
+WearO You feel better.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 22
+#SPELL
+Slot 0
+Gsn 562
+SType 0
+SBits 0
+Sname Tracking~
+SFname Tracking~
+SLev 23
+Pr1 search~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1328
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 154
+SType 1
+SBits -2147483646
+Sname Tropical Storm~
+SFname Tropical Storm~
+SLev 83
+Pr1 Tsunami~
+Noun $B$2T$6r$1o$3pi$1c$6a$2l $B$0St$R$6o$B$0rm$R~
+A2C1 You hit $N with a strong gust of $B$2T$6r$1o$3pi$1c$6a$2l$R wind.~
+A2V1 You are hit by a strong gust of $B$2T$6r$1o$3pi$1c$6a$2l$R wind.~
+A2NV1 $n hits $N with a strong gust of $B$2T$6r$1o$3pi$1c$6a$2l$R wind.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (200*e)+(185*g)+(a+c+b+b*j)+(i+i/2+b+a+i)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 71
+ManaT 8
+CastT 44
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 10
+#SPELL
+Slot 1
+Gsn 106
+SType 1
+SBits -2143289342
+Sname Thunderstorm~
+SFname Thunderstorm~
+SLev 46
+Pr1 Lightning Bolt~
+Pr2 Chain Lightning~
+Noun $B$0Th$R$6un$R$7d$B$6er$R$7S$R$6to$B$0rm~
+A2C1 You call forth a mighty thunderstorm!~
+A2V1 $n strikes you with $s mighty thunderstorm!~
+A2NV1 $n strikes $N with a mighty thunderstorm!~
+Locat 0
+Durat N/A~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (40*e)+(50*g)+(a+a*j)+(i/2+i/2+a)+(i/10)+(i/10)~
+Mana 37
+ManaT 2
+CastT 25
+Pos 7
+WearO You begin to feel better.~
+CrV1 2048
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 58
+SType 1
+SBits 0
+Sname Magic Missile~
+SFname Magic Missile~
+SLev 1
+Noun $B$4m$R$4agic missil$B$4e$R~
+A2C1 $R$7You create a small $B$4m$R$4agic missil$B$4e$R.~
+A2V1 $R$7$n creates a small $B$4m$R$4agic missil$B$4e$R.~
+A2NV1 $7$n creates a small $B$4m$R$4agic missil$B$4e$R.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam ((l+10+a)/2)m25~
+Mana 5
+ManaT -1
+CastT 10
+Pos 7
+WearO The spell has worn off.~
+CrV1 82
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 4
+#SPELL
+Slot 0
+Gsn 586
+SType 0
+SBits 0
+Sname Lance Weapons~
+SFname Lance Weapons~
+SLev 3
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 11580
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 59
+SType 1
+SBits 256
+Sname Dispel undead~
+SFname Dispel Undead~
+SLev 20
+Noun cleansing power~
+A2C1 A blast of natural energy hits $N, sending $M flying backwards!~
+A2NV1 A blast of natural energy hits $N, sending $M flying backwards!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (h*100)+(p*75)+c+c+c+w+w~
+Mana 25
+ManaT 4
+CastT 18
+Pos 7
+WearO The spell has worn off.~
+CrV1 130
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 14
+Minwis 17
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 563
+SType 0
+SBits 0
+Sname Disarm~
+SFname Disarm~
+SLev 19
+Pr1 parry~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1316
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 18
+Minwis 17
+Guild1 warriorg~
+Guild2 marauderg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 35
+SType 128
+SBits 16777216
+Sname Animate Revenant~
+SFname Animate Revenant~
+SLev 60
+Pr1 Animate Skeleton~
+Pr2 Animate Zombie~
+Noun Spell~
+A2C1 Your spell has risen a revenant from the $R$4de$B$0a$R$4d$R$7!~
+A2NV1 $n has just risen a revenant from the $R$4de$B$0a$R$4d$R$7!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 55
+ManaT 4
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrObj 803
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 83
+SType 1
+SBits 268435456
+Sname Acid Boil~
+SFname Acid Boil~
+SLev 50
+Pr1 Acid Rain~
+Noun $B$2corrosive acid$R$7~
+A2C1 You boil $N with your corrosive $B$2acid$R$7!~
+A2V1 $n boils you with his corrosive $B$2acid$R$7!~
+A2NV1 $N screams in pain as he is boiled with $n's corrosive $B$2acid$R$7!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (60*e)+(45*g)+(a+a+c*j)+(i+i/2+a)+(i/10)+(i/10)+(i/10)~
+Mana 47
+ManaT 8
+CastT 32
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 107
+SType 1
+SBits 0
+Sname Wind Blast~
+SFname Wind Blast~
+SLev 30
+Pr1 Wind Gust~
+Pr2 Whirlwind~
+Noun $B$7wi$0nd$R$7b$B$0la$B$7st$R~
+A2C1 You conjure up an enourmous gust of wind onto $N!~
+A2V1 $n sends a blast on wind at you!~
+A2NV1 $n sends a blast on wind at $N!~
+Locat 0
+Durat none~
+Modif none~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (39*e)+(29*g)+(a+a*j)+(i/4+a)+(i/10)+(i/10)~
+Mana 29
+ManaT 2
+CastT 19
+Pos 7
+WearO none~
+CrV1 66
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+Guild1 elementg~
+Guild2 wizardg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 587
+SType 0
+SBits 0
+Sname Shield Rush~
+SFname Shield Rush~
+SLev 45
+Pr1 Cloak of Bravery~
+Pr2 Battle Prayer~
+Noun rush~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 1
+ManaT 0
+CastT 3
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 131
+SType 4
+SBits 4
+Sname Remove Curse~
+SFname Remove Curse~
+SLev 20
+Noun Spell~
+A2C1 You pray to the gods to remove the curse.~
+A2V1 You feel a bit less damned.~
+A2NV1 $n removes $N's curse.~
+Locat 0
+BitVe 1024
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 20
+ManaT 8
+CastT 15
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+#SPELL
+Slot 1
+Gsn 11
+SType 4
+SBits 0
+Sname Infravision~
+SFname Infravision~
+SLev 10
+Noun Spell~
+A2C1 Your eyes glow $B$4red$R.~
+A2NV1 $n's eyes glow $B$4red$R.~
+Locat 0
+Durat l/2~
+Modif 0~
+BitVe 512
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 10
+ManaT 4
+CastT 12
+Pos 12
+WearO You can no longer see in the dark.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 14
+Minwis 14
+#SPELL
+Slot 0
+Gsn 564
+SType 0
+SBits 0
+Sname Enhanced Damage~
+SFname Enhanced Damage~
+SLev 22
+Pr1 Concussion Weapons~
+Pr2 Armor Penetration~
+Noun Spell~
+Locat 4
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 552
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 warriorg~
+Guild2 palading~
+Guild3 marauderg~
+Guild4 battleg~
+#SPELL
+Slot 1
+Gsn 12
+SType 4
+SBits 0
+Sname Detect Hidden~
+SFname Detect Hidden~
+SLev 17
+Noun Spell~
+A2C1 You feel your vision adjust, making you aware of the unseen.~
+A2NV1 $N's eyes glimmer bright $6yellow $7then fade to $Rnormal~
+Locat 0
+Durat l~
+Modif 0~
+BitVe 32
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 17
+ManaT 4
+CastT 25
+Pos 12
+WearO The hidden world conceals itself from you.~
+CrV1 4096
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 12
+#SPELL
+Slot 1
+Gsn 156
+SType 2
+SBits 1073741826
+Sname Divine Might~
+SFname Divine Might~
+SLev 85
+Pr1 Battle Fury~
+Pr2 Call of Courage~
+Noun Spell~
+A2C1 You cast $B$1d$R$1ivine migh$B$1t$R on $N~
+A2V1 $n casts $B$1d$R$1ivine migh$B$1t$R on you.~
+A2NV1 $n casts $B$1d$R$1ivine migh$B$1t$R on $N.~
+Locat 19
+Durat l/6~
+Modif w/2~
+BitVe 0
+BitT 268435456
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 100
+ManaT 1
+CastT 40
+Pos 5
+WearO the might of the gods wear off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 588
+SType 0
+SBits 0
+Sname Dagger Thrust~
+SFname Dagger Thrust~
+SLev 65
+Pr1 Piercing Weapons~
+Pr2 Warcry~
+Noun thrust~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 1
+ManaT 0
+CastT 3
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 marauderg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 36
+SType 2
+SBits 0
+Sname Barrier~
+SFname Barrier~
+SLev 30
+Pr1 Shielding~
+Noun Spell~
+A2C1 Your $7barrier shield$R spell was a success...~
+A2V1 A $7barrier$R forms around you.~
+A2NV1 A $7barrier$R forms around $N.~
+Locat 17
+Durat (l/2)+24~
+Modif -l/10-a~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 20
+ManaT 8
+CastT 13
+Pos 12
+WearO The thin shield around your body disappears.~
+CrV1 35
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 1
+#SPELL
+Slot 1
+Gsn 132
+SType 1
+SBits 0
+Sname Unholy Wrath~
+SFname Unholy Wrath~
+SLev 30
+Pr1 Animate Skeleton~
+Pr2 Dark Matter~
+Noun $B$0UNHOLY WRATH$R$7~
+A2C1 $7You call forth the $B$0W R A T H$R$7 of Hell on $N!~
+A2V1 $7$n calls forth the $B$0W R A T H$R$7 of Hell on you!~
+A2NV1 $7$n calls forth the $B$0W R A T H$R$7 of Hell on $N!~
+Locat 13
+Durat l/8~
+Modif -d+a~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (n+60)+l/2+(n*w)+d+c+b+cm150~
+Mana 60
+ManaT 16
+CastT 30
+Pos 7
+WearO You feel better.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 22
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 108
+SType 1
+SBits 0
+Sname Tornado of Souls~
+SFname Tornado of Souls~
+SLev 75
+Pr1 Ray of Fatigue~
+Noun $R$7To$B$0RN$R$7a$B$0D$R$7o$R of $B$5s$0O$5u$0L$5s~
+A2C1 You call forth a swirling mass of death and destruction.~
+A2V1 $n brings forth a swirling mass of death and ancient souls to smite you.~
+A2NV1 $n calls forth masses of the dead to smite $s enemies.~
+Locat 14
+Durat 2~
+Modif (-w*2)-i-30~
+BitVe 1024
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 90+(w*5)+(i*5)~
+Mana 80
+ManaT 16
+CastT 75
+Pos 7
+WearO Your head feels a bit clearer and your legs no longer hurt.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 26
+Minwis 16
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 84
+SType 1
+SBits -2147483646
+Sname Tornado~
+SFname Tornado~
+SLev 60
+Pr1 Thunderstorm~
+Pr2 Chain Lightning~
+Noun $R$7To$B$0RN$R$7a$B$0D$R$7o~
+A2C1 You call upon the forces of natrue. You slam a $R$7To$B$0RN$R$7a$B$0D$R$7o$R into $n.~
+A2V1 $N SLAMS a $R$7To$B$0RN$R$7a$B$0D$R$7o$R into you.~
+A2NV1 $N SLAMS a $B$5To$0RN$5a$0D$5o$R into $n that has to hurt.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (85*e)+(70*g)+(a+b+c*j)+(i/4+b-a)+(i/10)+(i/10)~
+Mana 53
+ManaT 2
+CastT 31
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 20
+Guild1 wizardg~
+Guild2 battleg~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 60
+SType 2
+SBits 134217728
+Sname Refresh~
+SFname Refresh~
+SLev 15
+Noun Spell~
+A2C1 Your $B$1r$3ef$R$3res$B$3h$R was successful.~
+A2V1 $R$3You $Bfe$R$3el $B$1r$3ef$R$3res$B$3he$B$1d$R~
+A2NV1 $N looks more $B$1r$R$3e$B$3f$B$1r$B$3e$R$3s$B$1hed$R~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam w+i+a+a+a~
+Mana 15
+ManaT 8
+CastT 14
+Pos 7
+WearO The spell has worn off.~
+CrV1 8353
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 157
+SType 1
+SBits 262144
+Sname Dagger of Venom~
+SFname Dagger of Venom~
+SLev 80
+Pr1 Backstab~
+Pr2 Shard of Poison~
+Noun $B$7D$R$7a$B$0gg$R$7e$B$7r$R of $B$2V$R$3e$B$3n$R$3o$B$2m$R~
+A2C1 You cast $B$7D$R$7a$B$0gg$R$7e$B$7r$R of $B$2V$R$3e$B$3n$R$3o$B$2m$R on $N~
+A2V1 You have just been hit by $n's $B$7D$R$7a$B$0gg$R$7e$B$7r$R of $B$2V$R$3e$B$3n$R$3o$B$2m$R~
+A2NV1 $N was impaled by $n's $B$7D$R$7a$B$0gg$R$7e$B$7r$R of $B$2V$R$3e$B$3n$R$3o$B$2m$R~
+Locat 0
+Durat 3~
+Modif 0~
+BitVe 2101249
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (y*2)+(y*a/2)~
+Mana 80
+ManaT 8
+CastT 50
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+Guild1 thiefg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 133
+SType 2
+SBits 1073741826
+Sname Divine Favor~
+SFname Divine Favor~
+SLev 90
+Pr1 Holy Armor~
+Pr2 Mindshield~
+Noun Spell~
+A2C1 Your bless on $N was successful.~
+A2V1 $N is surrounded by a glowing aura created by $n.~
+A2NV1 $N is briefly surrounded in a glowing aura.~
+Locat 17
+Durat l/7~
+Modif -1*(w+a)~
+BitVe 128
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 110
+ManaT 1
+CastT 30
+Pos 7
+WearO The Favor of the gods has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 22
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 61
+SType 1
+SBits 0
+Sname Curse~
+SFname Curse~
+SLev 70
+Pr1 Remove Curse~
+Noun Spell~
+A2C1 You put a curse on $N.~
+A2V1 $n puts a curse on you.~
+A2NV1 $n puts a curse on $N.~
+Locat 0
+Durat l/3~
+Modif 0~
+BitVe 1024
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 65
+ManaT 16
+CastT 19
+Pos 7
+WearO The spell has worn off.~
+CrV1 129
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 14
+Minwis 12
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 37
+SType 2
+SBits 0
+Sname Shielding~
+SFname Shielding~
+SLev 15
+Pr1 Blur~
+Noun shielding~
+A2C1 A $B$0shielding light$R is eminated from your hands.~
+A2V1 You have been $B$0shielded$R.~
+A2NV1 $n casts shielding upon $N.~
+Locat 17
+Durat l/2+c~
+Modif -b~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 10
+ManaT 2
+CastT 13
+Pos 12
+WearO You are no longer shielded from harm.~
+CrV1 18
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 10
+#SPELL
+Slot 1
+Gsn 109
+SType 1
+SBits -2147483646
+Sname Meteor Shower~
+SFname Meteor Shower~
+SLev 63
+Pr1 Napalm~
+Noun $R$4Me$B$4te$6or Sh$B$4ow$R$4er$R~
+A2C1 $6Some rocks slam into $N!$R$7~
+A2V1 $7You are pummeled by a $R$4Me$B$4te$6or Sh$B$4ow$R$4er$R~
+A2NV1 $6$n's calls to the sky and sends a $R$4Me$B$4te$6or Sh$B$4ow$R$4er$R, striking $N!$R$7~
+Locat 13
+Durat 2~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (155*e)+(135*g)+(b+a*j)+(i+i/2+a+b+b)+i+(i/2)+((i*4)/2)~
+Mana 73
+ManaT 4
+CastT 65
+Pos 7
+WearO The spell has worn off.~
+CrV1 66
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 30
+Minwis 16
+#SPELL
+Slot 0
+Gsn 565
+SType 0
+SBits 0
+Sname Kick~
+SFname Kick~
+SLev 12
+Noun kick~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 20
+Pos 5
+WearO The spell has worn off.~
+CrV1 9788
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 16
+#SPELL
+Slot 1
+Gsn 85
+SType 1
+SBits 0
+Sname Icicle~
+SFname Icicle~
+SLev 5
+Noun icicle~
+A2C1 You send a tiny $B$7icicle$R$7 hurling into $N's chest!~
+A2V1 $n's tiny $B$7icicle$R$7 flies into your chest!~
+A2NV1 $n sends a tiny $B$7icicle$R$7 flying into $N's chest.~
+Locat 19
+Durat 3+a~
+Modif -3~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (i+a*2)m25~
+Mana 5
+ManaT 8
+CastT 13
+Pos 7
+WearO You feel your strength comming back.~
+CrV1 66
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 5
+#SPELL
+Slot 1
+Gsn 13
+SType 4
+SBits 0
+Sname Invisibility~
+SFname Invisibility~
+SLev 36
+Noun Spell~
+A2C1 You slowly fade into thin air.~
+A2NV1 $n slowly fades into thin air.~
+Locat 0
+Durat (l/3)+b~
+Modif 0~
+BitVe 2
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 40
+ManaT 2
+CastT 12
+Pos 12
+WearO You shimmer into existence.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 10
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 14
+SType 4
+SBits 0
+Sname Fly~
+SFname Fly~
+SLev 20
+Noun Spell~
+A2C1 You cast a spell and can fly!~
+A2NV1 $n incants a spell and lifts off the ground.~
+Locat 0
+Durat d+l/2~
+Modif 0~
+BitVe 524288
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam N/A~
+Mana 25
+ManaT 2
+CastT 14
+Pos 7
+WearO You land on the ground.~
+CrV1 33
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 158
+SType 2
+SBits 1073741826
+Sname Cloak of Bravery~
+SFname Cloak of Bravery~
+SLev 40
+Pr1 Shielding~
+Pr2 Barrier~
+Noun Spell~
+A2C1 You cast Cloak of Bravery on $N~
+A2V1 $n cast Cloak of Bravery on you!~
+Locat 17
+Durat w/2+b~
+Modif -1*(l+b/10)~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 50
+ManaT 1
+CastT 45
+Pos 12
+WearO The cloak vanishes.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 22
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 62
+SType 1
+SBits 0
+Sname Blind~
+SFname Blind~
+SLev 23
+Pr1 Cure Blindness~
+Noun Spell~
+A2C1 You have $6$Bblinded$R $N!~
+A2V1 $B$6Your eyes begin to burn... you are blind!$R$7~
+A2NV1 $N tears at $S eyes screaming!~
+Locat 0
+Durat l/5~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Affl $B$6...$N is blind.~
+Affs $B$6($N$6Blind$B$6)$N~
+Mana 24
+ManaT 4
+CastT 10
+Pos 7
+WearO You can see again!~
+CrV1 66
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 0
+#SPELL
+Slot 1
+Gsn 134
+SType 1
+SBits -2147483646
+Sname Waterfall~
+SFname Waterfall~
+SLev 62
+Pr1 Frost Breath~
+Noun $1Waterfall$R~
+A2C1 You unleash a mighty waterfall at $N!~
+A2V1 $n unleashes a mighty waterfall at You!~
+A2NV1 $n unleashes a mighty waterfall at $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (110*e)+(95*g)+(10+a+b+c*j)+(i+i/2+a)+(i/10)+(i/10)+(i/10)~
+Mana 55
+ManaT 8
+CastT 36
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 elementg~
+Guild2 wizardg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 86
+SType 1
+SBits 0
+Sname Rockspikes~
+SFname Rockspikes~
+SLev 19
+Pr1 Stones~
+Noun $R$6Roc$B$0k$R$6spi$B$0k$R$6es$R~
+A2C1 $R$7You create a big rock with a bunch of spikes and send it at $N.~
+A2V1 $R$7$n creates a big rock with a b unch of spikes and sends it at you.~
+A2NV1 $R$7$n creates a big rock with a bunch of spikes and sends it at $N.~
+Locat 14
+Durat b-a~
+Modif -w~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w*p)+(20+w*h)+b+5m40~
+Mana 23
+ManaT 1
+CastT 20
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 20
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 566
+SType 0
+SBits 0
+Sname Parry~
+SFname Parry~
+SLev 7
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 10044
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 182
+SType 2
+SBits 1073741826
+Sname Mindshield~
+SFname Mindshield~
+SLev 80
+Pr1 Holy Armor~
+Noun Spell~
+A2C1 You call for the powers to resist harm from magic!~
+A2NV1 $n call for the powers to resist harm from magic!~
+Locat 0
+Durat l/4~
+Modif 0~
+BitVe 0
+BitT 20
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 90
+ManaT 1
+CastT 10
+Pos 5
+WearO Your mind is no longer protected from harm.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 20
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 38
+SType 2
+SBits 0
+Sname Magic Shield~
+SFname Magic Shield~
+SLev 45
+Pr1 Sanctuary~
+Noun Spell~
+A2C1 You draw upon the gods to protect yourself.~
+A2C2 A light decends from the heavens and falls upon you.~
+A2V1 A magical shield surrounds you.~
+A2NV1 A beam of light from the sky briefly strikes $n.~
+Locat 20
+Durat b~
+Modif -l/8~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 20
+ManaT -1
+CastT 12
+Pos 12
+WearO You feel somehow more vulnerable...~
+CrV1 4097
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 110
+SType 1
+SBits -1610612734
+Sname Lava~
+SFname Lava~
+SLev 49
+Pr1 Burning Light~
+Noun lava~
+A2C1 a burst of $4lava$R sprouts from the ground!~
+A2C2 You hear $N scream as you hit $s with your burst of $4lava$R!~
+A2V1 $n chants something and a burst of $4lava$R sprouts from the ground!~
+A2V2 $n blasts you with $4lava$R!~
+A2NV1 $n chants something and a burst of $4lava$R sprouts from the ground!~
+A2NV2 $n blasts $N with $4lava$R!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (a+b+b+c*e)+(a+b+c*g)+(b+b*j)+((i/2)+(i/2)+(i/3)+(i/4)+b+b)+i-a+5+((i*4)/2)~
+Mana 59
+ManaT 4
+CastT 58
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 26
+Minwis 16
+#SPELL
+Slot 1
+Gsn 159
+SType 2
+SBits 0
+Sname Gods Blessing~
+SFname Gods Blessing~
+SLev 111
+Noun Spell~
+A2C1 You cast your blessing upon the mortal $N~
+A2V1 $n casts a godly blessing upon you!!~
+A2NV1 $N casts a godly blessing upon $n!!~
+Locat 19
+Linkd gods protection~
+Durat 96~
+Modif 300~
+BitVe 128
+BitT 4
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT -1
+CastT 1
+Pos 5
+WearO You no longer have the blessings of the gods!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 183
+SType 2
+SBits 1073741826
+Sname Divine Intelligence~
+SFname Divine Intelligence~
+SLev 45
+Pr1 Battle Fury~
+Pr2 Earthen Strength~
+Noun Spell~
+A2C1 you cast $B$3D$R$3ivine $B$1I$R$1ntelligence$R on $N~
+A2V1 $n casts $B$3D$R$3ivine $B$1I$R$1ntelligence$R on you.~
+A2NV1 $n casts $B$3D$R$3ivine $B$1I$R$1ntelligence$R on $N.~
+Locat 3
+Durat w/2~
+Modif 1~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 55
+ManaT 1
+CastT 45
+Pos 5
+WearO You are not as intelligent as you used to be.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 135
+SType 1
+SBits -2147483646
+Sname Avalanche~
+SFname Avalanche~
+SLev 71
+Pr1 Waterfall~
+Noun $B$3AvAlAnChE$R~
+A2C1 You conjure up a massive Avalanche!~
+A2V1 $n conjures up a massive $B$3AvAlAnChE$R which knocks you down!~
+A2NV1 $n's massive $B$3AvAlAnChE$R hits $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (128*e)+(118*g)+(b+b*j)+(i+i/2+a+i)+(i/10)+(i/10)+(i/10)~
+Mana 63
+ManaT 8
+CastT 40
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 0
+#SPELL
+Slot 1
+Gsn 63
+SType 1
+SBits 0
+Sname Wind of Destruction~
+SFname Wind of Destruction~
+SLev 87
+Pr1 Cyclone~
+Pr2 Typhoon~
+Noun $B$1W$0in$1d$R of $B$0De$R$4st$3r$B$4u$R$3c$R$4ti$B$0on$R~
+A2C1 You summon $B$1W$0in$1d$R of $B$0De$R$4st$3r$B$4u$R$3c$R$4ti$B$0on$R to SLAM into $N!~
+A2V1 The strong winds from $n's $B$1W$0in$1d$R of $B$0De$R$4st$3r$B$4u$R$3c$R$4ti$B$0on$R slam into you!~
+A2NV1 $n's $B$1W$0in$1d$R of $B$0De$R$4st$3r$B$4u$R$3c$R$4ti$B$0on$R slams into $N!!!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (278*e)+(265*g)+(a+b+10*j)+(i+i/2+a+i)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 73
+ManaT 2
+CastT 41
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 15
+#SPELL
+Slot 1
+Gsn 15
+SType 2
+SBits 0
+Sname Underwater Breath~
+SFname Underwater Breath~
+SLev 24
+Noun Spell~
+A2C1 You put your hands around $N's head. A bubble of air surronds their head.~
+A2V1 A bubble of air surrounds your head!~
+A2NV1 A bubble of air surrounds $N's head!~
+Locat 0
+Durat l/3~
+Modif 0~
+BitVe 8388608
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 25
+ManaT 8
+CastT 22
+Pos 12
+WearO The bubble of air that surrounded you floats away.~
+CrV1 18
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 19
+#SPELL
+Slot 0
+Gsn 567
+SType 0
+SBits 0
+Sname Shield Block~
+SFname Shield Block~
+SLev 22
+Pr1 parry~
+Pr2 dodge~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1036
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 16
+Guild1 warriorg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 39
+SType 1
+SBits -1610612734
+Sname Shooting Stars~
+SFname Shooting Stars~
+SLev 69
+Pr1 Meteor Shower~
+Noun $B$4$FSH$6O$R$F$6O$B$6TI$4NG $B$6S$7T$0A$7R$6S$R~
+A2C1 You raise your hands up to the sky, and call upon a shooting star!~
+A2V1 $n raises his hands to the sky!~
+A2V2 A large falling star $B$4**SLAMS**$R into you.~
+A2NV2 $n sends a large falling star into $N.~
+Locat 0
+Durat 3+a~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (230+i*e)+(190+i*g)+(i+i+c+b+b*j)+(i+i/2+b+a)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 79
+ManaT 2
+CastT 59
+Pos 7
+WearO You feel a little more resistant.~
+CrV1 2048
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 26
+Minwis 20
+#SPELL
+Slot 1
+Gsn 111
+SType 1
+SBits 0
+Sname Soul Smash~
+SFname Soul Smash~
+SLev 55
+Pr1 Winds of Chaos~
+Noun $B$5S$0o$5u$0l $4Smash$R~
+A2C1 You gather supernatural forces and smash $N's soul!~
+A2V1 $n smashes your soul, and you feel gravely weakened...~
+A2NV1 $n smashes $N's soul, leaving a shattered creature behind.~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 60+(w*3)+(i*3)~
+Mana 60
+ManaT 16
+CastT 55
+Pos 7
+WearO You almost feel yourself again.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+Guild1 necrog~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 112
+SType 1
+SBits -2147483646
+Sname Frozen Vortex~
+SFname Frozen Vortex~
+SLev 90
+Pr1 Avalance~
+Pr2 Ice Shards~
+Noun $B$3F$7r$1oz$7e$3n $0Vortex$R~
+A2C1 You use all your might and power to summon a $R$F$4deadly$R $B$3F$7r$1oz$7e$3n $0Vortex$R!!~
+A2V1 $n uses all $s might to summon a $R$F$4deadly$R $B$3F$7r$1oz$7e$3n $0Vortex$R!!~
+A2NV1 $n $n uses all $s might to summon a $R$F$4deadly$R $B$3F$7r$1oz$7e$3n $0Vortex$R!!~
+Locat 1
+Durat i/2~
+Modif 13~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (255*e)+(240*g)+(30+c+b+b*j)+(i+i/2+b-a+i+i+i-b+i)~
+Mana 79
+ManaT 8
+CastT 48
+Pos 7
+WearO You feel stronger!~
+CrV1 192
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 184
+SType 2
+SBits 1073741826
+Sname Divine Wisdom~
+SFname Divine Wisdom~
+SLev 50
+Pr1 Divine Intelligence~
+Noun Spell~
+A2C1 You cast $B$3D$R$3ivine $B$6W$R$6isdom$R on $N~
+A2V1 $n casts $B$3D$R$3ivine $B$6W$R$6isdom$R on you.~
+A2NV1 $n casts $B$3D$R$3ivine $B$6W$R$6isdom$R on $N.~
+Locat 4
+Durat w~
+Modif 1~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 60
+ManaT 1
+CastT 50
+Pos 5
+WearO You are not as wise as you used to be.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 64
+SType 128
+SBits 16777216
+Sname Animate Lich~
+SFname Animate Lich~
+SLev 70
+Pr1 Animate Zombie~
+Pr2 Animate Revenant~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 65
+ManaT 4
+CastT 30
+Pos 5
+WearO The spell has worn off.~
+CrObj 802
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 necrog~
+#SPELL
+Slot 1
+Gsn 136
+SType 1
+SBits 0
+Sname Searing Orb~
+SFname Searing Orb~
+SLev 36
+Pr1 Fireball~
+Pr2 Flamestrike~
+Noun $B$6S E $4A $R$4R $BI $6N G  $4ORB$R~
+A2C1 You summon an orb of power!~
+A2V1 $n sends a bright orb of light into your eyes!~
+A2NV1 $n sends a bright orb of light into $N's eyes!~
+Locat 0
+Durat i~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (a+a+c*e)+(a+a+b*g)+(a+b*j)+((i/2)+(i/3)+(i/5)+a+a)+((i*4)/2)~
+Mana 46
+ManaT 4
+CastT 55
+Pos 7
+WearO You can see again!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 24
+Minwis 20
+#SPELL
+Slot 1
+Gsn 40
+SType 2
+SBits 0
+Sname Stone Skin~
+SFname Stone Skin~
+SLev 50
+Pr1 Barrier~
+Pr2 Sanctuary~
+Noun Spell~
+A2C1 You cast the spell $R$3S$B$0t$R$3o$B$0n$R$3e $B$0S$R$3k$B$0i$R$3n$R.~
+A2V1 $n makes your $R$6skin$R turn to $R$3s$B$0t$R$3o$B$0n$R$3e$R.~
+A2NV1 $n makes $N's $R$6skin$R turn to $R$3s$B$0t$R$3o$B$0n$R$3e$R.~
+Locat 17
+Durat b+b+b+b~
+Modif -l/5-c~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam N/A~
+Affl $R$7...skin hard as stone.$R~
+Affs $N$B$7($0Stoneskin$B$7)$N~
+Mana 65
+ManaT 1
+CastT 25
+Pos 12
+WearO The stone in your skin crumbles to dust.~
+CrV1 4097
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 17
+Minwis 17
+Guild1 elementg~
+Guild2 healerg~
+Guild3 wizardg~
+Guild4 palading~
+#SPELL
+Slot 0
+Gsn 568
+SType 0
+SBits 0
+Sname Rescue~
+SFname Rescue~
+SLev 20
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 11836
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 88
+SType 1
+SBits -2147483646
+Sname Ice Storm~
+SFname Ice Storm~
+SLev 40
+Pr1 Frost Touch~
+Noun $B$1**$3IC$7E S$3TO$7R$3M$1**$R~
+A2C1 You create a massive $B$1ice$R$7 storm!~
+A2V1 You get caught in the middle of $n's massive $B$1ice$R$7 storm!~
+A2NV1 $n freezes $N to the bone in $s massive $B$1ice$R$7 storm!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (85*e)+(55*g)+(a+a+a*j)+(i/2+i/2+a)+(i/10)+(i/10)+(i/10)~
+Mana 39
+ManaT 8
+CastT 28
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 24
+Minwis 12
+#SPELL
+Slot 1
+Gsn 16
+SType 8
+SBits 1024
+Sname Identify~
+SFname Identify~
+SLev 19
+Pr1 Magic Missile~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 20
+ManaT -1
+CastT 18
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 14
+#SPELL
+Slot 1
+Gsn 89
+SType 1
+SBits 0
+Sname Frost Breath~
+SFname Frost Breath~
+SLev 57
+Pr1 Ice Storm~
+Noun $B$3F$R$3r$B$7o$R$3s$B$3t $B$0Br$R$3e$B$0ath$R~
+A2C1 You breathe $B$3f$R$3r$B$7o$R$3s$B$3t$R on $N.~
+A2V1 $n breathes $B$3f$R$3r$B$7o$R$3s$B$3t$R on you, chilling you to the bone.~
+A2NV1 $n takes a deep breath and covers $N in ice!~
+Locat 2
+Durat a+5~
+Modif -i/2~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (100*e)+(90*g)+(a+b+c*j)+(i+i/2+a)+(i/10)+(i/10)~
+Mana 51
+ManaT 8
+CastT 34
+Pos 7
+WearO The poison has left your blood.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 137
+SType 1
+SBits 0
+Sname Fists of Fire~
+SFname Fists of Fire~
+SLev 13
+Pr1 Burning Hands~
+Noun flaming fists~
+A2C1 $R$7Your fists are engulfed in $4flames$R!~
+A2V1 $n's $B$4flaming$R hands smash into you!~
+A2NV1 $n's $B$4flaming$R hands smash into $N!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (l/2-a)+b+i+im60~
+Mana 23
+ManaT 4
+CastT 26
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+#SPELL
+Slot 1
+Gsn 113
+SType 1
+SBits 0
+Sname Disintegrate~
+SFname Disintegrate~
+SLev 83
+Pr1 Ray of Fatigue~
+Noun $B$0DISINTEGRATION$R~
+A2C1 You $B$0DISINTEGRATE$R$7 $N.~
+A2V1 $B$0You feel your body falling apart$7!$R$7 That did $B$4*****NOT*****$R$7 feel good.~
+A2NV1 $n is tearing $N apart with disintegration.~
+Locat 14
+Durat 4~
+Modif (-w*2)-(i*2)~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 110+(w*6)+(i*5)~
+Mana 90
+ManaT 16
+CastT 83
+Pos 7
+WearO You can move once again!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 24
+#SPELL
+Slot 1
+Gsn 65
+SType 1
+SBits -1610612734
+Sname Burning Light~
+SFname Burning Light~
+SLev 41
+Pr1 Fireball~
+Noun $F$B$6B$R$6u$F$B$6r$R$6n$F$B$6i$R$6n$F$B$6G $R$6L$F$B$6i$R$6g$F$B$6h$R$6T$R~
+A2C1 You conjure a mighty ball of $B$F$6light!$R$7.~
+A2V1 $n brings forth a mighty ball of $B$F$6light!$R$7.~
+A2NV1 $n brings forth a mighty ball of $B$6light!$R$7, blinding $N.~
+Locat 0
+Durat l/6~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (a+a+b+c*e)+(a+b+b*g)+(a+b*j)+((i/2)+(i/3)+(i/3)+(i/4)+a+b)+((i*4)/2)~
+Mana 51
+ManaT 4
+CastT 55
+Pos 7
+WearO You can finally see again.~
+CrV1 532
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 41
+SType 1
+SBits 0
+Sname Wind Gust~
+SFname Wind Gust~
+SLev 15
+Pr1 Dust Devil~
+Noun $R$3Wi$7n$B$0d G$R$7u$3st$R~
+A2C1 You summon a gust of wind.~
+A2V1 You have been hit with a gust of wind!~
+A2NV1 $n was hit with a gust of wind!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam i+l/3+am35~
+Mana 17
+ManaT 2
+CastT 13
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 0
+#SPELL
+Slot 0
+Gsn 569
+SType 0
+SBits 0
+Sname Second Attack~
+SFname Second Attack~
+SLev 20
+Pr1 Parry~
+Pr2 Slashing~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 9788
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 17
+SType 0
+SBits 16
+Sname Summon~
+SFname Summon~
+SLev 80
+Pr1 Word of Recall~
+Pr2 Locate Person~
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 100
+ManaT 2
+CastT 40
+Pos 12
+WearO The spell has worn off.~
+CrV1 130
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 25
+Minwis 15
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 185
+SType 2
+SBits 1073741826
+Sname Holy Constitution~
+SFname Holy Constitution~
+SLev 70
+Pr1 Nimbleness~
+Noun Spell~
+A2C1 You cast $B$6H$R$6oly $B$4C$R$4onstitution$R on $N~
+A2V1 You become more healthy as $n casts $B$6H$R$6oly $B$4C$R$4onstitution$R on you~
+A2NV1 $n casts $B$6H$R$6oly $B$4C$R$4onstitution$R on $N.~
+Locat 5
+Durat w~
+Modif 1~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 80
+ManaT 1
+CastT 70
+Pos 5
+WearO You are not as healthy as you used to be.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 114
+SType 1
+SBits 0
+Sname Chill Touch~
+SFname Chill Touch~
+SLev 11
+Pr1 Icicle~
+Noun $1chill touch$R~
+A2C1 You touch $N with your $B$1c$3h$1i$3l$1l$3y$R$7 hands.~
+A2V1 $n reaches out and touches you with $B$1c$3h$1i$3l$1l$3y$R$7 hands.~
+A2NV1 $n touches $N with $s $B$1c$3h$1i$3l$1l$3y$R$7 hands.~
+Locat 1
+Durat 3~
+Modif -i/5~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam ((l/9)+(i/2)+a)m30~
+Mana 16
+ManaT 8
+CastT 17
+Pos 7
+WearO You feel stronger.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 11
+Minwis 11
+#SPELL
+Slot 1
+Gsn 18
+SType 4
+SBits 81920
+Sname Word of Recall~
+SFname Word of Recall~
+SLev 18
+Noun Spell~
+A2C1 You call to the gods for safe passage and suddenly feel transported.~
+A2NV1 $N pleads with the gods for sanctuary.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 50
+ManaT -1
+CastT 40
+Pos 12
+WearO The spell has worn off.~
+CrV1 4162
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+#SPELL
+Slot 0
+Gsn 570
+SType 0
+SBits 0
+Sname Third Attack~
+SFname Third Attack~
+SLev 30
+Pr1 second attack~
+Pr2 enhanced damage~
+Noun Spell~
+Locat 1
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 2568
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+Guild1 warriorg~
+Guild2 marauderg~
+Guild3 palading~
+Guild4 battleg~
+#SPELL
+Slot 1
+Gsn 90
+SType 1
+SBits 0
+Sname Pebble~
+SFname Pebble~
+SLev 4
+Pr1 Magic Missile~
+Noun pebble~
+A2C1 You summon a small $2pebble$7 and hurl it at $N!~
+A2V1 $n summons a small $2pebble$7 and hurls it at you!~
+A2NV1 $n summons a small $2pebble$7 and hurls it at $N!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam l/10+bm15~
+Mana 10
+ManaT 1
+CastT 15
+Pos 7
+WearO You can feel your legs regain their strength.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 18
+Minwis 20
+#SPELL
+Slot 1
+Gsn 66
+SType 2
+SBits 1073741826
+Sname Nimbleness~
+SFname Nimbleness~
+SLev 55
+Pr1 Divine Wisdom~
+Noun Spell~
+A2C1 You cast $B$5N$R$5imbleness$R on $N~
+A2V1 You become more agile after $n casts $B$5N$R$5imbleness$R on you~
+A2NV1 $n casts $B$5N$R$5imbleness$R on $N.~
+Locat 2
+Durat w~
+Modif 1~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam n/a~
+Mana 65
+ManaT 2
+CastT 55
+Pos 7
+WearO You feel a little less dexterous.~
+CrV1 112
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 20
+Guild1 palading~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 42
+SType 2
+SBits 8
+Sname Heal Light~
+SFname Heal Light~
+SLev 5
+Noun spell~
+A2C1 A warm $B$6glow$R pours forth from your fingers...~
+A2V1 You feel a little bit better!~
+A2NV1 $N's body $B$6glows$R briefly as their wounds slightly heal..~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+10+a)m30~
+Mana 10
+ManaT 1
+CastT 15
+Pos 7
+WearO The spell has worn off.~
+CrV1 8225
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 10
+#SPELL
+Slot 0
+Gsn 571
+SType 0
+SBits 0
+Sname Dual Wield~
+SFname Dual Wield~
+SLev 40
+Pr1 Slashing Weapons~
+Pr2 Second Attack~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1076
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 20
+Guild1 warriorg~
+Guild2 none~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 43
+SType 2
+SBits 8
+Sname Cure Serious Wounds~
+SFname Cure Serious Wounds~
+SLev 25
+Pr1 Heal Light~
+Noun Cure Serious Wounds~
+A2C1 Your hands $B$1glow$R as you cast Cure Serious Wounds.~
+A2V1 $n lays their $B$1hands$R on you, and you feel somewhat better.~
+A2NV1 $n lays $s $B$1hands$R on $N, who looks somewhat better.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b)m60~
+Mana 25
+ManaT 1
+CastT 20
+Pos 7
+WearO The spell has worn off.~
+CrV1 4097
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 12
+#SPELL
+Slot 1
+Gsn 115
+SType 1
+SBits -2147483646
+Sname Acid Rain~
+SFname Acid Rain~
+SLev 28
+Pr1 Acid Bolt~
+Noun $B$2A$0c$2id$0i$2C R$0ai$2N$R~
+A2C1 $7You cause Acid to $2pour $7from the skies.~
+A2V1 $n causes acid to rain from the skies.~
+A2NV1 $n causes acid to rain from the skies and cover $N.~
+Locat 0
+Durat a+5~
+Modif 0~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (35*e)+(20*g)+(a*j)+(i+i/3-a)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 27
+ManaT 8
+CastT 20
+Pos 7
+WearO The poison has left your system.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 1
+Guild1 wizardg~
+Guild2 battleg~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 67
+SType 1
+SBits 0
+Sname Stones ~
+SFname Stones ~
+SLev 14
+Pr1 Rock~
+Noun $B$6St$R$6on$B$6es$R~
+A2C1 $R$7You create a few $B$6St$R$6on$B$6es$R$7 and send them at $N.~
+A2V1 $R$7$n creates a few $B$6St$R$6on$B$6es$R$7 and sends them at you.~
+A2NV1 $R$7$n creates a few $B$6St$R$6on$B$6es$R$7 and sends them at $N.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam w+bm30~
+Mana 18
+ManaT 1
+CastT 16
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 23
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 91
+SType 1
+SBits 0
+Sname Rock~
+SFname Rock~
+SLev 9
+Pr1 Pebble~
+Noun $B$6R$R$6oc$BK$R~
+A2C1 You cast a $R$6rOcK$R at $N!~
+A2V1 $n sends a $R$6rock$R hurtling toward your head.~
+A2NV1 $n sends a rock hurtling toward $N's head!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam l/10+bm20~
+Mana 13
+ManaT 1
+CastT 13
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 1
+Gsn 139
+SType 2
+SBits 1073741826
+Sname Mass Levitation~
+SFname Mass Levitation~
+SLev 65
+Pr1 fly~
+Noun Spell~
+A2C1 Your attempt to levitate $N was successful!~
+A2V1 $n has casted a spell of levitation on you!~
+A2NV1 $n causes $N to start levitating off of the ground!~
+Locat 0
+Durat l/3+b~
+Modif 0~
+BitVe 524288
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 60
+ManaT 2
+CastT 50
+Pos 12
+WearO You land on the ground.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 19
+SType 1
+SBits 0
+Sname Lightning Bolt~
+SFname Lightning Bolt~
+SLev 5
+Pr1 Shock~
+Noun $B$6l$R$6i$B$7gh$R$7t$B$7ni$R$6n$Bg$R $B$7b$6ol$B$7t$R~
+A2C1 You send a small $B$7b$6ol$B$7t$R of $B$6l$R$6i$B$7gh$R$7t$B$7ni$R$6n$Bg$R at $N.~
+A2V1 $n hits you with a $B$7b$6ol$B$7t$R of $B$6l$R$6i$B$7gh$R$7t$B$7ni$R$6n$Bg$R.~
+A2NV1 $n sends a small $B$7b$6ol$B$7t$R of $B$6l$R$6i$B$7gh$R$7t$B$7ni$R$6n$Bg$R at $N.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (l/4+a)m25~
+Mana 8
+ManaT 2
+CastT 13
+Pos 7
+WearO The spell has worn off.~
+CrV1 2048
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 5
+#SPELL
+Slot 1
+Gsn 68
+SType 1
+SBits 0
+Sname Entangle~
+SFname Entangle~
+SLev 88
+Noun $B$2E$R$3n$2t$B$3A$2N$R$2g$3l$B$2ED$R~
+A2C1 You have EntANglED $N.~
+Locat 0
+Durat l/16~
+Modif 0~
+BitVe 2113536
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam d-a~
+Affl $B$6...has been ENTANGLED!!!$R~
+Affs $N$6($B$6ENTANGLED$N$6)$N~
+Mana 110
+ManaT 1
+CastT 50
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+Guild1 healerg~
+Guild2 palading~
+Guild3 elementg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 92
+SType 1
+SBits -2143289342
+Sname Earthquake~
+SFname Earthquake~
+SLev 23
+Pr1 Rock~
+Pr2 Stones~
+Noun Earthquake~
+A2C1 You cause the ground to tremble and shake!~
+A2V1 $n causes the ground to tremble and shake!~
+A2NV1 $n causes the ground to tremble and shake!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w/2+b+w*h)+(w/2*p)+l/7+w+am50~
+Mana 27
+ManaT 1
+CastT 22
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 10
+Guild1 healerg~
+Guild2 palading~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 140
+SType 1
+SBits -1870659582
+Sname Acid Wave~
+SFname Acid Wave~
+SLev 67
+Pr1 Acid Boil~
+Noun $B$2A$0c$2id$0i$2C W$0av$2E$R~
+A2C1 You create a huge wave of $2acid$R!~
+A2V1 An enormous wave of $B$2acid$R slams into you!~
+A2NV1 $n creates an enormous wave of $B$2acid$R, which slams into $N!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (115*e)+(100*g)+(b+b*j)+(i+i/2+b+a)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 59
+ManaT 8
+CastT 38
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 572
+SType 0
+SBits 0
+Sname Piercing Weapons~
+SFname Piercing Weapons~
+SLev 8
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 16286
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 20
+SType 0
+SBits 139264
+Sname Locate Person~
+SFname Locate Person~
+SLev 75
+Pr1 Word of Recall~
+Noun Spell~
+A2C1 $R$4Through a $B$0void$R$4 in the fabric of time you watch them!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 150
+ManaT 4
+CastT 40
+Pos 12
+WearO The spell has worn off.~
+CrV1 640
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 25
+Minwis 25
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 44
+SType 2
+SBits 8
+Sname Heal Critical~
+SFname Heal Critical~
+SLev 35
+Pr1 Heal Serious~
+Noun Spell~
+A2C1 Your hands begin to $B$7glow bright$R as you use your inner strength to heal.~
+A2V1 You feel a $B$7considerable$R amount better.~
+A2NV1 $n's hands $B$7glow$R as $e heals $N~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w*2)+((w+a)*h)+(w*e)+(w*p)~
+Mana 30
+ManaT 1
+CastT 40
+Pos 7
+WearO The spell has worn off.~
+CrV1 4097
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 20
+#SPELL
+Slot 1
+Gsn 141
+SType 1
+SBits 0
+Sname Frost Touch~
+SFname Frost Touch~
+SLev 30
+Pr1 Chill Touch~
+Noun $B$1F$7r$R$1o$7s$B$1t T$R$7o$R$1u$B$7c$B$1h$R~
+A2C1 $R$7You reach out at $N and freeze them with $B$1F$7r$R$1o$7s$B$1t T$R$7o$R$1u$B$7c$B$1h$R!~
+A2V1 $R$7$n touches you with a very chilling $B$1F$7r$R$1o$7s$B$1t T$R$7o$R$1u$B$7c$B$1h$R!~
+A2NV1 $R$7$n freezes $N with their $B$1F$7r$R$1o$7s$B$1t T$R$7o$R$1u$B$7c$B$1h$R!~
+Locat 1
+Durat 3~
+Modif -i/4~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (15*e)+(10*g)+(a*j)+(i/2+i/2+a)+(i/10)+(i/10)~
+Mana 31
+ManaT 8
+CastT 23
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 24
+Minwis 18
+Guild1 wizardg~
+Guild2 elementg~
+Guild3 battleg~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 21
+SType 4
+SBits 0
+Sname Create Bread~
+SFname Create Bread~
+SLev 10
+Noun Spell~
+A2C1 A loaf of delicious bread suddenly appears in your inventory!~
+A2NV1 $n creates a yummy-looking loaf of bread.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 5
+ManaT 1
+CastT 12
+Pos 7
+WearO The spell has worn off.~
+CrObj 37
+CrV1 65
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 10
+Minwis 10
+#SPELL
+Slot 0
+Gsn 549
+SType 0
+SBits 0
+Sname Tackle~
+SFname Tackle~
+SLev 15
+Pr1 Parry~
+Pr2 Dodge~
+Noun tackle~
+Locat 14
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 20
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 23
+Minwis 20
+#SPELL
+Slot 0
+Gsn 573
+SType 0
+SBits 0
+Sname Slashing Weapons~
+SFname Slashing Weapons~
+SLev 3
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 11580
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 69
+SType 1
+SBits 0
+Sname Poison~
+SFname Poison~
+SLev 15
+Pr1 Remove Poison~
+Noun poison~
+A2C1 $N turns $B$2green$R$7 as sickness overcomes $M.~
+A2V1 You suddenly feel very sick!!!!!~
+A2NV1 $N clutches his stomach as sickness overcomes $M...~
+Locat 0
+Durat 1+a~
+Modif -3~
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 0~
+Mana 15
+ManaT 8
+CastT 17
+Pos 7
+WearO The poison has left your body.~
+CrV1 66
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 5
+Minwis 5
+#SPELL
+Slot 1
+Gsn 45
+SType 2
+SBits 8
+Sname Healing~
+SFname Healing~
+SLev 55
+Pr1 Heal Critical~
+Noun Spell~
+A2C1 Your healing spell was successful!~
+A2V1 You feel $B$6healed$R$7!!~
+A2NV1 $N is surrounded by a $B$6yellow$R$7 healing aura!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (((w*8)*h)+((w*5)*e)+((w*4)*p)+w)~
+Mana 50
+ManaT 1
+CastT 55
+Pos 7
+WearO The spell has worn off.~
+CrV1 65
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 13
+Minwis 24
+Guild1 healerg~
+Guild2 elementg~
+Guild3 palading~
+Guild4 none~
+#SPELL
+Slot 1
+Gsn 46
+SType 2
+SBits 8
+Sname Divine Healing~
+SFname Divine Healing~
+SLev 76
+Pr1 Healing~
+Pr2 Mass Healing~
+Noun Spell~
+A2C1 Your heal was successful!~
+A2V1 You feel $B$6DIVINELY$R$7 healed!~
+A2NV1 $N is $B$6DIVINELY$R$7 healed!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+w+w+w+ww+*h)+(w+w+w+w+w*e)+(w+w+w+w*p)+b+wm350~
+Mana 64
+ManaT 1
+CastT 80
+Pos 7
+WearO The spell has worn off.~
+CrV1 33
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 13
+Minwis 27
+#SPELL
+Slot 0
+Gsn 550
+SType 0
+SBits 0
+Sname Circle~
+SFname Circle~
+SLev 28
+Pr1 Piercing Weapons~
+Pr2 Backstab~
+Noun circle~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 15
+ManaT 0
+CastT 50
+Pos 5
+WearO The spell has worn off.~
+CrV1 1280
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 15
+Minwis 15
+Guild1 thiefg~
+Guild2 marauderg~
+Guild3 none~
+Guild4 none~
+#SPELL
+Slot 0
+Gsn 574
+SType 0
+SBits 0
+Sname Concussion Weapons~
+SFname Concussion Weapons~
+SLev 6
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1757
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 94
+SType 1
+SBits 0
+Sname Boulder~
+SFname Boulder~
+SLev 32
+Pr1 Rockspike~
+Noun $B$6Bo$R$6u$B$0l$R$6d$Ber$B$5~
+A2C1 You send a boulder smashing down on $N.~
+A2V1 $n smashes you with a magic boulder!~
+A2NV1 $n smashes $N with a magic boulder!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+l/7+b+w+am70~
+Mana 37
+ManaT 1
+CastT 28
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 23
+#SPELL
+Slot 1
+Gsn 190
+SType 1
+SBits 8519680
+Sname bite~
+SFname Vampiric Bite~
+SLev 45
+Pr1 unholy wrath~
+Noun sinks its teeth into you!~
+A2C1 you sink your teeth into your victim~
+A2C2 you sink your teeth into your victim~
+A2V1 sinks its teeth into your neck!~
+A2V2 sinks its teeth into your neck!~
+A2NV1 shows its fangs, and sinks its teeth~
+A2NV2 shows its fangs, and sinks its teeth~
+Locat 14
+BitVe 4096
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam ((n+120)+(str+20))~
+Mana 1
+ManaT 0
+CastT 10
+Pos 7
+WearO your wounds has healed.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 1
+Minwis 0
+Guild1 necro~
+#SPELL
+Slot 1
+Gsn 142
+SType 1
+SBits 0
+Sname Tsunami~
+SFname Tsunami~
+SLev 76
+Pr1 Waterfall~
+Noun $B$1T$R$1s$3u$B$3n$R$3a$1m$B$1i$R~
+A2C1 You summon a very powerful $B$1T$R$1s$3u$B$3n$R$3a$1m$B$1i$R!!~
+A2V1 You are hit by a very powerful $B$1T$R$1s$3u$B$3n$R$3a$1m$B$1i$R!!~
+A2NV1 $n summons a huge $B$1T$R$1s$3u$B$3n$R$3a$1m$B$1i$R and plows it into $n!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (155*e)+(140*g)+(a+c+b+b*j)+(i+i/2+b+a+i)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)+(i/10)~
+Mana 67
+ManaT 8
+CastT 42
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 25
+Minwis 0
+#SPELL
+Slot 1
+Gsn 70
+SType 1
+SBits -2147221502
+Sname Sand Blast~
+SFname Sand Blast~
+SLev 42
+Pr1 Rockspikes~
+Pr2 Boulder~
+Noun $B$0Bl$B$4a$0st$R$7 of $6S$Ba$R$6nd$R~
+A2C1 You send a massive blast of sand at $N!!~
+A2V1 $n sends a massive blash of sand at you.~
+A2NV1 $n sends a blast of sand at $N, looks painful!~
+Locat 0
+Durat a+3~
+Modif 0~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+l/5+b+w+a+wm90~
+Mana 47
+ManaT 1
+CastT 33
+Pos 7
+WearO The sand has finally left your eyes.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 24
+#SPELL
+Slot 1
+Gsn 22
+SType 1
+SBits 0
+Sname Shock~
+SFname Shock~
+SLev 2
+Pr1 Magic Missile~
+Noun $B$6S$R$6h$B$6O$R$6c$BK$R~
+A2C1 You zap $N with your shock!~
+A2V1 $N zaps you with $S shock!~
+A2NV1 $n zaps $N with their shock!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam 10m10~
+Mana 3
+ManaT 2
+CastT 12
+Pos 5
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 95
+SType 1
+SBits 0
+Sname Earthen Hammer~
+SFname Earthen Hammer~
+SLev 58
+Pr1 Stone Shard~
+Noun $B$6Earthen Hammer$R$7~
+A2C1 You summon a hammer of $B$6Earth$R$7, to smite $N!~
+A2V1 $n summons a hammer of $B$6Earth$R$7 to smite you!~
+A2NV1 $n summons a hammer of $B$6Earth$R$7, which smites $N!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+l/4+b+w+b+b+wm120~
+Mana 64
+ManaT 1
+CastT 39
+Pos 7
+WearO You feel strong again!~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 24
+#SPELL
+Slot 1
+Gsn 23
+SType 1
+SBits 536870912
+Sname Eruption~
+SFname Eruption~
+SLev 74
+Pr1 Napalm~
+Pr2 Meteor Shower~
+Noun $R$4volc$Banic$R $4erup$Btion$R~
+A2C1 You use the extent of your sorcery, and a huge volcano sprouts out from the earth!~
+A2C2 The volcano suddenly spews everywhere!~
+A2V1 A volcano sprouts out of the ground!~
+A2V2 $4L$Ba$R$4v$Ba$R spews out from the volcano, all over YOU!~
+A2NV1 $N is covered with $4L$Ba$R$4v$Ba$R from $n's volcano!~
+A2NV2 That has GOT to HURT!~
+Locat 0
+Durat 0~
+Modif 0~
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (400*e)+(350*g)+(300*j)+a+a+a~
+Mana 84
+ManaT 4
+CastT 70
+Pos 7
+WearO Your legs feel a little stronger.~
+CrV1 4225
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 22
+Minwis 12
+#SPELL
+Slot 1
+Gsn 191
+SType 1
+SBits 0
+Sname Excommunicate~
+SFname Excommunicate~
+SLev 65
+Pr1 Divine Protection~
+Pr2 Stone Skin~
+Noun $B$4E$B$6X$B$3CO$B$7M$R$7M$B$6U$B$1N$B$6I$R$7C$B$7A$B$3TI$B$6O$B$4N~
+A2C1 You point to the heavens sending forth a beam of $B$4b$B$6l$B$3i$B$7nd$B$3i$B$6n$B$4g $B$4l$B$7i$B$6g$B$7h$B$4t$R$7~
+A2V1 $n sends forth a $B$3b$B$7ea$B$3m of $B$4b$B$6l$B$3i$B$7nd$B$3i$B$6n$B$4g $B$4l$B$7i$B$6g$B$7h$B$4t$R$7~
+A2NV1 $n sends forth a $B$3b$B$7ea$B$3m of $B$4b$B$6l$B$3i$B$7nd$B$3i$B$6n$B$4g $B$4l$B$7i$B$6g$B$7h$B$4t$R$7~
+Locat 2
+Durat 5~
+Modif -20~
+BitVe 1
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (h+150)+1/2+(h*w*a/2)+d+c+b+cm200~
+Mana 35
+ManaT 1
+CastT 35
+Pos 7
+WearO A blinding light dissipate.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 20
+Minwis 25
+Guild1 healerg~
+#SPELL
+Slot 0
+Gsn 551
+SType 0
+SBits 0
+Sname Armor Penetration~
+SFname Armor Penetration~
+SLev 12
+Pr1 slashing~
+Pr2 piercing~
+Noun Spell~
+Locat 2
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 2
+Pos 5
+WearO The spell has worn off.~
+CrV1 2052
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 0
+Gsn 575
+SType 0
+SBits 0
+Sname Whipping Weapons~
+SFname Whipping Weapons~
+SLev 1
+Noun Spell~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Mana 1
+ManaT 0
+CastT 10
+Pos 5
+WearO The spell has worn off.~
+CrV1 1545
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 71
+SType 1
+SBits 0
+Sname Stone Shard~
+SFname Stone Shard~
+SLev 49
+Pr1 Boulder~
+Pr2 Sand Blast~
+Noun $B$6S$R$3t$6on$B$0e S$R$6ha$R$3r$B$6d$R~
+A2C1 You send a $B$6S$R$3t$6on$B$0e S$R$6ha$R$3r$B$6d$R at $N!~
+A2V1 $n sends a sharp looking $B$6S$R$3t$6on$B$0e S$R$6ha$R$3r$B$6d$R at your body!~
+A2NV1 $n sends a very sharp looking $B$6S$R$3t$6on$B$0e S$R$6ha$R$3r$B$6d$R at $N's body!!~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (w+w+b+w*h/2)+(w/2+w*p+w)+l/5+b+w+b+wm100~
+Mana 54
+ManaT 1
+CastT 35
+Pos 7
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 0
+Minwis 0
+#SPELL
+Slot 1
+Gsn 47
+SType 2
+SBits 134217736
+Sname Rejuvenate~
+SFname Rejuvenate~
+SLev 48
+Pr1 Refresh~
+Pr2 Heal Critical~
+Noun Spell~
+A2C1 You send forth energy.~
+A2V1 You feel rejuvenated.~
+A2NV1 $n gives $N an energy boost.~
+Locat 0
+BitVe 0
+BitT 0
+BitA1 0
+BitA2 0
+BitR1 0
+BitR2 0
+Dam (40*h)+(20*p)+(30*e)+w+(w/2)+(l/4)~
+Mana 45
+ManaT 1
+CastT 55
+Pos 12
+WearO The spell has worn off.~
+CrV1 0
+CrV2 -9
+CrV3 -9
+CrV4 -9
+CrV5 -9
+CrV6 -9
+CrV7 -9
+CrV8 -9
+CrV9 -9
+CrV10 -9
+Minint 12
+Minwis 18
+Guild1 healerg~
+Guild2 palading~
+Guild3 elementg~
+Guild4 none~
+#END

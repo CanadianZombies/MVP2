@@ -1,0 +1,1405 @@
+#AREADATA 
+Name The Great Valley~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 50351 50500
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#50351
+Name rock gnoll~
+Short a rock gnoll~
+Long 
+A short, stocky rock-gnoll stands here, grinning at you.
+~
+Descr
+This rock gnoll looks quite lost..  Perhaps you could help him..  Nah.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Alignment 90
+Money 5
+Level 5
+Sex 1
+MobType 3
+Guard 0
+End
+
+#50352
+Name white unicorn~
+Short a white unicorn~
+Long 
+A unicorn with a magnificent white mane prances along here.
+~
+Descr
+This beautiful beast prances along here, muscles rippling and nostrils
+flaring.  Its incredible white horn seems to glow with an amazing light.  
+~
+AMax 1
+NHeight 0
+ActBits 8193
+Alignment 90
+Money 110
+Level 110
+Sex 2
+MobType 18
+Guard 0
+End
+
+#50353
+Name wise man~
+Short a wise man~
+Long 
+A wise yet muscular man stands here, calmly observing you.
+~
+Descr
+This man looks like he has seen every beauty of nature and has enjoyed
+life almost to the fullest.  There is still a sad look in his eye when you
+try to search deep into his soul, and his strong muscles tell you he has not
+always lived an easy life.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Money 43
+Level 43
+Sex 1
+MobType 0
+Guard 0
+End
+
+#50354
+Name wandering gnome~
+Short a wandering gnome~
+Long 
+A wandering gnome stands here, observing the lands.
+~
+Descr
+This short, pudgy gnome looks stronger than he first appeared at first
+glance.  You wonder why he has chosen this area to wander in.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 10
+Money 8
+Level 8
+Sex 1
+MobType 3
+Guard 0
+End
+
+#50355
+Name elven prince lonely sad elf~
+Short an elven prince~
+Long 
+An elven prince stands here, looking lonely and sad.
+~
+Descr
+This elven prince looks quite indifferent to the world and also quite
+depressed.  Perhaps he was thrown out of his kingdom or found his princess
+sleeping with the king :) 
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment 300
+Money 114
+Level 114
+Sex 1
+MobType 1
+Guard 0
+End
+
+#50356
+Name creepers vine vines~
+Short some vines~
+Long 
+Some large looking, wriggling vines hang from a tree here.
+~
+Descr
+These green vines look like they eat meat..  From the size of those huge
+jaws up in the trees above to the large, handlike vine-ending, you begin to
+fear that this vine isn't too friendly.  
+~
+Attackmsg grab~
+AMax 4
+NHeight 0
+ActBits 11
+Money 12
+Level 12
+MobType 17
+Guard 0
+End
+
+#50357
+Name ape large~
+Short a large ape~
+Long 
+A large ape is here, swinging through the trees.
+~
+Descr
+This large ape looks like he has become quite strong living in the jungle.  
+~
+Attackmsg pound~
+AMax 3
+NHeight 0
+ActBits 1
+Money 8
+Level 8
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#50358
+Name ape~
+Short an ape~
+Long 
+An ape stands here, pounding on his chest.
+~
+Descr
+This large ape looks rather mad...  His wet, slicked back fur looks well
+groomed, and there are very few lice in his hair; must be a well-groomed
+ape...  
+~
+Attackmsg pound~
+AMax 3
+NHeight 0
+ActBits 9
+Money 7
+Level 7
+Sex 1
+MobType 0
+Guard 0
+End
+
+#50359
+Name tarzan huge man jungle~
+Short Tarzan~
+Long 
+A large jungle-man is swinging through the trees here.
+~
+Descr
+This huge man looks like he has grown up in the jungle and wrestled even
+the most ferocious beasts.  Perhaps you shouldn't mess with him; he looks
+like he might eat you alive.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment 15
+Money 35
+Level 35
+Sex 1
+MobType 0
+Guard 0
+End
+
+#50360
+Name snake tree large~
+Short a tree snake~
+Long 
+A large tree-snake slithers through the tree branches here.
+~
+Descr
+This damn snake must be like 7 feet long!  It doesn't look too friendly
+either.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 5
+Level 5
+Sex 2
+MobType 20
+Guard 0
+Spec spec_poison
+RaceHate 268435456
+End
+
+#50394
+Name dragon green jungle giant gigantic~
+Short jungle dragon~
+Long 
+The green jungle dragon stands here waiting for any unsuspecting adventure to feast on.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108867
+Affect_By 1073816234
+Money 600
+Level 110
+MobType 5
+Guard 0
+ArmorClass -190
+End
+
+#0
+
+
+
+#OBJDATA
+#50351
+Name unicorn horn white~
+Short a [1m[34mun[37mico[0m[37mrn [1mho[34mrn[0m~
+Descr
+A unicorn horn lies here on the ground.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 13 0 11 0 0 0 3 6 0
+Weight 1
+Cost 1255
+Affect 25 10 1 0 0
+Affect 18 1 1 0 0
+End
+
+#50352
+Name unicorn horn~
+Short a [1m[37mu[36mn[37mi[36mc[37mo[36mr[37mn horn[0m~
+Descr
+A unicorn horn lies here on the ground.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 14 0 11 0 0 0 4 4 0
+Weight 1
+Cost 5000
+Affect 25 4 1 0 0
+Affect 19 1 1 0 0
+Affect 13 5 1 0 0
+End
+
+#50353
+Name blue steel dagger~
+Short a blue-steel dagger~
+Descr
+A dagger made of strange blue steel lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 11 0 0 0 4 3 0
+Weight 1
+Cost 1100
+End
+
+#50354
+Name hood silk rune runed strange~
+Short a runed, silk hood~
+Descr
+A strange, runed silk hood lies here on the ground.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 4 4 0 0
+Weight 0
+Cost 774
+Affect 13 5 1 0 0
+End
+
+#50355
+Name gnomish gnome curved short sword shortsword~
+Short a gnomish-curved shortsword~
+Descr
+A gnomish short sword with a curved blade is here.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 3 0 0 0 2 5 0
+Weight 1
+Cost 665
+Affect 18 -4 1 0 0
+End
+
+#50356
+Name ancient elven blade~
+Short the ancient elven blade~
+Descr
+The royal elven blade of the ancients lies here on the ground.
+[0;36m~
+Type 5
+Extra 538968065
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 3 0 0 0 4 4 0
+Weight 12
+Cost 22933
+Affect 18 1 1 0 0
+ExtraDescr blade elven~
+This magnificent blade was rumoured to have been forged when the ancients
+
+were at war with Krag, right before the first destruction of Xylar.  
+
+~
+End
+
+#50357
+Name elven chain light chainmail~
+Short light elven chainmail~
+Descr
+Some light elven chainmail lies here on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 30 30 0 0
+Weight 2
+Cost 1054
+Affect 14 4 1 0 0
+End
+
+#50358
+Name elven chain sleeves~
+Short elven chain sleeves~
+Descr
+A pair of elven chain sleeves lie here on the ground.
+[0;36m~
+Type 9
+Extra 1024
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 45 45 0 0
+Weight 3
+Cost 771
+End
+
+#50359
+Name loin cloth loincloth~
+Short a loincloth~
+Descr
+A loincloth lies here, apparently unclaimed.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 10 10 0 0
+Weight 0
+Cost 77
+Affect 14 8 1 0 0
+End
+
+#50360
+Name green leather gloves~
+Short some green, leather gloves~
+Descr
+Some green leather gloves lie here on the ground.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 0
+Cost 994
+Affect 17 -2 2 0 0
+Affect 14 3 1 0 0
+Affect 20 -2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#50351
+Name A Small Road Alongside a Cliff~
+Descr
+You stand on a small, winding road that borders a massive dropoff.  You
+can see a great valley stretch before you to the south, and you wonder if
+there is a way down to it somewhere around here.  
+~
+Movemess
+(null)~
+Door 2 0 0 50352 30 30
+~
+(null)~
+Door 3 0 0 29035 30 30
+~
+(null)~
+End
+
+#50352
+Name A Small Road Leading Down into a Large Valley~
+Descr
+The road begins to descend here, leading down into what you can now make
+out as a lush, green valley.  You can see a mist-filled jungle off the the
+southeast, and to the south the trail continues.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 50351 30 30
+~
+(null)~
+Door 2 0 0 50353 30 30
+~
+(null)~
+End
+
+#50353
+Name A Small Trail Leading Down into a Valley~
+Descr
+The road begins to descend here, leading down into what you can now make
+out as a lush, green valley.  You can see a mist-filled jungle off the the
+southeast, and to the south you can see the valley floor.  
+~
+Movemess
+(null)~
+Door 0 0 0 50352 30 30
+~
+(null)~
+Door 2 0 0 50354 30 30
+~
+(null)~
+End
+
+#50354
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  You can see a trail
+leading up to the highlands to the north.  
+~
+Sector 2
+Reset M 50354 4 100
+Movemess
+(null)~
+Door 0 0 0 50353 30 30
+~
+(null)~
+Door 1 0 0 50358 30 30
+~
+(null)~
+Door 2 0 0 50355 30 30
+~
+(null)~
+End
+
+#50355
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  The valley continues
+in every direction from here.  
+~
+Sector 2
+Reset M 50354 4 100
+Movemess
+(null)~
+Door 0 0 0 50354 30 30
+~
+(null)~
+Door 1 0 0 50357 30 30
+~
+(null)~
+Door 2 0 0 50356 30 30
+~
+(null)~
+Door 3 0 0 50360 30 30
+~
+(null)~
+End
+
+#50356
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  Dense forest and
+rocks block your way to the south.  
+~
+Sector 2
+Reset M 50354 4 100
+Movemess
+(null)~
+Door 0 0 0 50355 30 30
+~
+(null)~
+Door 1 0 0 50359 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+Door 3 0 0 50361 30 30
+~
+(null)~
+End
+
+#50357
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  A path leading into a
+dense jungle starts to the east here.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50358 30 30
+~
+(null)~
+Door 1 0 0 50363 30 30
+~
+(null)~
+Door 2 0 0 50359 30 30
+~
+(null)~
+Door 3 0 0 50355 30 30
+~
+(null)~
+End
+
+#50358
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  Cliff walls block
+your way to the north and east.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+Door 1 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+Door 2 0 0 50357 30 30
+~
+(null)~
+Door 3 0 0 50354 30 30
+~
+(null)~
+End
+
+#50359
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  You can make out a
+small crack in the rocks to the south.  
+~
+Flags 2
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50357 30 30
+~
+(null)~
+Door 2 259 0 50362 30 30
+~
+rubble~
+Door 3 0 0 50356 30 30
+~
+(null)~
+End
+
+#50360
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  
+~
+Sector 2
+Reset M 50355 1 100
+Reset O 50356 21 1
+Reset O 29014 21 93
+Reset O 50357 4 90
+Reset O 209 6 14
+Reset O 50358 9 66
+Reset O 29001 50355 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+Door 1 0 0 50355 30 30
+~
+(null)~
+Door 2 0 0 50361 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+End
+
+#50361
+Name Greenhelm Valley~
+Descr
+You stand in a large, lush valley, surrounded by towering cliff walls. 
+The grass is green and lush, and the air is pleasant.  High cliffs rise
+above you to the west and south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50360 30 30
+~
+(null)~
+Door 1 0 0 50356 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+Door 3 0 0 0 30 30
+A high cliff-wall blocks your way.
+~
+(null)~
+End
+
+#50362
+Name A Narrow Passage through the Boulders~
+Descr
+You stand in a very narrow passage.  Tall cliff walls tower high above
+you on either side of the path, and loose rubble makes the going moderately
+tough.  You can see some loose rubble to the north.  
+~
+Movemess
+(null)~
+Door 0 3 0 50359 30 30
+~
+rubble~
+Door 2 0 0 50364 30 30
+~
+(null)~
+End
+
+#50363
+Name Path into a Dense Jungle~
+Descr
+You stand on a strange path, covered with vines and broad-leafed trees. 
+You can see a clearing to the west, and a large jungle to the east.  The air
+is damp and thick, and you can't see far because of the mist.  
+~
+Flags 2
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 1 0 0 50374 30 30
+~
+(null)~
+Door 3 0 0 50357 30 30
+~
+(null)~
+End
+
+#50364
+Name A Narrow Passage through the Boulders~
+Descr
+You stand in a very narrow passage.  Tall cliff walls tower high above
+you on either side of the path, and loose rubble makes the going moderately
+tough.  The path curves to the east and north here.  
+~
+Reset M 50351 1 100
+Movemess
+(null)~
+Door 0 0 0 50362 30 30
+~
+(null)~
+Door 1 0 0 50365 30 30
+~
+(null)~
+End
+
+#50365
+Name A Narrow Passage through the Boulders~
+Descr
+You stand in a very narrow passage.  Tall cliff walls tower high above
+you on either side of the path, and loose rubble makes the going moderately
+tough.  You can see a hidden valley stretch out to the east of here.  
+~
+Flags 2
+Movemess
+(null)~
+Door 1 0 0 50366 30 30
+~
+(null)~
+Door 3 0 0 50364 30 30
+~
+(null)~
+End
+
+#50366
+Name A Hidden Clearing~
+Descr
+You stand in a beautiful, hidden clearing.  The grass is green and
+healthy, and there are wildflowers all around that give the air a wonderful
+auroma.  You can see a narrow passage through the boulders to the west.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+Door 1 0 0 50368 30 30
+~
+(null)~
+Door 2 0 0 50367 30 30
+~
+(null)~
+Door 3 0 0 50365 30 30
+~
+(null)~
+End
+
+#50367
+Name A Hidden Clearing~
+Descr
+You stand in a beautiful, hidden clearing.  The grass is green and
+healthy, and there are wildflowers all around that give the air a wonderful
+auroma.  Steep rock walls rise up to the west and south.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 50366 30 30
+~
+(null)~
+Door 1 0 0 50369 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+Door 3 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+End
+
+#50368
+Name A Hidden Clearing~
+Descr
+You stand in a beautiful, hidden clearing.  The grass is green and
+healthy, and there are wildflowers all around that give the air a wonderful
+auroma.  Steep cliffs rise up to the north and east.  
+~
+Sector 2
+Reset M 50354 4 100
+Reset O 50355 21 68
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+Door 1 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+Door 2 0 0 50369 30 30
+~
+(null)~
+Door 3 0 0 50366 30 30
+~
+(null)~
+End
+
+#50369
+Name A Hidden Clearing~
+Descr
+You stand in a beautiful, hidden clearing.  The grass is green and
+healthy, and there are wildflowers all around that give the air a wonderful
+auroma.  You can make out a small path to the south.  
+~
+Sector 2
+Reset M 50352 1 100
+Reset O 50352 -1 5
+Movemess
+(null)~
+Door 0 0 0 50368 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+Steep cliff walls rise up, blocking your way.
+~
+(null)~
+Door 2 0 0 50370 30 30
+~
+(null)~
+Door 3 0 0 50367 30 30
+~
+(null)~
+End
+
+#50370
+Name A Small, Grassy Path~
+Descr
+You stand on a small path, covered with lush, green grass.  To the north
+you can see the large clearing, and to the east the path continues.  You can
+make out a hut or something in the distance to the southeast.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 50369 30 30
+~
+(null)~
+Door 1 0 0 50372 30 30
+~
+(null)~
+End
+
+#50371
+Name A Small, Grassy Path~
+Descr
+You stand on a grassy path.  You can see a door to the east, and a small
+cottage.  You can see the grassy path continue to the north.  You try to
+peek inside the window, but you can't make out anything because the windows
+were not cut right.  
+~
+Movemess
+(null)~
+Door 0 0 0 50372 30 30
+~
+(null)~
+Door 1 3 0 50373 37 37
+~
+door~
+Door 2 259 0 50395 30 30
+~
+thorns~
+End
+
+#50372
+Name A Small, Grassy Path~
+Descr
+This small, grassy path looks well kept and neat.  The grass has been
+trimmed, almost like someone had been taking care of this path.  The path
+continues south and west.  
+~
+Movemess
+(null)~
+Door 2 0 0 50371 30 30
+~
+(null)~
+Door 3 0 0 50370 30 30
+~
+(null)~
+End
+
+#50373
+Name Inside a Small Cottage~
+Descr
+You stand inside a small cottage.  There is no furniture to be seen
+except a plain looking table in the middle of the room.  The door is to the
+west, and there is an empty fireplace on the east side of the room.  
+~
+Flags 4
+Reset M 50353 1 100
+Reset O 50354 5 2
+Reset O 50353 21 39
+Reset O 201 7 100
+Movemess
+(null)~
+Door 3 3 0 50371 37 37
+~
+door~
+End
+
+#50374
+Name Path into a Dense Jungle~
+Descr
+You stand on a small path.  Dense undergrowth and wet plants block the
+way to the north and east, and the path continues south and west.  Water
+drips from the large treetops and creates a misty effect in the air.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 2 0 0 50375 30 30
+~
+(null)~
+Door 3 0 0 50363 30 30
+~
+(null)~
+End
+
+#50375
+Name Path into a Dense Jungle~
+Descr
+Wet leaves brush against your face, and plants along the ground seem to
+grab at your legs.  The air is dense and you feel almost as if you were on
+some strange world, covered in mist.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 0 0 0 50374 30 30
+~
+(null)~
+Door 1 0 0 50376 30 30
+~
+(null)~
+End
+
+#50376
+Name The Great Rainforest~
+Descr
+Water drips down from the treetops high above, and the hot, damp air
+makes breathing moderately difficult.  The brush has thinned out here a bit,
+and you can now see your feet on the soft, damp ground below.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 1 0 0 50378 30 30
+~
+(null)~
+Door 2 0 0 50377 30 30
+~
+(null)~
+Door 3 0 0 50375 30 30
+~
+(null)~
+End
+
+#50377
+Name The Great Rainforest~
+Descr
+Wet leaves brush against your face, and plants along the ground seem to
+grab at your legs.  The air is dense and you feel almost as if you were on
+some strange world, covered in mist.  
+~
+Shd 1
+Sector 12
+Reset M 50357 3 100
+Reset M 50356 4 100
+Movemess
+(null)~
+Door 0 0 0 50376 30 30
+~
+(null)~
+Door 1 0 0 50379 30 30
+~
+(null)~
+End
+
+#50378
+Name The Great Rainforest~
+Descr
+Wet leaves brush against your face, and plants along the ground seem to
+grab at your legs.  The air is dense and you feel almost as if you were on
+some strange world, covered in mist.  
+~
+Shd 1
+Sector 12
+ExtraDescr clue~
+Clue #8 Find the once that guards what is cold, there awaits the next clue.
+
+~
+Reset M 50359 1 100
+Reset O 50360 8 23
+Reset O 50359 12 100
+Reset M 50358 4 100
+Reset M 50356 4 100
+Movemess
+(null)~
+Door 0 0 0 50380 30 30
+~
+(null)~
+Door 2 0 0 50379 30 30
+~
+(null)~
+Door 3 0 0 50376 30 30
+~
+(null)~
+End
+
+#50379
+Name The Great Rainforest~
+Descr
+Water drips down from the treetops high above, and the hot, damp air
+makes breathing moderately difficult.  The brush has thinned out here a bit,
+and you can now see your feet on the soft, damp ground below.  
+~
+Shd 1
+Sector 12
+Reset M 50360 3 100
+Movemess
+(null)~
+Door 0 0 0 50378 30 30
+~
+(null)~
+Door 3 0 0 50377 30 30
+~
+(null)~
+End
+
+#50380
+Name A Path through the Rainforest~
+Descr
+You stand on a large, twisty path through the rainforest.  Everything
+around you looks the same, and the mist makes it hard to tell if you were
+just here or not.  Isn't that the same tree you just passed..?  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 0 0 0 50381 30 30
+~
+(null)~
+Door 2 0 0 50378 30 30
+~
+(null)~
+End
+
+#50381
+Name A Path through the Rainforest~
+Descr
+You stand on a large, twisty path through the rainforest.  Everything
+around you looks the same, and the mist makes it hard to tell if you were
+just here or not.  Isn't that the same tree you just passed..?  
+~
+Shd 1
+Sector 12
+Reset M 50358 4 100
+Movemess
+(null)~
+Door 2 0 0 50380 30 30
+~
+(null)~
+Door 3 0 0 50388 30 30
+~
+(null)~
+End
+
+#50382
+Name A Path through the Rainforest~
+Descr
+You stand on a large, twisty path through the rainforest.  Everything
+around you looks the same, and the mist makes it hard to tell if you were
+just here or not.  Isn't that the same tree you just passed..?  
+~
+Shd 1
+Sector 12
+Reset M 50360 3 100
+Reset M 50357 3 100
+Movemess
+(null)~
+Door 1 0 0 50383 30 30
+~
+(null)~
+End
+
+#50383
+Name The Great Rainforest~
+Descr
+You stand in an incredibly thick jungle.  Rumored to have been called the
+Jaelus Jungle back in the days of the ancients, this jungle has been rumored
+to have confused even the most direction-wise adventurers.  Come to think of
+it, all the trees look awfully similar.  
+~
+Shd 1
+Sector 12
+Reset M 50357 3 100
+Reset M 50356 4 100
+Movemess
+(null)~
+Door 0 0 0 50384 30 30
+~
+(null)~
+Door 1 0 0 50386 30 30
+~
+(null)~
+Door 2 0 0 50385 30 30
+~
+(null)~
+Door 3 0 0 50382 30 30
+~
+(null)~
+End
+
+#50384
+Name The Great Rainforest~
+Descr
+You stand in an incredibly thick jungle.  Rumored to have been called the
+Jaelus Jungle back in the days of the ancients, this jungle has been rumored
+to have confused even the most direction-wise adventurers.  Come to think of
+it, all the trees look awfully similar.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 0 0 0 50386 30 30
+~
+(null)~
+Door 1 0 0 50387 30 30
+~
+(null)~
+Door 2 0 0 50383 30 30
+~
+(null)~
+Door 3 0 0 50387 30 30
+~
+(null)~
+End
+
+#50385
+Name The Great Rainforest~
+Descr
+You stand in an incredibly thick jungle.  Rumored to have been called the
+Jaelus Jungle back in the days of the ancients, this jungle has been rumored
+to have confused even the most direction-wise adventurers.  Come to think of
+it, all the trees look awfully similar.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 0 0 0 50383 30 30
+~
+(null)~
+Door 1 0 0 50383 30 30
+~
+(null)~
+Door 2 0 0 50382 30 30
+~
+(null)~
+Door 3 0 0 50384 30 30
+~
+(null)~
+End
+
+#50386
+Name The Great Rainforest~
+Descr
+You stand in an incredibly thick jungle.  Rumored to have been called the
+Jaelus Jungle back in the days of the ancients, this jungle has been rumored
+to have confused even the most direction-wise adventurers.  Come to think of
+it, all the trees look awfully similar.  
+~
+Shd 1
+Sector 12
+Reset M 50360 3 100
+Movemess
+(null)~
+Door 0 0 0 50387 30 30
+~
+(null)~
+Door 1 0 0 50384 30 30
+~
+(null)~
+Door 2 0 0 50384 30 30
+~
+(null)~
+Door 3 0 0 50383 30 30
+~
+(null)~
+End
+
+#50387
+Name The Great Rainforest~
+Descr
+You stand in an incredibly thick jungle.  Rumored to have been called the
+Jaelus Jungle back in the days of the ancients, this jungle has been rumored
+to have confused even the most direction-wise adventurers.  Come to think of
+it, all the trees look awfully similar.  
+~
+Shd 1
+Sector 12
+Reset M 50356 4 100
+Movemess
+(null)~
+Door 0 0 0 50389 30 30
+~
+(null)~
+Door 1 0 0 50386 30 30
+~
+(null)~
+Door 2 0 0 50386 30 30
+~
+(null)~
+Door 3 0 0 50384 30 30
+~
+(null)~
+End
+
+#50388
+Name A Path through the Rainforest~
+Descr
+You stand on a large, twisty path through the rainforest.  Everything
+around you looks the same, and the mist makes it hard to tell if you were
+just here or not.  Isn't that the same tree you just passed..?  
+~
+Shd 1
+Sector 12
+Reset M 50358 4 100
+Movemess
+(null)~
+Door 0 0 0 50392 30 30
+~
+(null)~
+Door 1 0 0 50381 30 30
+~
+(null)~
+End
+
+#50389
+Name A Strange Path through the Jungle~
+Descr
+This strange path is damp, and your feet sink in a ways into the soil
+with every step you take.  The air smells of wild jungle flowers, and damp
+leaves brush against your face as you travel here.  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 1 0 0 50390 30 30
+~
+(null)~
+Door 2 0 0 50387 30 30
+~
+(null)~
+End
+
+#50390
+Name A Strange Path through the Jungle~
+Descr
+This strange path is damp, and your feet sink in a ways into the soil
+with every step you take.  The air smells of wild jungle flowers, and damp
+leaves brush against your face as you travel here.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 50391 30 30
+~
+(null)~
+Door 3 0 0 50389 30 30
+~
+(null)~
+End
+
+#50391
+Name Outside an Ancient Jungle Temple~
+Descr
+You stand just south of a strange temple, covered in green vines and
+hidden by large, damp trees.  You can see the temple door to the north; a
+large door made of solid stone.  You can see a path to the south.  
+~
+Flags 2
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 2 0 0 50390 30 30
+~
+(null)~
+End
+
+#50392
+Name A Path through the Rainforest~
+Descr
+You stand on a large, twisty path through the rainforest.  Everything
+around you looks the same, and the mist makes it hard to tell if you were
+just here or not.  Isn't that the same tree you just passed..?  
+~
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 2 0 0 50388 30 30
+~
+(null)~
+Door 3 0 0 50393 30 30
+~
+(null)~
+End
+
+#50393
+Name A Large Hole in the Jungle Floor~
+Descr
+You stand in a thick jungle, dripping wet from the leaves' water.  There
+is an enormous hole in the jungle floor that leads straight down here.  All
+directions but the east are blocked by dense underbrush and large trees.  
+~
+Flags 2
+Shd 1
+Sector 12
+Movemess
+(null)~
+Door 1 0 0 50392 30 30
+~
+(null)~
+Door 5 257 0 50394 30 30
+~
+Jungle~
+End
+
+#50394
+Name A Damp Cavern Below the Jungle~
+Descr
+Your Standing in a large cavern, with acid burns on the walls.  A large green Jungle Dragon stands before you.
+~
+Shd 1
+Sector 0
+Reset M 50394 1 100
+Reset O 45680 -1 25
+Reset O 45681 -1 25
+Movemess
+(null)~
+Door 4 257 0 50393 30 30
+~
+Jungle~
+End
+
+#50395
+Name Inside Some Bushes~
+Descr
+You are standing inside a large patch of throny bushes. You try as hard
+as you can to keep from getting pricked, but it doesnt seem possible. 
+~
+Door 0 3 0 50371 30 30
+~
+thorns~
+End
+
+#0
+
+
+
+#$

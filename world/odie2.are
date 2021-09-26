@@ -1,0 +1,6292 @@
+#AREADATA 
+Name New Xylar~
+Repop [1;30mThe streets of Xylar seem to regain a little bit of their lost luster.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Odie Garfield~
+VNUMs 12701 12999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#12713
+Name sailor collector old tired~
+Short an old grumpy sailor~
+Long 
+A tired old sailor stands here collecting tickets for Krondor.
+~
+Descr
+~
+AMax 1
+NHeight 74
+ActBits 2
+ActBits3 2
+Money 180
+Level 180
+Sex 1
+Hp 100
+Guard 2
+Spec spec_thief
+Shop    0   0   0   0   0 1 1 0 24
+Shopd2 5
+Shopd3 4
+ArmorClass 20
+End
+
+#12719
+Name ticket seller~
+Short a Ticket seller~
+Long 
+A ticket seller is standing here waiting to sell you tickets to Krondor.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 2
+Level 500
+Sex 1
+MobType 0
+Hp 20
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 40
+ShopCr 12719
+ShopCS Would you like a ticket to Krondor?~
+End
+
+#12720
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#12765
+Name annabelle PRAC~
+Short annabelle~
+Long 
+Annabelle, the young sorceress, is here in her new study.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 258
+Affect_By 680
+Money 190
+Level 190
+Sex 2
+MobType 0
+Hp 25
+Guard 0
+Spec spec_warrior
+BCasts healing~
+BCasts frost lance~
+BCasts acid blast~
+BCast_P 60
+End
+
+#12788
+Name dog yellow small~
+Short a small yellow dog~
+Long 
+A small yellow dog sits here slobbering all over the street.
+~
+Descr
+~
+AMax 2
+NHeight 20
+ActBits 16
+Money 5
+Level 5
+Sex 1
+MobType 6
+Guard 0
+End
+
+#12789
+Name orange cat tabby black~
+Short an orange and black tabby cat~
+Long 
+An orange and black tabby cat roams the street in search of lasagna.
+~
+Descr
+~
+AMax 2
+NHeight 18
+ActBits 16
+Money 5
+Level 5
+Guard 0
+End
+
+#12790
+Name mayor undead xylar theman PRAC~
+Short the undead ex-mayor of Xylar~
+Long 
+The former mayor of Xylar, now undead, is here wandering the streets of his city.
+~
+Descr
+~
+AMax 1
+AYeller 4
+AWillhelp 1
+NHeight 76
+ActBits 272
+ActBits4 4096
+Affect_By 682
+Alignment 1000
+Money 90
+Level 90
+MobType 21
+Hp 90
+Guard 0
+Spec spec_warrior
+ArmorClass 60
+BCasts stupor~
+BCasts meteor shower~
+BCasts hands of wind~
+BCast_P 35
+End
+
+#12791
+Name guard xylar xylarian soldier~
+Short a xylarian guard~
+Long 
+A noble guard of Xylar, both old and new, is wandering the streets here.
+~
+Descr
+~
+AMax 3
+AYeller 4
+AWillhelp 1
+NHeight 79
+ActBits -2147483632
+ActBits4 8192
+Alignment 1000
+Money 90
+Level 90
+Sex 1
+MobType 0
+Hp 9
+Guard 0
+Spec spec_warrior
+End
+
+#12800
+Name madame Olga weaponsmith shopkeeper~
+Short madame Olga~
+Long 
+Madame Olga looks you over while fingering a large leather whip.
+~
+Descr
+~
+AMax 1
+NHeight 78
+ActBits 1048578
+Affect_By 520
+Money 50
+Level 50
+Sex 2
+MobType 4
+Hp 100
+Guard 0
+Spec spec_warrior
+Shop    0   5   5   5   0 100 100 0 23
+Shopd2 5
+Shopd3 5
+ShopCr 201
+End
+
+#12805
+Name freeda madame whore~
+Short freeda, the madame of the brothel~
+Long 
+Freeda, the head whore, is here watching over the ladies.
+~
+Descr
+~
+AMax 1
+NHeight 62
+ActBits 134217730
+Affect_By 520
+Money 55
+Level 55
+Sex 2
+MobType 0
+Hp 5
+Guard 0
+End
+
+#12817
+Name elisa slut whore woman aONE~
+Short elisa~
+Long 
+Elisa is standing here looking seductive.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits 8194
+Alignment -1000
+Money 35
+Level 35
+Sex 2
+MobType 25
+Hp 8
+Guard 0
+End
+
+#12818
+Name horny sailor man~
+Short a sexually deprived sailor~
+Long 
+A sailor, in the mood for love, is here.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 134217730
+Affect_By 520
+Money 45
+Level 45
+Sex 1
+MobType 0
+Hp 4
+Guard 0
+End
+
+#12819
+Name skanky looking slut whore aONE~
+Short a skanky slut~
+Long 
+A skanky looking slut is here looking for potential customers.
+~
+Descr
+~
+AMax 2
+NHeight 59
+ActBits 134217730
+Affect_By 512
+Money 35
+Level 35
+Sex 2
+MobType 25
+Hp 3
+Guard 0
+Spec spec_warrior
+End
+
+#12820
+Name gnome angry short~
+Short a short angry gnome~
+Long 
+A small gnome stands here snarling at you angrily.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 32
+Level 32
+Sex 1
+MobType 3
+Hp 6
+Guard 0
+Spec spec_warrior
+BCasts blindness~
+BCast_P 10
+End
+
+#12829
+Name gladiator buff guard very glad AONE~
+Short a very buff gladiator~
+Long 
+A VERY buff gladiator is here guarding the arena.
+~
+Descr
+~
+AMax 1
+NHeight 76
+ActBits 134217730
+ActBits3 524288
+Alignment 1000
+Money 65
+Level 65
+Sex 1
+MobType 0
+Hp 90
+Guard 0
+Spec spec_warrior
+End
+
+#12830
+Name scrawny small gladiator glad~
+Short a scrawny gladiator~
+Long 
+A scrawny looking gladiator is here trying to get in shape.
+~
+Descr
+~
+AMax 3
+NHeight 61
+ActBits 32
+Affect_By 1
+Money 35
+Level 35
+Sex 1
+MobType 0
+Hp 4
+Guard 0
+Spec spec_warrior
+End
+
+#12831
+Name large muscular gladiator~
+Short a large muscular gladiator~
+Long 
+A large gladiator is here fine tuning his fighting abilities.
+~
+Descr
+~
+AMax 2
+NHeight 89
+Money 48
+Level 48
+Sex 1
+MobType 0
+Hp 5
+Guard 0
+Spec spec_warrior
+End
+
+#12856
+Name lion hungry~
+Short a hungry lion~
+Long 
+A hungry lion is waiting for a gladiator to come by here.
+~
+Descr
+~
+AMax 3
+NHeight 50
+ActBits 67108872
+Affect_By 520
+Money 30
+Level 30
+Sex 1
+MobType 16
+Hp 4
+Guard 0
+End
+
+#12859
+Name gladiator guard~
+Short a gladiator guard~
+Long 
+A gladiator is here guarding the barracks.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 2
+Affect_By 131592
+Money 50
+Level 50
+Sex 1
+MobType 0
+Hp 7
+Guard 0
+Spec spec_warrior
+End
+
+#12862
+Name green dragon scaly large drag ~
+Short a large green dragon~
+Long 
+A large scaly green dragon is here licking its claws.
+~
+Descr
+~
+AMax 1
+NHeight 160
+ActBits 14
+Affect_By 680
+Money 190
+Level 190
+Sex 1
+MobType 5
+Hp 7
+Guard 0
+Spec spec_janitor
+BCasts healing~
+BCast_P 10
+End
+
+#12863
+Name jakar gladiator champion~
+Short jakar~
+Long 
+Jakar, the champion of the gladiators, is awaiting his next fight.
+~
+Descr
+~
+AMax 1
+NHeight 74
+ActBits 2
+Affect_By 552
+Money 70
+Level 70
+Sex 1
+MobType 0
+Hp 11
+Guard 0
+Spec spec_warrior
+End
+
+#12864
+Name gladiator young~
+Short a young gladiator~
+Long 
+A young gladiator is here recuperating from his last match.
+~
+Descr
+~
+AMax 2
+NHeight 65
+ActBits 2
+Affect_By 520
+Money 38
+Level 38
+Sex 1
+MobType 0
+Hp 6
+Guard 0
+Spec spec_warrior
+End
+
+#12866
+Name huge rat~
+Short a huge rat~
+Long 
+A huge rat is here feeding on its last victim.
+~
+Descr
+~
+AMax 1
+NHeight 32
+ActBits 10
+Affect_By 520
+Money 15
+Level 15
+MobType 7
+Hp 6
+Guard 0
+End
+
+#12876
+Name young thief~
+Short a young thief~
+Long 
+A young thief is here looking for something to steal.
+~
+Descr
+~
+AMax 3
+NHeight 50
+ActBits 36
+Money 30
+Level 30
+Sex 1
+MobType 0
+Hp 4
+Guard 0
+Spec spec_thief
+End
+
+#12900
+Name a Giant Fat Cat~
+Short garfield~
+Long 
+A large orange cat stands here trying to hide something behind his back.
+~
+Descr
+~
+AMax 1
+NHeight 500
+Affect_By 65536
+Money 100
+Level 100
+Sex 1
+MobType 11
+Guard 0
+Spec spec_thief
+End
+
+#12901
+Name moo cow fat~
+Short a fat cow~
+Long 
+A fat cow is here waiting to become ground beef.
+~
+Descr
+~
+AMax 2
+NHeight 67
+ActBits 2
+Affect_By 512
+Money 30
+Level 30
+Sex 2
+MobType 18
+Guard 0
+End
+
+#12904
+Name wizard nylrem great PRAC~
+Short nylrem the wizard~
+Long 
+Nylrem, the great wizard of Xylar is here studying the arts of magic.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 50332328
+Money 150
+Level 150
+Sex 1
+MobType 1
+Hp 13
+Guard 0
+Spec spec_warrior
+BCasts meteor shower~
+BCasts tornado of souls~
+BCasts healing~
+BCasts sphere of destruction~
+BCasts searing orb~
+BCasts divine~
+BCast_P 35
+End
+
+#12906
+Name rat large nasty~
+Short a large rat~
+Long 
+A nasty looking large rat is scurrying through the passageways.
+~
+Descr
+~
+AMax 5
+NHeight 4
+ActBits 8
+Money 6
+Level 6
+MobType 7
+Hp 8
+Guard 0
+End
+
+#12907
+Name skeleton warrior large skeletal~
+Short a skeleton warrior~
+Long 
+A skeletal warrior is here protecting the passageways.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 16
+Affect_By 520
+Money 85
+Level 85
+MobType 9
+Hp 7
+Guard 0
+Spec spec_warrior
+End
+
+#12944
+Name karina thief woman aONE~
+Short karina, the master thief~
+Long 
+A young woman with dark eyes is here eyeing you suspisciously.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 2
+Affect_By 552
+Alignment -500
+Money 65
+Level 65
+Sex 2
+MobType 0
+Hp 7
+Guard 0
+Spec spec_thief
+End
+
+#12945
+Name large bodyguard guard~
+Short a large bodyguard~
+Long 
+A large bodyguard is here looking after Karina.
+~
+Descr
+~
+AMax 2
+NHeight 76
+ActBits 134217730
+Affect_By 520
+Money 55
+Level 55
+Sex 1
+MobType 0
+Hp 4
+Guard 0
+Spec spec_warrior
+End
+
+#12946
+Name assistant axl young~
+Short a young assistant~
+Long 
+An assistant is here cleaning up Axl's old shop.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 16777736
+Alignment 1000
+Money 45
+Level 45
+Sex 1
+MobType 0
+Hp 7
+Guard 0
+Spec spec_warrior
+End
+
+#12947
+Name old man~
+Short an old man~
+Long 
+An old man is sitting here in his rocking chair.
+~
+Descr
+~
+AMax 1
+NHeight 57
+ActBits 134217730
+Money 26
+Level 26
+Sex 1
+MobType 0
+Hp 5
+Guard 0
+End
+
+#12948
+Name old woman aONE~
+Short an old woman~
+Long 
+An old woman sits happily here by her husband.
+~
+Descr
+~
+AMax 1
+NHeight 56
+ActBits 2
+Money 24
+Level 24
+Sex 2
+MobType 0
+Hp 5
+Guard 0
+End
+
+#12949
+Name vastok thief man retired PRAC~
+Short vastok, the retired thief~
+Long 
+Vastok, the retired thief is here reading a book.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 262
+Affect_By 552
+Money 140
+Level 140
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+Spec spec_thief
+End
+
+#12950
+Name johnny traveller weary~
+Short johnny, the weary traveller~
+Long 
+Johnny, the weary traveller, is here drinking a glass of ale.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 2
+Affect_By 520
+Money 85
+Level 85
+Sex 1
+MobType 1
+Hp 9
+Guard 0
+Spec spec_warrior
+End
+
+#12962
+Name boy loving~
+Short a boy in love~
+Long 
+A boy, loving even in death, is here with his sweetheart.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits 134217730
+Affect_By 522
+Money 30
+Level 30
+Sex 1
+MobType 21
+Hp 6
+Guard 0
+Spec spec_warrior
+BCasts curse~
+BCasts fireball~
+BCasts cone of cold~
+BCast_P 75
+End
+
+#12963
+Name aONE girl love~
+Short a young girl~
+Long 
+A girl in love with her sweetheart is here.
+~
+Descr
+~
+AMax 1
+NHeight 63
+ActBits 2
+Affect_By 522
+Money 29
+Level 29
+Sex 2
+MobType 21
+Hp 6
+Guard 0
+BCasts blindness~
+BCast_P 40
+End
+
+#12969
+Name george gorilla ape monkey~
+Short george~
+Long 
+A large gorilla is here playing with his food.
+~
+Descr
+~
+AMax 1
+NHeight 86
+Affect_By 544
+Money 75
+Level 75
+Sex 1
+MobType 4
+Hp 12
+Guard 0
+Spec spec_warrior
+End
+
+#12970
+Name tiger large cat~
+Short a large tiger~
+Long 
+A large tiger paces back and forth across her cage here.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 8
+Affect_By 552
+Money 70
+Level 70
+Sex 2
+Guard 0
+Spec spec_warrior
+End
+
+#12975
+Name large snake viper~
+Short a large snake~
+Long 
+A large snake is here coiled up ready to strike!
+~
+Descr
+~
+AMax 3
+NHeight 8
+ActBits 10
+Affect_By 552
+Alignment -200
+Money 15
+Level 15
+MobType 20
+Hp 6
+Guard 0
+Spec spec_poison
+End
+
+#12977
+Name dA dog~
+Short da DOG~
+Long 
+Da DOG!
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits4 4096
+Alignment -1000
+Money 30
+Level 30
+Sex 1
+Guard 0
+RaceHate 67108864
+End
+
+#12978
+Name barbeque bbq man~
+Short the barbeque man~
+Long 
+A man is here selling fresh barbeque.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 256
+Affect_By 520
+Alignment 400
+Money 85
+Level 85
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 100 100 0 23
+Shopd2 30
+Shopd3 4
+ShopCr 12978
+ShopCS The barbeque man pulls some more of his barbeque off the grill!~
+End
+
+#12979
+Name a thug~
+Short a Thug~
+Long 
+A thug is here looking menacing.
+~
+Descr
+~
+AMax 1
+AYeller 3
+AWillhelp 0
+NHeight 500
+ActBits4 12288
+Affect_By 66056
+Alignment -1000
+Money 220
+Level 220
+MobType 0
+Guard 0
+Spec spec_thief
+BCasts bloodlust~
+BCasts war blessing~
+End
+
+#12985
+Name ticket man~
+Short the ticket man~
+Long 
+A man is here collecting tickets for those wishing to use the ferry.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 168
+Money 350
+Level 350
+Sex 1
+MobType 2
+Hp 40
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 10 20 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 8794
+ArmorClass 40
+End
+
+#12990
+Name void~
+Short void~
+Long 
+Void.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Affect_By 65536
+Money 250
+Level 250
+Guard 0
+End
+
+#12992
+Name vulture cursed~
+Short a cursed Vulture~
+Long 
+An evil bird sits perched here eyeing you lustfully
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 67108864
+Affect_By 73864
+Money 200
+Level 200
+Sex 2
+MobType 5
+Hp 2180
+Guard 0
+Spec spec_thief
+RaceHate 201326592
+BCasts 'invisibility'~
+BCasts 'color spray'~
+BCasts 'void of reality'~
+BCasts 'tornado of souls'~
+BCast_P 25
+End
+
+#12995
+Name bythus~
+Short bythus, the legendary~
+Long 
+Bythus, the legendary, is bound within his tomb here.
+~
+Descr
+~
+AMax 1
+NHeight 1000
+ActBits3 4718592
+Affect_By 184550056
+Money 300
+Level 300
+Sex 1
+MobType 0
+Hp 150
+Guard 0
+Spec spec_warrior
+BCasts divine~
+BCasts healing~
+BCasts Fallen~
+BCasts meteor~
+BCasts tornado~
+BCasts 'acid rain'~
+BCasts 'ice shards'~
+BCast_P 20
+End
+
+#12996
+Name woman naked~
+Short a naked woman~
+Long 
+A nearly naked woman lies here sleeping next to Bythus.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits3 4194304
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+End
+
+#12998
+Name cleris Guildmaster teacher~
+Short cleris~
+Long 
+Cleris, the healers guildmaster sits here waiting for you to sign up.
+~
+Descr
+~
+AMax 1
+NHeight 80
+ActBits 258
+ActBits3 128
+Affect_By 128
+Alignment 1000
+Money 500
+Level 500
+Sex 2
+MobType 0
+Hp 2
+Guard 0
+Spec spec_warrior
+ArmorClass 80
+BCasts healing~
+BCast_P 90
+End
+
+#12999
+Name fluffy bunny~
+Short a fluffy bunny~
+Long 
+A clever smurf is here smurfing.
+~
+Descr
+~
+AMax 10
+NHeight 3
+ActBits 134217744
+ActBits3 524288
+ActBits4 4096
+Affect_By 66056
+Alignment 1000
+Money 150
+Level 150
+Sex 1
+MobType 4
+Hp 100
+Guard 0
+Spec spec_poison
+RaceHate 134217728
+BCasts void~
+BCasts sanctuary~
+BCasts heal serious~
+BCasts 'sphere of destuction'~
+BCasts 126~
+BCasts 'sphere of desturction~
+BCast_P 90
+End
+
+#0
+
+
+
+#OBJDATA
+#12719
+Name ferry ticket~
+Short a ferry ticket~
+Descr
+A small ticket stamped with ferry destinations is lying here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 115
+End
+
+#12761
+Name heart ebony ice gem~
+Short [1m[31mAn [30mebo[31mny h[30mear[31mt [30mof [36mfr[30moze[36mn te[30mars[0m~
+Descr
+A large chunk of ice is melting here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Timer 20
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 60 60 75 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12778
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 2 5 0
+Weight 2
+Cost 25
+End
+
+#12779
+Name sabre light~
+Short a light sabre~
+Descr
+A sabre of light gems are radiating with power.
+[0;36m~
+Type 5
+Extra 262144
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 2 6 0
+Weight 4
+Cost 130
+End
+
+#12780
+Name flint dagger~
+Short a [37mflint[1m dagger~
+Descr
+A sharp piece of flint lies on the ground here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 11 0 0 0 1 5 0
+Weight 2
+Cost 100
+End
+
+#12782
+Name golden cup saucer~
+Short a [33m[1mgolden[0m [36m[1mcup[0m and [36m[1msaucer[0m~
+Descr
+A luxurious cup and saucer lies here in the mud.
+[0;36m~
+Type 17
+Extra 536870977
+Wear 131073
+Timer 2000
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 10 11 0 0 0 20 20 0 0
+Weight 0
+Cost 50
+End
+
+#12788
+Name shield xylarian great~
+Short a [1m[34mgreat [31mXylarian [37mshield~
+Descr
+A large shield with the ancient symbol of Bythar is here.
+[0;36m~
+Type 9
+Extra 536870978
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 8 1 1 14 17 10 10 17 0
+Weight 8
+Cost 7000
+Affect 17 -3 1 0 0
+Affect 18 2 1 0 0
+End
+
+#12789
+Name fountain remains water~
+Short a [33mcrumbling[0m fountain~
+Descr
+The crumbling remains of the ancient Xylarian fountain are here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10000 10000 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12800
+Name toothpick pick ~
+Short a small [0m[33mtoothpick[0m~
+Descr
+A tiny piece of wood is lying on the ground here.
+[0;36m~
+Type 5
+Extra 131139
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 45 0 2 0 0 0 1 5 0
+Weight 1
+Cost 10
+End
+
+#12801
+Name candycane candy cane~
+Short a [31m[1mc[0ma[31m[1mn[0md[31m[1my[0mc[31m[1ma[0mn[31m[1me[0m~
+Descr
+A piece of tasty looking candy is here looking lethal.
+[0;36m~
+Type 5
+Extra 541327425
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 45 0 1 0 0 0 8 2 0
+Weight 1
+Cost 10000
+End
+
+#12802
+Name amethyst gemscale cloak~
+Short an [34m[1mamethyst[0m gemscale cloak~
+Descr
+A amethyst colored cloak lies on the ground here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 4 4 0 0 0 40 40 0 0
+Weight 3
+Cost 0
+End
+
+#12803
+Name gleaming stone gem~
+Short a gleaming stone~
+Descr
+A stone gleams with power as it lies here on the ground.
+[0;36m~
+Type 21
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 50 36 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#12804
+Name tickle me masochist doll~
+Short a tickle me [1m[31mM[0m[31ma[1m[31ms[0m[31mo[1m[31mc[0m[31mh[1m[31mi[0m[31ms[1m[31mt[0m doll~
+Descr
+A small masochist doll rolling on the floor laughing at you!
+[0;36m~
+Type 13
+Extra 536870913
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12805
+Name bubble air potion~
+Short a [34m[1mbubble[0m of [36m[1mair[0m~
+Descr
+An air bubble is lying here.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 110 81 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12806
+Name burned cookie crusty~
+Short a [33mcrusty [0mcookie~
+Descr
+A [31mburned [33mcookie[0m.
+[0;36m~
+Type 19
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 90 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12807
+Name scooby snack~
+Short a scooby snack~
+Descr
+A scooby snack has been been dropped here.
+[0;36m~
+Type 19
+Extra 129
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 48 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#12809
+Name bellum's fang~
+Short a small [1m[36mB[30me[31ml[0m[1m[31ml[30mu[36mm [1m[36mF[30ma[0m[31mn[36mg~
+Descr
+Looks like bellum has lost another tooth.
+[0;36m~
+Type 5
+Extra 537001986
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 11 0 0 0 2 12 0
+Weight 1
+Cost 12000
+End
+
+#12820
+Name cane wooden small~
+Short a small [33mwooden[0m cane~
+Descr
+A small piece of wood is gathering dust here on the floor.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 3 2 0
+Weight 2
+Cost 23
+End
+
+#12862
+Name small treasure chest box~
+Short a treasure chest~
+Descr
+A small treasure chest is here but guarded carefully by the dragon.
+[0;36m~
+Type 15
+Wear 0
+Timer 500
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 15 12863 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12863
+Name key dragon~
+Short the dragon's key~
+Descr
+A dragon claw fashioned into the shape of a key lies here.
+[0;36m~
+Type 18
+Extra 536870912
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 99
+Cost 0
+End
+
+#12865
+Name claws dragon razor sharp~
+Short razor-[37m[1me[0md[37m[1mg[0me[37m[1md[0m [31m[1mdragon claws[0m~
+Descr
+A set of claws once belonging to a great dragon are lying here.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 5 0 0 0 4 4 0
+Weight 2
+Cost 2000
+Affect 18 1 1 0 0
+End
+
+#12900
+Name corpse garfield~
+Short corpse of Garfield~
+Descr
+[31mThe corpse of Garfield [31mis lying here.[0m
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12904
+Name spiritual aura~
+Short a [36m[1ms[0mp[36m[1mi[0mr[36m[1mi[0mt[36m[1mu[0ma[36m[1ml[0m aura~
+Descr
+An aura fills the room here making you feel more spiritual.
+[0;36m~
+Type 9
+Extra 65
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 45 45 0 0
+Weight 0
+Cost 3000
+Affect 20 -3 1 0 0
+End
+
+#12907
+Name sword steel glittering~
+Short a [36mglittering[0m [1m[37msteel sword~
+Descr
+A sword made of the strongest forged steel lies here.
+[0;36m~
+Type 5
+Extra 2097153
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 18 0 3 0 0 0 5 3 0
+Weight 4
+Cost 0
+Affect 18 1 1 0 0
+End
+
+#12944
+Name jagged edged dagger blade~
+Short a [37mj[0ma[37mg[0mg[37me[0md-[37me[0md[37mg[0me[37md[0m dagger~
+Descr
+A nasty looking dagger with a jagged edge lies on the ground here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 11 0 0 0 2 5 0
+Weight 2
+Cost 800
+End
+
+#12953
+Name oak table~
+Short an oak table~
+Descr
+A table made of oak is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12962
+Name bench~
+Short a park bench~
+Descr
+A park bench is here inviting you to sit.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12978
+Name fresh bbq barbeque~
+Short some [31mfresh [1mbarbeque[0m~
+Descr
+Some tasty looking meat is lying on the ground here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 100
+End
+
+#12979
+Name gun black iron~
+Short a small [1m[30mblack [0mrevolver~
+Descr
+A small black reset in a near by bush here.
+[0;36m~
+Type 5
+Extra 262176
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 6 0 0 0 1 20 0
+Weight 0
+Cost 50000
+End
+
+#12984
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Extra 131072
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12990
+Name _________~
+Short inhibitions~
+LEffect 2
+Descr
+You cant see me to sac me :).
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Timer 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 1 1 1 15 0 0
+Weight 0
+Cost 0
+End
+
+#12991
+Name odie scroll~
+Short a scroll of Odie~
+Descr
+Seems like someone dropped this but it looks somewhat important.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 90 1 1 126 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12992
+Name dragonkin good~
+Short +* a dragonkin *+~
+Descr
++* A Dragonkin *+ is here.
+[0;36m~
+Type 9
+Extra 2
+Wear 278529
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 1 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#12993
+Name tome knowledge~
+Short a tome of Knowledge~
+LEffect 65538
+Descr
+A tome of knowledge rests here partially damaged.
+[0;36m~
+Type 11
+Extra 8388624
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#0
+
+
+
+#ROOMDATA
+#12702
+Name Outside the Northern Gates of New Xylar~
+Descr
+~
+Flags 1
+Door 1 0 0 12703 0 0
+~
+~
+Door 2 0 0 12715 0 0
+~
+~
+End
+
+#12703
+Name The Rocky Shores of Xylar~
+Descr
+~
+Sector 7
+Door 1 0 0 12704 0 0
+~
+~
+Door 2 0 0 12716 0 0
+~
+~
+Door 3 0 0 12702 0 0
+~
+~
+End
+
+#12704
+Name The Rocky Shores of Xylar~
+Descr
+~
+Sector 6
+Door 1 0 0 12705 0 0
+~
+~
+Door 2 0 0 12717 0 0
+~
+~
+Door 3 0 0 12703 0 0
+~
+~
+End
+
+#12705
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Sector 6
+Door 1 0 0 12706 0 0
+~
+~
+Door 2 0 0 12718 0 0
+~
+~
+Door 3 0 0 12704 0 0
+~
+~
+End
+
+#12706
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Sector 6
+Door 1 0 0 12707 0 0
+~
+~
+Door 3 0 0 12705 0 0
+~
+~
+End
+
+#12707
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Sector 6
+Door 0 0 0 12708 0 0
+~
+~
+Door 3 0 0 12706 0 0
+~
+~
+End
+
+#12708
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Sector 6
+Door 0 0 0 12711 0 0
+~
+~
+Door 1 0 0 12709 0 0
+~
+~
+Door 2 0 0 12707 0 0
+~
+~
+Door 3 0 0 12710 0 0
+~
+~
+End
+
+#12709
+Name A Flooded Boardwalk~
+Descr
+You are on a part of the boardwalk that branches off from the main
+walkway. However, it too is flooded. It seems as if there is more water in
+this section than the rest of the boardwalk, perhaps because it receives
+less travel. 
+~
+Sector 6
+Door 3 0 0 12708 0 0
+~
+~
+End
+
+#12710
+Name A Flooded Boardwalk~
+Descr
+You are on a part of the boardwalk that branches off from the main
+walkway. However, it too is flooded. It seems as if there is more water in
+this section than the rest of the boardwalk, perhaps because it receives
+less travel. 
+~
+Sector 6
+Door 1 0 0 12708 0 0
+~
+~
+End
+
+#12711
+Name On the Boardwalk~
+Descr
+~
+Door 0 0 0 12713 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 12708 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#12712
+Name ~
+Descr
+~
+End
+
+#12713
+Name The Northern Docks~
+Descr
+~
+Flags 4
+Reset M 12985 1 100
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 12711 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#12714
+Name ~
+Descr
+~
+End
+
+#12715
+Name Within the Northern Gates of New Xylar~
+Descr
+~
+Door 0 0 0 12702 0 0
+~
+~
+Door 1 0 0 12716 0 0
+~
+~
+Door 2 0 0 12720 0 0
+~
+~
+End
+
+#12716
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Sector 6
+Door 0 0 0 12703 0 0
+~
+~
+Door 1 0 0 12717 0 0
+~
+~
+Door 3 0 0 12715 0 0
+~
+~
+End
+
+#12717
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Door 0 0 0 12704 0 0
+~
+~
+Door 1 0 0 12718 0 0
+~
+~
+Door 3 0 0 12716 0 0
+~
+~
+End
+
+#12718
+Name A Flooded Boardwalk~
+Descr
+You are on the boardwalk leading to the northern docks of New Xylar. The
+waters that came with the great storm have pooled here though causing most
+of the boardwalk to be flooded. It does not look too difficult to manage the
+waters though. 
+~
+Door 0 0 0 12705 0 0
+~
+~
+Door 1 0 0 12719 0 0
+~
+~
+Door 3 0 0 12717 0 0
+~
+~
+End
+
+#12719
+Name The Ticket Booth~
+Descr
+~
+Flags 4
+Sector 6
+Reset M 12719 1 100
+Door 3 0 0 12718 0 0
+~
+~
+End
+
+#12720
+Name Northwest Bythar Way~
+Descr
+This road is already well worn-in by the heavy merchant traffic coming to
+and from the docks nearby. This section of the city almost looks as if it's
+been used for decades already by the wear and tear the traffic has put on
+the stones that form this road. 
+~
+Flags 4
+Door 0 0 0 12715 0 0
+~
+~
+Door 1 0 0 12734 0 0
+~
+~
+Door 2 0 0 12721 0 0
+~
+~
+Door 3 0 0 12773 0 0
+~
+~
+End
+
+#12721
+Name Northwest Bythar Way~
+Descr
+This road is already well worn-in by the heavy merchant traffic coming to
+and from the docks nearby. This section of the city almost looks as if it's
+been used for decades already by the wear and tear the traffic has put on
+the stones that form this road. 
+~
+Door 0 0 0 12720 0 0
+~
+~
+Door 2 0 0 12722 0 0
+~
+~
+Door 3 0 0 12768 0 0
+~
+~
+End
+
+#12722
+Name Northwest Bythar Way~
+Descr
+This road is already well worn-in by the heavy merchant traffic coming to
+and from the docks nearby. This section of the city almost looks as if it's
+been used for decades already by the wear and tear the traffic has put on
+the stones that form this road. 
+~
+Door 0 0 0 12721 0 0
+~
+~
+Door 2 0 0 12723 0 0
+~
+~
+End
+
+#12723
+Name Western Bythar Way~
+Descr
+The reappearance of the legendary Bythus brought back to mind stories of
+old. Particularly, the stories of the city of Bythar, upon the ruins of
+which Old Xylar was built have been travelling by word of mouth. This road
+was named with reference to the evil city whose ruins still lie under Old
+Xylar's foundations. 
+~
+Door 0 0 0 12722 0 0
+~
+~
+Door 1 0 0 12759 0 0
+~
+~
+Door 2 0 0 12724 0 0
+~
+~
+End
+
+#12724
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 0 0 0 12723 0 0
+~
+~
+Door 2 0 0 12725 0 0
+~
+~
+End
+
+#12725
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 0 0 0 12724 0 0
+~
+~
+Door 3 0 0 12726 0 0
+~
+~
+End
+
+#12726
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 1 0 0 12725 0 0
+~
+~
+Door 3 0 0 12727 0 0
+~
+~
+End
+
+#12727
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 0 0 0 12769 0 0
+~
+~
+Door 1 0 0 12726 0 0
+~
+~
+Door 3 0 0 12728 0 0
+~
+~
+End
+
+#12728
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 1 0 0 12727 0 0
+~
+~
+Door 3 0 0 12729 0 0
+~
+~
+End
+
+#12729
+Name Southwest Bythar Way~
+Descr
+This street, also named in reference to the great evil city destroyed
+years ago, is bustling with activity as the citizens of Xylar work with
+amazing speed in the effort to rebuild their city. You have to dodge quickly
+around the street in order to avoid bumping into people so focused on their
+work that they hardly even notice you or anyone else. 
+~
+Door 1 0 0 12728 0 0
+~
+~
+Door 3 0 0 12730 0 0
+~
+~
+End
+
+#12730
+Name A Dark Alley~
+Descr
+Every city must have its alleys and it seems you've found New Xylar's.
+However, instead of feeling intimidated, your curiousity is piqued and
+pushes you to move forward and explore what may be around the next corner. 
+~
+Door 0 0 0 12731 0 0
+~
+~
+Door 1 0 0 12729 0 0
+~
+~
+End
+
+#12731
+Name A Dark Alley~
+Descr
+Every city must have its alleys and it seems you've found New Xylar's.
+However, instead of feeling intimidated, your curiousity is piqued and
+pushes you to move forward and explore what may be around the next corner. 
+~
+Door 0 0 0 12732 0 0
+~
+~
+Door 1 0 0 12770 0 0
+~
+~
+Door 2 0 0 12730 0 0
+~
+~
+End
+
+#12732
+Name A Dark Alley~
+Descr
+Every city must have its alleys and it seems you've found New Xylar's.
+However, instead of feeling intimidated, your curiousity is piqued and
+pushes you to move forward and explore what may be around the next corner. 
+~
+Door 0 0 0 12733 0 0
+~
+~
+Door 2 0 0 12731 0 0
+~
+~
+End
+
+#12733
+Name A Dark Alley~
+Descr
+Every city must have its alleys and it seems you've found New Xylar's.
+However, instead of feeling intimidated, your curiousity is piqued and
+pushes you to move forward and explore what may be around the next corner. 
+~
+Door 1 0 0 12771 0 0
+~
+~
+Door 2 0 0 12732 0 0
+~
+~
+End
+
+#12734
+Name Bytharian Pass~
+Descr
+This road is primarily a junction pass between NorthWestern Bythar Way
+and Northern Bythar Way. Merchants coming from the northern docks use this
+pass quite often and, even though still brand new, you can see the wear and
+tear in this cobblestone street. 
+~
+Door 1 0 0 12735 0 0
+~
+~
+Door 3 0 0 12720 0 0
+~
+~
+End
+
+#12735
+Name Bytharian Pass~
+Descr
+This road is primarily a junction pass between NorthWestern Bythar Way
+and Northern Bythar Way. Merchants coming from the northern docks use this
+pass quite often and, even though still brand new, you can see the wear and
+tear in this cobblestone street. 
+~
+Door 1 0 0 12736 0 0
+~
+~
+Door 3 0 0 12734 0 0
+~
+~
+End
+
+#12736
+Name Bytharian Pass~
+Descr
+This road is primarily a junction pass between NorthWestern Bythar Way
+and Northern Bythar Way. Merchants coming from the northern docks use this
+pass quite often and, even though still brand new, you can see the wear and
+tear in this cobblestone street. 
+~
+Door 1 0 0 12737 0 0
+~
+~
+Door 2 0 0 12767 0 0
+~
+~
+Door 3 0 0 12735 0 0
+~
+~
+End
+
+#12737
+Name Bytharian Pass~
+Descr
+This road is primarily a junction pass between NorthWestern Bythar Way
+and Northern Bythar Way. Merchants coming from the northern docks use this
+pass quite often and, even though still brand new, you can see the wear and
+tear in this cobblestone street. 
+~
+Door 1 0 0 12738 0 0
+~
+~
+Door 3 0 0 12736 0 0
+~
+~
+End
+
+#12738
+Name Northern Bythar Way~
+Descr
+This road is well travelled as it leads to the majority of the merchants
+in the town. Commerce in this section of the city has been the primary
+source of funding for the rebuilding efforts made by the citizens. 
+~
+Door 1 0 0 12762 0 0
+~
+~
+Door 2 0 0 12739 0 0
+~
+~
+Door 3 0 0 12737 0 0
+~
+~
+End
+
+#12739
+Name Northern Bythar Way~
+Descr
+This road is well travelled as it leads to the majority of the merchants
+in the town. Commerce in this section of the city has been the primary
+source of funding for the rebuilding efforts made by the citizens. 
+~
+Door 0 0 0 12738 0 0
+~
+~
+Door 2 0 0 12740 0 0
+~
+~
+End
+
+#12740
+Name Northern Bythar Way~
+Descr
+This road is well travelled as it leads to the majority of the merchants
+in the town. Commerce in this section of the city has been the primary
+source of funding for the rebuilding efforts made by the citizens. 
+~
+Door 0 0 0 12739 0 0
+~
+~
+Door 2 0 0 12741 0 0
+~
+~
+Door 3 0 0 12766 0 0
+~
+~
+End
+
+#12741
+Name Center of New Xylar~
+Descr
+Welcome to the center of New Xylar!  This is the expansion which was
+built directly after the destruction of Old Xylar. Looking around you, you
+can imagine the days when Old Xylar was great and proud. Seeing what the
+people have accomplished, you think that perhaps your dreams may come true! 
+~
+Flags 4
+Door 0 0 0 12740 0 0
+~
+~
+Door 1 0 0 12758 0 0
+~
+~
+Door 2 0 0 12742 0 0
+~
+~
+Door 3 0 0 12743 0 0
+~
+~
+End
+
+#12742
+Name The Courtyard of the Temple of Xylar~
+Descr
+The gardens are beautifully arranged here in front of the temple. Perhaps
+it's just your eyes but more light than usual seems to shine in this room.
+As you stare at the beauty that surrounds you, you begin to feel extra
+refreshed and ready to continue your adventures. 
+~
+Flags 1048580
+Door 0 0 0 12741 0 0
+~
+~
+Door 2 0 0 12761 0 0
+~
+~
+End
+
+#12743
+Name Western Bythar Way~
+Descr
+The reappearance of the legendary Bythus brought back to mind stories of
+old. Particularly, the stories of the city of Bythar, upon the ruins of
+which Old Xylar was built have been travelling by word of mouth. This road
+was named with reference to the evil city whose ruins still lie under Old
+Xylar's foundations. 
+~
+Door 1 0 0 12741 0 0
+~
+~
+Door 3 0 0 12744 0 0
+~
+~
+End
+
+#12744
+Name Western Bythar Way~
+Descr
+The reappearance of the legendary Bythus brought back to mind stories of
+old. Particularly, the stories of the city of Bythar, upon the ruins of
+which Old Xylar was built have been travelling by word of mouth. This road
+was named with reference to the evil city whose ruins still lie under Old
+Xylar's foundations. 
+~
+Door 1 0 0 12743 0 0
+~
+~
+Door 3 0 0 12760 0 0
+~
+~
+End
+
+#12745
+Name ~
+Descr
+~
+Door 0 0 0 12744 0 0
+~
+~
+End
+
+#12746
+Name ~
+Descr
+~
+Door 0 0 0 12745 0 0
+~
+~
+End
+
+#12747
+Name ~
+Descr
+~
+Door 0 0 0 12745 0 0
+~
+~
+End
+
+#12748
+Name ~
+Descr
+~
+End
+
+#12749
+Name ~
+Descr
+~
+End
+
+#12750
+Name ~
+Descr
+~
+End
+
+#12751
+Name ~
+Descr
+~
+End
+
+#12752
+Name ~
+Descr
+~
+End
+
+#12753
+Name ~
+Descr
+~
+End
+
+#12754
+Name ~
+Descr
+~
+End
+
+#12755
+Name ~
+Descr
+~
+End
+
+#12756
+Name ~
+Descr
+~
+End
+
+#12757
+Name Eastern Xylarian Way~
+Descr
+This road leads directly to the ruins of Old Xylar. Travelling back and
+forth along this street nonstop you see workers bustling for building
+materials as they try to get Old Xylar back to its state of former glory. 
+~
+Door 1 0 0 12778 0 0
+~
+~
+Door 3 0 0 12758 0 0
+~
+~
+End
+
+#12758
+Name Eastern Xylarian Way~
+Descr
+This road leads directly to the ruins of Old Xylar. Travelling back and
+forth along this street nonstop you see workers bustling for building
+materials as they try to get Old Xylar back to its state of former glory. 
+~
+Door 1 0 0 12757 0 0
+~
+~
+Door 3 0 0 12741 0 0
+~
+~
+End
+
+#12759
+Name Western Bythar Way~
+Descr
+The reappearance of the legendary Bythus brought back to mind stories of
+old. Particularly, the stories of the city of Bythar, upon the ruins of
+which Old Xylar was built have been travelling by word of mouth. This road
+was named with reference to the evil city whose ruins still lie under Old
+Xylar's foundations. 
+~
+Door 1 0 0 12760 0 0
+~
+~
+Door 3 0 0 12723 0 0
+~
+~
+End
+
+#12760
+Name Western Bythar Way~
+Descr
+The reappearance of the legendary Bythus brought back to mind stories of
+old. Particularly, the stories of the city of Bythar, upon the ruins of
+which Old Xylar was built have been travelling by word of mouth. This road
+was named with reference to the evil city whose ruins still lie under Old
+Xylar's foundations. 
+~
+Door 1 0 0 12744 0 0
+~
+~
+Door 3 0 0 12759 0 0
+~
+~
+End
+
+#12761
+Name Relaxing;The Temple of Xylar~
+Descr
+After the destruction of Old Xylar, the citizens needed a place to
+worship and meditate other than the old shrine. Thus, they built this temple
+in their new city. Surrounding you are tapestries that depict the history of
+Xylar as well as some that predict the future of Xylar and show its return
+to its former glory. 
+~
+Flags 2097156
+Door 0 0 0 12742 0 0
+~
+~
+End
+
+#12762
+Name A Small Alcove~
+Descr
+Here is where the waters have remained in the city despite all efforts to
+clean them up. It has formed a small alcove here that allows a small section
+of privacy and silence in the bustling city. 
+~
+Sector 6
+Door 1 0 0 12763 0 0
+~
+~
+Door 3 0 0 12738 0 0
+~
+~
+End
+
+#12763
+Name A Roughly Hewn Tunnel~
+Descr
+Here someone has carved a tunnel into the very rock and rubble. As you
+delve deeper into the tunnel, you feel more and more at peace and in tune
+with you inner self. 
+~
+Door 2 0 0 12764 0 0
+~
+~
+Door 3 0 0 12762 0 0
+~
+~
+End
+
+#12764
+Name A Roughly Hewn Tunnel~
+Descr
+Here someone has carved a tunnel into the very rock and rubble. As you
+delve deeper into the tunnel, you feel more and more at peace and in tune
+with you inner self. 
+~
+Door 0 0 0 12763 0 0
+~
+~
+Door 2 0 0 12765 0 0
+~
+~
+End
+
+#12765
+Name A Small Haven In The Tunnel~
+Descr
+Now you see the reason for your feeling of tranquility. Here the
+beautiful Annabelle has taken up new residence after the great storm. Once
+one of the great magic teachers of Old Xylar, she was forced by the wind and
+rain to seek a new haven. As you remember the old days of Xylar, you laugh
+as you remember the rumor that the old mayor used to have a thing for this
+beautiful cleric. 
+~
+Reset M 12765 1 100
+Reset O 11059 -1 1
+Door 0 0 0 12764 0 0
+~
+~
+End
+
+#12766
+Name Armorer~
+Descr
+~
+Door 1 0 0 12740 0 0
+~
+~
+End
+
+#12767
+Name Provisions~
+Descr
+~
+Door 0 0 0 12736 0 0
+~
+~
+End
+
+#12768
+Name Weaponsmith~
+Descr
+~
+Door 1 0 0 12721 0 0
+~
+~
+End
+
+#12769
+Name Bank~
+Descr
+~
+Door 2 0 0 12727 0 0
+~
+~
+End
+
+#12770
+Name Magic Shop~
+Descr
+~
+Door 3 0 0 12731 0 0
+~
+~
+End
+
+#12771
+Name Treasure Shop~
+Descr
+~
+Door 3 0 0 12733 0 0
+~
+~
+End
+
+#12772
+Name ~
+Descr
+~
+End
+
+#12773
+Name A Well-lit Passageway~
+Descr
+~
+Flags 4
+Door 1 0 0 12720 0 0
+~
+~
+Door 3 0 0 12774 0 0
+~
+~
+End
+
+#12774
+Name A Well-lit Passageway~
+Descr
+~
+Flags 4
+Door 1 0 0 12773 0 0
+~
+~
+Door 3 0 0 12775 0 0
+~
+~
+End
+
+#12775
+Name A Well-lit Passageway~
+Descr
+~
+Flags 4
+Door 1 0 0 12774 0 0
+~
+~
+Door 3 0 0 12776 0 0
+~
+~
+End
+
+#12776
+Name A Dead End in the Passageway~
+Descr
+~
+Door 1 0 0 12775 0 0
+~
+~
+End
+
+#12777
+Name ~
+Descr
+~
+End
+
+#12778
+Name Western Gate of Old Xylar~
+Descr
+This gate once lead to the great Western Highway. Now it is the entrance
+to the expansion of the city of Xylar that was built by the survivors of the
+great storm. 
+~
+Door 0 0 0 12894 0 0
+~
+~
+Door 1 0 0 12779 0 0
+~
+~
+Door 2 0 0 12784 0 0
+~
+~
+Door 3 0 0 12757 0 0
+~
+~
+End
+
+#12779
+Name New Western Way~
+Descr
+This road is a testimonial to the progress of the citizens that weathered
+the great storm brought by Bythus. Once they storm had passed, they had
+immediately begun rebuilding their great city. This road, once leading to
+the great western highway now leads directly into New Xylar, the expansion
+of the city in which many of the survivors have taken up residence until Old
+Xylar is rebuilt. 
+~
+Flags 4
+Reset M 12791 1 100
+Reset O 12779 21 50
+Door 1 0 0 12780 0 0
+~
+~
+Door 2 3 0 12948 30 30
+~
+door~
+Door 3 0 0 12778 0 0
+~
+~
+End
+
+#12780
+Name New Western Way~
+Descr
+This road is a testimonial to the progress of the citizens that weathered
+the great storm brought by Bythus. Once they storm had passed, they had
+immediately begun rebuilding their great city. This road, once leading to
+the great western highway now leads directly into New Xylar, the expansion
+of the city in which many of the survivors have taken up residence until Old
+Xylar is rebuilt. 
+~
+Flags 4
+Door 0 0 0 12950 0 0
+~
+~
+Door 1 0 0 12781 0 0
+~
+~
+Door 2 3 0 12947 30 30
+~
+door~
+Door 3 0 0 12779 0 0
+~
+~
+End
+
+#12781
+Name New Western Way~
+Descr
+This road is a testimonial to the progress of the citizens that weathered
+the great storm brought by Bythus. Once they storm had passed, they had
+immediately begun rebuilding their great city. This road, once leading to
+the great western highway now leads directly into New Xylar, the expansion
+of the city in which many of the survivors have taken up residence until Old
+Xylar is rebuilt. 
+~
+Flags 4
+Reset M 12788 1 100
+Door 1 0 0 12782 0 0
+~
+~
+Door 3 0 0 12780 0 0
+~
+~
+End
+
+#12782
+Name New Western Way~
+Descr
+This road is a testimonial to the progress of the citizens that weathered
+the great storm brought by Bythus. Once they storm had passed, they had
+immediately begun rebuilding their great city. This road, once leading to
+the great western highway now leads directly into New Xylar, the expansion
+of the city in which many of the survivors have taken up residence until Old
+Xylar is rebuilt. 
+~
+Flags 4
+Door 0 3 0 12945 30 30
+~
+door~
+Door 1 0 0 12783 0 0
+~
+~
+Door 2 0 0 12946 0 0
+~
+~
+Door 3 0 0 12781 0 0
+~
+~
+End
+
+#12783
+Name New Western Way~
+Descr
+This road is a testimonial to the progress of the citizens that weathered
+the great storm brought by Bythus. Once they storm had passed, they had
+immediately begun rebuilding their great city. This road, once leading to
+the great western highway now leads directly into New Xylar, the expansion
+of the city in which many of the survivors have taken up residence until Old
+Xylar is rebuilt. 
+~
+Door 0 0 0 12808 0 0
+~
+~
+Door 1 0 0 12788 0 0
+~
+~
+Door 2 0 0 12896 0 0
+~
+~
+Door 3 0 0 12782 0 0
+~
+~
+End
+
+#12784
+Name Southwest Expansion~
+Descr
+This area was an expansion built soon after the great storm. The
+citizens, trying to repair their damaged city, have taken the opportunity to
+expand its holdings in an effort to make it greater than it was before. 
+~
+Door 0 0 0 12778 0 0
+~
+~
+Door 2 0 0 12785 0 0
+~
+~
+End
+
+#12785
+Name Southwest Expansion~
+Descr
+This area was an expansion built soon after the great storm. The
+citizens, trying to repair their damaged city, have taken the opportunity to
+expand its holdings in an effort to make it greater than it was before. 
+~
+Door 0 0 0 12784 0 0
+~
+~
+Door 2 0 0 12786 0 0
+~
+~
+End
+
+#12786
+Name Southwest Expansion~
+Descr
+This area was an expansion built soon after the great storm. The
+citizens, trying to repair their damaged city, have taken the opportunity to
+expand its holdings in an effort to make it greater than it was before. 
+~
+Door 0 0 0 12785 0 0
+~
+~
+Door 2 0 0 12787 0 0
+~
+~
+End
+
+#12787
+Name Southwest Expansion~
+Descr
+This area was an expansion built soon after the great storm. The
+citizens, trying to repair their damaged city, have taken the opportunity to
+expand its holdings in an effort to make it greater than it was before. 
+~
+Door 0 0 0 12786 0 0
+~
+~
+End
+
+#12788
+Name Center of Old Xylar~
+Descr
+This is the center square of the once magnificent city of Xylar. After
+the storm hit though, all that was left of this once proud city was
+desolation. Now, the citizens have begun to rebuild their once fine city. 
+~
+Reset M 12790 1 100
+Reset O 12788 10 1
+Reset O 12789 -5 100
+Reset O 56 21 2
+Reset M 12788 1 100
+Door 0 0 0 12809 0 0
+~
+~
+Door 1 0 0 12789 0 0
+~
+~
+Door 2 0 0 12796 0 0
+~
+~
+Door 3 0 0 12783 0 0
+~
+~
+End
+
+#12789
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Door 0 0 0 12895 0 0
+~
+~
+Door 1 0 0 12790 0 0
+~
+~
+Door 2 0 0 12933 0 0
+~
+~
+Door 3 0 0 12788 0 0
+~
+~
+End
+
+#12790
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Door 1 0 0 12791 0 0
+~
+~
+Door 3 0 0 12789 0 0
+~
+~
+End
+
+#12791
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Reset M 12791 1 100
+Reset O 12779 21 50
+Door 0 0 0 12901 0 0
+~
+~
+Door 1 0 0 12792 0 0
+~
+~
+Door 3 0 0 12790 0 0
+~
+~
+End
+
+#12792
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Reset M 12789 1 100
+Door 0 7 0 12902 30 30
+~
+great wooden door~
+Door 1 0 0 12793 0 0
+~
+~
+Door 2 0 0 12934 0 0
+~
+~
+Door 3 0 0 12791 0 0
+~
+~
+End
+
+#12793
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Flags 4
+Reset M 12788 1 100
+Door 1 0 0 12794 0 0
+~
+~
+Door 3 0 0 12792 0 0
+~
+~
+End
+
+#12794
+Name An Old Street Leading East~
+Descr
+The eastern street of Old Xylar is in severe disrepair. Originally, the
+storm came from the eastern side of Xylar so this side of the city took the
+brunt of the damage. However, the rains have stopped now and a new day is
+dawning. Soon these streets will be bustling with activity once again!  
+~
+Flags 4
+Door 1 0 0 12795 0 0
+~
+~
+Door 2 3 0 12935 30 30
+~
+door~
+Door 3 0 0 12793 0 0
+~
+~
+End
+
+#12795
+Name Eastern Gate of Old Xylar~
+Descr
+This gate was at one time one of the three great gates of the city of
+Xylar. However, the great storm caused the wall in this area to buckle and
+now this gate is sealed. Perhaps you should use one of the others to leave
+the city. 
+~
+Flags 4
+Door 0 0 0 12870 0 0
+~
+~
+Door 3 0 0 12794 0 0
+~
+~
+End
+
+#12796
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Flags 4
+Door 0 0 0 12788 0 0
+~
+~
+Door 2 0 0 12797 0 0
+~
+~
+Door 3 0 0 12896 0 0
+~
+~
+End
+
+#12797
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Door 0 0 0 12796 0 0
+~
+~
+Door 2 0 0 12798 0 0
+~
+~
+End
+
+#12798
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Door 0 0 0 12797 0 0
+~
+~
+Door 2 0 0 12799 0 0
+~
+~
+Door 3 0 0 12949 0 0
+~
+~
+End
+
+#12799
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Door 0 0 0 12798 0 0
+~
+~
+Door 2 0 0 12800 0 0
+~
+~
+End
+
+#12800
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Reset M 12788 1 100
+Door 0 0 0 12799 0 0
+~
+~
+Door 2 0 0 12801 0 0
+~
+~
+End
+
+#12801
+Name A Crumbling Southern Street~
+Descr
+As you travel along this street, you see what toll the great storm took
+upon the city. The once fine cobblestone road is now barely a dirt pathway
+with chunks of rock and stone strewn about here and there. 
+~
+Door 0 0 0 12800 0 0
+~
+~
+Door 1 3 0 12819 30 30
+~
+door~
+Door 2 0 0 12802 0 0
+~
+~
+End
+
+#12802
+Name The New Southern Gate of Old Xylar~
+Descr
+This gate is one of the most prominent signs of the rebuilding of this
+once great city. Now that Xylar has become an island, this recently
+constructed gate leads to the Xylarian shore which surrounds the city as
+well as a port at which several ferries dock quite often. 
+~
+Flags 16390
+Reset M 12789 1 100
+Reset M 12791 1 100
+Reset O 12779 21 50
+Door 0 0 0 12801 0 0
+~
+~
+Door 1 0 0 12818 0 0
+~
+~
+Door 2 0 0 12979 0 0
+~
+~
+Door 3 0 0 12803 0 0
+~
+~
+End
+
+#12803
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 1 0 0 12802 0 0
+~
+~
+Door 3 0 0 12804 0 0
+~
+~
+End
+
+#12804
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 0 3 0 12805 30 30
+~
+door~
+Door 1 0 0 12803 0 0
+~
+~
+Door 3 0 0 12867 0 0
+~
+~
+End
+
+#12805
+Name Freeda's Brothel~
+Descr
+The Xylarian brothel was one of the first buildings to be reconstructed
+after the terrible storm which brought ruin upon most of the city. Common
+knowledge is that Freeda used her personal funds to rebuild though rumor has
+it the navy sent her anonymous gifts to help with the reconstruction. 
+~
+Flags 4
+Reset M 12819 1 100
+Reset M 12819 1 100
+Reset M 12805 1 100
+Door 2 3 0 12804 30 30
+~
+door~
+Door 4 0 0 12806 0 0
+~
+~
+End
+
+#12806
+Name A Run-down Hallway~
+Descr
+At the top of the stairs, you have reached the second floor of the
+Xylarian whorehouse. This floor is where the sluts take their customers and
+perform their "services." 
+~
+Door 3 0 0 12807 0 0
+~
+~
+Door 5 0 0 12805 0 0
+~
+~
+End
+
+#12807
+Name A Run-down Hallway~
+Descr
+The upstairs hallway of the brothel is filled with the sounds of business
+being performed here in the brothel. There seems to be a conspicuously large
+amount of noise coming from the room to the west. 
+~
+Flags 4
+Door 1 0 0 12806 0 0
+~
+~
+Door 3 3 0 12817 30 30
+~
+bedroom door~
+End
+
+#12808
+Name A Small Shrine~
+Descr
+The tapestries on the walls here depict the glory days of Xythar. You can
+see how the Xylarian timeline progressed from the days when old Xylar was
+built upon the ruins of the evil city, Bythar. Towards the end, you can see
+the newer tapestries depicting the great storm that created the Xylarian
+Lake and leaving Xylar in rubble. 
+~
+Flags 2097156
+Door 1 0 0 12809 0 0
+~
+~
+Door 2 0 0 12783 0 0
+~
+~
+End
+
+#12809
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Door 0 0 0 12810 0 0
+~
+~
+Door 1 0 0 12895 0 0
+~
+~
+Door 2 0 0 12788 0 0
+~
+~
+Door 3 0 0 12808 0 0
+~
+~
+End
+
+#12810
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Reset M 12789 1 100
+Door 0 0 0 12811 0 0
+~
+~
+Door 1 0 0 12897 0 0
+~
+~
+Door 2 0 0 12809 0 0
+~
+~
+Door 3 0 0 12898 0 0
+~
+~
+End
+
+#12811
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Flags 4
+Door 0 0 0 12812 0 0
+~
+~
+Door 2 0 0 12810 0 0
+~
+~
+Door 3 0 0 12899 0 0
+~
+~
+End
+
+#12812
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Flags 4
+Door 0 0 0 12813 0 0
+~
+~
+Door 1 0 0 12900 0 0
+~
+~
+Door 2 0 0 12811 0 0
+~
+~
+End
+
+#12813
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Reset M 12791 1 100
+Door 0 0 0 12814 0 0
+~
+~
+Door 2 0 0 12812 0 0
+~
+~
+End
+
+#12814
+Name A Worn-down Northern Street~
+Descr
+This street has seen better days. Now, however, it is in an extreme state
+of disrepair. In the distance you can hear the clammering of hammers and
+other tools though which may one day bring this street and this city back to
+it's former days of glory. 
+~
+Door 0 0 0 12815 0 0
+~
+~
+Door 2 0 0 12813 0 0
+~
+~
+End
+
+#12815
+Name Northern Gate of Old Xylar~
+Descr
+This gate once lead into the great Xylarian forests, ruled by the druid
+Peace. Now this gate only opens to the sandy shores which surround this
+city. 
+~
+Flags 4
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 12882 0 0
+~
+~
+Door 2 0 0 12814 0 0
+~
+~
+Door 3 0 0 12883 0 0
+~
+~
+End
+
+#12816
+Name ~
+Descr
+~
+End
+
+#12817
+Name A Small Bed Room~
+Descr
+This is one of the bedrooms where Freeda's girls do their work. This room
+though has been claimed by Elisa, known throughout the city as Freeda's most
+exuberant and flexible girl. And the best thing is she's always open for
+business. 
+~
+Flags 4
+Reset M 12818 1 100
+Reset M 12817 1 100
+Door 1 3 0 12807 30 30
+~
+bedroom door~
+End
+
+#12818
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 0 3 0 12819 30 30
+~
+door~
+Door 1 0 0 12824 0 0
+~
+~
+Door 3 0 0 12802 0 0
+~
+~
+End
+
+#12819
+Name A Xylarian Tower~
+Descr
+You are at the bottom of the southern Xylarian tower. This tower was used
+in the olden days to keep watch over the southern part of the city which was
+originally the only part of the city which did not have a gate. Now the
+upper levels of the tower are abandoned as they are still unsafe after the
+devastation of the storm. 
+~
+Flags 4
+Door 2 3 0 12818 30 30
+~
+door~
+Door 3 3 0 12801 30 30
+~
+door~
+Door 4 0 0 12821 0 0
+~
+~
+Door 5 3 0 12820 30 30
+~
+trapdoor~
+End
+
+#12820
+Name Under the Tower~
+Descr
+~
+Flags 4
+Reset M 12820 1 100
+Reset O 12820 21 85
+Door 0 0 0 12930 0 0
+~
+~
+Door 4 3 0 12819 30 30
+~
+trapdoor~
+End
+
+#12821
+Name A Tower Staircase~
+Descr
+You follow this staircase as it spirals up the souther tower. The walls
+are damp and musty and there are sections of the wall that are missing,
+allowing light to stream in from the outside. 
+~
+Flags 4
+Door 4 0 0 12822 0 0
+~
+~
+Door 5 0 0 12819 0 0
+~
+~
+End
+
+#12822
+Name The Top of the Tower~
+Descr
+You have finally reached the top of the tower. Below you, the staircase
+spirals back down. A draft hits you and you notice for the first time that
+the top of the tower is missing, probably damage caused by the great storm. 
+~
+Door 2 0 0 12823 0 0
+~
+~
+Door 5 0 0 12821 0 0
+~
+~
+End
+
+#12823
+Name The Top of the Tower~
+Descr
+~
+Door 0 0 0 12822 0 0
+~
+~
+End
+
+#12824
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Flags 4
+Door 1 0 0 12825 0 0
+~
+~
+Door 3 0 0 12818 0 0
+~
+~
+End
+
+#12825
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 0 0 0 12976 0 0
+~
+~
+Door 1 0 0 12826 0 0
+~
+~
+Door 3 0 0 12824 0 0
+~
+~
+End
+
+#12826
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 1 0 0 12827 0 0
+~
+~
+Door 3 0 0 12825 0 0
+~
+~
+End
+
+#12827
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Flags 4
+Door 0 0 0 12978 0 0
+~
+~
+Door 1 0 0 12828 0 0
+~
+~
+Door 3 0 0 12826 0 0
+~
+~
+End
+
+#12828
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 1 0 0 12829 0 0
+~
+~
+Door 3 0 0 12827 0 0
+~
+~
+End
+
+#12829
+Name Entrance to the Gladiator's Arena~
+Descr
+~
+Flags 4
+Reset M 12829 1 100
+Door 0 0 0 12831 0 0
+~
+~
+Door 1 3 0 12830 30 30
+~
+huge gate~
+Door 3 0 0 12828 0 0
+~
+~
+End
+
+#12830
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12830 1 100
+Door 0 0 0 12832 0 0
+~
+~
+Door 1 0 0 12851 0 0
+~
+~
+Door 2 0 0 12834 0 0
+~
+~
+Door 3 3 0 12829 30 30
+~
+huge gate~
+End
+
+#12831
+Name Entrance to the Gladiator's Barracks~
+Descr
+~
+Flags 4
+Door 2 0 0 12829 0 0
+~
+~
+Door 5 0 0 12859 0 0
+~
+~
+End
+
+#12832
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12833 0 0
+~
+~
+Door 1 0 0 12848 0 0
+~
+~
+Door 2 0 0 12830 0 0
+~
+~
+End
+
+#12833
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12831 1 100
+Door 1 0 0 12847 0 0
+~
+~
+Door 2 0 0 12832 0 0
+~
+~
+End
+
+#12834
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12831 1 100
+Door 0 0 0 12830 0 0
+~
+~
+Door 1 0 0 12837 0 0
+~
+~
+Door 2 0 0 12835 0 0
+~
+~
+End
+
+#12835
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12834 0 0
+~
+~
+Door 1 0 0 12836 0 0
+~
+~
+End
+
+#12836
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12830 1 100
+Door 0 0 0 12837 0 0
+~
+~
+Door 1 0 0 12838 0 0
+~
+~
+Door 3 0 0 12835 0 0
+~
+~
+End
+
+#12837
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12851 0 0
+~
+~
+Door 1 0 0 12854 0 0
+~
+~
+Door 2 0 0 12836 0 0
+~
+~
+Door 3 0 0 12834 0 0
+~
+~
+End
+
+#12838
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12854 0 0
+~
+~
+Door 1 0 0 12839 0 0
+~
+~
+Door 2 3 0 12856 30 30
+~
+grate~
+Door 3 0 0 12836 0 0
+~
+~
+End
+
+#12839
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12855 0 0
+~
+~
+Door 1 0 0 12840 0 0
+~
+~
+Door 3 0 0 12838 0 0
+~
+~
+End
+
+#12840
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12841 0 0
+~
+~
+Door 3 0 0 12839 0 0
+~
+~
+End
+
+#12841
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12842 0 0
+~
+~
+Door 2 0 0 12840 0 0
+~
+~
+Door 3 0 0 12855 0 0
+~
+~
+End
+
+#12842
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12831 1 100
+Door 0 0 0 12843 0 0
+~
+~
+Door 2 0 0 12841 0 0
+~
+~
+Door 3 0 0 12853 0 0
+~
+~
+End
+
+#12843
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12844 0 0
+~
+~
+Door 2 0 0 12842 0 0
+~
+~
+Door 3 0 0 12850 0 0
+~
+~
+End
+
+#12844
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 2 0 0 12843 0 0
+~
+~
+Door 3 0 0 12845 0 0
+~
+~
+End
+
+#12845
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 1 0 0 12844 0 0
+~
+~
+Door 2 0 0 12850 0 0
+~
+~
+Door 3 0 0 12846 0 0
+~
+~
+End
+
+#12846
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12830 1 100
+Door 1 0 0 12845 0 0
+~
+~
+Door 2 0 0 12849 0 0
+~
+~
+Door 3 0 0 12847 0 0
+~
+~
+End
+
+#12847
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 1 0 0 12846 0 0
+~
+~
+Door 2 0 0 12848 0 0
+~
+~
+Door 3 0 0 12833 0 0
+~
+~
+End
+
+#12848
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12847 0 0
+~
+~
+Door 1 0 0 12849 0 0
+~
+~
+Door 2 0 0 12851 0 0
+~
+~
+Door 3 0 0 12832 0 0
+~
+~
+End
+
+#12849
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12846 0 0
+~
+~
+Door 1 0 0 12850 0 0
+~
+~
+Door 2 0 0 12852 0 0
+~
+~
+Door 3 0 0 12848 0 0
+~
+~
+End
+
+#12850
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12845 0 0
+~
+~
+Door 1 0 0 12843 0 0
+~
+~
+Door 2 0 0 12853 0 0
+~
+~
+Door 3 0 0 12849 0 0
+~
+~
+End
+
+#12851
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12848 0 0
+~
+~
+Door 1 0 0 12852 0 0
+~
+~
+Door 2 0 0 12837 0 0
+~
+~
+Door 3 0 0 12830 0 0
+~
+~
+End
+
+#12852
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12849 0 0
+~
+~
+Door 1 0 0 12853 0 0
+~
+~
+Door 2 0 0 12854 0 0
+~
+~
+Door 3 0 0 12851 0 0
+~
+~
+End
+
+#12853
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12850 0 0
+~
+~
+Door 1 0 0 12842 0 0
+~
+~
+Door 2 0 0 12855 0 0
+~
+~
+Door 3 0 0 12852 0 0
+~
+~
+End
+
+#12854
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Door 0 0 0 12852 0 0
+~
+~
+Door 1 0 0 12855 0 0
+~
+~
+Door 2 0 0 12838 0 0
+~
+~
+Door 3 0 0 12837 0 0
+~
+~
+End
+
+#12855
+Name The Arena Battlefield~
+Descr
+This is the ancient Xylarian gladiator arena.  Having fallen into disrepair after the great storm, the citizens of New Xylar have recently begun to restore this once proud battlefield. In certain areas of the arena, gladiators can already be seen training
+
+
+ for the day they can fight again.
+~
+Reset M 12830 1 100
+Reset O 12990 1 100
+Door 0 0 0 12853 0 0
+~
+~
+Door 1 0 0 12841 0 0
+~
+~
+Door 2 0 0 12839 0 0
+~
+~
+Door 3 0 0 12854 0 0
+~
+~
+End
+
+#12856
+Name ~
+Descr
+~
+Reset M 12856 1 100
+Reset M 12856 1 100
+Reset M 12856 1 100
+Reset M 12856 3 100
+Door 0 3 0 12838 30 30
+~
+grate~
+Door 1 0 0 12857 0 0
+~
+~
+Door 3 0 0 12858 0 0
+~
+~
+End
+
+#12857
+Name ~
+Descr
+~
+Door 3 0 0 12856 0 0
+~
+~
+End
+
+#12858
+Name ~
+Descr
+~
+Door 1 0 0 12856 0 0
+~
+~
+End
+
+#12859
+Name The Gladiator's Barracks~
+Descr
+~
+Flags 4
+Reset M 12859 1 100
+Door 1 0 0 12861 0 0
+~
+~
+Door 4 0 0 12831 0 0
+~
+~
+End
+
+#12860
+Name The Gladiator's Barracks~
+Descr
+~
+Flags 4
+Door 0 3 0 12864 30 30
+~
+door~
+Door 1 519 0 12862 25 25
+~
+steel door~
+Door 2 3 0 12863 30 30
+~
+door~
+Door 3 0 0 12861 0 0
+~
+~
+End
+
+#12861
+Name The Gladiator's Barracks~
+Descr
+~
+Flags 4
+Door 0 3 0 12865 30 30
+~
+door~
+Door 1 0 0 12860 0 0
+~
+~
+Door 2 3 0 12866 30 30
+~
+door~
+Door 3 0 0 12859 0 0
+~
+~
+End
+
+#12862
+Name The Dragon's Lair~
+Descr
+~
+Flags 4
+Reset M 12862 1 100
+Reset O 12862 -5 100
+Reset O 62 -3 5
+Reset O 12863 22 100
+Reset O 12865 21 4
+Door 3 519 0 12860 25 25
+~
+steel door~
+End
+
+#12863
+Name Jakar's Bedroom~
+Descr
+~
+Flags 4
+Reset M 12863 1 100
+Door 0 3 0 12860 30 30
+~
+door~
+End
+
+#12864
+Name A Gladiator's Sleeping Area~
+Descr
+~
+Flags 4
+Reset M 12864 1 100
+Reset O 12778 21 35
+Door 2 3 0 12860 30 30
+~
+door~
+End
+
+#12865
+Name A Gladiator's Sleeping Area~
+Descr
+~
+Flags 4
+Reset M 12864 1 100
+Reset O 12778 21 35
+Door 2 3 0 12861 30 30
+~
+door~
+End
+
+#12866
+Name A Gladiator's Sleeping Area~
+Descr
+~
+Flags 4
+Reset M 12866 1 100
+Door 0 3 0 12861 30 30
+~
+door~
+End
+
+#12867
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 1 0 0 12804 0 0
+~
+~
+Door 3 0 0 12868 0 0
+~
+~
+End
+
+#12868
+Name The Ancient Southern Wall~
+Descr
+You are walking along what was once the great southern wall of Xylar. The
+proud spires and turrets are now just piles of rubble that tower a few feet
+over your head. Sections of the wall though still capture a bit of the
+luster that once surrounded the great city. 
+~
+Door 1 0 0 12867 0 0
+~
+~
+Door 3 0 0 12869 0 0
+~
+~
+End
+
+#12869
+Name The Ancient Southern Wall~
+Descr
+This back section of Old Xylar is filthy with litter and debris. Garbage
+is piled here in the corner. To the north you can see the remains of the
+entrance to the great Xylarian Zoo. 
+~
+Door 0 0 0 12965 0 0
+~
+~
+Door 1 0 0 12868 0 0
+~
+~
+End
+
+#12870
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Door 0 0 0 12871 0 0
+~
+~
+Door 2 0 0 12795 0 0
+~
+~
+End
+
+#12871
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 0 0 0 12872 0 0
+~
+~
+Door 2 0 0 12870 0 0
+~
+~
+End
+
+#12872
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 0 0 0 12873 0 0
+~
+~
+Door 2 0 0 12871 0 0
+~
+~
+End
+
+#12873
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 0 0 0 12874 0 0
+~
+~
+Door 2 0 0 12872 0 0
+~
+~
+Door 3 0 0 12942 0 0
+~
+~
+End
+
+#12874
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Door 0 0 0 12875 0 0
+~
+~
+Door 2 0 0 12873 0 0
+~
+~
+End
+
+#12875
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 0 0 0 12876 0 0
+~
+~
+Door 2 0 0 12874 0 0
+~
+~
+End
+
+#12876
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Reset M 12876 1 100
+Reset O 12780 21 75
+Door 2 0 0 12875 0 0
+~
+~
+Door 3 0 0 12877 0 0
+~
+~
+End
+
+#12877
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 1 0 0 12876 0 0
+~
+~
+Door 3 0 0 12878 0 0
+~
+~
+End
+
+#12878
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 1 0 0 12877 0 0
+~
+~
+Door 3 0 0 12879 0 0
+~
+~
+End
+
+#12879
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Reset M 12876 1 100
+Reset O 12780 21 75
+Door 1 0 0 12878 0 0
+~
+~
+Door 3 0 0 12880 0 0
+~
+~
+End
+
+#12880
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 1 0 0 12879 0 0
+~
+~
+Door 3 0 0 12881 0 0
+~
+~
+End
+
+#12881
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 1 0 0 12880 0 0
+~
+~
+Door 3 0 0 12882 0 0
+~
+~
+End
+
+#12882
+Name A Back Alley~
+Descr
+You are in the alleys of the city of Xylar. After the destruction caused
+by the storm, the criminal element took to the less traveled sections of the
+city. That would be these back roads and streets. Every small sound and
+rustling make you jump as you walk down this alley, fearful that just around
+the corner could be someone prepared to relieve you of your money...and
+maybe your life!  
+~
+Flags 4
+Door 1 0 0 12881 0 0
+~
+~
+Door 3 0 0 12815 0 0
+~
+~
+End
+
+#12883
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Flags 4
+Door 1 0 0 12815 0 0
+~
+~
+Door 3 0 0 12884 0 0
+~
+~
+End
+
+#12884
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Door 1 0 0 12883 0 0
+~
+~
+Door 2 0 0 12964 0 0
+~
+~
+Door 3 0 0 12885 0 0
+~
+~
+End
+
+#12885
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Flags 4
+Door 1 0 0 12884 0 0
+~
+~
+Door 3 0 0 12886 0 0
+~
+~
+End
+
+#12886
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Flags 4
+Door 1 0 0 12885 0 0
+~
+~
+Door 3 0 0 12887 0 0
+~
+~
+End
+
+#12887
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Door 1 0 0 12886 0 0
+~
+~
+Door 2 0 0 12957 0 0
+~
+~
+Door 3 0 0 12888 0 0
+~
+~
+End
+
+#12888
+Name Along the Northern Wall~
+Descr
+The northern wall is in fairly good condition considering the state of
+the rest of Old Xylar. It was fixed up relatively quickly since the Xylarian
+Park is nearby and citizens thought the park would be important for city
+morale. In the circumstances they are in, they could use all the morale they
+can get. 
+~
+Flags 4
+Door 1 0 0 12887 0 0
+~
+~
+Door 2 0 0 12889 0 0
+~
+~
+End
+
+#12889
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Flags 4
+Door 0 0 0 12888 0 0
+~
+~
+Door 2 0 0 12890 0 0
+~
+~
+End
+
+#12890
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Flags 4
+Door 0 0 0 12889 0 0
+~
+~
+Door 2 0 0 12891 0 0
+~
+~
+End
+
+#12891
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Flags 4
+Door 0 0 0 12890 0 0
+~
+~
+Door 1 0 0 12956 0 0
+~
+~
+Door 2 0 0 12892 0 0
+~
+~
+End
+
+#12892
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Door 0 0 0 12891 0 0
+~
+~
+Door 2 0 0 12893 0 0
+~
+~
+End
+
+#12893
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Flags 4
+Door 0 0 0 12892 0 0
+~
+~
+Door 1 0 0 12952 0 0
+~
+~
+Door 2 0 0 12894 0 0
+~
+~
+End
+
+#12894
+Name Along the Western Wall~
+Descr
+This wall separates the old and new sections of the city. Completely
+rebuilt, this wall shows the effort to which the survivors of Xylar have put
+into rebuilding their city. One day this city will be greater than ever. 
+~
+Flags 4
+Door 0 0 0 12893 0 0
+~
+~
+Door 2 0 0 12778 0 0
+~
+~
+End
+
+#12895
+Name The Remains of a Bakery~
+Descr
+Bob's bakery at one time made the finest cakes and pastries in the land.
+However, he was forced to relocate when the storm came. Now his famous
+sweets are enriching another city. His food is sorely missed by the people
+of Xylar. 
+~
+Door 2 0 0 12789 0 0
+~
+~
+Door 3 0 0 12809 0 0
+~
+~
+End
+
+#12896
+Name The Temple~
+Descr
+As you rest here in the Xylarian Temple, you somehow feel as if your soul
+is being replenished. Everything seems clearer and you begin to feel your
+strength come back to you. Gold ornamental statues and altars in here seem
+untouched by the desolation that has encompassed the rest of the city. 
+~
+Flags 1048580
+Door 0 0 0 12783 0 0
+~
+~
+Door 1 0 0 12796 0 0
+~
+~
+End
+
+#12897
+Name Old Xylarian Bank~
+Descr
+~
+Door 3 0 0 12810 0 0
+~
+~
+End
+
+#12898
+Name Annabelle's Old Training Room~
+Descr
+~
+Door 0 0 0 12899 0 0
+~
+~
+Door 1 0 0 12810 0 0
+~
+~
+End
+
+#12899
+Name Chucks's Abandoned Training Area~
+Descr
+~
+Flags 4
+Door 1 0 0 12811 0 0
+~
+~
+Door 2 0 0 12898 0 0
+~
+~
+End
+
+#12900
+Name The Slaughterhouse~
+Descr
+~
+Flags 4
+Reset O 12900 -5 100
+Reset M 12901 1 100
+Door 3 0 0 12812 0 0
+~
+~
+End
+
+#12901
+Name An Old Jewelry Shop~
+Descr
+This is an abandoned jewelry shop. Don't harbor any thoughts of looking
+for leftover treasure though. Looking around you can tell the shopowner did
+a good job of taking all his wares with him. 
+~
+Door 2 0 0 12791 0 0
+~
+~
+End
+
+#12902
+Name A Xylarian Tower~
+Descr
+This is the central tower of Old Xylar. In the old days, it was a library
+in which a great wizard meditated. Perhaps you should take a look around and
+see if the library is still in use. 
+~
+Flags 4
+Door 2 7 0 12792 30 30
+~
+great wooden door~
+Door 4 0 0 12903 0 0
+~
+~
+Door 5 259 0 12905 30 30
+~
+passage~
+End
+
+#12903
+Name The Top of the Staircase~
+Descr
+~
+Flags 4
+Door 0 3 0 12904 30 30
+~
+door~
+Door 5 0 0 12902 0 0
+~
+~
+End
+
+#12904
+Name Nylrem's Library and Meditation Chamber~
+Descr
+In this room, you see racks upon racks of books that were somehow
+undamaged by the great storm which destroyed most of the city. Sitting in a
+chair hunched over a rather large book of magic is a man with a long flowing
+white beard. It is Nylrem, the greatest wizard in Xylar. Being his friend
+could do you a great service, while being his enemy would most likely mean a
+quick end. 
+~
+Flags 4
+Reset M 12904 1 100
+Reset O 12904 15 20
+Door 2 3 0 12903 30 30
+~
+door~
+End
+
+#12905
+Name Under a Tower~
+Descr
+~
+Flags 4
+Door 2 0 0 12906 0 0
+~
+~
+Door 3 259 0 0 30 30
+~
+panel~
+Door 4 3 0 12902 30 30
+~
+passage~
+End
+
+#12906
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Reset M 12907 1 100
+Reset O 12907 8 15
+Reset O 203 8 70
+Door 0 0 0 12905 0 0
+~
+~
+Door 3 0 0 12907 0 0
+~
+~
+End
+
+#12907
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12906 0 0
+~
+~
+Door 2 0 0 12908 0 0
+~
+~
+End
+
+#12908
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12907 0 0
+~
+~
+Door 1 0 0 12910 0 0
+~
+~
+Door 2 0 0 12909 0 0
+~
+~
+End
+
+#12909
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Reset M 12906 1 100
+Door 0 0 0 12908 0 0
+~
+~
+End
+
+#12910
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12911 0 0
+~
+~
+Door 3 0 0 12908 0 0
+~
+~
+End
+
+#12911
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 2 0 0 12912 0 0
+~
+~
+Door 3 0 0 12910 0 0
+~
+~
+End
+
+#12912
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12911 0 0
+~
+~
+Door 1 0 0 12914 0 0
+~
+~
+Door 3 0 0 12913 0 0
+~
+~
+End
+
+#12913
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12912 0 0
+~
+~
+Door 2 0 0 12915 0 0
+~
+~
+End
+
+#12914
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Reset M 12906 1 100
+Door 3 0 0 12912 0 0
+~
+~
+End
+
+#12915
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12913 0 0
+~
+~
+Door 3 0 0 12916 0 0
+~
+~
+End
+
+#12916
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12915 0 0
+~
+~
+Door 2 0 0 12917 0 0
+~
+~
+End
+
+#12917
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12916 0 0
+~
+~
+Door 2 0 0 12918 0 0
+~
+~
+End
+
+#12918
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12917 0 0
+~
+~
+Door 3 0 0 12919 0 0
+~
+~
+End
+
+#12919
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12918 0 0
+~
+~
+Door 2 0 0 12920 0 0
+~
+~
+End
+
+#12920
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12919 0 0
+~
+~
+Door 3 0 0 12921 0 0
+~
+~
+End
+
+#12921
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12920 0 0
+~
+~
+Door 2 0 0 12922 0 0
+~
+~
+End
+
+#12922
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12921 0 0
+~
+~
+Door 2 0 0 12923 0 0
+~
+~
+End
+
+#12923
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12922 0 0
+~
+~
+Door 3 0 0 12924 0 0
+~
+~
+End
+
+#12924
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 1 0 0 12923 0 0
+~
+~
+Door 2 0 0 12926 0 0
+~
+~
+Door 3 0 0 12925 0 0
+~
+~
+End
+
+#12925
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12927 0 0
+~
+~
+Door 1 0 0 12924 0 0
+~
+~
+End
+
+#12926
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12924 0 0
+~
+~
+Door 5 259 0 0 30 30
+~
+ruins~
+End
+
+#12927
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12928 0 0
+~
+~
+Door 2 0 0 12925 0 0
+~
+~
+End
+
+#12928
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12929 0 0
+~
+~
+Door 2 0 0 12927 0 0
+~
+~
+End
+
+#12929
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 0 0 0 12931 0 0
+~
+~
+Door 1 0 0 12930 0 0
+~
+~
+Door 2 0 0 12928 0 0
+~
+~
+End
+
+#12930
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Sector 0
+Door 0 0 0 12932 0 0
+~
+~
+Door 2 0 0 12820 0 0
+~
+~
+Door 3 0 0 12929 0 0
+~
+~
+End
+
+#12931
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 2 0 0 12929 0 0
+~
+~
+End
+
+#12932
+Name Inside the Xylarian Catacombs~
+Descr
+~
+Flags 5
+Door 2 0 0 12930 0 0
+~
+~
+End
+
+#12933
+Name The Adventurer's Shop~
+Descr
+Once the shop of Puk the provisioner, this shop now lies abandoned due to
+Puk's having to relocate in order to escape the onslaught of rain and wind
+which brought Xylar to its knees. 
+~
+Door 0 0 0 12789 0 0
+~
+~
+End
+
+#12934
+Name The Xylarian Barracks~
+Descr
+~
+Door 0 0 0 12792 0 0
+~
+~
+Door 1 3 0 12937 30 30
+~
+door~
+Door 2 0 0 12936 0 0
+~
+~
+End
+
+#12935
+Name An Abandoned House~
+Descr
+~
+Door 0 3 0 12794 30 30
+~
+door~
+Door 4 0 0 12940 0 0
+~
+~
+End
+
+#12936
+Name The Xylarian Barracks~
+Descr
+~
+Door 0 0 0 12934 0 0
+~
+~
+Door 1 0 0 12939 0 0
+~
+~
+Door 3 0 0 12938 0 0
+~
+~
+End
+
+#12937
+Name A Training Room~
+Descr
+~
+Door 3 3 0 12934 30 30
+~
+door~
+End
+
+#12938
+Name The Xylarian Barracks~
+Descr
+~
+Door 1 0 0 12936 0 0
+~
+~
+End
+
+#12939
+Name The Xylarian Barracks~
+Descr
+~
+Door 3 0 0 12936 0 0
+~
+~
+End
+
+#12940
+Name The Remains of An Old House~
+Descr
+~
+Door 2 0 0 12941 0 0
+~
+~
+Door 5 0 0 12935 0 0
+~
+~
+End
+
+#12941
+Name An Empty Bedroom~
+Descr
+~
+Door 0 0 0 12940 0 0
+~
+~
+End
+
+#12942
+Name A Dark Alleyway~
+Descr
+This section of Xylar looks extremely dark and you begin to become
+nervous at the thought of travelling down this empty street. Fear begins to
+enter your heart as your mind races over the possibilities of what horrible
+things you may find at the end of this alleyway. 
+~
+Flags 4
+Reset M 12876 1 100
+Reset O 12780 21 75
+Door 1 0 0 12873 0 0
+~
+~
+Door 3 0 0 12943 0 0
+~
+~
+End
+
+#12943
+Name A Dark Alleyway~
+Descr
+This section of Xylar looks extremely dark and you begin to become
+nervous at the thought of travelling down this empty street. Fear begins to
+enter your heart as your mind races over the possibilities of what horrible
+things you may find at the end of this alleyway. 
+~
+Flags 4
+Door 1 0 0 12942 0 0
+~
+~
+Door 3 3 0 12944 15 15
+~
+door~
+End
+
+#12944
+Name A Tucked Away Corner of Xylar~
+Descr
+Now you know that your fear was not without just cause for you have found
+Karina's lair. Karina is perhaps one of the most infamous smugglers,
+thieves, etc. Getting rid of her would be a service to the world but her two
+looming bodyguards make you think twice before you take any action. 
+~
+Reset M 12945 1 100
+Reset M 12945 1 100
+Reset M 12944 1 100
+Reset O 12944 21 5
+Door 1 3 0 12943 15 15
+~
+door~
+End
+
+#12945
+Name Axl's Boarded-Up Shop~
+Descr
+Axl the weaponsmith once owned this shop, selling the finest weapons in
+the land from behind the counter. The storm left the shop in ruins though
+and Axl has left to find a more secure place of establishment. All that is
+left here are some scraps of metal and Axl's assistant trying to clean up
+the mess. 
+~
+Reset M 12946 1 100
+Door 2 3 0 12782 30 30
+~
+door~
+End
+
+#12946
+Name Warren's Abandoned Armory~
+Descr
+This is the remains of the Xylarian armory. All that remains now are bits
+of scrap equipment not fit enough to protect a small child. 
+~
+Door 0 0 0 12782 0 0
+~
+~
+End
+
+#12947
+Name An Old House~
+Descr
+You are in a cozy little home that has somehow survived the terrible
+things of the outside world. Nearby, a fireplace is roaring away while an
+elderly couple rests in contentment. 
+~
+Flags 128
+Reset M 12947 1 100
+Reset O 12820 21 50
+Reset M 12948 1 100
+Door 0 3 0 12780 30 30
+~
+door~
+End
+
+#12948
+Name Vastok's Study~
+Descr
+This is the home of Vastok, the legendary thief. However, Vastok has
+sworn to have retired from his thievery and is now content to sit in his
+home and read books of ancient lore. However, most say that once a
+thief...always a thief. 
+~
+Reset M 12949 1 100
+Door 0 3 0 12779 30 30
+~
+door~
+End
+
+#12949
+Name The Traveller's Inn~
+Descr
+~
+Reset M 12950 1 100
+Door 1 0 0 12798 0 0
+~
+~
+End
+
+#12950
+Name A Decorated Hallway~
+Descr
+This hallway is decorated with paintings and tapestries showing the glory
+days of Xylar. Plaques also line the wall showing off the credentials of the
+now deceased ex-mayor of Xylar. 
+~
+Door 0 0 0 12951 0 0
+~
+~
+Door 2 0 0 12780 0 0
+~
+~
+End
+
+#12951
+Name A Decorated Hallway~
+Descr
+This hallway is decorated with paintings and tapestries showing the glory
+days of Xylar. Plaques also line the wall showing off the credentials of the
+now deceased ex-mayor of Xylar. 
+~
+Door 0 0 0 12954 0 0
+~
+~
+Door 2 0 0 12950 0 0
+~
+~
+Door 3 0 0 12952 0 0
+~
+~
+End
+
+#12952
+Name A Decorated Hallway~
+Descr
+This hallway is decorated with paintings and tapestries showing the glory
+days of Xylar. Plaques also line the wall showing off the credentials of the
+now deceased ex-mayor of Xylar. 
+~
+Flags 4
+Door 1 0 0 12951 0 0
+~
+~
+Door 2 3 0 12953 30 30
+~
+~
+Door 3 0 0 12893 0 0
+~
+~
+End
+
+#12953
+Name The Mayor's Office~
+Descr
+This fine office was the workplace of the mayor of Xylar before he was
+killed trying to help citizens escape the storm. Some say that his love for
+the city was so great that even in death he still wanders the city
+protecting its streets and greeting visitors. 
+~
+Flags 4
+Reset O 12953 -5 100
+Door 0 3 0 12952 30 30
+~
+~
+End
+
+#12954
+Name A Hallway~
+Descr
+This hallway is well-lit and you feel quite secure venturing down this
+passageway. The walls are barren except for a few paintings here and there.
+Pieces of wood and stone clutter the ground in front of you making walking a
+little difficult. 
+~
+Door 0 0 0 12955 0 0
+~
+~
+Door 2 0 0 12951 0 0
+~
+~
+End
+
+#12955
+Name A Hallway~
+Descr
+This hallway is well-lit and you feel quite secure venturing down this
+passageway. The walls are barren except for a few paintings here and there.
+Pieces of wood and stone clutter the ground in front of you making walking a
+little difficult. 
+~
+Door 2 0 0 12954 0 0
+~
+~
+Door 3 0 0 12956 0 0
+~
+~
+End
+
+#12956
+Name A Hallway~
+Descr
+This hallway is well-lit and you feel quite secure venturing down this
+passageway. The walls are barren except for a few paintings here and there.
+Pieces of wood and stone clutter the ground in front of you making walking a
+little difficult. 
+~
+Flags 4
+Door 1 0 0 12955 0 0
+~
+~
+Door 3 0 0 12891 0 0
+~
+~
+End
+
+#12957
+Name A Xylarian Park~
+Descr
+~
+Door 0 0 0 12887 0 0
+~
+~
+Door 1 0 0 12959 0 0
+~
+~
+Door 2 0 0 12958 0 0
+~
+~
+End
+
+#12958
+Name A Xylarian Park~
+Descr
+~
+Door 0 0 0 12957 0 0
+~
+~
+Door 1 0 0 12960 0 0
+~
+~
+End
+
+#12959
+Name A Xylarian Park~
+Descr
+~
+Door 1 0 0 12961 0 0
+~
+~
+Door 2 0 0 12960 0 0
+~
+~
+Door 3 0 0 12957 0 0
+~
+~
+End
+
+#12960
+Name A Xylarian Park~
+Descr
+~
+Door 0 0 0 12959 0 0
+~
+~
+Door 1 0 0 12962 0 0
+~
+~
+Door 3 0 0 12958 0 0
+~
+~
+End
+
+#12961
+Name A Xylarian Park~
+Descr
+~
+Door 1 0 0 12964 0 0
+~
+~
+Door 2 0 0 12962 0 0
+~
+~
+Door 3 0 0 12959 0 0
+~
+~
+End
+
+#12962
+Name A Xylarian Park~
+Descr
+~
+Reset M 12963 1 100
+Reset M 12962 1 100
+Reset O 12962 -5 100
+Door 0 0 0 12961 0 0
+~
+~
+Door 1 0 0 12963 0 0
+~
+~
+Door 3 0 0 12960 0 0
+~
+~
+End
+
+#12963
+Name A Xylarian Park~
+Descr
+~
+Door 0 0 0 12964 0 0
+~
+~
+Door 3 0 0 12962 0 0
+~
+~
+End
+
+#12964
+Name A Xylarian Park~
+Descr
+~
+Door 0 0 0 12884 0 0
+~
+~
+Door 2 0 0 12963 0 0
+~
+~
+Door 3 0 0 12961 0 0
+~
+~
+End
+
+#12965
+Name Entrance to the Xylarian Zoo~
+Descr
+~
+Door 0 0 0 12966 0 0
+~
+~
+Door 2 0 0 12869 0 0
+~
+~
+End
+
+#12966
+Name Inside the Xylarian Zoo~
+Descr
+~
+Door 1 0 0 12967 0 0
+~
+~
+Door 2 0 0 12965 0 0
+~
+~
+End
+
+#12967
+Name Inside the Xylarian Zoo~
+Descr
+~
+Door 0 0 0 12968 0 0
+~
+~
+Door 1 3 0 12969 30 30
+~
+cage~
+Door 3 0 0 12966 0 0
+~
+~
+End
+
+#12968
+Name Inside the Xylarian Zoo~
+Descr
+~
+Door 0 0 0 12971 0 0
+~
+~
+Door 1 3 0 12970 30 30
+~
+cage~
+Door 2 0 0 12967 0 0
+~
+~
+End
+
+#12969
+Name George's Gorilla Cage~
+Descr
+~
+Reset M 12969 1 100
+Door 3 3 0 12967 30 30
+~
+cage~
+End
+
+#12970
+Name The Tiger's Pen~
+Descr
+~
+Reset M 12970 1 100
+Door 3 3 0 12968 30 30
+~
+cage~
+End
+
+#12971
+Name Inside the Xylarian Zoo~
+Descr
+~
+Door 0 3 0 12974 30 30
+~
+cage~
+Door 1 3 0 12973 30 30
+~
+cage~
+Door 2 0 0 12968 0 0
+~
+~
+Door 3 3 0 12972 30 30
+~
+cage~
+End
+
+#12972
+Name An Abandoned Cage~
+Descr
+~
+Door 1 3 0 12971 30 30
+~
+cage~
+End
+
+#12973
+Name Overlooking a Pit~
+Descr
+~
+Flags 131072
+Door 3 3 0 12971 30 30
+~
+cage~
+Door 5 0 0 0 0 0
+~
+~
+End
+
+#12974
+Name An Empty Cage~
+Descr
+~
+Door 2 3 0 12971 30 30
+~
+cage~
+End
+
+#12975
+Name A Snake Pit~
+Descr
+~
+Flags 131072
+Reset M 12975 1 100
+Reset M 12975 1 100
+Door 4 0 0 0 0 0
+~
+~
+End
+
+#12976
+Name A Decayed Walkway~
+Descr
+~
+Flags 4
+Door 1 0 0 12977 0 0
+~
+~
+Door 2 0 0 12825 0 0
+~
+~
+End
+
+#12977
+Name A Decayed Walkway~
+Descr
+~
+Flags 4
+Reset M 12978 1 100
+Door 1 0 0 12978 0 0
+~
+~
+Door 3 0 0 12976 0 0
+~
+~
+End
+
+#12978
+Name A Decayed Walkway~
+Descr
+~
+Flags 4
+Door 2 0 0 12827 0 0
+~
+~
+Door 3 0 0 12977 0 0
+~
+~
+End
+
+#12979
+Name Outside the Southern Gate of Old Xylar~
+Descr
+~
+Door 0 0 0 12802 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 12980 0 0
+~
+~
+Door 3 0 0 12986 0 0
+~
+~
+End
+
+#12980
+Name A Boardwalk Leading to Xylar~
+Descr
+~
+Door 0 0 0 12979 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 12981 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#12981
+Name A Boardwalk Leading to Xylar~
+Descr
+~
+Door 0 0 0 12980 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 12982 0 0
+~
+~
+End
+
+#12982
+Name A Boardwalk Leading to Xylar~
+Descr
+~
+Door 0 0 0 12981 0 0
+~
+~
+Door 3 0 0 12983 0 0
+~
+~
+End
+
+#12983
+Name A Boardwalk Leading to Xylar~
+Descr
+~
+Door 1 0 0 12982 0 0
+~
+~
+Door 3 0 0 12984 0 0
+~
+~
+End
+
+#12984
+Name A Boardwalk Leading to Xylar~
+Descr
+~
+Door 1 0 0 12983 0 0
+~
+~
+Door 3 0 0 12985 0 0
+~
+~
+End
+
+#12985
+Name The Xylarian Docks~
+Descr
+~
+Flags 4
+Reset M 12713 1 100
+Reset O 12719 100 100
+Door 1 0 0 12984 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#12986
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 1 0 0 12979 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 12987 0 0
+~
+~
+End
+
+#12987
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 1 0 0 12986 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 12988 0 0
+~
+~
+End
+
+#12988
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 1 0 0 12987 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 12989 0 0
+~
+~
+End
+
+#12989
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 1 0 0 12988 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 12990 0 0
+~
+~
+End
+
+#12990
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 1 0 0 12989 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 12991 0 0
+~
+~
+End
+
+#12991
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 0 0 0 12992 0 0
+~
+~
+Door 1 0 0 12990 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#12992
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 0 0 0 12993 0 0
+~
+~
+Door 2 0 0 12991 0 0
+~
+~
+End
+
+#12993
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 0 0 0 12994 0 0
+~
+~
+Door 2 0 0 12992 0 0
+~
+~
+End
+
+#12994
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 2 0 0 12993 0 0
+~
+~
+Door 3 0 0 12995 0 0
+~
+~
+End
+
+#12995
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 0 0 0 12996 0 0
+~
+~
+Door 1 0 0 12994 0 0
+~
+~
+Door 3 0 0 12998 0 0
+~
+~
+End
+
+#12996
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 2 0 0 12995 0 0
+~
+~
+Door 3 0 0 12997 0 0
+~
+~
+End
+
+#12997
+Name The Xylarian Beach~
+Descr
+~
+Sector 4
+Door 1 0 0 12996 0 0
+~
+~
+Door 2 0 0 12998 0 0
+~
+~
+End
+
+#12998
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 0 0 0 12997 0 0
+~
+~
+Door 1 0 0 12995 0 0
+~
+~
+Door 3 0 0 12999 0 0
+~
+~
+End
+
+#12999
+Name The Shore of the Xylarian Sea~
+Descr
+~
+Sector 4
+Door 1 0 0 12998 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#8900
+Name Within The City of Light~
+Descr
+~
+Flags 4
+End
+
+#0
+
+
+
+#$

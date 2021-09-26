@@ -1,0 +1,7708 @@
+#AREADATA 
+Name The City of Marabella~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe City of Marabella is alive once again.
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Plato Orin~
+VNUMs 14500 14999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#14500
+Name rich citizen PRTCT~
+Short a rich citizen~
+Long 
+A rich looking citizen is here.
+~
+Descr
+~
+AMax 7
+NHeight 0
+ActBits 53
+Affect_By 520
+Alignment 500
+Money 5
+Level 5
+MobType 1
+End
+
+#14501
+Name poor citizen PRTCT~
+Short a poor citizen~
+Long 
+A poor looking citizen is here.
+~
+Descr
+~
+AMax 7
+NHeight 0
+ActBits 53
+Affect_By 520
+Money 4
+Level 4
+MobType 1
+Spec spec_warrior
+End
+
+#14503
+Name igor knight PRAC~
+Short Igor the wandering Knight~
+Long 
+|Teacher| A Knight in shining armor looks at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 549454097
+Affect_By 648
+Alignment 500
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ASklTaught 0 571
+End
+
+#14504
+Name guard cityguard city PRTCT~
+Short a Cityguard~
+Long 
+A Cityguard is watching you very closely.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits 4194321
+Affect_By 33320
+Alignment 500
+Money 41
+Level 41
+Sex 1
+MobType 1
+End
+
+#14508
+Name fermin juggler PRTCT~
+Short Fermin the Juggler~
+Long 
+Fermin is here juggling some balls.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment 250
+Money 3
+Level 3
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14509
+Name sentry guard PRTCT~
+Short a Sentry Guard~
+Long 
+A Sentry Guard is here to secure the gate.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 4194355
+Affect_By 552
+Alignment 500
+Money 55
+Level 55
+Sex 1
+MobType 1
+Guard 4
+End
+
+#14510
+Name sweeper PRTCT~
+Short a city sweeper~
+Long 
+A city sweeper is busy cleaning up the streets.
+~
+Descr
+~
+AMax 21
+NHeight 0
+ActBits 53
+Affect_By 520
+Money 2
+Level 2
+MobType 1
+Guard 0
+Spec spec_janitor
+End
+
+#14516
+Name huge dog~
+Short a huge dog~
+Long 
+A huge dog with a foaming mouth looks up at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+ActBits3 262144
+Affect_By 512
+Money 2
+Level 2
+MobType 6
+Guard 0
+End
+
+#14517
+Name cat bobcat~
+Short a wild bobcat~
+Long 
+A wild Bobcat with long nails hisses at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 32768
+Money 3
+Level 3
+MobType 16
+Guard 0
+End
+
+#14519
+Name flynn thief~
+Short Flynn the Thief~
+Long 
+Flynn, a well known thief, got past the gate guards somehow.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536871217
+Affect_By 33320
+Alignment -500
+Money 140
+Level 140
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#14524
+Name undead evil zombie~
+Short an Undead Zombie~
+Long 
+An Undead Zombie slowly moves towards you.
+~
+Descr
+The Zombie is pale white and has a strange look on it's face.
+~
+Attackmsg punch~
+AMax 10
+NHeight 0
+ActBits 33554457
+Affect_By 1073742368
+Alignment -1000
+Money 20
+Level 20
+MobType 9
+Guard 0
+Spec spec_warrior
+End
+
+#14544
+Name constable PRTCT~
+Short the Constable~
+Long 
+The Constable is making sure the city is secure and peaceful.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 4197297
+Affect_By 33384
+Alignment 750
+Money 77
+Level 77
+Sex 1
+MobType 1
+End
+
+#14555
+Name drunk luther grumpy PRTCT~
+Short Luther the grumpy drunk~
+Long 
+Luther the grumpy drunk stumbles as he talks to himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 603979795
+Affect_By 512
+Money 2
+Level 2
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14558
+Name guard tower~
+Short a tower guard~
+Long 
+A Tower Guard looks surprised as you come up here.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 19
+Affect_By 552
+Alignment 500
+Money 47
+Level 47
+Sex 1
+MobType 1
+End
+
+#14567
+Name musician flutist PRTCT~
+Short a Musician~
+Long 
+A musician is here playing the flute.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 35
+Money 2
+Level 2
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14574
+Name tor snot boy kid PRTCT~
+Short Tor the snot nosed boy~
+Long 
+Tor is waving his sharp stick around playfully.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 603979811
+Affect_By 512
+Alignment -100
+Money 2
+Level 2
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14575
+Name filthy scavenger~
+Short a filthy scavenger~
+Long 
+A filthy scavenger seems to be looking for something.
+~
+Descr
+~
+AMax 9
+NHeight 0
+ActBits 21
+Affect_By 520
+Money 4
+Level 4
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14577
+Name jack panhandler PRTCT~
+Short Jack the panhandler~
+Long 
+Jack the panhandler reaches out to you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870919
+Affect_By 512
+Money 4
+Level 4
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14586
+Name tim magician son PRTCT~
+Short Tim the Magician~
+Long 
+Tim, Merlin's son, is showing off some of his new tricks.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 554
+Alignment 1000
+Money 14
+Level 14
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14590
+Name PRTCT celona wife~
+Short Celona~
+Long 
+Celona, Paul's wife, is getting ready to shop.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 17
+Affect_By 131072
+Money 5
+Level 5
+Sex 2
+MobType 1
+Guard 0
+End
+
+#14591
+Name bruto armourer armorer~
+Short Bruto the Armourer~
+Long 
+Bruto the Armourer is repairing some damaged armor.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097171
+Affect_By 552
+Money 66
+Level 66
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0   9   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14592
+Name conan weaponsmith~
+Short Conan the Weaponmaster~
+Long 
+Conan the Weaponmaster is sharpening some of his new weapons.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1048851
+Affect_By 520
+Money 81
+Level 81
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0   5   0   0   0 160 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14593
+Name bank teller banker tooma~
+Short Tooma the Banker~
+Long 
+Tooma the Banker is counting up all the money.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131091
+Affect_By 8744
+Alignment 1000
+Money 96
+Level 96
+MobType 1
+Spec spec_janitor
+End
+
+#14594
+Name merlin magician~
+Short Merlin the Magician~
+Long 
+Merlin the Magician is here mumbling to himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 275
+Affect_By 524840
+Money 81
+Level 81
+Sex 1
+MobType 1
+Shop   26   2   4   3  10 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14595
+Name korgon butcher~
+Short Korgon the Butcher~
+Long 
+Korgon the Butcher is preparing some meat, poultry, and fish.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 275
+Affect_By 520
+Money 55
+Level 55
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0  19   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14596
+Name norma shopkeeper~
+Short Norma the Shopkeeper~
+Long 
+Norma the Shopkeeper is here taking inventory.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 52
+Level 52
+Sex 2
+MobType 1
+Spec spec_warrior
+Shop   22  15   1  11   8 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14597
+Name stan gemologist~
+Short Stan the Gemologist~
+Long 
+Stan the Gemologist is polishing some jewels.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Money 56
+Level 56
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0  21   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14598
+Name drakor ~
+Short Drakor the Pawnbroker~
+Long 
+Drakor the Pawnbroker is appraising some fine treasures.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 54
+Level 54
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0   8   0   0   0 120 15 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14599
+Name fingers locksmith~
+Short Fingers the Locksmith~
+Long 
+Fingers the Locksmith is repairing some old locks.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 275
+Affect_By 520
+Money 52
+Level 52
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0  15  27  18   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14600
+Name john~
+Short John ~
+Long 
+John is carving out a canoe from an old tree.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 50
+Level 50
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop    0  22   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14601
+Name moses clerk~
+Short Moses the Clerk~
+Long 
+Moses the bookstore clerk is busy dusting of some books finally.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Alignment 1000
+Money 50
+Level 50
+Sex 2
+MobType 1
+Spec spec_warrior
+Shop    0  11   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14602
+Name paul barkeep~
+Short Paul the Barkeep~
+Long 
+Paul the Barkeep is busy mixing drinks.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Money 50
+Level 50
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop   17   0   0   0   0 110 10 11 24
+Shopd2 5
+Shopd3 4
+End
+
+#14603
+Name tristan cartographer~
+Short Tristan the Cartographer~
+Long 
+Tristan the Cartographer is mapping out the world.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 60
+Level 60
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop   33   0   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14604
+Name wild horse~
+Short a wild horse~
+Long 
+A wild looking horse is waiting to be mounted.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 8225
+Affect_By 8
+Money 20
+Level 20
+MobType 18
+Guard 0
+Spec spec_warrior
+End
+
+#14605
+Name juan~
+Short Juan~
+Long 
+Juan is seen feedling the animals.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 65
+Level 65
+Sex 1
+MobType 1
+Spec spec_warrior
+End
+
+#14606
+Name camel~
+Short a two-humped camel~
+Long 
+A camel is here spitting on the ground.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 8257
+Affect_By 520
+Money 4
+Level 4
+MobType 18
+End
+
+#14607
+Name donkey ass jackass~
+Short a donkey~
+Long 
+A donkey kicks at you for no apparent reason.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 8257
+Affect_By 520
+Money 5
+Level 5
+MobType 18
+End
+
+#14610
+Name PRTCT son lio~
+Short Lio~
+Long 
+Lio, Juan's son, is heading over to play with Tor.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 49
+Money 1
+Level 1
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14617
+Name lugor PRTCT husband~
+Short Lugor~
+Long 
+Lugor, Jessica's husband, is back from a trip to Xylar.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870929
+Money 10
+Level 10
+Sex 1
+MobType 1
+Guard 0
+End
+
+#14618
+Name jessica~
+Short Jessica~
+Long 
+Jessica is washing some newly picked fruits and vegatables.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 54
+Level 54
+Sex 2
+MobType 1
+Spec spec_warrior
+Shop   19   0   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14619
+Name lefty adventurer~
+Short Lefty the Adventurer~
+Long 
+Lefty the adventurer is waiting for your order.
+~
+Descr
+Lefty lost his right arm on his last adventure.  He now works for a living.
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 74
+Level 74
+Sex 1
+MobType 1
+Spec spec_warrior
+Shop   17   1  15  27  32 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14622
+Name anita~
+Short Anita the Baker~
+Long 
+Anita is busy making some fresh bread.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Money 50
+Level 50
+Sex 2
+MobType 1
+Spec spec_warrior
+Shop    0  19   0   0   0 110 10 6 20
+Shopd2 5
+Shopd3 4
+End
+
+#14623
+Name hermit herman~
+Short Herman the hermit~
+Long 
+A hermit steps back as you arrive.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108867
+Affect_By 66080
+Money 14
+Level 14
+Sex 1
+MobType 1
+Guard 0
+Spec spec_janitor
+End
+
+#14625
+Name abraham priest PRAC~
+Short Abraham the Priest~
+Long 
+Abraham the Priest is preaching out loud.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536871171
+ActBits3 524288
+Affect_By 648
+AffectTWO 4194304
+Alignment 1000
+Money 400
+Level 400
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+ASklTaught 0 149
+ASklTaught 1 173
+End
+
+#14626
+Name joe~
+Short Joe~
+Long 
+Joe grooms his pets while waiting for your order.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 552
+Money 50
+Level 50
+Sex 1
+MobType 1
+Spec spec_janitor
+End
+
+#14627
+Name dog~
+Short a large dog~
+Long 
+A large Dog barks as he wags his tail.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 97
+Affect_By 40
+Money 5
+Level 5
+MobType 6
+End
+
+#14628
+Name cat kitty~
+Short a kitty cat~
+Long 
+A large overweight cat purrs with content.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 97
+Affect_By 33320
+Money 4
+Level 4
+MobType 16
+End
+
+#14629
+Name monkey orangutan~
+Short a monkey~
+Long 
+An Orangutan is here pounding it's chest.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 97
+Money 3
+Level 3
+MobType 18
+Spec spec_janitor
+End
+
+#14630
+Name snake~
+Short a mean-looking snake~
+Long 
+A snake slithers around aimlessly.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 97
+Affect_By 544
+Money 2
+Level 2
+MobType 20
+Spec spec_poison
+End
+
+#14672
+Name field worker muscular large~
+Short a muscular field worker~
+Long 
+A muscular field worker is taking a break here.
+~
+Descr
+The field worker is sweaty all over.
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 512
+Money 30
+Level 30
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#14689
+Name field rat~
+Short a large field rat~
+Long 
+A large field rat with sharp looking teeth is here.
+~
+Descr
+~
+AMax 16
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 1
+Level 1
+MobType 7
+Guard 0
+End
+
+#14690
+Name white bunny rabbit~
+Short a white bunny rabbit~
+Long 
+A white rabbit is hopping around here.
+~
+Descr
+~
+Attackmsg bite~
+AMax 9
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 1
+Level 1
+MobType 7
+Guard 0
+End
+
+#14691
+Name snake rattlesnake rattler~
+Short a large rattlesnake~
+Long 
+A rather large rattlesnake rattles his tail.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 1
+Level 1
+MobType 20
+Guard 0
+Spec spec_poison
+End
+
+#14692
+Name gopher snake~
+Short a gopher snake~
+Long 
+A gopher snake slithers around here.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 1
+Level 1
+MobType 20
+Guard 0
+End
+
+#14693
+Name large fox~
+Short a large fox~
+Long 
+A large fox with sharp teeth looks at you.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#14694
+Name wild boar~
+Short a wild boar~
+Long 
+A dangerous looking wild boar is here.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 3
+Level 3
+MobType 18
+Guard 0
+End
+
+#14695
+Name striped skunk~
+Short a striped skunk~
+Long 
+A striped skunk is raising his tail at you.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 17
+Affect_By 512
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#14500
+Name water fountain~
+Short a water fountain~
+Descr
+[36mA beautiful water fountain is gurgling here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr fountain~
+The fountain contains refreshing water.
+
+~
+ExtraDescr water~
+The water is clear and looks refreshing.
+
+~
+End
+
+#14501
+Name apple tree~
+Short [32man apple tree~
+Descr
+[32mAn apple tree has grown here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 1 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 100
+ExtraDescr tree~
+You might be able to find an apple on the tree.
+
+~
+End
+
+#14502
+Name apple~
+Short [31man apple[0m~
+Descr
+A single [31mapple[0m is sitting here on the ground.
+[0;36m~
+Type 19
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5
+ExtraDescr apple~
+This apple looks good enough to eat.
+
+~
+End
+
+#14505
+Name wooden torch~
+Short [0m[33ma wooden torch[0m~
+Descr
+[0m[33mA piece of wood burned at one end is lying here.[0m
+[0;36m~
+Type 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 20 0 0 0 0 0 0 0 0
+Weight 2
+Cost 25
+End
+
+#14506
+Name grinning mask~
+Short [1m[30ma grinning mask[0m~
+Descr
+A mask with a grinning face on it lies here.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 30 30 0 0
+Weight 1
+Cost 980
+Affect 24 5 1 0 0
+Affect 17 -1 1 0 0
+ExtraDescr grinning mask~
+The mask grins back at you as you look at it.
+
+~
+End
+
+#14507
+Name wand magic invisible invis~
+Short a magic wand~
+Descr
+A small stick with a round tip is lying here.
+[0;36m~
+Type 3
+Extra 16449
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 3 3 67 0 0 0 0 0 0
+Weight 1
+Cost 500
+End
+
+#14508
+Name wooden ball~
+Short a wooden ball~
+Descr
+A round piece of wood is here.
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14511
+Name key city~
+Short [1m[33mthe City key[0m~
+Descr
+A very large key can barely be seen on the ground here.
+[0;36m~
+Type 18
+Extra 16480
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 5
+ExtraDescr key~
+You see a very large key for a very large lock.
+
+~
+End
+
+#14520
+Name silver buckler shield~
+Short a silver buckler~
+Descr
+A large round and shiny disk is lying here.
+[0;36m~
+Type 9
+Extra 8389633
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 1 0 0 50 50 0 0
+Weight 2
+Cost 1150
+Affect 20 -3 1 0 0
+End
+
+#14521
+Name shiny silver belt~
+Short a shiny silver belt~
+Descr
+A shiny silver belt was discarded here.
+[0;36m~
+Type 9
+Extra 1
+Wear 10241
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 50 50 0 0
+Weight 1
+Cost 510
+End
+
+#14522
+Name silver gauntlets~
+Short a pair of silver gauntlets~
+Descr
+A pair of silver gauntlets are starting to rust here.
+[0;36m~
+Type 9
+Extra 8388608
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 2
+Cost 995
+Affect 17 -2 1 0 0
+Affect 18 1 1 0 0
+End
+
+#14523
+Name golden torque necklace~
+Short [1m[33ma golden torque[0m~
+Descr
+A golden torque lies here on the ground.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 50 50 0 0
+Weight 1
+Cost 2000
+Affect 18 1 1 0 0
+End
+
+#14524
+Name dragon skull helmet~
+Short [33ma dragon-skull Helmet[0m~
+Descr
+A large dragon skull-shaped helmet rests on the ground here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 50 50 0 0
+Weight 2
+Cost 660
+Affect 13 10 1 0 0
+Affect 18 1 1 0 0
+End
+
+#14527
+Name pair steel boot boots~
+Short a pair of steel-toed boots~
+Descr
+A pair of steel boots are together here.
+[0;36m~
+Type 9
+Extra 8388608
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 30 30 0 0
+Weight 3
+Cost 1105
+Affect 22 1 1 0 0
+End
+
+#14530
+Name leather quiver~
+Short [0m[33ma leather quiver[0m~
+Descr
+A leather quiver is off to the side here.
+[0;36m~
+Type 9
+Wear 8388609
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 4 1 1 0 0 0 0 0 0
+Weight 2
+Cost 410
+Affect 17 -1 1 0 0
+End
+
+#14531
+Name soft leather moccasin moccasin's shoes~
+Short [0m[33ma pair of leather moccasin's[0m~
+Descr
+Some soft leather shoes were tossed here.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 1
+Cost 994
+Affect 18 2 1 0 0
+Affect 14 13 1 0 0
+End
+
+#14532
+Name rawhide leather armor~
+Short [0m[33msome Rawhide Armor[0m~
+Descr
+A finely stitched piece of armor is lying here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 30 30 0 0
+Weight 2
+Cost 3325
+Affect 2 1 1 0 0
+End
+
+#14533
+Name tough leather gloves~
+Short [0m[33ma pair of tough leather gloves[0m~
+Descr
+Some tough looking gloves were thrown here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 50 50 0 0
+Weight 1
+Cost 1255
+Affect 17 -1 1 0 0
+Affect 13 10 1 0 0
+Affect 18 2 1 0 0
+End
+
+#14544
+Name Inside a Church~
+Short the Church~
+Descr
+[1m[37mA beautifully constructed church is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14625 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 0
+ExtraDescr church~
+The church is practically begging to be entered.
+
+~
+End
+
+#14555
+Name pill green~
+Short [32ma green pill[0m~
+Descr
+A tiny looking pill is barely visible here.
+[0;36m~
+Type 26
+Extra 16448
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 -1 -1 1 0 0 0 0 0 0
+Weight 1
+Cost 1000
+End
+
+#14556
+Name scroll ancient identify id~
+Short an ancient scroll~
+Descr
+A old looking piece of paper is here.
+[0;36m~
+Type 2
+Extra 16448
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 28 51 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5000
+End
+
+#14567
+Name flute~
+Short a beautiful flute~
+Descr
+A stick with holes has been discarded here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 8 0 0 0 1 4 0
+Weight 1
+Cost 25
+End
+
+#14574
+Name sharp stick~
+Short a sharp stick~
+Descr
+A tiny stick sharpened at the tip is lying here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 11 0 0 0 3 1 0
+Weight 1
+Cost 50
+End
+
+#14580
+Name long blade~
+Short a long blade~
+Descr
+A long looking blade can be seen here.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 3 0 0 0 1 10 0
+Weight 2
+Cost 995
+End
+
+#14581
+Name small dagger~
+Short a small dagger~
+Descr
+A tiny looking dagger is here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 11 0 0 0 0 0 0
+Weight 1
+Cost 350
+End
+
+#14582
+Name large club~
+Short a large club~
+Descr
+A wooden club was dropped here.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 8 0 0 0 1 10 0
+Weight 3
+Cost 500
+End
+
+#14583
+Name leather whip~
+Short a leather whip~
+Descr
+A fine piece of leather with a handle is lying here.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 4 0 0 0 2 3 0
+Weight 2
+Cost 504
+End
+
+#14584
+Name kitty claw~
+Short a kitty claw~
+Descr
+An arm of a small kitty cat is here.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 5 0 0 0 1 6 0
+Weight 1
+Cost 250
+End
+
+#14585
+Name water jug~
+Short a water jug~
+Descr
+A wooden jug with a handle on it is here.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 15 1 0 0 0 0 0 0 0
+Weight 3
+Cost 25
+End
+
+#14586
+Name large torch~
+Short [0m[33ma large torch[0m~
+Descr
+[0m[33mThere is a flaming torch in the ground here.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 1000 1 1 0 0 0 0 0 0
+Weight 1000
+Cost 15
+End
+
+#14587
+Name potatoe sack bag~
+Short [0m[33ma potatoe sack[0m~
+Descr
+A large potatoe sack is lying here.
+[0;36m~
+Type 15
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 1 0 0 0 0 0 0 0 0
+Weight 1
+Cost 100
+End
+
+#14588
+Name flint tinderbox~
+Short a flint~
+Descr
+A flint which is used to start a fire is here.
+[0;36m~
+Type 27
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 10 10 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14589
+Name climbing gear rope grapple hook~
+Short some [0m[33mclimbing [1m[30mgear[0m~
+Descr
+Some climbing gear is piled up here.
+[0;36m~
+Type 22
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 4
+Cost 1000
+End
+
+#14591
+Name leather armor~
+Short some tough leather armor~
+Descr
+Some tough leather armor was left behind.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 5
+Cost 250
+End
+
+#14592
+Name leather gloves~
+Short a pair of leather gloves~
+Descr
+Some tough looking leather gloves were left here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 20 20 0 0
+Weight 1
+Cost 110
+End
+
+#14593
+Name leather boots~
+Short a pair of leather boots~
+Descr
+A pair of tough leather boots are here.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 20 20 0 0
+Weight 2
+Cost 75
+End
+
+#14594
+Name small leather shield~
+Short a small leather shield~
+Descr
+A small round shield is lying here.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 25 25 0 0
+Weight 2
+Cost 100
+End
+
+#14595
+Name fish salmon~
+Short a salmon~
+Descr
+A fish is flopping up and down here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 5
+End
+
+#14596
+Name hamhock~
+Short a hamhock~
+Descr
+Someone left a tasty looking hamhock here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14597
+Name meat~
+Short [31msome bloody meat[0m~
+Descr
+A juicy piece of [31mmeat[0m is here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 7
+End
+
+#14598
+Name thick leather belt~
+Short a thick leather belt~
+Descr
+A thick leather belt can be seen here.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 50 50 0 0
+Weight 1
+Cost 40
+End
+
+#14599
+Name lockpicks picks~
+Short a set of lockpicks~
+Descr
+Some small looking tools were left here.
+[0;36m~
+Type 27
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 10 10 0 0 0 0 0 0 0
+Weight 1
+Cost 500
+End
+
+#14600
+Name wooden canoe~
+Short [0m[33ma wooden canoe[0m~
+Descr
+A wooden canoe is resting here.
+[0;36m~
+Type 35
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 10 10 10 10 0 0 0 0 0
+Weight 50
+Cost 500
+End
+
+#14601
+Name dusty book~
+Short a dusty book~
+Descr
+A book can barely be seen here.
+[0;36m~
+Type 11
+Extra 256
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 3 1 2 0 0
+ExtraDescr dusty book bible~
+In the beginning, Man...
+
+         humans were the dominate race until...
+
+                              race wars.
+
+~
+End
+
+#14602
+Name large chest~
+Short a large chest~
+Descr
+A large looking chest is lying here.
+[0;36m~
+Type 15
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 0 0 0 0 0 0 0 0
+Weight 20
+Cost 1000
+End
+
+#14603
+Name beer barrel~
+Short [0m[33ma wooden barrel[0m~
+Descr
+A barrel was discarded here.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 25 1 0 0 0 0 0 0 0
+Weight 10
+Cost 100
+End
+
+#14604
+Name cheap red wine bottle~
+Short a wine bottle~
+Descr
+A bottle of cheap wine is lying here.
+[0;36m~
+Type 17
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 4 2 0 0 0 0 0 0 0
+Weight 2
+Cost 15
+End
+
+#14605
+Name bookshelf shelf~
+Short [0m[33ma dusty bookshelf[0m~
+Descr
+A dusty unkept bookshelf stands here.
+[0;36m~
+Type 15
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 0 0 0 0
+Weight 10000
+Cost 1
+ExtraDescr dusty bookshelf shelf~
+You see nothing of interest.
+
+~
+End
+
+#14606
+Name fork pitchfork~
+Short a pitchfork~
+Descr
+A pitchfork is lying here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 11 0 0 0 1 5 0
+Weight 2
+Cost 500
+End
+
+#14618
+Name orange~
+Short [7m[33man orange[0m~
+Descr
+A single [7m[33morange[0mwas tossed here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5
+End
+
+#14619
+Name yellow banana~
+Short [1m[33ma banana[0m~
+Descr
+A very long [1m[33mbanana [0mis lying here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#14621
+Name crack opening~
+Short an opening~
+Descr
+An opening behind a single wooden board is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14623 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 1
+ExtraDescr opening~
+You might be able to enter the opening from here.
+
+~
+End
+
+#14622
+Name loaf bread~
+Short [0m[33ma loaf of bread[0m~
+Descr
+A fresh looking loaf of bread is here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 25 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 10
+End
+
+#14623
+Name bagel~
+Short [0m a [33mbagel[0m~
+Descr
+A round piece of bread with a hole in the center is lying here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 5
+End
+
+#14626
+Name crosier pastoral staff~
+Short [0m[33ma Pastoral Staff[0m~
+Descr
+A holy looking staff is lying here.
+[0;36m~
+Type 5
+Extra 545259585
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 7 0 0 0 4 5 0
+Weight 4
+Cost 5000
+Affect 18 3 1 0 0
+Affect 19 2 1 0 0
+End
+
+#14627
+Name vestment alb~
+Short [1m[37ma white Alb[0m~
+Descr
+A beautiful embroidered Alb is lying here.
+[0;36m~
+Type 9
+Extra 8389696
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 40 40 0 0
+Weight 1
+Cost 2500
+Affect 20 -3 1 0 0
+Affect 21 10 1 0 0
+End
+
+#14628
+Name purple stole~
+Short [35ma purple stole[0m~
+Descr
+A long stole was left here.
+[0;36m~
+Type 9
+Extra 8389632
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 40 40 0 0
+Weight 1
+Cost 1000
+End
+
+#14631
+Name warning notice~
+Short a warning notice~
+Descr
+There is a [1m[5mwarning notice[0m here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr warning notice~
+WARNING!!!
+
+ 
+
+There have been reports of very dangerous zombies wandering the cemetary
+
+grounds. They have been seen attacking citizens who enter the area.  Do
+
+not attempt to enter this gate, lest ye be food for the undead.  You
+
+have been warned!
+
+ 
+
+Constable of Marabella
+
+~
+End
+
+#14632
+Name board wood stick 2x4~
+Short [0m[33ma wooden 2x4[0m~
+Descr
+A long piece of wood is lying here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 8 0 0 0 2 4 0
+Weight 2
+Cost 384
+Affect 19 1 1 0 0
+End
+
+#14633
+Name tomb stone tombstone~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Omar
+
+Lived: 233 - 291
+
+Died from unknown disease
+
+~
+End
+
+#14634
+Name stone tomb tombstone~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Krisa
+
+Lived: 245 -
+
+Died at birth by her mother Norma.
+
+~
+End
+
+#14635
+Name tomb stone tombstone~
+Short [1m[37ma tombstone~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Larz
+
+**B0100000023be50
+
+ 
+
+Lived: 241 - 282
+
+Died by a backstab for trying to steal coins from Flynn.
+
+~
+End
+
+#14636
+Name stone tombstone tomb~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Roo
+
+Lived: 246 - 353
+
+Died by old age
+
+~
+End
+
+#14639
+Name stone tombstone tomb~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr stone tombstone~
+Thes
+
+Lived: 333 - 361
+
+Died by eating a poisoned apple.
+
+~
+End
+
+#14640
+Name stone tombstone tomb~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Tars
+
+Lived: 298 - 345
+
+Died in battle from a known Killer.
+
+~
+End
+
+#14641
+Name hole grave~
+Short [0m[33mthe grave[0m~
+Descr
+[0m[33mThere is an empty grave here.[0m
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14650 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+End
+
+#14642
+Name tomb stone tombstone~
+Short [1m[37ma tombstone[0m~
+Descr
+[1m[37mA tombstone is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+ExtraDescr stone tombstone~
+Unknown
+
+Lived: Unknown
+
+Died from starvation and dehydration.
+
+~
+End
+
+#14650
+Name casket coffin box~
+Short [0m[33ma wooden box[0m~
+Descr
+[0m[33mA long wooden box is here.[0m
+[0;36m~
+Type 15
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 5 0 0 0 0 0 0 0 0
+Weight 25000
+Cost 1
+End
+
+#14651
+Name coins gold pile~
+Short [1m[33ma pile of gold[0m~
+Descr
+[1m[33mA small pile of gold is here.[0m
+[0;36m~
+Type 20
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 2 0 0 0 0 0 0 0 0
+Weight 25
+Cost 10
+End
+
+#14653
+Name bone bones skeleton remains~
+Short [1m[37ma skeleton[0m~
+LEffect 4194304
+Descr
+[1m[37mThe remains of someone's body are here.[0m
+[0;36m~
+Type 13
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 10
+End
+
+#14670
+Name grass~
+Short some grass~
+Descr
+Some grass is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14692 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr grass~
+You might be able to enter the thick grass from here.
+
+~
+End
+
+#14671
+Name field~
+Short the field~
+Descr
+A field is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14680 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr field~
+You might be able to enter the field from here.
+
+~
+End
+
+#14672
+Name blade machete long~
+Short a sharp machete~
+Descr
+A rather long looking blade is lying here.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 1 0 0 0 2 4 0
+Weight 4
+Cost 1000
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#14700
+Name steep cliff mountain hill~
+Short a steep cliff~
+Descr
+A steep cliff that is scaleable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14672 14755 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14701
+Name mountain cliff hill steep~
+Short a steep cliff~
+Descr
+A steep cliff that is climable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14751 14806 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14702
+Name steep mountain cliff hill~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 14752 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14703
+Name steep cliff mountain hill~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14562 14753 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14704
+Name cliff mountain hill steep~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14752 14813 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14705
+Name cliff steep mountain hill~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 14754 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14706
+Name steep cliff mountain hill~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14638 14750 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14707
+Name cliff steep mountain hill~
+Short a steep cliff~
+Descr
+A steep cliff that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 14754 14820 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14751
+Name mountain cliff hill~
+Short a steep cliff~
+Descr
+A steep cliff that is scaleable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 14751 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14760
+Name opening cave~
+Short a dark cave~
+Descr
+A dark cave is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14762 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14763
+Name cave opening~
+Short a dark cave~
+Descr
+A dark cave is here.
+[0;36m~
+Type 12
+Extra 65540
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 14763 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14806
+Name steep mountain cliff hill~
+Short a steep mountain~
+Descr
+A steep mountain that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 14755 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14813
+Name steep mountain cliff hill~
+Short a steep mountain~
+Descr
+A steep mountain that is climbable is here.
+[0;36m~
+Type 31
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 14753 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14820
+Name cliff mountain hill steep~
+Short a steep mountain~
+Descr
+A steep mountain that is climbable is here.
+[0;36m~
+Type 31
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 14750 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#14821
+Name muriel penis large GONZO~
+Short with your right hand, Muriel's Penis~
+Descr
+A small dagger is lying on the ground here.
+[0;36m~
+Type 5
+Extra 537001984
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 1 2 0
+Weight 0
+Cost 0
+End
+
+#14824
+Name slate~
+Short a small piece of rock~
+Descr
+A small piece of rock is here.
+[0;36m~
+Type 12
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 100 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#939
+Name diamond studded earring~
+Short [1m[37ma diamond-studded earring[0m~
+Descr
+A beautiful looking diamond can barely be seen here.
+[0;36m~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 50 50 0 0
+Weight 1
+Cost 940
+Affect 17 -2 1 0 0
+End
+
+#940
+Name shiny jagged stiletto~
+Short [1m[37ma shiny jagged Stiletto[0m~
+Descr
+A very shiny jagged weapon [1m[37mglows[0m here.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 11 0 0 0 3 7 0
+Weight 5
+Cost 7563
+Affect 19 2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#941
+Name shiny silver plated breastplate~
+Short a shiny silver breastplate~
+Descr
+A shiny breastplate almost blinds you as you look at it.
+[0;36m~
+Type 9
+Extra 8389633
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 6
+Cost 3755
+Affect 14 -10 1 0 0
+End
+
+#942
+Name excalibur sword~
+Short excalibur[0m~
+Descr
+A fine looking sword was carelessly dropped here.
+[0;36m~
+Type 5
+Extra 538968065
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 24 0 3 0 0 0 2 8 0
+Weight 10
+Cost 11055
+Affect 18 2 1 0 0
+Affect 19 2 1 0 0
+End
+
+#990
+Name apple pie~
+Short [0m[33man [33mapple [0m[33mpie[0m~
+Descr
+A delicious looking pie is here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#991
+Name hat miter~
+Short [1m[37ma miter[0m~
+Descr
+A beautifully made hat is lying here.
+[0;36m~
+Type 9
+Extra 545259584
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 40 40 0 0
+Weight 1
+Cost 3000
+Affect 3 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#14500
+Name Mara;Marabella Central Square~
+Descr
+Central Square is in the heart of Marabella.  Here, people gather to
+exchange goods, socialize, or just pass through.  The city is alive and well,
+always active and always growing to accomodate the citizens that live here now
+as well as the newcomers that arrive daily.  North of here is a giant white
+cross that is right in front of a church where people pray and worship the Gods
+of the world.  Main Street runs east and west of here, Mourner's Way is south,
+and north is Summoner's Lane.
+~
+Flags 16
+Reset O 14500 -5 100
+Reset O 14501 -5 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset O 14502 -3 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14720 0 0
+~
+~
+Door 1 0 0 14506 30 30
+~
+door~
+Door 2 0 0 14512 30 30
+~
+door~
+Door 3 0 0 14501 30 30
+~
+door~
+Door 5 259 0 1199 30 30
+~
+metaldoor~
+End
+
+#14501
+Name West Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  North is a Armourer and south is a Magic Shop. 
+You feel a strange aura coming from the south.  
+~
+Reset M 14586 1 100
+Movemess
+(null)~
+Door 0 0 0 14591 30 30
+~
+door~
+Door 1 0 0 14500 30 30
+~
+door~
+Door 2 0 0 14594 30 30
+~
+door~
+Door 3 0 0 14502 30 30
+~
+door~
+End
+
+#14502
+Name West Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  South is a store, and north is a Butcher Shop.
+~
+Reset M 14504 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14595 30 30
+~
+door~
+Door 1 0 0 14501 30 30
+~
+door~
+Door 2 0 0 14596 30 30
+~
+door~
+Door 3 0 0 14503 30 30
+~
+door~
+End
+
+#14503
+Name West Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  North is a Gemologist and south is a Treasure Shop.
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 14597 30 30
+~
+door~
+Door 1 0 0 14502 30 30
+~
+door~
+Door 2 0 0 14598 30 30
+~
+door~
+Door 3 0 0 14504 30 30
+~
+door~
+End
+
+#14504
+Name Inside West Gate~
+Descr
+Here, just inside the massive gate and wall that surrounds the city, you
+can't help but feel safe and protected.  The main street runs east, which
+is the business district and north and south is a path that hugs the wall.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14500 10 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14721 0 0
+~
+~
+Door 1 0 0 14503 30 30
+~
+door~
+Door 2 0 0 14521 30 30
+~
+door~
+Door 3 1 14511 14505 30 30
+~
+gate~
+End
+
+#14505
+Name Outside West Gate of Marabella~
+Descr
+You are just outside the west gate of Marabella.  Here, the city is usually
+guarded by highly skilled protectors whom serve to protect the citizens from
+any intruders who are known Assassins, Thieves, and deadly Killers.
+There is a narrow path that runs through a grassy field west of here.
+~
+Flags 2
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14509 8 100
+Reset M 14509 8 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The grass is too thick and dense to enter from here.
+~
+(null)~
+Door 1 1 14511 14504 30 30
+~
+gate~
+Door 2 0 0 0 30 30
+The grass is too thick and dense to enter from here.
+~
+(null)~
+Door 3 0 0 14670 30 30
+~
+(null)~
+End
+
+#14506
+Name East Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  North is a Weaponshop, and south is the City Bank.
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 14592 30 30
+~
+door~
+Door 1 0 0 14507 30 30
+~
+door~
+Door 2 0 0 14593 30 30
+~
+door~
+Door 3 0 0 14500 30 30
+~
+door~
+End
+
+#14507
+Name East Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  South is a Locksmith and north is a Adventurer Shop.
+~
+Reset M 14504 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14619 30 30
+~
+door~
+Door 1 0 0 14508 30 30
+~
+door~
+Door 2 0 0 14599 30 30
+~
+door~
+Door 3 0 0 14506 30 30
+~
+door~
+End
+
+#14508
+Name East Main Street~
+Descr
+Here on Main Street, you notice the many shops that are built along this
+road.  The road itself is made of cobblestone, which was added much later
+due to the heavy rains that made it impossible for the shopkeepers to open
+because of the flooding.  North is a shop, and just south is a Library.
+~
+Reset M 14508 1 100
+Reset O 14508 21 100
+Reset O 14508 22 100
+Movemess
+(null)~
+Door 0 0 0 14600 30 30
+~
+door~
+Door 1 0 0 14509 30 30
+~
+door~
+Door 2 0 0 14601 30 30
+~
+door~
+Door 3 0 0 14507 30 30
+~
+door~
+End
+
+#14509
+Name Inside East Gate~
+Descr
+Here, just inside the massive gate and wall that surrounds the city, you
+can't help but feel safe and protected.  The main street runs west, which
+is the business district and north and south is a path that hugs the wall.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14501 10 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14719 0 0
+~
+~
+Door 1 1 14511 14510 30 30
+~
+gate~
+Door 2 0 0 14529 30 30
+~
+door~
+Door 3 0 0 14508 30 30
+~
+door~
+End
+
+#14510
+Name Outside East Gate of Marabella~
+Descr
+You are just outside the east gate of Marabella.  Here, the city is usually
+guarded by highly skilled protectors whom serve to protect the citizens from
+any intruders who are known Assassins, Thieves, and deadly Killers.
+There is a path north and south of here.
+~
+Flags 2
+Sector 2
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14509 8 100
+Reset M 14509 8 100
+Movemess
+(null)~
+Door 1 0 0 29034 0 0
+~
+~
+Door 3 1 14511 14509 30 30
+~
+gate~
+End
+
+#14511
+Name Summoner's Lane~
+Descr
+You are at the intersection of Summoner's Lane and Market Street.  East
+and west on Market Street, are where the shop owners of the city live.
+They are far from being rich, but do live in modest looking houses. South
+is Central Square and just north is a church.
+~
+Reset M 14504 10 100
+Movemess
+(null)~
+Door 0 0 0 14544 30 30
+~
+door~
+Door 1 0 0 14570 30 30
+~
+door~
+Door 2 0 0 14723 0 0
+~
+~
+Door 3 0 0 14567 30 30
+~
+door~
+End
+
+#14512
+Name Mourner's Way~
+Descr
+You are at the intersection of Mourner's Way and Tristan Avenue.  Tristan
+Avenue was named after Tristan, who is a world famous Cartographer.  His
+small shop of maps and graphs are not far from here.
+North is Central Square.
+~
+Reset M 14501 10 100
+Reset M 14504 10 100
+Movemess
+(null)~
+Door 0 0 0 14500 30 30
+~
+door~
+Door 2 0 0 14513 30 30
+~
+door~
+End
+
+#14513
+Name Mourner's Way~
+Descr
+You are at the intersection of Mourner's Way and Deadman's Alley.  The
+local residents of Marabella try to keep clear of the alley here, because
+many have died by the evilest of hands.
+~
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14512 30 30
+~
+door~
+Door 1 0 0 14552 0 0
+~
+~
+Door 2 0 0 14715 0 0
+~
+~
+End
+
+#14514
+Name Inside South Gate~
+Descr
+Here, just inside the massive gate and wall that surrounds the city, you
+can't help but feel safe and protected.  Mourner's Way runs north, which
+leads into the city.  East and west is a path that hugs the wall.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14713 0 0
+~
+~
+Door 1 0 0 14557 30 30
+~
+door~
+Door 2 0 0 14515 0 0
+~
+~
+Door 3 0 0 14541 30 30
+~
+door~
+End
+
+#14515
+Name Outside South Gate~
+Descr
+You are just outside the south gate of Marabella.  Here, the city is usually
+guarded by highly skilled protectors whom serve to protect the citizens from
+any intruders who are known Assassins, Thieves, and deadly Killers.
+There is a path east and south of here.
+~
+Flags 2
+Sector 2
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14509 8 100
+Reset M 14509 8 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14514 0 0
+~
+~
+Door 2 0 0 14520 30 30
+~
+door~
+Door 3 0 0 0 30 30
+A very large tree keeps you from moving west.
+~
+(null)~
+End
+
+#14516
+Name Deadman's Alley~
+Descr
+The stench here is horrendous, but you can smell a breath of fresh air
+waft in from the east.  To the east lies the large avenue named Mourner's
+Way, and the alley continues to the west.  
+~
+Shd 1
+Reset M 14517 1 100
+Reset M 14516 1 100
+Movemess
+(null)~
+Door 1 0 0 14540 0 0
+~
+~
+Door 3 0 0 14517 30 30
+~
+door~
+End
+
+#14517
+Name Deadman's Alley~
+Descr
+You stand in a narrow part of Deadman's Alley that runs to the east and
+west here.  Large stone walls block the way to the north and south, and to
+the southwest you can see Paul's Hangout, the famous rowdy pub of Marabella.
+~
+Shd 1
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14516 30 30
+~
+door~
+Door 3 0 0 14555 30 30
+~
+door~
+End
+
+#14518
+Name Deadman's Alley~
+Descr
+The stale air is filled with the horrible stench of rotting ale, and you
+have a strange feeling of uneasiness as you stand in this alley.  You can
+see Mourner's Way to the west.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 14519 30 30
+~
+door~
+Door 3 0 0 14540 0 0
+~
+~
+End
+
+#14519
+Name Deadman's Alley~
+Descr
+This alleyway runs east and west.  The smell of vomit and stale ale
+lingers in the still air, and you begin to feel nautious.  You can see
+Mourner's Way far to the west, and the walls of Marabella to the east a
+ways.  
+~
+Shd 1
+Reset M 14519 1 100
+Reset O 940 21 1
+Reset O 14506 25 32
+Reset O 14530 11 53
+Reset O 14531 7 44
+Reset O 14532 4 1
+Reset O 14533 8 3
+Reset O 939 -1 19
+Reset O 14599 22 88
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14556 30 30
+~
+door~
+Door 3 0 0 14518 30 30
+~
+door~
+End
+
+#14520
+Name A Well-Worn Dirt Path~
+Descr
+You are on a well-worn dirt path that has many footprints.  The surrounding
+area here is covered with plush green grass with a few scattered trees.
+The path continues south, and just north is a large gate.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14515 30 30
+~
+door~
+Door 1 0 0 0 30 30
+A mystical force keeps you from going there.
+~
+(null)~
+Door 2 0 0 14630 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+A mystical force keeps you from going there.
+~
+(null)~
+End
+
+#14521
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and east is Tristan Avenue.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Movemess
+(null)~
+Door 0 0 0 14504 30 30
+~
+door~
+Door 2 0 0 14522 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14522
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and east is an alley.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14521 30 30
+~
+door~
+Door 2 0 0 14718 0 0
+~
+~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14523
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and east is Auction Place.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Movemess
+(null)~
+Door 0 0 0 14718 0 0
+~
+~
+Door 1 0 0 14555 0 0
+~
+~
+Door 2 0 0 14725 0 0
+~
+~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14524
+Name Southwest Corner Tower~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north, east, and up is a tower.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14504 10 100
+Reset M 14575 5 75
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14716 0 0
+~
+~
+Door 1 0 0 14543 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 4 0 0 14558 0 0
+~
+~
+End
+
+#14525
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north, south, and east is Market Street.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 14526 30 30
+~
+door~
+Door 1 0 0 14569 30 30
+~
+door~
+Door 2 0 0 14724 0 0
+~
+~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14526
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north, south, and east is Ash Street.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14527 30 30
+~
+door~
+Door 2 0 0 14525 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14527
+Name West Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and east is a dirty alley.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14501 10 100
+Movemess
+(null)~
+Door 0 0 0 14548 0 0
+~
+~
+Door 1 0 0 14578 30 30
+~
+door~
+Door 2 0 0 14526 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14528
+Name Northwest Corner Tower~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues south, east, and up is a tower.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14504 10 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14584 30 30
+~
+door~
+Door 2 0 0 14548 0 0
+~
+~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 4 0 0 14561 0 0
+~
+~
+End
+
+#14529
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and west is Tristan Avenue.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14504 10 100
+Movemess
+(null)~
+Door 0 0 0 14509 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14530 30 30
+~
+door~
+End
+
+#14530
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and west is an alley.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14529 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14712 0 0
+~
+~
+Door 3 0 0 14554 0 0
+~
+~
+End
+
+#14531
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and west is Auction Place.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 14712 0 0
+~
+~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14709 0 0
+~
+~
+Door 3 0 0 14556 0 0
+~
+~
+End
+
+#14532
+Name Southeast Corner Tower~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north, west, and up is a tower.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14504 10 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14710 0 0
+~
+~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14537 30 30
+~
+door~
+Door 4 0 0 14559 0 0
+~
+~
+End
+
+#14533
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and west is Market Street.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Movemess
+(null)~
+Door 0 0 0 14534 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14722 0 0
+~
+~
+Door 3 0 0 14572 30 30
+~
+door~
+End
+
+#14534
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path contineus north and south, and west is Ash Street.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14535 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14533 30 30
+~
+door~
+End
+
+#14535
+Name East Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues north and south, and west is a dirty alley.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14564 0 0
+~
+~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14534 30 30
+~
+door~
+Door 3 0 0 14575 30 30
+~
+door~
+End
+
+#14536
+Name Northeast Corner Tower~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues south, west, and up is a tower.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14504 10 100
+Reset M 14575 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14564 0 0
+~
+~
+Door 3 0 0 14579 30 30
+~
+door~
+Door 4 0 0 14560 0 0
+~
+~
+End
+
+#14537
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14532 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14538 30 30
+~
+door~
+End
+
+#14538
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14537 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14557 30 30
+~
+door~
+End
+
+#14539
+Name Mose's Home~
+Descr
+You stand in Mose's house, which is moderately furnished and well kept,
+which is suprising considering the dirty hell-hole of an alley this house is
+located on.  To the south you can see the slime and muck-covered alleyway.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14574 30 30
+~
+door~
+End
+
+#14540
+Name Mourner's Way~
+Descr
+You are at the intersection of Mourner's Way and Auction Place.  Here,
+many items are sold in secret in the black market.  Although, it is against
+the law, most haggle and trade away unlawful items anyway.
+South is a large gate.
+~
+Reset M 14500 10 100
+Movemess
+(null)~
+Door 0 0 0 14715 0 0
+~
+~
+Door 1 0 0 14518 0 0
+~
+~
+Door 2 0 0 14726 0 0
+~
+~
+Door 3 0 0 14516 0 0
+~
+~
+End
+
+#14541
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14514 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14542 30 30
+~
+door~
+End
+
+#14542
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14541 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14543 30 30
+~
+door~
+End
+
+#14543
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14542 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14524 30 30
+~
+door~
+End
+
+#14544
+Name Summoner's Lane~
+Descr
+You are at the intersection of Summoner's Lane and Ash Street.  Before
+you is the largest wooden cross you have ever seen.  Surrounding the
+cross, is a very beautiful flower garden that shines it's colors brightly.
+High above, nailed to the cross, a figure can be seen.
+~
+ExtraDescr up~
+You notice a figure nailed to the cross.
+
+~
+ExtraDescr figure cross~
+You see a wooden figure that is nailed to the cross.
+
+~
+ExtraDescr flower garden~
+The garden is full of colorful flowers.
+
+~
+Reset O 14544 -5 100
+Reset M 14544 1 100
+Reset O 14511 22 100
+Reset M 14500 10 100
+Reset M 14503 1 100
+Reset O 14520 10 100
+Reset O 14521 12 100
+Reset O 14522 8 100
+Reset O 14523 2 100
+Reset O 14524 5 100
+Reset O 941 4 100
+Reset O 942 21 1
+Reset O 14527 7 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 14545 30 30
+~
+door~
+Door 2 0 0 14511 30 30
+~
+door~
+End
+
+#14545
+Name Summoner's Lane~
+Descr
+This is the intersection of Summoner's Lane and an alley.  Most of the poor
+citizens of Marabella live in the alley here, which is the poorest part of
+town.  Some try to make a decent living, while others steal from visitors.
+North is a large gate.
+~
+Reset M 14575 10 100
+Movemess
+(null)~
+Door 0 0 0 14563 0 0
+~
+~
+Door 1 0 0 14573 30 30
+~
+door~
+Door 2 0 0 14544 30 30
+~
+door~
+Door 3 0 0 14576 30 30
+~
+door~
+End
+
+#14546
+Name Inside North Gate~
+Descr
+Here, just inside the massive gate and wall that surrounds the city, you
+can't help but feel safe and protected.  Summoner's Lane runs south, which
+leads into the city.  East and west is a path that hugs the wall.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14501 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 3 14511 14562 30 30
+~
+gate~
+Door 1 0 0 14581 30 30
+~
+door~
+Door 2 0 0 14563 0 0
+~
+~
+Door 3 0 0 14582 30 30
+~
+door~
+End
+
+#14547
+Name Ash Street~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  You can see Summoner's Lane to the
+west of here.  
+~
+Movemess
+(null)~
+Door 1 0 0 14565 30 30
+~
+door~
+End
+
+#14548
+Name West Wall~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  You can see Summoner's Lane to the
+east of here.  
+~
+Movemess
+(null)~
+Door 0 0 0 14528 0 0
+~
+~
+Door 2 0 0 14527 0 0
+~
+~
+End
+
+#14549
+Name West Tristan Avenue~
+Descr
+As you look around as you stroll down West Tristan Avenue, you notice
+several interesting quartz cobblestones underfoot.  You try to pry one
+loose, but they are stuck hard into the ground.  The avenue runs east and
+west from here.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 3 0 0 14550 30 30
+~
+door~
+End
+
+#14550
+Name West Tristan Avenue~
+Descr
+You journey upon the large avenue named after the great cartographer,
+Tristan, who owns a shop on East Tristan Avenue.  The road continues to the
+east and west here, and a ways off to the west you can see the great walls
+of Marabella rise up, towering into the sky.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14549 30 30
+~
+door~
+Door 3 0 0 14551 30 30
+~
+door~
+End
+
+#14551
+Name West Tristan Avenue~
+Descr
+You stand on West Tristan Avenue, just east of the western wall road. 
+The stones underfoot are smooth and well-rounded, and you realize this
+street has been around for many centuries longer than you have.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14550 30 30
+~
+door~
+End
+
+#14552
+Name East Tristan Avenue~
+Descr
+You stand on East Tristan Avenue, just east of the large street,
+Mourner's Way.  You can see Tristan's carography stall to the northeast of
+here.  The cobbles underfoot are well worn and you wonder how old the city
+of Marabella really is.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14553 30 30
+~
+door~
+Door 3 0 0 14513 0 0
+~
+~
+End
+
+#14553
+Name East Tristan Avenue~
+Descr
+You stand on East Tristan Avenue, just south of Tristan's Cartography
+stall, where the great adventurers of the world meet to offer their
+knowledge and stories of adventure to Tristan.  East Tristan Avenue runs
+east and west for as far as you can see.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 14603 30 30
+~
+door~
+Door 1 0 0 14554 30 30
+~
+door~
+Door 2 3 0 14624 30 30
+~
+door~
+Door 3 0 0 14552 30 30
+~
+door~
+End
+
+#14554
+Name East Tristan Avenue~
+Descr
+As you look around East Tristan Avenue, your attention is drawn to the
+rounded and worn cobbles underfoot.  Some of them look like they could be
+hundreds of years old, and you begin thinking about how old Marabella may
+be.  You can see the city walls a ways to the east of here.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14530 0 0
+~
+~
+Door 3 0 0 14553 30 30
+~
+door~
+End
+
+#14555
+Name Deadman's Alley~
+Descr
+You stand in a dirty alleyway, which is quite narrow and smelly.  A
+strange sense of unease creeps over you, and you feel like you are being
+watched.  The rowdy pub named Paul's Hangout can be seen to the south.  
+~
+Shd 1
+Reset M 14555 1 100
+Reset O 14604 21 100
+Movemess
+(null)~
+Door 1 0 0 14517 30 30
+~
+door~
+Door 2 0 0 14602 30 30
+~
+door~
+Door 3 0 0 14523 0 0
+~
+~
+End
+
+#14556
+Name Deadman's Alley~
+Descr
+You stand in a tight, narrow alley named "Deadman's Alley."  You have an
+eerie feeling that someone is watching you from an unseen hiding place.  The
+alley continues to the east and west here, and you can see large chunks of
+vomit along the side of the alley.  
+~
+Shd 1
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14531 0 0
+~
+~
+Door 3 0 0 14519 30 30
+~
+door~
+End
+
+#14557
+Name South Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14538 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 3 0 0 14514 30 30
+~
+door~
+End
+
+#14558
+Name Southwest Tower~
+Descr
+You are up in the lookout tower high above the city of Marabella.  From 
+here, you can see the surrounding area outside the city and inside the city
+walls as well.  You notice a large drinking fountain just northeast of here.
+~
+Flags 6
+Reset M 14558 4 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 5 0 0 14524 0 0
+~
+~
+End
+
+#14559
+Name Southeast Tower~
+Descr
+You are up in the lookout tower high above the city of Marabella.  From
+here, you can see the surrounding area outside the city and inside the city
+walls as well.  You notice a large drinking fountain just northwest of here.
+~
+Flags 6
+Reset M 14558 4 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 5 0 0 14532 0 0
+~
+~
+End
+
+#14560
+Name Northeast Tower~
+Descr
+You are up in the lookout tower high above the city of Marabella.  From
+here, you can see the surrounding area outside the city and inside the city
+walls as well.  You notice a large drinking fountain just southwest of here.
+~
+Flags 6
+Reset M 14558 4 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 5 0 0 14536 0 0
+~
+~
+End
+
+#14561
+Name Northwest Tower~
+Descr
+You are up in the lookout tower high above the city of Marabella.  From
+here, you can see the surrounding area outisde the city and inside the city
+walls as well.  You notice a large drinking fountain just southeast of here.
+~
+Flags 6
+Reset M 14558 4 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 5 0 0 14528 0 0
+~
+~
+End
+
+#14562
+Name Outside North Gate~
+Descr
+You are just outside the north gate of Marabella.  Here, the city is usually
+guarded by highly skilled protectors whom serve to protect the citizens from
+any intruders who are known Assassins, Thieves, and deadly Killers.
+There is a path east and west of here.
+~
+Flags 2
+Sector 2
+ExtraDescr gate~
+The massive gate looks strong and sturdy.
+
+~
+Reset M 14509 8 100
+Reset M 14509 8 100
+Reset O 14702 -5 100
+Movemess
+(null)~
+Door 2 3 14511 14546 30 30
+~
+gate~
+End
+
+#14563
+Name Summoner's Lane~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  There is a slight odor of filth
+and rotting garbage here.  
+~
+Movemess
+(null)~
+Door 0 0 0 14546 0 0
+~
+~
+Door 2 0 0 14545 0 0
+~
+~
+End
+
+#14564
+Name East Wall~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  You can see the western walls of
+Marabella a ways off to the west of here.  
+~
+Movemess
+(null)~
+Door 0 0 0 14536 0 0
+~
+~
+Door 2 0 0 14535 0 0
+~
+~
+End
+
+#14565
+Name Ash Street~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  This part of town looks moderately
+wealthy, and although you still feel uneasy in Marabella, this place seems
+semi-safe.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14566 30 30
+~
+door~
+Door 3 0 0 14547 30 30
+~
+door~
+End
+
+#14566
+Name Ash Street~
+Descr
+You stand upon ash street, a very plain and non-descript street.  It runs
+east and west here, and is fairly clean.  You can see the large, towering
+walls of the city a ways off to the east, and also the road that runs along
+the wall.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 3 0 0 14565 30 30
+~
+door~
+End
+
+#14567
+Name Market Street~
+Descr
+You stand on Market Street, just to the west of Summoner's Lane.  To both
+the north and south, you can see large homes which belong to residents of
+the fair city.  To the west, Market Street continues, eventually ending at
+the town walls.  
+~
+Reset M 14567 1 100
+Reset O 14567 21 100
+Reset M 14500 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 3 0 14617 30 30
+~
+door~
+Door 1 0 0 14511 30 30
+~
+door~
+Door 2 3 0 14611 30 30
+~
+door~
+Door 3 0 0 14568 30 30
+~
+door~
+End
+
+#14568
+Name Market Street~
+Descr
+You stand on market street, oddly named, since you notice the many
+residences and small houses all around you.  The street has been carefully
+swept, and there is a pile of litter carefully shoved into a gutter here.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 3 0 14612 30 30
+~
+door~
+Door 1 0 0 14567 30 30
+~
+door~
+Door 2 3 0 14613 30 30
+~
+door~
+Door 3 0 0 14569 30 30
+~
+door~
+End
+
+#14569
+Name Market Street~
+Descr
+You stand on Market Street, just east of the west wall road.  To the
+north and south, you can see quaint little houses, and you realize this is a
+more residential area of town.  Far to the east you can make out Mourner's
+Way, and a ways to the west you can see the large city walls.  
+~
+Reset M 14500 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 3 0 14615 30 30
+~
+door~
+Door 1 0 0 14568 30 30
+~
+door~
+Door 2 3 0 14614 30 30
+~
+door~
+Door 3 0 0 14525 30 30
+~
+door~
+End
+
+#14570
+Name Market Street~
+Descr
+As you stroll along this large avenue, you notice the cleanliness and
+fresh smell to the air here.  You can see Summoner's Lane to the west of
+here, and large, rich-looking residences can be seen to the north and south.
+~
+Reset M 14500 10 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 3 0 14609 30 30
+~
+door~
+Door 1 0 0 14571 30 30
+~
+door~
+Door 2 3 0 14616 30 30
+~
+door~
+Door 3 0 0 14511 30 30
+~
+door~
+End
+
+#14571
+Name Market Street~
+Descr
+The Market Street stretches east and west from here, ending a ways to the
+east at the city walls of Marabella.  Far to the west you can make out
+Summoner's Lane, and to the north and house you can see yet more residences.
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 3 0 14610 36 36
+~
+door~
+Door 1 0 0 14572 30 30
+~
+door~
+Door 2 3 0 14620 36 36
+~
+door~
+Door 3 0 0 14570 30 30
+~
+door~
+End
+
+#14572
+Name Market Street~
+Descr
+You stand on the eastern end of Market Street.  The massive city walls of
+Marabella tower above you a ways off to the east.  You can see Jessica's
+Organic shop to the north, and her own private residence to the south.  
+~
+Reset M 14500 10 100
+Reset O 14586 -5 100
+Reset M 14617 1 100
+Movemess
+(null)~
+Door 0 0 0 14618 30 30
+~
+door~
+Door 1 0 0 14533 30 30
+~
+door~
+Door 2 3 0 14604 30 30
+~
+door~
+Door 3 0 0 14571 30 30
+~
+door~
+End
+
+#14573
+Name A Dirty Alley~
+Descr
+The filth and dirt of this alley immediately draws your attention; piles
+of debris and litter are all over the ground, and the cobbles are dirty and
+slime runs in between them.  The alley continues east, and to the west is
+Summoner.  
+~
+Shd 1
+Reset M 14501 10 100
+Movemess
+(null)~
+Door 1 0 0 14574 30 30
+~
+door~
+Door 3 0 0 14545 30 30
+~
+door~
+End
+
+#14574
+Name A Dirty Alley~
+Descr
+This dirty alleyway stinks of wet dog and rotten eggs.  To the north you
+can see a nice home, which is suprising considering its horrible location
+here.  The alleyway continues east and west.  
+~
+Shd 1
+Reset M 14574 1 100
+Reset O 14574 21 100
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 3 0 14539 30 30
+~
+door~
+Door 1 0 0 14575 30 30
+~
+door~
+Door 3 0 0 14573 30 30
+~
+door~
+End
+
+#14575
+Name A Dirty Alley~
+Descr
+You stand in a dirty alleyway; however the wonderful smell of fresh bread
+wafts in from the north, and almost seems to push you into Anita's bakery. 
+You can see the large walls of Marabella to the east, and the alley
+continues to the west.  
+~
+Shd 1
+Reset M 14501 10 100
+Movemess
+(null)~
+Door 0 0 0 14622 30 30
+~
+door~
+Door 1 0 0 14535 30 30
+~
+door~
+Door 3 0 0 14574 30 30
+~
+door~
+End
+
+#14576
+Name A Dirty Alley~
+Descr
+A horrible stench assaults your nostrils, making you wheeze and gag.  You
+see Summoner's Lane to the east, and feel anxious to get onto a large street
+that may not smell so bad.  
+~
+Shd 1
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14545 30 30
+~
+door~
+Door 3 0 0 14577 30 30
+~
+door~
+End
+
+#14577
+Name A Dirty Alley~
+Descr
+The filth on the side of the street is horrendous, and you think you
+notice some human excrement piled into the corner of the alley here.  You
+can hear some shouting from nearby, and you feel like this is not such a
+safe part of town.  
+~
+Shd 1
+Reset M 14577 1 100
+Reset M 14501 10 100
+Movemess
+(null)~
+Door 0 515 0 14608 30 30
+~
+door~
+Door 1 0 0 14576 30 30
+~
+door~
+Door 3 0 0 14578 30 30
+~
+door~
+End
+
+#14578
+Name A Dirty Alley~
+Descr
+You stand in a horrendously dirty alleyway, just east of the western wall
+road.  To the north you can see the stables, which only increase the
+already-horrible stench of this place.  
+~
+Shd 1
+Reset O 14586 -5 100
+Reset M 14610 1 100
+Movemess
+(null)~
+Door 0 0 0 14605 30 30
+~
+door~
+Door 1 0 0 14577 30 30
+~
+door~
+Door 3 0 0 14527 30 30
+~
+door~
+End
+
+#14579
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14536 30 30
+~
+door~
+Door 3 0 0 14580 30 30
+~
+door~
+End
+
+#14580
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14579 30 30
+~
+door~
+Door 3 0 0 14581 30 30
+~
+door~
+End
+
+#14581
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14580 30 30
+~
+door~
+Door 3 0 0 14546 30 30
+~
+door~
+End
+
+#14582
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14546 30 30
+~
+door~
+Door 3 0 0 14583 30 30
+~
+door~
+End
+
+#14583
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14582 30 30
+~
+door~
+Door 3 0 0 14584 30 30
+~
+door~
+End
+
+#14584
+Name North Wall~
+Descr
+You are on a narrow path that runs along the wall that surrounds Marabella.
+The wall itself is made of stone and stands 20 feet high and is unclimbable.
+There is barely enough room for two here as you brush up against the wall.
+The path continues east and west from here.
+~
+ExtraDescr wall~
+The wall is made of stone.
+
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 14583 30 30
+~
+door~
+Door 3 0 0 14528 30 30
+~
+door~
+End
+
+#14585
+Name Auction Place~
+Descr
+The large stone-road here serves as a great place of business interaction
+here in the great city of Marabella.  You can see Mourner's way just to the
+east of here, and the Auction Place continues to the west.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14714 0 0
+~
+~
+Door 3 0 0 14586 30 30
+~
+door~
+End
+
+#14586
+Name Auction Place~
+Descr
+The Auction Place continues east and west here, and you can make out some
+sort of store to the southwest.  The stone street is clean, and this part of
+Marabella speaks of riches and wealthy citizens.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14585 30 30
+~
+door~
+Door 3 0 0 14587 30 30
+~
+door~
+End
+
+#14587
+Name Auction Place~
+Descr
+You stand on a large, clean Auction Place that runs east-west in the
+great city of Marabella.  You can see a large open shop to the south where
+you may purchase dogs and other fine animals.  You can see the west wall of
+Marabella just to the west of here.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14586 30 30
+~
+door~
+Door 2 0 0 14626 30 30
+~
+door~
+Door 3 0 0 14717 0 0
+~
+~
+End
+
+#14588
+Name Auction Place~
+Descr
+You stand on the great auction way of Marabella, just east of the
+north-south Mourner's Way.  You can see an old, abandoned house to the
+southeast, and although this road looks clean and well-kept up, you still
+don't feel entirely safe here.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14589 30 30
+~
+door~
+Door 3 0 0 14714 0 0
+~
+~
+End
+
+#14589
+Name Auction Place~
+Descr
+The stones underfoot here are rough and a bit uneven, and an old
+abandoned house rises up south of here.  The auction place continues a ways
+off to the east and west, and you can make out Mourner's Way in the distance
+to the west.  
+~
+Reset M 14510 25 100
+Movemess
+(null)~
+Door 1 0 0 14590 30 30
+~
+door~
+Door 2 0 0 14621 30 30
+~
+door~
+Door 3 0 0 14588 30 30
+~
+door~
+End
+
+#14590
+Name Auction Place~
+Descr
+You stand on auction place in the city of Marabella.  You can see the
+large, towering eastern city walls rise up before you a ways to the east,
+and you notice an old-looking house to the southwest.  The street here is
+clean, and you realize you are in a good part of town.  
+~
+Reset O 14586 -5 100
+Movemess
+(null)~
+Door 1 0 0 14711 0 0
+~
+~
+Door 3 0 0 14589 30 30
+~
+door~
+End
+
+#14591
+Name Bruto's Armoury~
+Descr
+You have entered the Armor Shop.  On the walls are some of the finest
+pieces of armor ever made.  In the back of the shop you notice an advil and
+a sewing kit near a wooden table, which are used to make minor repairs to
+armor.  Standing in the far corner of the room stands a large square shield.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+ExtraDescr large square shield~
+You see a rather large shield with an insignia of a holy cross.
+
+~
+Reset M 14591 1 100
+Reset O 14591 -1 100
+Reset O 14593 -1 100
+Reset O 14592 -1 100
+Reset O 14594 -1 100
+Reset O 14598 -1 100
+Movemess
+(null)~
+Door 2 0 0 14501 30 30
+~
+door~
+End
+
+#14592
+Name Conan's Weaponry~
+Descr
+You have entered the Weapon Shop.  There is a rather large display case
+here, that is full of many types of weapons you can buy.  On the wall, you
+notice a few rare weapons which are not for sale, but are nice to look at.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+ExtraDescr large display case~
+You see some very nice weapons laid out in the display case.
+
+~
+ExtraDescr wall~
+On the wall are some of Conan's antique weapons which date back many years.
+
+~
+Reset M 14592 1 100
+Reset O 14580 -1 100
+Reset O 14581 -1 100
+Reset O 14582 -1 100
+Reset O 14583 -1 100
+Reset O 14584 -1 100
+Movemess
+(null)~
+Door 2 0 0 14506 30 30
+~
+door~
+End
+
+#14593
+Name The City Bank~
+Descr
+You have entered the City Bank.  To the left are some deposit and withdraw
+slips and seen way in the back, is a very large safe.  There is a sign here.
+North is Main Street.
+~
+Flags 17428
+Sector 0
+ExtraDescr sign~
+----------------------------
+
+| You may do the following:|
+
+|                          |
+
+|Deposit  <amount> <coins> |
+
+|Withdraw <amount> <coins> |
+
+|Balance                   |
+
+----------------------------
+
+~
+Reset M 14593 1 100
+Movemess
+(null)~
+Door 0 0 0 14506 30 30
+~
+door~
+Door 4 3 0 14643 30 30
+~
+door~
+End
+
+#14594
+Name Merlin's Magic Shop~
+Descr
+You have entered the Magic Shop.  Here, all types of magical items may be
+purchased or sold.  Potions of all colors can be seen displayed in the back
+next to some herbs.  Scrolls, wands, and staffs are piled up neatly on a
+table in the corner.  Pills are sold here, but are limited and hard to find.
+~
+Flags 17428
+Sector 0
+ExtraDescr ball crystal~
+As you look into the crystal ball you see...
+
+ 
+
+Yourself fleeing from someone who is trying to kill you.
+
+~
+ExtraDescr clue~
+Clue #4 Seek out the master tracker, he guards the next.
+
+~
+Reset M 14594 1 100
+Reset O 14555 -1 100
+Reset O 14556 -1 100
+Movemess
+(null)~
+Door 0 0 0 14501 30 30
+~
+door~
+End
+
+#14595
+Name Korgon's Butchery~
+Descr
+You have entered a Butcher Shop.  Meat, fish and poultry can be seen here
+on ice.  All food brought here came from the surrounding area of Marabella
+by the local hunters and fishermen.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14595 1 100
+Reset O 14595 -1 100
+Reset O 14596 -1 100
+Reset O 14597 -1 100
+Movemess
+(null)~
+Door 2 0 0 14502 30 30
+~
+door~
+End
+
+#14596
+Name Norma's General Store~
+Descr
+You have entered a General Store.  On the walls are shelves that are
+stocked with all sorts of different merchandise.  Many of these things are
+used daily by most and are considered necessary in everyday life.
+North is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14596 1 100
+Reset O 14602 -1 100
+Movemess
+(null)~
+Door 0 0 0 14502 30 30
+~
+door~
+End
+
+#14597
+Name Stan's Gems and Stones~
+Descr
+You have entered Stan's Shop.  Here, many precious gems and stones may be
+bought.  Some have magical power, while others shine with their beauty.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14597 1 100
+Reset O 57 5 75
+Reset O 54 5 75
+Reset O 51 5 75
+Reset O 60 5 90
+Movemess
+(null)~
+Door 2 0 0 14503 30 30
+~
+door~
+End
+
+#14598
+Name Drakor's Treasure Shop~
+Descr
+You have entered a shop that sells treasures from all over the world.
+These items are highly priced and only sold to those who are wealthy.
+North is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14598 1 100
+Movemess
+(null)~
+Door 0 0 0 14503 30 30
+~
+door~
+End
+
+#14599
+Name Locksmith's Shop~
+Descr
+You have entered the Locksmith Shop.  Locks of all kinds can be seen here,
+along with tools and keys.  Behind the counter on a workbench are scattered
+pieces of a lock that is being repaired.
+North is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14599 1 100
+Reset O 14599 -1 100
+Reset O 14602 -1 100
+Movemess
+(null)~
+Door 0 0 0 14507 30 30
+~
+door~
+End
+
+#14600
+Name John's Floatables~
+Descr
+You have entered a rather large shop which is full of wooden boats.  In
+the far corner of the room, on a workbench, are some strange looking tools.
+Up above, hanging from the ceiling, is a wooden sign with some writing on it.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+ExtraDescr sign~
+----------------------------
+
+| All boats are guaranteed |
+
+|not to sink or your coins|
+
+|will be refunded.      |
+
+----------------------------
+
+~
+ExtraDescr sign~
+-------------------------
+
+| All boats are in fine |
+
+|working condition.  If |
+
+|one does sink, then I  |
+
+|will repair it for 5   |
+
+|copper coins.  Thanks. |
+
+-------------------------
+
+~
+Reset M 14600 1 100
+Movemess
+(null)~
+Door 2 0 0 14508 30 30
+~
+door~
+End
+
+#14601
+Name A Bookstore~
+Descr
+You have entered the city Bookstore.  After a moment or two you notice that
+it is very dusty and unkept, as though it is rarely used or cleaned.  Next
+to you is a large bookshelf that contains many books on various subjects.
+North is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14601 1 100
+Reset O 14605 -5 100
+Reset O 14601 -3 4
+Movemess
+(null)~
+Door 0 0 0 14508 30 30
+~
+door~
+End
+
+#14602
+Name Paul's Hangout~
+Descr
+You stand in the infamous rowdy bar named "Paul's Hangout."  The air is
+filled with the smell of sweat and stale beer, and you can see Deadman's
+Alley just to the north out the door of the pub.  
+~
+Flags 17428
+Sector 0
+Reset M 14602 1 100
+Reset O 14603 -1 100
+Reset O 14604 -1 100
+Movemess
+(null)~
+Door 0 0 0 14555 30 30
+~
+door~
+Door 4 7 0 14607 30 30
+~
+door~
+End
+
+#14603
+Name Tristan's Cartographers Stall~
+Descr
+You have entered A Cartographer's stall.  In the back, there is a large 
+table with papers, graphs, and writing tools spread out all over.  On the
+wall is a large map where Tristan can be seen writing some notes.
+South is Tristan Avenue.
+~
+Flags 17428
+Sector 0
+Reset M 14603 1 100
+Movemess
+(null)~
+Door 2 0 0 14553 30 30
+~
+door~
+End
+
+#14604
+Name Jessica's Home~
+Descr
+Jessica must make a killing in her business; this large home which is
+extremely well furnished makes you reconsider you life of adventure. 
+Perhaps you should sell fruits too...  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14572 30 30
+~
+door~
+End
+
+#14605
+Name Juan's Stable~
+Descr
+You have entered Juan's Stable.  He takes pride in boarding animals here
+and training them to be ridden.  Although he does a good job training them,
+they still have a mind of their own.  Some hay is piled up in the corner.
+South is an alley.
+~
+Flags 17494
+Sector 0
+ExtraDescr hay~
+Some blocks of hay can be seen piled up neatly here.
+
+~
+Reset M 14605 1 100
+Reset O 14606 -5 50
+Movemess
+(null)~
+Door 2 0 0 14578 30 30
+~
+door~
+End
+
+#14606
+Name MOUNTABLES~
+Descr
+~
+Flags 2
+Sector 0
+Reset M 14606 1 100
+Reset M 14607 1 100
+Reset M 14604 2 100
+Movemess
+(null)~
+End
+
+#14607
+Name Paul's Bedroom~
+Descr
+The wooden floors creak underfoot as you stand in Paul's private bedroom
+above his inn and pubhouse.  You hope Paul doesn't notice you snooping
+through his private stuff like this...  
+~
+Flags 6
+Sector 0
+Reset M 14590 1 100
+Movemess
+(null)~
+Door 5 7 0 14602 30 30
+~
+door~
+End
+
+#14608
+Name Juan's Home~
+Descr
+As you look around Juan's home, you notice that Juan must not be doing
+that great business at the moment; there is only one solitary chair in the
+middle of the room, and the house looks dirty and unkept.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 515 0 14577 30 30
+~
+door~
+End
+
+#14609
+Name Bruto's Home~
+Descr
+From the size of the massive chair in the room, you can tell that Bruto
+must be a big guy.  The prime location of this house also would indicate
+that Bruto does fairly well monetarily too.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14570 30 30
+~
+door~
+End
+
+#14610
+Name Conan's Home~
+Descr
+You look around for Conan's mighty sword, but you can't seem to find it;
+perhaps Conan isn't the same Conan that you would expect; there are an awful
+lot of books on the bookshelf...  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14571 36 36
+~
+door~
+End
+
+#14611
+Name Merlin's Home~
+Descr
+As you look around Merlin's home you see absolutely nothing special. 
+However, there is an odd feeling of magical energy that lingers in the air,
+and the smell of herbs and natural dried reagents makes your eyes water.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14567 30 30
+~
+door~
+End
+
+#14612
+Name Korgon's Home~
+Descr
+You stand in Korgon's Home, and from the looks of things, Korgon is a
+mighty warrior.  Trophies of animals and other large game adorn the walls,
+and the smell of cooked wild boar lingers in the air.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14568 30 30
+~
+door~
+End
+
+#14613
+Name Norma's Home~
+Descr
+You stand in Norma's humble abode, and from looking around, you would
+suspect that Norma is quite an old woman.  The house is scantly furnished,
+and you really see nothing of interest here.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14568 30 30
+~
+door~
+End
+
+#14614
+Name Finger's Home~
+Descr
+As you look around Finger's home, you notice the lack of windows.  You
+have a certain uncomfortable feeling while standing in this house, and you
+suddenly have the urge to go back north onto market street.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14569 30 30
+~
+door~
+End
+
+#14615
+Name Anita's Home~
+Descr
+This small little home is well-decorated, and you can tell Anita is quite
+a perfectionist.  Every piece of furniture and every little curio is
+perfectly in order and dust-free.  You can see market street to the south.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14569 30 30
+~
+door~
+End
+
+#14616
+Name Stan's Home~
+Descr
+Stan's humble abode isn't exactly humble; large trophies adorn the
+shelves and walls.  When you go to touch them and examine them, you notice
+they have been somehow attached to the shelves, and you cannot pick them up.
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14570 30 30
+~
+door~
+Door 5 0 0 0 30 30
+~
+candle~
+End
+
+#14617
+Name John's Home~
+Descr
+You stand in a well-furnished home with a large fireplace.  There is a
+large stuffed head of some sort of buffalo over the fireplace, and under it
+is a plaque that reads, "From our hunting trip by Gnargnoc."  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 2 3 0 14567 30 30
+~
+door~
+End
+
+#14618
+Name Jessica's Organics~
+Descr
+You have entered Jessica's Organics.  Some fruit and vegetables are spread
+out on a table, ready to eat.  Jessica grows her own organics nearby.
+South is Market Street.
+~
+Flags 17428
+Sector 0
+Reset M 14618 1 100
+Reset O 14502 -1 100
+Reset O 14618 -1 100
+Reset O 14619 -1 100
+Movemess
+(null)~
+Door 2 0 0 14572 30 30
+~
+door~
+End
+
+#14619
+Name Lefty's Adventurer's Shop~
+Descr
+You have entered the Adventure Shop.  Some of the most important items for
+survival can be bought here.  Without some items, you simply can't survive.
+South is Main Street.
+~
+Flags 17428
+Sector 0
+Reset M 14619 1 100
+Reset O 14585 -1 100
+Reset O 14505 -1 100
+Reset O 14587 -1 100
+Reset O 14588 -1 100
+Reset O 14589 -1 100
+Movemess
+(null)~
+Door 2 0 0 14507 30 30
+~
+door~
+End
+
+#14620
+Name Drakor's Home~
+Descr
+You stand in Drakor's private residence, just off of Market Street.  The
+lack of windows in this house makes you uneasy, and you get the keen feeling
+that you are unwelcome here.  
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14571 36 36
+~
+door~
+End
+
+#14621
+Name An Abandened House~
+Descr
+You have entered a cold, dark, and smelly abandoned house.  There are no
+windows to see through, no other rooms to look in, it is just totally empty.
+On the far wall though, there is a single wooden board that is dangling.
+North is Auction Place.
+~
+Flags 5
+Sector 0
+ExtraDescr single wooden board~
+As you look at the wooden board, you notice a small opening.
+
+~
+ExtraDescr opening~
+There is a small opening that you might be able to enter.
+
+~
+Reset O 14621 -5 100
+Movemess
+(null)~
+Door 0 0 0 14589 30 30
+~
+door~
+End
+
+#14622
+Name Anita's Bakery~
+Descr
+You have entered Anita's Bakery.  The smell of fresh baked goods is evident
+as the smell fills the room.  In a display case you notice apple pies,
+bagels and other bread.  Anita is in the back rolling some dough on a table.
+South is an alley.
+~
+Flags 16404
+Sector 0
+Reset M 14622 1 100
+Reset O 14622 -1 100
+Reset O 14623 -1 100
+Movemess
+(null)~
+Door 2 0 0 14575 30 30
+~
+door~
+End
+
+#14623
+Name Hermit's Hiding Place~
+Descr
+You have entered a small hiding place within an abandoned house.  It is
+barely roomy enough for you to turn back around.  Nothing of interest is here.
+North is a small opening.
+~
+Flags 7
+Sector 0
+Reset M 14623 1 100
+Movemess
+(null)~
+Door 0 0 0 14621 30 30
+~
+door~
+End
+
+#14624
+Name Tristan's Home~
+Descr
+~
+Flags 6
+Sector 0
+Movemess
+(null)~
+Door 0 3 0 14553 30 30
+~
+door~
+End
+
+#14625
+Name Inside a Church~
+Descr
+You have entered a beautifully constructed church.  The ceiling is hand
+carved, and the windows are of stained glass, depicting the most saintly of
+Gods.  Here, you may stay in this sanctuary to escape the dangers of the
+world or you may leave south from where you came.
+~
+Flags 3165206
+Sector 0
+Reset O 1065 -5 100
+Reset M 14625 1 100
+Reset O 65 -1 5
+Reset O 991 5 1
+Reset O 14626 21 1
+Reset O 14627 -1 32
+Reset O 14628 2 29
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 1 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+Door 2 0 0 14544 30 30
+You bump into a wall.
+~
+door~
+Door 3 0 0 0 30 30
+You bump into a wall.
+~
+(null)~
+End
+
+#14626
+Name Joe's Pet Shoppe~
+Descr
+You have entered Joe's Pet Shoppe.  Here, you may buy some friendly and
+not so friendly pets.  Back in the corner of the room are some wooden crates
+and a few large bags of food.  Type: list
+North is Auctioner's Place.
+~
+Flags 17492
+Sector 0
+Reset M 14626 1 100
+Movemess
+(null)~
+Door 0 0 0 14587 30 30
+~
+door~
+End
+
+#14627
+Name Pet Shop Storage Room~
+Descr
+~
+Flags 18
+Sector 0
+Reset M 14627 1 100
+Reset M 14628 1 100
+Reset M 14629 1 100
+Reset M 14630 1 100
+Movemess
+(null)~
+End
+
+#14630
+Name A Descending Path~
+Descr
+The path leads downward here to the south, and upward to the north.  Far
+to the north you can see the road, and the south gate of Marabella.  The air
+starts to thicken, and you have an ominous feeling about journeying further
+southward.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14520 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+A mystical force keeps you from going there.
+~
+(null)~
+Door 2 0 0 14631 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+A mystical force keeps you from going there.
+~
+(null)~
+End
+
+#14631
+Name Entrance to a Cemetary~
+Descr
+To the south you can see the gate that leads into a large cemetary.  The
+air here is thick and stagnant, and the scent of rotting flesh is carried
+into your face by a gust of wind.  To the west is an open field.
+~
+Flags 2
+Sector 2
+ExtraDescr sign~
+WARNING!!!
+
+ 
+
+The cemetary has been condemned and found unsafe to enter.  Evil undead
+
+Zombies have been spotted and have overtaken the cemetary.  Abraham the
+
+Priest, has tried many excorcisms here, but has been very unsuccessful.
+
+Enter at own risk!
+
+ 
+
+                                        Constable of Marabella
+
+~
+ExtraDescr white wooden gate~
+The wooden gate has a sign nailed to it.
+
+~
+Reset O 14631 -5 100
+Movemess
+(null)~
+Door 0 0 0 14630 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+A mystical force keeps you from going there.
+~
+(null)~
+Door 2 3 0 14632 30 30
+~
+gate~
+End
+
+#14632
+Name A Path in the Cemetary~
+Descr
+You stand at a junction of paths in a cemetary.  A feeling of evil seems
+to seep up from the ground all around you, and the soil is soft and almost
+swamp-like.  Paths lead in all four directions from here.  
+~
+Sector 2
+ExtraDescr wooden white gate~
+You see nothing special about the wooden gate.
+
+~
+Reset M 14524 10 100
+Reset O 14632 21 100
+Movemess
+(null)~
+Door 0 3 0 14631 30 30
+You see the gate that leads out of this cemetary.  
+~
+gate~
+Door 1 0 0 14642 30 30
+~
+(null)~
+Door 2 0 0 14637 30 30
+~
+(null)~
+Door 3 0 0 14633 30 30
+~
+(null)~
+End
+
+#14633
+Name In the Cemetary~
+Descr
+Tombstones can be seen all around, and you are awestruck at the massive
+amounts of maggots that crawl around some of the graves.  The smell of death
+and decay is heavy in the air.  
+~
+Shd 1
+Sector 2
+Reset O 14633 -5 100
+Reset M 14524 2 70
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 1 0 0 14632 30 30
+~
+(null)~
+Door 2 0 0 14636 30 30
+~
+(null)~
+Door 3 0 0 14634 30 30
+~
+(null)~
+End
+
+#14634
+Name In the Cemetary~
+Descr
+The small path that you travel upon in the dark cemetary turns east and
+south here.  The soil is soft, and you almost think for a second that you
+are walking on rotten bodies...  
+~
+Shd 1
+Sector 2
+Reset O 14634 -5 100
+Reset M 14524 4 70
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 1 0 0 14633 30 30
+~
+(null)~
+Door 2 0 0 14635 30 30
+~
+(null)~
+Door 3 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+End
+
+#14635
+Name In the Cemetary~
+Descr
+The small path here turns north and east.  A smell of rotting flesh hits
+you in the face as a small breeze stirs the nearly-stagnant air.  The
+feeling of pain and suffering seems to seep up from the soil around here.  
+~
+Shd 1
+Sector 2
+Reset O 14635 -5 100
+Reset M 14524 3 100
+Movemess
+(null)~
+Door 0 0 0 14634 30 30
+~
+(null)~
+Door 1 0 0 14636 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+End
+
+#14636
+Name In the Cemetary~
+Descr
+The cemetary path leads east and west here.  The air is thick and
+stagnant, and you long for a breath of fresh air.  Evil feelings seem to
+creep into your heart, making you fearful for your safety.  
+~
+Shd 1
+Sector 2
+Reset O 14636 -5 100
+Reset M 14524 3 80
+Movemess
+(null)~
+Door 0 0 0 14633 30 30
+~
+(null)~
+Door 1 0 0 14637 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 3 0 0 14635 30 30
+~
+(null)~
+End
+
+#14637
+Name A Path in the Cemetary~
+Descr
+You stand on the north-south path running through the center of the
+cemetary.  Far to the north you can see the gate leading out of this
+god-forsaken place.  To the east and west, rows of tombstones rise up,
+creating an erie and ominous spectacle.  
+~
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14632 30 30
+~
+(null)~
+Door 1 0 0 14639 30 30
+~
+(null)~
+Door 2 3 0 14638 30 30
+~
+gate~
+Door 3 0 0 14636 30 30
+~
+(null)~
+End
+
+#14638
+Name On the Edge of a Steep Cliff~
+Descr
+You stand on the edge of an incredibly steep cliff.  To the north, a dark
+and evil-looking cemetary stretches out before you.  The soil is rich and
+fertile here, which makes you wonder if you are standing on the dead.
+~
+Flags 2
+Shd 1
+Sector 2
+Reset O 14705 -5 100
+Movemess
+(null)~
+Door 0 3 0 14637 30 30
+~
+gate~
+Door 1 0 0 0 30 30
+The cliff is too unstable over there.
+~
+(null)~
+Door 2 0 0 0 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 3 0 0 0 30 30
+The cliff is too unstable over there.
+~
+(null)~
+End
+
+#14639
+Name In the Cemetary~
+Descr
+The ground underfoot is soft and squishy, and you have the feeling that
+many dead have been buried here because of the extremely fertile soil.  You
+notice some small chips of yellowish bones in the soil. 
+~
+Shd 1
+Sector 2
+ExtraDescr bone bones yellow chips~
+Maybe they are teeth... or bones... either way you don't want to touch them!
+
+~
+Reset O 14639 -5 100
+Reset M 14524 3 80
+Movemess
+(null)~
+Door 0 0 0 14642 30 30
+~
+(null)~
+Door 1 0 0 14640 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 3 0 0 14637 30 30
+~
+(null)~
+End
+
+#14640
+Name In the Cemetary~
+Descr
+The cemetary path curves to the north and west here, and you can smell
+death and decay all around you.  A strange feeling of evil magic hangs in
+the air, and you do not feel safe here.  
+~
+Shd 1
+Sector 2
+Reset O 14640 -5 100
+Reset M 14524 3 100
+Movemess
+(null)~
+Door 0 0 0 14641 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 2 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 3 0 0 14639 30 30
+~
+(null)~
+End
+
+#14641
+Name In the Cemetary~
+Descr
+As you journey upon this dark and frightening path in the cemetary, you
+have a sudden urge to turn back and run away from all of the death and decay
+that lingers as an intangible feeling in the air.  The path curves south and
+west here.  
+~
+Shd 1
+Sector 2
+Reset O 14641 -5 100
+Reset M 14524 4 70
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 2 1 0 14640 30 30
+~
+(null)~
+Door 3 0 0 14642 30 30
+~
+(null)~
+End
+
+#14642
+Name In the Cemetary~
+Descr
+The cemetary path runs east and west here, and a strong stench of a
+rotting body comes from some unseen place.  The air is thick and you feel
+nautious as the strong stench of death assaults your nostrils.  
+~
+Shd 1
+Sector 2
+Reset O 14642 -5 100
+Reset M 14524 3 60
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You bump into a tall wooden fence.
+~
+(null)~
+Door 1 0 0 14641 30 30
+~
+(null)~
+Door 2 0 0 14639 30 30
+~
+(null)~
+Door 3 0 0 14632 30 30
+~
+(null)~
+End
+
+#14643
+Name Tooma's Bedroom~
+Descr
+You have entered Tooma's bedroom.  The room itself is very fancy with
+fine paintings, a large bed, and a small desk in the corner.  On the floor
+is a rare bear skin that looks quite comfortable.  Down is the bank.
+~
+Flags 6
+Shd 1
+Movemess
+(null)~
+Door 5 3 0 14593 30 30
+~
+door~
+End
+
+#14650
+Name Inside a Grave~
+Descr
+As you look around this grave, you get a sudden feeling of fear.  The
+earthen walls seem to smell of death and decay, and you sense the walls
+could fall in on you at any time, burying you alive.  
+~
+Flags 4
+Shd 1
+Sector 0
+Reset O 14650 -5 100
+Reset O 14651 -3 75
+Reset O 14653 -3 100
+Reset M 14524 10 100
+Movemess
+(null)~
+Door 1 259 0 29402 30 30
+~
+box~
+Door 4 0 0 14641 30 30
+~
+(null)~
+End
+
+#14670
+Name A Narrow Path Through Field~
+Descr
+You are on a narrow path that runs right through some very thick and tall
+grass.  Looks like the path here was created not too long ago.  East is
+Marabella's west gate, and the narrow path continues west of here.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14681 30 30
+The grass is too thick and dense to enter from here.
+~
+(null)~
+Door 1 0 0 14505 30 30
+~
+(null)~
+Door 3 0 0 14671 30 30
+~
+(null)~
+End
+
+#14671
+Name On a Path in a Field~
+Descr
+You are on a narrow path that runs through a grassy field.  The thick and
+tall grassy field makes you feel claustrophobic and lost.  There seems to be
+no other way but east and west, except for a few openings in the field here.
+~
+Flags 2
+Sector 2
+ExtraDescr opening openings~
+Seems like there might be enough room to enter the field or grass here.
+
+~
+ExtraDescr grass~
+You might be able to enter through the grass from here.
+
+~
+ExtraDescr field~
+You might be able to enter the field from here.
+
+~
+Reset O 14670 -5 100
+Reset O 14671 -5 100
+Movemess
+(null)~
+Door 0 0 0 14680 0 0
+~
+~
+Door 1 0 0 14670 30 30
+~
+(null)~
+Door 3 0 0 14672 30 30
+~
+(null)~
+End
+
+#14672
+Name On a Grassy Plateau~
+Descr
+You are standing before a very steep cliff on a grassy plateau.  From here,
+you can see the open land of canyons and hills below.  Not far from them is
+a rather large lake.  A narrow path leads east into a grassy field here.
+~
+Sector 2
+Reset M 14672 1 100
+Reset O 14672 21 75
+Reset O 14751 -5 100
+Movemess
+(null)~
+Door 0 0 0 14684 30 30
+The grass is too thick and dense to enter from here.
+~
+(null)~
+Door 1 0 0 14671 30 30
+~
+(null)~
+Door 2 0 0 0 30 30
+The grass is too thick and dense to enter from here.
+~
+(null)~
+Door 3 259 0 3810 30 30
+~
+grass~
+End
+
+#14680
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room 
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Movemess
+(null)~
+Door 0 0 0 14683 30 30
+~
+(null)~
+Door 1 0 0 14681 30 30
+~
+(null)~
+Door 2 0 0 14671 0 0
+~
+~
+Door 3 0 0 14684 30 30
+~
+(null)~
+End
+
+#14681
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14691 5 100
+Movemess
+(null)~
+Door 0 0 0 14682 30 30
+~
+(null)~
+Door 2 0 0 14670 0 0
+~
+~
+End
+
+#14682
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14693 5 100
+Movemess
+(null)~
+Door 0 0 0 14688 30 30
+~
+(null)~
+Door 2 0 0 14681 30 30
+~
+(null)~
+End
+
+#14683
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to mvoe around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14692 5 100
+Movemess
+(null)~
+Door 0 0 0 14687 30 30
+~
+(null)~
+Door 2 0 0 14680 30 30
+~
+(null)~
+End
+
+#14684
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14690 10 100
+Reset M 14692 5 100
+Movemess
+(null)~
+Door 0 0 0 14685 30 30
+~
+(null)~
+Door 1 0 0 14680 30 30
+~
+(null)~
+Door 2 0 0 14672 0 0
+~
+~
+End
+
+#14685
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14691 5 100
+Reset M 14693 5 100
+Movemess
+(null)~
+Door 0 0 0 14686 30 30
+~
+(null)~
+Door 2 0 0 14684 30 30
+~
+(null)~
+End
+
+#14686
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 2 0 0 14685 30 30
+~
+(null)~
+End
+
+#14687
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14691 5 100
+Reset M 14694 2 100
+Movemess
+(null)~
+Door 0 0 0 14689 30 30
+~
+(null)~
+Door 2 0 0 14683 30 30
+~
+(null)~
+End
+
+#14688
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Reset M 14695 2 100
+Movemess
+(null)~
+Door 0 0 0 14690 30 30
+~
+(null)~
+Door 2 0 0 14682 30 30
+~
+(null)~
+End
+
+#14689
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 1 0 0 14690 30 30
+~
+(null)~
+Door 2 0 0 14687 30 30
+~
+(null)~
+Door 3 0 0 14691 30 30
+~
+(null)~
+End
+
+#14690
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Movemess
+(null)~
+Door 2 0 0 14688 30 30
+~
+(null)~
+Door 3 0 0 14689 30 30
+~
+(null)~
+End
+
+#14691
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14692 5 100
+Movemess
+(null)~
+Door 1 0 0 14689 30 30
+~
+(null)~
+Door 2 0 0 14686 30 30
+~
+(null)~
+End
+
+#14692
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14671 30 30
+~
+(null)~
+Door 1 0 0 14693 30 30
+~
+(null)~
+Door 2 0 0 14695 30 30
+~
+(null)~
+Door 3 0 0 14697 30 30
+~
+(null)~
+End
+
+#14693
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 0 0 0 14698 30 30
+~
+(null)~
+Door 1 0 0 14698 30 30
+~
+(null)~
+Door 2 0 0 14694 30 30
+~
+(null)~
+Door 3 0 0 14692 30 30
+~
+(null)~
+End
+
+#14694
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room 
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14692 5 75
+Reset M 14694 2 100
+Movemess
+(null)~
+Door 0 0 0 14693 30 30
+~
+(null)~
+Door 1 0 0 14698 30 30
+~
+(null)~
+Door 2 0 0 14699 30 30
+~
+(null)~
+Door 3 0 0 14695 30 30
+~
+(null)~
+End
+
+#14695
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grasss.  There is barely enough room
+to move around as you brush up against the dense thick gras here.
+Sounds of movement can be hard all around as you mvoe about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14692 5 100
+Movemess
+(null)~
+Door 0 0 0 14692 30 30
+~
+(null)~
+Door 1 0 0 14694 30 30
+~
+(null)~
+Door 2 0 0 14698 30 30
+~
+(null)~
+Door 3 0 0 14696 30 30
+~
+(null)~
+End
+
+#14696
+Name In a Field of THick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room 
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14693 5 100
+Movemess
+(null)~
+Door 0 0 0 14697 30 30
+~
+(null)~
+Door 1 0 0 14695 30 30
+~
+(null)~
+Door 2 0 0 14700 30 30
+~
+(null)~
+Door 3 0 0 14698 30 30
+~
+(null)~
+End
+
+#14697
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass. There is barely enough room 
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be hard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 0 0 0 14698 30 30
+~
+(null)~
+Door 1 0 0 14692 30 30
+~
+(null)~
+Door 2 0 0 14696 30 30
+~
+(null)~
+Door 3 0 0 14698 30 30
+~
+(null)~
+End
+
+#14698
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14690 10 100
+Reset M 14691 2 100
+Movemess
+(null)~
+Door 0 0 0 14695 30 30
+~
+(null)~
+Door 1 0 0 14699 30 30
+~
+(null)~
+Door 2 0 0 14702 30 30
+~
+(null)~
+Door 3 0 0 14700 30 30
+~
+(null)~
+End
+
+#14699
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14693 5 5
+Movemess
+(null)~
+Door 0 0 0 14694 30 30
+~
+(null)~
+Door 1 0 0 14698 30 30
+~
+(null)~
+Door 2 0 0 14703 30 30
+~
+(null)~
+Door 3 0 0 14698 30 30
+~
+(null)~
+End
+
+#14700
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grasss.  There is barely enough room
+to move around as you brush up against the dense thick gras here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14692 5 100
+Movemess
+(null)~
+Door 0 0 0 14696 30 30
+~
+(null)~
+Door 1 0 0 14698 30 30
+~
+(null)~
+Door 2 0 0 14701 30 30
+~
+(null)~
+Door 3 0 0 14698 30 30
+~
+(null)~
+End
+
+#14701
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 0 0 0 14700 30 30
+~
+(null)~
+Door 1 0 0 14702 30 30
+~
+(null)~
+Door 2 0 0 14698 30 30
+~
+(null)~
+Door 3 0 0 14698 30 30
+~
+(null)~
+End
+
+#14702
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grass.  There is barely enough room
+to move around as you brush up against the dense thick grass here.
+Sounds of movement can be heard all around you as you move about.
+~
+Sector 2
+Reset M 14689 20 100
+Reset M 14695 2 100
+Reset M 14694 5 100
+Movemess
+(null)~
+Door 0 0 0 14698 30 30
+~
+(null)~
+Door 1 0 0 14703 30 30
+~
+(null)~
+Door 2 0 0 14704 30 30
+~
+(null)~
+Door 3 0 0 14701 30 30
+~
+(null)~
+End
+
+#14703
+Name In a Field of Thick Grass~
+Descr
+You are in a field of tall, thick grasss.  There is barely enough room
+to move around as you brush up against the dense thick gras here.
+Sounds of movement can be heard all around you as you mvoe about.
+~
+Sector 2
+Reset M 14690 10 100
+Movemess
+(null)~
+Door 0 0 0 14699 30 30
+~
+(null)~
+Door 1 0 0 14698 30 30
+~
+(null)~
+Door 2 0 0 14698 30 30
+~
+(null)~
+Door 3 0 0 14702 30 30
+~
+(null)~
+End
+
+#14704
+Name In an Opening Near a Grassy Field~
+Descr
+You are at an opening in a field near a grassline.  Thick grass has taken
+over to the north where strange noises can be heard.  South is a dirt path
+that leads toward the edge of the mountainside here.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14702 30 30
+~
+(null)~
+Door 2 0 0 14707 30 30
+~
+(null)~
+End
+
+#14707
+Name Just Outside a Gloomy Cemetary~
+Descr
+You are just outside of a very gloomy looking cemetary.  It is very
+quiet here as not a sound can be heard here.  North is a dense looking
+grassy field and just east is a cemetary with a few tombstones in it.
+~
+Flags 2
+Shd 1
+Sector 2
+Reset O 14631 -5 100
+Movemess
+(null)~
+Door 0 0 0 14704 30 30
+~
+(null)~
+End
+
+#14708
+Name A Clearing at a Grassline~
+Descr
+Here is a clearing near a grassline in a field.  North is the outside
+corner of the city wall, where a narrow path leads to.  South is a large
+field of tall, dense grass where sounds can be heard from.
+~
+Sector 2
+Movemess
+(null)~
+End
+
+#14709
+Name East Wall~
+Descr
+You are at the very corner of the city wall on a very narrow pathway.
+Rocks and other obstacles make it even more difficult as you try to pass
+here.  There is a clearing just south and the path continues east.
+~
+ExtraDescr down~
+You see a sheer cliff and rocks below.
+
+~
+Movemess
+(null)~
+Door 0 0 0 14531 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 2 0 0 14711 0 0
+~
+~
+End
+
+#14710
+Name East Wall~
+Descr
+You are on a very narrow path that hugs the outside of the city wall.
+The wall was built extremely close to the edge of the steep cliff here.
+One bad slip from here would send you falling straight down the side of the
+mountain.  The path continues west, and east is the North gate of Marabella.
+~
+ExtraDescr down~
+You see a sheer cliff and rocks below.
+
+~
+Movemess
+(null)~
+Door 0 0 0 14711 0 0
+~
+~
+Door 2 0 0 14532 0 0
+~
+~
+End
+
+#14711
+Name East Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues north, and south is the East gate of Marabella.
+~
+Movemess
+(null)~
+Door 0 0 0 14709 0 0
+~
+~
+Door 2 0 0 14710 0 0
+~
+~
+Door 3 0 0 14590 0 0
+~
+~
+End
+
+#14712
+Name East Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues north and south.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14530 0 0
+~
+~
+Door 2 0 0 14531 0 0
+~
+~
+End
+
+#14713
+Name Mourner's Way~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 14714 0 0
+~
+~
+Door 2 0 0 14514 0 0
+~
+~
+End
+
+#14714
+Name Mourner's Way~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path turns sharply to the south and west here.
+~
+Movemess
+(null)~
+Door 0 0 0 14726 0 0
+~
+~
+Door 1 0 0 14588 0 0
+~
+~
+Door 2 0 0 14713 0 0
+~
+~
+Door 3 0 0 14585 0 0
+~
+~
+End
+
+#14715
+Name Mourner's Way~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east and west here.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14513 0 0
+~
+~
+Door 2 0 0 14540 0 0
+~
+~
+End
+
+#14716
+Name West Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east and west of here.
+~
+Movemess
+(null)~
+Door 0 0 0 14717 0 0
+~
+~
+Door 2 0 0 14524 0 0
+~
+~
+End
+
+#14717
+Name West Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east, and west is the North gate of Marabella.
+~
+Movemess
+(null)~
+Door 0 0 0 14725 0 0
+~
+~
+Door 1 0 0 14587 0 0
+~
+~
+Door 2 0 0 14716 0 0
+~
+~
+End
+
+#14718
+Name West Wall~
+Descr
+You are on a well-worn path taht runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues south, and north is the East gate of Marabella.
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 14522 0 0
+~
+~
+Door 2 0 0 14523 0 0
+~
+~
+End
+
+#14719
+Name East Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 14722 0 0
+~
+~
+Door 2 0 0 14509 0 0
+~
+~
+End
+
+#14720
+Name Summoner's Lane~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues north and south.
+~
+Movemess
+(null)~
+Door 0 0 0 14723 0 0
+~
+~
+Door 2 0 0 14500 0 0
+~
+~
+End
+
+#14721
+Name West Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path turns sharply to the north and west here.
+~
+Movemess
+(null)~
+Door 0 0 0 14724 0 0
+~
+~
+Door 2 0 0 14504 0 0
+~
+~
+End
+
+#14722
+Name East Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east and west here.
+~
+Movemess
+(null)~
+Door 0 0 0 14533 0 0
+~
+~
+Door 2 0 0 14719 0 0
+~
+~
+End
+
+#14723
+Name Summoner's Lane~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east and west of here.
+~
+Movemess
+(null)~
+Door 0 0 0 14511 0 0
+~
+~
+Door 2 0 0 14720 0 0
+~
+~
+End
+
+#14724
+Name West Wall~
+Descr
+You are on a well-worn path that runs along the outside of the city wall.
+Footprints of many different shapes and sizes are on the ground here.
+The path continues east, and west is the South gate of Marabella.
+~
+Movemess
+(null)~
+Door 0 0 0 14525 0 0
+~
+~
+Door 2 0 0 14721 0 0
+~
+~
+End
+
+#14725
+Name West Wall~
+Descr
+You are on a very narrow path that hugs the outside of the city wall.
+The wall was built extremely close to the edge of the steep cliff here.
+One bad slip from here would send you falling straight down the side of the
+mountain.  The path continues east and west of here.
+~
+Movemess
+(null)~
+Door 0 0 0 14523 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 2 0 0 14717 0 0
+~
+~
+End
+
+#14726
+Name Mourner's Way~
+Descr
+You are on a very narrow path that hugs the outside of the city wall.
+The wall was built extremely close to the edge of the steep cliff here.
+One bad slip from here would send you falling straight down the side of the
+mountain.  The path continues east and west of here.
+~
+Movemess
+(null)~
+Door 0 0 0 14540 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 2 0 0 14714 0 0
+~
+~
+End
+
+#14750
+Name On an Extremely Narrow Path on Cliff~
+Descr
+~
+Flags 134217760
+Sector 5
+Reset O 14707 -5 100
+Movemess
+(null)~
+Door 2 0 0 14815 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 3 0 0 14761 30 30
+~
+(null)~
+End
+
+#14751
+Name On the Face of a Very Steep Cliff~
+Descr
+~
+Flags 32
+Sector 5
+Reset O 14700 -5 100
+Movemess
+(null)~
+End
+
+#14752
+Name On the Face of a Very Steep Cliff~
+Descr
+~
+Flags 32
+Sector 5
+Reset O 14703 -5 100
+Movemess
+(null)~
+End
+
+#14753
+Name On an Extremely Narrow Path on Cliff~
+Descr
+~
+Flags 134217760
+Sector 5
+Reset O 14704 -5 100
+Movemess
+(null)~
+Door 0 0 0 14808 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+Door 1 0 0 0 30 30
+There is a very large boulder that keeps you from going there.
+~
+(null)~
+Door 3 0 0 14758 30 30
+~
+(null)~
+End
+
+#14754
+Name On the Face of a Very Steep Cliff~
+Descr
+~
+Flags 32
+Sector 5
+Reset O 14706 -5 100
+Movemess
+(null)~
+End
+
+#14755
+Name On an Extremely Narrow Path on Cliff~
+Descr
+~
+Flags 134217760
+Sector 5
+Reset O 14701 -5 100
+Movemess
+(null)~
+Door 0 0 0 14756 30 30
+~
+(null)~
+Door 2 0 0 14759 30 30
+~
+(null)~
+Door 3 0 0 14801 30 30
+There is nothing but air over there!  Are you flying?
+~
+(null)~
+End
+
+#14756
+Name On a Very Narrow Path on Cliff~
+Descr
+~
+Flags 8
+Sector 5
+Movemess
+(null)~
+Door 0 0 0 14757 30 30
+~
+(null)~
+Door 2 0 0 14755 30 30
+~
+(null)~
+End
+
+#14757
+Name On a Ledge That Hangs Out~
+Descr
+~
+Sector 5
+Reset O 14763 -5 100
+Movemess
+(null)~
+Door 1 0 0 14758 30 30
+~
+(null)~
+Door 2 0 0 14756 30 30
+~
+(null)~
+End
+
+#14758
+Name On a Narrow Path on Cliff~
+Descr
+~
+Flags 8
+Sector 5
+Movemess
+(null)~
+Door 1 0 0 14753 30 30
+~
+(null)~
+Door 3 0 0 14757 30 30
+~
+(null)~
+End
+
+#14759
+Name On a Very Narrow Path on Cliff~
+Descr
+~
+Flags 8
+Sector 5
+Movemess
+(null)~
+Door 0 0 0 14755 30 30
+~
+(null)~
+Door 2 0 0 14760 30 30
+~
+(null)~
+End
+
+#14760
+Name On a Large Ledge that Hangs Out~
+Descr
+~
+Sector 5
+Reset O 14760 -5 100
+Movemess
+(null)~
+Door 0 0 0 14759 30 30
+~
+(null)~
+Door 1 0 0 14761 30 30
+~
+(null)~
+End
+
+#14761
+Name On a Narrow Path on Cliff~
+Descr
+~
+Flags 8
+Sector 5
+Movemess
+(null)~
+Door 1 0 0 14750 30 30
+~
+(null)~
+Door 3 0 0 14760 30 30
+~
+(null)~
+End
+
+#14762
+Name Inside a Dark Cave~
+Descr
+This is where the Skeletal Warriors will lead and under 
+the cemetary/graveyard.
+The skeletons that seeps through the ground founds their way here
+where an evil mage found a way to turn skeletons into living warriors.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 14760 30 30
+~
+(null)~
+End
+
+#14763
+Name Inside a Dark Cave~
+Descr
+This is going to be the cavedwellers area
+Cavemen, Cavewomen....or just cavedwellers
+l
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 14757 30 30
+~
+(null)~
+End
+
+#14800
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 1 0 0 14672 30 30
+~
+(null)~
+Door 5 0 0 14801 30 30
+~
+(null)~
+End
+
+#14801
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 1 0 0 14755 30 30
+~
+(null)~
+Door 5 0 0 14802 30 30
+~
+(null)~
+End
+
+#14802
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14803 30 30
+~
+(null)~
+End
+
+#14803
+Name In the Air above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14804 30 30
+~
+(null)~
+End
+
+#14804
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14805 30 30
+~
+(null)~
+End
+
+#14805
+Name Standing on Sharp Jagged Rocks~
+Descr
+~
+Sector 5
+Movemess
+(null)~
+Door 1 0 0 14806 30 30
+~
+(null)~
+End
+
+#14806
+Name Standing Before a Very Steep Mountain~
+Descr
+~
+Sector 5
+Reset O 14806 -5 100
+Movemess
+(null)~
+Door 3 0 0 14805 30 30
+~
+(null)~
+End
+
+#14807
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 2 0 0 14562 30 30
+~
+(null)~
+Door 5 0 0 14808 30 30
+~
+(null)~
+End
+
+#14808
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 2 0 0 14753 30 30
+~
+(null)~
+Door 5 0 0 14809 30 30
+~
+(null)~
+End
+
+#14809
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14810 30 30
+~
+(null)~
+End
+
+#14810
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14811 30 30
+~
+(null)~
+End
+
+#14811
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14812 30 30
+~
+(null)~
+End
+
+#14812
+Name Standing on Sharp Jagged Rocks~
+Descr
+~
+Sector 5
+Movemess
+(null)~
+Door 2 0 0 14813 30 30
+~
+(null)~
+End
+
+#14813
+Name Standing Before a Very Steep Mountain~
+Descr
+~
+Sector 5
+Reset O 14813 -5 100
+Movemess
+(null)~
+Door 0 0 0 14812 30 30
+~
+(null)~
+End
+
+#14814
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14815 30 30
+~
+(null)~
+End
+
+#14815
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 0 0 0 14750 30 30
+~
+(null)~
+Door 5 0 0 14816 30 30
+~
+(null)~
+End
+
+#14816
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14817 30 30
+~
+(null)~
+End
+
+#14817
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14818 30 30
+~
+(null)~
+End
+
+#14818
+Name In the Air Above the Sheer Rocks Below~
+Descr
+~
+Flags 133120
+Sector 9
+Movemess
+(null)~
+Door 5 0 0 14819 30 30
+~
+(null)~
+End
+
+#14819
+Name Standing on Sharp Jagged Rocks~
+Descr
+~
+Flags 2048
+Sector 5
+Movemess
+(null)~
+Door 0 0 0 14820 30 30
+~
+(null)~
+End
+
+#14820
+Name Standing Before a Very Steep Mountain~
+Descr
+~
+Flags 2048
+Sector 5
+Reset O 14820 -5 100
+Movemess
+(null)~
+Door 2 0 0 14819 30 30
+~
+(null)~
+End
+
+#14821
+Name The Tinkers Guild of Marabella~
+Descr
+This room appears as if it was hastily put together.  You can see crates
+around you and realize that the guild just recently moved here and is still
+unpacking.  The room itself is plain, with earthen walls and a wooden floor.
+The tinker guildmaster stands before you waiting to help you.  
+~
+Flags 4
+Sector 0
+End
+
+#0
+
+
+
+#$

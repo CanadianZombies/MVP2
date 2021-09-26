@@ -1,0 +1,2039 @@
+#AREADATA 
+Name The Pyramid of Kestler~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA cold presence passes through your body. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Nicodemus Klaw~
+VNUMs 8100 8199
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#8100
+Name bat~
+Short a bat~
+Long 
+A bat is here above you.
+~
+Descr
+This bat has never been outside of the pyramid. It has roamed the halls
+of the pyramid ever since it was born, looking for food. 
+~
+AMax 20
+NHeight 0
+ActBits 8
+Affect_By 65568
+Alignment -1000
+Money 25
+Level 25
+MobType 18
+Guard 0
+ArmorClass 100
+End
+
+#8115
+Name statue warrior~
+Short a statue~
+Long 
+The statue of a great warrior of the pyramid stands here.
+~
+Descr
+This statue resembles a great warrior that once was alive. He looks so
+much like a great warrior you begin to wonder if he really is a statue... 
+~
+AMax 4
+NHeight 0
+ActBits 2
+Affect_By 168
+Money 101
+Level 101
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#8135
+Name stone statue~
+Short a stone statue~
+Long 
+A stone statue of Kestler stands over you, awaiting his rebirth.
+~
+Descr
+Resembling Kestler, this statue seems almost alive. 
+~
+AMax 7
+NHeight 0
+ActBits 2
+Affect_By 168
+Money 101
+Level 101
+Sex 1
+MobType 9
+Guard 0
+Spec spec_warrior
+End
+
+#8170
+Name mummy kestler PRAC teacher~
+Short the mummy of kestler~
+Long 
+[Teacher] The mummy of Great King Kestler lies here, resting in peace.
+~
+Descr
+Grusome and horrid, Kestler's mummy has been here for eons. His strength
+is almost unmatched. 
+~
+AMax 1
+NHeight 0
+ActBits 258
+ActBits3 2
+Affect_By 554
+Alignment -1000
+Money 250
+Level 250
+Sex 1
+MobType 9
+Guard 5
+ASklTaught 0 65
+End
+
+#8186
+Name queen kestler PRAC~
+Short the queen of kestler~
+Long 
+The undead queen of Kestler is here, awaiting your arrival.
+~
+Descr
+Buried with her husband, this undead queen has been waiting here almost
+forever waiting for someone. 
+~
+AMax 1
+NHeight 0
+ActBits 256
+ActBits4 4096
+Affect_By 680
+Alignment -1000
+Money 250
+Level 250
+Sex 2
+MobType 9
+Guard 0
+Spec spec_warrior
+End
+
+#8189
+Name kestler pharoah ghost spirit PRAC~
+Short the spirit of kestler~
+Long 
+[Teacher] The spirit of Kestler sits here awaiting the end of his immortality.
+~
+Descr
+Transparent to most, this spirit of the pharoah is trapped here, awaiting
+the end of his immortality. His body is what is now the mummy, but he is
+trapped here and can't get to it. 
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 170
+Alignment -1000
+Money 275
+Level 275
+Sex 1
+MobType 21
+Guard 0
+Spec spec_warrior
+BCasts balefire~
+BCasts vulnerability~
+BCasts rock slide~
+BCast_P 3
+ASklTaught 0 48
+ASklTaught 1 49
+ASklTaught 2 50
+ASklTaught 3 55
+End
+
+#0
+
+
+
+#OBJDATA
+#8100
+Name queen's crown APB head~
+Short the [1m[30mcr[1m[31mo[0m[1m[30mwn[0m of the [1m[30mQ[0m[31muee[1m[30mn[0m~
+Descr
+A crown is here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 0 0 50 50 0 0
+Weight 5
+Cost 0
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#8101
+Name mask mummy face MAGICDAM~
+Short the [1m[30mm[1m[31ma[1m[30msk[0m of Kestler~
+Descr
+A mummy's mask lies here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 75 75 0 0
+Weight 2
+Cost 17274
+Affect 14 10 1 0 0
+Affect 17 -4 1 0 0
+Affect 13 10 1 0 0
+Affect 26 4 1 0 0
+End
+
+#8109
+Name plate gold~
+Short a large plate of gold~
+Descr
+A large plate of [1m[33mgold[0m.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8170
+Name ring kestler finger~
+Short the [1m[30mr[0m[31mi[1m[30mng[0m of [1m[37mKestler[0m~
+Descr
+The [1m[30mr[0m[31mi[1m[30mng[0m of [1m[37mKestler[0m.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 10 10 50 50 10 1
+Weight 1
+Cost 18273
+Affect 27 4 1 0 0
+Affect 17 -4 1 0 0
+End
+
+#8186
+Name crack~
+Short a crack in the wall~
+Descr
+A crack in the wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8189 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8187
+Name crack wall~
+Short a crack in the wall~
+Descr
+A crack in the wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8186 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8189
+Name kestler's glass eye +hp +heal_bonus -ac~
+Short [1m[33mKestler's [1m[37mglass [1m[34meye~
+Descr
+A shinning crystal ball is laying in the dust.
+[0;36m~
+Type 9
+Extra 65
+Wear 33554433
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 10 10 0 0 10 0
+Weight 1
+Cost 678
+Affect 27 3 1 0 0
+Affect 13 15 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#8100
+Name Atop the Great Kestler Pyramid~
+Descr
+Atop the pyramid, you are afforded a great lookout to the wide open
+expanse of the Taerian Desert. Dunes move as if pushed by unseen hands, the
+sheer magnitude of the desert is staggering. 
+~
+Flags 3146752
+Door 2 0 0 8190 0 0
+~
+~
+Door 5 259 0 8101 30 30
+~
+slab~
+End
+
+#8101
+Name Just Inside the Entrance of the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Reset M 8100 1 100
+Door 1 0 0 8102 0 0
+~
+~
+Door 4 259 0 8100 30 30
+~
+slab~
+End
+
+#8102
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8103 0 0
+~
+~
+Door 3 0 0 8101 0 0
+~
+~
+End
+
+#8103
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8102 0 0
+~
+~
+Door 3 0 0 8104 0 0
+~
+~
+End
+
+#8104
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8103 0 0
+~
+~
+Door 3 0 0 8105 0 0
+~
+~
+End
+
+#8105
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 1 0 0 8104 0 0
+~
+~
+Door 3 0 0 8106 0 0
+~
+~
+End
+
+#8106
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8108 0 0
+~
+~
+Door 1 0 0 8105 0 0
+~
+~
+End
+
+#8107
+Name MAKE SOMEONE TEACH SOMETHING HERE!~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+End
+
+#8108
+Name Inside the Pyramid~
+Descr
+The interior of the pyramid has a vastly different enviroment than the
+desert. Here, it is cool - almost chilly. The air carries upon it the stench
+of decay and decomposition. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8106 0 0
+~
+~
+Door 3 0 0 8109 0 0
+~
+~
+End
+
+#8109
+Name A Room of Solid Gold~
+Descr
+The walls here are a dazzling yellow. Throwing back the light of your
+torches a thousand fold, these walls seem to be adorned with some metal.
+Closer inspecting seems to reveal that they are indeed painted (or plated)
+with gold. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Reset O 8109 -5 100
+Door 1 0 0 8108 0 0
+~
+~
+Door 5 259 0 8110 30 30
+~
+plate~
+End
+
+#8110
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8111 0 0
+~
+~
+Door 4 259 0 8109 30 30
+~
+plate~
+End
+
+#8111
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8112 0 0
+~
+~
+Door 2 0 0 8110 0 0
+~
+~
+End
+
+#8112
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8113 0 0
+~
+~
+Door 2 0 0 8111 0 0
+~
+~
+End
+
+#8113
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Reset M 8100 1 100
+Door 1 0 0 8114 0 0
+~
+~
+Door 3 0 0 8112 0 0
+~
+~
+End
+
+#8114
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8115 0 0
+~
+~
+Door 1 0 0 8116 0 0
+~
+~
+Door 3 0 0 8113 0 0
+~
+~
+End
+
+#8115
+Name A Shrine to all Warriors~
+Descr
+With great reverence you approch what appears to be a shrine. Gifts long
+since decomposed are arrayed on the altar and what appears to be a statue
+stands here, it's eyes seeming to follow you. 
+~
+Flags 5
+Sector 0
+Reset M 8115 1 100
+Door 2 0 0 8114 0 0
+~
+~
+End
+
+#8116
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8117 0 0
+~
+~
+Door 2 0 0 8119 0 0
+~
+~
+Door 3 0 0 8114 0 0
+~
+~
+End
+
+#8117
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8118 0 0
+~
+~
+Door 1 0 0 8120 0 0
+~
+~
+Door 3 0 0 8116 0 0
+~
+~
+End
+
+#8118
+Name A Shrine to all Warriors~
+Descr
+With great reverence you approch what appears to be a shrine. Gifts long
+since decomposed are arrayed on the altar and what appears to be a statue
+stands here, it's eyes seeming to follow you. 
+~
+Flags 5
+Sector 0
+Reset M 8115 1 100
+Door 2 0 0 8117 0 0
+~
+~
+End
+
+#8119
+Name A Shrine to all Warriors~
+Descr
+With great reverence you approch what appears to be a shrine. Gifts long
+since decomposed are arrayed on the altar and what appears to be a statue
+stands here, it's eyes seeming to follow you. 
+~
+Flags 5
+Sector 0
+Reset M 8115 1 100
+Door 0 0 0 8116 0 0
+~
+~
+End
+
+#8120
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8122 0 0
+~
+~
+Door 2 0 0 8121 0 0
+~
+~
+Door 3 0 0 8117 0 0
+~
+~
+End
+
+#8121
+Name A Shrine to all Warriors~
+Descr
+With great reverence you approch what appears to be a shrine. Gifts long
+since decomposed are arrayed on the altar and what appears to be a statue
+stands here, it's eyes seeming to follow you. 
+~
+Flags 5
+Sector 0
+Reset M 8115 1 100
+Door 0 0 0 8120 0 0
+~
+~
+End
+
+#8122
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 1 259 0 8123 30 30
+~
+slab~
+Door 3 0 0 8120 0 0
+~
+~
+End
+
+#8123
+Name A Long Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 3 259 0 8122 30 30
+~
+slab~
+Door 5 0 0 8124 0 0
+~
+~
+End
+
+#8124
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8125 0 0
+~
+~
+Door 4 0 0 8123 0 0
+~
+~
+End
+
+#8125
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8124 0 0
+~
+~
+Door 5 0 0 8126 0 0
+~
+~
+End
+
+#8126
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8127 0 0
+~
+~
+Door 4 0 0 8125 0 0
+~
+~
+End
+
+#8127
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8126 0 0
+~
+~
+Door 5 0 0 8128 0 0
+~
+~
+End
+
+#8128
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8129 0 0
+~
+~
+Door 4 0 0 8127 0 0
+~
+~
+End
+
+#8129
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8128 0 0
+~
+~
+Door 2 0 0 8130 0 0
+~
+~
+End
+
+#8130
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8129 0 0
+~
+~
+Door 2 0 0 8131 0 0
+~
+~
+End
+
+#8131
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8130 0 0
+~
+~
+Door 2 0 0 8132 0 0
+~
+~
+Door 3 0 0 8133 0 0
+~
+~
+End
+
+#8132
+Name An Altar of Worship~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 3145733
+Sector 0
+Reset M 8135 1 100
+Door 0 0 0 8131 0 0
+~
+~
+End
+
+#8133
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 1 0 0 8131 0 0
+~
+~
+Door 3 0 0 8134 0 0
+~
+~
+End
+
+#8134
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8136 0 0
+~
+~
+Door 1 0 0 8133 0 0
+~
+~
+Door 2 0 0 8135 0 0
+~
+~
+Door 3 0 0 8137 0 0
+~
+~
+End
+
+#8135
+Name An Altar of Worship~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 0 0 0 8134 0 0
+~
+~
+End
+
+#8136
+Name An Altar of Prayer~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 2 0 0 8134 0 0
+~
+~
+End
+
+#8137
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8134 0 0
+~
+~
+Door 3 0 0 8138 0 0
+~
+~
+End
+
+#8138
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8140 0 0
+~
+~
+Door 1 0 0 8137 0 0
+~
+~
+Door 2 0 0 8139 0 0
+~
+~
+Door 3 0 0 8141 0 0
+~
+~
+End
+
+#8139
+Name An Altar of Worship~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 0 0 0 8138 0 0
+~
+~
+End
+
+#8140
+Name An Altar of Prayer~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 2 0 0 8138 0 0
+~
+~
+End
+
+#8141
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 1 0 0 8138 0 0
+~
+~
+Door 3 0 0 8142 0 0
+~
+~
+End
+
+#8142
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8144 0 0
+~
+~
+Door 1 0 0 8141 0 0
+~
+~
+Door 2 0 0 8143 0 0
+~
+~
+Door 3 0 0 8145 0 0
+~
+~
+End
+
+#8143
+Name An Altar of Worship~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 0 0 0 8142 0 0
+~
+~
+End
+
+#8144
+Name An Altar of Prayer~
+Descr
+An altar of worship stands here, dedicated to the man who built this
+pyramid, Kestler. Standing tall behind an altar for sacrifices and gifts is
+a statue, who's eyes seemingly follow you as you walk around. 
+~
+Flags 5
+Sector 0
+Reset M 8135 1 100
+Door 2 0 0 8142 0 0
+~
+~
+End
+
+#8145
+Name In the Lower Levels of the Pyramid~
+Descr
+Here in the lower levels of the pyramid, dust kicks up with every step
+you take. Clogging the back of your throat you cough yet continue onwards. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8142 0 0
+~
+~
+Door 3 259 0 8146 30 30
+~
+slab~
+End
+
+#8146
+Name A Room of Pure Silence~
+Descr
+The room you have entered is totally silent. Even noise you create seems
+to shrivel up and die when confronted with the overwhelming silence present
+in this room. 
+~
+Flags 32773
+Sector 0
+Door 1 259 0 8145 30 30
+~
+slab~
+Door 5 3 0 8147 30 30
+~
+floor panel~
+End
+
+#8147
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8148 0 0
+~
+~
+Door 4 3 0 8146 30 30
+~
+floor panel~
+End
+
+#8148
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8149 0 0
+~
+~
+Door 2 0 0 8147 0 0
+~
+~
+End
+
+#8149
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 0 0 8150 0 0
+~
+~
+Door 2 0 0 8148 0 0
+~
+~
+End
+
+#8150
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 2 0 0 8149 0 0
+~
+~
+Door 3 0 0 8151 0 0
+~
+~
+End
+
+#8151
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8152 0 0
+~
+~
+Door 1 0 0 8150 0 0
+~
+~
+End
+
+#8152
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8153 0 0
+~
+~
+Door 2 0 0 8151 0 0
+~
+~
+End
+
+#8153
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8154 0 0
+~
+~
+Door 2 0 0 8152 0 0
+~
+~
+End
+
+#8154
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 2 0 0 8153 0 0
+~
+~
+Door 3 0 0 8155 0 0
+~
+~
+End
+
+#8155
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8156 0 0
+~
+~
+Door 1 0 0 8154 0 0
+~
+~
+End
+
+#8156
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8157 0 0
+~
+~
+Door 2 0 0 8155 0 0
+~
+~
+End
+
+#8157
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8158 0 0
+~
+~
+Door 2 0 0 8156 0 0
+~
+~
+End
+
+#8158
+Name A Dark Passageway~
+Descr
+Cold damp and musty best describe this passageway you find yourself in.
+Unseen creatures swoop around in the air above you and you find yourself
+nearly bent double as you continue to traverse the tunnel. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 1 259 0 8159 30 30
+~
+slab~
+Door 2 0 0 8157 0 0
+~
+~
+End
+
+#8159
+Name A Room of Pure Silence~
+Descr
+The room you have entered is totally silent. Even noise you create seems
+to shrivel up and die when confronted with the overwhelming silence present
+in this room. 
+~
+Flags 32773
+Sector 0
+Door 3 259 0 8158 30 30
+~
+slab~
+Door 5 3 0 8160 30 30
+~
+floor panel~
+End
+
+#8160
+Name Corridor Leading to an Ancient Tomb~
+Descr
+This corridor is well lit by torches lining the walls. With no obvious
+power source they still cast a light upon many pictures on the walls,
+showing the life of the great king. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8161 0 0
+~
+~
+Door 4 3 0 8159 30 30
+~
+floor panel~
+End
+
+#8161
+Name Corridor Leading to an Ancient Tomb~
+Descr
+This corridor is well lit by torches lining the walls. With no obvious
+power source they still cast a light upon many pictures on the walls,
+showing the life of the great king. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8162 0 0
+~
+~
+Door 2 0 0 8160 0 0
+~
+~
+End
+
+#8162
+Name Corridor Leading to an Ancient Tomb~
+Descr
+This corridor is well lit by torches lining the walls. With no obvious
+power source they still cast a light upon many pictures on the walls,
+showing the life of the great king. 
+~
+Flags 5
+Sector 0
+Reset M 8100 1 100
+Door 0 259 0 8196 30 30
+~
+brick~
+Door 1 0 0 8163 0 0
+~
+~
+Door 3 0 0 8161 0 0
+~
+~
+End
+
+#8163
+Name Corridor Leading to an Ancient Tomb~
+Descr
+This corridor is well lit by torches lining the walls. With no obvious
+power source they still cast a light upon many pictures on the walls,
+showing the life of the great king. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8164 0 0
+~
+~
+Door 3 0 0 8162 0 0
+~
+~
+Door 5 0 0 8164 0 0
+~
+~
+End
+
+#8164
+Name A Pit~
+Descr
+You stumble and fall into a pit!  It is deep and damp. There are no
+obvious ways out. 
+~
+Flags 5
+Sector 0
+Door 4 259 0 8163 30 30
+~
+secretbutton~
+End
+
+#8165
+Name Entrance to an Ancient Tomb~
+Descr
+To the east lies a great stone door leading - you assume - to the Tomb of
+King Kestler. Many different inscriptions are found on the door, mostly
+unintelligble. However, the hieroglyphics found seem to indicate that the
+doors describe some of the greatest feats the King performed. 
+~
+Flags 5
+Sector 0
+Door 1 3 0 8166 30 30
+~
+stoneslab~
+Door 3 0 0 8164 0 0
+~
+~
+Door 4 0 0 8199 0 0
+~
+~
+End
+
+#8166
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8167 0 0
+~
+~
+Door 2 0 0 8173 0 0
+~
+~
+Door 3 3 0 8165 30 30
+~
+stoneslab~
+End
+
+#8167
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8168 0 0
+~
+~
+Door 2 0 0 8172 0 0
+~
+~
+Door 3 0 0 8166 0 0
+~
+~
+End
+
+#8168
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8169 0 0
+~
+~
+Door 2 0 0 8171 0 0
+~
+~
+Door 3 0 0 8167 0 0
+~
+~
+End
+
+#8169
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8170 0 0
+~
+~
+Door 3 0 0 8168 0 0
+~
+~
+End
+
+#8170
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 2097157
+Sector 0
+Reset M 8170 1 100
+Reset O 42877 1 1
+Reset O 8101 1 1
+Door 0 0 0 8169 0 0
+~
+~
+Door 3 0 0 8171 0 0
+~
+~
+Door 5 259 0 8174 30 30
+~
+tomb~
+End
+
+#8171
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8168 0 0
+~
+~
+Door 1 0 0 8170 0 0
+~
+~
+Door 3 0 0 8172 0 0
+~
+~
+End
+
+#8172
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8167 0 0
+~
+~
+Door 1 0 0 8171 0 0
+~
+~
+Door 3 0 0 8173 0 0
+~
+~
+End
+
+#8173
+Name Tomb of King Kestler~
+Descr
+Inside the Tomb of King Kestler, it looks as if everything has been
+waiting here undisturbed for countless centuries. Hieroglyphics on the walls
+depict numerous scenes in the King's life, and on the floor lie a number of
+coffins which once housed the King's servants. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8166 0 0
+~
+~
+Door 1 0 0 8172 0 0
+~
+~
+End
+
+#8174
+Name Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8175 0 0
+~
+~
+Door 4 259 0 8170 30 30
+~
+tomb~
+End
+
+#8175
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8174 0 0
+~
+~
+Door 2 0 0 8176 0 0
+~
+~
+End
+
+#8176
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8175 0 0
+~
+~
+Door 2 0 0 8177 0 0
+~
+~
+End
+
+#8177
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8176 0 0
+~
+~
+Door 1 0 0 8178 0 0
+~
+~
+End
+
+#8178
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8179 0 0
+~
+~
+Door 3 0 0 8177 0 0
+~
+~
+End
+
+#8179
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8180 0 0
+~
+~
+Door 3 0 0 8178 0 0
+~
+~
+End
+
+#8180
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8179 0 0
+~
+~
+Door 2 0 0 8181 0 0
+~
+~
+End
+
+#8181
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8180 0 0
+~
+~
+Door 2 0 0 8182 0 0
+~
+~
+End
+
+#8182
+Name Path Under the Tomb~
+Descr
+This tunnel leads from the King's tomb southward. It seems to be of
+shoddier construction than the rest of the pyramid, but still spacious and
+in good condition after all the years it has been here. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8181 0 0
+~
+~
+Door 2 3 0 8183 30 30
+~
+boulder~
+End
+
+#8183
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Door 0 3 0 8182 30 30
+~
+boulder~
+Door 1 0 0 8184 0 0
+~
+~
+Door 2 0 0 8186 0 0
+~
+~
+Door 3 0 0 8185 0 0
+~
+~
+End
+
+#8184
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 8187 0 0
+~
+~
+Door 3 0 0 8183 0 0
+~
+~
+End
+
+#8185
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 8183 0 0
+~
+~
+Door 2 0 0 8188 0 0
+~
+~
+End
+
+#8186
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Reset M 8186 1 100
+Reset O 42876 1 1
+Reset O 8100 1 1
+Reset O 8186 -5 100
+Door 0 0 0 8183 0 0
+~
+~
+Door 1 0 0 8187 0 0
+~
+~
+Door 3 0 0 8188 0 0
+~
+~
+End
+
+#8187
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8184 0 0
+~
+~
+Door 3 0 0 8186 0 0
+~
+~
+End
+
+#8188
+Name Chamber of Queen Kestler~
+Descr
+This tomb is dedicated to the King Kestler's bride. Imprisoned in it
+after her husband passed away, you can only imagine the torment she must
+have gone through slowly starving away. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 8185 0 0
+~
+~
+Door 1 0 0 8186 0 0
+~
+~
+End
+
+#8189
+Name Chamber of Kestler~
+Descr
+The anguished spirit of Kestler resides here. Here he lies trapped on
+this plane of existance for crimes he committed while living. Perhaps you
+can put him out of his misery?  
+~
+Flags 4
+Sector 0
+Reset O 8187 -5 100
+Reset M 8189 1 100
+Reset O 8189 37 1
+Reset O 8170 -1 1
+End
+
+#8190
+Name Path Leading up the Pyramid~
+Descr
+Climbing up the stairs built into the sides of the pyramid is hard going.
+Upon closed inspection, the pyramid has seen some erosion from the endless
+howling winds of the desert. The stairs are not well maintained, and some
+crumble as you step upon them. 
+~
+Door 0 0 0 8100 0 0
+~
+~
+Door 5 0 0 8191 0 0
+~
+~
+End
+
+#8191
+Name Path Leading up the Pyramid~
+Descr
+Climbing up the stairs built into the sides of the pyramid is hard going.
+Upon closed inspection, the pyramid has seen some erosion from the endless
+howling winds of the desert. The stairs are not well maintained, and some
+crumble as you step upon them. 
+~
+Door 2 0 0 8192 0 0
+~
+~
+Door 4 0 0 8190 0 0
+~
+~
+End
+
+#8192
+Name Path Leading up the Pyramid~
+Descr
+Climbing up the stairs built into the sides of the pyramid is hard going.
+Upon closed inspection, the pyramid has seen some erosion from the endless
+howling winds of the desert. The stairs are not well maintained, and some
+crumble as you step upon them. 
+~
+Door 0 0 0 8191 0 0
+~
+~
+Door 5 0 0 8193 0 0
+~
+~
+End
+
+#8193
+Name Path Leading up the Pyramid~
+Descr
+Climbing up the stairs built into the sides of the pyramid is hard going.
+Upon closed inspection, the pyramid has seen some erosion from the endless
+howling winds of the desert. The stairs are not well maintained, and some
+crumble as you step upon them. 
+~
+Door 2 0 0 8194 0 0
+~
+~
+Door 4 0 0 8192 0 0
+~
+~
+End
+
+#8194
+Name Path Leading up the Pyramid~
+Descr
+Climbing up the stairs built into the sides of the pyramid is hard going.
+Upon closed inspection, the pyramid has seen some erosion from the endless
+howling winds of the desert. The stairs are not well maintained, and some
+crumble as you step upon them. 
+~
+Door 0 0 0 8193 0 0
+~
+~
+Door 5 0 0 8195 0 0
+~
+~
+End
+
+#8195
+Name Bottom of the Pyramid~
+Descr
+You stand here, in the blowing wind, in front of a large structure - the
+likes of which you have never seen before. Standing tall and proud amidst a
+backdrop of rolling sand dunes, the pyramid looks like it has seen countless
+millenium pass it, and will see countless more. 
+~
+Door 1 259 0 28303 30 30
+~
+brick~
+Door 4 0 0 8194 0 0
+~
+~
+End
+
+#8196
+Name A Secret Passage to an Ancient Tomb~
+Descr
+This corridor is poorly lit, and the walls appear to absorb light!  This
+passage appears to have not been used in centuries. 
+~
+Flags 4
+Sector 0
+Door 2 259 0 8162 30 30
+~
+brick~
+Door 4 0 0 8197 0 0
+~
+~
+End
+
+#8197
+Name A Secret Passage to an Ancient Tomb~
+Descr
+This corridor is poorly lit, and the walls appear to absorb light!  This
+passage appears to have not been used in centuries. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8198 0 0
+~
+~
+Door 5 0 0 8196 0 0
+~
+~
+End
+
+#8198
+Name A Secret Passage to an Ancient Tomb~
+Descr
+This corridor is poorly lit, and the walls appear to absorb light!  This
+passage appears to have not been used in centuries. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8199 0 0
+~
+~
+Door 3 0 0 8197 0 0
+~
+~
+End
+
+#8199
+Name A Secret Passage to an Ancient Tomb~
+Descr
+This corridor is poorly lit, and the walls appear to absorb light!  This
+passage appears to have not been used in centuries. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 8198 0 0
+~
+~
+Door 5 0 0 8165 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

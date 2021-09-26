@@ -1,0 +1,1837 @@
+#AREADATA 
+Name Road and More~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 29000 29202
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#29070
+Name kalmor~
+Short kalmor~
+Long 
+Kalmor, hater of all that is good, looks for something pure to kill.
+~
+Descr
+~
+AMax 1
+NHeight 84
+ActBits 16
+ActBits3 532480
+Affect_By 524968
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+BCasts curse~
+BCast_P 40
+End
+
+#29181
+Name paladin newbie~
+Short the newbie paladin~
+Long 
+A newbie paladin is here playing with a lance.
+~
+Descr
+~
+AMax 1
+NHeight 70
+Affect_By 128
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#29182
+Name paladin newbie~
+Short the newbie paladin~
+Long 
+A newbie paladin is here playing with a lance.
+~
+Descr
+~
+AMax 1
+NHeight 70
+Affect_By 128
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#29201
+Name large dragon~
+Short a large dragon~
+Long 
+A large dragon stands here, he looks very very old.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 67108867
+ActBits3 2
+Affect_By 524330
+Alignment 1000
+Money 175
+Level 175
+MobType 5
+Guard 5
+Spec spec_breath_any
+BCasts blindness~
+BCasts poison~
+BCasts blind~
+BCasts fireball~
+BCasts flamestrike~
+End
+
+#29202
+Name man travel ancient PRACT~
+Short an ancient traveller~
+Long 
+An ancient man is here mending a tunic.
+~
+Descr
+~
+AMax 1
+NHeight 55
+ActBits 2
+ActBits4 6144
+Affect_By 650
+AffectTWO 4194304
+Money 400
+Level 400
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts vulnerability~
+BCasts blinding~
+BCast_P 5
+BFlurries 1
+End
+
+#0
+
+
+
+#OBJDATA
+#29018
+Name worn sign~
+Short a worn sign~
+Descr
+A [1m[30mworn[0m[36m sign has been mounted to a wooden post.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Many adventurers have traveled past this great junction in route to their
+
+destinies. Here is a clue to help you on your way. 
+
+ 
+
+ 
+
+To the west : Arakis
+
+To the north : Avalon
+
+To the south : Greenway
+
+To the east : The Western Highway
+
+~
+End
+
+#29200
+Name sign~
+Short a sign~
+Descr
+a large sign on a stick is dug into the ground here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The Great Silver Dragon's Lair
+
+-------------------
+
+ 
+
+Below you is the great silver dragon, he has been here forever.
+
+It is your responsibility if you want to go in there
+
+or not. He is aggressive to ever person he see's.
+
+ 
+
+Be Careful!
+
+ 
+
+These were the last words of the Great Surreal, he got slayed by
+
+this Silver Dragon later on that day.
+
+~
+End
+
+#29201
+Name death ancient symbol~
+Short an ancient symbol of death~
+Descr
+an ancienet symbol of death lies here on the ground.
+[0;36m~
+Type 18
+Extra 67
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 14 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 13 5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#29202
+Name cloak color shifting~
+Short [0ma [35mc[1m[33mo[31ml[32mo[0m[35mr[0m shifting cloak~
+Descr
+[0ma [35mc[1m[33mo[31ml[32mo[0m[35mr[0m shifting cloak
+[0;36m~
+Type 9
+Extra 536870913
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 9 3 6 20 20 20 20 20 1
+Weight 2
+Cost 30000
+Affect 13 5 1 0 0
+Affect 20 -3 1 0 0
+Affect 17 -4 1 0 0
+Affect 19 2 1 0 0
+Affect 25 5 1 0 0
+Affect 22 5 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#29017
+Name A Less-Travelled Road~
+Descr
+You stand on a small road, leading east and west.  You can see a
+blackened, evil-feeling forest to the west, and a large mountain range to
+the east.  The air is filled with a strange smell of decay.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 40071 0 0
+~
+~
+Door 1 0 0 70223 0 0
+~
+~
+Door 3 0 0 29064 30 30
+~
+(null)~
+End
+
+#29064
+Name An Ancient Road of Evil~
+Descr
+The road runs east and west here, and an evil energy seems to seep up
+from the ground.  The road continues to the west, where you can see it bend
+to the south.  Far to the east you can see a towering mountain range.  It
+also turns to the north, where you see a turn.  
+~
+Reset M 29040 2 100
+Reset M 29036 4 100
+Movemess
+(null)~
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 29017 30 30
+~
+(null)~
+Door 3 0 0 29065 30 30
+~
+(null)~
+End
+
+#29065
+Name An Ancient Road of Evil~
+Descr
+The road bends to the east and to the south here.  The trees around the
+road are dark and foreboding, and no birds chirp and no animals rustle in
+the thick underbrush...  You notice a strange rock to the north.  
+~
+Reset M 29016 1 100
+Reset M 29041 1 100
+Reset O 29017 5 1
+Movemess
+(null)~
+Door 1 0 0 29064 30 30
+~
+(null)~
+Door 2 0 0 29066 30 30
+~
+(null)~
+Door 3 0 0 29113 30 30
+~
+(null)~
+End
+
+#29066
+Name An Ancient Road of Evil~
+Descr
+The road bends north and west here, and the trees thicken to the west. 
+The road is soft underfoot, and the dark soil reeks of decay and stale
+blood.  You find it odd that no birds chirp in the trees here.  
+~
+Reset M 29040 2 100
+Movemess
+(null)~
+Door 0 0 0 29065 30 30
+~
+(null)~
+Door 2 0 0 40064 0 0
+~
+~
+Door 3 0 0 29067 30 30
+~
+(null)~
+End
+
+#29067
+Name An Ancient Road of Evil~
+Descr
+You stand on a small road through a dark forest that heads to the east
+and west.  Nature seems to have gone wild here, although the trees seem to
+be twisted into perverted lumps of wood and blackened stumps.  
+~
+Movemess
+(null)~
+Door 0 0 0 29113 30 30
+~
+(null)~
+Door 1 0 0 29066 30 30
+~
+(null)~
+Door 3 0 0 29068 30 30
+~
+(null)~
+End
+
+#29068
+Name An Ancient Road of Evil~
+Descr
+The road continues to the east and west here.  No birds chirp in the
+trees on the side of the road, and the eerie silence fills your heart with a
+strange power of darkness and evil.  
+~
+Reset M 29034 2 100
+Reset M 29015 2 100
+Movemess
+(null)~
+Door 0 0 0 29114 30 30
+~
+(null)~
+Door 1 0 0 29067 30 30
+~
+(null)~
+Door 3 0 0 29069 30 30
+~
+(null)~
+Door 5 0 0 62070 0 0
+~
+~
+End
+
+#29069
+Name An Ancient Road of Evil~
+Descr
+The road bends to the north and east here, and you can see the road
+continue for a long ways to the east.  The leaves on the trees around the
+road are brown and look quite dead.  
+~
+Movemess
+(null)~
+Door 0 0 0 29070 30 30
+~
+(null)~
+Door 1 0 0 29068 30 30
+~
+(null)~
+Door 3 0 0 29115 30 30
+~
+(null)~
+End
+
+#29070
+Name An Ancient Road of Evil~
+Descr
+This path of evil runs north and south here, through some blackened and
+twisted trees.  A sense of evil creeps up from the ground, and you feel your
+heart fill with darkness and corruption.  
+~
+Movemess
+(null)~
+Door 0 0 0 29071 30 30
+~
+(null)~
+Door 1 0 0 29114 30 30
+~
+(null)~
+Door 2 0 0 29069 30 30
+~
+(null)~
+Door 3 0 0 29116 30 30
+~
+(null)~
+End
+
+#29071
+Name An Ancient Road of Evil~
+Descr
+The road bends to the south and west here, and the trees around the side
+of the road become more twisted and blackened the further west you travel. 
+The glistening black leaves look so unnatural...  
+~
+Reset M 29036 4 100
+Movemess
+(null)~
+Door 0 0 0 29185 30 30
+~
+(null)~
+Door 2 0 0 29070 30 30
+~
+(null)~
+Door 3 0 0 29072 30 30
+~
+(null)~
+End
+
+#29072
+Name An Ancient Road of Evil~
+Descr
+The ancient road of evil runs straight to the east and west for quite a
+ways here.  The trees on the side of the road have glistening black leaves
+which seem to suck up any presence of a good aura that may be nearby.  
+~
+Movemess
+(null)~
+Door 0 0 0 29184 30 30
+~
+(null)~
+Door 1 0 0 29071 30 30
+~
+(null)~
+Door 2 0 0 29116 30 30
+~
+(null)~
+Door 3 0 0 29073 30 30
+~
+(null)~
+End
+
+#29073
+Name An Ancient Road of Evil~
+Descr
+The road through this twisted, odd forest runs east and west here.  You
+can see some large mountains to the west, and you realize the caves of the
+evil city of Masqe are rumored to be there.  
+~
+Reset M 29039 5 100
+Reset M 29035 2 100
+Movemess
+(null)~
+Door 0 0 0 29183 30 30
+~
+(null)~
+Door 1 0 0 29072 30 30
+~
+(null)~
+Door 2 0 0 29117 30 30
+~
+(null)~
+Door 3 0 0 29074 30 30
+~
+(null)~
+End
+
+#29074
+Name An Ancient Road of Evil~
+Descr
+The ancient road of evil runs straight to the east and west for quite a
+ways here.  The trees on the side of the road have glistening black leaves
+which seem to suck up any presence of a good aura that may be nearby.  
+~
+Reset M 29036 4 100
+Movemess
+(null)~
+Door 0 0 0 29182 30 30
+~
+(null)~
+Door 1 0 0 29073 30 30
+~
+(null)~
+Door 2 0 0 29118 30 30
+~
+(null)~
+Door 3 0 0 29075 30 30
+~
+(null)~
+End
+
+#29075
+Name An Ancient Road of Evil~
+Descr
+You stand on an ancient evil road, in a forest full of twisted and
+blackened trees.  To the north, a dusty path begins, branching off from the
+main road.  An evil aura lingers in the air here.  
+~
+Reset M 29039 5 100
+Movemess
+(null)~
+Door 0 0 0 8495 30 30
+~
+(null)~
+Door 1 0 0 29074 30 30
+~
+(null)~
+Door 2 0 0 29076 30 30
+~
+(null)~
+End
+
+#29076
+Name An Ancient Road of Evil~
+Descr
+This ancient road bends to the north and west here.  To the west you can
+see large mountains rise up, and you can barely make out the cave entrance
+to the evil city of Masqe.  
+~
+Reset M 29070 1 100
+Movemess
+(null)~
+Door 0 0 0 29075 30 30
+~
+(null)~
+Door 1 0 0 29118 30 30
+~
+(null)~
+Door 2 0 0 29120 30 30
+~
+(null)~
+Door 3 0 0 29077 30 30
+~
+(null)~
+End
+
+#29077
+Name An Ancient Road of Evil~
+Descr
+The road runs to the east and west here, and you can see the large
+mountains tower up to the west of here.  The air is filled with an evil
+aura, and you feel a great corruption and darkness creep into your heart.  
+~
+Movemess
+(null)~
+Door 0 0 0 5984 0 0
+~
+~
+Door 1 0 0 29076 30 30
+~
+(null)~
+Door 2 0 0 29121 30 30
+~
+(null)~
+Door 3 0 0 29078 30 30
+~
+(null)~
+End
+
+#29078
+Name An Ancient Road of Evil~
+Descr
+You stand just outside the entrance to the evil cave-city of Masqe.  A
+foul wind filled with smells of rotting corpses and sweaty, tortured bodies
+drifts in from the west.  An evil aura here seems to gnaw into your soul,
+filling your heart with darkness.  
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 5985 0 0
+~
+~
+Door 1 0 0 29077 30 30
+~
+(null)~
+Door 2 0 0 29122 30 30
+~
+(null)~
+Door 3 0 0 5911 0 0
+~
+~
+End
+
+#29113
+Name A Dark Forest~
+Descr
+This dark forest is filled with the aura of evil and darkness, and you
+find it odd that no birds or animals can be heard.  You can see the ancient,
+evil road to the east and south through the trees.  
+~
+Flags 1
+Shd 1
+Sector 3
+Reset M 29036 4 100
+Reset M 29024 2 100
+Movemess
+(null)~
+Door 1 0 0 29065 30 30
+~
+(null)~
+Door 2 0 0 29067 30 30
+~
+(null)~
+Door 3 0 0 29114 30 30
+~
+(null)~
+End
+
+#29114
+Name A Dark Forest~
+Descr
+This dark forest is filled with the aura of evil and darkness, and you
+find it odd that no birds or animals can be heard.  You can see the ancient,
+evil road to the west and south through the trees.  
+~
+Flags 1
+Sector 3
+Reset M 50004 3 100
+Reset M 29018 2 100
+Movemess
+(null)~
+Door 1 0 0 29113 30 30
+~
+(null)~
+Door 2 0 0 29068 30 30
+~
+(null)~
+Door 3 0 0 29070 30 30
+~
+(null)~
+End
+
+#29115
+Name A Dark Forest~
+Descr
+You stand in a dark forest, just west of the ancient road of evil.  The
+trees are black and give off an aura of evil and pain, and you feel very out
+of place here.  A strange unnatural power seems to be keeping this area
+alive.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29116 30 30
+~
+(null)~
+Door 1 0 0 29069 30 30
+~
+(null)~
+End
+
+#29116
+Name A Dark Forest~
+Descr
+You stand in a dark forest, just west and south of the ancient road of
+evil.  The trees are black and give off an aura of evil and pain, and you
+feel very out of place here.  A strange unnatural power seems to be keeping
+this area alive.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29072 30 30
+~
+(null)~
+Door 1 0 0 29070 30 30
+~
+(null)~
+Door 2 0 0 29115 30 30
+~
+(null)~
+Door 3 0 0 29117 30 30
+~
+(null)~
+End
+
+#29117
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see an ancient road to the north.  
+~
+Flags 1
+Shd 1
+Sector 3
+Reset M 50004 3 100
+Reset M 8453 1 100
+Reset O 29015 -1 65
+Reset O 237 -1 100
+Reset O 222 -1 85
+Reset O 202 -1 100
+Reset O 236 -1 100
+Reset O 14033 -1 45
+Movemess
+(null)~
+Door 0 0 0 29073 30 30
+~
+(null)~
+Door 1 0 0 29116 30 30
+~
+(null)~
+Door 3 0 0 29118 30 30
+~
+(null)~
+End
+
+#29118
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see the ancient road of evil to the north and west.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29074 30 30
+~
+(null)~
+Door 1 0 0 29117 30 30
+~
+(null)~
+Door 2 0 0 29119 30 30
+~
+(null)~
+Door 3 0 0 29076 30 30
+~
+(null)~
+End
+
+#29119
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  More dark forest can be seen to the north and west.  
+~
+Flags 1
+Shd 1
+Sector 3
+Reset M 29033 2 100
+Reset M 29018 2 100
+Movemess
+(null)~
+Door 0 0 0 29118 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+Large, thick trees block the way to the east.  
+~
+(null)~
+Door 2 0 0 29181 30 30
+~
+(null)~
+Door 3 0 0 29120 30 30
+~
+(null)~
+End
+
+#29120
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see a path to the north.  
+~
+Flags 1
+Shd 1
+Sector 3
+Reset M 50003 3 100
+Reset M 29019 1 100
+Reset O 29007 11 88
+Reset O 29008 21 65
+Movemess
+(null)~
+Door 0 0 0 29076 30 30
+~
+(null)~
+Door 1 0 0 29119 30 30
+~
+(null)~
+Door 2 0 0 29180 30 30
+~
+(null)~
+Door 3 0 0 29121 30 30
+~
+(null)~
+End
+
+#29121
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see a road to the north.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29077 30 30
+~
+(null)~
+Door 1 0 0 29120 30 30
+~
+(null)~
+Door 2 0 0 29179 30 30
+~
+(null)~
+Door 3 0 0 29122 30 30
+~
+(null)~
+End
+
+#29122
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest, which pours forth a strange evil aura. 
+To the north you can see the entrance to the cave city, Masqe, and to the
+east is mort forest.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29078 30 30
+~
+(null)~
+Door 1 0 0 29121 30 30
+~
+(null)~
+Door 2 0 0 29186 30 30
+~
+(null)~
+Door 3 0 0 6007 0 0
+~
+~
+End
+
+#29123
+Name A Mysterious Dark Trail~
+Descr
+You stand on a dark trail.  Maggots and cockroaches crawl all over the
+ground, and you smile as you hear a constant crunching noise as you walk
+over the black and red squished bugs.  
+~
+Flags 1
+Movemess
+(null)~
+Door 2 0 0 29124 30 30
+~
+(null)~
+End
+
+#29124
+Name A Mysterious Dark Trail~
+Descr
+The trail turns to the north and east here, and thick trees block your
+way to the west and south.  The ground is covered with bugs and black dirt,
+and you can smell a decaying body in the distance.  
+~
+Flags 3
+Reset M 29024 2 100
+Movemess
+(null)~
+Door 0 0 0 29123 30 30
+~
+(null)~
+Door 1 0 0 29125 30 30
+~
+(null)~
+End
+
+#29125
+Name A Mysterious Dark Trail~
+Descr
+You stand on a dark trail.  Maggots and cockroaches crawl all over the
+ground, and you smile as you hear a constant crunching noise as you walk
+over the black and red squished bugs.  
+~
+Flags 1
+Movemess
+(null)~
+Door 2 0 0 29126 30 30
+~
+(null)~
+Door 3 0 0 29124 30 30
+~
+(null)~
+End
+
+#29126
+Name A Mysterious Dark Trail~
+Descr
+You stand on a dark, mysterious trail.  The ground here is stained red
+with blood, and you can see a large hole here in the ground.  A foul stench
+of death and decay wafts up from the hole.  
+~
+Flags 3
+Reset M 29023 1 100
+Reset O 29013 4 36
+Reset O 29006 21 3
+Reset O 29009 -5 100
+Movemess
+(null)~
+Door 0 0 0 29125 30 30
+~
+(null)~
+Door 2 0 0 40457 0 0
+~
+~
+End
+
+#29127
+Name Inside a Damp underground Cavern~
+Descr
+You stand underground, in a damp cavern.  Passages branch off to the
+east, south and west here, and you can barely breath because of the still
+air filled with smells of decay.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 29129 30 30
+~
+(null)~
+Door 2 0 0 29130 30 30
+~
+(null)~
+Door 3 0 0 29128 30 30
+~
+(null)~
+Door 4 0 0 29126 30 30
+~
+(null)~
+End
+
+#29128
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Reset M 29021 5 100
+Reset O 33 21 80
+Movemess
+(null)~
+Door 1 0 0 29127 30 30
+~
+(null)~
+Door 3 0 0 29135 30 30
+~
+(null)~
+End
+
+#29129
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Movemess
+(null)~
+Door 1 0 0 29140 30 30
+~
+(null)~
+Door 3 0 0 29127 30 30
+~
+(null)~
+End
+
+#29130
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29127 30 30
+~
+(null)~
+Door 2 0 0 29131 30 30
+~
+(null)~
+End
+
+#29131
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29130 30 30
+~
+(null)~
+Door 3 0 0 29132 30 30
+~
+(null)~
+End
+
+#29132
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29133 30 30
+~
+(null)~
+Door 1 0 0 29131 30 30
+~
+(null)~
+End
+
+#29133
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Movemess
+(null)~
+Door 2 0 0 29132 30 30
+~
+(null)~
+Door 3 0 0 29134 30 30
+~
+(null)~
+End
+
+#29134
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 29139 30 30
+~
+(null)~
+Door 1 0 0 29133 30 30
+~
+(null)~
+End
+
+#29135
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Reset M 29022 2 100
+Movemess
+(null)~
+Door 0 0 0 29136 30 30
+~
+(null)~
+Door 1 0 0 29128 30 30
+~
+(null)~
+End
+
+#29136
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Movemess
+(null)~
+Door 2 0 0 29135 30 30
+~
+(null)~
+Door 3 0 0 29137 30 30
+~
+(null)~
+End
+
+#29137
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Movemess
+(null)~
+Door 1 0 0 29136 30 30
+~
+(null)~
+Door 3 0 0 29138 30 30
+~
+(null)~
+End
+
+#29138
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Reset M 29021 5 100
+Reset O 33 21 100
+Movemess
+(null)~
+Door 1 0 0 29137 30 30
+~
+(null)~
+Door 2 0 0 29139 30 30
+~
+(null)~
+End
+
+#29139
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29138 30 30
+~
+(null)~
+Door 2 0 0 29134 30 30
+~
+(null)~
+End
+
+#29140
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Reset M 29021 5 100
+Reset O 29012 21 90
+Movemess
+(null)~
+Door 2 0 0 29141 30 30
+~
+(null)~
+Door 3 0 0 29129 30 30
+~
+(null)~
+End
+
+#29141
+Name An Underground Passageway~
+Descr
+This underground passage is damn and muggy, and water drips from the
+earthen ceiling above you.  You can smell rotting flesh somewhere in the
+distance, but you are confused and can't tell which way is which down here. 
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29140 30 30
+~
+(null)~
+Door 1 0 0 29142 30 30
+~
+(null)~
+End
+
+#29142
+Name An Underground Passageway~
+Descr
+The air here is totally stagnant, and your eyes begin to tear as a
+strange evil gas seems to bite at your eyes.  The passages down here all
+look the same, and you feel very confused and hope you can find a way out.  
+~
+Flags 5
+Reset M 29022 2 100
+Reset M 29021 5 100
+Reset O 29012 21 45
+Movemess
+(null)~
+Door 2 0 0 29143 30 30
+~
+(null)~
+Door 3 0 0 29141 30 30
+~
+(null)~
+End
+
+#29143
+Name Inside a Large Underground Cavern~
+Descr
+This large underground cavern makes you almost vomit from the horrible
+stench and noxious gasses that hang in the still air.  You feel a strange
+evil presence all around you...  
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29142 30 30
+~
+(null)~
+Door 1 0 0 29145 30 30
+~
+(null)~
+Door 2 0 0 29144 30 30
+~
+(null)~
+End
+
+#29144
+Name Inside a Large Underground Cavern~
+Descr
+This large underground cavern makes you almost vomit from the horrible
+stench and noxious gasses that hang in the still air.  You feel a strange
+evil presence all around you...  
+~
+Flags 5
+Movemess
+(null)~
+Door 0 0 0 29143 30 30
+~
+(null)~
+Door 1 0 0 29146 30 30
+~
+(null)~
+End
+
+#29145
+Name Inside a Large Underground Cavern~
+Descr
+This large underground cavern makes you almost vomit from the horrible
+stench and noxious gasses that hang in the still air.  You feel a strange
+evil presence all around you...  
+~
+Flags 5
+Movemess
+(null)~
+Door 2 0 0 29146 30 30
+~
+(null)~
+Door 3 0 0 29143 30 30
+~
+(null)~
+End
+
+#29146
+Name Inside a Large Underground Cavern~
+Descr
+This large underground cavern makes you almost vomit from the horrible
+stench and noxious gasses that hang in the still air.  You feel a strange
+evil presence all around you...  
+~
+Flags 5
+Reset M 29020 1 100
+Reset O 29011 8 1
+Movemess
+(null)~
+Door 0 0 0 29145 30 30
+~
+(null)~
+Door 3 0 0 29144 30 30
+~
+(null)~
+End
+
+#29151
+Name A Path in a Dark Forest~
+Descr
+This dark and evil path seems to put a fearful pain in your heart; you
+feel like you could face great danger at any possible moment, and you have
+the sudden urge to turn back.  
+~
+Flags 3
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29152 30 30
+~
+(null)~
+Door 2 0 0 3531 0 0
+~
+~
+End
+
+#29152
+Name A Path up a Hill~
+Descr
+This path appears to lead up a hill to the east, although it is hard to
+tell exactly how high this hill is because of the towering trees overhead. 
+You can see the forest to the south.  
+~
+Flags 1
+Sector 4
+Movemess
+(null)~
+Door 1 0 0 29153 30 30
+~
+(null)~
+Door 2 0 0 29151 0 0
+~
+~
+End
+
+#29153
+Name A Path up the Side of a Volcano~
+Descr
+You stand on a path that leads up and down the side of a large volcano. 
+To the southwest you can see the dark forest below you.  The air smells of
+molten rock, and the heat coming from small rivers of lava nearby is
+intense.  
+~
+Flags 1
+Sector 4
+Movemess
+(null)~
+Door 0 0 0 29154 30 30
+~
+(null)~
+Door 3 0 0 29152 30 30
+~
+(null)~
+End
+
+#29154
+Name Atop a Fiery Volcano~
+Descr
+You stand atop a large volcano.  Small streams of lava pour down its
+side, and you can see a large opening down in the crater below.  You have a
+horrible premonition about going downward though, and you can feel a great
+aura of danger in the air coming from inside the volcano.  
+~
+Flags 1
+Sector 4
+Movemess
+(null)~
+Door 2 0 0 29153 30 30
+~
+(null)~
+Door 5 0 0 29155 30 30
+~
+(null)~
+End
+
+#29155
+Name Inside a Fiery Volcano~
+Descr
+You stand inside a large, hot volcano.  A great evil pours forth from the
+north, and you can see what looks like another dimension; barren lands and
+grasses growing inside the volcano to the north!  
+~
+Sector 0
+Reset M 29026 2 100
+Reset M 29026 2 100
+Movemess
+(null)~
+Door 0 0 0 29156 30 30
+~
+(null)~
+Door 4 0 0 29154 30 30
+~
+(null)~
+End
+
+#29156
+Name An Underground Land in the Volcano~
+Descr
+This strange land makes you feel like you are in some alternate
+dimension, sustained by a dark, evil power that seems to come from the
+center of the earth itself.  You fear for your life as you consider heading
+further north into the evil blanket of darkness.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 20900 30 30
+~
+(null)~
+Door 2 0 0 29155 30 30
+~
+(null)~
+End
+
+#29179
+Name A Dark Forest~
+Descr
+The forest is damp and stinks of rotting wet flesh here.  The tree leaves
+are blackened and dead, and a strange evil aura seeps up from the ground
+here.  You can see more forest and then the road to the north.  
+~
+Flags 2
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29121 30 30
+~
+(null)~
+Door 1 0 0 29180 30 30
+~
+(null)~
+Door 2 0 0 6014 0 0
+~
+~
+Door 3 0 0 29186 30 30
+~
+(null)~
+End
+
+#29180
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see a road a ways to the north.  
+~
+Flags 2
+Shd 1
+Sector 3
+Reset M 29039 5 100
+Reset M 29033 2 100
+Movemess
+(null)~
+Door 0 0 0 29120 30 30
+~
+(null)~
+Door 1 0 0 29181 30 30
+~
+(null)~
+Door 2 0 0 29187 30 30
+~
+(null)~
+Door 3 0 0 29179 30 30
+~
+(null)~
+End
+
+#29181
+Name A Dark Forest~
+Descr
+The forest is damp and stinks of rotting wet flesh here.  The tree leaves
+are blackened and dead, and a strange evil aura seeps up from the ground
+here.  You can see more forest and then the road to the north.  
+~
+Flags 2
+Shd 1
+Sector 3
+Reset M 29181 1 100
+Reset O 3500 -1 30
+Movemess
+(null)~
+Door 0 0 0 29119 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 50007 0 0
+~
+~
+Door 3 0 0 29180 30 30
+~
+(null)~
+End
+
+#29182
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  More dark forest can be seen to the south.  
+~
+Shd 1
+Sector 3
+Reset M 29034 2 100
+Movemess
+(null)~
+Door 1 0 0 29183 30 30
+~
+(null)~
+Door 2 0 0 29074 30 30
+~
+(null)~
+Door 3 0 0 8495 30 30
+~
+(null)~
+End
+
+#29183
+Name A Dark Forest~
+Descr
+This forest, just north of the ancient evil road, seems alive with evil
+energies.  A blackness and feeling of pain and power washes over you as you
+journey through these blackened woods.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 29184 30 30
+~
+(null)~
+Door 2 0 0 29073 30 30
+~
+(null)~
+Door 3 0 0 29182 30 30
+~
+(null)~
+End
+
+#29184
+Name A Dark Forest~
+Descr
+This forest, just north of the ancient evil road, seems alive with evil
+energies.  A blackness and feeling of pain and power washes over you as you
+journey through these blackened woods.  
+~
+Shd 1
+Sector 3
+Reset M 29035 2 100
+Movemess
+(null)~
+Door 1 0 0 29185 30 30
+~
+(null)~
+Door 2 0 0 29072 30 30
+~
+(null)~
+Door 3 0 0 29183 30 30
+~
+(null)~
+End
+
+#29185
+Name A Dark Forest~
+Descr
+This forest, just north of the ancient evil road, seems alive with evil
+energies.  A blackness and feeling of pain and power washes over you as you
+journey through these blackened woods.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 29071 30 30
+~
+(null)~
+Door 3 0 0 29184 30 30
+~
+(null)~
+End
+
+#29186
+Name The Forest of Masqe~
+Descr
+You stand in a blackened forest the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence. This part of the forest is dark and has animals and other
+beings wandering around inside.To the northwest are the caves of Masqe. To
+the south another mountain range can be seen.
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29122 30 30
+~
+(null)~
+Door 1 0 0 29179 30 30
+~
+(null)~
+Door 2 0 0 6013 0 0
+~
+~
+Door 3 0 0 6008 0 0
+~
+~
+End
+
+#29187
+Name A Dark Forest~
+Descr
+You stand in a blackened forest; the air is thick with the smell of death
+and decay, and when you listen for birds and animals you just hear a still,
+dead silence.  You can see a road a ways to the north.  
+~
+Shd 1
+Sector 3
+Reset M 6056 1 100
+Reset M 50003 3 100
+Movemess
+(null)~
+Door 0 0 0 29180 30 30
+~
+(null)~
+Door 1 0 0 50007 0 0
+~
+~
+Door 2 0 0 29188 30 30
+~
+(null)~
+Door 3 0 0 6014 0 0
+~
+~
+End
+
+#29188
+Name A Dark Forest~
+Descr
+The forest is damp and stinks of rotting wet flesh here.  The tree leaves
+are blackened and dead, and a strange evil aura seeps up from the ground
+here.  You can see more forest for a long ways to the north.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29187 30 30
+~
+(null)~
+Door 1 0 0 50006 30 30
+~
+(null)~
+Door 2 0 0 50003 30 30
+~
+(null)~
+Door 3 0 0 29189 30 30
+~
+(null)~
+End
+
+#29189
+Name A Dark Forest~
+Descr
+You stand in a dark forest, covered with thick black leaves and filled
+with the horrible smell of rotten pine and decaying plants.  The large stone
+walls of the cave of Masqe blocks your way to the north.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 6014 30 30
+The large walls of Masqe block the way.  
+~
+(null)~
+Door 1 0 0 29188 30 30
+~
+(null)~
+Door 2 0 0 50000 30 30
+~
+(null)~
+Door 3 0 0 29190 30 30
+~
+(null)~
+End
+
+#29190
+Name A Dark Forest~
+Descr
+You stand in a dark, withered forest, just east of a large paved road.  A
+strange evil aura seeps up from the damp ground.  The stone walls of Masqe
+block your way to the north.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 6013 30 30
+The huge stone walls of Masqe block your way.  
+~
+(null)~
+Door 1 0 0 29189 30 30
+~
+(null)~
+Door 2 0 0 29191 30 30
+~
+(null)~
+Door 3 0 0 6010 0 0
+~
+~
+End
+
+#29191
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest that looks like has been burned down
+recently.  The blackened stumps density and stench of ash seems to intensify
+to the east.  
+~
+Shd 1
+Sector 3
+Reset M 29039 5 100
+Movemess
+(null)~
+Door 0 0 0 29190 30 30
+~
+(null)~
+Door 1 0 0 50000 30 30
+~
+(null)~
+Door 2 0 0 29192 30 30
+~
+(null)~
+Door 3 0 0 6011 0 0
+~
+~
+End
+
+#29192
+Name A Blackened Forest~
+Descr
+You stand in a blackened forest that looks like has been burned down
+recently.  The blackened stumps density and stench of ash seems to intensify
+to the east.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 29191 30 30
+~
+(null)~
+Door 1 0 0 50001 30 30
+~
+(null)~
+Door 2 0 0 6061 30 30
+Large, dense trees block your way.  
+~
+(null)~
+Door 3 0 0 6012 0 0
+~
+~
+End
+
+#29201
+Name A Silver Dragon's Lair~
+Descr
+You are in a large lair guarded by the silver dragon, the dragon is very
+big so he needs a lot of space.  You wouldn't know where inside this lair
+this dragon would be, because he is hidden.  
+~
+Flags 1
+Sector 0
+Reset M 29201 1 100
+Door 4 3 0 29200 30 30
+~
+lair~
+Door 5 259 0 29202 30 30
+~
+secret~
+End
+
+#29202
+Name A Hidden Chamber~
+Descr
+You have entered a chamber of meditation. You see what seems to be an
+extremely old man sitting in a rocking chair mending a traveler's cloak. You
+notice that if the man stopped moving he would totally blend into the
+shadows. Everything in the room seems to have some chameleon-like
+characteristics. 
+~
+Reset M 29202 1 100
+Reset O 8079 -1 5
+Reset O 29202 -1 10
+Door 4 259 0 29201 30 30
+~
+secret~
+End
+
+#0
+
+
+
+#$

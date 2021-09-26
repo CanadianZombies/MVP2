@@ -1,0 +1,3028 @@
+#AREADATA 
+Name Anakain Highway Area~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Nicodemus Lanfear~
+VNUMs 3451 3699
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#3451
+Name a traveler~
+Short a traveler~
+Long 
+A lost traveler is here making his way in the world.
+~
+Descr
+~
+AMax 6
+NHeight 0
+Money 100
+Level 100
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#3455
+Name sentinel~
+Short an elusive sentinel~
+Long 
+An elusive sentinel is here to warn of intruders.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 66058
+Alignment -1000
+Money 50
+Level 50
+MobType 0
+Guard 0
+End
+
+#3500
+Name cult member~
+Short a Thief's cult member~
+Long 
+A Thief's cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 9000
+ShopCS A cult member snaps his fingers and a token appears out of thin air.~
+End
+
+#3542
+Name venerette statue~
+Short statue of venerette~
+Long 
+The statue of the great Venerette stands here above you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 138
+Money 250
+Level 250
+Sex 2
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#3698
+Name ticket taker~
+Short a ticket taker~
+Long 
+A ticket taker is sneering at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Money 400
+Level 400
+MobType 0
+Guard 0
+End
+
+#3699
+Name ticket seller~
+Short a ticket seller~
+Long 
+A ticket seller is standing here.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 2
+Affect_By 8744
+Money 400
+Level 400
+MobType 0
+Guard 2
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+BFlurries 1
+End
+
+#0
+
+
+
+#OBJDATA
+#3500
+Name thorn rose plant rose lance~
+Short [0mthe [33mthorn[0m of a [1m[37mbeautiful[0m [31mr[1m[31mo[0m[31mse[0m~
+Descr
+A small piece of plant with a sharp point lies here.
+[0;36m~
+Type 5
+Extra 1073741825
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 0 0 0 0 4 4 0
+Weight 2
+Cost 0
+End
+
+#3532
+Name opening~
+Short an opening~
+Descr
+A small opening in the wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 3541 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3541
+Name reflection portal~
+Short a reflected portal~
+Descr
+[0mThe [1m[37mreflection[0m of a [36mtransparent[0m portal.
+[0;36m~
+Type 12
+Extra 2
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 3542 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3699
+Name ticket ferry~
+Short a [35mferry[0m ticket~
+Descr
+A [35mferry[0m ticket is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 500
+End
+
+#0
+
+
+
+#ROOMDATA
+#3451
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3461 0 0
+~
+~
+Door 1 0 0 3452 0 0
+~
+~
+Door 3 0 0 70223 0 0
+~
+~
+End
+
+#3452
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3462 0 0
+~
+~
+Door 1 0 0 3453 0 0
+~
+~
+Door 3 0 0 3451 0 0
+~
+~
+End
+
+#3453
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3464 0 0
+~
+~
+Door 1 0 0 3454 0 0
+~
+~
+Door 3 0 0 3452 0 0
+~
+~
+End
+
+#3454
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3463 0 0
+~
+~
+Door 1 0 0 3455 0 0
+~
+~
+Door 3 0 0 3453 0 0
+~
+~
+End
+
+#3455
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3465 0 0
+~
+~
+Door 1 0 0 3456 0 0
+~
+~
+Door 3 0 0 3454 0 0
+~
+~
+End
+
+#3456
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3466 0 0
+~
+~
+Door 1 0 0 3457 0 0
+~
+~
+Door 3 0 0 3455 0 0
+~
+~
+End
+
+#3457
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3467 0 0
+~
+~
+Door 1 0 0 3458 0 0
+~
+~
+Door 3 0 0 3456 0 0
+~
+~
+End
+
+#3458
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3468 0 0
+~
+~
+Door 1 0 0 3459 0 0
+~
+~
+Door 3 0 0 3457 0 0
+~
+~
+End
+
+#3459
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3469 0 0
+~
+~
+Door 1 0 0 3460 0 0
+~
+~
+Door 3 0 0 3458 0 0
+~
+~
+End
+
+#3460
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3470 0 0
+~
+~
+Door 3 0 0 3459 0 0
+~
+~
+End
+
+#3461
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3462 0 0
+~
+~
+Door 2 0 0 3451 0 0
+~
+~
+End
+
+#3462
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3464 0 0
+~
+~
+Door 2 0 0 3452 0 0
+~
+~
+Door 3 0 0 3461 0 0
+~
+~
+End
+
+#3463
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3465 0 0
+~
+~
+Door 2 0 0 3454 0 0
+~
+~
+Door 3 0 0 3464 0 0
+~
+~
+End
+
+#3464
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3463 0 0
+~
+~
+Door 2 0 0 3453 0 0
+~
+~
+Door 3 0 0 3462 0 0
+~
+~
+End
+
+#3465
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3466 0 0
+~
+~
+Door 2 0 0 3455 0 0
+~
+~
+Door 3 0 0 3463 0 0
+~
+~
+End
+
+#3466
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3467 0 0
+~
+~
+Door 2 0 0 3456 0 0
+~
+~
+Door 3 0 0 3465 0 0
+~
+~
+End
+
+#3467
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3468 0 0
+~
+~
+Door 2 0 0 3457 0 0
+~
+~
+Door 3 0 0 3466 0 0
+~
+~
+End
+
+#3468
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3469 0 0
+~
+~
+Door 2 0 0 3458 0 0
+~
+~
+Door 3 0 0 3467 0 0
+~
+~
+End
+
+#3469
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Reset M 3451 1 100
+Door 2 0 0 3459 0 0
+~
+~
+Door 3 0 0 3468 0 0
+~
+~
+End
+
+#3470
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3471 0 0
+~
+~
+Door 1 0 0 3482 0 0
+~
+~
+Door 2 0 0 3460 0 0
+~
+~
+End
+
+#3471
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3472 0 0
+~
+~
+Door 2 0 0 3470 0 0
+~
+~
+End
+
+#3472
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3473 0 0
+~
+~
+Door 2 0 0 3482 0 0
+~
+~
+Door 3 0 0 3471 0 0
+~
+~
+End
+
+#3473
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3474 0 0
+~
+~
+Door 2 0 0 3483 0 0
+~
+~
+Door 3 0 0 3472 0 0
+~
+~
+End
+
+#3474
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3475 0 0
+~
+~
+Door 2 0 0 3484 0 0
+~
+~
+Door 3 0 0 3473 0 0
+~
+~
+End
+
+#3475
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3476 0 0
+~
+~
+Door 2 0 0 3485 0 0
+~
+~
+Door 3 0 0 3474 0 0
+~
+~
+End
+
+#3476
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3477 0 0
+~
+~
+Door 2 0 0 3486 0 0
+~
+~
+Door 3 0 0 3475 0 0
+~
+~
+End
+
+#3477
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3478 0 0
+~
+~
+Door 2 0 0 3487 0 0
+~
+~
+Door 3 0 0 3476 0 0
+~
+~
+End
+
+#3478
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3479 0 0
+~
+~
+Door 2 0 0 3488 0 0
+~
+~
+Door 3 0 0 3477 0 0
+~
+~
+End
+
+#3479
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3480 0 0
+~
+~
+Door 2 0 0 3489 0 0
+~
+~
+Door 3 0 0 3478 0 0
+~
+~
+End
+
+#3480
+Name Alongside the Highway~
+Descr
+This is a little clearing bordered by sheer cliffs to the east, a dense
+forest too the north and the highway to the west and south. 
+~
+Sector 3
+Door 2 0 0 3490 0 0
+~
+~
+Door 3 0 0 3479 0 0
+~
+~
+End
+
+#3481
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3491 0 0
+~
+~
+Door 3 0 0 3490 0 0
+~
+~
+End
+
+#3482
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3472 0 0
+~
+~
+Door 1 0 0 3483 0 0
+~
+~
+Door 3 0 0 3470 0 0
+~
+~
+End
+
+#3483
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3473 0 0
+~
+~
+Door 1 0 0 3484 0 0
+~
+~
+Door 3 0 0 3482 0 0
+~
+~
+End
+
+#3484
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3474 0 0
+~
+~
+Door 1 0 0 3485 0 0
+~
+~
+Door 3 0 0 3483 0 0
+~
+~
+End
+
+#3485
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3475 0 0
+~
+~
+Door 1 0 0 3486 0 0
+~
+~
+Door 3 0 0 3484 0 0
+~
+~
+End
+
+#3486
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3476 0 0
+~
+~
+Door 1 0 0 3487 0 0
+~
+~
+Door 3 0 0 3485 0 0
+~
+~
+End
+
+#3487
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3477 0 0
+~
+~
+Door 1 0 0 3488 0 0
+~
+~
+Door 3 0 0 3486 0 0
+~
+~
+End
+
+#3488
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3478 0 0
+~
+~
+Door 1 0 0 3489 0 0
+~
+~
+Door 3 0 0 3487 0 0
+~
+~
+End
+
+#3489
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Reset M 3451 1 100
+Door 0 0 0 3479 0 0
+~
+~
+Door 1 0 0 3490 0 0
+~
+~
+Door 3 0 0 3488 0 0
+~
+~
+End
+
+#3490
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3480 0 0
+~
+~
+Door 1 0 0 3481 0 0
+~
+~
+Door 3 0 0 3489 0 0
+~
+~
+End
+
+#3491
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3492 0 0
+~
+~
+Door 2 0 0 3481 0 0
+~
+~
+End
+
+#3492
+Name Anakain Highway~
+Descr
+The highway continues downwards, following a trail down the side of a
+cliff. The steep angle of descent makes for some tricky navigation. 
+~
+Door 3 0 0 3491 0 0
+~
+~
+Door 5 0 0 3545 0 0
+~
+~
+End
+
+#3493
+Name Path Leading Down the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Door 0 0 0 3494 0 0
+~
+~
+End
+
+#3494
+Name Path Leading Down the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Door 0 0 0 3495 0 0
+~
+~
+Door 2 0 0 3493 0 0
+~
+~
+End
+
+#3495
+Name Path Leading Down the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Door 2 0 0 3494 0 0
+~
+~
+Door 3 0 0 3496 0 0
+~
+~
+End
+
+#3496
+Name Path Leading Down the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Reset M 3451 1 100
+Door 1 0 0 3495 0 0
+~
+~
+Door 3 0 0 3497 0 0
+~
+~
+End
+
+#3497
+Name Path Leading Down the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Door 1 0 0 3496 0 0
+~
+~
+Door 2 0 0 3498 0 0
+~
+~
+End
+
+#3498
+Name Just Above the Highway~
+Descr
+This winding path follows a cliff wall. At times you seem precariously
+perched upon this pitiful pathway. 
+~
+Door 0 0 0 3497 0 0
+~
+~
+Door 5 0 0 3501 0 0
+~
+~
+End
+
+#3499
+Name Off the Edge of a Cliff~
+Descr
+From this vantage point, you can see the road continuing to the east
+towards a great mountain. Below you lies the highway, the people walking
+upon it looking like insects. 
+~
+Sector 9
+Door 5 0 0 3500 0 0
+~
+~
+End
+
+#3500
+Name Off the Edge of a Cliff~
+Descr
+From this vantage point, you can see the road continuing to the east
+towards a great mountain. Below you lies the highway, the people walking
+upon it looking like insects. 
+~
+Sector 9
+Door 4 0 0 3499 0 0
+~
+~
+Door 5 0 0 3503 0 0
+~
+~
+End
+
+#3501
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3502 0 0
+~
+~
+Door 4 0 0 3498 0 0
+~
+~
+End
+
+#3502
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3543 0 0
+~
+~
+Door 2 0 0 3503 0 0
+~
+~
+Door 3 0 0 3501 0 0
+~
+~
+End
+
+#3503
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3502 0 0
+~
+~
+Door 1 0 0 3504 0 0
+~
+~
+Door 4 0 0 3500 0 0
+~
+~
+End
+
+#3504
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 2 0 0 3544 0 0
+~
+~
+Door 3 0 0 3503 0 0
+~
+~
+End
+
+#3505
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3506 0 0
+~
+~
+Door 2 0 0 3545 0 0
+~
+~
+End
+
+#3506
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3507 0 0
+~
+~
+Door 2 0 0 3546 0 0
+~
+~
+Door 3 0 0 3505 0 0
+~
+~
+End
+
+#3507
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3508 0 0
+~
+~
+Door 2 0 0 3547 0 0
+~
+~
+Door 3 0 0 3506 0 0
+~
+~
+End
+
+#3508
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3509 0 0
+~
+~
+Door 2 0 0 3548 0 0
+~
+~
+Door 3 0 0 3507 0 0
+~
+~
+End
+
+#3509
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3510 0 0
+~
+~
+Door 2 0 0 3549 0 0
+~
+~
+Door 3 0 0 3508 0 0
+~
+~
+End
+
+#3510
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3511 0 0
+~
+~
+Door 2 0 0 3550 0 0
+~
+~
+Door 3 0 0 3509 0 0
+~
+~
+End
+
+#3511
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 2 0 0 3551 0 0
+~
+~
+Door 3 0 0 3510 0 0
+~
+~
+End
+
+#3512
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3513 0 0
+~
+~
+Door 2 0 0 3552 0 0
+~
+~
+End
+
+#3513
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3514 0 0
+~
+~
+Door 2 0 0 3553 0 0
+~
+~
+Door 3 0 0 3512 0 0
+~
+~
+End
+
+#3514
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3515 0 0
+~
+~
+Door 2 0 0 3554 0 0
+~
+~
+Door 3 0 0 3513 0 0
+~
+~
+End
+
+#3515
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3516 0 0
+~
+~
+Door 2 0 0 3555 0 0
+~
+~
+Door 3 0 0 3514 0 0
+~
+~
+End
+
+#3516
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3517 0 0
+~
+~
+Door 2 0 0 3556 0 0
+~
+~
+Door 3 0 0 3515 0 0
+~
+~
+End
+
+#3517
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3518 0 0
+~
+~
+Door 2 0 0 3557 0 0
+~
+~
+Door 3 0 0 3516 0 0
+~
+~
+End
+
+#3518
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3519 0 0
+~
+~
+Door 2 0 0 3558 0 0
+~
+~
+Door 3 0 0 3517 0 0
+~
+~
+End
+
+#3519
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3520 0 0
+~
+~
+Door 2 0 0 3559 0 0
+~
+~
+Door 3 0 0 3518 0 0
+~
+~
+End
+
+#3520
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3521 0 0
+~
+~
+Door 2 0 0 3560 0 0
+~
+~
+Door 3 0 0 3519 0 0
+~
+~
+End
+
+#3521
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3522 0 0
+~
+~
+Door 2 0 0 3561 0 0
+~
+~
+Door 3 0 0 3520 0 0
+~
+~
+End
+
+#3522
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Reset M 3451 1 100
+Door 1 0 0 3523 0 0
+~
+~
+Door 2 0 0 3562 0 0
+~
+~
+Door 3 0 0 3521 0 0
+~
+~
+End
+
+#3523
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3524 0 0
+~
+~
+Door 2 0 0 3563 0 0
+~
+~
+Door 3 0 0 3522 0 0
+~
+~
+End
+
+#3524
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3525 0 0
+~
+~
+Door 2 0 0 3564 0 0
+~
+~
+Door 3 0 0 3523 0 0
+~
+~
+End
+
+#3525
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3526 0 0
+~
+~
+Door 2 0 0 3565 0 0
+~
+~
+Door 3 0 0 3524 0 0
+~
+~
+End
+
+#3526
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3527 0 0
+~
+~
+Door 2 0 0 3566 0 0
+~
+~
+Door 3 0 0 3525 0 0
+~
+~
+End
+
+#3527
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3528 0 0
+~
+~
+Door 2 0 0 3567 0 0
+~
+~
+Door 3 0 0 3526 0 0
+~
+~
+End
+
+#3528
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3529 0 0
+~
+~
+Door 2 0 0 3568 0 0
+~
+~
+Door 3 0 0 3527 0 0
+~
+~
+End
+
+#3529
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3530 0 0
+~
+~
+Door 2 0 0 3569 0 0
+~
+~
+Door 3 0 0 3528 0 0
+~
+~
+End
+
+#3530
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 2 0 0 3570 0 0
+~
+~
+Door 3 0 0 3529 0 0
+~
+~
+End
+
+#3531
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 0 0 0 29151 0 0
+~
+~
+Door 1 0 0 3532 0 0
+~
+~
+Door 2 0 0 3571 0 0
+~
+~
+End
+
+#3532
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3533 0 0
+~
+~
+Door 2 0 0 3572 0 0
+~
+~
+Door 3 0 0 3531 0 0
+~
+~
+End
+
+#3533
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3534 0 0
+~
+~
+Door 2 0 0 3573 0 0
+~
+~
+Door 3 0 0 3532 0 0
+~
+~
+End
+
+#3534
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3535 0 0
+~
+~
+Door 2 0 0 3574 0 0
+~
+~
+Door 3 0 0 3533 0 0
+~
+~
+End
+
+#3535
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3536 0 0
+~
+~
+Door 2 0 0 3575 0 0
+~
+~
+Door 3 0 0 3534 0 0
+~
+~
+End
+
+#3536
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3537 0 0
+~
+~
+Door 2 0 0 3576 0 0
+~
+~
+Door 3 0 0 3535 0 0
+~
+~
+End
+
+#3537
+Name Alongside the Highway~
+Descr
+In this grassy area off to the north of the road, the sounds of traffic
+can clearly be heard. Tall trees here provide adequate shade, and grassy
+knolls seem to be beckoning for you to sit upon them. 
+~
+Sector 3
+Door 1 0 0 3538 0 0
+~
+~
+Door 2 0 0 3577 0 0
+~
+~
+Door 3 0 0 3536 0 0
+~
+~
+End
+
+#3538
+Name Alongside the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Sector 3
+Door 1 0 0 3539 0 0
+~
+~
+Door 2 0 0 3578 0 0
+~
+~
+Door 3 0 0 3537 0 0
+~
+~
+End
+
+#3539
+Name Alongside the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Sector 3
+Door 2 0 0 3579 0 0
+~
+~
+Door 3 0 0 3538 0 0
+~
+~
+End
+
+#3540
+Name ~
+Descr
+~
+End
+
+#3541
+Name Abandoned Home of Venerette~
+Descr
+Inside this hut, spiders scurry away at your approach. Dust bunnies the
+size of kobolds can be seen wafting along the floor. 
+~
+Flags 4
+Shd 1
+Sector 0
+Reset O 3541 -5 100
+Door 3 3 0 3543 30 30
+~
+wood door~
+End
+
+#3542
+Name A Restored Room of Pride~
+Descr
+The room you have entered seems out of place in the hut you have just
+left. Indeed, judging by the dimentions of the room that you are currently
+in, you are not sure that it would fit in the hut itself. Bookshelves line
+the walls, and beakers and other alchemistic tools lie on workbenches
+throughout this room. 
+~
+Flags 4
+Reset M 3542 1 100
+Reset O 3532 -5 100
+End
+
+#3543
+Name In Front of a House~
+Descr
+This ramshackle hut by the side of the road has seen better days. Planks
+are missing from the sides, and the shingles seem to have mostly fallen off.
+Between the cracks in the wall, a light blue glow can be seen eminating from
+an unknown source. 
+~
+Sector 4
+Door 1 3 0 3541 30 30
+~
+wood door~
+Door 3 0 0 3502 0 0
+~
+~
+End
+
+#3544
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3504 0 0
+~
+~
+End
+
+#3545
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3505 0 0
+~
+~
+Door 1 0 0 3546 0 0
+~
+~
+Door 4 0 0 3492 0 0
+~
+~
+End
+
+#3546
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3506 0 0
+~
+~
+Door 1 0 0 3547 0 0
+~
+~
+Door 3 0 0 3545 0 0
+~
+~
+End
+
+#3547
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Reset M 3451 1 100
+Door 0 0 0 3507 0 0
+~
+~
+Door 1 0 0 3548 0 0
+~
+~
+Door 3 0 0 3546 0 0
+~
+~
+End
+
+#3548
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3508 0 0
+~
+~
+Door 1 0 0 3549 0 0
+~
+~
+Door 3 0 0 3547 0 0
+~
+~
+End
+
+#3549
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3509 0 0
+~
+~
+Door 1 0 0 3550 0 0
+~
+~
+Door 3 0 0 3548 0 0
+~
+~
+End
+
+#3550
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3510 0 0
+~
+~
+Door 2 0 0 3699 0 0
+~
+~
+Door 3 0 0 3549 0 0
+~
+~
+End
+
+#3551
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3511 0 0
+~
+~
+Door 1 0 0 3552 0 0
+~
+~
+End
+
+#3552
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3512 0 0
+~
+~
+Door 1 0 0 3553 0 0
+~
+~
+Door 3 0 0 3551 0 0
+~
+~
+End
+
+#3553
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3513 0 0
+~
+~
+Door 1 0 0 3554 0 0
+~
+~
+Door 3 0 0 3552 0 0
+~
+~
+End
+
+#3554
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3514 0 0
+~
+~
+Door 1 0 0 3555 0 0
+~
+~
+Door 3 0 0 3553 0 0
+~
+~
+End
+
+#3555
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3515 0 0
+~
+~
+Door 1 0 0 3556 0 0
+~
+~
+Door 3 0 0 3554 0 0
+~
+~
+End
+
+#3556
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3516 0 0
+~
+~
+Door 1 0 0 3557 0 0
+~
+~
+Door 3 0 0 3555 0 0
+~
+~
+End
+
+#3557
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3517 0 0
+~
+~
+Door 1 0 0 3558 0 0
+~
+~
+Door 3 0 0 3556 0 0
+~
+~
+End
+
+#3558
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3518 0 0
+~
+~
+Door 1 0 0 3559 0 0
+~
+~
+Door 3 0 0 3557 0 0
+~
+~
+End
+
+#3559
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3519 0 0
+~
+~
+Door 1 0 0 3560 0 0
+~
+~
+Door 3 0 0 3558 0 0
+~
+~
+End
+
+#3560
+Name A Turning Point in the Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3520 0 0
+~
+~
+Door 3 0 0 3559 0 0
+~
+~
+End
+
+#3561
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3521 0 0
+~
+~
+Door 1 0 0 3562 0 0
+~
+~
+End
+
+#3562
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3522 0 0
+~
+~
+Door 1 0 0 3563 0 0
+~
+~
+Door 3 0 0 3561 0 0
+~
+~
+End
+
+#3563
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3523 0 0
+~
+~
+Door 1 0 0 3564 0 0
+~
+~
+Door 2 259 0 3650 30 30
+~
+boulder~
+Door 3 0 0 3562 0 0
+~
+~
+End
+
+#3564
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3524 0 0
+~
+~
+Door 1 0 0 3565 0 0
+~
+~
+Door 3 0 0 3563 0 0
+~
+~
+End
+
+#3565
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3525 0 0
+~
+~
+Door 1 0 0 3566 0 0
+~
+~
+Door 3 0 0 3564 0 0
+~
+~
+End
+
+#3566
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3526 0 0
+~
+~
+Door 1 0 0 3567 0 0
+~
+~
+Door 3 0 0 3565 0 0
+~
+~
+End
+
+#3567
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3527 0 0
+~
+~
+Door 1 0 0 3568 0 0
+~
+~
+Door 3 0 0 3566 0 0
+~
+~
+End
+
+#3568
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3528 0 0
+~
+~
+Door 1 0 0 3569 0 0
+~
+~
+Door 3 0 0 3567 0 0
+~
+~
+End
+
+#3569
+Name Alongside the Highway~
+Descr
+This patch of grass lies south of the highway. Large boulders dot the
+landscape here, indicitive of the type of ground which lays ahead too the
+east, where a mountain can be seen. 
+~
+Sector 3
+Door 0 0 0 3529 0 0
+~
+~
+Door 1 0 0 3570 0 0
+~
+~
+Door 3 0 0 3568 0 0
+~
+~
+End
+
+#3570
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3530 0 0
+~
+~
+Door 1 0 0 3571 0 0
+~
+~
+Door 3 0 0 3569 0 0
+~
+~
+End
+
+#3571
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3531 0 0
+~
+~
+Door 1 0 0 3572 0 0
+~
+~
+Door 3 0 0 3570 0 0
+~
+~
+End
+
+#3572
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Reset M 3451 1 100
+Door 0 0 0 3532 0 0
+~
+~
+Door 1 0 0 3573 0 0
+~
+~
+Door 3 0 0 3571 0 0
+~
+~
+End
+
+#3573
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3533 0 0
+~
+~
+Door 1 0 0 3574 0 0
+~
+~
+Door 3 0 0 3572 0 0
+~
+~
+End
+
+#3574
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3534 0 0
+~
+~
+Door 1 0 0 3575 0 0
+~
+~
+Door 3 0 0 3573 0 0
+~
+~
+End
+
+#3575
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3535 0 0
+~
+~
+Door 1 0 0 3576 0 0
+~
+~
+Door 3 0 0 3574 0 0
+~
+~
+End
+
+#3576
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3536 0 0
+~
+~
+Door 1 0 0 3577 0 0
+~
+~
+Door 3 0 0 3575 0 0
+~
+~
+End
+
+#3577
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3537 0 0
+~
+~
+Door 1 0 0 3578 0 0
+~
+~
+Door 3 0 0 3576 0 0
+~
+~
+End
+
+#3578
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3538 0 0
+~
+~
+Door 1 0 0 3579 0 0
+~
+~
+Door 3 0 0 3577 0 0
+~
+~
+End
+
+#3579
+Name Anakain Highway~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3539 0 0
+~
+~
+Door 1 0 0 70222 0 0
+~
+~
+Door 3 0 0 3578 0 0
+~
+~
+End
+
+#3580
+Name The Beginning of a Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3581 0 0
+~
+~
+End
+
+#3581
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3582 0 0
+~
+~
+Door 3 0 0 3580 0 0
+~
+~
+End
+
+#3582
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3583 0 0
+~
+~
+Door 3 0 0 3581 0 0
+~
+~
+End
+
+#3583
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3584 0 0
+~
+~
+Door 3 0 0 3582 0 0
+~
+~
+End
+
+#3584
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3585 0 0
+~
+~
+Door 3 0 0 3583 0 0
+~
+~
+End
+
+#3585
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3586 0 0
+~
+~
+Door 3 0 0 3584 0 0
+~
+~
+End
+
+#3586
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3587 0 0
+~
+~
+Door 3 0 0 3585 0 0
+~
+~
+End
+
+#3587
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3588 0 0
+~
+~
+Door 3 0 0 3586 0 0
+~
+~
+End
+
+#3588
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 2 0 0 3589 0 0
+~
+~
+Door 3 0 0 3587 0 0
+~
+~
+End
+
+#3589
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3588 0 0
+~
+~
+Door 2 0 0 3590 0 0
+~
+~
+End
+
+#3590
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3589 0 0
+~
+~
+Door 1 0 0 3591 0 0
+~
+~
+End
+
+#3591
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3592 0 0
+~
+~
+Door 3 0 0 3590 0 0
+~
+~
+End
+
+#3592
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3594 0 0
+~
+~
+Door 2 0 0 3593 0 0
+~
+~
+Door 3 0 0 3591 0 0
+~
+~
+End
+
+#3593
+Name A Baracade of Trees~
+Descr
+A nature-created clearing is here. To the north, the highway can be seen
+winding its way through the wilderness. Here, surrounded by coniferous trees
+in three directions, you feel somewhat at peace. 
+~
+Sector 3
+Door 0 0 0 3592 0 0
+~
+~
+Door 1 0 0 3596 0 0
+~
+~
+End
+
+#3594
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3595 0 0
+~
+~
+Door 2 0 0 3596 0 0
+~
+~
+Door 3 0 0 3592 0 0
+~
+~
+End
+
+#3595
+Name A Baracade of Trees~
+Descr
+A nature-created clearing is here. To the west, the highway can be seen
+winding its way through the wilderness. Here, surrounded by coniferous trees
+in three directions, you feel somewhat at peace. 
+~
+Sector 3
+Door 3 0 0 3594 0 0
+~
+~
+End
+
+#3596
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3594 0 0
+~
+~
+Door 2 0 0 3597 0 0
+~
+~
+Door 3 0 0 3593 0 0
+~
+~
+End
+
+#3597
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 0 0 0 3596 0 0
+~
+~
+Door 1 0 0 3598 0 0
+~
+~
+End
+
+#3598
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3599 0 0
+~
+~
+Door 3 0 0 3597 0 0
+~
+~
+End
+
+#3599
+Name A Crumbling Road~
+Descr
+This road seems to strech for miles. Cutting in between rolling hills and
+crossing gulleys and depressions, it once served as the main commerce route
+to the west. However, dark times have befallen the road and while it seems
+to be in good shape, its age is beginning to show. 
+~
+Door 1 0 0 3600 0 0
+~
+~
+Door 3 0 0 3598 0 0
+~
+~
+End
+
+#3600
+Name At the Edge of a Mountain~
+Descr
+Here is the eastern-most point of the Anakain Highway, the once great
+trade route too the west. Once prized for its spacious roadwork, it has now
+fallen into disrepair. 
+~
+Door 3 0 0 3599 0 0
+~
+~
+End
+
+#3601
+Name ADD SOMETHING?~
+Descr
+~
+End
+
+#3602
+Name ~
+Descr
+~
+End
+
+#3603
+Name ~
+Descr
+~
+End
+
+#3650
+Name An Opening in the Boulders~
+Descr
+It appears that there could be something behind one of these large
+boulders. Perhaps you should have a look around. However, someone did go to
+a lot of trouble to keep this place hidden, perhaps you should turn back. 
+~
+Door 0 3 0 3563 30 30
+~
+boulder~
+Door 2 0 0 3651 0 0
+~
+~
+End
+
+#3651
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 0 0 0 3650 0 0
+~
+~
+Door 1 0 0 3652 0 0
+~
+~
+Door 3 0 0 3653 0 0
+~
+~
+End
+
+#3652
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 3 0 0 3651 0 0
+~
+~
+Door 5 0 0 9200 0 0
+~
+~
+End
+
+#3653
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 0 0 0 3654 0 0
+~
+~
+Door 1 0 0 3651 0 0
+~
+~
+Door 2 0 0 3655 0 0
+~
+~
+Door 3 0 0 3656 0 0
+~
+~
+End
+
+#3654
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 2 0 0 3653 0 0
+~
+~
+End
+
+#3655
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 0 0 0 3653 0 0
+~
+~
+End
+
+#3656
+Name Behind the Boulders~
+Descr
+A man made path has been built between the boulders and although you
+can't see anyone, you can still hear people passing by on the nearby road. 
+~
+Door 1 0 0 3653 0 0
+~
+~
+End
+
+#3698
+Name A Dock~
+Descr
+You are standing on the dock to the river ferry. The ticket taker is
+staring at you with a look of disgust.
+ 
+The ticket taker mumbles something about landlubbers.
+~
+Sector 0
+Reset M 3698 1 100
+Door 0 0 0 3699 0 0
+~
+~
+Door 2 259 0 4900 30 30
+~
+~
+End
+
+#3699
+Name A Wharf~
+Descr
+You are standing in front of a large wharf. There is a ticket booth which
+seems to sell tickets for a ferry. You suddenly smell something rotten and
+you wonder what else is in the water. 
+~
+Reset M 3699 1 100
+Reset O 3699 1000 100
+Door 0 0 0 3550 0 0
+~
+~
+Door 2 0 0 3698 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

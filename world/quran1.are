@@ -1,0 +1,3118 @@
+#AREADATA 
+Name The Cryptic Mountain~
+Repop [1;30mA clap of thunder rumbles in the sky.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Quran~
+VNUMs 1421 1599
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#1573
+Name portal keeper~
+Short the portal keeper~
+Long 
+The portal keeper stands here here stationary.
+~
+Descr
+~
+AMax 1
+NHeight 120
+Affect_By 66186
+Money 300
+Level 300
+Sex 1
+MobType 4
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#1579
+Name scarred lich~
+Short a scarred lich~
+Long 
+A scarred lich is here, staring at you with empty eyes.
+~
+Descr
+~
+AMax 1
+NHeight 68
+ActBits 67108866
+ActBits3 524288
+Affect_By 648
+Alignment -500
+Money 225
+Level 225
+Sex 1
+MobType 9
+Hp 12
+Guard 0
+BCasts hands of wind~
+BCast_P 10
+End
+
+#1583
+Name large red dragon~
+Short the red dragon~
+Long 
+A large, red dragon is here, with its sharp claws gleaming.
+~
+Descr
+~
+AMax 1
+NHeight 192
+ActBits 67109120
+ActBits4 4096
+Affect_By 648
+Alignment -100
+Money 275
+Level 275
+MobType 5
+Hp 14
+Guard 0
+BCasts falling star~
+BCast_P 9
+ASklTaught 0 126
+End
+
+#1598
+Name ticket taker~
+Short a ticket taker~
+Long 
+A ticket taker is sneering at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Level 400
+MobType 0
+Guard 0
+End
+
+#1421
+Name ghostly apparition~
+Short an apparition~
+Long 
+A ghostly apparition hovers silently here.
+~
+Descr
+~
+AMax 4
+NHeight 48
+Affect_By 524810
+Alignment -100
+Money 60
+Level 60
+MobType 9
+Guard 0
+End
+
+#1505
+Name mountain spirit~
+Short the spirit of the mountain~
+Long 
+The spirit of the mountain can be felt here.
+~
+Descr
+~
+AMax 1
+NHeight 60
+Affect_By 590472
+Money 175
+Level 175
+MobType 9
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#1573
+Name crimson portal~
+Short a [31mcrimson[0m portal~
+Descr
+A [31mcrimson[36m portal is here, beckoning for you to enter.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1574 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1574
+Name large closed fist hand portal keeper~
+Short the fist of the portal keeper~
+Descr
+A large, closed hand lies on the ground.
+[0;36m~
+Type 5
+Extra 537395200
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 8 0 0 0 3 7 0
+Weight 3
+Cost 3000
+Affect 19 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#1575
+Name midnight black portal~
+Short a [30m[1mmidnight black[0m portal~
+Descr
+A [30m[1mmidnight black[0m[36m portal is floating motionless here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1575 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1579
+Name strange wisp soul lich~
+Short the [30m[1msoul[0m of a lich~
+Descr
+A strange wisp is floating here.
+[0;36m~
+Type 9
+Extra 536870930
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 2 2 10 10 0 0 10 0
+Weight 0
+Cost 0
+Affect 17 -3 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#1583
+Name pair blood red crimson claws dragon~
+Short [31mcrimson[0m claws of the dragon~
+Descr
+A pair of blood red claws lie on the ground here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 50 50 10 0
+Weight 2
+Cost 5000
+Affect 19 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#1444
+Name shining white portal~
+Short a shining white portal~
+Descr
+A shining, [37m[1mwhite [0m[36mportal is hovering here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1527 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#1564
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 2 0 0 1565 0 0
+~
+~
+Door 3 0 0 1563 0 0
+~
+~
+End
+
+#1565
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1564 0 0
+~
+~
+Door 4 0 0 1566 0 0
+~
+~
+End
+
+#1566
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 2 0 0 1567 0 0
+~
+~
+Door 5 0 0 1565 0 0
+~
+~
+End
+
+#1567
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1566 0 0
+~
+~
+Door 1 0 0 1568 0 0
+~
+~
+End
+
+#1568
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 2 0 0 1559 0 0
+~
+~
+Door 3 0 0 1567 0 0
+~
+~
+End
+
+#1569
+Name Before the Pass~
+Descr
+You feel as if you are in a roofless corridor, because the mountain
+cliffs are so close together. The ground is at an awkward slant, and it is
+surprisingly smooth, having no pebbles or stones scattered across it. 
+~
+Sector 4
+Door 1 0 0 1509 0 0
+~
+~
+Door 3 0 0 1571 0 0
+~
+~
+End
+
+#1570
+Name A Small Mountain Path~
+Descr
+This wide mountain path is located at the cliff's edge. A large
+mountainside runs across the northern border of this path, however the
+southern part is empty. Below, the sharp and jagged mountain cliffs can be
+seen, and a fall from this height would be fatal. Luckily, the path is wide
+and secure, granting you safety from falling. 
+~
+Sector 4
+Door 1 0 0 1571 0 0
+~
+~
+Door 3 0 0 1559 0 0
+~
+~
+End
+
+#1571
+Name A Small Mountain Path~
+Descr
+This wide mountain path is located at the cliff's edge. A large
+mountainside runs across the northern border of this path, however the
+southern part is empty. Below, the sharp and jagged mountain cliffs can be
+seen, and a fall from this height would be fatal. Luckily, the path is wide
+and secure, granting you safety from falling. 
+~
+Sector 4
+Door 1 0 0 1569 0 0
+~
+~
+Door 3 0 0 1570 0 0
+~
+~
+End
+
+#1572
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1573 0 0
+~
+~
+Door 3 0 0 1528 0 0
+~
+~
+End
+
+#1573
+Name Portal Chamber of the Mists~
+Descr
+This portal chamber has been hidden in these mists for thousands of
+years. It is one of the great sanctuaries of the ancient mages, and their
+magics have created these three doors. Left with no choice but to enter one,
+you must carefully decide which color you trust the most. 
+~
+Reset M 1573 1 100
+Reset O 1574 21 3
+Reset O 1575 -5 100
+Reset O 1444 -5 100
+Reset O 1573 -5 100
+End
+
+#1574
+Name The Red Dragon's Lair~
+Descr
+The scent of burnt flesh and searing flames are in the air here. It is
+enveloped in darkness, except for the dim light being produced by the molten
+lava seeping through the walls. Close by, the sound of a breathing dragon
+can be easily heard. 
+~
+Flags 5
+Sector 0
+Door 0 259 0 1448 30 30
+~
+magma~
+Door 5 0 0 1580 0 0
+~
+~
+End
+
+#1575
+Name The Lich's Tomb~
+Descr
+Rotting corpses and charred bones lie on the ground, along with repulsive
+body parts such as eyeballs and hearts. Loud screams of agony, and whispers
+of warning are being directed at you here. As the demonic voices fade away,
+they are quickly replaced with evil cackling nearby. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 1576 0 0
+~
+~
+Door 4 259 0 1463 30 30
+~
+tomb~
+End
+
+#1576
+Name The Lich's Tomb~
+Descr
+Rotting corpses and charred bones lie on the ground, along with repulsive
+body parts such as eyeballs and hearts. Loud screams of agony, and whispers
+of warning are being directed at you here. As the demonic voices fade away,
+they are quickly replaced with evil cackling nearby. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 1575 0 0
+~
+~
+Door 1 0 0 1577 0 0
+~
+~
+Door 3 0 0 1578 0 0
+~
+~
+End
+
+#1577
+Name The Lich's Tomb~
+Descr
+Rotting corpses and charred bones lie on the ground, along with repulsive
+body parts such as eyeballs and hearts. Loud screams of agony, and whispers
+of warning are being directed at you here. As the demonic voices fade away,
+they are quickly replaced with evil cackling nearby. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 1576 0 0
+~
+~
+End
+
+#1578
+Name The Lich's Tomb~
+Descr
+Rotting corpses and charred bones lie on the ground, along with repulsive
+body parts such as eyeballs and hearts. Loud screams of agony, and whispers
+of warning are being directed at you here. As the demonic voices fade away,
+they are quickly replaced with evil cackling nearby. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 1576 0 0
+~
+~
+Door 2 0 0 1579 0 0
+~
+~
+End
+
+#1579
+Name The Lich's Tomb~
+Descr
+Rotting corpses and charred bones lie on the ground, along with repulsive
+body parts such as eyeballs and hearts. Loud screams of agony, and whispers
+of warning are being directed at you here. As the demonic voices fade away,
+they are quickly replaced with evil cackling nearby. 
+~
+Flags 5
+Sector 0
+Reset M 1579 1 100
+Reset O 1579 15 5
+Door 0 0 0 1578 0 0
+~
+~
+End
+
+#1580
+Name The Red Dragon's Lair~
+Descr
+The scent of burnt flesh and searing flames are in the air here. It is
+enveloped in darkness, except for the dim light being produced by the molten
+lava seeping through the walls. Close by, the sound of a breathing dragon
+can be easily heard. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 1581 0 0
+~
+~
+Door 4 0 0 1574 0 0
+~
+~
+End
+
+#1581
+Name The Red Dragon's Lair~
+Descr
+The scent of burnt flesh and searing flames are in the air here. It is
+enveloped in darkness, except for the dim light being produced by the molten
+lava seeping through the walls. Close by, the sound of a breathing dragon
+can be easily heard. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 1583 0 0
+~
+~
+Door 1 0 0 1582 0 0
+~
+~
+Door 2 0 0 1580 0 0
+~
+~
+End
+
+#1582
+Name The Red Dragon's Lair~
+Descr
+The scent of burnt flesh and searing flames are in the air here. It is
+enveloped in darkness, except for the dim light being produced by the molten
+lava seeping through the walls. Close by, the sound of a breathing dragon
+can be easily heard. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 1581 0 0
+~
+~
+End
+
+#1583
+Name The Red Dragon's Lair~
+Descr
+The scent of burnt flesh and searing flames are in the air here. It is
+enveloped in darkness, except for the dim light being produced by the molten
+lava seeping through the walls. Close by, the sound of a breathing dragon
+can be easily heard. 
+~
+Flags 5
+Sector 0
+Reset M 1583 1 100
+Reset O 1583 8 1
+Door 2 0 0 1581 0 0
+~
+~
+End
+
+#1598
+Name A Dock~
+Descr
+You are standing on the dock to the river ferry. The ticket taker is
+staring at you with a look of disgust.
+ 
+The ticket taker mumbles something about landlubbers.
+~
+Reset M 1598 1 100
+Door 0 0 0 1599 0 0
+~
+~
+End
+
+#1599
+Name A Wharf~
+Descr
+You are standing in front of a large wharf. There is a ticket booth which
+seems to sell tickets for a ferry. You suddenly smell something rotten and
+you wonder what else is in the water.
+~
+Reset M 3699 1 100
+Reset O 3699 1000 100
+Door 2 0 0 1598 0 0
+~
+~
+End
+
+#1421
+Name A Gravelled Path~
+Descr
+This path is covered in small pebbles, rocks, and other debris. Small
+mounds and hills make up the entire road, causing it to incline and decline
+very often. Ahead, the trail seems a bit more rugged, as it goes into the
+mountains. 
+~
+Door 3 0 0 1422 0 0
+~
+~
+End
+
+#1422
+Name A Gravelled Path~
+Descr
+This path is covered in small pebbles, rocks, and other debris. Small
+mounds and hills make up the entire road, causing it to incline and decline
+very often. Ahead, the trail seems a bit more rugged, as it goes into the
+mountains. 
+~
+Door 1 0 0 1421 0 0
+~
+~
+Door 3 0 0 1423 0 0
+~
+~
+End
+
+#1423
+Name Turn in the Path~
+Descr
+This path is covered in small pebbles, rocks, and other debris. Small
+mounds and hills make up the entire road, causing it to incline and decline
+very often. Ahead, the trail seems a bit more rugged, as it goes into the
+mountains. 
+~
+Door 0 0 0 1424 0 0
+~
+~
+Door 1 0 0 1422 0 0
+~
+~
+End
+
+#1424
+Name Turn in the Path~
+Descr
+This path is covered in small pebbles, rocks, and other debris. Small
+mounds and hills make up the entire road, causing it to incline and decline
+very often. Ahead, the trail seems a bit more rugged, as it goes into the
+mountains. 
+~
+Door 2 0 0 1423 0 0
+~
+~
+Door 3 0 0 1425 0 0
+~
+~
+End
+
+#1425
+Name A Gravelled Path~
+Descr
+This path is covered in small pebbles, rocks, and other debris. Small
+mounds and hills make up the entire road, causing it to incline and decline
+very often. Ahead, the trail seems a bit more rugged, as it goes into the
+mountains. 
+~
+Door 1 0 0 1424 0 0
+~
+~
+Door 3 0 0 1426 0 0
+~
+~
+End
+
+#1426
+Name Before a Mountain Pass~
+Descr
+The path ends here, and a more jagged terrain lies ahead. The mountain
+peaks seem to grow higher and higher, and the travelling becomes harder.
+Ahead, the path tightens drastically, becoming much more narrow and
+perilous. 
+~
+Door 1 0 0 1425 0 0
+~
+~
+Door 3 0 0 1427 0 0
+~
+~
+End
+
+#1427
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 1 0 0 1426 0 0
+~
+~
+Door 3 0 0 1428 0 0
+~
+~
+End
+
+#1428
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 1 0 0 1427 0 0
+~
+~
+Door 2 0 0 1429 0 0
+~
+~
+End
+
+#1429
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 0 0 0 1428 0 0
+~
+~
+Door 4 0 0 1430 0 0
+~
+~
+End
+
+#1430
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 3 0 0 1431 0 0
+~
+~
+Door 5 0 0 1429 0 0
+~
+~
+End
+
+#1431
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 1 0 0 1430 0 0
+~
+~
+Door 3 0 0 1432 0 0
+~
+~
+End
+
+#1432
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 0 0 0 1433 0 0
+~
+~
+Door 1 0 0 1431 0 0
+~
+~
+End
+
+#1433
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 2 0 0 1432 0 0
+~
+~
+Door 4 0 0 1434 0 0
+~
+~
+End
+
+#1434
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 3 0 0 1435 0 0
+~
+~
+Door 5 0 0 1433 0 0
+~
+~
+End
+
+#1435
+Name The Pass of Glory~
+Descr
+This pass has been travelled by some of the fiercest warriors in the
+land. Their marks have been carved into the mountain cliffs. These marks
+consist of morale raising proverbs and pictures of several soldiers and
+weapons. 
+~
+Sector 4
+Door 1 0 0 1434 0 0
+~
+~
+Door 3 0 0 1436 0 0
+~
+~
+End
+
+#1436
+Name A Desolate Valley~
+Descr
+This large valley has become blanketed with shadows because of the
+enormous mountains surrounding it. The ground is dry and barren, and has
+been stripped of all plant life. The only feeling left here is the feeling
+of desolation. 
+~
+Sector 4
+Door 0 0 0 1437 0 0
+~
+~
+Door 1 0 0 1435 0 0
+~
+~
+Door 2 0 0 1438 0 0
+~
+~
+End
+
+#1437
+Name A Desolate Valley~
+Descr
+This large valley has become blanketed with shadows because of the
+enormous mountains surrounding it. The ground is dry and barren, and has
+been stripped of all plant life. The only feeling left here is the feeling
+of desolation. 
+~
+Sector 4
+Door 2 0 0 1436 0 0
+~
+~
+Door 3 0 0 1440 0 0
+~
+~
+End
+
+#1438
+Name A Desolate Valley~
+Descr
+This large valley has become blanketed with shadows because of the
+enormous mountains surrounding it. The ground is dry and barren, and has
+been stripped of all plant life. The only feeling left here is the feeling
+of desolation. 
+~
+Sector 4
+Door 0 0 0 1436 0 0
+~
+~
+Door 4 0 0 1439 0 0
+~
+~
+End
+
+#1439
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 3 0 0 1451 0 0
+~
+~
+Door 5 0 0 1438 0 0
+~
+~
+End
+
+#1440
+Name A Desolate Valley~
+Descr
+This large valley has become blanketed with shadows because of the
+enormous mountains surrounding it. The ground is dry and barren, and has
+been stripped of all plant life. The only feeling left here is the feeling
+of desolation. 
+~
+Sector 4
+Door 0 0 0 1441 0 0
+~
+~
+Door 1 0 0 1437 0 0
+~
+~
+End
+
+#1441
+Name Rugged Path Through the Valley~
+Descr
+An elevated, rocky path has been conveniently formed here. It travels
+through the hazardous parts of the valley, and the collection of stones and
+boulders clearly show this. Although it is still very difficult, the trek
+through this valley may have been impossible without the help of this
+passage. 
+~
+Sector 4
+Door 0 0 0 1442 0 0
+~
+~
+Door 2 0 0 1440 0 0
+~
+~
+End
+
+#1442
+Name Rugged Path Through the Valley~
+Descr
+An elevated, rocky path has been conveniently formed here. It travels
+through the hazardous parts of the valley, and the collection of stones and
+boulders clearly show this. Although it is still very difficult, the trek
+through this valley may have been impossible without the help of this
+passage. 
+~
+Sector 4
+Door 0 0 0 1443 0 0
+~
+~
+Door 2 0 0 1441 0 0
+~
+~
+End
+
+#1443
+Name Rugged Path Through the Valley~
+Descr
+An elevated, rocky path has been conveniently formed here. It travels
+through the hazardous parts of the valley, and the collection of stones and
+boulders clearly show this. Although it is still very difficult, the trek
+through this valley may have been impossible without the help of this
+passage. 
+~
+Sector 4
+Door 0 0 0 1444 0 0
+~
+~
+Door 2 0 0 1442 0 0
+~
+~
+End
+
+#1444
+Name The Junction of Hope~
+Descr
+This is the most lively part of the mountain. It is a small clearing,
+prosperous with grass and other plant life. There is a great view of the sky
+from here, leaving the sun capable of sending in bright rays of light. 
+~
+Sector 4
+Door 0 0 0 1445 0 0
+~
+~
+Door 2 0 0 1443 0 0
+~
+~
+Door 3 0 0 1449 0 0
+~
+~
+End
+
+#1445
+Name A Side Trail~
+Descr
+As you wander off the main trail and into the mountain, you notice a
+small side trail. Its destination is unknown to you, but you figure it must
+be of some importance, otherwise this path would not have been made. 
+~
+Sector 5
+Door 1 0 0 1446 0 0
+~
+~
+Door 2 0 0 1444 0 0
+~
+~
+End
+
+#1446
+Name A Side Trail~
+Descr
+As you wander off the main trail and into the mountain, you notice a
+small side trail. Its destination is unknown to you, but you figure it must
+be of some importance, otherwise this path would not have been made. 
+~
+Sector 5
+Door 1 0 0 1447 0 0
+~
+~
+Door 3 0 0 1445 0 0
+~
+~
+End
+
+#1447
+Name Before a Large Hole~
+Descr
+The small trail ends here, somewhere in the midst of all the mountains. A
+gentle rumbling can be felt and heard beneath your feet, and the hole that
+can be seen ahead may have something to do with it. 
+~
+Sector 5
+Door 3 0 0 1446 0 0
+~
+~
+Door 5 0 0 1448 0 0
+~
+~
+End
+
+#1448
+Name Inside a Dark Crater~
+Descr
+Lava can be seen leaking out of the walls inside of the crater, but
+strangely enough it does not drip down. The ground is made of ash and the
+hardened lava that has formed here. You begin to realize that the heat
+inside of this crater is building up, and you start to break a sweat. 
+~
+Flags 16777221
+Sector 5
+Door 2 259 0 1574 30 30
+~
+magma~
+Door 4 0 0 1447 0 0
+~
+~
+End
+
+#1449
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 1 0 0 1444 0 0
+~
+~
+Door 3 0 0 1450 0 0
+~
+~
+End
+
+#1450
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1452 0 0
+~
+~
+Door 1 0 0 1449 0 0
+~
+~
+End
+
+#1451
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 1 0 0 1439 0 0
+~
+~
+Door 3 0 0 1457 0 0
+~
+~
+End
+
+#1452
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 2 0 0 1450 0 0
+~
+~
+Door 4 0 0 1453 0 0
+~
+~
+End
+
+#1453
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 3 0 0 1454 0 0
+~
+~
+Door 5 0 0 1452 0 0
+~
+~
+End
+
+#1454
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1455 0 0
+~
+~
+Door 1 0 0 1453 0 0
+~
+~
+End
+
+#1455
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1456 0 0
+~
+~
+Door 2 0 0 1454 0 0
+~
+~
+End
+
+#1456
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 2 0 0 1455 0 0
+~
+~
+Door 4 0 0 1470 0 0
+~
+~
+End
+
+#1457
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 1 0 0 1451 0 0
+~
+~
+Door 2 0 0 1458 0 0
+~
+~
+End
+
+#1458
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1457 0 0
+~
+~
+Door 2 0 0 1459 0 0
+~
+~
+End
+
+#1459
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1458 0 0
+~
+~
+Door 1 259 0 1461 30 30
+~
+rockslide~
+Door 2 0 0 1460 0 0
+~
+~
+End
+
+#1460
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1459 0 0
+~
+~
+Door 4 0 0 1464 0 0
+~
+~
+End
+
+#1461
+Name A Rocky Path~
+Descr
+This isn't much of a path, but rather an ancient trail covered with
+rocks. It is impossible to keep your balance on them, so you are forced to
+crawl or fly over them. 
+~
+Sector 5
+Door 1 0 0 1462 0 0
+~
+~
+Door 3 259 0 1459 30 30
+~
+rockslide~
+End
+
+#1462
+Name A Rocky Path~
+Descr
+This isn't much of a path, but rather an ancient trail covered with
+rocks. It is impossible to keep your balance on them, so you are forced to
+crawl or fly over them. 
+~
+Sector 5
+Door 0 0 0 1463 0 0
+~
+~
+Door 3 0 0 1461 0 0
+~
+~
+End
+
+#1463
+Name A Rocky Path~
+Descr
+This isn't much of a path, but rather an ancient trail covered with
+rocks. It is impossible to keep your balance on them, so you are forced to
+crawl or fly over them. 
+~
+Sector 5
+Door 2 0 0 1462 0 0
+~
+~
+Door 5 259 0 1575 30 30
+~
+tomb~
+End
+
+#1464
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 3 0 0 1465 0 0
+~
+~
+Door 5 0 0 1460 0 0
+~
+~
+End
+
+#1465
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 1 0 0 1464 0 0
+~
+~
+Door 2 0 0 1466 0 0
+~
+~
+End
+
+#1466
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1465 0 0
+~
+~
+Door 2 0 0 1467 0 0
+~
+~
+End
+
+#1467
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1466 0 0
+~
+~
+Door 1 0 0 1468 0 0
+~
+~
+End
+
+#1468
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 2 0 0 1469 0 0
+~
+~
+Door 3 0 0 1467 0 0
+~
+~
+End
+
+#1469
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1468 0 0
+~
+~
+Door 2 0 0 1471 0 0
+~
+~
+End
+
+#1470
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 3 0 0 1485 0 0
+~
+~
+Door 5 0 0 1456 0 0
+~
+~
+End
+
+#1471
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1469 0 0
+~
+~
+Door 3 0 0 1472 0 0
+~
+~
+End
+
+#1472
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 1 0 0 1471 0 0
+~
+~
+Door 3 0 0 1473 0 0
+~
+~
+End
+
+#1473
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Reset M 1421 1 100
+Door 1 0 0 1472 0 0
+~
+~
+Door 3 0 0 1474 0 0
+~
+~
+End
+
+#1474
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1475 0 0
+~
+~
+Door 1 0 0 1473 0 0
+~
+~
+End
+
+#1475
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1476 0 0
+~
+~
+Door 2 0 0 1474 0 0
+~
+~
+End
+
+#1476
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 2 0 0 1475 0 0
+~
+~
+Door 4 0 0 1477 0 0
+~
+~
+End
+
+#1477
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1478 0 0
+~
+~
+Door 5 0 0 1476 0 0
+~
+~
+End
+
+#1478
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 2 0 0 1477 0 0
+~
+~
+Door 3 0 0 1479 0 0
+~
+~
+End
+
+#1479
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1480 0 0
+~
+~
+Door 1 0 0 1478 0 0
+~
+~
+End
+
+#1480
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1481 0 0
+~
+~
+Door 2 0 0 1479 0 0
+~
+~
+End
+
+#1481
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 1 0 0 1482 0 0
+~
+~
+Door 2 0 0 1480 0 0
+~
+~
+End
+
+#1482
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1483 0 0
+~
+~
+Door 3 0 0 1481 0 0
+~
+~
+End
+
+#1483
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1500 0 0
+~
+~
+Door 2 0 0 1482 0 0
+~
+~
+End
+
+#1484
+Name Before the Great Pass~
+Descr
+The two trails come together here, along with the great pass nearby.
+Mountains are all around you, causing you to feel somehow trapped. However,
+the thought of travelling the renowned pass fills you with courage. 
+~
+Sector 4
+Door 2 0 0 1500 0 0
+~
+~
+Door 3 0 0 1501 0 0
+~
+~
+Door 4 0 0 1499 0 0
+~
+~
+End
+
+#1485
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 2065 0 0
+~
+~
+Door 1 0 0 1470 0 0
+~
+~
+Door 3 0 0 1486 0 0
+~
+~
+End
+
+#1486
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 1 0 0 1485 0 0
+~
+~
+Door 2 0 0 1487 0 0
+~
+~
+End
+
+#1487
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1486 0 0
+~
+~
+Door 4 0 0 1488 0 0
+~
+~
+End
+
+#1488
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 2 0 0 1489 0 0
+~
+~
+Door 5 0 0 1487 0 0
+~
+~
+End
+
+#1489
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1488 0 0
+~
+~
+Door 2 0 0 1490 0 0
+~
+~
+End
+
+#1490
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1489 0 0
+~
+~
+Door 3 0 0 1491 0 0
+~
+~
+End
+
+#1491
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Reset M 1421 1 100
+Door 1 0 0 1490 0 0
+~
+~
+Door 2 0 0 1492 0 0
+~
+~
+End
+
+#1492
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1491 0 0
+~
+~
+Door 2 0 0 1493 0 0
+~
+~
+End
+
+#1493
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1492 0 0
+~
+~
+Door 1 0 0 1494 0 0
+~
+~
+End
+
+#1494
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 2 0 0 1495 0 0
+~
+~
+Door 3 0 0 1493 0 0
+~
+~
+End
+
+#1495
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1494 0 0
+~
+~
+Door 4 0 0 1496 0 0
+~
+~
+End
+
+#1496
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 1 0 0 1497 0 0
+~
+~
+Door 5 0 0 1495 0 0
+~
+~
+End
+
+#1497
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 2 0 0 1498 0 0
+~
+~
+Door 3 0 0 1496 0 0
+~
+~
+End
+
+#1498
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1497 0 0
+~
+~
+Door 2 0 0 1499 0 0
+~
+~
+End
+
+#1499
+Name A Shady Mountain Path~
+Descr
+Tall cliffs and large boulders have made the borders of a path for you to
+follow. The sun's light rays are blocked by the mountain's great peaks,
+leaving the trail dark and eerie. The deep cracks cut into the ground give
+you a feeling of insecurity, as if the ground may give way at any moment. As
+you look ahead for a sign of light, you are quickly discouraged, for the
+path remains shady. 
+~
+Sector 4
+Door 0 0 0 1498 0 0
+~
+~
+Door 5 0 0 1484 0 0
+~
+~
+End
+
+#1500
+Name A Gloomy Trail~
+Descr
+There is something about this trail that instills fear and anxiety unto
+those who travel it. It is somewhat cold, and draped with a hazy mist. The
+ground under your feet doesn't seem like rock, and is cluttered with strange
+stones. The scent of decay in the air makes the environment even less
+pleasant. 
+~
+Sector 4
+Door 0 0 0 1484 0 0
+~
+~
+Door 2 0 0 1483 0 0
+~
+~
+End
+
+#1501
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1484 0 0
+~
+~
+Door 5 0 0 1502 0 0
+~
+~
+End
+
+#1502
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 3 0 0 1503 0 0
+~
+~
+Door 4 0 0 1501 0 0
+~
+~
+End
+
+#1503
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1502 0 0
+~
+~
+Door 3 0 0 1504 0 0
+~
+~
+End
+
+#1504
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1503 0 0
+~
+~
+Door 3 0 0 1505 0 0
+~
+~
+End
+
+#1505
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Reset M 1505 1 100
+Door 1 0 0 1504 0 0
+~
+~
+Door 3 0 0 1506 0 0
+~
+~
+End
+
+#1506
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1505 0 0
+~
+~
+Door 3 0 0 1507 0 0
+~
+~
+End
+
+#1507
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1506 0 0
+~
+~
+Door 3 0 0 1508 0 0
+~
+~
+End
+
+#1508
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 1 0 0 1507 0 0
+~
+~
+Door 4 0 0 1509 0 0
+~
+~
+End
+
+#1509
+Name The Pass of Conflict~
+Descr
+Many battles have taken place in this cold, barren pass. The mountains
+around you seem to be closing in, intimidating you. Spilled blood from
+generations ago can still be seen, smeared across the ground and the
+presence of the many people slaughtered here can still be felt. 
+~
+Sector 4
+Door 3 0 0 1569 0 0
+~
+~
+Door 5 0 0 1508 0 0
+~
+~
+End
+
+#1510
+Name A Trail up the Mountain~
+Descr
+Nearby is the great mountain, its large peaks cutting into the clouds
+above. The sight of it inspires both awe and fear to the feeble people under
+its shadow. The trail you are on inclines here, creating a steep entrance to
+the mountain. 
+~
+Sector 4
+Door 1 0 0 1511 0 0
+~
+~
+Door 3 0 0 25901 0 0
+~
+~
+End
+
+#1511
+Name A Trail up the Mountain~
+Descr
+Nearby is the great mountain, its large peaks cutting into the clouds
+above. The sight of it inspires both awe and fear to the feeble people under
+its shadow. The trail you are on inclines here, creating a steep entrance to
+the mountain. 
+~
+Sector 4
+Door 1 0 0 1512 0 0
+~
+~
+Door 3 0 0 1510 0 0
+~
+~
+End
+
+#1512
+Name A Trail up the Mountain~
+Descr
+Nearby is the great mountain, its large peaks cutting into the clouds
+above. The sight of it inspires both awe and fear to the feeble people under
+its shadow. The trail you are on inclines here, creating a steep entrance to
+the mountain. 
+~
+Sector 4
+Door 1 0 0 1513 0 0
+~
+~
+Door 3 0 0 1511 0 0
+~
+~
+End
+
+#1513
+Name The Junction of Despair~
+Descr
+A dreaded feeling of despair sets in as you come upon this junction. It
+breaks into two trails, each appearing equally dark and dreary. The strange
+sounds that can be heard send a chill through your spine, and so does the
+sight of the dark clouds above. 
+~
+Sector 4
+Door 0 0 0 1514 0 0
+~
+~
+Door 2 0 0 1515 0 0
+~
+~
+Door 3 0 0 1512 0 0
+~
+~
+End
+
+#1514
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1516 0 0
+~
+~
+Door 2 0 0 1513 0 0
+~
+~
+End
+
+#1515
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1513 0 0
+~
+~
+Door 1 0 0 1534 0 0
+~
+~
+End
+
+#1516
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 1 0 0 1517 0 0
+~
+~
+Door 2 0 0 1514 0 0
+~
+~
+End
+
+#1517
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 3 0 0 1516 0 0
+~
+~
+Door 4 0 0 1518 0 0
+~
+~
+End
+
+#1518
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1519 0 0
+~
+~
+Door 5 0 0 1517 0 0
+~
+~
+End
+
+#1519
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 2 0 0 1518 0 0
+~
+~
+Door 3 0 0 1520 0 0
+~
+~
+End
+
+#1520
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1521 0 0
+~
+~
+Door 1 0 0 1519 0 0
+~
+~
+End
+
+#1521
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1522 0 0
+~
+~
+Door 2 0 0 1520 0 0
+~
+~
+End
+
+#1522
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 1 0 0 1523 0 0
+~
+~
+Door 2 0 0 1521 0 0
+~
+~
+Door 3 0 0 1524 0 0
+~
+~
+End
+
+#1523
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1544 0 0
+~
+~
+Door 3 0 0 1522 0 0
+~
+~
+End
+
+#1524
+Name An Inclining Path~
+Descr
+This branching trail inclines sharply, being almost completely verticle.
+You have no choice but to use your hands at times to keep yourself on the
+path. Fortunately, the end of the trail is not far ahead. 
+~
+Sector 5
+Door 1 0 0 1522 0 0
+~
+~
+Door 4 0 0 1525 0 0
+~
+~
+End
+
+#1525
+Name An Inclining Path~
+Descr
+This branching trail inclines sharply, being almost completely verticle.
+You have no choice but to use your hands at times to keep yourself on the
+path. Fortunately, the end of the trail is not far ahead. 
+~
+Sector 5
+Door 4 0 0 1526 0 0
+~
+~
+Door 5 0 0 1524 0 0
+~
+~
+End
+
+#1526
+Name An Inclining Path~
+Descr
+This branching trail inclines sharply, being almost completely verticle.
+You have no choice but to use your hands at times to keep yourself on the
+path. Fortunately, the end of the trail is not far ahead. 
+~
+Sector 5
+Door 4 0 0 1527 0 0
+~
+~
+Door 5 0 0 1525 0 0
+~
+~
+End
+
+#1527
+Name Entering the Mists~
+Descr
+At this high altitude of the mountain, thicks mists have formed. It
+becomes difficult to see what is here, so you feel around for the walls of
+the mountain to guide you. Even the ground is slowly disappearing from view.
+~
+Sector 4
+Door 3 0 0 1528 0 0
+~
+~
+Door 5 0 0 1526 0 0
+~
+~
+End
+
+#1528
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1529 0 0
+~
+~
+Door 3 0 0 1530 0 0
+~
+~
+End
+
+#1529
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1528 0 0
+~
+~
+Door 3 0 0 1530 0 0
+~
+~
+End
+
+#1530
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1528 0 0
+~
+~
+Door 3 0 0 1531 0 0
+~
+~
+End
+
+#1531
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1528 0 0
+~
+~
+Door 3 0 0 1532 0 0
+~
+~
+End
+
+#1532
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1528 0 0
+~
+~
+Door 3 0 0 1533 0 0
+~
+~
+End
+
+#1533
+Name Lost in the Mists~
+Descr
+Thick mists shroud the air around you, blocking all possible vision. You
+have no choice but to search for the way out. 
+~
+Sector 4
+Door 1 0 0 1572 0 0
+~
+~
+Door 3 0 0 1528 0 0
+~
+~
+End
+
+#1534
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 3 0 0 1515 0 0
+~
+~
+Door 4 0 0 1535 0 0
+~
+~
+End
+
+#1535
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 2 0 0 1536 0 0
+~
+~
+Door 5 0 0 1534 0 0
+~
+~
+End
+
+#1536
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Door 0 0 0 1535 0 0
+~
+~
+Door 2 0 0 1537 0 0
+~
+~
+End
+
+#1537
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Door 0 0 0 1536 0 0
+~
+~
+Door 3 0 0 1538 0 0
+~
+~
+End
+
+#1538
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 1 0 0 1537 0 0
+~
+~
+Door 2 0 0 1539 0 0
+~
+~
+End
+
+#1539
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1538 0 0
+~
+~
+Door 4 0 0 1540 0 0
+~
+~
+End
+
+#1540
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 2 0 0 1541 0 0
+~
+~
+Door 5 0 0 1539 0 0
+~
+~
+End
+
+#1541
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1540 0 0
+~
+~
+Door 1 0 0 1542 0 0
+~
+~
+End
+
+#1542
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 2 0 0 1543 0 0
+~
+~
+Door 3 0 0 1541 0 0
+~
+~
+End
+
+#1543
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1542 0 0
+~
+~
+Door 1 0 0 1547 0 0
+~
+~
+End
+
+#1544
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Reset M 1421 1 100
+Door 2 0 0 1523 0 0
+~
+~
+Door 4 0 0 1545 0 0
+~
+~
+End
+
+#1545
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1546 0 0
+~
+~
+Door 5 0 0 1544 0 0
+~
+~
+End
+
+#1546
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 1 0 0 1560 0 0
+~
+~
+Door 2 0 0 1545 0 0
+~
+~
+End
+
+#1547
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 1 0 0 1548 0 0
+~
+~
+Door 3 0 0 1543 0 0
+~
+~
+End
+
+#1548
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 3 0 0 1547 0 0
+~
+~
+Door 4 0 0 1549 0 0
+~
+~
+End
+
+#1549
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1550 0 0
+~
+~
+Door 5 0 0 1548 0 0
+~
+~
+End
+
+#1550
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1551 0 0
+~
+~
+Door 2 0 0 1549 0 0
+~
+~
+End
+
+#1551
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Reset M 1421 1 100
+Door 2 0 0 1550 0 0
+~
+~
+Door 3 0 0 1552 0 0
+~
+~
+End
+
+#1552
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1553 0 0
+~
+~
+Door 1 0 0 1551 0 0
+~
+~
+End
+
+#1553
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1554 0 0
+~
+~
+Door 2 0 0 1552 0 0
+~
+~
+End
+
+#1554
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 1 0 0 1555 0 0
+~
+~
+Door 2 0 0 1553 0 0
+~
+~
+End
+
+#1555
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1556 0 0
+~
+~
+Door 3 0 0 1554 0 0
+~
+~
+End
+
+#1556
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1557 0 0
+~
+~
+Door 2 0 0 1555 0 0
+~
+~
+End
+
+#1557
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 1 0 0 1558 0 0
+~
+~
+Door 2 0 0 1556 0 0
+~
+~
+End
+
+#1558
+Name A Dismal Mountain Trail~
+Descr
+Nothing on this trail seems to stand out, and it looks a little too
+normal. A dead silence is in the air, and the dry, stale air makes your eyes
+burn. The path remains barren ahead, and it almost feels like an endless
+trail through the mountain. 
+~
+Sector 4
+Door 0 0 0 1559 0 0
+~
+~
+Door 3 0 0 1557 0 0
+~
+~
+End
+
+#1559
+Name The Junction of Grandeur~
+Descr
+This junction has been elaborately decorated by skilled artists and
+masons long ago. The walls of the mountain have been carved so that the room
+is circular. They have also been intricately etched and painted, showing
+images of banshees and other mysterious beings. 
+~
+Sector 4
+Door 0 0 0 1568 0 0
+~
+~
+Door 1 0 0 1570 0 0
+~
+~
+Door 2 0 0 1558 0 0
+~
+~
+End
+
+#1560
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 2 0 0 1561 0 0
+~
+~
+Door 3 0 0 1546 0 0
+~
+~
+End
+
+#1561
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1560 0 0
+~
+~
+Door 2 0 0 1562 0 0
+~
+~
+End
+
+#1562
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1561 0 0
+~
+~
+Door 2 0 0 1563 0 0
+~
+~
+End
+
+#1563
+Name An Ominous Trail~
+Descr
+This winding, twisting path makes its way through the sheer mountain
+cliffs ahead. The walls of the mountain are runed with strange writings and
+pictures, their messages unknown to you. In the distance, the sounds of
+wailing ghosts and other loud shrieks can be heard. 
+~
+Sector 4
+Door 0 0 0 1562 0 0
+~
+~
+Door 1 0 0 1564 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,2811 @@
+#AREADATA 
+Name Bugbears and Nasties~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mOuch!  That really hurt!
+You hurt from hunger!
+You are DEAD!!!
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Mareek Mobius~
+VNUMs 55001 55200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#55102
+Name small owlbear owl bear~
+Short a small owlbear~
+Long 
+A small, owlbear stands here screeching at you.
+~
+Descr
+This small black and brown creature stands up and hisses at you. 
+Screeching high pitch sounds aloud.  You wonder if he is calling for help or
+if you've just made him that mad.  Screeching louder you see his beak razor
+sharp and ready to tear into you.  
+~
+AMax 16
+NHeight 0
+ActBits 1
+Money 9
+Level 3
+MobType 18
+Guard 0
+ArmorClass 75
+End
+
+#55103
+Name owlbear owl bear~
+Short a owlbear~
+Long 
+An owlbear stands here hissing at you.
+~
+Descr
+A six foot tall black and brown creature stands here hissing and
+screeching at you.  Its black and brown pelt is a mix between fur and
+feathers.  Looking at its mouth you see a razor sharp beak looking quite
+eager to strike.  
+~
+AMax 13
+NHeight 0
+ActBits 1
+Money 15
+Level 5
+MobType 18
+Guard 0
+ArmorClass 70
+End
+
+#55104
+Name large owlbear owl bear~
+Short a large owlbear~
+Long 
+A fierce large owlbear screeches loudly at you.
+~
+Descr
+This massive yellow and brown creature screeches loudly before you. 
+Standing now he towers above you.  Looking up you see his beak bright red
+from the blood of its last kill.  
+~
+AMax 8
+NHeight 0
+ActBits 1
+Money 24
+Level 8
+MobType 18
+Guard 0
+ArmorClass 65
+End
+
+#55105
+Name huge owlbear owl bear~
+Short a Huge owlbear~
+Long 
+A HUGE screaming owlbear charges threateningly toward you!
+~
+Descr
+This owlbear seems much larger than the other owlbears you have seen.  He
+appears to still be chewing on the carcass of a recent kill.  There is a
+ravenous look in his eyes as he abruptly turns and stares at you.  
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 36
+Level 12
+MobType 18
+Guard 0
+ArmorClass 60
+End
+
+#55106
+Name bugbear bug bear~
+Short a bug bear~
+Long 
+A bugbear stands here glaring back at you.
+~
+Descr
+This large, hairy, muscular creature stares at you.  His greenish white
+eyes with red pupils stare you up and down.  Opening his mouth you now see
+his long fangs.  You watch as salavia slowly drips down his fangs.  He
+quickly approaches.  
+~
+AMax 14
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -5
+Money 15
+Level 5
+Sex 1
+Guard 0
+ArmorClass 80
+End
+
+#55107
+Name shaman bugbear bug bear~
+Short a bugbear shaman~
+Long 
+A bugbear shaman is here, uttering incantations towards you.
+~
+Descr
+This scarcely clad individual stands here staring at you, with the look
+of hate in his eyes.  Suddenly he starts doing some incantations and for
+some reason he seems to be directing the towards you!!!  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -10
+Money 60
+Level 17
+Guard 0
+ArmorClass 75
+End
+
+#55108
+Name guard bugbear large bug bear AONE~
+Short a Large bugbear guard~
+Long 
+A Large bugbear guard stands here protecting the area from intruders.
+~
+Descr
+This guard stands here giving you a death glance.  He seems quite pissed
+that you are even thinking about what he is guarding.  Yet, he stands there
+poised and ready to strike.  
+~
+AMax 4
+NHeight 0
+ActBits 134217731
+ActBits3 2
+Affect_By 512
+Alignment -25
+Money 45
+Level 15
+Sex 1
+Guard 0
+ArmorClass 75
+End
+
+#55109
+Name scout bug bear bugbear~
+Short a bugbear scout~
+Long 
+A bugbear scout scans the horizons.
+~
+Descr
+This small bugbear seem to be scanning everything.  He then notices you
+and smiles.  He takes of running the other direction, to perhaps go tell the
+others.  
+~
+AMax 6
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -5
+Money 9
+Level 3
+Guard 0
+ArmorClass 80
+End
+
+#55110
+Name bug bear bugbear leader~
+Short a bugbear leader~
+Long 
+A bugbear leader glares at you in comtempt.
+~
+Descr
+This large bugbear stands here in finely clad clothing.  He stares at you
+pondering why you are here.  Slowly he shows his fangs and prepares to
+attack.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 512
+Alignment -25
+Money 75
+Level 25
+Guard 0
+Spec spec_warrior
+RaceHate 67108864
+ArmorClass 75
+End
+
+#55111
+Name thri kreen thri-kreen~
+Short a thri-kreen~
+Long 
+A Thri-Kreen stands here staring through you.
+~
+Descr
+This large mantis like creature stands about seven foot tall.  It stares
+at you antennea twitching ever so slightly.  Turning around it chirps a
+couple incoherent sounds and charges.  
+~
+AMax 9
+NHeight 0
+ActBits 1
+Alignment 10
+Money 18
+Level 6
+Guard 0
+ArmorClass 80
+End
+
+#55112
+Name warrior thri kreen thri-kreen~
+Short a Thri-Kreen warrior~
+Long 
+A Thri-Keen Warrior stands here poised to attack.
+~
+Descr
+This tall huge creature towres in front of you.  His four arms make it so
+you really hope that he can't wield that many weapons.  He looks quite
+intent on killing you.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 10
+Money 45
+Level 15
+Sex 1
+Guard 0
+Spec spec_warrior
+ArmorClass 75
+End
+
+#55113
+Name thro noble kreen thro-kreen~
+Short a Thro-Kreen~
+Long 
+A Noble Thro-Kreen stands here smiling at you.
+~
+Descr
+This creature seems larger than the others you have seen.  Yet, he seems
+more pristine in nature.  He just barely glances at you and continues on his
+way.  
+ 
+~
+AMax 4
+NHeight 0
+ActBits 1
+Alignment 25
+Money 100
+Level 20
+Sex 1
+Guard 0
+ArmorClass 75
+End
+
+#55114
+Name thri kreen thri-kreen lich~
+Short a Thri-Kreen lich~
+Long 
+A shambling Thri-Kreen lich stands here showing all the good of evil.
+~
+Descr
+You see an enormous mantis like creature before you.  The scent of decay
+lingers in the air and you wonder if it comes from him or those who have
+been foolish enough to attack him.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 680
+Alignment -300
+Money 600
+Level 200
+Sex 1
+MobType 9
+Guard 0
+RaceHate 67108864
+BCasts healing~
+BCast_P 10
+End
+
+#0
+
+
+
+#OBJDATA
+#55115
+Name morning star ~
+Short a morning star~
+Descr
+A morning star lies here, still stained with blood.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 13 0 8 0 0 0 4 3 0
+Weight 8
+Cost 740
+End
+
+#55116
+Name gyth gythka~
+Short a gythka~
+Descr
+A gythka lies here on the ground with both blades gleaming brightly.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 11 0 0 0 5 2 0
+Weight 7
+Cost 885
+Affect 14 -6 1 0 0
+End
+
+#55117
+Name long glowing black gythka APB HIT~
+Short long black gythka~
+Descr
+A long black gythka lies here, draining the room of light.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 30 0 11 0 0 0 6 2 0
+Weight 4
+Cost 0
+Affect 18 2 1 0 0
+Affect 19 2 1 0 0
+End
+
+#55118
+Name small brass dagger~
+Short a small brass dagger~
+LEffect 1024
+Descr
+A small brass dagger lies here catching you eye.
+[0;36m~
+Type 5
+Extra 135168
+Wear 16385
+Timer 5000
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 11 0 0 0 1 6 0
+Weight 2
+Cost 500
+Affect 18 2 1 0 0
+Affect 19 -1 1 0 0
+End
+
+#55119
+Name dark cloak HIT~
+Short a [1m[30mdark[0m cloak~
+Descr
+A dark cloak lies here gathering dust.
+[0;36m~
+Type 9
+Extra 268435456
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 24 24 0 0
+Weight 1
+Cost 600
+Affect 18 2 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#55120
+Name steel chain shirt cheater~
+Short steel chain shirt~
+Descr
+A steel chain shirt lies here, catching your eyes.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 10 10 50 50 10 1
+Weight 20
+Cost 900
+End
+
+#55121
+Name black jeweled necklace APB~
+Short a black-jeweled necklace~
+Descr
+A black jeweled necklace lies here radiating evil.
+[0;36m~
+Type 9
+Extra 19
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 2 2 0 0 75 75 0 0
+Weight 2
+Cost 3000
+Affect 21 25 1 0 0
+Affect 19 1 0 0 0
+End
+
+#55122
+Name scint scintillating diamond~
+Short a scintillating diamond~
+Descr
+A scintillating diamond lies here, shocking all around.
+[0;36m~
+Type 21
+Extra 2
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 40 45 30 0 0 0 0 0 0
+Weight 1
+Cost 15000
+End
+
+#55123
+Name hide bracelet HIT~
+Short a hide bracelet~
+Descr
+A circular piece of hide lies here.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 50 50 0 0
+Weight 1
+Cost 400
+Affect 18 1 1 0 0
+End
+
+#55124
+Name small twig~
+Short a small twig~
+Descr
+A small notched twig lies here.
+[0;36m~
+Type 18
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#55125
+Name cherry tree branch~
+Short a cherry tree branch~
+Descr
+A foot long cherry tree branch lies here.
+[0;36m~
+Type 3
+Wear 16385
+Timer 5000
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 35 3 3 56 0 0 0 0 0 0
+Weight 1
+Cost 1000
+End
+
+#55126
+Name tree~
+Short an evil tree~
+Descr
+An evil tree blends in well with it's surroundings.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 55150 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#55001
+Name On a Strange Trail~
+Descr
+You stand before the entrance to a strange, evil area.  A foul stench
+seems to eminate from somewhere within.  An evil aura can be felt just
+standing here, and you know that it will get worse the futher east you go. 
+The smell of death and decay are heavy in the air.  
+~
+Flags 2
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 55194 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55002 0 0
+~
+~
+End
+
+#55002
+Name A Torn Up Dusty Trail~
+Descr
+This broken, dusty path leads westward from the city of Masque.  As you
+stare hesitantly down its length, you notice the woods closing in on either
+side.  You hear the sounds of howls from the woods and feel the permeating
+evil rise up from the ground.  You decide this is one path you want to
+follow.  
+~
+Reset M 55102 15 75
+Reset M 55104 8 25
+Door 1 0 0 55001 0 0
+~
+~
+Door 2 0 0 55006 0 0
+~
+~
+Door 3 0 0 55013 0 0
+~
+~
+End
+
+#55004
+Name Dark Alcove~
+Descr
+Upon entering this small section of woods, you notice that light seems to
+drain away from here.  As if it is scared to enter this place.  The
+screeching here is deafening.  And you start to question the rationality of
+leaving that torn up path.  
+~
+Sector 3
+Reset M 55105 3 50
+Reset M 55102 15 25
+Door 2 0 0 55005 0 0
+~
+~
+End
+
+#55005
+Name Small Opening~
+Descr
+The field seems to end at this point.  To the east you see the walls of
+Masque and to the north a dark small forest.  The screeching seems to
+intensify to the north and you really wonder if you should ever want to meet
+the thing that is making that horrible noise.  To the west the field opens
+back up again.  
+~
+Sector 2
+Reset M 55104 8 60
+Door 0 0 0 55004 0 0
+~
+~
+Door 3 0 0 55011 0 0
+~
+~
+End
+
+#55006
+Name Small Grassy Field~
+Descr
+A field opens up here and continues far to the south.  The grass here is
+dark brown and looks as if its been dead for some time.  The area hums with
+evil energy.  And it seems to be coming from somwhere around here.  Maybe
+its Masque to the east of you.  As you look around you notice that the torn
+up trail is both to the north and the west of you.  This field continues to
+the south.  
+~
+Sector 2
+Reset M 55104 8 20
+Door 0 0 0 55002 0 0
+~
+~
+Door 2 0 0 55007 0 0
+~
+~
+Door 3 0 0 55014 0 0
+~
+~
+End
+
+#55007
+Name Small Grassy Field~
+Descr
+The field seems to open up here.  All around you, you see brown withered
+up grass.  To the south these fields seem to open up.  To the west you see
+the torn up trail and to the west the walls of Masque.  That feeling of evil
+is stronger here, and you wonder where it comes from.  
+~
+Sector 2
+Reset M 55102 15 60
+Reset M 55102 15 30
+Door 0 0 0 55006 0 0
+~
+~
+Door 2 0 0 55008 0 0
+~
+~
+Door 3 0 0 55015 0 0
+~
+~
+End
+
+#55008
+Name Small Grassy Field~
+Descr
+The field opens up here and and you can see that it continues to the
+south and to the west.  The grass here looks far worse off than the grass
+far to the north.  To the east you can see the walls of Masque.  You feel an
+overwhelming evil presence near.  
+~
+Sector 2
+Reset M 55103 10 30
+Door 0 0 0 55007 0 0
+~
+~
+Door 2 0 0 55009 0 0
+~
+~
+Door 3 0 0 55016 0 0
+~
+~
+End
+
+#55009
+Name Small Grassy Field~
+Descr
+The field here is quite solitary.  It looks as if most of the creatures
+try to avoid this place.  To the south you see dense trees and to the east
+you see the walls of Masque.  But what you really notice it the grass here
+is black and that the presence of evil is so strong here that you almost
+collapse.  You really wish you were not here right now.  
+~
+Sector 2
+Reset M 55102 15 70
+Door 0 0 0 55008 0 0
+~
+~
+Door 3 0 0 55017 0 0
+~
+~
+End
+
+#55010
+Name End of the Clearing~
+Descr
+This area seems to have a dark aura surrounding it.  It feels as if one
+of the gods had set it aside for you.  From here you feel energy pour into
+you and your pains and wounds quickly vanish.  You truely know that this
+place was enchanted by the gods.  
+~
+Flags 3145728
+Sector 2
+Reset M 55105 3 75
+Door 3 0 0 55019 0 0
+~
+~
+End
+
+#55011
+Name Opening in the Forest~
+Descr
+The passage to the north is haulted here by some dense trees.  But you
+can see many other exits.  To the east you see the walls of Masque and to
+the west a clearing .  As you look back to to south you see a lightly
+forested area and a small trail.  The screeching here is so intense that you
+really start to wonder if you should perhaps get on that trail.  
+~
+Sector 2
+Door 1 0 0 55005 0 0
+~
+~
+Door 2 0 0 55012 0 0
+~
+~
+Door 3 0 0 55022 0 0
+~
+~
+End
+
+#55012
+Name Lightly Forested Area~
+Descr
+This area seems like the beginning of some small forest.  The trees here
+are sparse and light seems to trickle through there leaves.  All around you,
+you see this forest continue.  Except to the south where you see a trail
+continue southward.  
+~
+Sector 2
+Door 0 0 0 55011 0 0
+~
+~
+Door 2 0 0 55013 0 0
+~
+~
+Door 3 0 0 55023 0 0
+~
+~
+End
+
+#55013
+Name A Torn Up Dusty Trail~
+Descr
+As you continue down this dusty trail, you notice the city of Masque off
+to the east and the trail continuing to the south.  You can also see woods
+to both the west and the north of you from here.  The continuous sounds of
+screeches and howls continues from the woods.  
+~
+Reset M 55103 10 45
+Door 0 0 0 55012 0 0
+~
+~
+Door 1 0 0 55002 0 0
+~
+~
+Door 2 0 0 55014 0 0
+~
+~
+Door 3 0 0 55024 0 0
+~
+~
+End
+
+#55014
+Name A Torn Up Dusty Trail~
+Descr
+You are beginning to get farther away from Masque, its gates are barely
+visible to the northeast.  The dusty trail you are on continues to the north
+and south here, while you see brushy areas east and west of the trail.  
+~
+Reset M 55103 10 45
+Door 0 0 0 55013 0 0
+~
+~
+Door 1 0 0 55006 0 0
+~
+~
+Door 2 0 0 55015 0 0
+~
+~
+Door 3 0 0 55025 0 0
+~
+~
+End
+
+#55015
+Name A Torn Up Dusty Trail~
+Descr
+You stand at a bend in the dusty trail, it goes both north and west from
+here.  To the south and east you can see a small clearing that appears safe.
+The incessant screeching of beasts is now threatening to deafen you as you
+continue down the path.  
+~
+Reset M 55103 10 25
+Door 0 0 0 55014 0 0
+~
+~
+Door 1 0 0 55007 0 0
+~
+~
+Door 2 0 0 55016 0 0
+~
+~
+Door 3 0 0 55026 0 0
+~
+~
+End
+
+#55016
+Name Small Grassy Field~
+Descr
+Your standing in what looks like a large field.  All around you you see
+brown withered up grass.  This place gives you the feeling of ultimate evil.
+And you can tell you are not the only one who feels this because no other
+creatures seem to dare to enter this place.  Far to the east you see Masque
+and far to the west you see a trail.  You also notice a trail to the north. 
+But the field goes on to the south.  
+~
+Sector 2
+Reset M 55102 15 30
+Door 0 0 0 55015 0 0
+~
+~
+Door 1 0 0 55008 0 0
+~
+~
+Door 2 0 0 55017 0 0
+~
+~
+Door 3 0 0 55027 0 0
+~
+~
+End
+
+#55017
+Name Small Grassy Field~
+Descr
+A feeling of dread fills your soul as you enter this part of the field. 
+The grass is no longer brown, here it is black!  The presence of evil is so
+intense here that you wonder how any creature could survive here.  The field
+continues in all directions from here, but far to the west and north you can
+see a trail.  Far to the east you can also see the city of Masque.  
+~
+Sector 2
+Reset M 55105 3 60
+Door 0 0 0 55016 0 0
+~
+~
+Door 1 0 0 55009 0 0
+~
+~
+Door 2 0 0 55018 0 0
+~
+~
+Door 3 0 0 55028 0 0
+~
+~
+End
+
+#55018
+Name Small Grassy Field~
+Descr
+All of the grass here is black and an overwhelming feeling of death
+abodes here.  The field seems to end here, except for the dense woods to the
+east.  You start to shiver under the presence of this ultimate evil and you
+wonder where it is coming from.  As you scan around looking for it all you
+can see is a trail very far to the north and more dense woods to the west.  
+~
+Sector 2
+Reset M 55102 15 60
+Reset M 55105 3 45
+Reset M 55104 5 40
+Door 0 0 0 55017 0 0
+~
+~
+Door 1 263 1049 55150 30 30
+~
+tree~
+Door 3 0 0 55029 0 0
+~
+~
+End
+
+#55019
+Name Clearing~
+Descr
+From here you can clearly tell the dimensions of this clearing.  You
+notice where the clearing begins and now you can tell exactly where it ends.
+As you stand here you seem to be drawn towards the east.  Something there
+seems to want to help you.  You pray and hope that this is not a trap.  
+~
+Sector 2
+Reset M 55104 5 35
+Reset M 55102 15 50
+Door 1 0 0 55010 0 0
+~
+~
+Door 2 0 0 55020 0 0
+~
+~
+Door 3 0 0 55030 0 0
+~
+~
+End
+
+#55020
+Name Clearing~
+Descr
+From here you can tell this clearing will end soon, but you can't help
+but notice this feeling you have.  For some reason your soul seems lifted
+and you feel invincible.  Yet, you can not stop from noticing how the dense
+forest looms in on you.  
+~
+Sector 2
+Reset M 55103 10 45
+Reset M 55102 15 75
+Door 0 0 0 55019 0 0
+~
+~
+Door 2 0 0 55021 0 0
+~
+~
+Door 3 0 0 55031 0 0
+~
+~
+End
+
+#55021
+Name Clearing~
+Descr
+The forest seems to clear up here and sunlight seems to touch everything.
+To the east and west you see dense woods.  The clearing seems to continue to
+the north.  You also notice that to the south there is some lightly forested
+area.  
+~
+Sector 2
+Reset M 55102 15 75
+Door 0 0 0 55020 0 0
+~
+~
+Door 2 0 0 55022 0 0
+~
+~
+Door 3 0 0 55032 0 0
+~
+~
+End
+
+#55022
+Name Beginning of a Clearing~
+Descr
+The area here seems to clear up and to the north a large clearing can be
+seen.  The screeching here is loud, but not as intense as it was before.  To
+the south the forest seems to go on forever.  Far to the east you see the
+walls of Masque.  For the first time since leaving Masque you feel peaceful.
+~
+Sector 2
+Reset M 55103 10 50
+Reset M 55103 10 50
+Door 0 0 0 55021 0 0
+~
+~
+Door 1 0 0 55011 0 0
+~
+~
+Door 2 0 0 55023 0 0
+~
+~
+End
+
+#55023
+Name Lightly Forested Area~
+Descr
+The forest seems quite open here and the trees seem to be very sparse. 
+To the north you can see what looks like the beginning of a clearing.  To
+all the other directions you see this forest continue.  You feel as if
+something is pulling you north.  What could it be?  
+~
+Sector 2
+Reset M 55102 15 45
+Door 0 0 0 55022 0 0
+~
+~
+Door 1 0 0 55012 0 0
+~
+~
+Door 2 0 0 55024 0 0
+~
+~
+End
+
+#55024
+Name Lightly Forested Area~
+Descr
+The lightly forested area continues here.  The trees and shrubbery seem
+to be spaced out just right.  Seeing you don't have to dodge many objects. 
+As you scan around you see a small alcove to the west and the torn up trail
+to the east.  To the south you see this forest continue.  
+~
+Sector 2
+Reset M 55103 10 35
+Door 0 0 0 55023 0 0
+~
+~
+Door 1 0 0 55013 0 0
+~
+~
+Door 2 0 0 55025 0 0
+~
+~
+Door 3 0 0 55033 0 0
+~
+~
+End
+
+#55025
+Name Lightly Forested Area~
+Descr
+The forest is quite open here.  It would almost pass for plains if it
+were not for all the foliage overhead.  To the west the forest gets so dense
+that you can not mange to continue.  Yet, to the south this sparsely wooded
+area continues.  If you look back to the east you see the torn up trail and
+further away the walls of Masque.  
+~
+Sector 2
+Reset M 55102 15 45
+Door 0 0 0 55024 0 0
+~
+~
+Door 1 0 0 55014 0 0
+~
+~
+Door 2 0 0 55026 0 0
+~
+~
+End
+
+#55026
+Name A Torn Up Dusty Trail~
+Descr
+As you continue down the dusty trail here, you can see a small clearing
+south of you and a lightly covered forest north.  To the east and west you
+can see the dusty trail bending around corners as it meanders its way
+through this wilderness.  
+~
+Reset M 55104 8 30
+Door 0 0 0 55025 0 0
+~
+~
+Door 1 0 0 55015 0 0
+~
+~
+Door 2 0 0 55027 0 0
+~
+~
+Door 3 0 0 55034 0 0
+~
+~
+End
+
+#55027
+Name Small Grassy Field~
+Descr
+You enter what looks like a field of dead grass.  Everything around you
+is brown and withered.  There is something about this area that you just
+don't like.  You feel some sort of evil presence nearby.  Perhaps that is
+why all the creatures seem to shun this area.  To the north and west you
+notice the trail.  Very far to the east you see the walls of Masque.  The
+field continues to the south.  
+~
+Sector 2
+Reset M 55104 5 50
+Door 0 0 0 55026 0 0
+~
+~
+Door 1 0 0 55016 0 0
+~
+~
+Door 2 0 0 55028 0 0
+~
+~
+Door 3 0 0 55035 0 0
+~
+~
+End
+
+#55028
+Name Small Grassy Field~
+Descr
+The field lying before you is covered in brown withered up grass.  All
+around all you see is the color brown.  To the west and far to the north you
+spot a trail.  Very far to the east you see the walls of Masque.  The field
+seems to continue far to the south.  And you can't help but notice an evil
+feeling about this area.  
+~
+Sector 2
+Reset M 55103 10 50
+Door 0 0 0 55027 0 0
+~
+~
+Door 1 0 0 55017 0 0
+~
+~
+Door 2 0 0 55029 0 0
+~
+~
+Door 3 0 0 55036 0 0
+~
+~
+End
+
+#55029
+Name Small Grassy Field~
+Descr
+This desolate field seems to end here.  Although you can continue to the
+east the forest seems to block your passage south and westward.  The feeling
+of evil is quite strong here.  And you really think you should go somewhere
+else.  As you peer around you can see the trail very far to the north and
+more woods far to the east.  
+~
+Sector 2
+Reset M 55103 10 50
+Reset M 55103 10 50
+Door 0 0 0 55028 0 0
+~
+~
+Door 1 0 0 55018 0 0
+~
+~
+End
+
+#55030
+Name Clearing~
+Descr
+You can now tell that you are at the end of this part of the clearing. 
+You do notice that the clearing seems to go further to the east.  As you
+stand here looking towards the west you have this terrible sensation that
+you don't really want to know what is on the other side of those trees.  
+~
+Sector 2
+Reset M 55102 15 50
+Door 1 0 0 55019 0 0
+~
+~
+Door 2 0 0 55031 0 0
+~
+~
+End
+
+#55031
+Name Clearing~
+Descr
+From here you can tell the extents of the clearing are not large.  All
+around you, you see the dense forest looming in.  And you wonder what
+purpose that forest may serve.  Is it some sort of protection between what
+is further west and Masque?  
+~
+Sector 2
+Reset M 55103 10 45
+Door 0 0 0 55030 0 0
+~
+~
+Door 1 0 0 55020 0 0
+~
+~
+Door 2 0 0 55032 0 0
+~
+~
+End
+
+#55032
+Name Clearing~
+Descr
+The sun contiues to beat down in this open place.  The grass here is soft
+and the sounds of screeching seems somewhat dampened.  To the north you see
+the clearing go on and on.  But to the east you see a small section of
+clearing and then dense trees.  
+~
+Sector 2
+Reset M 55102 15 60
+Reset O 55124 -5 10
+Door 0 0 0 55031 0 0
+~
+~
+Door 1 0 0 55021 0 0
+~
+~
+End
+
+#55033
+Name Small Alcove~
+Descr
+This small aclove seems to be quite small and quaint.  Yet, there seems
+to be some feeling you get here.  Something dark and evil is close to the
+west.  For some reason you are quite happy that these dark dense woods
+seperate it from you.  You really wonder if you should ever want to meet
+what is on the other side of these trees.  To the east you see the forest
+offering to take you away from this place.  
+~
+Sector 2
+Reset M 55102 15 15
+Reset M 55103 10 20
+Reset M 55104 5 15
+Reset M 55105 3 10
+Door 1 0 0 55024 0 0
+~
+~
+End
+
+#55034
+Name A Torn Up Dusty Trail~
+Descr
+You are standing at another bend in the dusty trail.  It curves from the
+north to the south here.  You notice a very dense copse of trees directly
+south of you that blocks all view of the trail in that direction.  
+~
+Reset M 55102 15 23
+Door 1 0 0 55026 0 0
+~
+~
+Door 2 0 0 55035 0 0
+~
+~
+End
+
+#55035
+Name A Dense Copse~
+Descr
+You are standing in the middle of a dense copse of trees that interrupts
+the dusty trail here.  To the north and south the trail continues on, but
+this looks like a good spot to suprise anyone who might be following you.  
+~
+Door 0 0 0 55034 0 0
+~
+~
+Door 1 0 0 55027 0 0
+~
+~
+Door 2 0 0 55036 0 0
+~
+~
+End
+
+#55036
+Name A Torn Up Dusty Trail~
+Descr
+The dusty trail emerges from a dense copse of trees north of here to
+continue on to the west.  To the east you can see a small grassy field,
+while a boggy area is visible to the southwest.  
+~
+Flags 2
+Door 0 0 0 55035 0 0
+~
+~
+Door 1 0 0 55028 0 0
+~
+~
+Door 3 0 0 55040 0 0
+~
+~
+End
+
+#55037
+Name Shaman's Alcove~
+Descr
+Some strange presence seems to fill the room here.  As you look around
+the dark woods seem to engulf you.  Right in front of you stands a shaman. 
+Per some sort of magical right.  Turning around he stares at you.  Grinning
+now he waves his hands and starts mumbling some sort of jibberish at you.  
+~
+Sector 3
+Reset M 55107 1 100
+Reset O 55118 -1 35
+Reset O 55119 -1 15
+Reset O 55123 -1 30
+Reset M 55106 10 60
+Reset O 55115 -1 5
+Door 2 0 0 55038 0 0
+~
+~
+End
+
+#55038
+Name Entrance to the Shaman's Alcove~
+Descr
+The forest seems to darken here and the air feels quite electrically. 
+Some sort of magic presence seems to eminate from the north.  All around you
+the forest seem to close in except to the west where the forest seems to
+open up.  There is of course the opening to the north, but do you really
+want to go to a place that looks that dark.  And has those weird chants
+eminating from it.  
+~
+Sector 3
+Reset M 55106 10 50
+Reset O 55115 -1 5
+Reset M 55111 10 50
+Reset O 55116 -1 4
+Door 0 0 0 55037 0 0
+~
+~
+Door 3 0 0 55044 0 0
+~
+~
+End
+
+#55039
+Name A Perfect Ambush Site~
+Descr
+Standing here you notice that this would be the perfect spot for an
+ambush.  Directly to the west of you is where the torn up trail comes out of
+the woods.  You notice that this spot here is totally surrounded by the dark
+forest, except for the exit to the west.  You feel some sort of dark
+presence to the north and you wonder what it could be?  
+~
+Flags 1
+Reset M 55106 10 75
+Reset O 55115 -1 15
+Door 3 0 0 55046 0 0
+~
+~
+End
+
+#55040
+Name A Torn Up Dusty Trail~
+Descr
+The dusty trail you are following bends around an unpenetrable forest
+that lies to the north of you.  To the south of the trail is a small boggy
+area that extends to the west.  You can see the dusty trail to the east and
+west.  
+~
+Flags 2
+Door 1 0 0 55036 0 0
+~
+~
+Door 2 0 0 55041 0 0
+~
+~
+Door 3 0 0 55049 0 0
+~
+~
+End
+
+#55041
+Name A Small Boggy Area~
+Descr
+You are standing in the eastern most section of a small bog that runs
+west along the dusty trail here.  You can see the dusty trail north of you,
+whil the swamp appears to get deeper west of here.  
+~
+Sector 3
+Reset M 55109 10 45
+Reset O 236 -1 10
+Door 0 0 0 55040 0 0
+~
+~
+Door 3 0 0 55050 0 0
+~
+~
+End
+
+#55042
+Name Dark Forest~
+Descr
+You notice that the forest ends here mainly due to the presence of a
+densly wooded area to the east.  Although the forest ends to the east you do
+notice that it continues to the south.  As you look to the west you see
+light flickering.  You have definitely stayed in this forest too long and a
+quick trip back to the trail would be pretty smart.  
+~
+Flags 1
+Sector 3
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Door 2 0 0 55043 0 0
+~
+~
+Door 3 0 0 55051 0 0
+~
+~
+End
+
+#55043
+Name Dark Forest~
+Descr
+The forest is especially dark here, but for what reason you cannot tell. 
+The woods start to get extremely thick to the east and south making your
+passage there impossible.  To the north and west this woods continues.  As
+you peer to the west you notice the ambers of a fire flying high into the
+sky.  
+~
+Flags 1
+Sector 3
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Door 0 0 0 55042 0 0
+~
+~
+Door 3 0 0 55052 0 0
+~
+~
+End
+
+#55044
+Name Small Clearing~
+Descr
+This small clearing is the only one you can see around here.  Put peering
+around you notice the trail to both the south and the west.  As you look to
+the east something seems to catch your attention.  Your not sure, but you
+think you hear the sounds of chanting echoing its way over here.  
+~
+Sector 2
+Door 1 0 0 55038 0 0
+~
+~
+Door 2 0 0 55045 0 0
+~
+~
+Door 3 0 0 55054 0 0
+~
+~
+End
+
+#55045
+Name A Torn Up Dusty Trail~
+Descr
+You are standing at the north end of a long stretch of the dusty trail. 
+It bends to the northwest here, around a dead forest to the southwest.  
+~
+Door 0 0 0 55044 0 0
+~
+~
+Door 2 0 0 55046 0 0
+~
+~
+Door 3 0 0 55055 0 0
+~
+~
+End
+
+#55046
+Name A Torn Up Dusty Trail~
+Descr
+The dusty trail continues to the south quite aways here and for a short
+distance to the north before turning northwest.  To the west is a dead
+forest, while a small hiding place lies east of you.  
+~
+Door 0 0 0 55045 0 0
+~
+~
+Door 1 0 0 55039 0 0
+~
+~
+Door 2 0 0 55047 0 0
+~
+~
+Door 3 0 0 55056 0 0
+~
+~
+End
+
+#55047
+Name A Torn Up Dusty Trail~
+Descr
+The inpenetrable forest continues along either side of the dusty trail
+here as it continues to the north and the south.  The trail seems more
+heavily travelled here, perhaps because of the forests blocking travel to
+the sides of it.  
+~
+Reset M 55109 10 70
+Reset O 236 -1 10
+Door 0 0 0 55046 0 0
+~
+~
+Door 2 0 0 55048 0 0
+~
+~
+End
+
+#55048
+Name A Torn Up Dusty Trail~
+Descr
+The dusty trail runs north for quite a ways here as it runs between
+inpenetrable forest no either side of you.  To the south of you the dusty
+trail turns east around the southern end of the forest.  
+~
+Door 0 0 0 55047 0 0
+~
+~
+Door 2 0 0 55049 0 0
+~
+~
+End
+
+#55049
+Name A Torn Up Dusty Trail~
+Descr
+You are currently standing at the south end of a long stretch of the
+dusty trail.  To the west and south of here, a small boggy area runs along
+the trail.  
+~
+Door 0 0 0 55048 0 0
+~
+~
+Door 1 0 0 55040 0 0
+~
+~
+Door 2 0 0 55050 0 0
+~
+~
+Door 3 0 0 55057 0 0
+~
+~
+End
+
+#55050
+Name A Small Boggy Area~
+Descr
+An overwhelming scent of rotting vegetation assails your nostrils as you
+stand in this part of the small bog.  You can see small islands of rotting
+grasses lacing the water here, and although you are tempted to try jumping
+from one to the next, you think better of it and look longingly to the dusty
+trail north of here.  
+~
+Sector 3
+Door 0 0 0 55049 0 0
+~
+~
+Door 1 0 0 55041 0 0
+~
+~
+Door 3 0 0 55058 0 0
+~
+~
+End
+
+#55051
+Name Dark Forest~
+Descr
+This part of the forest has a dozen run down shacks, all surrounding a
+small fire.  The fire sends ambers high into the air.  This fire-pit seems
+to have some sort of ritualistic use.  As you look closer at the fire you
+start to notice small bone fragments and in the middle you notice a charred
+and blackened skull.  Its at this point you decide you really don't want to
+be here.  
+~
+Sector 3
+Door 1 0 0 55042 0 0
+~
+~
+Door 2 0 0 55052 0 0
+~
+~
+Door 3 0 0 55059 0 0
+~
+~
+End
+
+#55052
+Name Dark Forest~
+Descr
+This part of the forest seems to be some sort of meeting area.  There is
+a small fire in the middle where it looks like food is cooked on
+occasionally.  There are only four or five huts here and most of them look
+better kept then the others you have seen.  The light you see here is
+comforting seeing it is the first light you've seen since entering this dark
+forest.  
+~
+Sector 3
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Door 0 0 0 55051 0 0
+~
+~
+Door 1 0 0 55043 0 0
+~
+~
+Door 3 0 0 55060 0 0
+~
+~
+End
+
+#55053
+Name Thick Forest~
+Descr
+The forest here is extremely thick making traveling here long and
+difficult.  It seems as if every step you take requires you to maneuver
+sixteen steps in some other direction.  The foliage here is so dense that no
+light can penetrate in.  To the south you can vaguely make out a trail.  To
+the west you see more woods.  
+~
+Sector 3
+Reset M 55109 10 70
+Reset O 236 -1 10
+Door 2 0 0 55054 0 0
+~
+~
+Door 3 0 0 55061 0 0
+~
+~
+End
+
+#55054
+Name A Torn Up Dusty Trail~
+Descr
+You are standing at the east end of a long stretch of the dusty trail. 
+The trail continues southeast of here, bending around a dying forest that
+lies south of you.  
+~
+Door 0 0 0 55053 0 0
+~
+~
+Door 1 0 0 55044 0 0
+~
+~
+Door 2 0 0 55055 0 0
+~
+~
+Door 3 0 0 55062 0 0
+~
+~
+End
+
+#55055
+Name A Torn Up Dusty Trail~
+Descr
+You are standing on the dusty trail northeast of a large area of dying
+forest.  The dusty trail continues to the northwest and southeast from here.
+~
+Door 0 0 0 55054 0 0
+~
+~
+Door 1 0 0 55045 0 0
+~
+~
+Door 2 0 0 55056 0 0
+~
+~
+Door 3 0 0 55063 0 0
+~
+~
+End
+
+#55056
+Name Dying Forest~
+Descr
+This area seems to be filled with dead trees some still standing, but
+most of them lying on the ground.  To the north and east you see the trail. 
+But to the west this so called forest continues.  You notice that the trees
+to the south of you are, somehow different, or at least hardier.  
+~
+Sector 2
+Reset M 55106 10 50
+Reset O 236 -1 10
+Door 0 0 0 55055 0 0
+~
+~
+Door 1 0 0 55046 0 0
+~
+~
+Door 3 0 0 55064 0 0
+~
+~
+End
+
+#55057
+Name A Small Boggy Area~
+Descr
+This is a small marsh full of snakes and turtles that skim by you as they
+lazily make their way through the knee-deep, brackish water.  You can see
+rushes and willow trees, black and blighted from the harsh climate, wave
+slowly in the breeze as they struggle to survive.  
+~
+Sector 3
+Door 1 0 0 55049 0 0
+~
+~
+Door 2 0 0 55058 0 0
+~
+~
+End
+
+#55058
+Name A Small Boggy Area~
+Descr
+You are in the southwest corner of a small marshy area.  The dusty trail
+lies to the northeast, and to the west the bog becomes to hazardous for you
+to travel.  You can see more bog to the north and to the east.  
+~
+Sector 3
+Reset M 55109 10 45
+Reset O 236 -1 10
+Door 0 0 0 55057 0 0
+~
+~
+Door 1 0 0 55050 0 0
+~
+~
+End
+
+#55059
+Name Dark Forest~
+Descr
+As you enter this area you immediately notice many small one person
+shacks.  Most of them consist of many large rotting tree limbs.  The forest
+here is especially dark and you start to wonder who might have built thesee
+shacks.  As you scan around you notice there are more of these shacks to the
+east and south.  You can vaguely see the smoke from a fire to the west.  
+~
+Flags 1
+Sector 3
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Reset M 55106 10 67
+Reset O 55115 -1 5
+Door 1 0 0 55051 0 0
+~
+~
+Door 2 0 0 55060 0 0
+~
+~
+Door 3 0 0 55065 0 0
+~
+~
+End
+
+#55060
+Name Dark Forest~
+Descr
+Shacks fill this area of the forest.  Everywhere you look you see some
+sort of shack.  With all these shacks here, you really start to wonder who
+built them and if you should really be here.  The forest continues to block
+out all the light here making traveling quite interesting.  As you scan the
+area you notice more shacks to the north and the east.  The smell of burning
+flesh eminates from the east.  
+~
+Flags 1
+Sector 3
+Door 0 0 0 55059 0 0
+~
+~
+Door 1 0 0 55052 0 0
+~
+~
+Door 3 0 0 55066 0 0
+~
+~
+End
+
+#55061
+Name Thick Forest~
+Descr
+This section of woods is very thick.  You are having enough trouble just
+moving around in here.  You wonder what it would be like fighting here.  As
+you scan around this area all you see is tall thick trees, but you think you
+can make out a trail to the south.  
+~
+Sector 3
+Door 1 0 0 55053 0 0
+~
+~
+Door 2 0 0 55062 0 0
+~
+~
+Door 3 0 0 55068 0 0
+~
+~
+End
+
+#55062
+Name A Torn Up Dusty Trail~
+Descr
+You are standing on a long east-west section of the dusty trail as it
+runs between a thick forest to the north and a dying forest to the south.  
+~
+Door 0 0 0 55061 0 0
+~
+~
+Door 1 0 0 55054 0 0
+~
+~
+Door 2 0 0 55063 0 0
+~
+~
+Door 3 0 0 55069 0 0
+~
+~
+End
+
+#55063
+Name Dying Forest~
+Descr
+All around you trees seem to lie chaoticly on the ground.  Scaning around
+you notice that this dead forest seems to continue to the west and the
+south.  A torn up trail lies to the north and east.  But the real important
+question that burns in your soul right now, is why are all these trees dead?
+~
+Sector 2
+Reset M 55106 10 50
+Reset O 55115 -1 5
+Door 0 0 0 55062 0 0
+~
+~
+Door 1 0 0 55055 0 0
+~
+~
+Door 2 0 0 55064 0 0
+~
+~
+Door 3 0 0 55070 0 0
+~
+~
+End
+
+#55064
+Name Dying Forest~
+Descr
+The forest here is completely dead.  All the trees lie here on there
+sides, with only a stray one or two standing erect.  You feel a kind of
+dominating presence near by.  But from what or where you can't seem to
+figure out.  As you look around you notice a trail both far to the north and
+east.  A dense hardy forest blocks your path to the west and south.  
+~
+Sector 2
+Reset M 55111 10 50
+Reset O 55116 -1 4
+Door 0 0 0 55063 0 0
+~
+~
+Door 1 0 0 55056 0 0
+~
+~
+End
+
+#55065
+Name Dark Forest~
+Descr
+This part of the forest seems much like the others, it is quite dark here
+seeing the foliage is so thick.  As you scan the ground you notice what
+looks like the remnants of a small fire, now all but charcoal and ash.  You
+wonder what could have possibly made this fire.  As you scan around you see
+the forest continue to the west, east, and south.  
+~
+Flags 1
+Sector 3
+Reset M 55106 10 50
+Reset O 55115 -1 5
+Door 1 0 0 55059 0 0
+~
+~
+Door 2 0 0 55066 0 0
+~
+~
+Door 3 0 0 55074 0 0
+~
+~
+End
+
+#55066
+Name Dark Forest~
+Descr
+You have entered what looks to be a large dark forest.  The strange thing
+about it is that there are not many trees.  You can easily move about this
+area.  As you look around you notice many stumps of cut down trees and that
+that there is almost no growth on the forest floor.  The forest here is
+quite dark and as you look up you notice that no light even penetrates the
+foliage.  This forest seems to continue to the north and east.  You can see
+a trail to your west.  
+~
+Flags 1
+Sector 3
+Door 0 0 0 55065 0 0
+~
+~
+Door 1 0 0 55060 0 0
+~
+~
+Door 2 0 0 55067 0 0
+~
+~
+Door 3 0 0 55075 0 0
+~
+~
+End
+
+#55067
+Name Thicket~
+Descr
+This area seems to be covered with low-lying trees, shrubs, weeds, and
+other types of vegetation, making traveling treacherous and time consuming. 
+You can barely make out a path to the west.  A thick forest seems to lie
+ahead of you.  
+~
+Sector 3
+Reset M 55109 10 69
+Reset O 236 -1 10
+Door 0 0 0 55066 0 0
+~
+~
+Door 2 0 0 55068 0 0
+~
+~
+Door 3 0 0 55076 0 0
+~
+~
+End
+
+#55068
+Name Thicket~
+Descr
+This area seems to be covered with a low-lying thicket.  All around you
+thicket seems to continue.  You see what looks like a trail to the west and
+the south.  Forests block you view to the north and east.  
+~
+Sector 3
+Reset M 55106 10 78
+Reset O 55115 -1 5
+Door 0 0 0 55067 0 0
+~
+~
+Door 1 0 0 55061 0 0
+~
+~
+Door 2 0 0 55069 0 0
+~
+~
+Door 3 0 0 55077 0 0
+~
+~
+End
+
+#55069
+Name A Torn Up Dusty Trail~
+Descr
+A thicket has sprung up north of the dusty trail here, while the dying
+forest continues to the south.  The dusty trail continues for some distance
+to the east and west of you.  
+~
+Door 0 0 0 55068 0 0
+~
+~
+Door 1 0 0 55062 0 0
+~
+~
+Door 2 0 0 55070 0 0
+~
+~
+Door 3 0 0 55078 0 0
+~
+~
+End
+
+#55070
+Name Dying Forest~
+Descr
+This part of the forest seems to not have been devistated as much as the
+others.  Most of the trees here are still erect, but they are all dead. 
+What could have done so much carnage?  You notice a path far to the west,
+far to the east, and close to the north.  A dense forest blocks your passage
+south.  
+~
+Sector 2
+Door 0 0 0 55069 0 0
+~
+~
+Door 1 0 0 55063 0 0
+~
+~
+Door 3 0 0 55079 0 0
+~
+~
+End
+
+#55071
+Name A Small Barren Expanse~
+Descr
+Although this area is still barren, sign of life are finally visible
+here.  You can see craggy outcroppings to the west, north, and east of you
+that prevent you from advancing in any of those directions.  The only
+visible exit is south into more barren area.  
+~
+Sector 10
+Reset M 55111 10 80
+Reset O 55116 -1 4
+Reset M 55112 6 50
+Reset O 55116 -1 3
+Reset M 55113 2 80
+Door 2 0 0 55072 0 0
+~
+~
+End
+
+#55072
+Name A Small Barren Expanse~
+Descr
+You are standing in the center of a small barren area east of the lich's
+wastelands.  This barren area extends north and south of you, while rocky
+crags prevent you from going east.  
+~
+Sector 10
+Reset M 55113 6 80
+Reset O 55116 -1 15
+Door 0 0 0 55071 0 0
+~
+~
+Door 2 0 0 55073 0 0
+~
+~
+Door 3 0 0 55080 0 0
+~
+~
+End
+
+#55073
+Name A Small Barren Expanse~
+Descr
+You are standing at the southern end of a small barren expanse.  To the
+east you path is blocke by a craggy outcropping and to the west you can see
+wasteland and farther west the lich is visible in his circle of stones.  
+~
+Sector 10
+Reset M 55112 6 100
+Reset O 55116 -1 15
+Reset M 55111 10 76
+Reset O 55116 -1 4
+Door 0 0 0 55072 0 0
+~
+~
+Door 3 0 0 55081 0 0
+~
+~
+End
+
+#55074
+Name Dark Forest~
+Descr
+The forest continues here, covering all in a blanket of darkness.  The
+ground seems somewhat packed here and you wonder why.  As you scan around
+you notice that the forest seems to continue to the east.  To the south you
+see a trail and to the west you notice some movement.  As you stare that
+direction you can barely make out two or three moving objects.  What they
+are and why they are there, confuses you.  Perhaps you should turn around
+and forget you ever saw them.  
+~
+Flags 1
+Sector 3
+Door 1 0 0 55065 0 0
+~
+~
+Door 2 0 0 55075 0 0
+~
+~
+Door 3 0 0 55083 0 0
+~
+~
+End
+
+#55075
+Name A Small Trail~
+Descr
+The small trail you are following meanders through the brush to the south
+and west of here.  You can sense that you are beginning to get close to
+whatever lies at the end of this small trail and you hasten on thruogh the
+brush in a haphazard manner.  
+~
+Flags 1
+Door 0 0 0 55074 0 0
+~
+~
+Door 1 0 0 55066 0 0
+~
+~
+Door 2 0 0 55076 0 0
+~
+~
+Door 3 0 0 55084 0 0
+~
+~
+End
+
+#55076
+Name A Small Trail~
+Descr
+This small trail continues both north and south from here, cutting it's
+way through the thickets and brambles.  You think that you will be able to
+follow it north, if you are careful of the brambles reaching out to snag you
+from your path.  
+~
+Door 0 0 0 55075 0 0
+~
+~
+Door 1 0 0 55067 0 0
+~
+~
+Door 2 0 0 55077 0 0
+~
+~
+End
+
+#55077
+Name A Small Trail~
+Descr
+A small trail cuts through the underbrush to the north while the torn up
+dusty path lies to the south.  You hear sounds of creatures grunting to the
+north, but they are hidden from site by the brush.  You don't really sense
+any danger to yourself and instead are curious to see what it might be.  
+~
+Door 0 0 0 55076 0 0
+~
+~
+Door 1 0 0 55068 0 0
+~
+~
+Door 2 0 0 55078 0 0
+~
+~
+Door 3 0 0 55085 0 0
+~
+~
+End
+
+#55078
+Name A Torn Up Dusty Trail~
+Descr
+The dusty path you are on continues to the east here and you can see a
+junction to the west.  Peering into the underbrush to the north, you see a
+small trail carved through the brambles.  It appears to have been made by
+something other than the owlbears you have already seen.  
+~
+Door 0 0 0 55077 0 0
+~
+~
+Door 1 0 0 55069 0 0
+~
+~
+Door 2 0 0 55079 0 0
+~
+~
+Door 3 0 0 55086 0 0
+~
+~
+End
+
+#55079
+Name Dying Forest~
+Descr
+Dead trees lie here scattered about the ground and nothing seems to want
+to grow in their place.  The ground here is barren and hard.  The only thing
+preventing this from being a desert is all these trees lying on the ground. 
+You notice an evil feeling pulling you to the southernly.  But all you see
+to the south is a dense forest.  But to the west, north and very far to the
+east you see a trail.  
+~
+Sector 2
+Reset M 55109 10 60
+Reset O 236 -1 10
+Door 0 0 0 55078 0 0
+~
+~
+Door 1 0 0 55070 0 0
+~
+~
+Door 3 0 0 55087 0 0
+~
+~
+End
+
+#55080
+Name Lich's Wasteland~
+Descr
+This barren area screams of the lich's power.  As you wander around here
+aimlessly you feel his power weighing quite heavily on your soul.  His power
+seems to permeate every pore of your body.  As you scan around all you see
+is dusty ground.  You really start to question the sanity of staying in such
+a place.  
+~
+Sector 10
+Reset M 55111 10 80
+Reset O 55116 -1 4
+Door 1 0 0 55072 0 0
+~
+~
+Door 2 0 0 55081 0 0
+~
+~
+Door 3 0 0 55090 0 0
+~
+~
+End
+
+#55081
+Name Lich's Wasteland~
+Descr
+You are standing east of the Thri-Kreen lch and his circle of stones. 
+You can see more wasteland north and south of you and a small barren area to
+your east.  It looks like you will have to sneak by the lich in order to get
+back to the putrid path.  
+~
+Sector 10
+Reset M 55111 10 69
+Reset O 55116 -1 4
+Door 0 0 0 55080 0 0
+~
+~
+Door 1 0 0 55073 0 0
+~
+~
+Door 2 0 0 55082 0 0
+~
+~
+Door 3 0 0 55091 0 0
+~
+~
+End
+
+#55082
+Name Lich's Wasteland~
+Descr
+You are standing southeast of the circle of stones that is obviously home
+to the ruler of this small wasted area.  You wonder how long he has stood
+there casting his destructive spells.  It must have been a long time for the
+land to have rotted so much.  
+~
+Sector 10
+Reset M 55111 10 50
+Reset O 55116 -1 4
+Reset M 55112 6 50
+Reset O 55116 -1 15
+Door 0 0 0 55081 0 0
+~
+~
+Door 3 0 0 55092 0 0
+~
+~
+End
+
+#55083
+Name In Front of A Run-down Hut~
+Descr
+You are standing in a small clearing in front of a ramshackle hut.  To
+the east you see a small trail and the hut barely stands to the west.  As
+you approach the hut, four large bugbear guards step out of the shadows to
+meet you.  
+~
+Flags 1
+Reset M 55108 4 100
+Reset O 55115 -1 25
+Reset O 55120 -1 7
+Reset M 55108 4 100
+Reset O 55115 -1 25
+Reset O 55120 -1 7
+Reset M 55108 4 100
+Reset O 55115 -1 25
+Reset O 55120 -1 7
+Reset M 55108 4 100
+Reset O 55120 -1 7
+Reset O 55115 -1 25
+Door 1 0 0 55074 0 0
+~
+~
+Door 2 0 0 55084 0 0
+~
+~
+Door 3 3 0 55093 50 50
+~
+woodendoor~
+End
+
+#55084
+Name A Small Trail~
+Descr
+The small trail makes another sudden turn here as it cuts around trees
+and thickets.  To the east lies more of the small trail, while to the north
+is a small clearing surrounded by a thin wall of thickets.  
+~
+Flags 1
+Door 0 0 0 55083 0 0
+~
+~
+Door 1 0 0 55075 0 0
+~
+~
+End
+
+#55085
+Name A Torn Up Dusty Trail~
+Descr
+The torn up path you are following leads both west and south from here,
+and you see a small trail to the east that appears to have been made by some
+manner of humanoid or goblinoid, unfortunately you can't tell what.  
+~
+Reset M 55106 10 50
+Reset O 55115 -1 5
+Door 1 0 0 55077 0 0
+~
+~
+Door 2 0 0 55086 0 0
+~
+~
+Door 3 0 0 55094 0 0
+~
+~
+End
+
+#55086
+Name Small Junction of Paths~
+Descr
+You have arrived at a small junction in the woods.  The dusty path you
+have been following continues to the north while a path made from bones and
+corpses leads to the south.  You can feel an extremely strong evil presence
+coming from the south.  
+~
+Door 0 0 0 55085 0 0
+~
+~
+Door 1 0 0 55078 0 0
+~
+~
+Door 2 0 0 55087 0 0
+~
+~
+Door 3 0 0 55095 0 0
+~
+~
+End
+
+#55087
+Name A Putrid Path~
+Descr
+You are on a disgusting path made of bones and corpses in various states
+of rot.  To the north you see a small junction, while this putrid path
+continues to the south.  You ponder whether it would be wise to continue
+following it to its end.  What could possibly lurk there?  
+~
+Door 0 0 0 55086 0 0
+~
+~
+Door 1 0 0 55079 0 0
+~
+~
+Door 2 0 0 55088 0 0
+~
+~
+Door 3 0 0 55096 0 0
+~
+~
+End
+
+#55088
+Name A Putrid Path~
+Descr
+You begin to regret your decision to follow this path as the smell of
+rotting corpses begins to overwhelm you.  To the west you see a huge mound
+of corpses and you wonder if they will be added to this path.  You can only
+hope yours will not be among them.  
+~
+Flags 2
+Door 0 0 0 55087 0 0
+~
+~
+Door 2 0 0 55089 0 0
+~
+~
+Door 3 0 0 55097 0 0
+~
+~
+End
+
+#55089
+Name A Putrid Path~
+Descr
+You continue to follow this putrid path of rotting corpses and bones.  To
+the west you see a huge mound of corpses, while the putrid path continues
+both north and south.  You begin to hear faint chantings from the south and
+are drawn towards them.  
+~
+Flags 2
+Door 0 0 0 55088 0 0
+~
+~
+Door 2 0 0 55090 0 0
+~
+~
+Door 3 0 0 55098 0 0
+~
+~
+End
+
+#55090
+Name A Putrid Path~
+Descr
+The disgusting path you have been following bends to the north and west
+here.  What grabs your attention, however, is the huge mantis-like creature
+to the south.  You realize this is the source of the permeating evil you
+have been feeling as you followed this path.  
+~
+Door 0 0 0 55089 0 0
+~
+~
+Door 1 0 0 55080 0 0
+~
+~
+Door 2 0 0 55091 0 0
+~
+~
+Door 3 0 0 55099 0 0
+~
+~
+End
+
+#55091
+Name Circle of Stones~
+Descr
+You find yourself standing in the center of a large ring of stones
+staring up at a fierce beast.  You notice he has the look of undeath and
+surmise he is a great liche.  Perhaps you could ask him for some of his
+wisdom, if he doesn't kill you first.  Perhaps you should just leave the
+room and return to the putrid path north of here.  
+~
+Flags 2098176
+Sector 10
+Reset O 55126 -5 100
+Reset M 55114 1 100
+Reset O 55117 21 2
+Reset O 55121 -1 1
+Reset O 55122 22 1
+Reset O 55124 -1 45
+Door 0 0 0 55090 0 0
+~
+~
+Door 1 0 0 55081 0 0
+~
+~
+Door 2 0 0 55092 0 0
+~
+~
+Door 3 0 0 55100 0 0
+~
+~
+End
+
+#55092
+Name Lich's Wasteland~
+Descr
+You are standing directly south of the circle of stones and the huge
+lich.  This area has been especially hard hit by the lich's spells, as there
+is no vegetation or animal life visible here.  Even the evil in your heart
+cannot steel you against the empending doom you fell waiting for you if you
+are unwise enough to tarry here.  
+~
+Sector 10
+Reset M 55113 2 45
+Reset O 55117 -1 3
+Reset O 55116 -1 2
+Door 0 0 0 55091 0 0
+~
+~
+Door 1 0 0 55082 0 0
+~
+~
+Door 3 0 0 55101 0 0
+~
+~
+End
+
+#55093
+Name Inside a Run-down Hut~
+Descr
+As you look about the hut you notice it is furnished with chairs made
+from stumps and scattered chests lying about.  In the middle of the room, a
+large bugbear chieftan grunts at you for invading his home.  He motions for
+his guards to help him remove you from his home.  
+~
+Sector 0
+Reset M 55110 1 100
+Reset O 55115 -1 50
+Reset O 55120 -1 25
+Reset O 55123 -1 50
+Reset O 55123 -1 17
+Door 1 3 0 55083 50 50
+~
+woodendoor~
+End
+
+#55094
+Name A Torn Up Dusty Trail~
+Descr
+You have finally arrived at the end of this dusty path.  As you turn
+back, you contemplate on the trip here and the journey back to Masqe.  Of
+course you could always walk to the south and find out what creatures
+inhabit these woods.  
+~
+Door 1 0 0 55085 0 0
+~
+~
+Door 2 0 0 55095 0 0
+~
+~
+End
+
+#55095
+Name Grassy Clearing Near the Trail~
+Descr
+You are standing on a small patch of grass just south of the dusty trail.
+You can see small insects buzzing around you and looking to the east you can
+see the putrid path.  The tall grass waves gently in the wind here, it
+almost lulls you to sleep if you watch long enough.  
+~
+Sector 2
+Door 0 0 0 55094 0 0
+~
+~
+Door 1 0 0 55086 0 0
+~
+~
+Door 2 0 0 55096 0 0
+~
+~
+End
+
+#55096
+Name Grassy Clearing Near the Trail~
+Descr
+You are standing in a small grassy clearing just west of the putrid path.
+You can see more grass waving in the wind to the north and a large pile of
+corpses to the south.  
+~
+Sector 2
+Reset M 55112 6 60
+Reset O 55116 -1 15
+Door 0 0 0 55095 0 0
+~
+~
+Door 1 0 0 55087 0 0
+~
+~
+Door 2 0 0 55097 0 0
+~
+~
+End
+
+#55097
+Name Pile of Corpses~
+Descr
+The overpowering stench in this room begins to nausiate you as stare
+hesitantly at the huge mound of corpses here.  You can see no pattern to the
+corpses, they seem to be all manner of creatures, including your own.  To
+the east lies a putrid path and another mound of corpses lies to the south. 
+~
+Flags 2
+Sector 10
+Door 0 0 0 55096 0 0
+~
+~
+Door 1 0 0 55088 0 0
+~
+~
+Door 2 0 0 55098 0 0
+~
+~
+End
+
+#55098
+Name Mound of Corpses~
+Descr
+This room is almost identical to the room to the north, although this
+mound of corpses is slightly larger.  You can see maggots beginning to eat
+their way through the carcasses and have to ask yourself what manner of
+creature could do this.  You can see the putrid path to the east.  
+~
+Flags 2
+Sector 10
+Door 0 0 0 55097 0 0
+~
+~
+Door 1 0 0 55089 0 0
+~
+~
+Door 2 0 0 55099 0 0
+~
+~
+End
+
+#55099
+Name A Putrid Path~
+Descr
+It appears that you have reached the end of this disgusting path of
+corpses.  You must now decide to turn back, or else wander off the path to
+the south or north.  You can see the putrid path back to the east and north
+east.  
+~
+Sector 10
+Reset M 55111 10 75
+Reset O 55116 -1 4
+Door 0 0 0 55098 0 0
+~
+~
+Door 1 0 0 55090 0 0
+~
+~
+Door 2 0 0 55100 0 0
+~
+~
+End
+
+#55100
+Name Lich's Wasteland~
+Descr
+You are standing in a small, desolate area that continues to the
+southeast of you. You quickly surmise this desolation probably results from
+the evil magics of the powerful lich you see chanting in the center of some
+stones to the east of you.
+~
+Sector 10
+Reset M 55113 2 75
+Reset O 55116 -1 2
+Door 0 0 0 55099 0 0
+~
+~
+Door 1 0 0 55091 0 0
+~
+~
+Door 2 0 0 55101 0 0
+~
+~
+End
+
+#55101
+Name Lich's Wasteland~
+Descr
+You are standing in the southwest corner of the desolate wasteland,
+obviously resulting from years of energy drianing spells cast by the evil
+lich northeast of you.  This desolate area continues to the north and east
+of you.  Peering farther north, you spy the putrid path that brought you
+here.  
+~
+Sector 10
+Reset M 55111 10 45
+Reset O 55116 -1 4
+Door 0 0 0 55100 0 0
+~
+~
+Door 1 0 0 55092 0 0
+~
+~
+End
+
+#55150
+Name Evil Tree~
+Descr
+You can now tell where this feeling is coming from, where this evil
+presence is at.  You can tell that it is coming from below.  What horrible
+thing could it be?  And why does it radiate off so much evil energy?  
+~
+Flags 2264068
+Sector 0
+Door 5 0 0 55091 0 0
+~
+~
+End
+
+#55151
+Name Entrance to Allor City of the Damned~
+Descr
+This area is currently under destruction.  :) It will be up as soon as
+possible.  Providing Orin gives me more rooms and that I have leveled my
+mortal a couple times.  
+~
+Door 4 3 0 55091 80 80
+~
+stone~
+End
+
+#55194
+Name On A Strange Trail~
+Descr
+The trail bends west and south here.  You get the feeling that this is
+the perfect place for new adventurers to do some basic hack'n and slash'n to
+practice their skills and fighting abilities.  
+~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 55195 0 0
+~
+~
+Door 3 0 0 55001 0 0
+~
+~
+End
+
+#55195
+Name A Bend in the Trail~
+Descr
+The trail bends north and east here.  You get the feeling that this is
+the perfect place for new adventurers to do some basic hack'n and slash'n to
+practice their skills and fighting abilities.  
+~
+Door 0 0 0 55194 0 0
+~
+~
+Door 1 0 0 55196 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#55196
+Name On a Trail~
+Descr
+You stand on a small trail, leading away from the paved road.  You get
+the feeling that this is a good place for new adventurers to practice their
+fighting skills.  The trail continues west and east.  
+~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 55197 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55195 0 0
+~
+~
+End
+
+#55197
+Name On a Trail~
+Descr
+You stand on a small trail, leading away from the paved road.  You get
+the feeling that this is a good place for new adventurers to practice their
+fighting skills.  The trail continues west and east.  
+~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 55198 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55196 0 0
+~
+~
+End
+
+#55198
+Name On a Trail~
+Descr
+You stand on a small trail, leading away from the paved road.  You get
+the feeling that this is a good place for new adventurers to practice their
+fighting skills.  The trail continues west and east.  
+~
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 55199 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55197 0 0
+~
+~
+End
+
+#55199
+Name On a Trail~
+Descr
+You stand on a small trail, leading away from the paved road.  You get
+the feeling that this is a good place for new adventurers to practice their
+fighting skills.  The trail continues west and east.  
+~
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 8488 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 55198 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

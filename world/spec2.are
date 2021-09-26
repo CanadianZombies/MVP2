@@ -1,0 +1,2384 @@
+#AREADATA 
+Name A Barren Wasteland~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Spectre~
+VNUMs 12000 12099
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#12008
+Name large scorpion~
+Short a large scorpion~
+Long 
+A large scorpion is here, pointing its tail at you.
+~
+Descr
+~
+AMax 10
+NHeight 36
+ActBits 24
+ActBits3 65536
+Affect_By 512
+Money 10
+Level 10
+MobType 8
+Guard 0
+End
+
+#12018
+Name wandering nomad~
+Short a wandering nomad~
+Long 
+A nomad is here, wandering around the wastelands.
+~
+Descr
+~
+AMax 12
+NHeight 68
+ActBits 536870928
+ActBits3 4194304
+Alignment 200
+Money 20
+Level 20
+Sex 1
+MobType 0
+Guard 0
+End
+
+#12028
+Name cobra snake~
+Short a cobra~
+Long 
+A dangerous cobra slithers across the ground.
+~
+Descr
+~
+AMax 10
+NHeight 42
+ActBits 24
+ActBits3 65536
+Affect_By 512
+Money 8
+Level 8
+MobType 20
+Guard 0
+End
+
+#12030
+Name nomadic shaman PRAC~
+Short a nomadic shaman~
+Long 
+A nomadic shaman is chanting a strange prayer here.
+~
+Descr
+~
+AMax 1
+NHeight 90
+ActBits 258
+Affect_By 648
+Alignment 100
+Money 180
+Level 180
+Sex 1
+MobType 0
+Guard 0
+End
+
+#12038
+Name iguana lizard~
+Short an iguana~
+Long 
+An iguana makes its way across the land here.
+~
+Descr
+~
+AMax 4
+NHeight 12
+ActBits 16
+ActBits3 65536
+Money 9
+Level 9
+MobType 20
+Guard 0
+End
+
+#12040
+Name hermit human old Aone ulin~
+Short ulin, the exiled banker~
+Long 
+Ulin, the exiled banker, is startled by your presence.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 131088
+Affect_By 520
+Alignment -300
+Money 150
+Level 150
+Sex 1
+MobType 0
+Guard 0
+End
+
+#12041
+Name borslam~
+Short borslam~
+Long 
+Borslam is here, protecting Ulin with his life.
+~
+Descr
+~
+AMax 1
+NHeight 82
+ActBits 134217744
+ActBits3 262144
+Affect_By 520
+Alignment -500
+Money 160
+Level 160
+Sex 1
+MobType 0
+Guard 0
+End
+
+#12076
+Name ghostly presence~
+Short a ghostly presence~
+Long 
+A ghostly presence hovers above you here.
+~
+Descr
+~
+AMax 1
+NHeight 48
+ActBits 16
+ActBits3 65536
+Affect_By 590344
+Alignment -1000
+Money 120
+Level 120
+MobType 9
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#12000
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Reset M 12028 1 95
+Reset M 12008 1 95
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 12001 0 0
+~
+~
+Door 2 0 0 12007 0 0
+~
+~
+Door 3 0 0 24491 0 0
+~
+~
+End
+
+#12001
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 1 0 0 12002 0 0
+~
+~
+Door 2 0 0 12006 0 0
+~
+~
+Door 3 0 0 12000 0 0
+~
+~
+End
+
+#12002
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 1 0 0 12003 0 0
+~
+~
+Door 2 0 0 12005 0 0
+~
+~
+Door 3 0 0 12001 0 0
+~
+~
+End
+
+#12003
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 2 0 0 12004 0 0
+~
+~
+Door 3 0 0 12002 0 0
+~
+~
+End
+
+#12004
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12003 0 0
+~
+~
+Door 2 0 0 12013 0 0
+~
+~
+Door 3 0 0 12005 0 0
+~
+~
+End
+
+#12005
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12002 0 0
+~
+~
+Door 1 0 0 12004 0 0
+~
+~
+Door 2 0 0 12012 0 0
+~
+~
+Door 3 0 0 12006 0 0
+~
+~
+End
+
+#12006
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12001 0 0
+~
+~
+Door 1 0 0 12005 0 0
+~
+~
+Door 2 0 0 12011 0 0
+~
+~
+Door 3 0 0 12007 0 0
+~
+~
+End
+
+#12007
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12000 0 0
+~
+~
+Door 1 0 0 12006 0 0
+~
+~
+Door 2 0 0 12010 0 0
+~
+~
+Door 3 0 0 12008 0 0
+~
+~
+End
+
+#12008
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 1 0 0 12007 0 0
+~
+~
+Door 2 0 0 12009 0 0
+~
+~
+End
+
+#12009
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12008 0 0
+~
+~
+Door 1 0 0 12010 0 0
+~
+~
+Door 2 0 0 12020 0 0
+~
+~
+End
+
+#12010
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12038 1 95
+Door 0 0 0 12007 0 0
+~
+~
+Door 1 0 0 12011 0 0
+~
+~
+Door 2 0 0 12019 0 0
+~
+~
+Door 3 0 0 12009 0 0
+~
+~
+End
+
+#12011
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12008 1 95
+Door 0 0 0 12006 0 0
+~
+~
+Door 1 0 0 12012 0 0
+~
+~
+Door 2 0 0 12018 0 0
+~
+~
+Door 3 0 0 12010 0 0
+~
+~
+End
+
+#12012
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12005 0 0
+~
+~
+Door 1 0 0 12013 0 0
+~
+~
+Door 2 0 0 12017 0 0
+~
+~
+Door 3 0 0 12011 0 0
+~
+~
+End
+
+#12013
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12004 0 0
+~
+~
+Door 1 0 0 12014 0 0
+~
+~
+Door 2 0 0 12016 0 0
+~
+~
+Door 3 0 0 12012 0 0
+~
+~
+End
+
+#12014
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 1 0 0 27996 0 0
+~
+~
+Door 2 0 0 12015 0 0
+~
+~
+Door 3 0 0 12013 0 0
+~
+~
+End
+
+#12015
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12014 0 0
+~
+~
+Door 1 0 0 27995 0 0
+~
+~
+Door 2 0 0 12025 0 0
+~
+~
+Door 3 0 0 12016 0 0
+~
+~
+End
+
+#12016
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12013 0 0
+~
+~
+Door 1 0 0 12015 0 0
+~
+~
+Door 2 0 0 12024 0 0
+~
+~
+Door 3 0 0 12017 0 0
+~
+~
+End
+
+#12017
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12018 1 100
+Door 0 0 0 12012 0 0
+~
+~
+Door 1 0 0 12016 0 0
+~
+~
+Door 2 0 0 12023 0 0
+~
+~
+Door 3 0 0 12018 0 0
+~
+~
+End
+
+#12018
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12011 0 0
+~
+~
+Door 1 0 0 12017 0 0
+~
+~
+Door 2 0 0 12022 0 0
+~
+~
+Door 3 0 0 12019 0 0
+~
+~
+End
+
+#12019
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 12010 0 0
+~
+~
+Door 1 0 0 12018 0 0
+~
+~
+Door 2 0 0 12021 0 0
+~
+~
+Door 3 0 0 12020 0 0
+~
+~
+End
+
+#12020
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12009 0 0
+~
+~
+Door 1 0 0 12019 0 0
+~
+~
+End
+
+#12021
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12019 0 0
+~
+~
+Door 1 0 0 12022 0 0
+~
+~
+Door 2 0 0 12029 0 0
+~
+~
+End
+
+#12022
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12008 1 95
+Door 0 0 0 12018 0 0
+~
+~
+Door 1 0 0 12023 0 0
+~
+~
+Door 2 0 0 12028 0 0
+~
+~
+Door 3 0 0 12021 0 0
+~
+~
+End
+
+#12023
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12017 0 0
+~
+~
+Door 1 0 0 12024 0 0
+~
+~
+Door 2 0 0 12027 0 0
+~
+~
+Door 3 0 0 12022 0 0
+~
+~
+End
+
+#12024
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12016 0 0
+~
+~
+Door 1 0 0 12025 0 0
+~
+~
+Door 2 0 0 12026 0 0
+~
+~
+Door 3 0 0 12023 0 0
+~
+~
+End
+
+#12025
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12038 1 95
+Door 0 0 0 12015 0 0
+~
+~
+Door 1 0 0 27994 0 0
+~
+~
+Door 3 0 0 12024 0 0
+~
+~
+End
+
+#12026
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12024 0 0
+~
+~
+Door 2 0 0 12035 0 0
+~
+~
+Door 3 0 0 12027 0 0
+~
+~
+End
+
+#12027
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12018 1 100
+Door 0 0 0 12023 0 0
+~
+~
+Door 1 0 0 12026 0 0
+~
+~
+Door 2 0 0 12034 0 0
+~
+~
+Door 3 0 0 12028 0 0
+~
+~
+End
+
+#12028
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 12022 0 0
+~
+~
+Door 1 0 0 12027 0 0
+~
+~
+Door 2 0 0 12033 0 0
+~
+~
+Door 3 0 0 12029 0 0
+~
+~
+End
+
+#12029
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12021 0 0
+~
+~
+Door 1 0 0 12028 0 0
+~
+~
+Door 2 0 0 12032 0 0
+~
+~
+End
+
+#12030
+Name A Small Tent~
+Descr
+This small encampment is the home of a great shaman. A fire burns in the
+back of the room, and many strange symbols lay on the ground. A small table
+is against the wall, with potions and herbs on it. You wonder if the shaman
+would mind if you take one... 
+~
+Flags 4
+Reset M 12030 1 100
+Door 1 0 0 12031 0 0
+~
+~
+Door 2 0 0 12043 0 0
+~
+~
+End
+
+#12031
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 1 0 0 12032 0 0
+~
+~
+Door 2 0 0 12042 0 0
+~
+~
+Door 3 0 0 12030 0 0
+~
+~
+End
+
+#12032
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12029 0 0
+~
+~
+Door 1 0 0 12033 0 0
+~
+~
+Door 2 0 0 12041 0 0
+~
+~
+Door 3 0 0 12031 0 0
+~
+~
+End
+
+#12033
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12008 1 95
+Door 0 0 0 12028 0 0
+~
+~
+Door 1 0 0 12034 0 0
+~
+~
+Door 2 0 0 12040 0 0
+~
+~
+Door 3 0 0 12032 0 0
+~
+~
+End
+
+#12034
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12027 0 0
+~
+~
+Door 1 0 0 12035 0 0
+~
+~
+Door 2 0 0 12039 0 0
+~
+~
+Door 3 0 0 12033 0 0
+~
+~
+End
+
+#12035
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12026 0 0
+~
+~
+Door 1 0 0 12036 0 0
+~
+~
+Door 2 0 0 12038 0 0
+~
+~
+Door 3 0 0 12034 0 0
+~
+~
+End
+
+#12036
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 1 0 0 27992 0 0
+~
+~
+Door 2 0 0 12037 0 0
+~
+~
+Door 3 0 0 12035 0 0
+~
+~
+End
+
+#12037
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12028 1 95
+Reset M 12018 1 100
+Door 0 0 0 12036 0 0
+~
+~
+Door 1 0 0 27991 0 0
+~
+~
+Door 3 0 0 12038 0 0
+~
+~
+End
+
+#12038
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12035 0 0
+~
+~
+Door 1 0 0 12037 0 0
+~
+~
+Door 2 0 0 12049 0 0
+~
+~
+Door 3 0 0 12039 0 0
+~
+~
+End
+
+#12039
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12034 0 0
+~
+~
+Door 1 0 0 12038 0 0
+~
+~
+Door 2 0 0 12048 0 0
+~
+~
+Door 3 0 0 12040 0 0
+~
+~
+End
+
+#12040
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12040 1 100
+Reset M 12041 1 100
+Door 0 0 0 12033 0 0
+~
+~
+Door 1 0 0 12039 0 0
+~
+~
+Door 2 0 0 12047 0 0
+~
+~
+Door 3 0 0 12041 0 0
+~
+~
+End
+
+#12041
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12032 0 0
+~
+~
+Door 1 0 0 12040 0 0
+~
+~
+Door 2 0 0 12046 0 0
+~
+~
+Door 3 0 0 12042 0 0
+~
+~
+End
+
+#12042
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12031 0 0
+~
+~
+Door 1 0 0 12041 0 0
+~
+~
+Door 2 0 0 12045 0 0
+~
+~
+Door 3 0 0 12043 0 0
+~
+~
+End
+
+#12043
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12030 0 0
+~
+~
+Door 1 0 0 12042 0 0
+~
+~
+Door 2 0 0 12044 0 0
+~
+~
+End
+
+#12044
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12008 1 95
+Door 0 0 0 12043 0 0
+~
+~
+Door 1 0 0 12045 0 0
+~
+~
+Door 2 0 0 12055 0 0
+~
+~
+End
+
+#12045
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12042 0 0
+~
+~
+Door 1 0 0 12046 0 0
+~
+~
+Door 2 0 0 12054 0 0
+~
+~
+Door 3 0 0 12044 0 0
+~
+~
+End
+
+#12046
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 12041 0 0
+~
+~
+Door 1 0 0 12047 0 0
+~
+~
+Door 2 0 0 12053 0 0
+~
+~
+Door 3 0 0 12045 0 0
+~
+~
+End
+
+#12047
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12040 0 0
+~
+~
+Door 1 0 0 12048 0 0
+~
+~
+Door 2 0 0 12052 0 0
+~
+~
+Door 3 0 0 12046 0 0
+~
+~
+End
+
+#12048
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Door 0 0 0 12039 0 0
+~
+~
+Door 1 0 0 12049 0 0
+~
+~
+Door 2 0 0 12051 0 0
+~
+~
+Door 3 0 0 12047 0 0
+~
+~
+End
+
+#12049
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12038 0 0
+~
+~
+Door 2 0 0 12050 0 0
+~
+~
+Door 3 0 0 12048 0 0
+~
+~
+End
+
+#12050
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12049 0 0
+~
+~
+Door 2 0 0 12060 0 0
+~
+~
+Door 3 0 0 12051 0 0
+~
+~
+End
+
+#12051
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12048 0 0
+~
+~
+Door 1 0 0 12050 0 0
+~
+~
+Door 2 0 0 12059 0 0
+~
+~
+Door 3 0 0 12052 0 0
+~
+~
+End
+
+#12052
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12047 0 0
+~
+~
+Door 1 0 0 12051 0 0
+~
+~
+Door 2 0 0 12058 0 0
+~
+~
+Door 3 0 0 12053 0 0
+~
+~
+End
+
+#12053
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12038 1 95
+Door 0 0 0 12046 0 0
+~
+~
+Door 1 0 0 12052 0 0
+~
+~
+Door 2 0 0 12057 0 0
+~
+~
+Door 3 0 0 12054 0 0
+~
+~
+End
+
+#12054
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12045 0 0
+~
+~
+Door 1 0 0 12053 0 0
+~
+~
+Door 2 0 0 12056 0 0
+~
+~
+Door 3 0 0 12055 0 0
+~
+~
+End
+
+#12055
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12028 1 95
+Reset M 12008 1 95
+Door 0 0 0 12044 0 0
+~
+~
+Door 1 0 0 12054 0 0
+~
+~
+End
+
+#12056
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 0 0 0 12054 0 0
+~
+~
+Door 1 0 0 12057 0 0
+~
+~
+Door 2 0 0 12068 0 0
+~
+~
+End
+
+#12057
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12018 1 100
+Door 0 0 0 12053 0 0
+~
+~
+Door 1 0 0 12058 0 0
+~
+~
+Door 2 0 0 12067 0 0
+~
+~
+Door 3 0 0 12056 0 0
+~
+~
+End
+
+#12058
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12052 0 0
+~
+~
+Door 1 0 0 12059 0 0
+~
+~
+Door 2 0 0 12066 0 0
+~
+~
+Door 3 0 0 12057 0 0
+~
+~
+End
+
+#12059
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Reset M 24465 1 100
+Door 0 0 0 12051 0 0
+~
+~
+Door 1 0 0 12060 0 0
+~
+~
+Door 2 0 0 12065 0 0
+~
+~
+Door 3 0 0 12058 0 0
+~
+~
+End
+
+#12060
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 6
+Door 0 0 0 12050 0 0
+~
+~
+Door 1 0 0 12061 0 0
+~
+~
+Door 2 0 0 12064 0 0
+~
+~
+Door 3 0 0 12059 0 0
+~
+~
+End
+
+#12061
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Reset M 24460 1 100
+Door 2 0 0 12063 0 0
+~
+~
+Door 3 0 0 12060 0 0
+~
+~
+End
+
+#12062
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Door 2 0 0 12075 0 0
+~
+~
+Door 3 0 0 12063 0 0
+~
+~
+End
+
+#12063
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 6
+Door 0 0 0 12061 0 0
+~
+~
+Door 1 0 0 12062 0 0
+~
+~
+Door 2 0 0 12074 0 0
+~
+~
+Door 3 0 0 12064 0 0
+~
+~
+End
+
+#12064
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Door 0 0 0 12060 0 0
+~
+~
+Door 1 0 0 12063 0 0
+~
+~
+Door 2 0 0 12073 0 0
+~
+~
+Door 3 0 0 12065 0 0
+~
+~
+End
+
+#12065
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Door 0 0 0 12059 0 0
+~
+~
+Door 1 0 0 12064 0 0
+~
+~
+Door 2 0 0 12072 0 0
+~
+~
+Door 3 0 0 12066 0 0
+~
+~
+End
+
+#12066
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form.
+A large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12058 0 0
+~
+~
+Door 1 0 0 12065 0 0
+~
+~
+Door 2 0 0 12071 0 0
+~
+~
+Door 3 0 0 12067 0 0
+~
+~
+End
+
+#12067
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12018 1 100
+Reset M 12008 1 95
+Door 0 0 0 12057 0 0
+~
+~
+Door 1 0 0 12066 0 0
+~
+~
+Door 2 0 0 12070 0 0
+~
+~
+Door 3 0 0 12068 0 0
+~
+~
+End
+
+#12068
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 12056 0 0
+~
+~
+Door 1 0 0 12067 0 0
+~
+~
+Door 2 0 0 12069 0 0
+~
+~
+End
+
+#12069
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12038 1 95
+Door 0 0 0 12068 0 0
+~
+~
+Door 1 0 0 12070 0 0
+~
+~
+Door 2 0 0 81202 0 0
+~
+~
+End
+
+#12070
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 12067 0 0
+~
+~
+Door 1 0 0 12071 0 0
+~
+~
+Door 2 0 0 81201 0 0
+~
+~
+Door 3 0 0 12069 0 0
+~
+~
+End
+
+#12071
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12066 0 0
+~
+~
+Door 1 0 0 12072 0 0
+~
+~
+Door 2 0 0 81200 0 0
+~
+~
+Door 3 0 0 12070 0 0
+~
+~
+End
+
+#12072
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 6
+Door 0 0 0 12065 0 0
+~
+~
+Door 1 0 0 12073 0 0
+~
+~
+Door 2 0 0 12079 0 0
+~
+~
+Door 3 0 0 12071 0 0
+~
+~
+End
+
+#12073
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Reset M 24465 1 100
+Door 0 0 0 12064 0 0
+~
+~
+Door 1 0 0 12074 0 0
+~
+~
+Door 2 0 0 12078 0 0
+~
+~
+Door 3 0 0 12072 0 0
+~
+~
+End
+
+#12074
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Door 0 0 0 12063 0 0
+~
+~
+Door 1 0 0 12075 0 0
+~
+~
+Door 2 0 0 12077 0 0
+~
+~
+Door 3 0 0 12073 0 0
+~
+~
+End
+
+#12075
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 6
+Door 0 0 0 12062 0 0
+~
+~
+Door 2 0 0 12076 0 0
+~
+~
+Door 3 0 0 12074 0 0
+~
+~
+End
+
+#12076
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Reset M 12076 1 100
+Door 0 0 0 12075 0 0
+~
+~
+Door 3 0 0 12077 0 0
+~
+~
+End
+
+#12077
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Reset M 24454 1 100
+Door 0 0 0 12074 0 0
+~
+~
+Door 1 0 0 12076 0 0
+~
+~
+Door 3 0 0 12078 0 0
+~
+~
+End
+
+#12078
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 6
+Door 0 0 0 12073 0 0
+~
+~
+Door 1 0 0 12077 0 0
+~
+~
+Door 2 0 0 12091 0 0
+~
+~
+Door 3 0 0 12079 0 0
+~
+~
+End
+
+#12079
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Door 0 0 0 12072 0 0
+~
+~
+Door 1 0 0 12078 0 0
+~
+~
+Door 2 0 0 12090 0 0
+~
+~
+Door 3 0 0 81200 0 0
+~
+~
+End
+
+#12088
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12018 1 100
+Reset M 12008 1 95
+Door 0 0 0 81201 0 0
+~
+~
+Door 1 0 0 12089 0 0
+~
+~
+Door 2 0 0 12096 0 0
+~
+~
+Door 3 0 0 81207 0 0
+~
+~
+End
+
+#12089
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 81200 0 0
+~
+~
+Door 1 0 0 12090 0 0
+~
+~
+Door 2 0 0 12095 0 0
+~
+~
+Door 3 0 0 12088 0 0
+~
+~
+End
+
+#12090
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 6
+Door 0 0 0 12079 0 0
+~
+~
+Door 1 0 0 12091 0 0
+~
+~
+Door 2 0 0 12094 0 0
+~
+~
+Door 3 0 0 12089 0 0
+~
+~
+End
+
+#12091
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 15
+Door 0 0 0 12078 0 0
+~
+~
+Door 2 0 0 12093 0 0
+~
+~
+Door 3 0 0 12090 0 0
+~
+~
+End
+
+#12092
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Door 3 0 0 12093 0 0
+~
+~
+End
+
+#12093
+Name A Haunted Swamp~
+Descr
+As you make your way through this erie swamp, strange sounds fill the
+air. Howls, screams, shrieks and other horrifying noises can be heard. You
+may be having delusions, but you can see phantoms and ghouls hovering over
+the water. 
+~
+Sector 6
+Door 0 0 0 12091 0 0
+~
+~
+Door 1 0 0 12092 0 0
+~
+~
+Door 3 0 0 12094 0 0
+~
+~
+End
+
+#12094
+Name A Haunted Swamp~
+Descr
+The fog is getting thicker and thicker, and you are at the point where
+you can't see more than 10 feet ahead of you. The swamp waters below you are
+filled with garbage and debris. Being cautious as to where you step, you
+slowly make your way deeper into the marsh. 
+~
+Sector 15
+Door 0 0 0 12090 0 0
+~
+~
+Door 1 0 0 12093 0 0
+~
+~
+Door 3 0 0 12095 0 0
+~
+~
+End
+
+#12095
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12089 0 0
+~
+~
+Door 1 0 0 12094 0 0
+~
+~
+Door 3 0 0 12096 0 0
+~
+~
+End
+
+#12096
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 0 0 0 12088 0 0
+~
+~
+Door 1 0 0 12095 0 0
+~
+~
+Door 3 0 0 12097 0 0
+~
+~
+End
+
+#12097
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 0 0 0 81207 0 0
+~
+~
+Door 1 0 0 12096 0 0
+~
+~
+Door 3 0 0 12098 0 0
+~
+~
+End
+
+#12098
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Door 0 0 0 81206 0 0
+~
+~
+Door 1 0 0 12097 0 0
+~
+~
+Door 3 0 0 12099 0 0
+~
+~
+End
+
+#12099
+Name Nearing the Wastelands~
+Descr
+Ahead of you is a vast wasteland which stretches as far as the eye can
+see. As you stand before its dry, lifeless grounds, you ponder whether or
+not you should turn back. 
+~
+Sector 10
+Reset M 12008 1 95
+Door 0 0 0 81205 0 0
+~
+~
+Door 1 0 0 12098 0 0
+~
+~
+End
+
+#81200
+Name Bordering the Swamp~
+Descr
+The air is suddenly very moist, and a thin layer of fog begins to form. A
+large pool of dirty water is before you, bubbling in some areas. Several
+dead trees lay across the ground ahead of you, but they shouldn't be too
+much of an obstacle. 
+~
+Sector 15
+Door 0 0 0 12071 0 0
+~
+~
+Door 1 0 0 12079 0 0
+~
+~
+Door 2 0 0 12089 0 0
+~
+~
+Door 3 0 0 81201 0 0
+~
+~
+End
+
+#81201
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 12070 0 0
+~
+~
+Door 1 0 0 81200 0 0
+~
+~
+Door 2 0 0 12088 0 0
+~
+~
+Door 3 0 0 81202 0 0
+~
+~
+End
+
+#81202
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset M 12028 1 95
+Reset M 12008 1 95
+Door 0 0 0 12069 0 0
+~
+~
+Door 1 0 0 81201 0 0
+~
+~
+Door 2 0 0 81207 0 0
+~
+~
+Door 3 0 0 81203 0 0
+~
+~
+End
+
+#81203
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Door 1 0 0 81202 0 0
+~
+~
+Door 2 0 0 81206 0 0
+~
+~
+Door 3 0 0 81204 0 0
+~
+~
+End
+
+#81204
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 1 0 0 81203 0 0
+~
+~
+Door 2 0 0 81205 0 0
+~
+~
+End
+
+#81205
+Name The Wastelands of Adfeida~
+Descr
+Exhaustion comes over you as you begin to climb yet another hill. As
+sweat pours down your body, you start to see visions of cold water.
+Suddenly, your sight begins to blur, and you start wondering just how much
+longer you will remain conscious. 
+~
+Sector 10
+Reset O 10001 -5 100
+Door 0 0 0 81204 0 0
+~
+~
+Door 1 0 0 81206 0 0
+~
+~
+Door 2 0 0 12099 0 0
+~
+~
+End
+
+#81206
+Name The Wastelands of Adfeida~
+Descr
+This part of the wasteland is completely stripped of its lifeforms. You
+look around and see nothing but dead plants and rotting, scorpion corpses.
+Being shocked by this, you start walking faster because you don't want to be
+another dead body on the ground. 
+~
+Sector 10
+Reset M 12028 1 95
+Door 0 0 0 81203 0 0
+~
+~
+Door 1 0 0 81207 0 0
+~
+~
+Door 2 0 0 12098 0 0
+~
+~
+Door 3 0 0 81205 0 0
+~
+~
+End
+
+#81207
+Name The Wastelands of Adfeida~
+Descr
+It is like torture travelling through these wastelands. The fiery sun
+above burns your flesh, and your feet simmer from contact with the dry,
+cracked ground. You are beginning to dehydrate, and almost collapse while
+travelling through some hilly areas. You squint your eyes and look into the
+distance, seeing nothing but barren land. 
+~
+Sector 10
+Door 0 0 0 81202 0 0
+~
+~
+Door 1 0 0 12088 0 0
+~
+~
+Door 2 0 0 12097 0 0
+~
+~
+Door 3 0 0 81206 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

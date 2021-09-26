@@ -1,0 +1,1571 @@
+#AREADATA 
+Name A Secret Cavern~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 22
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Belam Meligor~
+VNUMs 64301 64400
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#64301
+Name small quick drow~
+Short a small quick drow~
+Long 
+A small quick Drow is standing here.
+~
+Descr
+This small Drow looks weak but there is a glint in his eye that causes
+you to reconsider your opinion of him.  With his casual swagger and dark
+eyes you can never be quite sure what he is up to.  
+~
+AMax 5
+NHeight 0
+ActBits 536870913
+ActBits3 65536
+Affect_By 512
+Alignment -50
+Money 20
+Level 20
+Sex 1
+MobType 26
+Guard 0
+RaceHate 335544320
+End
+
+#64302
+Name old drow~
+Short an old drow~
+Long 
+An old Drow stands here looking quite the shopkeeper.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 65576
+Money 130
+Level 130
+Sex 1
+MobType 26
+Guard 0
+Shop    0   0   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+BKicks 1
+End
+
+#64303
+Name drow cleric~
+Short a drow cleric~
+Long 
+A female drow clad in robes stands here.
+~
+Descr
+This drow stands here looking caustiously at you.  She is clad in robes
+and you can barely see her face in the shadows of her hood.  
+~
+AMax 4
+NHeight 0
+ActBits 536870913
+ActBits3 5308416
+Affect_By 512
+Alignment -100
+Money 30
+Level 30
+Sex 2
+MobType 26
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#64304
+Name demoness D'Lmanthos~
+Short the demoness D'Lmanthos~
+Long 
+The demoness D'Lmanthos sits upon her throne here.
+~
+Descr
+The demoness D'Lmanthos sits upon her throne here glaring balefully at
+you from behind her guards.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1048576
+Affect_By 520
+Alignment -500
+Money 101
+Level 140
+Sex 2
+MobType 11
+Guard 0
+RaceHate 469762048
+End
+
+#64305
+Name demon guard~
+Short a demon guard~
+Long 
+A demon guard watches you carefully as you enter the room.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits -2147483645
+ActBits3 1048580
+Affect_By 520
+Money 50
+Level 50
+Sex 1
+MobType 11
+Guard 64304
+End
+
+#64306
+Name great spider~
+Short the Great Spider~
+Long 
+The Great Spider stands looking quit fierce.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Money 50
+Level 50
+MobType 8
+Guard 0
+RaceHate 469762048
+End
+
+#64310
+Name cult member~
+Short a Healer's cult member~
+Long 
+A Healer's cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 6
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 9100
+ShopCS A cult member snaps his fingers and a token appears out of thin air.~
+End
+
+#64399
+Name cult member~
+Short cult member~
+Long 
+A large cult member stands before you with a bright glow around him.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 6
+Affect_By 640
+Money 1000
+Level 180
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#64301
+Name Dark Torch~
+Short dark torch~
+Descr
+A [30m[1mDark Torch [0m[36mis mounted on the wall here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr torch~
+You look at the torch and notice that while it is lit it does not shed
+
+much light.  This is probably because the flame instead of being red and
+
+yellow is actually dark grey and black.  Also you motice the complete lack
+
+of smoke coming from it's evil looking flame.  
+
+~
+End
+
+#64302
+Name Masterfully Carved Statue~
+Short statue~
+Descr
+A masterfully carved statue demands your attention.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr statue~
+You look at the statue and see that it is of a tall drow warrior.  She is
+
+dressed in light armor and seems to be wearing a cloak of spider web.  Her
+
+beauty is unsurpassed and you can't help but be drawn towards the statue. 
+
+As you get closer you notice the small plaque at the base of the statue,
+
+just above the waters edge.  The plaque says "D'Lmanthos Goddess of
+
+Darkness" 
+
+~
+End
+
+#64303
+Name Pool of Water~
+Short pool water~
+Descr
+A pool of water lays here at the feet of the statue.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#64304
+Name crack~
+Short a crack~
+Descr
+A crack is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 64349 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#64305
+Name mithril throne~
+Short a mithril throne~
+Descr
+A mithril throne is mounted on the wall here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr throne mithril~
+You examine the throne and see that it is made out of mithril.  It is
+
+inlaid with gold and silver and encrusted with jewels.  
+
+~
+End
+
+#64306
+Name black anklet AC~
+Short a [1m[30mblack[0m[37m anklet~
+Descr
+A black anklet lies here.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 60 60 0 0
+Weight 1
+Cost 1000
+Affect 17 -2 1 0 0
+End
+
+#64307
+Name deep pocketed robe AC~
+Short a deep pocketed robe~
+Descr
+A deep pocketed robe lays here.
+[0;36m~
+Type 15
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 0 0 0 0 0 0 0 0
+Weight 5
+Cost 9300
+Affect 17 -3 1 0 0
+End
+
+#64308
+Name pocketed robe AC~
+Short a pocketed robe~
+Descr
+a pocketed robe lays here.
+[0;36m~
+Type 15
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 25 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 0
+Affect 17 -1 1 0 0
+End
+
+#64309
+Name spider web cloak HIT~
+Short a spider web cloak~
+Descr
+A cloak that looks as though it was made from spider webs lays on the ground here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 20 20 0 0
+Weight 2
+Cost 0
+Affect 18 1 1 0 0
+End
+
+#64310
+Name great spider fang APB~
+Short a large fang~
+Descr
+A large fang from an even larger spider is on the ground.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 2 2 0 0
+Weight 1
+Cost 7864
+Affect 18 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#64311
+Name spider shaped shield AC~
+Short a spider shaped shield~
+Descr
+A shield in the shape of a spider is on the ground here.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 3 0 3 0 0 5 5 0 0
+Weight 4
+Cost 0
+Affect 17 -1 1 0 0
+End
+
+#64312
+Name eye spider APB~
+Short an eye of a spider~
+Descr
+An eye of a spider lies on the ground here.
+[0;36m~
+Type 9
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 3 3 0 0
+Weight 0
+Cost 4000
+Affect 14 -10 1 0 0
+Affect 19 1 1 0 0
+End
+
+#64313
+Name dagger of death +bs +apb +hit~
+Short [1m[30m Dagger of Death~
+Descr
+You see a strange dagger resting here.
+[0;36m~
+Type 5
+Extra 131139
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 11 0 0 0 9 3 0
+Weight 0
+Cost 0
+Affect 25 2 1 0 0
+Affect 19 5 1 0 0
+Affect 18 3 1 0 0
+End
+
+#64314
+Name boots of life +25 hp +20 move +4 magic dam +4 heal bonus~
+Short [1m[30mBoots of Life~
+Descr
+some boots of life lay here
+[0;36m~
+Type 9
+Extra 67
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 10 10 0 0 10 0
+Weight 0
+Cost 0
+Affect 14 20 1 0 0
+Affect 27 4 1 0 0
+Affect 26 4 1 0 0
+Affect 13 25 1 0 0
+End
+
+#64315
+Name gloves of life +hp +magic_dam +heal_bonus +move~
+Short [1m[30mGloves of Life~
+Descr
+A pair of strange gloves rest in your inventory.
+[0;36m~
+Type 9
+Extra 3
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 15 15 0 0 15 0
+Weight 0
+Cost 40000
+Affect 13 25 1 0 0
+Affect 26 4 1 0 0
+Affect 27 4 1 0 0
+Affect 14 20 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#64301
+Name Entrance to a Secret Cavern~
+Descr
+You stand in the entrance to a dark cavern that by what little light is
+avaliable seems to go on forever.  Behind you to the North seems like a much
+safer place to be.  Onward to the South you can see little and hear even
+less.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 0 259 0 50022 30 30
+~
+rockwall~
+Door 2 0 0 64302 0 0
+~
+~
+End
+
+#64302
+Name A Dark Hallway~
+Descr
+You are standing in a dark hallway.  To the North you can see the
+entrance to this area, and to south the hallway seems to go on forever. 
+Every step farther seems to make this hallway damper and the presence of
+evil grows even stronger.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 64301 0 0
+~
+~
+Door 2 0 0 64303 0 0
+~
+~
+End
+
+#64303
+Name A Dark Hallway~
+Descr
+The hallway seems to go north and south for quite a while in both
+directions.  As you gaze ahead to the south you begin to wonder just what
+you are getting yourself into.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 64302 0 0
+~
+~
+Door 2 0 0 64304 0 0
+~
+~
+End
+
+#64304
+Name A Dark Hallway~
+Descr
+Up ahead to the south you think you see that the tunnel turns east, but
+you can't be sure because of the poor lighting.  To the north it stretches
+all the way back to where the exit is, Perhaps you should go north, it might
+be safer there.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 64303 0 0
+~
+~
+Door 2 0 0 64305 0 0
+~
+~
+End
+
+#64305
+Name A Turn in a Dark Hallway~
+Descr
+The hallway turns to the east here, leading to what you assume is some
+destination.  Back to the North is the way out, seems tempting to go back
+that way more and more with each step you take.  The presence of evil has
+steadily been growing stronger.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 64304 0 0
+~
+~
+Door 1 0 0 64306 0 0
+~
+~
+End
+
+#64306
+Name A Dark Hallway~
+Descr
+To the east the hallway makes another turn, this time south.  Back to the
+west you can where it turns north and back to home.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 1 0 0 64307 0 0
+~
+~
+Door 3 0 0 64305 0 0
+~
+~
+End
+
+#64307
+Name A Turn in a Dark Hallway~
+Descr
+Here the hallway turns back to the south and up ahead you think you might
+see some sort of chamber.  Back to the west lies home.  To the east there ia
+a large crack in the wall, or so it looks.  Actually it looks almost as
+though someone has put a large stone slab on the wall.  
+~
+Flags 4
+Sector 0
+Reset O 64301 -5 100
+Door 1 259 0 64308 30 30
+~
+stoneslab~
+Door 2 0 0 64310 0 0
+~
+~
+Door 3 0 0 64306 0 0
+~
+~
+End
+
+#64308
+Name Entrance to a Lair~
+Descr
+The temperature seemed to have dropped as you enter this room.  A cold
+like you have never felt before penetrates your body.  And it seems to be
+emenating from the east.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 64309 0 0
+~
+~
+Door 3 3 0 64307 30 30
+~
+stoneslab~
+End
+
+#64309
+Name The Great Spider's Lair~
+Descr
+A mess of spider web and gore fills this room.  The only exit is back to
+the west.  The room is really a big huge spider web that is stained red in
+some areas, blood red.  The worst thing in this room though is the creature
+that calls this it's home.  
+~
+Flags 5
+Sector 0
+ExtraDescr clue~
+Clue #6 a NASTY troll, waiting to cause death, awaits you now.
+
+~
+Reset M 64306 1 100
+Reset O 64312 1 1
+Door 3 0 0 64308 0 0
+~
+~
+End
+
+#64310
+Name Entrance to a Large Chamber~
+Descr
+Before you to the south lays a large chamber.  You can see things moving
+about but the light has not gotten any brighter.  Whatever creatures do live
+here they obviously have no need for light.  
+~
+Flags 7
+Sector 0
+Door 0 0 0 64307 0 0
+~
+~
+Door 2 0 0 64311 0 0
+~
+~
+End
+
+#64311
+Name Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 64310 0 0
+~
+~
+Door 1 0 0 64313 0 0
+~
+~
+Door 2 0 0 64317 0 0
+~
+~
+Door 3 0 0 64312 0 0
+~
+~
+End
+
+#64312
+Name North-West Corner of a Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Door 1 0 0 64311 0 0
+~
+~
+Door 2 0 0 64316 0 0
+~
+~
+End
+
+#64313
+Name North-East Corner of a Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Reset M 64301 20 100
+Reset O 64306 -1 20
+Door 2 0 0 64318 0 0
+~
+~
+Door 3 0 0 64311 0 0
+~
+~
+End
+
+#64314
+Name Lair od D'Lamnthos~
+Descr
+You stand in the lair of the demoness D'Lamnthos.  All the evil in this
+Cave seems to be coming from the North-east corner of this cavern.  There
+you can see a throne with a seemingly normal Drow sitting on it.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 64315 0 0
+~
+~
+Door 2 0 0 64319 0 0
+~
+~
+End
+
+#64315
+Name D'Lamnthos's Throne~
+Descr
+In this corner you find a a beautiful Drow female sitting upon a mithril
+throne.  She notices you walk in and glares at you sending shivers down your
+spine.  
+~
+Flags 6
+Reset O 64305 -5 100
+Reset M 64304 1 100
+Reset O 64314 7 2
+Reset O 64310 1 1
+Reset O 64309 -1 5
+Reset M 64305 2 100
+Reset O 64311 -1 10
+Reset M 64305 2 100
+Reset O 64311 -1 10
+Door 2 0 0 64333 0 0
+~
+~
+Door 3 0 0 64314 0 0
+~
+~
+End
+
+#64316
+Name Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Reset M 64301 20 100
+Reset O 64306 -1 20
+Door 0 0 0 64312 0 0
+~
+~
+Door 1 0 0 64317 0 0
+~
+~
+Door 2 0 0 64320 0 0
+~
+~
+End
+
+#64317
+Name Center of a Large Chamber~
+Descr
+As you stand in the center of this chamber you notice that it is bowl
+shaped.  All the water dripping from the ceiling hac collected to form a
+pool at the feet of a masterfully carved statue.  
+~
+Flags 6
+Sector 0
+Reset O 64302 -5 100
+Reset O 64303 -5 100
+Door 0 0 0 64311 0 0
+~
+~
+Door 1 0 0 64318 0 0
+~
+~
+Door 2 0 0 64321 0 0
+~
+~
+Door 3 0 0 64316 0 0
+~
+~
+End
+
+#64318
+Name Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Door 0 0 0 64313 0 0
+~
+~
+Door 2 0 0 64322 0 0
+~
+~
+Door 3 0 0 64317 0 0
+~
+~
+End
+
+#64319
+Name Lair of D'Lamnthos~
+Descr
+You stand in the lair of the demoness D'Lamnthos.  All the evil in this
+Cave seems to be coming from the North-east corner of this cavern.  There
+you can see a throne with a seemingly normal Drow sitting on it.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 64314 0 0
+~
+~
+Door 1 0 0 64333 0 0
+~
+~
+Door 2 0 0 64323 0 0
+~
+~
+End
+
+#64320
+Name South-West Corner of a Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Door 0 0 0 64316 0 0
+~
+~
+Door 1 0 0 64321 0 0
+~
+~
+Door 2 0 0 64325 0 0
+~
+~
+End
+
+#64321
+Name Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Door 0 0 0 64317 0 0
+~
+~
+Door 1 0 0 64322 0 0
+~
+~
+Door 3 0 0 64320 0 0
+~
+~
+End
+
+#64322
+Name South-East Corner of a Large Chamber~
+Descr
+You stand in a large underground chamber.  Water drips from the
+stalagmites causing a faint background noise.  But if you listen closely you
+swear you can hear something else.  
+~
+Flags 4
+Reset M 64301 20 100
+Reset O 64306 -1 20
+Door 0 0 0 64318 0 0
+~
+~
+Door 2 0 0 64326 0 0
+~
+~
+Door 3 0 0 64321 0 0
+~
+~
+End
+
+#64323
+Name Lair of D'Lmanthos~
+Descr
+You stand in the lair of the demoness D'Lamnthos.  All the evil in this
+Cave seems to be coming from the North-east corner of this cavern.  There
+you can see a throne with a seemingly normal Drow sitting on it.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 64319 0 0
+~
+~
+Door 1 0 0 64324 0 0
+~
+~
+Door 2 0 0 64327 0 0
+~
+~
+End
+
+#64324
+Name Lair of D'Lmanthos~
+Descr
+You stand in the lair of the demoness D'Lamnthos.  All the evil in this
+Cave seems to be coming from the North-east corner of this cavern.  There
+you can see a throne with a seemingly normal Drow sitting on it.  
+~
+Flags 4
+Door 0 0 0 64333 0 0
+~
+~
+Door 3 0 0 64323 0 0
+~
+~
+End
+
+#64325
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64320 0 0
+~
+~
+Door 2 0 0 64329 0 0
+~
+~
+End
+
+#64326
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 4
+Sector 0
+Door 0 0 0 64322 0 0
+~
+~
+Door 2 0 0 64330 0 0
+~
+~
+End
+
+#64327
+Name A Glowing Tunnel~
+Descr
+You stand in a passageway with a towering ceiling thatis easily 20 feet
+high. The walls glow with a magic light that is deathly evil feeling. The
+presence of evil is almost overpowering here 
+~
+Flags 4
+Sector 0
+Door 0 0 0 64323 0 0
+~
+~
+Door 2 0 0 64332 0 0
+~
+~
+End
+
+#64328
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 1 0 0 64329 0 0
+~
+~
+Door 2 0 0 64335 0 0
+~
+~
+End
+
+#64329
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Reset M 64301 20 100
+Reset O 64306 -1 20
+Door 0 0 0 64325 0 0
+~
+~
+Door 3 0 0 64328 0 0
+~
+~
+End
+
+#64330
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64326 0 0
+~
+~
+Door 1 0 0 64331 0 0
+~
+~
+End
+
+#64331
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Reset M 64301 20 100
+Reset O 64306 -1 20
+Door 2 0 0 64336 0 0
+~
+~
+Door 3 0 0 64330 0 0
+~
+~
+End
+
+#64332
+Name A Glowing Tunnel~
+Descr
+You stand in a passageway with a towering ceiling thatis easily 20 feet
+high. The walls glow with a magic light that is deathly evil feeling. The
+presence of evil is almost overpowering here 
+~
+Flags 4
+Sector 0
+Reset M 64303 5 100
+Reset O 64308 -1 20
+Door 0 0 0 64327 0 0
+~
+~
+Door 2 0 0 64337 0 0
+~
+~
+End
+
+#64333
+Name Lair of D'Lamthos~
+Descr
+You stand in the lair of the demoness D'Lamnthos.  All the evil in this
+Cave seems to be coming from the North-east corner of this cavern.  There
+you can see a throne with a seemingly normal Drow sitting on it.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 64315 0 0
+~
+~
+Door 2 0 0 64324 0 0
+~
+~
+Door 3 0 0 64319 0 0
+~
+~
+End
+
+#64334
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 1 0 0 64335 0 0
+~
+~
+Door 2 0 0 64340 0 0
+~
+~
+End
+
+#64335
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64328 0 0
+~
+~
+Door 3 0 0 64334 0 0
+~
+~
+End
+
+#64336
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64331 0 0
+~
+~
+Door 2 0 0 64343 0 0
+~
+~
+End
+
+#64337
+Name A Glowing Tunnel~
+Descr
+You stand in a passageway with a towering ceiling thatis easily 20 feet
+high. The walls glow with a magic light that is deathly evil feeling. The
+presence of evil is almost overpowering here 
+~
+Flags 4
+Sector 0
+Door 0 0 0 64332 0 0
+~
+~
+Door 1 0 0 64338 0 0
+~
+~
+End
+
+#64338
+Name A Glowing Tunnel~
+Descr
+You stand in a passageway with a towering ceiling thatis easily 20 feet
+high. The walls glow with a magic light that is deathly evil feeling. The
+presence of evil is almost overpowering here 
+~
+Flags 4
+Sector 0
+Reset M 64303 5 100
+Reset O 64308 -1 20
+Door 1 0 0 64339 0 0
+~
+~
+Door 3 0 0 64337 0 0
+~
+~
+End
+
+#64339
+Name A Glowing Tunnel~
+Descr
+You stand in a passageway with a towering ceiling thatis easily 20 feet
+high. The walls glow with a magic light that is deathly evil feeling. The
+presence of evil is almost overpowering here 
+~
+Flags 4
+Sector 0
+Door 1 0 0 64340 0 0
+~
+~
+Door 3 0 0 64338 0 0
+~
+~
+End
+
+#64340
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64334 0 0
+~
+~
+Door 2 0 0 64346 0 0
+~
+~
+Door 3 0 0 64339 0 0
+~
+~
+End
+
+#64343
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64336 0 0
+~
+~
+Door 2 0 0 64350 0 0
+~
+~
+End
+
+#64346
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64340 0 0
+~
+~
+Door 2 0 0 64351 0 0
+~
+~
+End
+
+#64347
+Name A Small Room~
+Descr
+You stand in a small room that is occupied by an old drow.
+~
+Flags 5
+Sector 0
+Reset M 64302 1 100
+Reset O 64307 1 35
+Door 1 0 0 64348 0 0
+~
+~
+End
+
+#64348
+Name Inside the Crack~
+Descr
+You are squeezing yourself through a small crack.  There is not much room
+here and you feel slightly claustrophobic in here.  The crack continues to
+the west see a small room to the west.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 64349 0 0
+~
+~
+Door 3 0 0 64347 0 0
+~
+~
+End
+
+#64349
+Name Inside the Crack~
+Descr
+You are squeezing yourself through a small crack.  There is not much room
+here and you feel slightly claustrophobic in here.  The crack continues to
+the west 
+~
+Flags 5
+Sector 0
+Door 1 0 0 64350 0 0
+~
+~
+Door 3 0 0 64348 0 0
+~
+~
+End
+
+#64350
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  To the west is a crack in the wall that you might just barely
+be able to squeeze through.  
+~
+Flags 5
+Sector 0
+Reset M 64303 5 100
+Reset O 64308 -1 20
+Reset O 64304 -5 100
+Door 0 0 0 64343 0 0
+~
+~
+Door 2 0 0 64352 0 0
+~
+~
+End
+
+#64351
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64346 0 0
+~
+~
+Door 2 0 0 64353 0 0
+~
+~
+End
+
+#64352
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64350 0 0
+~
+~
+Door 2 0 0 64358 0 0
+~
+~
+End
+
+#64353
+Name West Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64351 0 0
+~
+~
+Door 1 0 0 64354 0 0
+~
+~
+End
+
+#64354
+Name Far Side of Circualr Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Door 1 0 0 64355 0 0
+~
+~
+Door 2 0 0 64359 0 0
+~
+~
+Door 3 0 0 64353 0 0
+~
+~
+End
+
+#64355
+Name Far Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 4
+Door 1 0 0 64356 0 0
+~
+~
+Door 2 0 0 64360 0 0
+~
+~
+Door 3 0 0 64354 0 0
+~
+~
+End
+
+#64356
+Name Far Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Door 1 0 0 64357 0 0
+~
+~
+Door 2 0 0 64361 0 0
+~
+~
+Door 3 0 0 64355 0 0
+~
+~
+End
+
+#64357
+Name Far Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 64358 0 0
+~
+~
+Door 2 0 0 64362 0 0
+~
+~
+Door 3 0 0 64356 0 0
+~
+~
+End
+
+#64358
+Name East Side of Circular Tunnel~
+Descr
+You are walking on a tunnel that makes a circle from the large cavern. 
+Why someone would build this tunnel is unknown.  Maybe there is something on
+the far side?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 64352 0 0
+~
+~
+Door 3 0 0 64357 0 0
+~
+~
+End
+
+#64359
+Name Far Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Door 0 0 0 64354 0 0
+~
+~
+Door 1 0 0 64360 0 0
+~
+~
+End
+
+#64360
+Name For Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Reset M 64303 5 100
+Reset O 64308 -1 20
+Door 0 0 0 64355 0 0
+~
+~
+Door 1 0 0 64361 0 0
+~
+~
+Door 2 259 0 64400 30 30
+~
+Temple Door~
+Door 3 0 0 64359 0 0
+~
+~
+End
+
+#64361
+Name Far Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Door 0 0 0 64356 0 0
+~
+~
+Door 1 0 0 64362 0 0
+~
+~
+Door 3 0 0 64360 0 0
+~
+~
+End
+
+#64362
+Name Far Side of Circular Tunnel~
+Descr
+On this the far side of the tunnel, the tunnel gets wider.  Yet as to why
+the tunnel would get wider here, you can't figure out.  
+~
+Flags 4
+Door 0 0 0 64357 0 0
+~
+~
+Door 3 0 0 64361 0 0
+~
+~
+End
+
+#64399
+Name Drow Temple~
+Descr
+Your standing inside a drow temple.  There area spider webs and spider nests in every corner.
+~
+Flags 4
+Sector 0
+Reset M 64399 1 100
+Reset O 64315 -1 3
+Reset O 64313 -1 3
+Door 0 0 0 64400 0 0
+~
+~
+End
+
+#64400
+Name Drow Temple~
+Descr
+Your standing inside a drow temple.  There area spider webs and spider nests in every corner.
+~
+Flags 4
+Sector 0
+Reset M 64310 1 100
+Door 0 259 0 64360 30 30
+~
+Temple Door~
+Door 2 0 0 64399 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

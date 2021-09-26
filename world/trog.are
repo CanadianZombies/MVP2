@@ -1,0 +1,3720 @@
+#AREADATA 
+Name The Large Cavern~
+Repop Shadows stir off in the distance.
+~
+SRepop 22
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Maarik Jimgar~
+VNUMs 3801 4001
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#3801
+Name troglodyte guard~
+Short Troglodyte Guard~
+Long 
+A Troglodyte guard stands here seeking to destroy good
+~
+Descr
+~
+AMax 5
+NHeight 75
+ActBits -2147483645
+ActBits3 8192
+Affect_By 66048
+Alignment -500
+Money 80
+Level 80
+Sex 1
+MobType 20
+Hp 12
+Guard 5
+End
+
+#3802
+Name sssraa the shaman~
+Short sssraa the shaman~
+Long 
+Sssraa the shaman stands here ready to teach you the dark arts
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 259
+Affect_By 552
+Alignment -500
+Money 120
+Level 120
+MobType 20
+Hp 15
+Guard 0
+End
+
+#3803
+Name a beaten skulk~
+Short a beaten skulk~
+Long 
+a beaten skulk lies here cowering in the corner
+~
+Descr
+~
+AMax 4
+NHeight 60
+ActBits 3
+Alignment 300
+Money 40
+Level 40
+Sex 1
+MobType 20
+Hp 8
+Guard 0
+End
+
+#3804
+Name Evil Troglodyte Warrior~
+Short troglodyte warrior~
+Long 
+a troglodyte warrior stands here ready to draw his sword
+~
+Descr
+~
+AMax 15
+NHeight 70
+ActBits 1
+Affect_By 552
+Alignment -500
+Money 70
+Level 70
+Sex 1
+MobType 20
+Hp 9
+Guard 0
+End
+
+#3805
+Name Troglodyte Elite guard~
+Short Troglodyte Elite guard~
+Long 
+a troglodyte guard stands here barring your entrance
+~
+Descr
+~
+AMax 5
+NHeight 80
+ActBits 3
+ActBits3 2
+Affect_By 552
+Alignment -500
+Money 85
+Level 85
+Sex 1
+MobType 20
+Hp 12
+Guard 0
+Spec spec_warrior
+End
+
+#3806
+Name King Srrithra~
+Short King Srrithra~
+Long 
+King Srrithra sits here waiting to kill
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 3
+Affect_By 512
+Alignment -500
+Money 150
+Level 150
+Sex 1
+MobType 20
+Hp 15
+Guard 0
+RaceHate 67108864
+End
+
+#3807
+Name Knightmare~
+Short Knightmare~
+Long 
+Nightmare is here, wall chained to.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 570425347
+Affect_By 40
+Alignment 300
+Money 40
+Level 40
+MobType 1
+Guard 0
+Spec spec_thief
+End
+
+#3808
+Name Sssrog the executioner~
+Short Sssrog the executioner~
+Long 
+Sssrog the executioner stands here laughing at his victims plea for mercy
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 544
+Alignment -100
+Money 100
+Level 100
+MobType 20
+Guard 0
+End
+
+#3809
+Name Karnax the mad mage~
+Short Karnax the mad mage~
+Long 
+Karnax the mad mage lies here blubbering to himself
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 3
+Alignment 300
+Money 90
+Level 90
+MobType 0
+Guard 0
+End
+
+#3810
+Name Troglodyte Scribe~
+Short a Troglodyte Scribe~
+Long 
+A Troglodyte Scribe sleeps here after many hours of translating Yizzra's text
+~
+Descr
+~
+AMax 5
+NHeight 60
+ActBits 1
+Affect_By 131112
+Alignment -100
+Money 40
+Level 40
+MobType 20
+Hp 9
+Guard 0
+End
+
+#3811
+Name Troglodyte Priest~
+Short A Troglodyte Priest~
+Long 
+A Troglodyte Priest stands here snorting in derision
+~
+Descr
+~
+AMax 5
+NHeight 65
+ActBits 1
+Affect_By 512
+Alignment -500
+Money 60
+Level 60
+MobType 20
+Hp 9
+Guard 0
+End
+
+#3812
+Name Troglodyte citizen~
+Short Troglodyte citizen~
+Long 
+A citizen stands here watching you with curiosity
+~
+Descr
+~
+AMax 5
+NHeight 65
+ActBits 1
+Affect_By 552
+Alignment -100
+Money 30
+Level 30
+Sex 1
+MobType 20
+Guard 0
+Spec spec_warrior
+End
+
+#3813
+Name Zaaron~
+Short Zaaron the stone cutter~
+Long 
+Zaaron the stone cutter sits here cutting a stone to perfection
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 3
+Alignment -100
+Money 700
+Level 700
+MobType 20
+Hp 60
+Guard 0
+Shop    9   0   0   0   0 125 75 0 23
+Shopd2 10
+Shopd3 4
+End
+
+#3814
+Name Troggo~
+Short Troggo the banker~
+Long 
+Troggo the banker eagerly waits here for your transaction
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 131075
+Affect_By 512
+Alignment -100
+Money 100
+Level 100
+Sex 1
+MobType 20
+Guard 0
+End
+
+#3815
+Name Troglodyte Concubine~
+Short Troglodyte Concubine~
+Long 
+A troglodyte concubine lies here awaiting her king
+~
+Descr
+~
+AMax 5
+NHeight 65
+ActBits -2147483645
+Affect_By 512
+Alignment -100
+Money 20
+Level 20
+Sex 2
+MobType 20
+Guard 0
+End
+
+#3816
+Name Troglodyte hatchling~
+Short troglodyte hatchling~
+Long 
+A troglodyte hatchling lies here hissing at you
+~
+Descr
+~
+AMax 5
+NHeight 10
+ActBits 1
+Alignment 300
+Money 10
+Level 10
+MobType 20
+Hp 6
+Guard 0
+End
+
+#3817
+Name Spirit of Kaazor~
+Short Spirit of Kaazor~
+Long 
+Kaazor floats here pointing at the pool
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 3
+Alignment 500
+Money 90
+Level 90
+Sex 1
+MobType 20
+Guard 0
+End
+
+#3818
+Name Troglodyte farmer~
+Short Troglodyte farmer~
+Long 
+A troglodyte farmer is working here.
+~
+Descr
+~
+AMax 5
+NHeight 70
+ActBits 1
+Affect_By 552
+Alignment -50
+Money 35
+Level 35
+Sex 1
+MobType 20
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#3801
+Name mantle of ancients~
+Short A mantle of [36mancients~
+Descr
+an old worn mantle lies next to your feet
+[0;36m~
+Type 9
+Extra 536870912
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 1
+Cost 150000
+Affect 4 1 1 0 0
+Affect 1 -2 1 0 0
+Limtd 2
+End
+
+#3802
+Name Staff of Darkness~
+Short A Staff of [35mDarkness~
+Descr
+a wicked black staff lies in the dirt
+[0;36m~
+Type 21
+Extra 529
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 75 75 55 0 0 0 0 0 0
+Weight 5
+Cost 250000
+Limtd 4
+End
+
+#3803
+Name Dull gray boots~
+Short A pair of dull gray boots~
+Descr
+A pair of gray boots lies in the dirt here.
+[0;36m~
+Type 9
+Extra 16
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 0 0 0 10 10 70 70 13 0
+Weight 3
+Cost 1200
+Affect 23 5 1 0 0
+Affect 14 25 1 0 0
+End
+
+#3804
+Name shimmering chainmail~
+Short A suit of [1mShimmering [0mchainmail~
+Descr
+a multi-colored suit of chainmail lies here shimmering in colors
+[0;36m~
+Type 9
+Extra 17
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 2 8 10 70 70 13 0
+Weight 5
+Cost 7350
+Affect 23 5 1 0 0
+Affect 24 5 1 0 0
+End
+
+#3805
+Name Dull gray leggings~
+Short A pair of dull gray leggings~
+Descr
+A pair of gray chain leggings lies on the floor here.
+[0;36m~
+Type 9
+Extra 16
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 8 2 0 0 8 10 70 70 13 0
+Weight 3
+Cost 2100
+Affect 24 3 1 0 0
+Affect 23 3 1 0 0
+End
+
+#3806
+Name gray chain sleeves~
+Short A set of gray chain sleeves~
+Descr
+A set of gray chain sleeves lie here in the dirt.
+[0;36m~
+Type 9
+Extra 16
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 8 8 12 0 0 12 2
+Weight 3
+Cost 1400
+Affect 24 3 1 0 0
+Affect 23 3 1 0 0
+End
+
+#3807
+Name Troglodyte war helm~
+Short A Troglodyte War Helm~
+Descr
+A strange dull gray helm lies here.
+[0;36m~
+Type 9
+Extra 17
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 8 0 10 10 70 70 10 2
+Weight 2
+Cost 3210
+Affect 23 3 1 0 0
+Affect 24 5 1 0 0
+End
+
+#3808
+Name Gray longblade~
+Short a Gray Longblade~
+Descr
+A gray longblade lies here.
+[0;36m~
+Type 5
+Extra 16
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 3 0 0 0 5 3 0
+Weight 4
+Cost 21342
+Affect 18 1 1 0 0
+End
+
+#3809
+Name Sword of Chaos~
+Short The [34mSword [0mof [31mChaos~
+Descr
+A red [31mhot [0msword lies here
+[0;36m~
+Type 5
+Extra 537133057
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 5 3 0
+Weight 4
+Cost 7000
+Affect 19 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#3810
+Name Executioners boots~
+Short A pair of [35mExecutioners [0mBoots~
+Descr
+A set of [1mglowing [0mboots are laying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 100 100 0 0
+Weight 5
+Cost 12000
+Affect 22 2 1 0 0
+Limtd 2
+End
+
+#3811
+Name shimmering bracer~
+Short A [1mShimmering [0mBracer~
+Descr
+A [1mShimmering [0mmulti-colored bracer lies here shifting in colors.
+[0;36m~
+Type 9
+Extra 528
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 10 10 70 70 10 2
+Weight 3
+Cost 700
+Affect 24 3 1 0 0
+Affect 23 3 1 0 0
+End
+
+#3812
+Name Shimmering helm~
+Short A [1mShimmering [1mhelm~
+Descr
+A [1mShimmering [0mhelm lies here.
+[0;36m~
+Type 9
+Extra 16
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 10 0 12 12 70 70 10 3
+Weight 3
+Cost 900
+Affect 24 5 1 0 0
+Affect 23 5 1 0 0
+End
+
+#3813
+Name Shimmering Platemail~
+Short A suit of [1mShimmering [0mPlatemail~
+Descr
+A suit of [1mshimmering [0mplatemail lies here.
+[0;36m~
+Type 9
+Extra 528
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 12 2 2 13 12 0 70 70 0
+Weight 6
+Cost 1000
+Affect 24 5 1 0 0
+Affect 23 5 1 0 0
+End
+
+#3814
+Name Shimmering belt~
+Short A [1mShimmering [0mBelt~
+Descr
+A [1mmulti-colored [0mbelt lies here.
+[0;36m~
+Type 9
+Extra 528
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 13 12 70 70 11 3
+Weight 2
+Cost 1000
+Affect 24 3 1 0 0
+Affect 23 3 1 0 0
+End
+
+#3815
+Name Shimmering Greaves~
+Short A pair of [1mShimmering [0mgreaves~
+Descr
+A set of [1mshimmering [0mgreaves are laying in the dirt here.
+[0;36m~
+Type 9
+Extra 16
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 0 0 0 13 12 70 70 11 3
+Weight 4
+Cost 1000
+Affect 24 3 1 0 0
+Affect 23 3 1 0 0
+End
+
+#3816
+Name glowing ion stone~
+Short [1mGlowing [0mion stone~
+Descr
+A [1mglowing [0mstone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 1 1 0 0 0 0 0 3
+Weight 0
+Cost 40000
+Affect 18 2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#3817
+Name Red ion stone~
+Short A [31mRed [0mion stone~
+Descr
+A red stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 10 10 0 0 10 3
+Weight 0
+Cost 250000
+End
+
+#3818
+Name Black ion stone~
+Short a [1m[30mBlack[0m ion stone~
+Descr
+A black stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 2 2 10 10 0 0 10 3
+Weight 0
+Cost 40000
+Affect 20 -5 1 0 0
+End
+
+#3819
+Name Pool of Kaazor~
+Short Pool of Kaazor~
+Descr
+The fabled pool of Kaazor rests here.
+[0;36m~
+Type 25
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 70 -1 -1 28 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3820
+Name Amber ion stone~
+Short An [33mAmber [0mion stone~
+Descr
+An amber stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 10 10 0 0 10 3
+Weight 0
+Cost 250000
+Affect 2 1 1 0 0
+End
+
+#3821
+Name Purple ion stone~
+Short A [35mPurple [0mion stone~
+Descr
+A purple stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 250000
+Affect 1 1 1 0 0
+End
+
+#3822
+Name Green ion stone~
+Short A [32mGreen [0mion stone~
+Descr
+A green stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 250000
+End
+
+#3823
+Name Clear ion stone~
+Short A [1mClear [0mion stone~
+Descr
+A clear ion stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 250000
+Affect 3 1 1 0 0
+End
+
+#3824
+Name Yellow ion stone~
+Short A [33mYellow [0mion stone~
+Descr
+A yellow stone floats above the ground here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 250000
+Affect 4 1 1 0 0
+End
+
+#3825
+Name mushroom~
+Short mushroom~
+Descr
+An edible mushroom lies in the dirt here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 24 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#3801
+Name Inside a Small Clearing~
+Descr
+You enter what appears to be a clearing surrounded by tree's and bushes. 
+Looking around You cant but help to notice how good of an ambush site this
+would be for lone travellers.  
+~
+Flags 1051648
+Sector 4
+Reset M 3801 4 100
+Reset O 3808 21 20
+Reset O 3807 5 10
+Reset O 3806 9 10
+Reset O 3805 6 10
+Reset O 3804 4 10
+Reset O 3803 7 10
+Reset M 3801 4 100
+Reset O 3805 6 10
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 20
+Reset M 3801 4 100
+Reset O 3808 21 20
+Reset O 3807 5 10
+Reset O 3806 9 10
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset M 3801 4 100
+Reset O 3805 6 10
+Reset O 3804 4 10
+Reset O 3803 7 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 20
+Door 2 0 0 3803 0 0
+~
+~
+Door 5 259 0 3802 30 30
+~
+boulder~
+End
+
+#3802
+Name Inside a Dark Cave~
+Descr
+You enter a dark cave which seems immpossibly dark for being so close to
+the surface.  Looking around You cant but help to shiver at the extreme
+darkness in this cave maybe the inhabitants want it this dark.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3811 0 0
+~
+~
+Door 4 259 0 3801 30 30
+~
+boulder~
+End
+
+#3803
+Name A Small Twist Path Through the Hills~
+Descr
+You walk on a small twisty pathway which leads further north.  The path
+supposedly leads to the legendary hill of the lizard but you cant see any
+hill that resembles a lizard because all the hills around look normal to
+you.  
+~
+Door 0 0 0 3801 0 0
+~
+~
+Door 1 0 0 3804 0 0
+~
+~
+End
+
+#3804
+Name A Small Twisty Path Through the Hills~
+Descr
+You stand upon a small twisted path which runs through the hills of the
+lizard.  The hills look bland and You wonder if anything lives around them
+or anywhere near this immediate area.  
+~
+Door 2 0 0 3805 0 0
+~
+~
+Door 3 0 0 3803 0 0
+~
+~
+End
+
+#3805
+Name A Small Twisty Path Through the Hilss~
+Descr
+The twisted path here continues unto the north towards some hills that
+look pretty bland.  The hills in the distance were known a long time ago as
+the hills of the lizard.  Looking at them you think to yourself and wonder
+why.  
+~
+Door 0 0 0 3804 0 0
+~
+~
+Door 2 1 0 3806 30 30
+~
+bushes~
+End
+
+#3806
+Name A Red Clay Road~
+Descr
+The small road here is covered completely by weeds and bushes.  Examining
+the area closely you cant see how this area resembles a road or who would
+ever call this area a road.  
+~
+Door 0 1 0 3805 30 30
+~
+bushes~
+Door 1 0 0 3807 0 0
+~
+~
+End
+
+#3807
+Name A Red Clay Road~
+Descr
+You stand upon a small clay road covered in large weeds which seem to be
+growing crazy out in this hot sun.  Looking around You notice the quantity
+of weeds and You just wish You could ring the lawn boys neck man he missed a
+spot.  
+~
+Door 1 0 0 3808 0 0
+~
+~
+Door 3 0 0 3806 0 0
+~
+~
+End
+
+#3808
+Name A Red Clay Road~
+Descr
+You stand upon a small clay road which looks as if it hasn't seen traffic
+since the birth of our lord.  Looking around You see many insects flying
+around a lump in the road which appears to be dung of some sort of animal,
+oh how gross it stinks.  The road continues towards the west.  
+~
+Door 2 0 0 3809 0 0
+~
+~
+Door 3 0 0 3807 0 0
+~
+~
+End
+
+#3809
+Name A Red Clay Road~
+Descr
+The clay road continues unto the north and all along the way you notice
+large weeds that seem to grow as tall as You .  Looking at the weeds You
+have pitty on the lawn service that cuts along this road man, whats up with
+them has the state gone lax.  The road continues unto the north.  
+~
+Door 0 0 0 3808 0 0
+~
+~
+Door 1 0 0 3810 0 0
+~
+~
+End
+
+#3810
+Name A Red Clay Road~
+Descr
+You stand on what appears to be a small clay road.  As you look around
+you cant help but to laugh at the idiot that called this a road.  All along
+the road grows weeds that further gives tribute to the mighty traffic that
+goes up and down this road.  
+~
+Door 1 0 0 14672 0 0
+~
+~
+Door 3 0 0 3809 0 0
+~
+~
+End
+
+#3811
+Name A Damp Tunnel~
+Descr
+You stand in a small puddle of water which appears to be fueled by the
+water dripping off the roof and running off the walls.  As you stand in the
+water like an idiot you wonder if there is some natural spring nearby which
+could cause all this water to flow like this.  The cave tunnel continues
+unto the north.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3812 0 0
+~
+~
+Door 2 0 0 3802 0 0
+~
+~
+End
+
+#3812
+Name A Damp Tunnel~
+Descr
+You walk into a small damp tunnel which appears to be covered in water
+flowing from an unknown source.  As You try to raise You're head You scream
+as You bump You're head on the ceiling.  Looking around the tunnel You see
+many small stalactites and stalagmites.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3813 0 0
+~
+~
+Door 2 0 0 3811 0 0
+~
+~
+End
+
+#3813
+Name Inside a Large Cavern~
+Descr
+You exit a small damp tunnel to find Yourself in a large cavern.  As You
+look around You cant help but to stare in awe at the size of this cavern. 
+Many bones line the entrance to this huge place I guess we need some sort of
+decoration here 
+~
+Flags 2053
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 15
+Door 0 0 0 3814 0 0
+~
+~
+Door 2 0 0 3812 0 0
+~
+~
+End
+
+#3814
+Name Inside a Large Cavern~
+Descr
+You stand in what appears to be a large cavern that appears to go on
+forever.  Looking up You notice there doesnt appear to be a ceiling of any
+sort which causes you to gape in awe at how high the ceiling is.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3815 0 0
+~
+~
+Door 1 0 0 3827 0 0
+~
+~
+Door 2 0 0 3813 0 0
+~
+~
+Door 3 0 0 3838 0 0
+~
+~
+End
+
+#3815
+Name Inside a Large Cavern~
+Descr
+Bounding through the caverns you stumble on what appears to be a rock. 
+As you hit the ground you yell out in pain wondering what you tripped on. 
+Looking down you cringe in terror as you realize what appeared to be a rock
+was actually a skull.  Looking at the skull you grab your neck wondering if
+your head will be the next skull.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3816 0 0
+~
+~
+Door 1 0 0 3826 0 0
+~
+~
+Door 2 0 0 3814 0 0
+~
+~
+Door 3 0 0 3839 0 0
+~
+~
+End
+
+#3816
+Name Inside a Large Cavern~
+Descr
+Standing in this cavern you sense a great evil all around you and you
+cant help but to kick yourself as you wonder why you didnt feel it earlier. 
+The cavern continues to go north.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3817 0 0
+~
+~
+Door 1 0 0 3825 0 0
+~
+~
+Door 2 0 0 3815 0 0
+~
+~
+Door 3 0 0 3840 0 0
+~
+~
+End
+
+#3817
+Name Inside a Large Cavern~
+Descr
+You stand in an evil cavern filled with darkness.  Looking around you
+sense the evil in the darkness.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3818 0 0
+~
+~
+Door 1 0 0 3824 0 0
+~
+~
+Door 2 0 0 3816 0 0
+~
+~
+Door 3 0 0 3841 0 0
+~
+~
+End
+
+#3818
+Name Inside a Large Cavern~
+Descr
+You come to the end of the large cavern and You cant help but to whip
+You're head in relief as You think about how far you came then it suddenly
+dons on you that you have ot walk out of here.  Looking around the cavern
+end You notice the cavern continues onto the south and to the north You
+notice a hallway.  
+~
+Flags 2053
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3819 0 0
+~
+~
+Door 1 0 0 3823 0 0
+~
+~
+Door 2 0 0 3817 0 0
+~
+~
+Door 3 0 0 3842 0 0
+~
+~
+End
+
+#3819
+Name A Small Adorned Passageway~
+Descr
+You enter a passageway which is adorned with many reliefs and pictures of
+the race of troglodytes.  Looking closer at the pictures You see battle
+scenes of Troglodyte warriors killing skulks and humans in war.  The
+passageway continues unto the north and to the south which leads to a large
+cavern.  
+~
+Flags 2052
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3821 0 0
+~
+~
+Door 2 0 0 3818 0 0
+~
+~
+End
+
+#3820
+Name Before a Large Set of Double Doors~
+Descr
+You come to an end of the adorned passageway and come to a large set of
+double doors.  The doors seem to be made of some sort of gray wood adorned
+with metal engravings above the door is a huge carving of a huge Troglodyte
+warrior which has several skulks scewered on his mighty sword.  
+~
+Flags 2054
+Sector 0
+Reset M 3805 2 100
+Reset O 3803 7 20
+Reset O 3804 4 20
+Reset O 3805 6 20
+Reset O 3806 9 20
+Reset O 3807 5 20
+Reset O 3808 21 20
+Reset M 3805 2 100
+Reset O 3803 7 20
+Reset O 3804 4 20
+Reset O 3805 6 20
+Reset O 3806 9 20
+Reset O 3807 5 20
+Reset O 3808 21 20
+Door 0 519 0 3822 25 25
+~
+double doors~
+Door 2 0 0 3821 0 0
+~
+~
+End
+
+#3821
+Name A Small Adorned Passageway~
+Descr
+Standing in this small adorned passageway you see that it is adorned with
+many pictures of the history of the troglodyte race.  Looking closer you see
+one picture that depicts the god Yizzra cursing the skulks for there
+embracing good.  There curse was depicted as the god stripping there melding
+abilities away.  While another picture shows the god blessing the
+troglodytes for killing the skulks.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3820 0 0
+~
+~
+Door 2 0 0 3819 0 0
+~
+~
+Door 3 259 0 3951 30 30
+~
+picture~
+End
+
+#3822
+Name A Luxurious Throne Room~
+Descr
+You stand in a very fabulous throne room.  You look around wondering how
+could all these adornments be in such a damp cavern sas this.  Looking ahead
+you see a very large throne made of gold with a very large troglodyte
+sitting on it.  The king appears to be quite skilled with the sword that
+hangs on his side.  As you step in he stairs at you as if he might use you
+as the practice he longs for.  
+~
+Flags 2099204
+Reset M 3806 1 100
+Reset O 3809 -1 1
+Reset O 3812 5 10
+Reset O 3813 4 10
+Reset O 3814 12 10
+Reset O 3815 6 10
+Door 2 7 0 3820 25 25
+~
+double doors~
+Door 3 3 0 3901 30 30
+~
+gold door~
+End
+
+#3823
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern which seems incredibly huge.  Heavy
+darkness seems to hang everywhere You cant help but wonder whats out there
+and as You think harder You figure out that You dont want to know.  
+~
+Flags 2053
+Sector 0
+Door 2 0 0 3824 0 0
+~
+~
+Door 3 0 0 3818 0 0
+~
+~
+End
+
+#3824
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern which seems incredibly huge.  Heavy
+darkness seems to hang everywhere You cant help but wonder whats out there
+and as You think harder You figure out that You dont want to know.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3823 0 0
+~
+~
+Door 1 0 0 3843 0 0
+~
+~
+Door 2 0 0 3825 0 0
+~
+~
+Door 3 0 0 3817 0 0
+~
+~
+End
+
+#3825
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern which seems incredibly huge.  Heavy
+darkness seems to hang everywhere You cant help but wonder whats out there
+and as You think harder You figure out that You dont want to know.  
+~
+Flags 2053
+Sector 0
+Door 0 0 0 3824 0 0
+~
+~
+Door 2 0 0 3826 0 0
+~
+~
+Door 3 0 0 3816 0 0
+~
+~
+End
+
+#3826
+Name Inside a Large Cavern~
+Descr
+You stand in what appears to be a large cavern that appears to go on
+forever.  Looking up You notice there doesnt appear to be a ceiling of any
+sort which causes you to gape in awe at how high the ceiling is.  
+~
+Flags 2053
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3825 0 0
+~
+~
+Door 2 0 0 3827 0 0
+~
+~
+Door 3 0 0 3815 0 0
+~
+~
+End
+
+#3827
+Name Inside a Large Cavern~
+Descr
+You stand in a large Cavern which seems to extend out into eternity. 
+Looking through the blackness You wonder how long it is and what lives here.
+~
+Flags 2053
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 11 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 -1 10
+Door 0 0 0 3826 0 0
+~
+~
+Door 1 0 0 3828 0 0
+~
+~
+Door 3 0 0 3814 0 0
+~
+~
+End
+
+#3828
+Name A Small Tunnel~
+Descr
+You step into what appears to be a small tunnel.  The tunnel continues
+unto the east and seems to narrow as you go.  As you walk you hear a scream
+echoed in the distance which causes youre blood to crawl.  
+~
+Flags 2053
+Sector 0
+Door 1 0 0 3829 0 0
+~
+~
+Door 3 0 0 3827 0 0
+~
+~
+End
+
+#3829
+Name A Small Tunnel~
+Descr
+You step into what appears to be a small tunnel.  The tunnel continues
+unto the east and seems to narrow as you go.  As you walk you hear a scream
+echoed in the distance which causes youre blood to crawl.  
+~
+Flags 2053
+Door 1 0 0 3830 0 0
+~
+~
+Door 3 0 0 3828 0 0
+~
+~
+End
+
+#3830
+Name A Small Tunnel~
+Descr
+You stand in a small tunnel which appears to be bricked out of some
+strange material.  Looking around You You notice The many doors running the
+length of this long tunnel.  From across the tunnel You see a faint light
+from the northern most door which appears to be the room from which the
+screams are comming from.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3831 0 0
+~
+~
+Door 3 0 0 3829 0 0
+~
+~
+End
+
+#3831
+Name A Small Bricked Tunnel~
+Descr
+You stand in a small bricked Tunnel to your east is a door leading to
+what seems is a cell of some sort.  Looking to the north the glimmer becomes
+brighter and it seems to be getting a little hotter in here.  
+~
+Flags 2052
+Door 0 0 0 3833 0 0
+~
+~
+Door 1 519 0 3832 30 30
+~
+cell door~
+Door 2 0 0 3830 0 0
+~
+~
+End
+
+#3832
+Name A Small Cramped Cell~
+Descr
+You stand in what appears to be a small cramped cell.  All along the
+floor You see debris and refuse of some sort, man this is nasty.  Looking
+down You see straw strewn all over the floor which seems to be the poor
+souls only source of comfort in this God forsaken cell.  
+~
+Flags 2052
+Reset M 3807 1 100
+Reset M 3803 8 100
+Door 3 519 0 3831 30 30
+~
+cell door~
+End
+
+#3833
+Name A Small Bricked Tunnel~
+Descr
+You stand in a small bricked tunnel which appears to be bricked out of
+some strange white substance.  Looking to the north you see a fire through
+the door and to the west appears to be a door leading to a cell.  
+~
+Flags 2052
+Door 0 0 0 3835 0 0
+~
+~
+Door 2 0 0 3831 0 0
+~
+~
+Door 3 519 0 3834 30 30
+~
+cell door~
+End
+
+#3834
+Name A Small Cramped Cell~
+Descr
+You stand in what appears to be a small cramped cell.  All along the
+floor You see debris and refuse of some sort, man this is nasty.  Looking
+down You see straw strewn all over the floor which seems to be the poor
+souls only source of comfort in this God forsaken cell.  
+~
+Flags 2052
+Reset M 3809 1 100
+Reset O 3801 11 10
+Reset O 50268 21 15
+Reset M 3803 8 100
+Door 1 519 0 3833 30 30
+~
+cell door~
+End
+
+#3835
+Name A Small Bricked Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plant life such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Sector 0
+Door 0 3 0 3837 30 30
+~
+Huge metal door~
+Door 1 519 0 3836 30 30
+~
+pen door~
+Door 2 0 0 3833 0 0
+~
+~
+End
+
+#3836
+Name A Small Cramped Holding Pen~
+Descr
+You enter a small holding pen where the Troglodytes hold skulks for
+future torture.  The troglodyte's take great pleasure out of torturing
+skulks because of there betrayel of the evil ways.  
+~
+Flags 2052
+Reset M 3803 8 100
+Door 3 519 0 3835 30 30
+~
+pen door~
+End
+
+#3837
+Name Torture Chamber~
+Descr
+You stand in a huge torture chamber filled with devices of all kind
+invented to create pleasure in the user that is the torturer.  This area has
+seen much use lately and its current resident Sssrog is very pleased at the
+amount of skulks which were caught lately.  
+~
+Flags 2052
+Sector 0
+Reset M 3808 1 100
+Reset O 3810 7 5
+Reset M 3803 8 100
+Door 2 3 0 3835 30 30
+~
+Huge metal door~
+End
+
+#3838
+Name Inside a Large Cavern~
+Descr
+You stand in a large Cavern which seems to extend out into eternity. 
+Looking through the blackness You wonder how long it is and what lives here.
+~
+Flags 2053
+Door 0 0 0 3839 0 0
+~
+~
+Door 1 0 0 3814 0 0
+~
+~
+End
+
+#3839
+Name Inside a Large Cavern~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plantlife such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2053
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3840 0 0
+~
+~
+Door 1 0 0 3815 0 0
+~
+~
+Door 2 0 0 3838 0 0
+~
+~
+End
+
+#3840
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern which seems incredibly huge.  Heavy
+darkness seems to hang everywhere You cant help but wonder whats out there
+and as You think harder You figure out that You dont want to know.  
+~
+Flags 2053
+Door 0 0 0 3841 0 0
+~
+~
+Door 1 0 0 3816 0 0
+~
+~
+Door 2 0 0 3839 0 0
+~
+~
+End
+
+#3841
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern all around you are stalactites and
+stalagmites.  You notice an extreme silence in the dark but even that is
+unwanted in this oppressive cavern.  
+~
+Flags 2053
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3842 0 0
+~
+~
+Door 1 0 0 3817 0 0
+~
+~
+Door 2 0 0 3840 0 0
+~
+~
+Door 3 0 0 3872 0 0
+~
+~
+End
+
+#3842
+Name Inside a Large Cavern~
+Descr
+You are standing in a large cavern which seems incredibly huge.  Heavy
+darkness seems to hang everywhere You cant help but wonder whats out there
+and as You think harder You figure out that You dont want to know.  
+~
+Flags 2053
+Door 1 0 0 3818 0 0
+~
+~
+Door 2 0 0 3841 0 0
+~
+~
+End
+
+#3843
+Name A Long Cramped Tunnel~
+Descr
+You exit the large cavern into a long cramped tunnel which seems to make
+you feel surrounded by tons of rock.  Looking up you notice strange
+engravings in the walls of the tunnel as if they were some sort of ancient
+writing.  
+~
+Flags 2053
+Sector 0
+Door 1 0 0 3844 0 0
+~
+~
+Door 3 0 0 3824 0 0
+~
+~
+End
+
+#3844
+Name A Long Cramped Tunnel~
+Descr
+You continue to walk in the long cramped tunnel and You notice the walls
+to be worn here as if many of the engravings were scratched out.  Looking
+closer You see that some of the engravings are still present but they appear
+to be new ones in some sort of language unknown to you 
+~
+Flags 2052
+Door 1 0 0 3845 0 0
+~
+~
+Door 3 0 0 3843 0 0
+~
+~
+End
+
+#3845
+Name A Long Cramped Tunnel~
+Descr
+You continue to walk in the long cramped tunnel and You notice the walls
+to be worn here as if many of the engravings were scratched out.  Looking
+closer You see that some of the engravings are still present but they appear
+to be new ones in some sort of language unknown to you 
+~
+Flags 2052
+Door 1 0 0 3846 0 0
+~
+~
+Door 3 0 0 3844 0 0
+~
+~
+End
+
+#3846
+Name A Long Cramped Tunnel~
+Descr
+You continue to walk down the long cramped tunnel to the east you see
+where the tunnel dramatically drops down and to the north the tunnel
+continues on to a new area.  
+~
+Flags 2052
+Door 0 0 0 3849 0 0
+~
+~
+Door 1 0 0 3847 0 0
+~
+~
+Door 3 0 0 3845 0 0
+~
+~
+End
+
+#3847
+Name A Large Hole Leading Down~
+Descr
+You come upon a large hole which looks as if it leads down to lower
+levels in the caves.  Looking at the hole you see many claw marks as if huge
+lizards where crawling up and down the hole.  
+~
+Flags 2054
+Door 3 0 0 3846 0 0
+~
+~
+Door 5 0 0 3848 0 0
+~
+~
+End
+
+#3848
+Name A Large Chamber~
+Descr
+You climb into what appears to be a large Chamber.  The chamber appears
+to be a main living area for the troglodyte people and seems to be the
+bussiest area in this whole God foresaken cave.  
+~
+Flags 2052
+Reset M 3812 25 100
+Door 3 0 0 3873 0 0
+~
+~
+Door 4 0 0 3847 0 0
+~
+~
+End
+
+#3849
+Name A Long Cramped Tunnel~
+Descr
+You continue to walk in the long cramped tunnel and You notice the walls
+to be worn here as if many of the engravings were scratched out.  Looking
+closer You see that some of the engravings are still present but they appear
+to be new ones in some sort of language unknown to you 
+~
+Flags 2052
+Door 0 0 0 3850 0 0
+~
+~
+Door 2 0 0 3846 0 0
+~
+~
+End
+
+#3850
+Name A Long Cramped Tunnel~
+Descr
+You stand at the end of a long cramped tunnel to the north you see a huge
+set of doors which seem to be made of platinum.  Looking at the door you see
+what appears to be runes of warning to all unpurrified races.  The tunnel
+ends here but continues back toward the south to the cavern.  
+~
+Flags 2052
+Door 0 3 0 3851 30 30
+~
+platinum doors~
+Door 2 0 0 3849 0 0
+~
+~
+End
+
+#3851
+Name Sacred Hallway~
+Descr
+You have entered the sacred hallway of the troglodyte people which leads
+to thief sacred temple.  All races of unpurrifeid origins are strictly
+forbidden to enter here.  You wonder what races are those and then you
+figure you must not be assaciated with them since the guards leave you
+alone.  The tunnel continues unto the west twards the temple and to the
+north twards an unknown area.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3852 0 0
+~
+~
+Door 2 3 0 3850 30 30
+~
+platinum doors~
+Door 3 0 0 3853 0 0
+~
+~
+End
+
+#3852
+Name Marble Hallway~
+Descr
+You enter a marble hallway leading towards the west.  The stones in here
+are weird as you notice that they have golden streaks running through them. 
+The floor here seems unnaturaly clean for an area built in the caverns.  The
+hallway continues unto the west and to the south towards the sacred chambers
+~
+Flags 2052
+Sector 0
+Door 2 0 0 3851 0 0
+~
+~
+Door 3 0 0 3858 0 0
+~
+~
+End
+
+#3853
+Name Sacred Hallway~
+Descr
+You continue walking down the sacred hallway all along the walls are
+golden paintings of the troglodyte gods.  Looking at the paintings you
+notice how the gods seem to focus there hate towards a select race the
+skulks.  The hallway continues to go onto the west and back towards the
+east.  
+~
+Flags 2052
+Reset M 3811 3 100
+Door 1 0 0 3851 0 0
+~
+~
+Door 3 0 0 3854 0 0
+~
+~
+End
+
+#3854
+Name Huge Gold Doors~
+Descr
+Before You stands a set of huge double doors made from what appears to be
+gold.  The huge doors are marked with runes of warding which warn all
+unpurrified to stay out.  Above the door is a huge carving depicting Yizzra
+the troglodyte God welcoming all loyal followers to come in.  
+~
+Flags 2052
+Reset M 3805 2 100
+Reset M 3805 2 100
+Door 1 0 0 3853 0 0
+~
+~
+Door 3 3 0 3856 30 30
+~
+golden doors~
+End
+
+#3856
+Name Temple of Yizzra~
+Descr
+You enter the evil temple of Yizzra all around you lay pews waiting to be
+set in and paintings and tapestries all over the walls.  The paintings
+depict the same old seen of Yizzra punnishing wayward races such as the
+skulk but you look closer at the paintings and notice that one shows another
+side Yizzra taking in the skulks that came back how strange.  
+~
+Flags 3147780
+Door 1 3 0 3854 30 30
+~
+golden doors~
+Door 3 0 0 3857 0 0
+~
+~
+End
+
+#3857
+Name Temple of Yizzra~
+Descr
+You are standing in the dreaded tepmle of Yizzra.  The walls are
+decorated with many paintings and tapestries depicting Yizzra defeating
+large armies of skulks and all goodly aligned races.  You get grim
+satisfaction in watching the tapestries knowing that no good creature can
+enter these domains and live.  
+~
+Flags 3147780
+Reset M 3802 1 100
+Reset O 3802 21 5
+Door 1 0 0 3856 0 0
+~
+~
+End
+
+#3858
+Name Marble Hallway~
+Descr
+You stand in a clean marble hallway which tends to lead in the westward
+direction.  All along the hallway you see many doors that run along the
+length of the hall.  Looking at the stones You notice one in particullar
+with an engraving written in it.  Lookin at the engraving you see the words
+"clergy".  
+~
+Flags 2053
+Sector 0
+Door 0 515 0 3859 30 30
+~
+wooden door~
+Door 1 0 0 3852 0 0
+~
+~
+Door 2 3 0 3860 30 30
+~
+wooden door~
+Door 3 0 0 3861 0 0
+~
+~
+End
+
+#3859
+Name Scribes Chambers~
+Descr
+You stand in a small room which appears to be furnished only with a
+table,chair,and bed.  Looking at the table you notice a troglodyte scribe
+sleeping after many long hours of translating Yizzra's sacred text.  
+~
+Flags 2052
+Reset M 3810 2 100
+Door 2 3 0 3858 30 30
+~
+wooden door~
+End
+
+#3860
+Name Scribes Chambers~
+Descr
+You stand in a small room which appears to be furnished only with a
+table,chair,and bed.  Looking at the table you notice a troglodyte scribe
+sleeping after many long hours of translating Yizzra's sacred text.  
+~
+Flags 2052
+Reset M 3810 2 100
+Door 0 3 0 3858 30 30
+~
+wooden door~
+End
+
+#3861
+Name Marble Hallway~
+Descr
+You continue walking down the marble hallway which appears to go on a
+while longer to Your north and south are two doors.  Looking at the doors
+you see symbols above the door showing these as being residency of the
+priests.  
+~
+Flags 2052
+Door 0 7 0 3862 30 30
+~
+Wooden door~
+Door 1 0 0 3858 0 0
+~
+~
+Door 2 7 0 3863 30 30
+~
+wooden door~
+Door 3 0 0 3864 0 0
+~
+~
+End
+
+#3862
+Name Priest Chambers~
+Descr
+You enter a sacred living quarters of the priest of Yizzra which seems to
+be scantly furnished.  Looking around all you notice is a small lamp in the
+corner and various religious objects laying around.  Looking at the objects
+you see hairshirts and pants used to curve lust and a small whip to beat the
+body into submision.  
+~
+Flags 2052
+Reset M 3811 3 100
+Reset O 3811 13 5
+Reset O 3811 14 5
+Door 2 7 0 3861 30 30
+~
+Wooden door~
+End
+
+#3863
+Name Priest Chambers~
+Descr
+You enter a sacred living quarters of the priest of Yizzra which seems to
+be scantly furnished.  Looking around all you notice is a small lamp in the
+corner and various religious objects laying around.  Looking at the objects
+you see hairshirts and pants used to curve lust and a small whip to beat the
+body into submision.  
+~
+Flags 2052
+Reset M 3811 3 100
+Reset O 3811 13 5
+Reset O 3811 14 5
+Door 0 7 0 3861 30 30
+~
+wooden door~
+End
+
+#3864
+Name Marble Hallway~
+Descr
+You come to the end of a long marble hallway just in front of you stands
+a set of doors leading south.  The hallway continues back to the east where
+you came from.  
+~
+Flags 2052
+Door 1 0 0 3861 0 0
+~
+~
+Door 2 3 0 3865 30 30
+~
+stone door~
+End
+
+#3865
+Name A Small Cavern~
+Descr
+You appear to be in a small cavern filled with a layer of dust which
+causes you to sneeze.  Looking carefully at the dust you notice many tracks
+leading north and south.  
+~
+Flags 2052
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 3 0 3864 30 30
+~
+stone door~
+Door 2 0 0 3866 0 0
+~
+~
+End
+
+#3866
+Name A Small Cavern~
+Descr
+You appear to be in a small cavern filled with a layer of dust which
+causes you to sneeze.  Looking carefully at the dust you notice many tracks
+leading north and south.  
+~
+Flags 2052
+Door 0 0 0 3865 0 0
+~
+~
+Door 2 0 0 3868 0 0
+~
+~
+Door 3 0 0 3867 0 0
+~
+~
+End
+
+#3867
+Name A Small Cavern~
+Descr
+You are standing in a small cavern filled with many stalactites and
+stalagmites.  Looking at the walls You can see the torch light dance back
+and forth off many unseen shadows created by the low hanging rocks.  
+~
+Flags 2052
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 1 0 0 3866 0 0
+~
+~
+Door 2 0 0 3869 0 0
+~
+~
+End
+
+#3868
+Name A Small Cavern~
+Descr
+You are standing in a small cavern filled with many stalactites and
+stalagmites.  Looking at the walls You can see the torch light dance back
+and forth off many unseen shadows created by the low hanging rocks.  
+~
+Flags 2052
+Door 0 0 0 3866 0 0
+~
+~
+Door 2 0 0 3870 0 0
+~
+~
+Door 3 0 0 3869 0 0
+~
+~
+End
+
+#3869
+Name A Small Cavern~
+Descr
+You are standing in the corner of a small cavern filled with dust. 
+Looking in the corner you ntoice a bedrole and some tools for cooking next
+ot a burnt out fire.  
+~
+Flags 2052
+Door 0 0 0 3867 0 0
+~
+~
+Door 1 0 0 3868 0 0
+~
+~
+End
+
+#3870
+Name A Small Hallway~
+Descr
+You are standing in a small hallway which runs north towards another
+cavern and to the east it leads to the main cavern.  Taking closer
+examination of the walls you notice they are made of some black substance
+maybe obsidian.  
+~
+Flags 2052
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3868 0 0
+~
+~
+Door 2 0 0 3871 0 0
+~
+~
+End
+
+#3871
+Name A Small Hallway~
+Descr
+You are standing in a small hallway which runs north towards another
+cavern and to the east it leads to the main cavern.  Taking closer
+examination of the walls you notice they are made of some black substance
+maybe obsidian.  
+~
+Flags 2052
+Door 0 0 0 3870 0 0
+~
+~
+Door 1 0 0 3872 0 0
+~
+~
+End
+
+#3872
+Name Entrance to a Small Hallway~
+Descr
+You are standing in a small hallway which runs north towards another
+cavern and to the east it leads to the main cavern.  Taking closer
+examination of the walls you notice they are made of some black substance
+maybe obsidian.  
+~
+Flags 2052
+Door 1 0 0 3841 0 0
+~
+~
+Door 3 0 0 3871 0 0
+~
+~
+End
+
+#3873
+Name Large Chamber~
+Descr
+You stand in the main lining area of the troglodyte people many
+troglodyte's step back and forth on their daily chores.  Peering around You
+notice many doors leading into many private dwellings.  The cahamber seems
+to span off twards the west and to the east you see a hole in the ceiling.  
+~
+Flags 2052
+Sector 0
+Door 0 3 0 3876 30 30
+~
+small door~
+Door 1 0 0 3848 0 0
+~
+~
+Door 2 3 0 3877 30 30
+~
+small door~
+Door 3 0 0 3874 0 0
+~
+~
+End
+
+#3874
+Name Large Chamber~
+Descr
+You stand in the main lining area of the troglodyte people many
+troglodyte's step back and forth on their daily chores.  Peering around You
+notice many doors leading into many private dwellings.  The cahamber seems
+to span off twards the west and to the east you see a hole in the ceiling.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 3 0 3878 30 30
+~
+small door~
+Door 1 0 0 3873 0 0
+~
+~
+Door 2 0 0 3902 0 0
+~
+~
+Door 3 0 0 3875 0 0
+~
+~
+End
+
+#3875
+Name Large Chamber~
+Descr
+You stand in the main lining area of the troglodyte people many
+troglodyte's step back and forth on their daily chores.  Peering around You
+notice many doors leading into many private dwellings.  The cahamber seems
+to span off twards the west and to the east you see a hole in the ceiling.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 0 3 0 3880 30 30
+~
+small door~
+Door 1 0 0 3874 0 0
+~
+~
+Door 2 3 0 3881 30 30
+~
+small door~
+Door 3 0 0 3882 0 0
+~
+~
+End
+
+#3876
+Name Private Home~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 2 3 0 3873 30 30
+~
+small door~
+End
+
+#3877
+Name ~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 0 3 0 3873 30 30
+~
+small door~
+End
+
+#3878
+Name Small Home~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 2 3 0 3874 30 30
+~
+small door~
+End
+
+#3879
+Name Peasants Home~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 1 3 0 3902 30 30
+~
+small door~
+End
+
+#3880
+Name a Little Home~
+Descr
+You stand in a small house of a trogloydte family.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 2 3 0 3875 30 30
+~
+small door~
+End
+
+#3881
+Name a Smelly Little Home~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  Looking on the table You notice half roten meat which
+causes even the flies to retreat.  
+~
+Flags 2052
+Sector 0
+Door 0 3 0 3875 30 30
+~
+small door~
+End
+
+#3882
+Name Large Chamber~
+Descr
+You have come to the end of the large chamber on to the west You notice
+another hallway that leads north and south and to the east you see many
+troglodytes dwellings.  
+~
+Flags 2052
+Door 1 0 0 3875 0 0
+~
+~
+Door 3 0 0 3883 0 0
+~
+~
+End
+
+#3883
+Name Amber Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plant life such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Door 0 0 0 3884 0 0
+~
+~
+Door 1 0 0 3882 0 0
+~
+~
+Door 2 0 0 3885 0 0
+~
+~
+End
+
+#3884
+Name Amber Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plant life such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3886 0 0
+~
+~
+Door 2 0 0 3883 0 0
+~
+~
+End
+
+#3885
+Name Amber Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plantlife such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Door 0 0 0 3883 0 0
+~
+~
+Door 2 0 0 3889 0 0
+~
+~
+End
+
+#3886
+Name Amber Tunnel~
+Descr
+You come to an end of the Amber tunnel and to the west You can see a
+small room lit by a small candle.  Looking to the south you continue to see
+the amber tunnel and the strange moss that grows here.  
+~
+Flags 2052
+Door 2 0 0 3884 0 0
+~
+~
+Door 3 0 0 3887 0 0
+~
+~
+End
+
+#3887
+Name Little Quarrey~
+Descr
+You enter a little rock quary used for the diferent bricks located in the
+cavern complex.  Looking around the area You see many stones laying about
+and many troglodytes at work shaping them into bricks or any other form of
+art know to the troglodyte people.  
+~
+Flags 2052
+Door 1 0 0 3886 0 0
+~
+~
+End
+
+#3889
+Name Amber Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plantlife such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Door 0 0 0 3885 0 0
+~
+~
+Door 2 0 0 3890 0 0
+~
+~
+End
+
+#3890
+Name Amber Tunnel~
+Descr
+You have entered an amber tunnel running north and south.  Looking both
+directions north and south all you can see is the continuation of this hall.
+Looking at the walls you notice a plantlife such as moss which glows an
+amber color i wonder how this hall got its name.  
+~
+Flags 2052
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 0 0 0 3889 0 0
+~
+~
+Door 3 0 0 3891 0 0
+~
+~
+End
+
+#3891
+Name Stone Quary~
+Descr
+You step into a small quary which is used for stones throughout the
+cavern complex.  All around you are troglodytes cutting furriosly at the
+stones trying to make them into any form usefull to there king.  
+~
+Flags 2054
+Sector 0
+Door 1 0 0 3890 0 0
+~
+~
+Door 5 0 0 3892 0 0
+~
+~
+End
+
+#3892
+Name a Small Shaft~
+Descr
+You descend down a small shaft which leads to god knows where.  As You
+desend You silently say you'r prayers to any god listening and continue
+you'r descent to the bottom.  
+~
+Flags 6
+Sector 0
+Door 4 0 0 3891 0 0
+~
+~
+Door 5 0 0 3893 0 0
+~
+~
+End
+
+#3893
+Name a Small Shaft~
+Descr
+The small shaft continues to go down.  As you look down you cab see the
+bottom in the distance and you say a prayer of thanks giving to god for not
+falling.  
+~
+Flags 5
+Sector 0
+Door 4 0 0 3892 0 0
+~
+~
+Door 5 0 0 3894 0 0
+~
+~
+End
+
+#3894
+Name a Huge Cavern~
+Descr
+You stand in what appears to be a huge cavern.  Examining the area all
+you can see is darkness all around you.  Listening to any sounds is
+fruitless here becuase all you hear is a faint drip of water every now and
+then.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 3895 0 0
+~
+~
+Door 3 0 0 3897 0 0
+~
+~
+Door 4 0 0 3893 0 0
+~
+~
+End
+
+#3895
+Name a Huge Cavern~
+Descr
+The cavern hear seems to go on forever in every direction.  Looking
+around all You can see is you'r shadow from your light source.  Looking
+closely at the shadow you can swear you though it moved.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 3894 0 0
+~
+~
+Door 3 0 0 3896 0 0
+~
+~
+End
+
+#3896
+Name a Huge Cavern~
+Descr
+The cavern hear seems to go on forever in every direction.  Looking
+around all You can see is you'r shadow from your light source.  Looking
+closely at the shadow you can swear you though it moved.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 3895 0 0
+~
+~
+Door 2 0 0 3897 0 0
+~
+~
+End
+
+#3897
+Name Huge Cavern~
+Descr
+You continue walking in this cavern and all that seems to keep you
+company is your footfall and your own shadow.  Listening closely you wonder
+what that another step i heard?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 3896 0 0
+~
+~
+Door 1 0 0 3894 0 0
+~
+~
+Door 2 0 0 3898 0 0
+~
+~
+Door 3 0 0 3899 0 0
+~
+~
+End
+
+#3898
+Name Huge Cavern~
+Descr
+You continue walking in this cavern and all that seems to keep you
+company is your footfall and your own shadow.  Listening closely you wonder
+what that another step i heard?  
+~
+Flags 5
+Sector 0
+Door 0 0 0 3897 0 0
+~
+~
+Door 3 0 0 3900 0 0
+~
+~
+End
+
+#3899
+Name Shady Cavern~
+Descr
+The cavern here looks very spooky shadows seem to dance off the walls
+here.  Looking closely at the shadows you laugh as you realize that they are
+only paintings done many years ago but worn away by time.  
+~
+Flags 5
+Sector 0
+Reset M 3804 20 100
+Reset O 3803 7 10
+Reset O 3804 4 10
+Reset O 3805 6 10
+Reset O 3806 9 10
+Reset O 3807 5 10
+Reset O 3808 21 10
+Door 1 0 0 3897 0 0
+~
+~
+Door 2 0 0 3900 0 0
+~
+~
+End
+
+#3900
+Name Shady Cavern~
+Descr
+The cavern here looks very spooky shadows seem to dance off the walls
+here.  Looking closely at the shadows you laugh as you realize that they are
+only paintings done many years ago but worn away by time.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 3899 0 0
+~
+~
+Door 1 0 0 3898 0 0
+~
+~
+End
+
+#3901
+Name Kings private chambers~
+Descr
+You have entered the kings private chambers.  All along the walls and the
+floor lie rich tapestries and carpet.  In the middle of the room you see a
+large plush bed with several concubines laying on it.  
+~
+Flags 2052
+Sector 0
+Reset M 3815 4 100
+Reset M 3815 4 100
+Reset M 3815 4 100
+Reset M 3815 4 100
+Door 1 1 0 3822 30 30
+~
+gold door~
+Door 2 259 0 3949 30 30
+~
+tapestry~
+End
+
+#3902
+Name Dead skulk road~
+Descr
+You are walking down dead skulk road.  The road was named after a famous
+battle among the troglodyte people where the troglodytes annihilated the
+skulk community in this cavern.  All along this small road are doors
+entering small houses.  The road continues to goto the north and south 
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3874 0 0
+~
+~
+Door 1 3 0 3906 30 30
+~
+small door~
+Door 2 0 0 3903 0 0
+~
+~
+Door 3 3 0 3879 30 30
+~
+small door~
+End
+
+#3903
+Name Dead skulk road~
+Descr
+You are walking down dead skulk road.  The road was named after a famous
+battle among the troglodyte people where the troglodytes annihilated the
+skulk community in this cavern.  All along this small road are doors
+entering small houses.  The road continues to goto the north and south 
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 0 0 0 3902 0 0
+~
+~
+Door 1 3 0 3908 30 30
+~
+small door~
+Door 2 0 0 3904 0 0
+~
+~
+Door 3 3 0 3907 30 30
+~
+small door~
+End
+
+#3904
+Name Dead skulk road~
+Descr
+You are walking down dead skulk road.  The road was named after a famous
+battle among the troglodyte people where the troglodytes annihilated the
+skulk community in this cavern.  All along this small road are doors
+entering small houses.  The road continues to goto the north and south 
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3903 0 0
+~
+~
+Door 1 3 0 3910 30 30
+~
+small door~
+Door 2 0 0 3905 0 0
+~
+~
+Door 3 3 0 3909 30 30
+~
+small door~
+End
+
+#3905
+Name Troglodyte village square~
+Descr
+You are now in the villages central square.  In the center of the square
+lies a old fountain with green muck growing on the bottom.  To the north
+lies dead skulk road ,to the east lies the fabled pools of Kaazor and to the
+south lies the Sssriah road.  
+~
+Flags 2052
+Reset M 3812 25 100
+Reset O 1046 -5 100
+Door 0 0 0 3904 0 0
+~
+~
+Door 1 0 0 3933 0 0
+~
+~
+Door 2 0 0 3911 0 0
+~
+~
+End
+
+#3906
+Name a small home~
+Descr
+You are within a small troglodyte home.  In the corner of the room you
+see a simple table and chairs while against the wall lies a pile of moss
+wich appears to be used as a bed.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 3 3 0 3902 30 30
+~
+small door~
+End
+
+#3907
+Name A rich dwelling~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Door 1 3 0 3903 30 30
+~
+small door~
+End
+
+#3908
+Name A rich dwelling~
+Descr
+You have entered into a very weathy troglodytes home all along the wall
+There are colorfull tapestries and plush rugs lie on the floor.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 3 3 0 3903 30 30
+~
+small door~
+End
+
+#3909
+Name A small house~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 1 3 0 3904 30 30
+~
+small door~
+End
+
+#3910
+Name A small house~
+Descr
+You are within a small troglodyte home.  In the corner of the room you
+see a simple table and chairs while against the wall lies a pile of moss
+wich appears to be used as a bed.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 3 3 0 3904 30 30
+~
+small door~
+End
+
+#3911
+Name Sssriah road~
+Descr
+You are on what appears to be the market place of this village.  To the
+west you see a small shop with a sign above the door that says 'the stone
+shop' while to the east lies a simple home.  The road continues to go north
+and south 
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3905 0 0
+~
+~
+Door 1 3 0 3930 30 30
+~
+small door~
+Door 2 0 0 3912 0 0
+~
+~
+Door 3 3 0 3929 30 30
+~
+small door~
+End
+
+#3912
+Name Sssriah road~
+Descr
+As you walk south you see more shops and houses lining the road.  To the
+west lies the villages bank while to the east lies a home.  The road
+continues to go south.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 0 0 0 3911 0 0
+~
+~
+Door 1 3 0 3932 30 30
+~
+small door~
+Door 2 0 0 3913 0 0
+~
+~
+Door 3 3 0 3931 30 30
+~
+small door~
+End
+
+#3913
+Name Bend in the road~
+Descr
+You have entered what appears to be an intersection.  Reading a sign on
+the wall you see that the road south goes to the troglodyte farms while the
+road to the east goes to the hatchery.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3912 0 0
+~
+~
+Door 2 0 0 3937 0 0
+~
+~
+Door 3 0 0 3914 0 0
+~
+~
+End
+
+#3914
+Name Sssriah road~
+Descr
+Walking on the road you see that the houses and shops no longer line the
+sides of the road.  To the north and south were the shops should be just
+loom the walls of the tunnel you are walking in while to the east and west
+the road continues.  
+~
+Flags 2052
+Sector 0
+Door 1 0 0 3913 0 0
+~
+~
+Door 3 0 0 3915 0 0
+~
+~
+End
+
+#3915
+Name Sssriah road~
+Descr
+Sssriah road comes to an abrupt halt.  To the south lies a set of massive
+double doors.  Looking at the wooden doors more closely you see many
+carvings of skulks being slaughtered in what appears to be a glorious
+battle.  Up above the door is a sign that reads Trog hatchery and nursury be
+very quiet..  
+~
+Flags 2052
+Sector 0
+Door 1 0 0 3914 0 0
+~
+~
+Door 2 3 0 3916 30 30
+~
+large wooden door~
+End
+
+#3916
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 0 3 0 3915 30 30
+~
+large wooden door~
+Door 1 0 0 3924 0 0
+~
+~
+Door 2 0 0 3917 0 0
+~
+~
+End
+
+#3917
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3916 0 0
+~
+~
+Door 1 0 0 3923 0 0
+~
+~
+Door 2 0 0 3918 0 0
+~
+~
+Door 3 0 0 3925 0 0
+~
+~
+End
+
+#3918
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3917 0 0
+~
+~
+Door 1 0 0 3919 0 0
+~
+~
+Door 3 0 0 3926 0 0
+~
+~
+End
+
+#3919
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3923 0 0
+~
+~
+Door 1 0 0 3920 0 0
+~
+~
+Door 3 0 0 3918 0 0
+~
+~
+End
+
+#3920
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 0 0 0 3921 0 0
+~
+~
+Door 3 0 0 3919 0 0
+~
+~
+End
+
+#3921
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3922 0 0
+~
+~
+Door 2 0 0 3920 0 0
+~
+~
+Door 3 0 0 3923 0 0
+~
+~
+End
+
+#3922
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 2 0 0 3921 0 0
+~
+~
+Door 3 0 0 3924 0 0
+~
+~
+End
+
+#3923
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 0 0 0 3924 0 0
+~
+~
+Door 1 0 0 3921 0 0
+~
+~
+Door 2 0 0 3919 0 0
+~
+~
+Door 3 0 0 3917 0 0
+~
+~
+End
+
+#3924
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 1 0 0 3922 0 0
+~
+~
+Door 2 0 0 3923 0 0
+~
+~
+Door 3 0 0 3916 0 0
+~
+~
+End
+
+#3925
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 1 0 0 3917 0 0
+~
+~
+Door 2 0 0 3926 0 0
+~
+~
+Door 3 0 0 3928 0 0
+~
+~
+End
+
+#3926
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 0 0 0 3925 0 0
+~
+~
+Door 1 0 0 3918 0 0
+~
+~
+Door 3 0 0 3927 0 0
+~
+~
+End
+
+#3927
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Reset M 3816 20 100
+Reset M 3816 20 100
+Door 0 0 0 3928 0 0
+~
+~
+Door 1 0 0 3926 0 0
+~
+~
+End
+
+#3928
+Name Hatchling chamber~
+Descr
+You stand in what appears to be the troglodyte hatchery and nursery. 
+This room lacks all the comforts that you would expect in any childs
+room,having only a rough stone floor and cold stone walls.  All around you
+you hear the hissing of newborn and baby troglodytes.  
+~
+Flags 2052
+Sector 0
+Door 1 0 0 3925 0 0
+~
+~
+Door 2 0 0 3927 0 0
+~
+~
+End
+
+#3929
+Name Zaarons stone shop~
+Descr
+You stand in a small stone shop.  All along the walls are display cases
+filled with all sorts of rocks cut in every way you can imagine.  Before you
+stands the famed stone cutter Zaaron.  He looks towards you and stretches
+his arms over the display case and says 'what can i help you with.  
+~
+Flags 2052
+Sector 0
+Reset M 3813 1 100
+Reset O 3816 1 1
+Reset O 3818 1 1
+Reset O 3820 1 1
+Reset O 3821 1 1
+Reset O 3823 1 1
+Reset O 3824 1 1
+Door 1 3 0 3911 30 30
+~
+small door~
+End
+
+#3930
+Name A small home~
+Descr
+You are within a small troglodyte home.  In the corner of the room you
+see a simple table and chairs while against the wall lies a pile of moss
+wich appears to be used as a bed.  
+~
+Flags 2052
+Sector 0
+Reset M 3812 25 100
+Door 3 3 0 3911 30 30
+~
+small door~
+End
+
+#3931
+Name Troggos strong house~
+Descr
+This bank is a small building that looks like it was a converted house. 
+Looking at the back wall you see a massive stone door that maeks you wonder
+if the most powerfull mage in the realm could even bust through that door.  
+~
+Flags 2052
+Sector 0
+Reset M 3814 1 100
+Door 1 3 0 3912 30 30
+~
+small door~
+End
+
+#3932
+Name Troglodyte dwelling~
+Descr
+You stand in a small house of a trogloydte fammily.  Lookin around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Flags 2099204
+Sector 0
+Reset M 3812 25 100
+Door 3 3 0 3912 30 30
+~
+small door~
+End
+
+#3933
+Name Road to Kaazor~
+Descr
+You are walking down a very large tunnel.  The sign identified this road
+as the road to Kaazor.  Now legend says that Kaazor was raised in this town
+right here.  But when he grew he realised that the way his people were going
+was not the right path.  So he taught his people to love the enemies as
+brothers he also spoke out in blaspemy against the troglodytes gods and said
+there was only one god and we were to serve him.  He continued to preach and
+gather a large crowd until he was violently murdered by the temple priests. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 3934 0 0
+~
+~
+Door 3 0 0 3905 0 0
+~
+~
+End
+
+#3934
+Name Road to Kaazor~
+Descr
+You are walking down a very large tunnel.  The sign identified this road
+as the road to Kaazor.  Now legend says that Kaazor was raised in this town
+right here.  But when he grew he realised that the way his people were going
+was not the right path.  So he taught his people to love the enemies as
+brothers he also spoke out in blaspemy against the troglodytes gods and said
+there was only one god and we were to serve him.  He continued to preach and
+gather a large crowd until he was violently murdered by the temple priests. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 3935 0 0
+~
+~
+Door 3 0 0 3933 0 0
+~
+~
+End
+
+#3935
+Name Road to Kaazor~
+Descr
+You are walking down a very large tunnel.  The sign identified this road
+as the road to Kaazor.  Now legend says that Kaazor was raised in this town
+right here.  But when he grew he realised that the way his people were going
+was not the right path.  So he taught his people to love the enemies as
+brothers he also spoke out in blaspemy against the troglodytes gods and said
+there was only one god and we were to serve him.  He continued to preach and
+gather a large crowd until he was violently murdered by the temple priests. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 3936 0 0
+~
+~
+Door 3 0 0 3934 0 0
+~
+~
+End
+
+#3936
+Name The fabled pool of Kaazor~
+Descr
+Before you rests the fabled pool of Kaazor.  It appears to be a calm blue
+pool of water.  Looking above the pool you see an image of a very old
+troglodyte.  As you step closer to him he points to your wounds then to the
+water.  
+~
+Flags 6
+Sector 0
+Reset M 3817 1 100
+Reset O 3819 -5 100
+Door 3 0 0 3935 0 0
+~
+~
+End
+
+#3937
+Name A small worn tunnel~
+Descr
+This tunnel appears to be very small.  At first you think of it as and
+abandoned tunnel but looking closely you see many wheel ruts on the ground
+as if wagons come here all the time.  The tunnel continues to the north and
+south.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3913 0 0
+~
+~
+Door 2 0 0 3938 0 0
+~
+~
+End
+
+#3938
+Name A small worn tunnel~
+Descr
+This tunnel appears to be very small.  At first you think of it as and
+abandoned tunnel but looking closely you see many wheel ruts on the ground
+as if wagons come here all the time.  The tunnel continues to the north and
+south.  
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3937 0 0
+~
+~
+Door 1 0 0 3939 0 0
+~
+~
+End
+
+#3939
+Name A small worn tunnel~
+Descr
+This tunnel appears to be very small.  At first you think of it as and
+abandoned tunnel but looking closely you see many wheel ruts on the ground
+as if wagons come here all the time.  The tunnel continues to the west and
+south.  
+~
+Flags 2054
+Sector 0
+Door 2 0 0 3940 0 0
+~
+~
+Door 3 0 0 3938 0 0
+~
+~
+End
+
+#3940
+Name A Cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset O 3825 -5 60
+Reset M 3818 5 100
+Door 0 0 0 3939 0 0
+~
+~
+Door 2 0 0 3941 0 0
+~
+~
+End
+
+#3941
+Name A Cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset O 3825 -5 60
+Door 0 0 0 3940 0 0
+~
+~
+Door 1 0 0 3947 0 0
+~
+~
+Door 2 0 0 3942 0 0
+~
+~
+End
+
+#3942
+Name A Cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset M 3818 5 100
+Reset O 3825 -5 60
+Door 0 0 0 3941 0 0
+~
+~
+Door 1 0 0 3946 0 0
+~
+~
+Door 2 0 0 3943 0 0
+~
+~
+End
+
+#3943
+Name A Cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset O 3825 -5 60
+Door 0 0 0 3942 0 0
+~
+~
+Door 1 0 0 3944 0 0
+~
+~
+End
+
+#3944
+Name A Caver full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset O 3825 -5 60
+Door 0 0 0 3946 0 0
+~
+~
+Door 1 0 0 3945 0 0
+~
+~
+Door 3 0 0 3943 0 0
+~
+~
+End
+
+#3945
+Name Before a small house~
+Descr
+You stand before a small run down shack.  Looking around the outside you
+see many tools associated with the trade of a mushroom farmer.  Hmm this
+must be the farmers house.  
+~
+Door 1 3 0 3948 30 30
+~
+small wooden door~
+Door 3 0 0 3944 0 0
+~
+~
+End
+
+#3946
+Name A Cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset M 3818 5 100
+Reset O 3825 -5 60
+Door 0 0 0 3947 0 0
+~
+~
+Door 2 0 0 3944 0 0
+~
+~
+Door 3 0 0 3942 0 0
+~
+~
+End
+
+#3947
+Name A cavern full of mushrooms~
+Descr
+Before you looms an emmense cavern.  All along the floors of this cavern
+grow a small yet edible mushroom.  Looking off into the distance you see
+many troglodyte farmers working to harvest this years crop.  
+~
+Flags 2052
+Sector 0
+Reset M 3818 5 100
+Reset O 3825 -5 60
+Door 2 0 0 3946 0 0
+~
+~
+Door 3 0 0 3941 0 0
+~
+~
+End
+
+#3948
+Name Inside a small farmers house~
+Descr
+You stand in a small house of a trogloydte fammily.  Looking around you
+you see nothing out of the ordinary just a small bed and a table used to
+prepare food on.  
+~
+Reset M 3818 5 100
+Door 3 3 0 3945 30 30
+~
+small wooden door~
+End
+
+#3949
+Name Secret Passage~
+Descr
+~
+Flags 2052
+Sector 0
+Door 0 259 0 3901 30 30
+~
+tapestry~
+Door 2 0 0 3950 0 0
+~
+~
+End
+
+#3950
+Name Secret Passage~
+Descr
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3949 0 0
+~
+~
+Door 2 0 0 3951 0 0
+~
+~
+End
+
+#3951
+Name Secret Passage~
+Descr
+~
+Flags 2052
+Sector 0
+Door 0 0 0 3950 0 0
+~
+~
+Door 1 259 0 3821 30 30
+~
+picture~
+End
+
+#0
+
+
+
+#$

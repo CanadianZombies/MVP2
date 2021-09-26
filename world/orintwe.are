@@ -1,0 +1,777 @@
+#AREADATA 
+Name Tower/Dungeon~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 70101 70150
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#70101
+Name skeleton animated~
+Short an animated skeleton~
+Long 
+An animated skeleton wanders here, looking for flesh to feast upon.
+~
+Descr
+This skeleton is covered with dust, and it looks as if he wasn't moving
+around before you showed up!  Now he wants to eat you for dinner; bummer... 
+~
+AMax 2
+NHeight 0
+ActBits 25
+Affect_By 40
+Alignment -100
+Money 14
+Level 14
+Sex 1
+MobType 9
+Guard 0
+End
+
+#70102
+Name ghost~
+Short a ghost~
+Long 
+A ghost floats around here, pulsing with unholy energy.
+~
+Descr
+This frightening ghost stares at you with cold eyes; you can feel a great
+hatred and a chilly feeling of death creep up your spine as you stare back. 
+~
+AMax 2
+NHeight 0
+ActBits 11
+Affect_By 8
+Money 38
+Level 38
+MobType 21
+Guard 0
+End
+
+#70103
+Name tower spirit guard guardian~
+Short a guardian spirit~
+Long 
+A guardian spirit hovers in mid-air here, guarding the tower.
+~
+Descr
+This spirit looks quite upset that you have disturbed the tower.  Perhaps
+you will know better next time?...  
+~
+AMax 2
+NHeight 0
+ActBits 11
+Affect_By 65576
+Money 22
+Level 22
+MobType 21
+Guard 0
+End
+
+#70104
+Name baby beholder~
+Short a baby beholder~
+Long 
+A baby beholder hovers here; it's eyes all looking straight at you!
+~
+Descr
+This horrible, slimy creature seems to eminate a cold magic that sends
+shivers up your spine.  Several of this baby beholder's eyes have not
+developed yet, and clear, thin skin covers small holes of ooze on the
+beholder.  
+~
+AMax 2
+NHeight 0
+ActBits -2147483637
+Affect_By 552
+Alignment -100
+Money 56
+Level 56
+Sex 1
+MobType 5
+Guard 0
+End
+
+#70105
+Name large beholder~
+Short a large beholder~
+Long 
+A large beholder hovers before you, about to rip you apart.
+~
+Descr
+This massive beast seems to be filling the tower with a powerful death
+energy.  The beholder must be at least twenty feet tall, and every inch of
+its body radiates magic!  
+~
+AMax 1
+NHeight 0
+ActBits -2147483637
+ActBits3 1
+Affect_By 552
+Alignment -40
+Money 200
+Level 200
+Sex 1
+MobType 5
+Guard 70103
+End
+
+#70106
+Name phantom warrior~
+Short the phantom warrior~
+Long 
+The great phantom warrior of the ancients hovers here, keeping guard.
+~
+Descr
+This great warrior seems to be stuck here, or perhaps he is guarding
+something.  You find it odd that such a great good warrior of the ancients
+is in this evil-feeling place.  
+~
+Attackmsg claw~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment 500
+Money 94
+Level 94
+MobType 21
+Guard 0
+RaceHate 134217728
+End
+
+#0
+
+
+
+#OBJDATA
+#70101
+Name gray stone key~
+Short a gray, stone key~
+Descr
+A gray stone key lies here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#70102
+Name ring small quartz SAVE HIDE AC~
+Short a small [1m[36mquartz[0m ring~
+Descr
+A small quartz ring lies here, cool to the touch.
+[0;36m~
+Type 8
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 0 0 0
+Weight 0
+Cost 914
+Affect 20 -1 1 0 0
+Affect 24 2 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#70103
+Name girdle dark MOVE HIT~
+Short a dark girdle~
+Descr
+A dark girdle lies here on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 10 10 50 50 10 1
+Weight 2
+Cost 14855
+Affect 14 8 1 0 0
+Affect 18 1 1 0 0
+End
+
+#70104
+Name eye small beholder baby AC SAVE~
+Short a baby beholder eye~
+Descr
+One of the eyes of a baby beholder is here on the ground.
+[0;36m~
+Type 1
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30000 -1 1 1 0 0 0 0 0 0
+Weight 1
+Cost 3821
+Affect 17 -2 1 0 0
+Affect 20 -2 1 0 0
+End
+
+#70106
+Name phantom axe~
+Short the phantom axe~
+Descr
+The legendary phantom axe of the ancients is here on the ground.
+[0;36m~
+Type 5
+Extra 10485761
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 5 5 0
+Weight 0
+Cost 23948
+End
+
+#0
+
+
+
+#ROOMDATA
+#70101
+Name A Dark Path through Light Forest~
+Descr
+The dark trees are bent in unnatural shapes, and you feel a sense of
+imminent doom as you look south.  The path seems to lighted up a bit to the
+west, and you wonder if you really want to continue south.  
+~
+Reset M 70005 1 100
+Movemess
+(null)~
+Door 1 0 0 70121 0 0
+~
+~
+Door 2 0 0 70102 30 30
+~
+(null)~
+Door 3 0 0 70029 30 30
+~
+(null)~
+End
+
+#70102
+Name At a Ruined Stone Tower~
+Descr
+You stand at a ruined tower, located in a grass clearing.  You can't hear
+any birds or other small animals, and it just adds to the feeling of dread
+you have been sensing for a while now.  The tower has crumbled, and the only
+way you can see to enter would be to move some of the loose stones on the
+ground.  A staircase leads up, but ends abruptly at a place where the tower
+was seemingly ripped off from its foundation by some evil energy.  
+~
+Flags 2
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 70101 30 30
+~
+(null)~
+Door 1 0 0 70122 0 0
+~
+~
+Door 5 3 0 70103 30 30
+~
+stones~
+End
+
+#70103
+Name A Dark Stone Stairway~
+Descr
+You stand in a cold, stone room.  A stairway seems to lead up into the
+ceiling, and you can make out a lock on a trapdoor on the floor.  The rock
+walls are cracked, creating many little hiding places for bugs and dust.  
+~
+Flags 5
+Sector 0
+Reset O 70101 -5 100
+Reset M 70103 2 100
+Reset M 70103 2 44
+Reset O 70102 1 9
+Movemess
+(null)~
+Door 4 3 0 70102 30 30
+~
+stones~
+Door 5 23 4565 70104 30 30
+~
+trapdoor~
+End
+
+#70104
+Name Beneath a Ruined Tower~
+Descr
+You stand far beneath a ruined stone tower.  You can see a dark, ominous
+looking passageway to the east, and stone rooms to the south and west. 
+There is also a strange trapdoor with a keyhole in the ceiling.  
+~
+Flags 7
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 70105 30 30
+~
+(null)~
+Door 2 0 0 70109 30 30
+~
+(null)~
+Door 3 0 0 70107 30 30
+~
+(null)~
+Door 4 23 4565 70103 30 30
+~
+trapdoor~
+End
+
+#70105
+Name A Dark Passageway~
+Descr
+You stand in a dark passageway which seems to eminate a great energy of
+death and doom.  The passage curves to the north, and you can see a stone
+room to the west of here.  
+~
+Flags 5
+Sector 0
+Reset M 70102 2 100
+Movemess
+(null)~
+Door 0 0 0 70106 30 30
+~
+(null)~
+Door 3 0 0 70104 30 30
+~
+(null)~
+End
+
+#70106
+Name A Caved-in Stone Passageway~
+Descr
+The passageway apparently continued north, but from the looks of the huge
+rocks and rubble to the north where a massive cave-in occurred, you probably
+won't be travelling any further in that direction.  
+~
+Flags 5
+Sector 0
+Reset M 70106 1 6
+Reset O 70106 21 4
+Movemess
+(null)~
+Door 2 0 0 70105 30 30
+~
+(null)~
+End
+
+#70107
+Name A Musty, Stone Room~
+Descr
+You stand in a stone room.  The air is thick and damp, and the smell of
+the room sends shivers up your spine.  You can see a stone room to the east,
+similar to this one, and another stone room to the south.  
+~
+Flags 5
+Sector 0
+Reset M 70101 3 100
+Movemess
+(null)~
+Door 1 0 0 70104 30 30
+~
+(null)~
+Door 2 0 0 70108 30 30
+~
+(null)~
+End
+
+#70108
+Name A Musty, Stone Room~
+Descr
+This stone room is covered with dust, and looks like it is not a popular
+stop on the tour of the lands.  As you move around the room, small clouds of
+dust rise up from the floor and make your eyes tear.  
+~
+Flags 5
+Sector 0
+Reset M 70101 3 100
+Movemess
+(null)~
+Door 0 0 0 70107 30 30
+~
+(null)~
+Door 1 0 0 70109 30 30
+~
+(null)~
+End
+
+#70109
+Name A Musty, Stone Room~
+Descr
+The room is musty and the air is wet, causing your stomach to
+involuntarily spasm.  You can see a strange stairway to the east, and more
+stone rooms to the west and north.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70104 30 30
+~
+(null)~
+Door 1 0 0 70110 30 30
+~
+(null)~
+Door 3 0 0 70108 30 30
+~
+(null)~
+End
+
+#70110
+Name A Stone Stairway~
+Descr
+You stand atop a stone stairway leading further down into darkness.  You
+can see a stone room to the west, but the dust in the air makes it difficult
+to get your sense of direction.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 3 0 0 70109 30 30
+~
+(null)~
+Door 5 0 0 70111 30 30
+~
+(null)~
+End
+
+#70111
+Name A Cold Stone Room~
+Descr
+You stand in a non-descript, stone room.  The air is extremely chilly,
+and smells of water and soil.  A stairway leads up into the darkness, and
+the room continues to the south.  
+~
+Flags 7
+Sector 0
+Reset M 70102 2 100
+Movemess
+(null)~
+Door 2 0 0 70112 30 30
+~
+(null)~
+Door 4 0 0 70110 30 30
+~
+(null)~
+End
+
+#70112
+Name A Cold Stone Room~
+Descr
+You stand in a non-descript, stone room.  The air is extremely chilly,
+and smells of water and soil.  The stone room continues to the north, and
+the symbols of death on the trapdoor on the ground make you think it would
+be wise not to go any further below the tower.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 70111 30 30
+~
+(null)~
+Door 5 3 0 70113 30 30
+~
+trapdoor~
+End
+
+#70113
+Name Deep Beneath the Ruined Tower~
+Descr
+You have apparently reached the deepest level of the ruined tower, and
+the chill in the air is incredible.  A strange power seems to bite into your
+soul, and you feel a strange force trying to push you back up from where you
+came.  
+~
+Flags 5
+Sector 0
+Reset M 70104 2 100
+Movemess
+(null)~
+Door 3 0 0 70114 30 30
+~
+(null)~
+Door 4 3 0 70112 30 30
+~
+trapdoor~
+End
+
+#70114
+Name Deep Beneath the Ruined Tower~
+Descr
+All around you are earthen walls, except for the east, where the stone
+walls of the tower seem to begin.  A strange, cold feeling passes over you,
+and you fear for your safety.  
+~
+Flags 5
+Sector 0
+Reset M 70104 2 100
+Reset O 70104 5 23
+Reset M 70105 1 100
+Reset O 59 1 1
+Reset O 70103 -1 1
+Movemess
+(null)~
+Door 1 0 0 70113 30 30
+~
+(null)~
+End
+
+#70115
+Name A Fresh Water Spring~
+Descr
+Water gushes out of the ground sending waves crashing all around you
+before rushing southward. To the north and east is a huge jagged cliff, a
+tower to the west, and moving water to the south. 
+~
+Sector 6
+Door 1 0 0 70123 0 0
+~
+~
+Door 2 0 0 70116 0 0
+~
+~
+End
+
+#70116
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70115 0 0
+~
+~
+Door 1 0 0 70124 0 0
+~
+~
+Door 2 0 0 70117 0 0
+~
+~
+End
+
+#70117
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70116 0 0
+~
+~
+Door 1 0 0 70125 0 0
+~
+~
+Door 2 0 0 70118 0 0
+~
+~
+End
+
+#70118
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70117 0 0
+~
+~
+Door 1 0 0 70126 0 0
+~
+~
+Door 2 0 0 70119 0 0
+~
+~
+End
+
+#70119
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70118 0 0
+~
+~
+Door 1 0 0 70127 0 0
+~
+~
+Door 2 0 0 70120 0 0
+~
+~
+End
+
+#70120
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70119 0 0
+~
+~
+Door 1 0 0 4039 0 0
+~
+~
+End
+
+#70121
+Name A Fresh Water Spring~
+Descr
+Water gushes out of the ground sending waves crashing all around you
+before rushing southward. To the north and east is a huge jagged cliff, a
+tower to the west, and moving water to the south. 
+~
+Sector 6
+Door 2 0 0 70122 0 0
+~
+~
+Door 3 0 0 70101 0 0
+~
+~
+End
+
+#70122
+Name A Fresh Water Spring~
+Descr
+Water gushes out of the ground sending waves crashing all around you
+before rushing southward. To the north and east is a huge jagged cliff, a
+tower to the west, and moving water to the south. 
+~
+Sector 6
+Door 0 0 0 70121 0 0
+~
+~
+Door 2 0 0 70123 0 0
+~
+~
+Door 3 0 0 70102 0 0
+~
+~
+End
+
+#70123
+Name A Fresh Water Spring~
+Descr
+Water gushes out of the ground sending waves crashing all around you
+before rushing southward. To the north and east is a huge jagged cliff, a
+tower to the west, and moving water to the south. 
+~
+Sector 6
+Door 0 0 0 70122 0 0
+~
+~
+Door 2 0 0 70124 0 0
+~
+~
+Door 3 0 0 70115 0 0
+~
+~
+End
+
+#70124
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70123 0 0
+~
+~
+Door 2 0 0 70125 0 0
+~
+~
+Door 3 0 0 70116 0 0
+~
+~
+End
+
+#70125
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70124 0 0
+~
+~
+Door 2 0 0 70126 0 0
+~
+~
+Door 3 0 0 70117 0 0
+~
+~
+End
+
+#70126
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70125 0 0
+~
+~
+Door 2 0 0 70127 0 0
+~
+~
+Door 3 0 0 70118 0 0
+~
+~
+End
+
+#70127
+Name The Rapids~
+Descr
+Look out below!  The rush of water and wind towards the south confirms
+that there is a drop off coming!  Grab hold of your stuff because unless you
+are flying, you are about to go for a plunge!  
+~
+Sector 6
+Door 0 0 0 70126 0 0
+~
+~
+Door 2 0 0 4039 0 0
+~
+~
+Door 3 0 0 70119 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

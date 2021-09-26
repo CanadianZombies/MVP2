@@ -1,0 +1,5290 @@
+#AREADATA 
+Name Lair of the Balrog~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mDemonic chanting can be heard from nearby.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Lanfear~
+VNUMs 2200 2399
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#2201
+Name huge balrog flaming beast~
+Short a balrog~
+Long 
+A 20-foot monstrous creature stands here.
+~
+Descr
+Standing on tree-trunk legs, this 20 foot behemoth towers over you. Grinning
+(and showing far too many teeth) it advances upon you, drool dripping
+from it's gaping maw.
+ 
+Are you ever fucked.
+~
+AMax 1
+NHeight 240
+ActBits 2
+Affect_By 650
+Alignment -1000
+Money 250
+Level 250
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+BCasts falling star~
+BCasts Balefire~
+BCasts vulnerability~
+BCast_P 5
+End
+
+#2202
+Name guard humanoid large~
+Short a guard~
+Long 
+A guard stands here, barring the way to the west.
+~
+Descr
+Dressed wholly in a suit of armour (at least you THINK it's armor - not his
+skin) you cannot tell of what race this guardian is. One thing's for sure
+however, he does not look well-disposed towards you, and he doesn't look
+like he's gonna let you past him.
+~
+AMax 4
+NHeight 0
+ActBits 201326594
+ActBits3 2
+Affect_By 524936
+Alignment -1000
+Money 75
+Level 75
+MobType 0
+Guard 3
+Spec spec_warrior
+End
+
+#2203
+Name onyx golem evil black beast~
+Short an Onyx Golem~
+Long 
+An onyx golem stands here.
+~
+Descr
+Standing 15 feet tall, and with sledge-hammer like fists, this golem seems
+ready to pound the living snot out of anyone who gets in his way.
+~
+AMax 2
+NHeight 0
+ActBits3 532480
+ActBits4 4096
+Affect_By 520
+Alignment -500
+Money 101
+Level 101
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#2204
+Name white statue good~
+Short a White statue~
+Long 
+A noble looking statue stands here.
+~
+Descr
+Standing here is a 14 foot statue of a humanoid, carrying a
+large halberd. His stern visage seems to bore into you, and you could
+swear that you just saw his hand move...
+~
+AMax 2
+NHeight 150
+ActBits 1073741824
+ActBits3 540672
+ActBits4 4096
+Affect_By 520
+Alignment 500
+Money 101
+Level 101
+MobType 15
+Guard 0
+Spec spec_warrior
+End
+
+#2205
+Name black knight evil champion beast~
+Short an Evil Knight~
+Long 
+Evil's champion is astride his mount here.
+~
+Descr
+Full black plate armour is all that can be seen of this knight, save 2 red
+glowing eyes visible from behind his visor.
+~
+AMax 2
+NHeight 80
+ActBits3 8192
+Affect_By 8712
+Alignment -500
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2206
+Name white knight good~
+Short a White Knight~
+Long 
+A champion of all that is just and righteous stands here.
+~
+Descr
+~
+AMax 2
+NHeight 76
+ActBits 1073741824
+ActBits3 16384
+ActBits4 4096
+Affect_By 8712
+Alignment 500
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2207
+Name evil black cleric elf drow beast~
+Short an Evil Cleric~
+Long 
+A drow stands here, wearing the black robes of an evil cleric.
+~
+Descr
+Velvet black robes make it hard to determine where the drow ends and where
+the shadows begin. Glancing at you with pale eyes, the cleric lets out a hiss.
+~
+AMax 2
+NHeight 0
+ActBits3 8192
+ActBits4 4096
+Affect_By 648
+Alignment -500
+Money 101
+Level 101
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts divine healing~
+BCast_P 10
+End
+
+#2208
+Name wise holy white good bishop~
+Short a Holy Bishop~
+Long 
+A wise looking man is here, dressed in the white robes of a bishop.
+~
+Descr
+With a serene look and clothed in pure white robes, this individual exudes
+an aura of peace and contentment. With the grim set of his jaw and the pious
+fire in his eyes, he exudes an aura of righteous fury.
+~
+AMax 2
+NHeight 0
+ActBits 1073741824
+ActBits3 16384
+ActBits4 4096
+Affect_By 648
+Alignment 500
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts divine healing~
+BCast_P 10
+End
+
+#2209
+Name evil black queen woman beast~
+Short the Black Queen~
+Long 
+A white-skinned beauty stands here, looking at you imperilously.
+~
+Descr
+White-skinned and coldly beautiful, this woman has an innate regal bearing.
+Her only indication that she notices your intrusion is a slight tightening
+of the skin around her fine jaw.
+~
+AMax 1
+NHeight 70
+ActBits 33554432
+ActBits3 8192
+ActBits4 4096
+Affect_By 16786058
+Alignment -1000
+Money 150
+Level 150
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts hands of wind~
+BCasts acid blast~
+BCast_P 9
+End
+
+#2210
+Name white queen good~
+Short the White Queen~
+Long 
+The white queen surveys the battleground.
+~
+Descr
+With flowing blond hair and pale white skin, the White Queen's beauty takes
+your breath away. Her armour bears the scars of countless encounters,
+dented and pock-marked, yet still servers to complement her graceful beauty.
+~
+AMax 1
+NHeight 67
+ActBits 1073741824
+ActBits3 16384
+ActBits4 4096
+Affect_By 16786058
+Alignment 1000
+Money 150
+Level 150
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts hands of wind~
+BCasts acid blast~
+BCast_P 9
+End
+
+#2211
+Name king black man evil beast~
+Short the Black King~
+Long 
+A man with a serious, evil mein stands here.
+~
+Descr
+Frothing at the mouth, this regal monarch looks anything but. His crown
+almost fallen off, and his once fine robes in tatters, he nevertheless looks
+like a tough opponent.
+~
+AMax 1
+NHeight 80
+ActBits3 8192
+Affect_By 50340488
+Alignment -1000
+Money 175
+Level 175
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts hands of wind~
+BCast_P 9
+End
+
+#2212
+Name white king good~
+Short the White King~
+Long 
+A wise-looking man stands here, with a crown atop his head.
+~
+Descr
+~
+AMax 1
+NHeight 74
+ActBits 1073741824
+ActBits3 16384
+Affect_By 50340488
+Alignment 1000
+Money 175
+Level 175
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts hands of wind~
+BCast_P 9
+End
+
+#2213
+Name goblin soldier warrior evil squat humanoid beast~
+Short a Goblin Soldier~
+Long 
+A squat, ugly humaniod stands here.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 32
+ActBits3 8192
+ActBits4 4096
+Affect_By 512
+Alignment -300
+Money 101
+Level 101
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#2214
+Name knight pawn white good human soldier~
+Short a Human Soldier~
+Long 
+A human stands here, ready to fight.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 1073741856
+ActBits3 16384
+ActBits4 4096
+Affect_By 512
+Alignment 250
+Money 101
+Level 101
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2215
+Name watcher guardian human being~
+Short the Watcher~
+Long 
+A solemn being stands here, watching over the land.
+~
+Descr
+Standing alone atop this tower, this watcher views all below him with a cool,
+calculating eye. Noticing you, he grunts a welcome and continues his vigil.
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 648
+Money 101
+Level 101
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#2216
+Name balrog demon~
+Short the balrog~
+Long 
+A cruel looking demon sits atop his throne.
+~
+Descr
+Sitting on his throne, the Balrog glares at you with fury. Fifteen feet
+tall with bright-red skin and arms ending in talons, he does not look
+like someone to trifle with.
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 2
+ActBits3 2
+ActBits4 8192
+Affect_By 650
+Alignment -1000
+Money 101
+Level 101
+Sex 1
+MobType 11
+Guard 5
+Spec spec_warrior
+BCasts falling star~
+BCast_P 9
+End
+
+#2217
+Name guard bodyguard~
+Short a bodyguard~
+Long 
+A royal guard of the Balrog stands here, ready to defend it with his life.
+~
+Descr
+~
+AMax 6
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits4 4096
+Affect_By 520
+Alignment -500
+Money 65
+Level 65
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2218
+Name demon lesser hell~
+Short a lesser demon~
+Long 
+A lesser demon of Hell stands here, observing the fighting below.
+~
+Descr
+Invited as a guest of the Balrog's to his lair, this demon is thoroughly enjoying
+himself watching the battle below. The turmoil and carnage being played out on the
+chessboard below appeals to his bloodthirsty attitude.
+~
+AMax 1
+NHeight 100
+ActBits 2
+Affect_By 520
+Money 75
+Level 75
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#2219
+Name lesser demon female demon~
+Short a she-devil~
+Long 
+A female (?) demon stands here cheering on the death agony of a pawn.
+~
+Descr
+With large tusks protruding from either side of it's face, and with a skin comprised
+of slime-covered scales, you still sense something about this fiend that tells you
+that it is indeed a female. And judging by its size, it looks to be more than a match
+for any lesser demon you have run into.
+~
+AMax 1
+NHeight 90
+ActBits 2
+Affect_By 648
+Alignment -1000
+Money 101
+Level 101
+Sex 2
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#2220
+Name cook guard demon~
+Short the cook~
+Long 
+Standing here in a grease-stained apron, the cook toils over the kettles.
+~
+Descr
+Big and burly, this guard looks like he'll brook no insults about his
+stew... And looking at the way he handles a cleaver, it'd prolly be a good
+idea not to antagonize him. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Alignment -500
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+End
+
+#2221
+Name guard demon humanoid~
+Short a guard~
+Long 
+A guard rests here, relaxing after a hard day of committing evil deeds.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+Affect_By 512
+Alignment -450
+Money 90
+Level 90
+Sex 1
+MobType 0
+Guard 0
+End
+
+#2222
+Name dying man human warrior~
+Short a dying warrior~
+Long 
+A bleeding, almost-dead warrior lies here, straining to tell you something.
+~
+Descr
+This once mighty warrior lies before you, his body bruised and battered.
+Seeing you through pain-filled eyes, he coughs up a quantity of blood and
+motions you to come closer. "The Balrog... we were on the way to destroy it
+when his guards ambushed us... He must be stopped... he is... evil....." No
+more can be heard from the warrior - he appears to be comatose. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 4194824
+Money 60
+Level 60
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2223
+Name guard balrog beast demon~
+Short a guard~
+Long 
+A demonic guard wanders the forest, looking for enemies.
+~
+Descr
+~
+AMax 2
+NHeight 78
+Affect_By 520
+Alignment -500
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+End
+
+#2224
+Name blacksmith demon large huge~
+Short a blacksmith~
+Long 
+A HUGE demonic blacksmith stands here, repairing weapons and armour.
+~
+Descr
+This huge blacksmith towers a good 10 feet over you. Arms that look strong 
+enough to crush rocks wield a sledgehammer and tongs handlily as he beats the
+dents out of a plate of armour.
+~
+AMax 1
+NHeight 200
+ActBits 2
+Affect_By 8712
+Alignment -500
+Money 200
+Level 200
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+BCasts fireball~
+BCast_P 10
+End
+
+#2225
+Name lich arch priest~
+Short a lich~
+Long 
+A lich shambles towards you, the remains of the high priest.
+~
+Descr
+This appears to be all that's left of the high priest who's foolish
+meddling released Balrog into the world. Though his robes are tattered, and
+his form emaciated, he still looks formidable. 
+~
+AMax 1
+NHeight 70
+ActBits 2
+Affect_By 640
+Alignment -1000
+Money 175
+Level 175
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#2226
+Name short beast kobold furry~
+Short a kobold~
+Long 
+A short, furry beast is here gnashing its teeth.
+~
+Descr
+~
+AMax 10
+NHeight 50
+Alignment -250
+Money 80
+Level 80
+Sex 1
+MobType 25
+Guard 0
+End
+
+#2227
+Name kobold jailer~
+Short a kobold jailer~
+Long 
+A kobold stands here, keeping watch over the prisoners.
+~
+Descr
+~
+AMax 2
+NHeight 55
+Alignment -250
+Money 101
+Level 101
+Sex 1
+MobType 25
+Guard 0
+End
+
+#2228
+Name human prisoner guard~
+Short a prisoner~
+Long 
+A beaten human - once a caravan guard, lies on the ground.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Alignment 250
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#2229
+Name kobold priest~
+Short a priest~
+Long 
+A kobold priest stands here, preparing to sacrifice a human.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Alignment -500
+Money 101
+Level 101
+MobType 25
+Guard 0
+End
+
+#2230
+Name temple guard kobold~
+Short a temple guard~
+Long 
+A larger than average kobold stands here, guarding the temple.
+~
+Descr
+~
+AMax 2
+NHeight 65
+ActBits 2
+Alignment -250
+Money 101
+Level 101
+Sex 1
+MobType 25
+Guard 0
+End
+
+#2231
+Name sacrifice human~
+Short a sacrifice~
+Long 
+A kicking, screaming sacrifice is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 101
+Level 101
+Sex 2
+MobType 0
+Guard 0
+End
+
+#2300
+Name no name~
+Short the Sabina~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#2200
+Name ladder wood~
+Short a rickety wooden ladder~
+Descr
+A wooden ladder is here, leading to the top of the watchtower.
+[0;36m~
+Type 30
+Extra 268435456
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 2225 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2201
+Name wooden ladder wood~
+Short a wooden ladder~
+Descr
+A wooden ladder is here, leading downwards.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2224 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2202
+Name throne seat majestic~
+Short a throne~
+Descr
+A majestic throne towers over you.
+[0;36m~
+Type 12
+Extra 268435456
+Wear 2
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2203
+Name power orb~
+Short a power orb~
+Descr
+A globe of intense light hovers here.
+[0;36m~
+Type 9
+Extra 268435521
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2204
+Name kettle~
+Short a kettle~
+Descr
+A kettle bubbles evilly here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Limtd 1
+End
+
+#2205
+Name climbing gear~
+Short some [1m[30mclimbing [0m[33mgear[0m~
+Descr
+A harness and a long length of rope lie here.
+[0;36m~
+Type 22
+Wear 8388609
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 60 60 0 0
+Weight 1
+Cost 1000
+End
+
+#2206
+Name box wood small~
+Short a small wooden box~
+Descr
+A small wooden box is here on the floor.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2207
+Name blood trail~
+Short north blood trail~
+Descr
+[31mYou see a trail of blood going [1mnorth[0m.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2208
+Name blood trail~
+Short west blood trail~
+Descr
+[31mYou see a trail of blood going [1mwest[0m.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2209
+Name corpse demon guard~
+Short corpse of a demon~
+Descr
+A demonic corpse lies here, pierced in the chest by a lance.
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2210
+Name corpse human mage~
+Short a human corpse~
+Descr
+A human corpse lies here, his robes indicating a mage.
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2211
+Name letter xylar official~
+Short an official letter~
+Descr
+An offical-looking letter is here, seemingly dropped during the melee.
+[0;36m~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr test~
+~
+ExtraDescr letter~
+~
+ExtraDescr letter~
+The letter is written on the finest vellum and officially sealed. With expansi
+
+ve governmental wording, it takes up a number of pages. However, the gist of the
+
+ letter is evident. Thorin Skull-Crusher and Kyza Peacemoon are commissioned by
+
+the high council of Xylar to eliminate the Balrog - who's preditations upon cara
+
+vans passing along the Southern Highway is having a "detrimental" affect upon th
+
+e Xylar economy. As proof, the two are to bring to the mayor the Balrog's right-
+
+talon and collect their reward.
+
+~
+ExtraDescr letter~
+The letter is written on the finest vellum and officially sealed. With
+
+expansi ve governmental wording, it takes up a number of pages. However, the
+
+gist of the letter is evident. Thorin Skull-Crusher and Kyza Peacemoon are
+
+commissioned by the high council of Xylar to eliminate the Balrog - who's
+
+preditations upon cara vans passing along the Southern Highway is having a
+
+"detrimental" affect upon th e Xylar economy. As proof, the two are to bring
+
+to the mayor the Balrog's right- talon and collect their reward. 
+
+~
+End
+
+#2212
+Name altar shining~
+Short a shining altar~
+Descr
+A shining altar is here, covered in ghastly images.
+[0;36m~
+Type 15
+Extra 268435456
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#2213
+Name book diary~
+Short a diary~
+Descr
+The diary of the High Priest of the temple lies here.
+[0;36m~
+Type 11
+Extra 268435456
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr diary~
+This book, torn and bloodied tells a tragic tale of dark priests, who in
+
+their ignorance, released the Balrog upon the world. They have managed to
+
+keep it entraped in the surrounding forest, but were unable to kill it or
+
+drive it back before it laid waste to them. 
+
+~
+ExtraDescr diary~
+Blood-covered and partially burnt, not much of this diary is legible. However,
+
+one entry that can be made out reads, "Two more days... two more days and I
+
+shall summon forth the beast that will give us the power to destroy those who
+
+would seek to eliminate us. It has been many years since I found the parchment
+
+that described the beast, known simple as 'Balrog' but if all goes in accordance
+
+with my plans, the next full moon will see the dawning of a new world order...
+
+ 
+
+ 
+
+ShriKreen, High Priest of Marasol."
+
+ 
+
+Another entry follows this one,
+
+ 
+
+"Rennard has returned with the neccessary supplies needed for the opening
+
+of the gateway to hell. The priests are gathering from throughout the land,
+
+and preparations are underway... Dark gods willing, we shall see the birth
+
+of a new reign of terror tonight!"
+
+ 
+
+The last entry in the book is hard to read, due to both the condition of the
+
+book and the troubles the author is having keeping his writing legible.
+
+ 
+
+"Terrible, Rennard dead, the circle of priests dragged into the pit. Balrog
+
+is much more powerful than we had originally planned. He broke through our
+
+circles of warding as if they were tissue paper. With him came his minions,
+
+terrible beasts who obey his every command unquestioningly. I have little
+
+strength left in me - I fear my wound is mortal, but I must pen this in hopes
+
+that someone comes along and reads it. Balrog must be stopped, he is pure
+
+evil and..."
+
+ 
+
+The entry ends here, the writer evidentally running out of strength.
+
+~
+ExtraDescr daythree~
+The writing of this day is harried, as if the author is rushed...
+
+ 
+
+"Two more days.... two more days and I shall summon forth the beast that will
+
+give us the power to destroy those who would seek to eliminate us. It has
+
+been many years since I found the parchment that described the beast, known
+
+simply as 'balrog' but if all goes in accordance with my plans, the next full
+
+moon will see the dawning of a new world order...
+
+ 
+
+ShriKreen, High-Priest of Marasol"
+
+~
+ExtraDescr diary~
+The diary seems to have suffered greatly over the years, only the last
+
+few days are legible, the rest having been burnt badly or covered in what
+
+you can only assume is human blood. (look daythree, daytwo, dayone for the
+
+last 3 entries) 
+
+ 
+
+~
+End
+
+#2214
+Name hammer blacksmith~
+Short a blacksmith's hammer~
+Descr
+A hammer used in the creation of armour lies here in the corner.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 6 3 0
+Weight 15
+Cost 1000
+End
+
+#2215
+Name whip flaming~
+Short [1mA whip of [31mF[33ml[31ma[33mm[31me[33ms[0m~
+Descr
+A whip, burning with an intense fire lies here.
+[0;36m~
+Type 5
+Extra 537919554
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 6 3 0
+Weight 1
+Cost 10000
+Affect 19 1 1 0 0
+Affect 18 4 1 0 0
+End
+
+#2216
+Name aura flaming flames floating +2 MAGICDAM +10 HP~
+Short an aura of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+An aura seemingly made up of flames lies here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 3 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 26 2 1 0 0
+Affect 13 10 1 0 0
+Affect 20 -1 1 0 0
+End
+
+#2217
+Name bracer flaming flames wrist +1 APB~
+Short a bracer of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+A bracer covered in flames lies here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 0 15 0
+Weight 2
+Cost 0
+Affect 19 1 1 0 0
+Affect 13 -5 1 0 0
+End
+
+#2218
+Name helm flaming flames +5 MAGICDAM -2 AC +5 HP head~
+Short a helm of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+A helm is on the ground, burning brightly.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 7 0 0 0 0 0 15 0
+Weight 4
+Cost 0
+Affect 13 5 1 0 0
+Affect 26 5 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#2219
+Name plate breast flaming flames +10 BS +3 HIT body~
+Short a breastplate of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+A metal breastplate lies here, ablaze in fire.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 10 3 3 0 0 30 30 0 0
+Weight 4
+Cost 10000
+Affect 18 3 1 0 0
+Affect 25 3 1 0 0
+End
+
+#2220
+Name cloak flaming flames +10 BS -3 SAVE about~
+Short a cloak of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+A cloak alight with flames lies on the ground here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 2 2 0 0 30 30 15 0
+Weight 2
+Cost 10000
+Affect 20 -3 1 0 0
+Affect 25 2 1 0 0
+End
+
+#2221
+Name shoulder guard flaming flames +10 BS +2 HIT~
+Short a shoulder-guard of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+A shoulder-guard lies here, on fire it seems.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 4 0 0 25 25 15 0
+Weight 2
+Cost 10000
+Affect 25 2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#2222
+Name pendant necklace flaming flames neck +1 APB~
+Short a pendant of [1m[31mf[33ml[0m[33ma[0m[31mm[1m[33me[31ms[0m~
+Descr
+Lying on the ground is a pendant, covered in flames.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 3 0 0 0 25 25 15 0
+Weight 1
+Cost 10000
+Affect 19 1 1 0 0
+Affect 13 -10 1 0 0
+End
+
+#2223
+Name visor clarity eyepatch eyes +10 BS~
+Short [0mA visor of [1m[34mC[37ml[34ma[37mr[34mi[37mt[34my[0m~
+Descr
+A visor, crafted to aid in detection, lies here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 33554433
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 25 25 0 0
+Weight 2
+Cost 0
+Affect 20 -4 1 0 0
+Affect 25 2 1 0 0
+End
+
+#2224
+Name iron dark belt +1 APB waist~
+Short [1mA [30mDark Iron Belt[0m~
+Descr
+A dark-iron belt has been dropped upon the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 25 25 0 0
+Weight 2
+Cost 5000
+Affect 19 1 1 0 0
+Affect 13 -5 1 0 0
+End
+
+#2225
+Name hat chef white grease~
+Short [1mThe Chef's Hat[0m~
+Descr
+A hat formerly white, but covered in dirt and grease stains is here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 5 5 0 0
+Weight 0
+Cost 0
+Affect 20 -3 1 0 0
+End
+
+#2226
+Name blade sword demonic curved~
+Short a curved demonic blade~
+Descr
+Evil looking, this sword is serrated upon both sides.
+[0;36m~
+Type 5
+Extra 541065217
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 3 0 0 0 4 4 0
+Weight 3
+Cost 1000
+End
+
+#2227
+Name demonic plate mail demon body~
+Short [1m[35mDemonic Plate Mail[0m~
+Descr
+Plate mail, the likes of which you have never seen lies here on the ground.
+[0;36m~
+Type 9
+Extra 2
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 5 1 0 3 0 10 10 0 0
+Weight 4
+Cost 4235
+Affect 18 3 1 0 0
+Affect 14 -3 1 0 0
+End
+
+#2228
+Name ring underworld finger +1 APB~
+Short [1mA ring of the [31mU[0mn[1mD[0me[1mr[0mW[1mo[0mr[1ml[0md[0m~
+Descr
+A bright red ring lies here, neglected.
+[0;36m~
+Type 9
+Extra 1
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 10 10 0 0
+Weight 2
+Cost 200
+Affect 18 2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#2229
+Name unholy mace +1 APB +2 HIT club~
+Short [1mAn [31m[1mUNHOLY[0m [37m[1mMace[0m~
+Descr
+An unholy mace is here, ready to be used upon the unbelievers.
+[0;36m~
+Type 5
+Extra 537395203
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 8 0 0 0 4 4 0
+Weight 5
+Cost 10000
+Affect 18 2 1 0 0
+Affect 20 5 1 0 0
+Affect 19 1 1 0 0
+End
+
+#2230
+Name shield unholy +1 APB~
+Short [1mAn Unholy Shield[0m~
+Descr
+A shield emblazoned with the symbol of a dark god lies in the dust.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 1 3 0 0 15 15 0 0
+Weight 5
+Cost 1000
+Affect 18 1 1 0 0
+Affect 23 -10 1 0 0
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#2200
+Name The Balrog's Lair~
+Descr
+A pile of corpses, in varying stages of decay assault your nostrils as
+you first walk into this room. Gagging and attempting to stand upright, you
+almost fail to notice the beast which has arisen from his throne amidst this
+carnage. Grinning wickedly, the Balrog advances, muttering "Fresh Meat..." 
+~
+Flags 2097156
+Reset M 2201 1 100
+Reset O 2215 1 1
+Reset O 2216 1 1
+Reset O 2217 1 1
+Reset O 2218 1 1
+Reset O 2219 1 1
+Reset O 2220 1 1
+Reset O 2221 1 1
+Reset O 2222 1 1
+Door 1 3 0 2201 30 30
+~
+Charred Door~
+Door 3 259 0 2292 30 30
+~
+corpse~
+End
+
+#2201
+Name The Ante-Chamber~
+Descr
+Torches line the walls of this room, casting a flickering glow over 3
+large humanoids who look none to pleased with your intrusion.
+~
+Flags 4
+Reset M 2202 1 100
+Reset M 2202 1 100
+Door 2 3 0 2202 30 30
+~
+a burnished door of bronze~
+Door 3 3 0 2200 30 30
+~
+Charred Door~
+End
+
+#2202
+Name End of the Secret Tunnel~
+Descr
+A large burnished door is at the end of this tunnel. Scrawled above it in what
+appears to be blood dried to a dark, rusty colour are the words, "ABANDON
+ALL HOPE YE WHO ENTER...". From the other side of the door, faint growling
+sounds, which raise the hair upon the back of your neck, can be heard.
+~
+Flags 4
+Door 0 3 0 2201 30 30
+~
+a burnished door of bronze~
+Door 2 0 0 2203 0 0
+~
+~
+End
+
+#2203
+Name Near the End of the Secret Tunnel~
+Descr
+Spiders and other small insects scurrying away from your approach, you
+continue down the corridor. To the north, a dull metallic gleam can be seen.
+~
+Flags 4
+Door 0 0 0 2202 0 0
+~
+~
+Door 2 0 0 2204 0 0
+~
+~
+End
+
+#2204
+Name In a Secret Tunnel~
+Descr
+Dust kicked up from your passage clogs your breathing as you continue
+onwards. Other signs of disuse are evident in this passage as you continue
+on. 
+~
+Flags 4
+Door 0 0 0 2203 0 0
+~
+~
+Door 2 0 0 2205 0 0
+~
+~
+End
+
+#2205
+Name Continuing in the Tunnel~
+Descr
+Dust kicked up from your passage clogs your breathing as you continue
+onwards. Other signs of disuse are evident in this passage as you continue
+on. 
+~
+Flags 4
+Door 0 0 0 2204 0 0
+~
+~
+Door 2 0 0 2206 0 0
+~
+~
+End
+
+#2206
+Name Behind the Tapestry~
+Descr
+Behind the tapestry, the air is rank as if there has been little or no traffic
+in this corridor for years. Faint footsteps can be seen in the dust on the
+floor, their outline too blurred for you to determine who or what made them.
+North, the corridor continues into darkness.
+~
+Flags 4
+Door 0 0 0 2205 0 0
+~
+~
+Door 2 259 0 2207 30 30
+~
+tapestry~
+End
+
+#2207
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 0 259 0 2206 30 30
+~
+tapestry~
+Door 1 0 0 2208 0 0
+~
+~
+Door 3 0 0 2212 0 0
+~
+~
+End
+
+#2208
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 1 0 0 2209 0 0
+~
+~
+Door 3 0 0 2207 0 0
+~
+~
+End
+
+#2209
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 1 0 0 2210 0 0
+~
+~
+Door 3 0 0 2208 0 0
+~
+~
+End
+
+#2210
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 1 0 0 2211 0 0
+~
+~
+Door 3 0 0 2209 0 0
+~
+~
+End
+
+#2211
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 1 0 0 2212 0 0
+~
+~
+Door 3 0 0 2210 0 0
+~
+~
+End
+
+#2212
+Name A Claustraphobic Hallway~
+Descr
+This hallway has the disconcerning illusion of being one in which the walls
+appear to be closing in on eachother. Tapestries cover the walls, broken
+only by torches lit by unknown hands to provide light for this passageway
+which appears to be long-forgotten.
+~
+Flags 4
+Door 1 0 0 2207 0 0
+~
+~
+Door 3 0 0 2211 0 0
+~
+~
+End
+
+#2213
+Name A Dead End?~
+Descr
+The walls along here are bright red, but they don't disguse the fact that
+this tunnel leads no where - to the north, a cave-in of some type is
+evident. 
+~
+Flags 4
+Door 0 0 0 2216 0 0
+~
+~
+Door 2 0 0 2214 0 0
+~
+~
+End
+
+#2214
+Name 4-way Intersection~
+Descr
+From this point, 4 very different routes can be taken. To the west, a
+black and white corridor seems to lead to a black and white checkered door.
+To the north, the tunnel is bright red - the colour of flames. To the east a
+stone passageway leads to the base of some steps. To the south, a tunnel
+leads back to the throne room. 
+~
+Flags 4
+Door 0 0 0 2213 0 0
+~
+~
+Door 1 0 0 2215 0 0
+~
+~
+Door 2 0 0 2226 0 0
+~
+~
+Door 3 0 0 2227 0 0
+~
+~
+End
+
+#2215
+Name Base of the Stone Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 3 0 0 2214 0 0
+~
+~
+Door 4 0 0 2217 0 0
+~
+~
+End
+
+#2216
+Name Yep, A Dead End....~
+Descr
+This tunnel seems to have suffered a cave-in at some point in time.
+Rubble and fallen mortar litter the ground, and as you suspected, the tunnel
+ends in a dead-end. 
+~
+Flags 4
+Door 0 259 0 2209 30 30
+~
+crevace~
+Door 2 0 0 2213 0 0
+~
+~
+End
+
+#2217
+Name Near the Bottom of Some Stone Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 0 0 0 2218 0 0
+~
+~
+Door 5 0 0 2215 0 0
+~
+~
+End
+
+#2218
+Name Climbing on Some Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 1 0 0 2219 0 0
+~
+~
+Door 2 0 0 2217 0 0
+~
+~
+End
+
+#2219
+Name Climbing on Some Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 2 0 0 2220 0 0
+~
+~
+Door 3 0 0 2218 0 0
+~
+~
+End
+
+#2220
+Name Climbing on Some Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 0 0 0 2219 0 0
+~
+~
+Door 3 0 0 2221 0 0
+~
+~
+End
+
+#2221
+Name Climbing on Some Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 0 0 0 2222 0 0
+~
+~
+Door 1 0 0 2220 0 0
+~
+~
+End
+
+#2222
+Name Climbing on Some Stairs~
+Descr
+These stairs seem to be of newer construction than the rest of the area
+that you've seen so far. From the top of this tower, the Balrog's observers
+can see the southern highway, and from this information know when caravans
+are travelling upon it. 
+~
+Flags 4
+Door 2 0 0 2221 0 0
+~
+~
+Door 4 0 0 2223 0 0
+~
+~
+End
+
+#2223
+Name Before Some Winding Stairs~
+Descr
+This tower's height makes it an excellent tool in the Balrog's raids upon
+caravans that pass along the Southern Highway. To the south you can see the
+base of a ladder. 
+~
+Flags 4
+Door 2 0 0 2224 0 0
+~
+~
+Door 5 0 0 2222 0 0
+~
+~
+End
+
+#2224
+Name Base of the Watchtower~
+Descr
+At the top of the stairs, the view is impressive. Fields and the Southern
+Highway lay before for miles in all directions. However, you are sure that
+climbing up the 30 foot ladder to the actual watchtower would provide a
+better view. 
+~
+Reset O 2200 -5 100
+Door 0 0 0 2223 0 0
+~
+~
+End
+
+#2225
+Name In the Watchtower~
+Descr
+From this vantage point, the surrounding countryside is visible. To the north,
+the town of Xylar is visible, it's temples and houses looking like small
+toys.
+~
+Flags 4
+Sector 0
+Reset O 2201 -5 100
+Reset M 2215 1 100
+Reset O 2223 1 1
+End
+
+#2226
+Name Tunnel Below the Throne~
+Descr
+Up ahead, a junction of tunnels can be seen. Still, the silence and
+darkness of this place begin to weigh heavily upon you, and you find
+yourself jumping at shadows. 
+~
+Flags 4
+Door 0 0 0 2214 0 0
+~
+~
+Door 2 0 0 2295 0 0
+~
+~
+End
+
+#2227
+Name Before the Chessboard~
+Descr
+You stand before a strange door - made up it appears from alternating black
+and white squares. Your entrance is barred by 2 guards, who cast suspicious
+glares your way.
+~
+Flags 4
+Reset M 2202 1 100
+Reset M 2202 1 100
+Door 1 0 0 2214 0 0
+~
+~
+Door 3 3 0 2228 30 30
+~
+Checker-Board Door~
+End
+
+#2228
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2203 1 100
+Door 1 3 0 2227 30 30
+~
+Checker-Board Door~
+Door 2 0 0 2229 0 0
+~
+~
+Door 3 0 0 2237 0 0
+~
+~
+End
+
+#2229
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2228 0 0
+~
+~
+Door 2 0 0 2230 0 0
+~
+~
+Door 3 0 0 2236 0 0
+~
+~
+End
+
+#2230
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2229 0 0
+~
+~
+Door 2 0 0 2231 0 0
+~
+~
+Door 3 0 0 2235 0 0
+~
+~
+End
+
+#2231
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2230 0 0
+~
+~
+Door 2 0 0 2232 0 0
+~
+~
+Door 3 0 0 2234 0 0
+~
+~
+End
+
+#2232
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2231 0 0
+~
+~
+Door 2 0 0 2275 0 0
+~
+~
+Door 3 0 0 2233 0 0
+~
+~
+End
+
+#2233
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2234 0 0
+~
+~
+Door 1 0 0 2232 0 0
+~
+~
+Door 2 0 0 2274 0 0
+~
+~
+Door 3 0 0 2242 0 0
+~
+~
+End
+
+#2234
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2235 0 0
+~
+~
+Door 1 0 0 2231 0 0
+~
+~
+Door 2 0 0 2233 0 0
+~
+~
+Door 3 0 0 2241 0 0
+~
+~
+End
+
+#2235
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2236 0 0
+~
+~
+Door 1 0 0 2230 0 0
+~
+~
+Door 2 0 0 2234 0 0
+~
+~
+Door 3 0 0 2240 0 0
+~
+~
+End
+
+#2236
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2237 0 0
+~
+~
+Door 1 0 0 2229 0 0
+~
+~
+Door 2 0 0 2235 0 0
+~
+~
+Door 3 0 0 2239 0 0
+~
+~
+End
+
+#2237
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2205 1 100
+Door 1 0 0 2228 0 0
+~
+~
+Door 2 0 0 2236 0 0
+~
+~
+Door 3 0 0 2238 0 0
+~
+~
+End
+
+#2238
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2207 1 100
+Door 1 0 0 2237 0 0
+~
+~
+Door 2 0 0 2239 0 0
+~
+~
+Door 3 0 0 2247 0 0
+~
+~
+End
+
+#2239
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2238 0 0
+~
+~
+Door 1 0 0 2236 0 0
+~
+~
+Door 2 0 0 2240 0 0
+~
+~
+Door 3 0 0 2246 0 0
+~
+~
+End
+
+#2240
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2239 0 0
+~
+~
+Door 1 0 0 2235 0 0
+~
+~
+Door 2 0 0 2241 0 0
+~
+~
+Door 3 0 0 2245 0 0
+~
+~
+End
+
+#2241
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2240 0 0
+~
+~
+Door 1 0 0 2234 0 0
+~
+~
+Door 2 0 0 2242 0 0
+~
+~
+Door 3 0 0 2244 0 0
+~
+~
+End
+
+#2242
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2241 0 0
+~
+~
+Door 1 0 0 2233 0 0
+~
+~
+Door 2 0 0 2273 0 0
+~
+~
+Door 3 0 0 2243 0 0
+~
+~
+End
+
+#2243
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2244 0 0
+~
+~
+Door 1 0 0 2242 0 0
+~
+~
+Door 2 0 0 2272 0 0
+~
+~
+Door 3 0 0 2252 0 0
+~
+~
+End
+
+#2244
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2245 0 0
+~
+~
+Door 1 0 0 2241 0 0
+~
+~
+Door 2 0 0 2243 0 0
+~
+~
+Door 3 0 0 2251 0 0
+~
+~
+End
+
+#2245
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2246 0 0
+~
+~
+Door 1 0 0 2240 0 0
+~
+~
+Door 2 0 0 2244 0 0
+~
+~
+Door 3 0 0 2250 0 0
+~
+~
+End
+
+#2246
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2247 0 0
+~
+~
+Door 1 0 0 2239 0 0
+~
+~
+Door 2 0 0 2245 0 0
+~
+~
+Door 3 0 0 2249 0 0
+~
+~
+End
+
+#2247
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2211 1 100
+Reset O 2228 -1 3
+Door 1 0 0 2238 0 0
+~
+~
+Door 2 0 0 2246 0 0
+~
+~
+Door 3 0 0 2248 0 0
+~
+~
+End
+
+#2248
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2209 1 100
+Door 1 0 0 2247 0 0
+~
+~
+Door 2 0 0 2249 0 0
+~
+~
+Door 3 0 0 2257 0 0
+~
+~
+End
+
+#2249
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2248 0 0
+~
+~
+Door 1 0 0 2246 0 0
+~
+~
+Door 2 0 0 2250 0 0
+~
+~
+Door 3 0 0 2256 0 0
+~
+~
+End
+
+#2250
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2249 0 0
+~
+~
+Door 1 0 0 2245 0 0
+~
+~
+Door 2 0 0 2251 0 0
+~
+~
+Door 3 0 0 2255 0 0
+~
+~
+End
+
+#2251
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2250 0 0
+~
+~
+Door 1 0 0 2244 0 0
+~
+~
+Door 2 0 0 2252 0 0
+~
+~
+Door 3 0 0 2254 0 0
+~
+~
+End
+
+#2252
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2251 0 0
+~
+~
+Door 1 0 0 2243 0 0
+~
+~
+Door 2 0 0 2271 0 0
+~
+~
+Door 3 0 0 2253 0 0
+~
+~
+End
+
+#2253
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2254 0 0
+~
+~
+Door 1 0 0 2252 0 0
+~
+~
+Door 2 0 0 2270 0 0
+~
+~
+Door 3 0 0 2262 0 0
+~
+~
+End
+
+#2254
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2255 0 0
+~
+~
+Door 1 0 0 2251 0 0
+~
+~
+Door 2 0 0 2253 0 0
+~
+~
+Door 3 0 0 2261 0 0
+~
+~
+End
+
+#2255
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2256 0 0
+~
+~
+Door 1 0 0 2250 0 0
+~
+~
+Door 2 0 0 2254 0 0
+~
+~
+Door 3 0 0 2260 0 0
+~
+~
+End
+
+#2256
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2257 0 0
+~
+~
+Door 1 0 0 2249 0 0
+~
+~
+Door 2 0 0 2255 0 0
+~
+~
+Door 3 0 0 2259 0 0
+~
+~
+End
+
+#2257
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2207 1 100
+Door 0 259 0 2294 30 30
+~
+secret door to the stands~
+Door 1 0 0 2248 0 0
+~
+~
+Door 2 0 0 2256 0 0
+~
+~
+Door 3 0 0 2258 0 0
+~
+~
+End
+
+#2258
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2205 1 100
+Door 1 0 0 2257 0 0
+~
+~
+Door 2 0 0 2259 0 0
+~
+~
+Door 3 0 0 2267 0 0
+~
+~
+End
+
+#2259
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2258 0 0
+~
+~
+Door 1 0 0 2256 0 0
+~
+~
+Door 2 0 0 2260 0 0
+~
+~
+Door 3 0 0 2266 0 0
+~
+~
+End
+
+#2260
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2259 0 0
+~
+~
+Door 1 0 0 2255 0 0
+~
+~
+Door 2 0 0 2261 0 0
+~
+~
+Door 3 0 0 2265 0 0
+~
+~
+End
+
+#2261
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2260 0 0
+~
+~
+Door 1 0 0 2254 0 0
+~
+~
+Door 2 0 0 2262 0 0
+~
+~
+Door 3 0 0 2264 0 0
+~
+~
+End
+
+#2262
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2261 0 0
+~
+~
+Door 1 0 0 2253 0 0
+~
+~
+Door 2 0 0 2269 0 0
+~
+~
+Door 3 0 0 2263 0 0
+~
+~
+End
+
+#2263
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2264 0 0
+~
+~
+Door 1 0 0 2262 0 0
+~
+~
+Door 2 0 0 2268 0 0
+~
+~
+End
+
+#2264
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2265 0 0
+~
+~
+Door 1 0 0 2261 0 0
+~
+~
+Door 2 0 0 2263 0 0
+~
+~
+End
+
+#2265
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2266 0 0
+~
+~
+Door 1 0 0 2260 0 0
+~
+~
+Door 2 0 0 2264 0 0
+~
+~
+End
+
+#2266
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2213 1 100
+Door 0 0 0 2267 0 0
+~
+~
+Door 1 0 0 2259 0 0
+~
+~
+Door 2 0 0 2265 0 0
+~
+~
+End
+
+#2267
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+To the west, lies a door - as black as night.
+~
+Flags 4
+Reset M 2203 1 100
+Door 1 0 0 2258 0 0
+~
+~
+Door 2 0 0 2266 0 0
+~
+~
+Door 3 3 0 2313 30 30
+~
+black door~
+End
+
+#2268
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2263 0 0
+~
+~
+Door 1 0 0 2269 0 0
+~
+~
+Door 2 0 0 2283 0 0
+~
+~
+End
+
+#2269
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2262 0 0
+~
+~
+Door 1 0 0 2270 0 0
+~
+~
+Door 2 0 0 2282 0 0
+~
+~
+Door 3 0 0 2268 0 0
+~
+~
+End
+
+#2270
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2253 0 0
+~
+~
+Door 1 0 0 2271 0 0
+~
+~
+Door 2 0 0 2281 0 0
+~
+~
+Door 3 0 0 2269 0 0
+~
+~
+End
+
+#2271
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2252 0 0
+~
+~
+Door 1 0 0 2272 0 0
+~
+~
+Door 2 0 0 2280 0 0
+~
+~
+Door 3 0 0 2270 0 0
+~
+~
+End
+
+#2272
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2243 0 0
+~
+~
+Door 1 0 0 2273 0 0
+~
+~
+Door 2 0 0 2279 0 0
+~
+~
+Door 3 0 0 2271 0 0
+~
+~
+End
+
+#2273
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2242 0 0
+~
+~
+Door 1 0 0 2274 0 0
+~
+~
+Door 2 0 0 2278 0 0
+~
+~
+Door 3 0 0 2272 0 0
+~
+~
+End
+
+#2274
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2233 0 0
+~
+~
+Door 1 0 0 2275 0 0
+~
+~
+Door 2 0 0 2277 0 0
+~
+~
+Door 3 0 0 2273 0 0
+~
+~
+End
+
+#2275
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Door 0 0 0 2232 0 0
+~
+~
+Door 2 0 0 2276 0 0
+~
+~
+Door 3 0 0 2274 0 0
+~
+~
+End
+
+#2276
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2275 0 0
+~
+~
+Door 2 0 0 2291 0 0
+~
+~
+Door 3 0 0 2277 0 0
+~
+~
+End
+
+#2277
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2274 0 0
+~
+~
+Door 1 0 0 2276 0 0
+~
+~
+Door 2 0 0 2290 0 0
+~
+~
+Door 3 0 0 2278 0 0
+~
+~
+End
+
+#2278
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2273 0 0
+~
+~
+Door 1 0 0 2277 0 0
+~
+~
+Door 2 0 0 2289 0 0
+~
+~
+Door 3 0 0 2279 0 0
+~
+~
+End
+
+#2279
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2272 0 0
+~
+~
+Door 1 0 0 2278 0 0
+~
+~
+Door 2 0 0 2288 0 0
+~
+~
+Door 3 0 0 2280 0 0
+~
+~
+End
+
+#2280
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2271 0 0
+~
+~
+Door 1 0 0 2279 0 0
+~
+~
+Door 2 0 0 2287 0 0
+~
+~
+Door 3 0 0 2281 0 0
+~
+~
+End
+
+#2281
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2270 0 0
+~
+~
+Door 1 0 0 2280 0 0
+~
+~
+Door 2 0 0 2286 0 0
+~
+~
+Door 3 0 0 2282 0 0
+~
+~
+End
+
+#2282
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2269 0 0
+~
+~
+Door 1 0 0 2281 0 0
+~
+~
+Door 2 0 0 2285 0 0
+~
+~
+Door 3 0 0 2283 0 0
+~
+~
+End
+
+#2283
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2214 1 100
+Door 0 0 0 2268 0 0
+~
+~
+Door 1 0 0 2282 0 0
+~
+~
+Door 2 0 0 2284 0 0
+~
+~
+End
+
+#2284
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2204 1 100
+Door 0 0 0 2283 0 0
+~
+~
+Door 1 0 0 2285 0 0
+~
+~
+Door 3 3 0 2320 30 30
+~
+white door~
+End
+
+#2285
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2206 1 100
+Door 0 0 0 2282 0 0
+~
+~
+Door 1 0 0 2286 0 0
+~
+~
+Door 3 0 0 2284 0 0
+~
+~
+End
+
+#2286
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2208 1 100
+Door 0 0 0 2281 0 0
+~
+~
+Door 1 0 0 2287 0 0
+~
+~
+Door 3 0 0 2285 0 0
+~
+~
+End
+
+#2287
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 2097156
+Reset M 2210 1 100
+Door 0 0 0 2280 0 0
+~
+~
+Door 1 0 0 2288 0 0
+~
+~
+Door 3 0 0 2286 0 0
+~
+~
+End
+
+#2288
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2212 1 100
+Reset O 2228 -1 3
+Door 0 0 0 2279 0 0
+~
+~
+Door 1 0 0 2289 0 0
+~
+~
+Door 3 0 0 2287 0 0
+~
+~
+End
+
+#2289
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2208 1 100
+Door 0 0 0 2278 0 0
+~
+~
+Door 1 0 0 2290 0 0
+~
+~
+Door 3 0 0 2288 0 0
+~
+~
+End
+
+#2290
+Name A Black Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2206 1 100
+Door 0 0 0 2277 0 0
+~
+~
+Door 1 0 0 2291 0 0
+~
+~
+Door 3 0 0 2289 0 0
+~
+~
+End
+
+#2291
+Name A White Square~
+Descr
+This cavern is like none you've ever seen before. Alternating black and
+white squares make up the floor, and on this floor a battle is raging -
+with 2 sides, one dressed in all white equipment, the other in all black.
+With battles raging on all around you - you wonder what madness is this...
+~
+Flags 4
+Reset M 2204 1 100
+Door 0 0 0 2276 0 0
+~
+~
+Door 3 0 0 2290 0 0
+~
+~
+End
+
+#2292
+Name The Hidden Tunnel~
+Descr
+Behind the corpses, the tunnel seems to lead toward a brightly lit area,
+from where the sound of fighting can be heard.
+~
+Flags 4
+Door 1 259 0 2200 30 30
+~
+corpse~
+Door 2 0 0 2293 0 0
+~
+~
+End
+
+#2293
+Name The Hidden Tunnel~
+Descr
+To the south, the sound of fighting can be heard. Blood-curdling cries split
+the air and you hear the clash of metal upon metal.
+~
+Flags 4
+Door 0 0 0 2292 0 0
+~
+~
+Door 2 0 0 2294 0 0
+~
+~
+End
+
+#2294
+Name Overlooking the Chess Board~
+Descr
+In this room the Balrog entertains his clients and colleages from the
+netherworld. Seated high above the chessboard, the people below do actually
+look like chess-pieces. Only the occassional cry of agony and pain that
+carries up from below reminds you that it is not a game for those involved. 
+~
+Flags 4
+Reset M 2219 1 100
+Reset M 2218 1 100
+Door 0 0 0 2293 0 0
+~
+~
+Door 2 259 0 2257 30 30
+~
+secret door to the playing field~
+End
+
+#2295
+Name Tunnel Below the Throne~
+Descr
+Below the throne, the light thrown by the torches of the Throne Room is
+quickly engulfed by pitch blackness again. The tunnel appears to slope
+downwards while going north. 
+~
+Flags 4
+Door 0 0 0 2226 0 0
+~
+~
+Door 2 0 0 2296 0 0
+~
+~
+End
+
+#2296
+Name Tunnel Below the Throne~
+Descr
+Below the throne, the light thrown by the torches of the Throne Room is
+quickly engulfed by pitch blackness again. The tunnel appears to slope
+downwards while going north. 
+~
+Flags 4
+Door 0 0 0 2295 0 0
+~
+~
+Door 4 0 0 2297 0 0
+~
+~
+End
+
+#2297
+Name Tunnel Below the Throne~
+Descr
+Below the throne, the light thrown by the torches of the Throne Room is
+quickly engulfed by pitch blackness again. The tunnel appears to slope
+downwards while going north. 
+~
+Flags 4
+Door 2 0 0 2298 0 0
+~
+~
+Door 5 0 0 2296 0 0
+~
+~
+End
+
+#2298
+Name Tunnel Below the Throne~
+Descr
+Below the throne, the light thrown by the torches of the Throne Room is
+quickly engulfed by pitch blackness again. The tunnel appears to slope
+downwards while going north. 
+~
+Flags 4
+Door 0 0 0 2297 0 0
+~
+~
+Door 2 0 0 2299 0 0
+~
+~
+End
+
+#2299
+Name Tunnel Below the Throne~
+Descr
+Below the throne, the light thrown by the torches of the Throne Room is
+quickly engulfed by pitch blackness again. The tunnel appears to slope
+downwards while going north. 
+~
+Flags 6
+Door 0 0 0 2298 0 0
+~
+~
+Door 4 259 0 2300 30 30
+~
+throne~
+End
+
+#2300
+Name The Throne Room~
+Descr
+A large throne dominates this part of the room. Seated upon it is a beast
+of the underworld. Sneering at you, it looks away, as if you were beneath
+its notice. 
+~
+Flags 2101252
+Reset O 2202 -5 100
+Reset M 2216 1 100
+Reset O 2216 1 1
+Reset M 2217 1 100
+Reset M 2217 1 100
+Door 1 0 0 2301 0 0
+~
+~
+Door 2 0 0 2306 0 0
+~
+~
+Door 3 0 0 2302 0 0
+~
+~
+Door 5 259 0 2299 30 30
+~
+Throne~
+End
+
+#2301
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Reset M 2217 1 100
+Door 2 0 0 2305 0 0
+~
+~
+Door 3 0 0 2300 0 0
+~
+~
+End
+
+#2302
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Reset M 2217 1 100
+Door 1 0 0 2300 0 0
+~
+~
+Door 2 0 0 2307 0 0
+~
+~
+End
+
+#2303
+Name ~
+Descr
+~
+Door 0 0 0 2302 0 0
+~
+~
+End
+
+#2304
+Name ~
+Descr
+~
+Door 0 0 0 2300 0 0
+~
+~
+End
+
+#2305
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Door 0 0 0 2301 0 0
+~
+~
+Door 2 0 0 2310 0 0
+~
+~
+Door 3 0 0 2306 0 0
+~
+~
+End
+
+#2306
+Name The Throne Room~
+Descr
+Entering this room is hard on the eyes after the darkness you have left
+behind. Twenty foot high ceilings are well lit by scones placed at intervals
+of 5 feet on the walls. To the north, you see a great throne. 
+~
+Flags 4
+Door 0 0 0 2300 0 0
+~
+~
+Door 1 0 0 2305 0 0
+~
+~
+Door 2 0 0 2309 0 0
+~
+~
+Door 3 0 0 2307 0 0
+~
+~
+End
+
+#2307
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Door 0 0 0 2302 0 0
+~
+~
+Door 1 0 0 2306 0 0
+~
+~
+Door 2 0 0 2308 0 0
+~
+~
+End
+
+#2308
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Reset M 2217 1 100
+Door 0 0 0 2307 0 0
+~
+~
+Door 1 0 0 2309 0 0
+~
+~
+End
+
+#2309
+Name The Throne Room~
+Descr
+Entering this room is hard on the eyes after the darkness you have left
+behind. Twenty foot high ceilings are well lit by scones placed at intervals
+of 5 feet on the walls. To the north, you see a great throne. 
+~
+Flags 4
+Door 0 0 0 2306 0 0
+~
+~
+Door 1 0 0 2310 0 0
+~
+~
+Door 2 3 0 2311 30 30
+~
+golden doors~
+Door 3 0 0 2308 0 0
+~
+~
+End
+
+#2310
+Name The Throne Room~
+Descr
+Along the walls are torches with no obvious fuel. Burning brightly and
+true they illumate a large cavern which, judging by the seat you see along
+the north wall has become a throne room. 
+~
+Flags 4
+Reset M 2217 1 100
+Door 0 0 0 2305 0 0
+~
+~
+Door 3 0 0 2309 0 0
+~
+~
+End
+
+#2311
+Name Before Some Golden Doors~
+Descr
+After the darkness of the tunnel, the internal glow these doors are
+giving off is almost blinding. Inscribed on the doors is a message in a
+language you've never seen before. However, the illustrations alongside the
+warning leave little room for interpretation - entering this room could be
+hazardous to your health. 
+~
+Flags 6
+Door 0 3 0 2309 30 30
+~
+golden doors~
+Door 2 0 0 2312 0 0
+~
+~
+End
+
+#2312
+Name At the Bottom of the Pit~
+Descr
+The bottom of this pit is no brighter than the top. Gloom and darkness
+surround you and even with your light sources, you do precious little to
+hold back the blackness. 
+~
+Flags 4
+Door 0 0 0 2311 0 0
+~
+~
+Door 4 0 0 2333 0 0
+~
+~
+End
+
+#2313
+Name The Black Barracks~
+Descr
+It is here that these poor creatures go when the Balrog tires of watching
+them slay eachother. Judging by the state of the beds, you can tell that
+he does not often grow bored of watching their fighting and does not give
+them much rest.
+~
+Door 0 0 0 2314 0 0
+~
+~
+Door 1 3 0 2267 30 30
+~
+black door~
+Door 2 0 0 2315 0 0
+~
+~
+Door 3 0 0 2316 0 0
+~
+~
+End
+
+#2314
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 2 0 0 2313 0 0
+~
+~
+End
+
+#2315
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2313 0 0
+~
+~
+End
+
+#2316
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 1 0 0 2313 0 0
+~
+~
+Door 3 0 0 2317 0 0
+~
+~
+End
+
+#2317
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2318 0 0
+~
+~
+Door 1 0 0 2316 0 0
+~
+~
+Door 2 0 0 2319 0 0
+~
+~
+End
+
+#2318
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 2 0 0 2317 0 0
+~
+~
+End
+
+#2319
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2317 0 0
+~
+~
+End
+
+#2320
+Name The White Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2321 0 0
+~
+~
+Door 1 3 0 2284 30 30
+~
+white door~
+Door 2 0 0 2322 0 0
+~
+~
+Door 3 0 0 2323 0 0
+~
+~
+End
+
+#2321
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 2 0 0 2320 0 0
+~
+~
+End
+
+#2322
+Name ~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2320 0 0
+~
+~
+End
+
+#2323
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 1 0 0 2320 0 0
+~
+~
+Door 3 0 0 2324 0 0
+~
+~
+End
+
+#2324
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2326 0 0
+~
+~
+Door 1 0 0 2323 0 0
+~
+~
+Door 2 0 0 2325 0 0
+~
+~
+End
+
+#2325
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 0 0 0 2324 0 0
+~
+~
+End
+
+#2326
+Name Inside the Barracks~
+Descr
+Here and there are scattered cots upon which the pitiful creatures rest when
+not fighting for the balrog's amusement. Moans and groans can be heard from
+the few survivors of the last fight.
+~
+Door 2 0 0 2324 0 0
+~
+~
+Door 5 259 0 2327 30 30
+~
+bed~
+End
+
+#2327
+Name Beginning of the Escape Passage~
+Descr
+You see here an indication of the poor conditions that these people have to 
+face. Rather than continue to kill for the Balrog's amusement - a tunnel
+has been started here as a means of escape. Using nothing more than their
+bare hands, the tunnel winds to the south.
+~
+Door 2 0 0 2328 0 0
+~
+~
+Door 4 259 0 2326 30 30
+~
+bed~
+End
+
+#2328
+Name Inside the Secret Tunnel~
+Descr
+These tunnels have been built using nothing more than bare hands and brute
+strength, in an attempt to escape the life of slavery at the hands of the
+Balrog.
+~
+Door 0 0 0 2327 0 0
+~
+~
+Door 3 0 0 2329 0 0
+~
+~
+End
+
+#2329
+Name Inside the Secret Tunnel~
+Descr
+These tunnels have been built using nothing more than bare hands and brute
+strength, in an attempt to escape the life of slavery at the hands of the
+Balrog.
+~
+Door 1 0 0 2328 0 0
+~
+~
+Door 2 0 0 2330 0 0
+~
+~
+End
+
+#2330
+Name Inside the Secret Tunnel~
+Descr
+These tunnels have been built using nothing more than bare hands and brute
+strength, in an attempt to escape the life of slavery at the hands of the
+Balrog.
+~
+Door 0 0 0 2329 0 0
+~
+~
+Door 1 0 0 2331 0 0
+~
+~
+End
+
+#2331
+Name Inside the Secret Tunnel~
+Descr
+These tunnels have been built using nothing more than bare hands and brute
+strength, in an attempt to escape the life of slavery at the hands of the
+Balrog.
+~
+Door 2 0 0 2332 0 0
+~
+~
+Door 3 0 0 2330 0 0
+~
+~
+End
+
+#2332
+Name At the End of the Escape Passage~
+Descr
+Here construction of the tunnel has been halted as the poor minions have
+been called upon to once again do battle for their master's amusment.
+~
+Door 0 0 0 2331 0 0
+~
+~
+End
+
+#2333
+Name A Branch in the Stairs~
+Descr
+To the east of you is a doorway set in the tunnel wall. However, what it
+cannot keep in is the stench of decay and filth which seems to eminate from
+the east. Coupled with this stench are loud, seemingly drunk voices raised
+in what the tone-deaf might call a song. 
+~
+Flags 4
+Sector 5
+Door 1 3 0 2334 30 30
+~
+wooden door~
+Door 4 0 0 2343 0 0
+~
+~
+Door 5 0 0 2312 0 0
+~
+~
+End
+
+#2334
+Name Guards' Barracks~
+Descr
+These have got to be some of the filthiest barracks that you have ever seen.
+With dried remains of food, soiled bedsheets and dirty clothes littering the
+ground, the room appears to be more of a trash midden than a place for guards
+to sleep.
+~
+Flags 4
+Door 1 0 0 2335 0 0
+~
+~
+Door 3 3 0 2333 30 30
+~
+wooden door~
+End
+
+#2335
+Name Guards' Barracks~
+Descr
+More dirt and filth are visible here. It seems that the guards in the
+employ of demons do not have the cleanest habits. To the south, a nauteous
+aroma can be smelt, while to the north and east lie more cots. 
+~
+Flags 4
+Door 0 0 0 2336 0 0
+~
+~
+Door 1 0 0 2337 0 0
+~
+~
+Door 2 0 0 2338 0 0
+~
+~
+Door 3 0 0 2334 0 0
+~
+~
+End
+
+#2336
+Name Guards' Barracks~
+Descr
+These have got to be the filthiest barracks that you've ever seen. With dried
+remains of food, soiled bedsheets and dirty clothes littering the ground, the
+room appears to be more of a trash midden than a place for guards to sleep.
+~
+Flags 4
+Door 2 0 0 2335 0 0
+~
+~
+End
+
+#2337
+Name Guards' Barracks~
+Descr
+These have got to be some of the filthiest barracks that you've ever
+seen. With dried remains of food, soiled bedsheets and dirty clothes
+littering the ground, the room appears to be more of a trash midden than a
+place for guards to sleep. 
+~
+Flags 4
+Door 1 0 0 2339 0 0
+~
+~
+Door 3 0 0 2335 0 0
+~
+~
+End
+
+#2338
+Name Guards' Mess-Hall~
+Descr
+Upon entering this room, your nose burns and your stomach does
+back-flips. It seems that whatever the guards' strong points may be,
+culinary skills are not among them. Kettles of un-indentifiable (luckily)
+stew simmer over a number of fire-pits. 
+~
+Flags 4
+Reset O 2204 -5 100
+Reset M 2220 1 100
+Reset O 2225 1 30
+Door 0 0 0 2335 0 0
+~
+~
+End
+
+#2339
+Name Guards' Barracks~
+Descr
+These have got to be some of the filthiest barracks that you've ever
+seen. With dried remains of food, soiled bedsheets and dirty clothes
+littering the ground, the room appears to be more of a trash midden than a
+place for guards to sleep. 
+~
+Flags 4
+Reset M 2221 1 100
+Door 0 0 0 2340 0 0
+~
+~
+Door 3 0 0 2337 0 0
+~
+~
+End
+
+#2340
+Name Guards' Barracks~
+Descr
+These have got to be some of the filthiest barracks that you've ever
+seen. With dried remains of food, soiled bedsheets and dirty clothes
+littering the ground, the room appears to be more of a trash midden than a
+place for guards to sleep. 
+~
+Flags 4
+Reset M 2221 1 100
+Reset O 2226 -1 20
+Reset O 2227 -1 25
+Door 2 0 0 2339 0 0
+~
+~
+End
+
+#2341
+Name Climbing Down the Side of a Pit~
+Descr
+Clambering down the sides of this hole requires great concentration. The
+otherwise quietness of the area is shattered intermittently by loud clashes of
+metal upon metal, which sound to be closer than before.
+~
+Flags 4
+Sector 5
+Door 4 0 0 2345 0 0
+~
+~
+Door 5 0 0 2343 0 0
+~
+~
+End
+
+#2342
+Name Above a Dank, Smelly Hole~
+Descr
+Below lies darkness. The pit could lead down 10 feet, or it could very well
+lead down hundreds of miles, so complete is the blackness that you have no
+way of knowing. From below echo faint sounds of metal upon metal.
+~
+Sector 4
+Door 2 0 0 2348 0 0
+~
+~
+Door 5 0 0 2344 0 0
+~
+~
+End
+
+#2343
+Name Climbing Down the Side of a Pit~
+Descr
+Clambering down the sides of this hole requires great concentration. The
+otherwise quietness of the area is shattered intermittently by loud clashes of
+metal upon metal, which sound to be closer than before.
+~
+Flags 4
+Sector 5
+Door 4 0 0 2341 0 0
+~
+~
+Door 5 0 0 2333 0 0
+~
+~
+End
+
+#2344
+Name Climbing the Hole~
+Descr
+Clambering down the sides of this hole requires great concentration. The
+otherwise quietness of the area is shattered intermittently by loud clashes of
+metal upon metal, which sound to be closer than before.
+~
+Flags 4
+Sector 5
+Door 4 0 0 2342 0 0
+~
+~
+Door 5 0 0 2345 0 0
+~
+~
+End
+
+#2345
+Name Continuing to Climb~
+Descr
+The clanging noise seems to be originating from the west. In the murky
+air you can see what appears to be an open flame. From below come muffled
+shouts and an awful aroma. 
+~
+Flags 4
+Sector 5
+Door 3 0 0 2346 0 0
+~
+~
+Door 4 0 0 2344 0 0
+~
+~
+Door 5 0 0 2341 0 0
+~
+~
+End
+
+#2346
+Name Near a Fiery Glow~
+Descr
+Closer to the glow from the west, you can identify it as a blacksmith's
+forge with what seems to be a small giant or a huge demon standing over it,
+the blacksmith you assume. 
+~
+Flags 4
+Door 1 0 0 2345 0 0
+~
+~
+Door 3 0 0 2347 0 0
+~
+~
+End
+
+#2347
+Name The Armoury~
+Descr
+Judging by the frenzied activity occuring around the forge, it seems that
+the Balrog and his men are preparing an invasion. The flames from the forge
+provide lighting for this room, and make it almost unbearably hot. 
+~
+Flags 4
+Reset M 2224 1 100
+Reset O 2214 1 1
+Reset O 2224 1 1
+Door 1 0 0 2346 0 0
+~
+~
+End
+
+#2348
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush and
+no birds fly overhead or can be heard from the treetops. The oppression that
+causes this seems to originate from the north.
+~
+Sector 4
+Door 0 0 0 2342 0 0
+~
+~
+Door 1 0 0 2391 0 0
+~
+~
+Door 2 0 0 2349 0 0
+~
+~
+Door 3 259 0 2392 30 30
+~
+glade~
+End
+
+#2349
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush
+and no birds fly overhead or can be heard from the treetops. The oppression
+that causes this seems to originate from the north. To the west, you notice
+a boarded-over door peeking through the underbrush. 
+~
+Sector 4
+Door 0 0 0 2348 0 0
+~
+~
+Door 1 0 0 2350 0 0
+~
+~
+Door 3 259 0 2352 30 30
+~
+boarded-over door~
+End
+
+#2350
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush and
+no birds fly overhead or can be heard from the treetops. The oppression that
+causes this seems to originate from the west.
+~
+Sector 4
+Door 0 0 0 2391 0 0
+~
+~
+Door 1 0 0 2351 0 0
+~
+~
+Door 3 0 0 2349 0 0
+~
+~
+End
+
+#2351
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush and
+no birds fly overhead or can be heard from the treetops. The oppression that
+causes this seems to originate from the west.
+~
+Sector 4
+Reset M 2222 1 100
+Door 0 0 0 2390 0 0
+~
+~
+Door 1 0 0 2353 0 0
+~
+~
+Door 3 0 0 2350 0 0
+~
+~
+End
+
+#2352
+Name Inside a Run-Down Shack~
+Descr
+This appears to have once been a woodsman's hut. Now however it is long
+abandoned - with weeds poking up from between the floorboards and the roof
+sagging and in great danger of collapse. The only furniture still in one
+piece appears to be a small wooden box, flush against the west wall. 
+~
+Flags 4
+Sector 0
+Reset O 2206 -5 100
+Reset O 2205 -3 10
+Door 1 259 0 2349 30 30
+~
+boarded-over door~
+End
+
+#2353
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush and
+no birds fly overhead or can be heard from the treetops. The oppression that
+causes this seems to originate from the west.
+~
+Sector 4
+Reset M 2223 1 100
+Reset O 2208 -5 100
+Door 0 0 0 2389 0 0
+~
+~
+Door 1 0 0 2383 0 0
+~
+~
+Door 2 0 0 2354 0 0
+~
+~
+Door 3 0 0 2351 0 0
+~
+~
+End
+
+#2354
+Name A Forest Path~
+Descr
+The forest here is strangely quiet, no sounds emerge from the underbrush and
+no birds fly overhead or can be heard from the treetops. The oppression that
+causes this seems to originate from the north.
+~
+Sector 4
+Reset O 2207 -5 100
+Door 0 0 0 2353 0 0
+~
+~
+Door 1 0 0 2374 0 0
+~
+~
+Door 2 0 0 2355 0 0
+~
+~
+End
+
+#2355
+Name A Clearing in the Forest~
+Descr
+Signs of a struggle are evident throughout this clearing, bodies and blood
+lie strewn around the area - some human, some a form of demon you have never
+seen before.
+~
+Flags 2097152
+Sector 3
+Reset O 2210 -5 100
+Reset O 2209 -5 100
+Reset O 2207 -5 100
+Reset O 2211 -5 100
+Door 0 0 0 2354 0 0
+~
+~
+Door 1 0 0 2369 0 0
+~
+~
+Door 2 0 0 2356 0 0
+~
+~
+End
+
+#2356
+Name Path Within a Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. To the north, smoke can be seen and the smell
+of blood is in the air. 
+~
+Sector 4
+Reset M 2223 1 100
+Door 0 0 0 2355 0 0
+~
+~
+Door 1 0 0 2368 0 0
+~
+~
+Door 2 0 0 2357 0 0
+~
+~
+End
+
+#2357
+Name Path Within a Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 4
+Reset M 2223 1 100
+Door 0 0 0 2356 0 0
+~
+~
+Door 1 0 0 2367 0 0
+~
+~
+Door 2 0 0 2358 0 0
+~
+~
+End
+
+#2358
+Name A Turn in the Path~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 4
+Door 0 0 0 2357 0 0
+~
+~
+Door 1 0 0 2359 0 0
+~
+~
+Door 2 0 0 2375 0 0
+~
+~
+Door 3 0 0 5002 0 0
+~
+~
+End
+
+#2359
+Name Path Within a Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 4
+Door 0 0 0 2367 0 0
+~
+~
+Door 1 0 0 2360 0 0
+~
+~
+Door 2 0 0 2376 0 0
+~
+~
+Door 3 0 0 2358 0 0
+~
+~
+End
+
+#2360
+Name Path Within a Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 4
+Door 0 0 0 2366 0 0
+~
+~
+Door 1 0 0 2361 0 0
+~
+~
+Door 2 0 0 2377 0 0
+~
+~
+Door 3 0 0 2359 0 0
+~
+~
+End
+
+#2361
+Name A Turn in the Path~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 4
+Door 0 0 0 2362 0 0
+~
+~
+Door 2 0 0 2378 0 0
+~
+~
+Door 3 0 0 2360 0 0
+~
+~
+End
+
+#2362
+Name Inside a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2364 0 0
+~
+~
+Door 1 0 0 2363 0 0
+~
+~
+Door 2 0 0 2361 0 0
+~
+~
+Door 3 0 0 2366 0 0
+~
+~
+End
+
+#2363
+Name Before a Dark Forest~
+Descr
+There is an aura of menace eminating from the trees as you stand here
+unsure of whether or not to continue. The usual sounds associated with a
+forest are strangely absent, no birds are chirping and no movement can be
+seen from within the forest. 
+~
+Flags 2
+Door 1 0 0 2399 0 0
+~
+~
+Door 2 0 0 10112 0 0
+~
+~
+Door 3 0 0 2362 0 0
+~
+~
+End
+
+#2364
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2371 0 0
+~
+~
+Door 2 0 0 2362 0 0
+~
+~
+Door 3 0 0 2365 0 0
+~
+~
+End
+
+#2365
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2370 0 0
+~
+~
+Door 1 0 0 2364 0 0
+~
+~
+Door 2 0 0 2366 0 0
+~
+~
+Door 3 0 0 2368 0 0
+~
+~
+End
+
+#2366
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2365 0 0
+~
+~
+Door 1 0 0 2362 0 0
+~
+~
+Door 2 0 0 2360 0 0
+~
+~
+Door 3 0 0 2367 0 0
+~
+~
+End
+
+#2367
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2368 0 0
+~
+~
+Door 1 0 0 2366 0 0
+~
+~
+Door 2 0 0 2359 0 0
+~
+~
+Door 3 0 0 2357 0 0
+~
+~
+End
+
+#2368
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2369 0 0
+~
+~
+Door 1 0 0 2365 0 0
+~
+~
+Door 2 0 0 2367 0 0
+~
+~
+Door 3 0 0 2356 0 0
+~
+~
+End
+
+#2369
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2374 0 0
+~
+~
+Door 1 0 0 2370 0 0
+~
+~
+Door 2 0 0 2368 0 0
+~
+~
+Door 3 0 0 2355 0 0
+~
+~
+End
+
+#2370
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2373 0 0
+~
+~
+Door 1 0 0 2371 0 0
+~
+~
+Door 2 0 0 2365 0 0
+~
+~
+Door 3 0 0 2369 0 0
+~
+~
+End
+
+#2371
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2372 0 0
+~
+~
+Door 2 0 0 2364 0 0
+~
+~
+Door 3 0 0 2370 0 0
+~
+~
+End
+
+#2372
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2385 0 0
+~
+~
+Door 2 0 0 2371 0 0
+~
+~
+Door 3 0 0 2373 0 0
+~
+~
+End
+
+#2373
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2384 0 0
+~
+~
+Door 1 0 0 2372 0 0
+~
+~
+Door 2 0 0 2370 0 0
+~
+~
+Door 3 0 0 2374 0 0
+~
+~
+End
+
+#2374
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2383 0 0
+~
+~
+Door 1 0 0 2373 0 0
+~
+~
+Door 2 0 0 2369 0 0
+~
+~
+Door 3 0 0 2354 0 0
+~
+~
+End
+
+#2375
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2358 0 0
+~
+~
+Door 1 0 0 2376 0 0
+~
+~
+Door 2 0 0 2382 0 0
+~
+~
+End
+
+#2376
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2359 0 0
+~
+~
+Door 1 0 0 2377 0 0
+~
+~
+Door 2 0 0 2381 0 0
+~
+~
+Door 3 0 0 2375 0 0
+~
+~
+End
+
+#2377
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2360 0 0
+~
+~
+Door 1 0 0 2378 0 0
+~
+~
+Door 2 0 0 2380 0 0
+~
+~
+Door 3 0 0 2376 0 0
+~
+~
+End
+
+#2378
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2361 0 0
+~
+~
+Door 2 0 0 2379 0 0
+~
+~
+Door 3 0 0 2377 0 0
+~
+~
+End
+
+#2379
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2378 0 0
+~
+~
+Door 3 0 0 2380 0 0
+~
+~
+End
+
+#2380
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2377 0 0
+~
+~
+Door 1 0 0 2379 0 0
+~
+~
+Door 3 0 0 2381 0 0
+~
+~
+End
+
+#2381
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2376 0 0
+~
+~
+Door 1 0 0 2380 0 0
+~
+~
+Door 3 0 0 2382 0 0
+~
+~
+End
+
+#2382
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 0 0 0 2375 0 0
+~
+~
+Door 1 0 0 2381 0 0
+~
+~
+End
+
+#2383
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Reset M 2223 1 100
+Door 0 0 0 2388 0 0
+~
+~
+Door 1 0 0 2384 0 0
+~
+~
+Door 2 0 0 2374 0 0
+~
+~
+Door 3 0 0 2353 0 0
+~
+~
+End
+
+#2384
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Reset M 2223 1 100
+Reset M 2223 1 100
+Door 0 0 0 2387 0 0
+~
+~
+Door 1 0 0 2385 0 0
+~
+~
+Door 2 0 0 2373 0 0
+~
+~
+Door 3 0 0 2383 0 0
+~
+~
+End
+
+#2385
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 0 0 0 2386 0 0
+~
+~
+Door 2 0 0 2372 0 0
+~
+~
+Door 3 0 0 2384 0 0
+~
+~
+End
+
+#2386
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 2 0 0 2385 0 0
+~
+~
+Door 3 0 0 2387 0 0
+~
+~
+End
+
+#2387
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. At your feet is a tunnel, seeming to lead into
+the bowels of the earth. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 1 0 0 2386 0 0
+~
+~
+Door 2 0 0 2384 0 0
+~
+~
+Door 3 0 0 2388 0 0
+~
+~
+Door 5 0 0 5220 0 0
+~
+~
+End
+
+#2388
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Reset M 2223 1 100
+Door 1 0 0 2387 0 0
+~
+~
+Door 2 0 0 2383 0 0
+~
+~
+Door 3 0 0 2389 0 0
+~
+~
+End
+
+#2389
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 1 0 0 2388 0 0
+~
+~
+Door 2 0 0 2353 0 0
+~
+~
+Door 3 0 0 2390 0 0
+~
+~
+End
+
+#2390
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 1 0 0 2389 0 0
+~
+~
+Door 2 0 0 2351 0 0
+~
+~
+Door 3 0 0 2391 0 0
+~
+~
+End
+
+#2391
+Name Deep in a Dark Forest~
+Descr
+The forest is quiet - too quiet. It seems as if a dark presence has taken
+hold of this forest an driven out the animals. Silence reigns supreme in the
+forest, and in the periphery of your vision, you'd swear you could see dark
+demonic shapes following you. 
+~
+Sector 3
+Door 1 0 0 2390 0 0
+~
+~
+Door 2 0 0 2350 0 0
+~
+~
+Door 3 0 0 2348 0 0
+~
+~
+End
+
+#2392
+Name A Secluded Glade in the Forest~
+Descr
+You get the feeling that you are the first people to walk here in a long time
+Dewy grass underfoot, and large oak trees overhead, the glade would be a 
+peaceful place were it not for the aura of evil that hangs heavy in the air.
+To the west you see what seem to be large blocks or boulders.
+~
+Door 1 259 0 2348 30 30
+~
+glade~
+Door 3 0 0 2393 0 0
+~
+~
+End
+
+#2393
+Name A Secluded Glade in the Forest~
+Descr
+This seems to be the location of an old, stone building. Large granite
+blocks lie about the glade, showing signs of fire damage and claw damage.
+From the moss growing on and about them, you realize that whatever happened
+here happened a long time ago. 
+~
+Door 1 0 0 2392 0 0
+~
+~
+Door 2 0 0 2394 0 0
+~
+~
+Door 3 0 0 2396 0 0
+~
+~
+End
+
+#2394
+Name A Secluded Glade in the Forest~
+Descr
+This seems to be the location of an old, stone building. Large granite
+blocks lie about the glade, showing signs of fire damage and claw damage.
+From the moss growing on and about them, you realize that whatever happened
+here happened a long time ago. 
+~
+Flags 2097152
+Door 0 0 0 2393 0 0
+~
+~
+Door 3 0 0 2395 0 0
+~
+~
+End
+
+#2395
+Name A Secluded Glade in the Forest~
+Descr
+This seems to be the location of an old, stone building. Large granite
+blocks lie about the glade, showing signs of fire damage and claw damage.
+From the moss growing on and about them, you realize that whatever happened
+here happened a long time ago. 
+~
+Door 0 0 0 2396 0 0
+~
+~
+Door 1 0 0 2394 0 0
+~
+~
+Door 5 259 0 2397 30 30
+~
+block~
+End
+
+#2396
+Name A Secluded Glade in the Forest~
+Descr
+This seems to be the location of an old, stone building. Large granite
+blocks lie about the glade, showing signs of fire damage and claw damage.
+From the moss growing on and about them, you realize that whatever happened
+here happened a long time ago. 
+~
+Door 1 0 0 2393 0 0
+~
+~
+Door 2 0 0 2395 0 0
+~
+~
+End
+
+#2397
+Name Remains of an Ancient Church~
+Descr
+You feel a great feeling of disquiet upon entering what appears to be the
+remains of a once-large church. Tapestries crumble to dust at your touch,
+and of the former residents of this church, all that can be seen is an altar
+at the north end of the church, glowing brightly. 
+~
+Door 0 0 0 2398 0 0
+~
+~
+Door 4 259 0 2395 30 30
+~
+block~
+End
+
+#2398
+Name Altar of an Ancient Church~
+Descr
+The altar is in surprisingly good condition considering the state of the
+rest of the church. Carved upon it are numerous religious ceremonies,
+including the summoning of demons and other creatures of the netherworld. On
+top of the altar seems to be a book. 
+~
+Flags 4
+Reset M 2225 1 100
+Reset O 2230 1 1
+Reset O 2229 1 1
+Reset O 2212 -5 100
+Reset O 2213 -3 100
+Door 2 0 0 2397 0 0
+~
+~
+End
+
+#2399
+Name Near a Dark Forest~
+Descr
+Approaching the forest, you sense something wrong. The normal sounds
+associated with such a landscape are strangely absent. Silence reigns
+supreme to the west, and you could swear that there is a dark cloud hanging
+over the forest. 
+~
+Door 1 0 0 10160 0 0
+~
+~
+Door 3 0 0 2363 0 0
+~
+~
+End
+
+#0
+
+
+
+#$
