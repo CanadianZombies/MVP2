@@ -1,0 +1,102 @@
+LABEL 10597~
+CODE ~
+LABEL blring~
+CODE :1 recho @P's ring sends forth dancing flames then explodes as a tiny imp rises from the undergrowth.:2 CREATE_MOB 11:3 force zzzyyy assist @P:4 DESTROY_OBJ     :5 end
+~
+LABEL darkport~
+CODE :1 if @Cl <=20 then:2 goto 5:3 if @Cl >20 then:4 goto 7:5 transfer @P 2020:6 done:7 if @R(1,4)==2 then:8 goto 15:9 if @R(1,4)==3 then:10 goto 17:11 if @R(1,4)==3 then:12 goto 19:13 if @R(1,4)==4 then:14 goto 21:15 trans @P 21543:16 done:17 trans @P 2020:18 done:19 trans @P 21072:20 done:21 trans @P 21899:22 done
+~
+LABEL eferryh~
+CODE :1 wait 1 quick:2 say Arrrr... Ok @P The ferry is here to return you back to the main land!:3 wait 1 quick:4 trans @P 4910:5 done
+~
+LABEL eferry~
+CODE :1 wait 1 quick:2 say Arrrr.. @P you wish to journey to the Hunting Grounds! Arrrr.. watch your back for there is evil there!:3 wait 1 quick:4 trans @P 4900:5 done
+~
+LABEL genie1~
+CODE :1 say Oh you wish eh?:2 wait 2 quick:3 say What, do you think this mud is cheater? We don't grant wishes here.:4 wait 2 quick:5 say How about I grant you this wish.......:6 wait 2 quick:7 force @P say I wish I had a fish!:8 wait 2 quick:9 say Your wish is granted! :10 wait 2 quick:11 recho There is a blinding flash and the genie creates a fish out of thin air!:12 CREATE_OBJECT 39234:13 give fish @P:14 wait 2 quick:15 laugh:16 trans self 39000:17 done
+~
+LABEL gferryh~
+CODE :1 wait 1 quick:2 say Arrrr... Ok @P The ferry is here to return you back to the main land!:3 wait 1 quick:4 trans @P 4920:5 done
+~
+LABEL gferry~
+CODE :1 wait 1 quick:2 say Arrrr.. @P you wish to journey to the Hunting Grounds! Arrrr.. watch your back for there is evil there!:3 wait 1 quick:4 trans @P 4930:5 done
+~
+LABEL giveprac~
+CODE :1 if (pracon) then:2 goto 9:3 wait 1 quick:4 say Hello @P I am here to help you out!:5 wait 1 quick:6 say @P please say 'Help me' and I will help you out!:7 wait 1 quick:8 smile @p:9 done
+~
+LABEL john~
+CODE :1 wait 1 quick:2 recho $B$4ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!:3 trans @P 35815:4 done
+~
+LABEL ki1~
+CODE :1 if @Cl>=15 then:2 transfer @P 100:3 recho $B$4@P You are too high of level to stay in the newbie zone!$N:4 done
+~
+LABEL kwin1~
+CODE :1 recho The center of the statue is depressed and there is a flash of light!:2 wait 1 quick:3 trans @P 4384:4 done
+~
+LABEL lepup~
+CODE :1 run up:2 call leprechau:3 end
+~
+LABEL lepdown~
+CODE :1 run down:2 call leprechau:3 end
+~
+LABEL lepeast~
+CODE :1 run east:2 run north:3 create_obj 23:4 wield wand:5 zap me:6 end
+~
+LABEL lepsouth~
+CODE :1 run south:2 call leprechau:3 end
+~
+LABEL lepwest~
+CODE :1 run west:2 call leprechau:3 end
+~
+LABEL lepnorth~
+CODE :1 run north:2 call leprechau:3 yell lepnorth:4 end
+~
+LABEL leprechau~
+CODE :1 call randomdir:2 wait 1 quick:3 goto 1:4 end
+~
+LABEL newbies2~
+CODE :1 wait 1 superquick:2 if @Cl>=25 then:3 goto 5:4 done:5 wait 1 quick:6 say @P you must leave this area! Good Bye!:7 smile @P:8 wave @P:9 wait 1 superquick:10 transfer @P 99:11 done
+~
+LABEL newbiezon~
+CODE ~
+LABEL newbies~
+CODE :1 wait 1 superquick:2 if @Cl>=25 then:3 goto 5:4 done:5 wait 1 quick:6 say @P you must leave this area! Good Bye!:7 smile @P:8 wave @P:9 wait 1 superquick:10 transfer @P 100:11 done
+~
+LABEL psetprac~
+CODE :1 if (pracon) then:2 goto 10:3 wait 1 quick:4 say Ok @P I will help you out with giving you two learns and 15 practices!:5 wait 1 quick:6 pset @P practice 15:7 pset @P learn 2:8 pset @P scriptflag pracon on:9 wait 1 quick:10 say OK @P you should be set! Have a wonderful time on Void of Reality!:11 done
+~
+LABEL rublamp1~
+CODE :1 recho There is a loud crack and smoke fills the room.:2 create_mob 39001:3 recho A huge magic genie appears.:4 destroy_obj:5 done  
+~
+LABEL ruger2~
+CODE :1 wait 1 superquick:2 eat loaf:3 wait 1 quick:4 lick:5 say Thank you @P. I feel a bit better.:6 done
+~
+LABEL ruger1~
+CODE :1 wait 1 superquick:2 say @P, please help me! I'm starving to death!:3 wait 1 quick:4 Say You would not happen to have a loaf of bread, do you @P?:5 done
+~
+LABEL return~
+CODE :1 wait 1 quick:2 recho $B$4ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!:3 trans @P 35526:4 done
+~
+LABEL randomdir~
+CODE :1 laugh:2 if @R(1,2)=1 then:3 call lepnorth:4 if @R(1,2)=1 then:5 call lepwest:6 if @R(1,2)=1 then:7 call lepeast:8 if @R(1,2)=1 then:9 call lepsouth:10 if @R(1,2)=1 then :11 call lepup :12 if @R(1,2)=1 then :13 call lepdown :14 giggle:15 CREATE_OBJ 23:16 wield wand:17 zap me:18 END
+~
+LABEL slots~
+CODE :1 recho TEST:2 end
+~
+LABEL slots2~
+CODE :1 recho SECOND WORKING AS WELL:2 end
+~
+LABEL test12~
+CODE ~
+LABEL toreador~
+CODE :1 wait 1 superquick:2 recho $NA voice in the back of your mind tells you, "DO NOT GO SOUTH!":3 end
+~
+LABEL wps~
+CODE ~
+LABEL whiteport~
+CODE :1 if @Cl <=20 then:2 goto 5:3 if @Cl >20 then:4 goto 7:5 transfer @P 2216:6 done:7 if @R(1,4)==2 then:8 goto 15:9 if @R(1,4)==3 then:10 goto 17:11 if @R(1,4)==3 then:12 goto 19:13 if @R(1,4)==4 then:14 goto 21:15 trans @P 10041:16 done:17 trans @P 2216:18 done:19 trans @P 10575:20 done:21 trans @P 10797:22 done
+~
+LABEL yoryeller~
+CODE :1 wait 1 quick:2 yell @P just passed me!!! HIDE THE SHEEP!!!:3 done
+~
+END

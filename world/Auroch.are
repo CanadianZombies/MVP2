@@ -1,0 +1,1523 @@
+#AREADATA 
+Name The Sewer~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mWater drips onto your forehead and falls onto the ground. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Auroch~
+VNUMs 20000 20099
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#20000
+Name sewer rat large~
+Short a large sewer rat~
+Long 
+A large sewer rat is here, stained with blood.
+~
+Descr
+~
+AMax 8
+NHeight 12
+ActBits -2147483638
+ActBits3 2
+Affect_By 552
+Money 25
+Level 25
+Sex 1
+MobType 7
+Guard 5
+End
+
+#20001
+Name large golem explorer AONE~
+Short a golem explorer~
+Long 
+A golem explorer is here, wandering the sewers.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 20
+ActBits3 655360
+ActBits4 4096
+Affect_By 8
+Money 35
+Level 35
+MobType 10
+Guard 0
+End
+
+#20002
+Name white warg~
+Short a white warg~
+Long 
+A white warg is here, sniffing the ground.
+~
+Descr
+~
+AMax 1
+NHeight 20
+ActBits 134225920
+Affect_By 8
+Money 20
+Level 20
+Sex 2
+MobType 7
+Guard 0
+End
+
+#20003
+Name orc orcish gate guard~
+Short an orcish gate guard~
+Long 
+An orcish gate guard is here, protecting his city.
+~
+Descr
+~
+AMax 3
+NHeight 200
+ActBits -2147483646
+Affect_By 552
+Alignment -1000
+Money 120
+Level 120
+Sex 1
+MobType 25
+Guard 2
+End
+
+#20004
+Name small snake~
+Short a small snake~
+Long 
+A small snake is here, slithering on the ground.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits3 65536
+Money 5
+Level 5
+Sex 1
+MobType 7
+Guard 0
+End
+
+#20005
+Name wild elf wild-elf guard~
+Short a wild-elf guard~
+Long 
+A wild-elf guard is here, protecting his city.
+~
+Descr
+~
+AMax 3
+NHeight 100
+ActBits -2147483646
+ActBits3 4096
+Affect_By 552
+Alignment 1000
+Money 120
+Level 120
+Sex 1
+MobType 1
+Guard 0
+End
+
+#20006
+Name large snake~
+Short a large snake~
+Long 
+A large sewer snake is here, hissing at you.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits3 65536
+Money 10
+Level 10
+Sex 2
+MobType 7
+Guard 0
+End
+
+#20007
+Name mutant sewer beast~
+Short a mutant beast~
+Long 
+A mutant sewer beast is here, looking down upon you.
+~
+Descr
+~
+AMax 10
+NHeight 250
+Affect_By 512
+Money 15
+Level 15
+Sex 1
+MobType 5
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#20000
+Name old copper sign~
+Short a copper sign~
+Descr
+An old copper sign is stuck in the ground here.
+[0;36m~
+Type 13
+Extra 268435456
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The sign reads as follows:
+
+ 
+
+Directly above is Machiay's Western Way.
+
+~
+ExtraDescr sign~
+The sign reads as follows:
+
+ 
+
+Directly Above you is Western Way.
+
+~
+End
+
+#20001
+Name copper old sign~
+Short a copper sign~
+Descr
+An old copper sign is stuck into the ground here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The sign reads as follows:
+
+ 
+
+Directly Above you is Machiay's Scafford Way.
+
+Directly east is instant death.
+
+~
+End
+
+#20002
+Name titanium key~
+Short a [1m[30mtitanium[0m[37m key~
+Descr
+A [1m[30mtitanium[0m[37m key is here, collecting dust.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 10
+Cost 100
+End
+
+#20003
+Name old copper sign~
+Short a copper sign~
+Descr
+An old copper sign is stuck in the ground here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+The sign reads as follows:
+
+ 
+
+Directly above is is Machiay's Main street.
+
+~
+End
+
+#20004
+Name small steel key~
+Short a small steel key~
+Descr
+A small key is here, collecting dust.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20005
+Name small crack~
+Short crack~
+Descr
+A small crack is here, hidden in the wall.
+[0;36m~
+Type 15
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#20060
+Name golden Barrel~
+Short [0m[33m Golden Barrel~
+Descr
+A shinny golden Barrel is in the room collecting dust.
+[0;36m~
+Type 15
+Extra 64
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 0 2 0 0 0 0 0 0 0
+Weight 40
+Cost 100000
+End
+
+#20066
+Name white Portal to Marneth~
+Short [0m[33m An Old Golden Portal~
+Descr
+A very old looking portal stands before you.
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 93701 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#20000
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. As you look around, you
+notice that the only exits here are up and down. Above you, you can hear the
+roar of the towns people scurrying about. Beneath you, you notice the sound
+of calm running water. 
+~
+Flags 6
+Door 4 259 0 1001 30 30
+~
+grate~
+Door 5 0 0 20001 0 0
+~
+~
+End
+
+#20001
+Name Center of Machiay's Sewer System~
+Descr
+You stand in the center of what seems to be a very complex system of
+underground sewers. The smell coming from these dank passageways is enough
+to make you sick. You notice there are exits in all four directions. 
+~
+Flags 4
+Reset M 20002 1 100
+Reset M 20001 1 100
+Reset O 20004 -1 100
+Door 0 0 0 20002 0 0
+~
+~
+Door 1 0 0 20015 0 0
+~
+~
+Door 2 0 0 20036 0 0
+~
+~
+Door 3 0 0 20017 0 0
+~
+~
+Door 4 0 0 20000 0 0
+~
+~
+End
+
+#20002
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20003 0 0
+~
+~
+Door 1 0 0 20016 0 0
+~
+~
+Door 2 0 0 20001 0 0
+~
+~
+Door 3 0 0 20018 0 0
+~
+~
+End
+
+#20003
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20004 0 0
+~
+~
+Door 2 0 0 20002 0 0
+~
+~
+Door 3 0 0 20019 0 0
+~
+~
+End
+
+#20004
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20005 0 0
+~
+~
+Door 2 0 0 20003 0 0
+~
+~
+End
+
+#20005
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20006 0 0
+~
+~
+Door 2 0 0 20004 0 0
+~
+~
+End
+
+#20006
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20007 0 0
+~
+~
+Door 2 0 0 20005 0 0
+~
+~
+End
+
+#20007
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20004 1 100
+Door 0 0 0 20008 0 0
+~
+~
+Door 2 0 0 20006 0 0
+~
+~
+End
+
+#20008
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20009 0 0
+~
+~
+Door 2 0 0 20007 0 0
+~
+~
+End
+
+#20009
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20010 0 0
+~
+~
+Door 1 0 0 20013 0 0
+~
+~
+Door 2 0 0 20008 0 0
+~
+~
+End
+
+#20010
+Name Northern End of the Sewer System~
+Descr
+You stand here at the northern end of the sewer system. To the south you
+see the windy sewer tunnels. Directly north of you lies a thick titanium
+gate, that looks as though the strongest man could not penetrate. You notice
+a large lock on it also. 
+~
+Flags 4
+Reset M 20004 5 75
+Door 0 259 0 20011 30 30
+~
+Wooden door~
+Door 2 0 0 20009 0 0
+~
+~
+End
+
+#20011
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 6
+Reset M 20003 1 100
+Door 0 0 0 20012 0 0
+~
+~
+Door 2 259 0 20010 30 30
+~
+Wooden door~
+End
+
+#20012
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Door 0 0 0 20064 0 0
+~
+~
+Door 2 0 0 20011 0 0
+~
+~
+End
+
+#20013
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Door 3 0 0 20009 0 0
+~
+~
+Door 4 0 0 20014 0 0
+~
+~
+End
+
+#20014
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. As you look around, you
+notice the only exits here are up and down. Above you, you notice a still
+calmness. Beneath you all you can see is chilling darkness. 
+~
+Flags 6
+Door 5 0 0 20013 0 0
+~
+~
+End
+
+#20015
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20016 0 0
+~
+~
+Door 1 0 0 20052 0 0
+~
+~
+Door 2 0 0 20037 0 0
+~
+~
+Door 3 0 0 20001 0 0
+~
+~
+End
+
+#20016
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20006 1 100
+Door 2 0 0 20015 0 0
+~
+~
+Door 3 0 0 20002 0 0
+~
+~
+End
+
+#20017
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20004 1 100
+Door 0 0 0 20018 0 0
+~
+~
+Door 1 0 0 20001 0 0
+~
+~
+Door 2 0 0 20038 0 0
+~
+~
+Door 3 0 0 20047 0 0
+~
+~
+End
+
+#20018
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20006 1 100
+Door 1 0 0 20002 0 0
+~
+~
+Door 2 0 0 20017 0 0
+~
+~
+End
+
+#20019
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 6
+Door 1 0 0 20003 0 0
+~
+~
+Door 3 0 0 20020 0 0
+~
+~
+End
+
+#20020
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20028 0 0
+~
+~
+Door 1 0 0 20019 0 0
+~
+~
+Door 2 0 0 20021 0 0
+~
+~
+Door 3 0 0 20025 0 0
+~
+~
+End
+
+#20021
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 0 0 0 20020 0 0
+~
+~
+Door 3 0 0 20022 0 0
+~
+~
+End
+
+#20022
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20025 0 0
+~
+~
+Door 1 0 0 20021 0 0
+~
+~
+Door 3 0 0 20023 0 0
+~
+~
+End
+
+#20023
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20026 0 0
+~
+~
+Door 1 0 0 20022 0 0
+~
+~
+Door 3 0 0 20024 0 0
+~
+~
+End
+
+#20024
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20027 0 0
+~
+~
+Door 1 0 0 20023 0 0
+~
+~
+End
+
+#20025
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20029 0 0
+~
+~
+Door 1 0 0 20020 0 0
+~
+~
+Door 2 0 0 20022 0 0
+~
+~
+Door 3 0 0 20026 0 0
+~
+~
+End
+
+#20026
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Reset M 20007 10 100
+Door 1 0 0 20025 0 0
+~
+~
+Door 2 0 0 20023 0 0
+~
+~
+Door 3 0 0 20027 0 0
+~
+~
+End
+
+#20027
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 1 0 0 20026 0 0
+~
+~
+Door 2 0 0 20024 0 0
+~
+~
+End
+
+#20028
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 0 0 0 20030 0 0
+~
+~
+Door 2 0 0 20020 0 0
+~
+~
+Door 3 0 0 20029 0 0
+~
+~
+End
+
+#20029
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Reset M 20007 10 100
+Door 1 0 0 20028 0 0
+~
+~
+Door 2 0 0 20025 0 0
+~
+~
+End
+
+#20030
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 0 0 0 20034 0 0
+~
+~
+Door 2 0 0 20028 0 0
+~
+~
+Door 3 0 0 20035 0 0
+~
+~
+End
+
+#20031
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 1 0 0 20034 0 0
+~
+~
+Door 2 0 0 20035 0 0
+~
+~
+Door 3 0 0 20032 0 0
+~
+~
+End
+
+#20032
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 1 0 0 20031 0 0
+~
+~
+Door 3 0 0 20033 0 0
+~
+~
+End
+
+#20033
+Name A Dead End~
+Descr
+You have come to a dead end in these windy tunnels. The only exit here is
+to the east. There is something very strange to you about these sewer
+tunnels, and you know you have to keep searching until you find what it is. 
+~
+Flags 4
+Door 1 0 0 20032 0 0
+~
+~
+End
+
+#20034
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 2 0 0 20030 0 0
+~
+~
+Door 3 0 0 20031 0 0
+~
+~
+End
+
+#20035
+Name Machiay's Western Sewer Tunnels~
+Descr
+You are in Machiay's western sewer tunnels. These tunnels seem to be a
+bit more complex then the main ones. The air hear seems to be very thin, and
+it is making you faint. You swear you could hear the clanking of swords
+above you. 
+~
+Flags 4
+Door 0 0 0 20031 0 0
+~
+~
+Door 1 0 0 20030 0 0
+~
+~
+End
+
+#20036
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20001 0 0
+~
+~
+Door 1 0 0 20037 0 0
+~
+~
+Door 2 0 0 20039 0 0
+~
+~
+Door 3 0 0 20038 0 0
+~
+~
+End
+
+#20037
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20006 1 100
+Door 0 0 0 20015 0 0
+~
+~
+Door 3 0 0 20036 0 0
+~
+~
+End
+
+#20038
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20006 1 100
+Door 0 0 0 20017 0 0
+~
+~
+Door 1 0 0 20036 0 0
+~
+~
+End
+
+#20039
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20036 0 0
+~
+~
+Door 2 0 0 20040 0 0
+~
+~
+End
+
+#20040
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20004 1 100
+Door 0 0 0 20039 0 0
+~
+~
+Door 2 0 0 20041 0 0
+~
+~
+End
+
+#20041
+Name Southern end of the Sewer System~
+Descr
+You have come to the southern end of the complex sewer system. To the
+north of you, you hear the running water that the sewer system provies. To
+the east lay dark caverns. 
+~
+Flags 4
+Door 0 0 0 20040 0 0
+~
+~
+Door 1 0 0 20042 0 0
+~
+~
+End
+
+#20042
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Reset M 20006 1 100
+Door 1 0 0 20043 0 0
+~
+~
+Door 3 0 0 20041 0 0
+~
+~
+End
+
+#20043
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Door 1 0 0 20044 0 0
+~
+~
+Door 2 0 0 20045 0 0
+~
+~
+Door 3 0 0 20042 0 0
+~
+~
+End
+
+#20044
+Name A Dead End in the Tunnels~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Door 3 0 0 20043 0 0
+~
+~
+End
+
+#20045
+Name A Small Underground Room~
+Descr
+You are standing in a small underground room, which lays in the tunnels
+just past the sewer system. To the north you can see the dark, cold tunnels.
+Just above you, you notice a small light beam floating towards you. 
+~
+Flags 4
+Reset M 20004 5 75
+Door 0 0 0 20043 0 0
+~
+~
+Door 4 0 0 20046 0 0
+~
+~
+End
+
+#20046
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. Just above you, you notice
+a steel manhole cover that looks difficult to remove. Beneath you, you see
+a small, cold room. 
+~
+Flags 6
+Door 5 0 0 20045 0 0
+~
+~
+End
+
+#20047
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 1 0 0 20017 0 0
+~
+~
+Door 3 0 0 20048 0 0
+~
+~
+End
+
+#20048
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset O 20000 -5 100
+Door 1 0 0 20047 0 0
+~
+~
+Door 3 0 0 20050 0 0
+~
+~
+End
+
+#20049
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. As you look around, you
+notice that the only exits here are up and down. Above you, you can hear the
+roar of the towns people scurrying about. Beneath you, you notice the sound
+of calm running water. 
+~
+Flags 6
+Door 5 0 0 20048 0 0
+~
+~
+End
+
+#20050
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 1 0 0 20048 0 0
+~
+~
+Door 3 0 0 20051 0 0
+~
+~
+End
+
+#20051
+Name Western End of the Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. A large titanium gate stands in the west. 
+~
+Flags 4
+Reset M 20004 1 100
+Door 1 0 0 20050 0 0
+~
+~
+Door 3 23 20002 20067 16 16
+~
+titanium gate~
+End
+
+#20052
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 1 0 0 20053 0 0
+~
+~
+Door 3 0 0 20015 0 0
+~
+~
+End
+
+#20053
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 1 0 0 20054 0 0
+~
+~
+Door 3 0 0 20052 0 0
+~
+~
+End
+
+#20054
+Name A Bend in the Sewers~
+Descr
+You stand at a bend in the sewer tunnels. The path here either leads to
+the west, towards the center of the sewer system, or to the south. You can
+pick up a very strong scent of death to the south. You also notice a small
+crack on the ground, and it appears to be man made. 
+~
+Flags 4
+Reset M 20004 1 100
+Reset O 20005 -5 100
+Reset O 20002 -3 25
+Door 2 0 0 20055 0 0
+~
+~
+Door 3 0 0 20053 0 0
+~
+~
+End
+
+#20055
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20054 0 0
+~
+~
+Door 2 0 0 20056 0 0
+~
+~
+End
+
+#20056
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20055 0 0
+~
+~
+Door 2 0 0 20057 0 0
+~
+~
+End
+
+#20057
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Door 0 0 0 20056 0 0
+~
+~
+Door 1 0 0 20058 0 0
+~
+~
+End
+
+#20058
+Name Machiay's Sewer System~
+Descr
+As you venture you notice that the sewers are very poorly attended too.
+Rats roam free scurrying about in search of food, and the walls are growing
+a strange kind of fungus on them. 
+~
+Flags 4
+Reset M 20004 1 100
+Door 1 0 0 20059 0 0
+~
+~
+Door 3 0 0 20057 0 0
+~
+~
+End
+
+#20059
+Name The Eastern End of the Sewer System~
+Descr
+Here you stand at the eastern end of the sewer system. To the west lays
+the sewers windy paths. Directly east of you there appears to be a strange
+room. The only way in is through an old wooden door. 
+~
+Flags 4
+Door 1 7 20004 20060 100 100
+~
+wooden door~
+Door 3 0 0 20058 0 0
+~
+~
+End
+
+#20060
+Name A Small, Dark Room~
+Descr
+You stand in a very small, very dark room. There seems to be large sewer
+rats all about. Hopefully your skillful training can protect you from them.
+You notice a strange grate in the floor, and it appears thats where the rats
+come and go. There is a wooden door to the west. 
+~
+Flags 4
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Reset M 20000 8 100
+Door 3 7 20004 20059 100 100
+~
+wooden door~
+Door 5 263 20004 20063 16 16
+~
+grate~
+End
+
+#20061
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. As you look around, you
+notice that the only exits here are up and down. Above you, you can hear the
+roar of the towns people scurrying about. Beneath you, you notice the sound
+of calm running water. 
+~
+Flags 6
+Door 5 0 0 20059 0 0
+~
+~
+End
+
+#20062
+Name A Narrow Passageway~
+Descr
+You are standing in a very narrow passageway. As you look around, you
+notice that the only exits here are up and down. Above you, you can hear the
+roar of the towns people scurrying about. Beneath you, you notice the sound
+of calm running water. 
+~
+Flags 6
+Door 5 0 0 20054 0 0
+~
+~
+End
+
+#20063
+Name A Hidden Passageway~
+Descr
+You stand here at a hidden passageway. You find that it is very cool, and
+maybe you should have dressed warmer. The only exits here lead down to the
+unknown, and up into the sewers. 
+~
+Flags 4
+Door 4 263 20004 20060 16 16
+~
+grate~
+End
+
+#20064
+Name A Dark Underground Tunnel~
+Descr
+You are venturing just beneath the worlds surface. You notice that the
+weather hear is very cold, and there always seems to be a breeze blowing
+through these tunnels. 
+~
+Flags 4
+Reset M 20005 1 100
+Door 0 259 0 20065 30 30
+~
+Steel door~
+Door 2 0 0 20012 0 0
+~
+~
+End
+
+#20065
+Name Just Beneath a Great City~
+Descr
+You are standing just beneath a great city. You can hear the commotion on
+the streets if you listen hard enough. You are standing in an underground
+tunnel, just beneath the earth. A strange wind blows here. 
+~
+Flags 4
+Door 2 259 0 20064 30 30
+~
+Steel door~
+Door 4 0 0 20066 0 0
+~
+~
+End
+
+#20066
+Name An Underground Passageway~
+Descr
+You are standing just beneath a great city. You can hear the commotion on
+the streets if you listen hard enough. You are standing in an underground
+tunnel, just beneath the earth. A strange wind blows here. 
+~
+Flags 4
+Reset O 20066 -5 100
+Reset O 20060 -5 100
+Door 5 0 0 20065 0 0
+~
+~
+End
+
+#20067
+Name A Large Blockade~
+Descr
+You stand here at a large blockade. It appears as if though there was a
+great war that knocked down much of the land. There is no way you can pass
+anywhere, except to go back into the sewers which are to the east. 
+~
+Flags 4
+Door 1 23 20002 20051 16 16
+~
+titanium gate~
+End
+
+#0
+
+
+
+#$

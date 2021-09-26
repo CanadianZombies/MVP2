@@ -1,0 +1,4630 @@
+#AREADATA 
+Name Castle Alteric~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe castle thrives with activity as a new day begins.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Klaw~
+VNUMs 5300 5499
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#5300
+Name alteric Security guard~
+Short alteric's Security Guard~
+Long 
+One of Alteric's finest security guards is here.
+~
+Descr
+This security guard for Alteric keeps the streets clean of criminals. 
+~
+AMax 5
+NHeight 0
+ActBits 134217728
+ActBits4 4096
+Affect_By 680
+Money 135
+Level 135
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#5301
+Name alteric security guard~
+Short alteric's Security Guard~
+Long 
+One of Alteric's finest security guards is here.
+~
+Descr
+This security guard for Alteric keeps the streets clean of criminals. 
+~
+AMax 2
+NHeight 0
+Affect_By 680
+Money 135
+Level 135
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#5302
+Name hermit~
+Short a hermit~
+Long 
+A Hermit dressed in rags is here.
+~
+Descr
+This old hermit has been living around Alteric for many years. Some
+people though think he sold out to the skaven prince and is trying to help
+them take over Alteric. 
+~
+AMax 1
+NHeight 0
+ActBits 36
+Affect_By 520
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#5303
+Name montell~
+Short montell~
+Long 
+Montell, Knight of Alteric is here.
+~
+Descr
+This holy knight of Alteric is patrolling the fields constantly to
+destroy the forces of evil nearby. He is a great warrior and an incredible
+foe. 
+~
+AMax 1
+NHeight 0
+ActBits 1073741824
+ActBits4 4096
+Affect_By 648
+Money 275
+Level 275
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#5304
+Name armand~
+Short armand~
+Long 
+Armand, Knight of Alteric is here.
+~
+Descr
+Armand is trying to keep the evil forces out of Alteric and is patrolling
+the fields looking for them. 
+~
+AMax 1
+NHeight 0
+ActBits 1073741824
+ActBits4 4096
+Affect_By 648
+Money 300
+Level 300
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#5305
+Name jenny~
+Short jenny~
+Long 
+Jenny, the Hermit's Wife is here.
+~
+Descr
+Jenny is the hermit's wife. She stays at home all the time though in
+their little shack. Some say they have seen her with a beautiful ring
+before, but it has never been proved. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 552
+Money 145
+Level 145
+Sex 2
+MobType 0
+Guard 0
+End
+
+#5428
+Name wolf beast aone~
+Short a wolf~
+Long 
+A wolf is here.
+~
+Descr
+This wolf does whatever it's master orc wants it to, and has incredible
+speed. 
+~
+AMax 3
+NHeight 0
+ActBits 134225920
+ActBits3 794624
+Affect_By 648
+Alignment -1000
+Money 101
+Level 101
+MobType 6
+Guard 0
+End
+
+#5429
+Name beast orc aone~
+Short an orc~
+Long 
+An orc is here.
+~
+Descr
+This orc was hired by Rathell to keep Alteric's defenses busy, and thats
+what he is doing. 
+~
+AMax 3
+NHeight 0
+ActBits 134217728
+ActBits3 401408
+Affect_By 648
+Alignment -1000
+Money 101
+Level 101
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#5430
+Name minotaur beast aone georg~
+Short georg~
+Long 
+Georg, the ancient Minotaur is here.
+~
+Descr
+This great minotaur has lived for ages. Although his race is a very noble
+one, it appears he has sold out to Rathell and does his bidding. 
+~
+AMax 1
+NHeight 0
+ActBits3 524288
+Affect_By 648
+Alignment -1000
+Money 200
+Level 200
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#5300
+Name throne large~
+Short a large throne~
+Descr
+A large throne is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 0
+End
+
+#5301
+Name anklet sapphire ankle~
+Short a [1m[34msa[0m[34mpphi[1mre[0m anklet~
+Descr
+An anklet made of sapphire is here.
+[0;36m~
+Type 9
+Extra 2
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 10 10 50 50 10 3
+Weight 2
+Cost 10000
+Affect 13 5 1 0 0
+Affect 14 5 1 0 0
+Affect 22 2 1 0 0
+End
+
+#5302
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 9
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#5303
+Name sapphire ring finger MAGICDAM HP AC~
+Short a [1m[34msa[0m[34mpphi[1mre[0m ring~
+Descr
+A ring made of of the finest sapphire is here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 50 50 10 3
+Weight 1
+Cost 10000
+Affect 17 -4 1 0 0
+Affect 13 18 1 0 0
+Affect 26 5 1 0 0
+End
+
+#5304
+Name sleeves destruction APB~
+Short some [1m[34msleeves of [0m[1m[30md[31me[30ms[31mt[30mr[31mu[30mc[31mt[30mi[31mo[30mn[0m~
+Descr
+Some sleeves lay here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 0 0 0 0 0 0
+Weight 3
+Cost 12943
+Affect 18 3 1 0 0
+Affect 19 1 1 0 0
+Affect 13 13 1 0 0
+End
+
+#5305
+Name shield destruction armand~
+Short a [1m[34mshield of [0m[1m[30md[31me[30ms[31mt[30mr[31mu[30mc[31mt[30mi[31mo[30mn[0m~
+Descr
+A shield lays here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 5 3 5 0 0 0 0 0 0
+Weight 4
+Cost 18273
+Affect 18 3 1 0 0
+Affect 19 1 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#5425
+Name montell gauntlets holy power HEALBONUS~
+Short [1m[34mMo[37mntel[34ml[37m'[34ms [37mga[34muntle[37mts of [34mh[37mol[34my [37mp[34mowe[37mr[0m~
+Descr
+Some gauntlets pulsating with power are here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 0 0 0
+Weight 2
+Cost 18267
+Affect 17 -3 1 0 0
+Affect 13 10 1 0 0
+Affect 27 5 1 0 0
+End
+
+#5428
+Name horns georg blackened~
+Short the [1m[30mBlackened [0m[31mH[37morn[31ms[0m[37m of [31mG[1me[0m[37mo[1m[31mr[0m[31mg[0m~
+Descr
+Some blackened horns lay here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 0 0 75 75 0 0
+Weight 2
+Cost 81723
+Affect 17 -3 1 0 0
+Affect 19 1 1 0 0
+Affect 13 15 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#5300
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 5301 0 0
+~
+~
+Door 2 259 0 7993 30 30
+~
+securitydoor~
+End
+
+#5301
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 5300 0 0
+~
+~
+Door 3 0 0 5302 0 0
+~
+~
+End
+
+#5302
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 5301 0 0
+~
+~
+Door 4 0 0 5303 0 0
+~
+~
+End
+
+#5303
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 5304 0 0
+~
+~
+Door 5 0 0 5302 0 0
+~
+~
+End
+
+#5304
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 5305 0 0
+~
+~
+Door 2 0 0 5303 0 0
+~
+~
+End
+
+#5305
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 5304 0 0
+~
+~
+Door 4 0 0 5306 0 0
+~
+~
+End
+
+#5306
+Name Hallway to Alteric's Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possibly committed. Up ahead is Alteric's Security
+Headquarters. 
+~
+Flags 6
+Sector 0
+Door 4 0 0 5307 0 0
+~
+~
+Door 5 0 0 5305 0 0
+~
+~
+End
+
+#5307
+Name Headquarters of the Alteric Security Department~
+Descr
+Much money changes hands in Alteric, so much thievery takes place as
+well. Alteric's Security Department is here to prevent that thievery, and
+any other crimes possible committed. Here is their Headquarters. 
+~
+Flags 5
+Sector 0
+Reset M 5300 1 100
+Reset O 5301 1 1
+Door 5 0 0 5306 0 0
+~
+~
+End
+
+#5308
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5309 0 0
+~
+~
+Door 1 0 0 5465 0 0
+~
+~
+Door 2 0 0 8003 0 0
+~
+~
+End
+
+#5309
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5310 0 0
+~
+~
+Door 1 0 0 5464 0 0
+~
+~
+Door 2 0 0 5308 0 0
+~
+~
+End
+
+#5310
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5311 0 0
+~
+~
+Door 1 0 0 5463 0 0
+~
+~
+Door 2 0 0 5309 0 0
+~
+~
+End
+
+#5311
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5312 0 0
+~
+~
+Door 1 0 0 5462 0 0
+~
+~
+Door 2 0 0 5310 0 0
+~
+~
+End
+
+#5312
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5313 0 0
+~
+~
+Door 1 0 0 5461 0 0
+~
+~
+Door 2 0 0 5311 0 0
+~
+~
+End
+
+#5313
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5314 0 0
+~
+~
+Door 1 0 0 5460 0 0
+~
+~
+Door 2 0 0 5312 0 0
+~
+~
+End
+
+#5314
+Name The East Gate of Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Flags 4
+Reset M 7986 1 100
+Reset M 7986 1 100
+Reset M 7986 1 100
+Door 0 0 0 5315 0 0
+~
+~
+Door 1 0 0 5459 0 0
+~
+~
+Door 2 0 0 5313 0 0
+~
+~
+Door 3 3 0 8018 30 30
+~
+gate~
+End
+
+#5315
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5316 0 0
+~
+~
+Door 1 0 0 5458 0 0
+~
+~
+Door 2 0 0 5314 0 0
+~
+~
+End
+
+#5316
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5317 0 0
+~
+~
+Door 1 0 0 5457 0 0
+~
+~
+Door 2 0 0 5315 0 0
+~
+~
+End
+
+#5317
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5318 0 0
+~
+~
+Door 1 0 0 5456 0 0
+~
+~
+Door 2 0 0 5316 0 0
+~
+~
+End
+
+#5318
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5319 0 0
+~
+~
+Door 1 0 0 5455 0 0
+~
+~
+Door 2 0 0 5317 0 0
+~
+~
+End
+
+#5319
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5414 0 0
+~
+~
+Door 1 0 0 5454 0 0
+~
+~
+Door 2 0 0 5318 0 0
+~
+~
+Door 3 0 0 5320 0 0
+~
+~
+End
+
+#5320
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5413 0 0
+~
+~
+Door 1 0 0 5319 0 0
+~
+~
+Door 3 0 0 5321 0 0
+~
+~
+End
+
+#5321
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5412 0 0
+~
+~
+Door 1 0 0 5320 0 0
+~
+~
+Door 3 0 0 5322 0 0
+~
+~
+End
+
+#5322
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5411 0 0
+~
+~
+Door 1 0 0 5321 0 0
+~
+~
+Door 3 0 0 5323 0 0
+~
+~
+End
+
+#5323
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5410 0 0
+~
+~
+Door 1 0 0 5322 0 0
+~
+~
+Door 3 0 0 5324 0 0
+~
+~
+End
+
+#5324
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5409 0 0
+~
+~
+Door 1 0 0 5323 0 0
+~
+~
+Door 3 0 0 5325 0 0
+~
+~
+End
+
+#5325
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5408 0 0
+~
+~
+Door 1 0 0 5324 0 0
+~
+~
+Door 3 0 0 5326 0 0
+~
+~
+End
+
+#5326
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5407 0 0
+~
+~
+Door 1 0 0 5325 0 0
+~
+~
+Door 3 0 0 5327 0 0
+~
+~
+End
+
+#5327
+Name The North Gate of Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Flags 4
+Sector 0
+Reset M 7986 1 100
+Reset M 7986 1 100
+Reset M 7986 1 100
+Door 0 0 0 5406 0 0
+~
+~
+Door 1 0 0 5326 0 0
+~
+~
+Door 2 3 0 8011 30 30
+~
+gate~
+Door 3 0 0 5328 0 0
+~
+~
+End
+
+#5328
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5405 0 0
+~
+~
+Door 1 0 0 5327 0 0
+~
+~
+Door 3 0 0 5329 0 0
+~
+~
+End
+
+#5329
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5404 0 0
+~
+~
+Door 1 0 0 5328 0 0
+~
+~
+Door 3 0 0 5330 0 0
+~
+~
+End
+
+#5330
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5403 0 0
+~
+~
+Door 1 0 0 5329 0 0
+~
+~
+Door 3 0 0 5331 0 0
+~
+~
+End
+
+#5331
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5402 0 0
+~
+~
+Door 1 0 0 5330 0 0
+~
+~
+Door 3 0 0 5332 0 0
+~
+~
+End
+
+#5332
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5401 0 0
+~
+~
+Door 1 0 0 5331 0 0
+~
+~
+Door 3 0 0 5333 0 0
+~
+~
+End
+
+#5333
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5400 0 0
+~
+~
+Door 1 0 0 5332 0 0
+~
+~
+Door 3 0 0 5334 0 0
+~
+~
+End
+
+#5334
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5399 0 0
+~
+~
+Door 1 0 0 5333 0 0
+~
+~
+Door 3 0 0 5337 0 0
+~
+~
+End
+
+#5335
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5398 0 0
+~
+~
+End
+
+#5336
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5397 0 0
+~
+~
+End
+
+#5337
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5396 0 0
+~
+~
+Door 1 0 0 5334 0 0
+~
+~
+Door 2 0 0 5338 0 0
+~
+~
+Door 3 0 0 5360 0 0
+~
+~
+End
+
+#5338
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5337 0 0
+~
+~
+Door 2 0 0 5339 0 0
+~
+~
+Door 3 0 0 5359 0 0
+~
+~
+End
+
+#5339
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5338 0 0
+~
+~
+Door 2 0 0 5340 0 0
+~
+~
+Door 3 0 0 5358 0 0
+~
+~
+End
+
+#5340
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5339 0 0
+~
+~
+Door 2 0 0 5341 0 0
+~
+~
+Door 3 0 0 5357 0 0
+~
+~
+End
+
+#5341
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5340 0 0
+~
+~
+Door 2 0 0 5342 0 0
+~
+~
+Door 3 0 0 5356 0 0
+~
+~
+End
+
+#5342
+Name The West Gate of Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Flags 4
+Reset M 7986 1 100
+Reset M 7986 1 100
+Reset M 7986 1 100
+Door 0 0 0 5341 0 0
+~
+~
+Door 1 3 0 8026 30 30
+~
+gate~
+Door 2 0 0 5343 0 0
+~
+~
+Door 3 0 0 5355 0 0
+~
+~
+End
+
+#5343
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5342 0 0
+~
+~
+Door 2 0 0 5344 0 0
+~
+~
+Door 3 0 0 5354 0 0
+~
+~
+End
+
+#5344
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5343 0 0
+~
+~
+Door 2 0 0 5345 0 0
+~
+~
+Door 3 0 0 5353 0 0
+~
+~
+End
+
+#5345
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5344 0 0
+~
+~
+Door 2 0 0 5346 0 0
+~
+~
+Door 3 0 0 5352 0 0
+~
+~
+End
+
+#5346
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5345 0 0
+~
+~
+Door 2 0 0 5347 0 0
+~
+~
+Door 3 0 0 5351 0 0
+~
+~
+End
+
+#5347
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5346 0 0
+~
+~
+Door 2 0 0 5348 0 0
+~
+~
+Door 3 0 0 5350 0 0
+~
+~
+End
+
+#5348
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5347 0 0
+~
+~
+Door 2 0 0 8002 0 0
+~
+~
+Door 3 0 0 5349 0 0
+~
+~
+End
+
+#5349
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Door 0 0 0 5350 0 0
+~
+~
+Door 1 0 0 5348 0 0
+~
+~
+Door 3 0 0 5372 0 0
+~
+~
+End
+
+#5350
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5351 0 0
+~
+~
+Door 1 0 0 5347 0 0
+~
+~
+Door 2 0 0 5349 0 0
+~
+~
+Door 3 0 0 5371 0 0
+~
+~
+End
+
+#5351
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5352 0 0
+~
+~
+Door 1 0 0 5346 0 0
+~
+~
+Door 2 0 0 5350 0 0
+~
+~
+Door 3 0 0 5370 0 0
+~
+~
+End
+
+#5352
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5353 0 0
+~
+~
+Door 1 0 0 5345 0 0
+~
+~
+Door 2 0 0 5351 0 0
+~
+~
+Door 3 0 0 5369 0 0
+~
+~
+End
+
+#5353
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5354 0 0
+~
+~
+Door 1 0 0 5344 0 0
+~
+~
+Door 2 0 0 5352 0 0
+~
+~
+Door 3 0 0 5368 0 0
+~
+~
+End
+
+#5354
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5355 0 0
+~
+~
+Door 1 0 0 5343 0 0
+~
+~
+Door 2 0 0 5353 0 0
+~
+~
+Door 3 0 0 5367 0 0
+~
+~
+End
+
+#5355
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5356 0 0
+~
+~
+Door 1 0 0 5342 0 0
+~
+~
+Door 2 0 0 5354 0 0
+~
+~
+Door 3 0 0 5366 0 0
+~
+~
+End
+
+#5356
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5357 0 0
+~
+~
+Door 1 0 0 5341 0 0
+~
+~
+Door 2 0 0 5355 0 0
+~
+~
+Door 3 0 0 5365 0 0
+~
+~
+End
+
+#5357
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5358 0 0
+~
+~
+Door 1 0 0 5340 0 0
+~
+~
+Door 2 0 0 5356 0 0
+~
+~
+Door 3 0 0 5364 0 0
+~
+~
+End
+
+#5358
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5359 0 0
+~
+~
+Door 1 0 0 5339 0 0
+~
+~
+Door 2 0 0 5357 0 0
+~
+~
+Door 3 0 0 5363 0 0
+~
+~
+End
+
+#5359
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5360 0 0
+~
+~
+Door 1 0 0 5338 0 0
+~
+~
+Door 2 0 0 5358 0 0
+~
+~
+Door 3 0 0 5362 0 0
+~
+~
+End
+
+#5360
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5391 0 0
+~
+~
+Door 1 0 0 5337 0 0
+~
+~
+Door 2 0 0 5359 0 0
+~
+~
+Door 3 0 0 5361 0 0
+~
+~
+End
+
+#5361
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5390 0 0
+~
+~
+Door 1 0 0 5360 0 0
+~
+~
+Door 2 0 0 5362 0 0
+~
+~
+Door 3 0 0 5384 0 0
+~
+~
+End
+
+#5362
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5361 0 0
+~
+~
+Door 1 0 0 5359 0 0
+~
+~
+Door 2 0 0 5363 0 0
+~
+~
+Door 3 0 0 5383 0 0
+~
+~
+End
+
+#5363
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5362 0 0
+~
+~
+Door 1 0 0 5358 0 0
+~
+~
+Door 2 0 0 5364 0 0
+~
+~
+Door 3 0 0 5382 0 0
+~
+~
+End
+
+#5364
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5363 0 0
+~
+~
+Door 1 0 0 5357 0 0
+~
+~
+Door 2 0 0 5365 0 0
+~
+~
+Door 3 0 0 5381 0 0
+~
+~
+End
+
+#5365
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5364 0 0
+~
+~
+Door 1 0 0 5356 0 0
+~
+~
+Door 2 0 0 5366 0 0
+~
+~
+Door 3 0 0 5380 0 0
+~
+~
+End
+
+#5366
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 5302 1 100
+Door 0 0 0 5365 0 0
+~
+~
+Door 1 0 0 5355 0 0
+~
+~
+Door 2 0 0 5367 0 0
+~
+~
+Door 3 0 0 5379 0 0
+~
+~
+End
+
+#5367
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5366 0 0
+~
+~
+Door 1 0 0 5354 0 0
+~
+~
+Door 2 0 0 5368 0 0
+~
+~
+Door 3 0 0 5378 0 0
+~
+~
+End
+
+#5368
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5367 0 0
+~
+~
+Door 1 0 0 5353 0 0
+~
+~
+Door 2 0 0 5369 0 0
+~
+~
+Door 3 0 0 5377 0 0
+~
+~
+End
+
+#5369
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7947 1 100
+Door 0 0 0 5368 0 0
+~
+~
+Door 1 0 0 5352 0 0
+~
+~
+Door 2 0 0 5370 0 0
+~
+~
+Door 3 0 0 5376 0 0
+~
+~
+End
+
+#5370
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5369 0 0
+~
+~
+Door 1 0 0 5351 0 0
+~
+~
+Door 2 0 0 5371 0 0
+~
+~
+Door 3 0 0 5375 0 0
+~
+~
+End
+
+#5371
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5370 0 0
+~
+~
+Door 1 0 0 5350 0 0
+~
+~
+Door 2 0 0 5372 0 0
+~
+~
+Door 3 0 0 5374 0 0
+~
+~
+End
+
+#5372
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5371 0 0
+~
+~
+Door 1 0 0 5349 0 0
+~
+~
+Door 3 0 0 5373 0 0
+~
+~
+End
+
+#5373
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5374 0 0
+~
+~
+Door 1 0 0 5372 0 0
+~
+~
+End
+
+#5374
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5375 0 0
+~
+~
+Door 1 0 0 5371 0 0
+~
+~
+Door 2 0 0 5373 0 0
+~
+~
+End
+
+#5375
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5376 0 0
+~
+~
+Door 1 0 0 5370 0 0
+~
+~
+Door 2 0 0 5374 0 0
+~
+~
+End
+
+#5376
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5377 0 0
+~
+~
+Door 1 0 0 5369 0 0
+~
+~
+Door 2 0 0 5375 0 0
+~
+~
+Door 3 259 0 5499 30 30
+~
+Hermitdoor~
+End
+
+#5377
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5378 0 0
+~
+~
+Door 1 0 0 5368 0 0
+~
+~
+Door 2 0 0 5376 0 0
+~
+~
+End
+
+#5378
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5379 0 0
+~
+~
+Door 1 0 0 5367 0 0
+~
+~
+Door 2 0 0 5377 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5379
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5380 0 0
+~
+~
+Door 1 0 0 5366 0 0
+~
+~
+Door 2 0 0 5378 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5380
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5381 0 0
+~
+~
+Door 1 0 0 5365 0 0
+~
+~
+Door 2 0 0 5379 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5381
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5382 0 0
+~
+~
+Door 1 0 0 5364 0 0
+~
+~
+Door 2 0 0 5380 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5382
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5383 0 0
+~
+~
+Door 1 0 0 5363 0 0
+~
+~
+Door 2 0 0 5381 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5383
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5384 0 0
+~
+~
+Door 1 0 0 5362 0 0
+~
+~
+Door 2 0 0 5382 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#5384
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5385 0 0
+~
+~
+Door 1 0 0 5361 0 0
+~
+~
+Door 2 0 0 5383 0 0
+~
+~
+End
+
+#5385
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5386 0 0
+~
+~
+Door 1 0 0 5390 0 0
+~
+~
+Door 2 0 0 5384 0 0
+~
+~
+End
+
+#5386
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5387 0 0
+~
+~
+Door 1 0 0 5389 0 0
+~
+~
+Door 2 0 0 5385 0 0
+~
+~
+End
+
+#5387
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5388 0 0
+~
+~
+Door 2 0 0 5386 0 0
+~
+~
+End
+
+#5388
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5393 0 0
+~
+~
+Door 2 0 0 5389 0 0
+~
+~
+Door 3 0 0 5387 0 0
+~
+~
+End
+
+#5389
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5388 0 0
+~
+~
+Door 1 0 0 5392 0 0
+~
+~
+Door 2 0 0 5390 0 0
+~
+~
+Door 3 0 0 5386 0 0
+~
+~
+End
+
+#5390
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5389 0 0
+~
+~
+Door 1 0 0 5391 0 0
+~
+~
+Door 2 0 0 5361 0 0
+~
+~
+Door 3 0 0 5385 0 0
+~
+~
+End
+
+#5391
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5392 0 0
+~
+~
+Door 1 0 0 5396 0 0
+~
+~
+Door 2 0 0 5360 0 0
+~
+~
+Door 3 0 0 5390 0 0
+~
+~
+End
+
+#5392
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5393 0 0
+~
+~
+Door 1 0 0 5395 0 0
+~
+~
+Door 2 0 0 5391 0 0
+~
+~
+Door 3 0 0 5389 0 0
+~
+~
+End
+
+#5393
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5394 0 0
+~
+~
+Door 2 0 0 5392 0 0
+~
+~
+Door 3 0 0 5388 0 0
+~
+~
+End
+
+#5394
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5435 0 0
+~
+~
+Door 2 0 0 5395 0 0
+~
+~
+Door 3 0 0 5393 0 0
+~
+~
+End
+
+#5395
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5394 0 0
+~
+~
+Door 1 0 0 5430 0 0
+~
+~
+Door 2 0 0 5396 0 0
+~
+~
+Door 3 0 0 5392 0 0
+~
+~
+End
+
+#5396
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5395 0 0
+~
+~
+Door 1 0 0 5399 0 0
+~
+~
+Door 2 0 0 5337 0 0
+~
+~
+Door 3 0 0 5391 0 0
+~
+~
+End
+
+#5397
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5432 0 0
+~
+~
+Door 2 0 0 5336 0 0
+~
+~
+End
+
+#5398
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5431 0 0
+~
+~
+Door 2 0 0 5335 0 0
+~
+~
+End
+
+#5399
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5430 0 0
+~
+~
+Door 1 0 0 5400 0 0
+~
+~
+Door 2 0 0 5334 0 0
+~
+~
+Door 3 0 0 5396 0 0
+~
+~
+End
+
+#5400
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5429 0 0
+~
+~
+Door 1 0 0 5401 0 0
+~
+~
+Door 2 0 0 5333 0 0
+~
+~
+Door 3 0 0 5399 0 0
+~
+~
+End
+
+#5401
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7947 1 100
+Door 0 0 0 5428 0 0
+~
+~
+Door 1 0 0 5402 0 0
+~
+~
+Door 2 0 0 5332 0 0
+~
+~
+Door 3 0 0 5400 0 0
+~
+~
+End
+
+#5402
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5427 0 0
+~
+~
+Door 1 0 0 5403 0 0
+~
+~
+Door 2 0 0 5331 0 0
+~
+~
+Door 3 0 0 5401 0 0
+~
+~
+End
+
+#5403
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5426 0 0
+~
+~
+Door 1 0 0 5404 0 0
+~
+~
+Door 2 0 0 5330 0 0
+~
+~
+Door 3 0 0 5402 0 0
+~
+~
+End
+
+#5404
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5425 0 0
+~
+~
+Door 1 0 0 5405 0 0
+~
+~
+Door 2 0 0 5329 0 0
+~
+~
+Door 3 0 0 5403 0 0
+~
+~
+End
+
+#5405
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5424 0 0
+~
+~
+Door 1 0 0 5406 0 0
+~
+~
+Door 2 0 0 5328 0 0
+~
+~
+Door 3 0 0 5404 0 0
+~
+~
+End
+
+#5406
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5423 0 0
+~
+~
+Door 1 0 0 5407 0 0
+~
+~
+Door 2 0 0 5327 0 0
+~
+~
+Door 3 0 0 5405 0 0
+~
+~
+End
+
+#5407
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5422 0 0
+~
+~
+Door 1 0 0 5408 0 0
+~
+~
+Door 2 0 0 5326 0 0
+~
+~
+Door 3 0 0 5406 0 0
+~
+~
+End
+
+#5408
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5421 0 0
+~
+~
+Door 1 0 0 5409 0 0
+~
+~
+Door 2 0 0 5325 0 0
+~
+~
+Door 3 0 0 5407 0 0
+~
+~
+End
+
+#5409
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5420 0 0
+~
+~
+Door 1 0 0 5410 0 0
+~
+~
+Door 2 0 0 5324 0 0
+~
+~
+Door 3 0 0 5408 0 0
+~
+~
+End
+
+#5410
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5419 0 0
+~
+~
+Door 1 0 0 5411 0 0
+~
+~
+Door 2 0 0 5323 0 0
+~
+~
+Door 3 0 0 5409 0 0
+~
+~
+End
+
+#5411
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5418 0 0
+~
+~
+Door 1 0 0 5412 0 0
+~
+~
+Door 2 0 0 5322 0 0
+~
+~
+Door 3 0 0 5410 0 0
+~
+~
+End
+
+#5412
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5417 0 0
+~
+~
+Door 1 0 0 5413 0 0
+~
+~
+Door 2 0 0 5321 0 0
+~
+~
+Door 3 0 0 5411 0 0
+~
+~
+End
+
+#5413
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5416 0 0
+~
+~
+Door 1 0 0 5414 0 0
+~
+~
+Door 2 0 0 5320 0 0
+~
+~
+Door 3 0 0 5412 0 0
+~
+~
+End
+
+#5414
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5415 0 0
+~
+~
+Door 1 0 0 5453 0 0
+~
+~
+Door 2 0 0 5319 0 0
+~
+~
+Door 3 0 0 5413 0 0
+~
+~
+End
+
+#5415
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5450 0 0
+~
+~
+Door 1 0 0 5452 0 0
+~
+~
+Door 2 0 0 5414 0 0
+~
+~
+Door 3 0 0 5416 0 0
+~
+~
+End
+
+#5416
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5449 0 0
+~
+~
+Door 1 0 0 5415 0 0
+~
+~
+Door 2 0 0 5413 0 0
+~
+~
+Door 3 0 0 5417 0 0
+~
+~
+End
+
+#5417
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5448 0 0
+~
+~
+Door 1 0 0 5416 0 0
+~
+~
+Door 2 0 0 5412 0 0
+~
+~
+Door 3 0 0 5418 0 0
+~
+~
+End
+
+#5418
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5447 0 0
+~
+~
+Door 1 0 0 5417 0 0
+~
+~
+Door 2 0 0 5411 0 0
+~
+~
+Door 3 0 0 5419 0 0
+~
+~
+End
+
+#5419
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5446 0 0
+~
+~
+Door 1 0 0 5418 0 0
+~
+~
+Door 2 0 0 5410 0 0
+~
+~
+Door 3 0 0 5420 0 0
+~
+~
+End
+
+#5420
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5445 0 0
+~
+~
+Door 1 0 0 5419 0 0
+~
+~
+Door 2 0 0 5409 0 0
+~
+~
+Door 3 0 0 5421 0 0
+~
+~
+End
+
+#5421
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5444 0 0
+~
+~
+Door 1 0 0 5420 0 0
+~
+~
+Door 2 0 0 5408 0 0
+~
+~
+Door 3 0 0 5422 0 0
+~
+~
+End
+
+#5422
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5443 0 0
+~
+~
+Door 1 0 0 5421 0 0
+~
+~
+Door 2 0 0 5407 0 0
+~
+~
+Door 3 0 0 5423 0 0
+~
+~
+End
+
+#5423
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5442 0 0
+~
+~
+Door 1 0 0 5422 0 0
+~
+~
+Door 2 0 0 5406 0 0
+~
+~
+Door 3 0 0 5424 0 0
+~
+~
+End
+
+#5424
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5441 0 0
+~
+~
+Door 1 0 0 5423 0 0
+~
+~
+Door 2 0 0 5405 0 0
+~
+~
+Door 3 0 0 5425 0 0
+~
+~
+End
+
+#5425
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 5304 1 100
+Reset O 5304 1 1
+Reset O 5305 1 1
+Door 0 0 0 5440 0 0
+~
+~
+Door 1 0 0 5424 0 0
+~
+~
+Door 2 0 0 5404 0 0
+~
+~
+Door 3 0 0 5426 0 0
+~
+~
+End
+
+#5426
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5439 0 0
+~
+~
+Door 1 0 0 5425 0 0
+~
+~
+Door 2 0 0 5403 0 0
+~
+~
+Door 3 0 0 5427 0 0
+~
+~
+End
+
+#5427
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5438 0 0
+~
+~
+Door 1 0 0 5426 0 0
+~
+~
+Door 2 0 0 5402 0 0
+~
+~
+Door 3 0 0 5428 0 0
+~
+~
+End
+
+#5428
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 5430 1 100
+Reset O 5428 1 1
+Reset M 5428 1 100
+Reset M 5429 1 100
+Reset M 5428 1 100
+Reset M 5429 1 100
+Reset M 5428 1 100
+Reset M 5429 1 100
+Door 0 0 0 5437 0 0
+~
+~
+Door 1 0 0 5427 0 0
+~
+~
+Door 2 0 0 5401 0 0
+~
+~
+Door 3 0 0 5429 0 0
+~
+~
+End
+
+#5429
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5436 0 0
+~
+~
+Door 1 0 0 5428 0 0
+~
+~
+Door 2 0 0 5400 0 0
+~
+~
+Door 3 0 0 5430 0 0
+~
+~
+End
+
+#5430
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5435 0 0
+~
+~
+Door 1 0 0 5429 0 0
+~
+~
+Door 2 0 0 5399 0 0
+~
+~
+Door 3 0 0 5395 0 0
+~
+~
+End
+
+#5431
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5434 0 0
+~
+~
+Door 2 0 0 5398 0 0
+~
+~
+End
+
+#5432
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5433 0 0
+~
+~
+Door 2 0 0 5397 0 0
+~
+~
+End
+
+#5433
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 2 0 0 5432 0 0
+~
+~
+End
+
+#5434
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 2 0 0 5431 0 0
+~
+~
+End
+
+#5435
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5436 0 0
+~
+~
+Door 2 0 0 5430 0 0
+~
+~
+Door 3 0 0 5394 0 0
+~
+~
+End
+
+#5436
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5437 0 0
+~
+~
+Door 2 0 0 5429 0 0
+~
+~
+Door 3 0 0 5435 0 0
+~
+~
+End
+
+#5437
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 1 0 0 5438 0 0
+~
+~
+Door 2 0 0 5428 0 0
+~
+~
+Door 3 0 0 5436 0 0
+~
+~
+End
+
+#5438
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5439 0 0
+~
+~
+Door 2 0 0 5427 0 0
+~
+~
+Door 3 0 0 5437 0 0
+~
+~
+End
+
+#5439
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5440 0 0
+~
+~
+Door 2 0 0 5426 0 0
+~
+~
+Door 3 0 0 5438 0 0
+~
+~
+End
+
+#5440
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5441 0 0
+~
+~
+Door 2 0 0 5425 0 0
+~
+~
+Door 3 0 0 5439 0 0
+~
+~
+End
+
+#5441
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5442 0 0
+~
+~
+Door 2 0 0 5424 0 0
+~
+~
+Door 3 0 0 5440 0 0
+~
+~
+End
+
+#5442
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5443 0 0
+~
+~
+Door 2 0 0 5423 0 0
+~
+~
+Door 3 0 0 5441 0 0
+~
+~
+End
+
+#5443
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5444 0 0
+~
+~
+Door 2 0 0 5422 0 0
+~
+~
+Door 3 0 0 5442 0 0
+~
+~
+End
+
+#5444
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5445 0 0
+~
+~
+Door 2 0 0 5421 0 0
+~
+~
+Door 3 0 0 5443 0 0
+~
+~
+End
+
+#5445
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5446 0 0
+~
+~
+Door 2 0 0 5420 0 0
+~
+~
+Door 3 0 0 5444 0 0
+~
+~
+End
+
+#5446
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5447 0 0
+~
+~
+Door 2 0 0 5419 0 0
+~
+~
+Door 3 0 0 5445 0 0
+~
+~
+End
+
+#5447
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5448 0 0
+~
+~
+Door 2 0 0 5418 0 0
+~
+~
+Door 3 0 0 5446 0 0
+~
+~
+End
+
+#5448
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5449 0 0
+~
+~
+Door 2 0 0 5417 0 0
+~
+~
+Door 3 0 0 5447 0 0
+~
+~
+End
+
+#5449
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5450 0 0
+~
+~
+Door 2 0 0 5416 0 0
+~
+~
+Door 3 0 0 5448 0 0
+~
+~
+End
+
+#5450
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5451 0 0
+~
+~
+Door 2 0 0 5415 0 0
+~
+~
+Door 3 0 0 5449 0 0
+~
+~
+End
+
+#5451
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5482 0 0
+~
+~
+Door 2 0 0 5452 0 0
+~
+~
+Door 3 0 0 5450 0 0
+~
+~
+End
+
+#5452
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5451 0 0
+~
+~
+Door 1 0 0 5481 0 0
+~
+~
+Door 2 0 0 5453 0 0
+~
+~
+Door 3 0 0 5415 0 0
+~
+~
+End
+
+#5453
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5452 0 0
+~
+~
+Door 1 0 0 5480 0 0
+~
+~
+Door 2 0 0 5454 0 0
+~
+~
+Door 3 0 0 5414 0 0
+~
+~
+End
+
+#5454
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5453 0 0
+~
+~
+Door 1 0 0 5479 0 0
+~
+~
+Door 2 0 0 5455 0 0
+~
+~
+Door 3 0 0 5319 0 0
+~
+~
+End
+
+#5455
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5454 0 0
+~
+~
+Door 1 0 0 5478 0 0
+~
+~
+Door 2 0 0 5456 0 0
+~
+~
+Door 3 0 0 5318 0 0
+~
+~
+End
+
+#5456
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5455 0 0
+~
+~
+Door 1 0 0 5477 0 0
+~
+~
+Door 2 0 0 5457 0 0
+~
+~
+Door 3 0 0 5317 0 0
+~
+~
+End
+
+#5457
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5456 0 0
+~
+~
+Door 1 0 0 5476 0 0
+~
+~
+Door 2 0 0 5458 0 0
+~
+~
+Door 3 0 0 5316 0 0
+~
+~
+End
+
+#5458
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5457 0 0
+~
+~
+Door 1 0 0 5475 0 0
+~
+~
+Door 2 0 0 5459 0 0
+~
+~
+Door 3 0 0 5315 0 0
+~
+~
+End
+
+#5459
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5458 0 0
+~
+~
+Door 1 0 0 5474 0 0
+~
+~
+Door 2 0 0 5460 0 0
+~
+~
+Door 3 0 0 5314 0 0
+~
+~
+End
+
+#5460
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5459 0 0
+~
+~
+Door 1 0 0 5473 0 0
+~
+~
+Door 2 0 0 5461 0 0
+~
+~
+Door 3 0 0 5313 0 0
+~
+~
+End
+
+#5461
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5460 0 0
+~
+~
+Door 1 0 0 5472 0 0
+~
+~
+Door 2 0 0 5462 0 0
+~
+~
+Door 3 0 0 5312 0 0
+~
+~
+End
+
+#5462
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5461 0 0
+~
+~
+Door 1 0 0 5471 0 0
+~
+~
+Door 2 0 0 5463 0 0
+~
+~
+Door 3 0 0 5311 0 0
+~
+~
+End
+
+#5463
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5462 0 0
+~
+~
+Door 1 0 0 5470 0 0
+~
+~
+Door 2 0 0 5464 0 0
+~
+~
+Door 3 0 0 5310 0 0
+~
+~
+End
+
+#5464
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5463 0 0
+~
+~
+Door 1 0 0 5469 0 0
+~
+~
+Door 2 0 0 5465 0 0
+~
+~
+Door 3 0 0 5309 0 0
+~
+~
+End
+
+#5465
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5464 0 0
+~
+~
+Door 1 0 0 5468 0 0
+~
+~
+Door 2 0 0 5466 0 0
+~
+~
+Door 3 0 0 5308 0 0
+~
+~
+End
+
+#5466
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5465 0 0
+~
+~
+Door 1 0 0 5467 0 0
+~
+~
+Door 3 0 0 8003 0 0
+~
+~
+End
+
+#5467
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5468 0 0
+~
+~
+Door 1 0 0 5498 0 0
+~
+~
+Door 3 0 0 5466 0 0
+~
+~
+End
+
+#5468
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5469 0 0
+~
+~
+Door 1 0 0 5497 0 0
+~
+~
+Door 2 0 0 5467 0 0
+~
+~
+Door 3 0 0 5465 0 0
+~
+~
+End
+
+#5469
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5470 0 0
+~
+~
+Door 1 0 0 5496 0 0
+~
+~
+Door 2 0 0 5468 0 0
+~
+~
+Door 3 0 0 5464 0 0
+~
+~
+End
+
+#5470
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5471 0 0
+~
+~
+Door 1 0 0 5495 0 0
+~
+~
+Door 2 0 0 5469 0 0
+~
+~
+Door 3 0 0 5463 0 0
+~
+~
+End
+
+#5471
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5472 0 0
+~
+~
+Door 1 0 0 5494 0 0
+~
+~
+Door 2 0 0 5470 0 0
+~
+~
+Door 3 0 0 5462 0 0
+~
+~
+End
+
+#5472
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5473 0 0
+~
+~
+Door 1 0 0 5493 0 0
+~
+~
+Door 2 0 0 5471 0 0
+~
+~
+Door 3 0 0 5461 0 0
+~
+~
+End
+
+#5473
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7947 1 100
+Door 0 0 0 5474 0 0
+~
+~
+Door 1 0 0 5492 0 0
+~
+~
+Door 2 0 0 5472 0 0
+~
+~
+Door 3 0 0 5460 0 0
+~
+~
+End
+
+#5474
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5475 0 0
+~
+~
+Door 1 0 0 5491 0 0
+~
+~
+Door 2 0 0 5473 0 0
+~
+~
+Door 3 0 0 5459 0 0
+~
+~
+End
+
+#5475
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5476 0 0
+~
+~
+Door 1 0 0 5490 0 0
+~
+~
+Door 2 0 0 5474 0 0
+~
+~
+Door 3 0 0 5458 0 0
+~
+~
+End
+
+#5476
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 5303 1 100
+Reset O 5425 1 1
+Door 0 0 0 5477 0 0
+~
+~
+Door 1 0 0 5489 0 0
+~
+~
+Door 2 0 0 5475 0 0
+~
+~
+Door 3 0 0 5457 0 0
+~
+~
+End
+
+#5477
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5478 0 0
+~
+~
+Door 1 0 0 5488 0 0
+~
+~
+Door 2 0 0 5476 0 0
+~
+~
+Door 3 0 0 5456 0 0
+~
+~
+End
+
+#5478
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5479 0 0
+~
+~
+Door 1 0 0 5487 0 0
+~
+~
+Door 2 0 0 5477 0 0
+~
+~
+Door 3 0 0 5455 0 0
+~
+~
+End
+
+#5479
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5480 0 0
+~
+~
+Door 1 0 0 5486 0 0
+~
+~
+Door 2 0 0 5478 0 0
+~
+~
+Door 3 0 0 5454 0 0
+~
+~
+End
+
+#5480
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5481 0 0
+~
+~
+Door 1 0 0 5485 0 0
+~
+~
+Door 2 0 0 5479 0 0
+~
+~
+Door 3 0 0 5453 0 0
+~
+~
+End
+
+#5481
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5482 0 0
+~
+~
+Door 1 0 0 5484 0 0
+~
+~
+Door 2 0 0 5480 0 0
+~
+~
+Door 3 0 0 5452 0 0
+~
+~
+End
+
+#5482
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 1 0 0 5483 0 0
+~
+~
+Door 2 0 0 5481 0 0
+~
+~
+Door 3 0 0 5451 0 0
+~
+~
+End
+
+#5483
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 2 0 0 5484 0 0
+~
+~
+Door 3 0 0 5482 0 0
+~
+~
+End
+
+#5484
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5483 0 0
+~
+~
+Door 2 0 0 5485 0 0
+~
+~
+Door 3 0 0 5481 0 0
+~
+~
+End
+
+#5485
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 5484 0 0
+~
+~
+Door 2 0 0 5486 0 0
+~
+~
+Door 3 0 0 5480 0 0
+~
+~
+End
+
+#5486
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5485 0 0
+~
+~
+Door 2 0 0 5487 0 0
+~
+~
+Door 3 0 0 5479 0 0
+~
+~
+End
+
+#5487
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5486 0 0
+~
+~
+Door 2 0 0 5488 0 0
+~
+~
+Door 3 0 0 5478 0 0
+~
+~
+End
+
+#5488
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5487 0 0
+~
+~
+Door 2 0 0 5489 0 0
+~
+~
+Door 3 0 0 5477 0 0
+~
+~
+End
+
+#5489
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5488 0 0
+~
+~
+Door 2 0 0 5490 0 0
+~
+~
+Door 3 0 0 5476 0 0
+~
+~
+End
+
+#5490
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5489 0 0
+~
+~
+Door 2 0 0 5491 0 0
+~
+~
+Door 3 0 0 5475 0 0
+~
+~
+End
+
+#5491
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5490 0 0
+~
+~
+Door 2 0 0 5492 0 0
+~
+~
+Door 3 0 0 5474 0 0
+~
+~
+End
+
+#5492
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5491 0 0
+~
+~
+Door 2 0 0 5493 0 0
+~
+~
+Door 3 0 0 5473 0 0
+~
+~
+End
+
+#5493
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5492 0 0
+~
+~
+Door 2 0 0 5494 0 0
+~
+~
+Door 3 0 0 5472 0 0
+~
+~
+End
+
+#5494
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5493 0 0
+~
+~
+Door 2 0 0 5495 0 0
+~
+~
+Door 3 0 0 5471 0 0
+~
+~
+End
+
+#5495
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5494 0 0
+~
+~
+Door 2 0 0 5496 0 0
+~
+~
+Door 3 0 0 5470 0 0
+~
+~
+End
+
+#5496
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5495 0 0
+~
+~
+Door 2 0 0 5497 0 0
+~
+~
+Door 3 0 0 5469 0 0
+~
+~
+End
+
+#5497
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5496 0 0
+~
+~
+Door 2 0 0 5498 0 0
+~
+~
+Door 3 0 0 5468 0 0
+~
+~
+End
+
+#5498
+Name Fields Around Castle Alteric~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 5497 0 0
+~
+~
+Door 3 0 0 5467 0 0
+~
+~
+End
+
+#5499
+Name Hermit's Shack~
+Descr
+This musty stale barely lit shack is home to a Hermit who wanders the
+area. His wife never leaves the shack, but he is never here. Stale bread and
+brown water can be found in the corner. 
+~
+Flags 4
+Sector 0
+Reset M 5305 1 100
+Reset O 5303 1 1
+Door 1 259 0 5376 30 30
+~
+Hermitdoor~
+End
+
+#0
+
+
+
+#$

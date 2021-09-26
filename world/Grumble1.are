@@ -1,0 +1,4989 @@
+#AREADATA 
+Name The Great Merchant Highway~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear some merchants bickering about the taxes.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Grumble~
+VNUMs 16001 16500
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#16021
+Name rogue~
+Short sneaky rogue~
+Long 
+A sneaking rogue is looking for victims
+~
+Descr
+~
+AMax 6
+NHeight 36
+ActBits 24
+Affect_By 66056
+Money 25
+Level 25
+MobType 1
+Guard 0
+Spec spec_thief
+End
+
+#16033
+Name rolham banker~
+Short rolham the banker~
+Long 
+Rolham the Banker is here to help with money matters
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 131072
+Affect_By 128
+Money 200
+Level 200
+MobType 0
+Guard 0
+End
+
+#16255
+Name frontham teacher~
+Short frontham the high priest~
+Long 
+Frontham the High Priest waves a greeting.
+~
+Descr
+~
+AMax 1
+NHeight 175
+ActBits 258
+Affect_By 50340520
+Money 250
+Level 250
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#16001
+Name ultra cheater sword death DELETE ME~
+Short an [1m[32mUltra [31mCheater[0m sword of [1m[30mDeath[0m~
+Descr
+An [1m[32mUltra [31mCheater[0m sword of [1m[30mDeath[0m
+[0;36m~
+Type 5
+Extra 131075
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 6 0 0 0 50 50 0
+Weight 2
+Cost 150000
+Affect 18 1000 1 0 0
+Affect 19 1000 1 0 0
+End
+
+#16220
+Name sign~
+Short a sign~
+Descr
+[1m[37mA REALLY [30mBIG BIG BIG[31m SIGN IS HERE!!!![0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Due to the fact that this area is cheater, and is totally unfair to have
+
+
+at this location. It has been moved someplace else in the world where it is
+
+
+more centered. It is a little hidden and it is neutral now. 
+
+
+ 
+
+
+- The Admin
+
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#16001
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Flags 3145728
+Door 0 0 0 16002 0 0
+~
+~
+Door 1 0 0 16251 0 0
+~
+~
+Door 2 0 0 14033 0 0
+~
+~
+End
+
+#16002
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16252 0 0
+~
+~
+Door 1 0 0 16003 0 0
+~
+~
+Door 2 0 0 16001 0 0
+~
+~
+Door 3 0 0 16254 0 0
+~
+~
+End
+
+#16003
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 1 0 0 16004 0 0
+~
+~
+Door 2 0 0 16251 0 0
+~
+~
+Door 3 0 0 16002 0 0
+~
+~
+End
+
+#16004
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16007 0 0
+~
+~
+Door 1 0 0 16248 0 0
+~
+~
+Door 2 0 0 16249 0 0
+~
+~
+Door 3 0 0 16003 0 0
+~
+~
+End
+
+#16005
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16220 0 0
+~
+~
+Door 1 0 0 16006 0 0
+~
+~
+Door 2 0 0 16025 0 0
+~
+~
+Door 3 0 0 16221 0 0
+~
+~
+End
+
+#16006
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16217 0 0
+~
+~
+Door 1 0 0 16026 0 0
+~
+~
+Door 2 0 0 16219 0 0
+~
+~
+Door 3 0 0 16005 0 0
+~
+~
+End
+
+#16007
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 1 0 0 16239 0 0
+~
+~
+Door 2 0 0 16004 0 0
+~
+~
+Door 3 0 0 16009 0 0
+~
+~
+End
+
+#16009
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16010 0 0
+~
+~
+Door 1 0 0 16007 0 0
+~
+~
+Door 2 0 0 16246 0 0
+~
+~
+Door 3 0 0 16245 0 0
+~
+~
+End
+
+#16010
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16242 0 0
+~
+~
+Door 1 0 0 16014 0 0
+~
+~
+Door 2 0 0 16009 0 0
+~
+~
+Door 3 0 0 16243 0 0
+~
+~
+End
+
+#16011
+Name ~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 2 0 0 16010 0 0
+~
+~
+End
+
+#16012
+Name ~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 2 0 0 16010 0 0
+~
+~
+End
+
+#16013
+Name ~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 3 0 0 16010 0 0
+~
+~
+End
+
+#16014
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16240 0 0
+~
+~
+Door 1 0 0 16015 0 0
+~
+~
+Door 3 0 0 16010 0 0
+~
+~
+End
+
+#16015
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16238 0 0
+~
+~
+Door 1 0 0 16021 0 0
+~
+~
+Door 2 0 0 16239 0 0
+~
+~
+Door 3 0 0 16014 0 0
+~
+~
+End
+
+#16016
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16230 0 0
+~
+~
+Door 1 0 0 16017 0 0
+~
+~
+Door 2 0 0 16024 0 0
+~
+~
+Door 3 0 0 16231 0 0
+~
+~
+End
+
+#16017
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16228 0 0
+~
+~
+Door 1 0 0 16226 0 0
+~
+~
+Door 2 0 0 16018 0 0
+~
+~
+Door 3 0 0 16016 0 0
+~
+~
+End
+
+#16018
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16017 0 0
+~
+~
+Door 1 0 0 16019 0 0
+~
+~
+End
+
+#16019
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16226 0 0
+~
+~
+Door 1 0 0 16020 0 0
+~
+~
+Door 2 0 0 16227 0 0
+~
+~
+Door 3 0 0 16018 0 0
+~
+~
+End
+
+#16020
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16221 0 0
+~
+~
+Door 1 0 0 16025 0 0
+~
+~
+Door 2 0 0 16225 0 0
+~
+~
+Door 3 0 0 16019 0 0
+~
+~
+End
+
+#16021
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Reset M 16021 3 100
+Door 0 0 0 16237 0 0
+~
+~
+Door 1 0 0 16022 0 0
+~
+~
+Door 2 0 0 16236 0 0
+~
+~
+Door 3 0 0 16015 0 0
+~
+~
+End
+
+#16022
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16233 0 0
+~
+~
+Door 1 0 0 16023 0 0
+~
+~
+Door 2 0 0 16235 0 0
+~
+~
+Door 3 0 0 16021 0 0
+~
+~
+End
+
+#16023
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16024 0 0
+~
+~
+Door 1 0 0 16229 0 0
+~
+~
+Door 2 0 0 16234 0 0
+~
+~
+Door 3 0 0 16022 0 0
+~
+~
+End
+
+#16024
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16016 0 0
+~
+~
+Door 2 0 0 16023 0 0
+~
+~
+Door 3 0 0 16233 0 0
+~
+~
+End
+
+#16025
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16005 0 0
+~
+~
+Door 1 0 0 16219 0 0
+~
+~
+Door 2 0 0 16223 0 0
+~
+~
+Door 3 0 0 16020 0 0
+~
+~
+End
+
+#16026
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16212 0 0
+~
+~
+Door 1 0 0 16027 0 0
+~
+~
+Door 2 0 0 16218 0 0
+~
+~
+Door 3 0 0 16006 0 0
+~
+~
+End
+
+#16027
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16028 0 0
+~
+~
+Door 1 0 0 16215 0 0
+~
+~
+Door 2 0 0 16214 0 0
+~
+~
+Door 3 0 0 16026 0 0
+~
+~
+End
+
+#16028
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16029 0 0
+~
+~
+Door 1 0 0 16213 0 0
+~
+~
+Door 2 0 0 16027 0 0
+~
+~
+Door 3 0 0 16212 0 0
+~
+~
+End
+
+#16029
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16030 0 0
+~
+~
+Door 1 0 0 16207 0 0
+~
+~
+Door 2 0 0 16028 0 0
+~
+~
+Door 3 0 0 16211 0 0
+~
+~
+End
+
+#16030
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16208 0 0
+~
+~
+Door 1 0 0 16031 0 0
+~
+~
+Door 2 0 0 16029 0 0
+~
+~
+Door 3 0 0 16209 0 0
+~
+~
+End
+
+#16031
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16194 0 0
+~
+~
+Door 1 0 0 16032 0 0
+~
+~
+Door 2 0 0 16207 0 0
+~
+~
+Door 3 0 0 16030 0 0
+~
+~
+End
+
+#16032
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16195 0 0
+~
+~
+Door 1 0 0 16033 0 0
+~
+~
+Door 2 0 0 16206 0 0
+~
+~
+Door 3 0 0 16031 0 0
+~
+~
+End
+
+#16033
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Reset M 16033 1 100
+Door 0 0 0 16034 0 0
+~
+~
+Door 1 0 0 16201 0 0
+~
+~
+Door 2 0 0 16203 0 0
+~
+~
+Door 3 0 0 16032 0 0
+~
+~
+End
+
+#16034
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16035 0 0
+~
+~
+Door 1 0 0 16200 0 0
+~
+~
+Door 2 0 0 16033 0 0
+~
+~
+Door 3 0 0 16195 0 0
+~
+~
+End
+
+#16035
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16197 0 0
+~
+~
+Door 1 0 0 16198 0 0
+~
+~
+Door 2 0 0 16034 0 0
+~
+~
+Door 3 0 0 16036 0 0
+~
+~
+End
+
+#16036
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16192 0 0
+~
+~
+Door 1 0 0 16035 0 0
+~
+~
+Door 2 0 0 16195 0 0
+~
+~
+Door 3 0 0 16037 0 0
+~
+~
+End
+
+#16037
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16038 0 0
+~
+~
+Door 1 0 0 16036 0 0
+~
+~
+Door 2 0 0 16194 0 0
+~
+~
+Door 3 0 0 16193 0 0
+~
+~
+End
+
+#16038
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16039 0 0
+~
+~
+Door 1 0 0 16192 0 0
+~
+~
+Door 2 0 0 16037 0 0
+~
+~
+Door 3 0 0 16191 0 0
+~
+~
+End
+
+#16039
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16040 0 0
+~
+~
+Door 1 0 0 16186 0 0
+~
+~
+Door 2 0 0 16038 0 0
+~
+~
+Door 3 0 0 16190 0 0
+~
+~
+End
+
+#16040
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16187 0 0
+~
+~
+Door 1 0 0 16041 0 0
+~
+~
+Door 2 0 0 16039 0 0
+~
+~
+Door 3 0 0 16188 0 0
+~
+~
+End
+
+#16041
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16185 0 0
+~
+~
+Door 1 0 0 16042 0 0
+~
+~
+Door 2 0 0 16186 0 0
+~
+~
+Door 3 0 0 16040 0 0
+~
+~
+End
+
+#16042
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16183 0 0
+~
+~
+Door 1 0 0 16043 0 0
+~
+~
+Door 2 0 0 16184 0 0
+~
+~
+Door 3 0 0 16041 0 0
+~
+~
+End
+
+#16043
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16178 0 0
+~
+~
+Door 1 0 0 16044 0 0
+~
+~
+Door 2 0 0 16182 0 0
+~
+~
+Door 3 0 0 16042 0 0
+~
+~
+End
+
+#16044
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16045 0 0
+~
+~
+Door 1 0 0 16176 0 0
+~
+~
+Door 2 0 0 16179 0 0
+~
+~
+Door 3 0 0 16043 0 0
+~
+~
+End
+
+#16045
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16174 0 0
+~
+~
+Door 1 0 0 16046 0 0
+~
+~
+Door 2 0 0 16044 0 0
+~
+~
+Door 3 0 0 16178 0 0
+~
+~
+End
+
+#16046
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16047 0 0
+~
+~
+Door 1 0 0 16175 0 0
+~
+~
+Door 2 0 0 16176 0 0
+~
+~
+Door 3 0 0 16045 0 0
+~
+~
+End
+
+#16047
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16049 0 0
+~
+~
+Door 1 0 0 16170 0 0
+~
+~
+Door 2 0 0 16046 0 0
+~
+~
+Door 3 0 0 16174 0 0
+~
+~
+End
+
+#16048
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16061 0 0
+~
+~
+Door 1 0 0 16149 0 0
+~
+~
+Door 2 0 0 16150 0 0
+~
+~
+Door 3 0 0 16060 0 0
+~
+~
+End
+
+#16049
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16167 0 0
+~
+~
+Door 1 0 0 16050 0 0
+~
+~
+Door 2 0 0 16047 0 0
+~
+~
+Door 3 0 0 16172 0 0
+~
+~
+End
+
+#16050
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16051 0 0
+~
+~
+Door 1 0 0 16166 0 0
+~
+~
+Door 2 0 0 16170 0 0
+~
+~
+Door 3 0 0 16049 0 0
+~
+~
+End
+
+#16051
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16169 0 0
+~
+~
+Door 1 0 0 16052 0 0
+~
+~
+Door 2 0 0 16050 0 0
+~
+~
+Door 3 0 0 16167 0 0
+~
+~
+End
+
+#16052
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16165 0 0
+~
+~
+Door 1 0 0 16053 0 0
+~
+~
+Door 2 0 0 16166 0 0
+~
+~
+Door 3 0 0 16051 0 0
+~
+~
+End
+
+#16053
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16163 0 0
+~
+~
+Door 1 0 0 16054 0 0
+~
+~
+Door 2 0 0 16164 0 0
+~
+~
+Door 3 0 0 16052 0 0
+~
+~
+End
+
+#16054
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Reset M 16021 3 100
+Door 0 0 0 16056 0 0
+~
+~
+Door 1 0 0 16160 0 0
+~
+~
+Door 2 0 0 16161 0 0
+~
+~
+Door 3 0 0 16053 0 0
+~
+~
+End
+
+#16055
+Name ~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 2 0 0 16054 0 0
+~
+~
+End
+
+#16056
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16057 0 0
+~
+~
+Door 1 0 0 16156 0 0
+~
+~
+Door 2 0 0 16054 0 0
+~
+~
+Door 3 0 0 16163 0 0
+~
+~
+End
+
+#16057
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16157 0 0
+~
+~
+Door 1 0 0 16058 0 0
+~
+~
+Door 2 0 0 16056 0 0
+~
+~
+Door 3 0 0 16158 0 0
+~
+~
+End
+
+#16058
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16155 0 0
+~
+~
+Door 1 0 0 16059 0 0
+~
+~
+Door 2 0 0 16156 0 0
+~
+~
+Door 3 0 0 16057 0 0
+~
+~
+End
+
+#16059
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16152 0 0
+~
+~
+Door 1 0 0 16060 0 0
+~
+~
+Door 2 0 0 16154 0 0
+~
+~
+Door 3 0 0 16058 0 0
+~
+~
+End
+
+#16060
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16147 0 0
+~
+~
+Door 1 0 0 16048 0 0
+~
+~
+Door 2 0 0 16153 0 0
+~
+~
+Door 3 0 0 16059 0 0
+~
+~
+End
+
+#16061
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16062 0 0
+~
+~
+Door 1 0 0 16148 0 0
+~
+~
+Door 2 0 0 16048 0 0
+~
+~
+Door 3 0 0 16147 0 0
+~
+~
+End
+
+#16062
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 1 0 0 16063 0 0
+~
+~
+Door 2 0 0 16061 0 0
+~
+~
+Door 3 0 0 16145 0 0
+~
+~
+End
+
+#16063
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16064 0 0
+~
+~
+Door 1 0 0 16141 0 0
+~
+~
+Door 2 0 0 16140 0 0
+~
+~
+Door 3 0 0 16062 0 0
+~
+~
+End
+
+#16064
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16065 0 0
+~
+~
+Door 1 0 0 16138 0 0
+~
+~
+Door 2 0 0 16063 0 0
+~
+~
+Door 3 0 0 16139 0 0
+~
+~
+End
+
+#16065
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16066 0 0
+~
+~
+Door 1 0 0 16133 0 0
+~
+~
+Door 2 0 0 16064 0 0
+~
+~
+Door 3 0 0 16137 0 0
+~
+~
+End
+
+#16066
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16134 0 0
+~
+~
+Door 1 0 0 16067 0 0
+~
+~
+Door 2 0 0 16065 0 0
+~
+~
+Door 3 0 0 16135 0 0
+~
+~
+End
+
+#16067
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16130 0 0
+~
+~
+Door 1 0 0 16068 0 0
+~
+~
+Door 2 0 0 16133 0 0
+~
+~
+Door 3 0 0 16066 0 0
+~
+~
+End
+
+#16068
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16069 0 0
+~
+~
+Door 1 0 0 16128 0 0
+~
+~
+Door 2 0 0 16132 0 0
+~
+~
+Door 3 0 0 16067 0 0
+~
+~
+End
+
+#16069
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16129 0 0
+~
+~
+Door 1 0 0 16070 0 0
+~
+~
+Door 2 0 0 16068 0 0
+~
+~
+Door 3 0 0 16130 0 0
+~
+~
+End
+
+#16070
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16123 0 0
+~
+~
+Door 1 0 0 16071 0 0
+~
+~
+Door 2 0 0 16128 0 0
+~
+~
+Door 3 0 0 16069 0 0
+~
+~
+End
+
+#16071
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16072 0 0
+~
+~
+Door 1 0 0 16125 0 0
+~
+~
+Door 2 0 0 16126 0 0
+~
+~
+Door 3 0 0 16070 0 0
+~
+~
+End
+
+#16072
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16073 0 0
+~
+~
+Door 1 0 0 16124 0 0
+~
+~
+Door 2 0 0 16071 0 0
+~
+~
+Door 3 0 0 16123 0 0
+~
+~
+End
+
+#16073
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16074 0 0
+~
+~
+Door 1 0 0 16122 0 0
+~
+~
+Door 2 0 0 16072 0 0
+~
+~
+Door 3 0 0 16121 0 0
+~
+~
+End
+
+#16074
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 1 0 0 16120 0 0
+~
+~
+Door 2 0 0 16073 0 0
+~
+~
+Door 3 0 0 16075 0 0
+~
+~
+End
+
+#16075
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 1 0 0 16074 0 0
+~
+~
+Door 2 0 0 16121 0 0
+~
+~
+Door 3 0 0 16076 0 0
+~
+~
+End
+
+#16076
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16078 0 0
+~
+~
+Door 1 0 0 16075 0 0
+~
+~
+Door 2 0 0 16118 0 0
+~
+~
+Door 3 0 0 16117 0 0
+~
+~
+End
+
+#16077
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16079 0 0
+~
+~
+Door 1 0 0 16111 0 0
+~
+~
+Door 3 0 0 16078 0 0
+~
+~
+End
+
+#16078
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16113 0 0
+~
+~
+Door 1 0 0 16077 0 0
+~
+~
+Door 2 0 0 16076 0 0
+~
+~
+Door 3 0 0 16115 0 0
+~
+~
+End
+
+#16079
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16112 0 0
+~
+~
+Door 1 0 0 16080 0 0
+~
+~
+Door 2 0 0 16077 0 0
+~
+~
+Door 3 0 0 16113 0 0
+~
+~
+End
+
+#16080
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16110 0 0
+~
+~
+Door 1 0 0 16081 0 0
+~
+~
+Door 2 0 0 16111 0 0
+~
+~
+Door 3 0 0 16079 0 0
+~
+~
+End
+
+#16081
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16082 0 0
+~
+~
+Door 2 0 0 16109 0 0
+~
+~
+Door 3 0 0 16080 0 0
+~
+~
+End
+
+#16082
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16083 0 0
+~
+~
+Door 2 0 0 16081 0 0
+~
+~
+Door 3 0 0 16110 0 0
+~
+~
+End
+
+#16083
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16084 0 0
+~
+~
+Door 2 0 0 16082 0 0
+~
+~
+Door 3 0 0 16107 0 0
+~
+~
+End
+
+#16084
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16104 0 0
+~
+~
+Door 1 0 0 16085 0 0
+~
+~
+Door 2 0 0 16083 0 0
+~
+~
+Door 3 0 0 16105 0 0
+~
+~
+End
+
+#16085
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16102 0 0
+~
+~
+Door 1 0 0 16086 0 0
+~
+~
+Door 2 0 0 16103 0 0
+~
+~
+Door 3 0 0 16084 0 0
+~
+~
+End
+
+#16086
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16099 0 0
+~
+~
+Door 1 0 0 16100 0 0
+~
+~
+Door 2 0 0 16087 0 0
+~
+~
+Door 3 0 0 16085 0 0
+~
+~
+End
+
+#16087
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16086 0 0
+~
+~
+Door 1 0 0 16093 0 0
+~
+~
+Door 2 0 0 16088 0 0
+~
+~
+Door 3 0 0 16103 0 0
+~
+~
+End
+
+#16088
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16087 0 0
+~
+~
+Door 1 0 0 16089 0 0
+~
+~
+Door 2 0 0 16095 0 0
+~
+~
+Door 3 0 0 16096 0 0
+~
+~
+End
+
+#16089
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16093 0 0
+~
+~
+Door 1 0 0 16090 0 0
+~
+~
+Door 2 0 0 16094 0 0
+~
+~
+Door 3 0 0 16088 0 0
+~
+~
+End
+
+#16090
+Name The Great Merchant Highway~
+Descr
+You are walking along a well maintained highway which has fairly heavy
+traffic during certain seasons. You see an occasional merchant and the
+occasional rogue. This isn't the safest place to camp due to the traffic and
+occasional troublemakers that might wander by. 
+~
+Door 0 0 0 16091 0 0
+~
+~
+Door 2 0 0 16092 0 0
+~
+~
+Door 3 0 0 16089 0 0
+~
+~
+End
+
+#16091
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16090 0 0
+~
+~
+Door 3 0 0 16093 0 0
+~
+~
+End
+
+#16092
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16090 0 0
+~
+~
+Door 3 0 0 16094 0 0
+~
+~
+End
+
+#16093
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16100 0 0
+~
+~
+Door 1 0 0 16091 0 0
+~
+~
+Door 2 0 0 16089 0 0
+~
+~
+Door 3 0 0 16087 0 0
+~
+~
+End
+
+#16094
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16089 0 0
+~
+~
+Door 1 0 0 16092 0 0
+~
+~
+Door 3 0 0 16095 0 0
+~
+~
+End
+
+#16095
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16088 0 0
+~
+~
+Door 1 0 0 16094 0 0
+~
+~
+Door 3 0 0 16097 0 0
+~
+~
+End
+
+#16096
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16103 0 0
+~
+~
+Door 1 0 0 16088 0 0
+~
+~
+Door 2 0 0 16097 0 0
+~
+~
+End
+
+#16097
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16096 0 0
+~
+~
+Door 1 0 0 16095 0 0
+~
+~
+End
+
+#16098
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16087 0 0
+~
+~
+End
+
+#16099
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16101 0 0
+~
+~
+Door 2 0 0 16086 0 0
+~
+~
+Door 3 0 0 16102 0 0
+~
+~
+End
+
+#16100
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16101 0 0
+~
+~
+Door 2 0 0 16093 0 0
+~
+~
+Door 3 0 0 16086 0 0
+~
+~
+End
+
+#16101
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16100 0 0
+~
+~
+Door 3 0 0 16099 0 0
+~
+~
+End
+
+#16102
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16099 0 0
+~
+~
+Door 2 0 0 16085 0 0
+~
+~
+Door 3 0 0 16104 0 0
+~
+~
+End
+
+#16103
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16085 0 0
+~
+~
+Door 1 0 0 16087 0 0
+~
+~
+Door 2 0 0 16096 0 0
+~
+~
+End
+
+#16104
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16102 0 0
+~
+~
+Door 2 0 0 16084 0 0
+~
+~
+Door 3 0 0 16106 0 0
+~
+~
+End
+
+#16105
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16106 0 0
+~
+~
+Door 1 0 0 16084 0 0
+~
+~
+Door 2 0 0 16107 0 0
+~
+~
+End
+
+#16106
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16104 0 0
+~
+~
+Door 2 0 0 16105 0 0
+~
+~
+End
+
+#16107
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16105 0 0
+~
+~
+Door 1 0 0 16083 0 0
+~
+~
+Door 2 0 0 16110 0 0
+~
+~
+End
+
+#16108
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16107 0 0
+~
+~
+Door 1 0 0 16082 0 0
+~
+~
+End
+
+#16109
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16081 0 0
+~
+~
+Door 3 0 0 16111 0 0
+~
+~
+End
+
+#16110
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16107 0 0
+~
+~
+Door 1 0 0 16082 0 0
+~
+~
+Door 2 0 0 16080 0 0
+~
+~
+Door 3 0 0 16112 0 0
+~
+~
+End
+
+#16111
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16080 0 0
+~
+~
+Door 1 0 0 16109 0 0
+~
+~
+Door 3 0 0 16077 0 0
+~
+~
+End
+
+#16112
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16110 0 0
+~
+~
+Door 2 0 0 16079 0 0
+~
+~
+Door 3 0 0 16114 0 0
+~
+~
+End
+
+#16113
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16114 0 0
+~
+~
+Door 1 0 0 16079 0 0
+~
+~
+Door 2 0 0 16078 0 0
+~
+~
+Door 3 0 0 16116 0 0
+~
+~
+End
+
+#16114
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16112 0 0
+~
+~
+Door 2 0 0 16113 0 0
+~
+~
+End
+
+#16115
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16116 0 0
+~
+~
+Door 1 0 0 16078 0 0
+~
+~
+Door 2 0 0 16117 0 0
+~
+~
+End
+
+#16116
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16113 0 0
+~
+~
+Door 2 0 0 16115 0 0
+~
+~
+End
+
+#16117
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16115 0 0
+~
+~
+Door 1 0 0 16076 0 0
+~
+~
+Door 2 0 0 16119 0 0
+~
+~
+End
+
+#16118
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16076 0 0
+~
+~
+Door 1 0 0 16121 0 0
+~
+~
+Door 3 0 0 16119 0 0
+~
+~
+End
+
+#16119
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16117 0 0
+~
+~
+Door 1 0 0 16118 0 0
+~
+~
+End
+
+#16120
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16122 0 0
+~
+~
+Door 3 0 0 16074 0 0
+~
+~
+End
+
+#16121
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16075 0 0
+~
+~
+Door 1 0 0 16073 0 0
+~
+~
+Door 2 0 0 16123 0 0
+~
+~
+Door 3 0 0 16118 0 0
+~
+~
+End
+
+#16122
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16120 0 0
+~
+~
+Door 2 0 0 16124 0 0
+~
+~
+Door 3 0 0 16073 0 0
+~
+~
+End
+
+#16123
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16121 0 0
+~
+~
+Door 1 0 0 16072 0 0
+~
+~
+Door 2 0 0 16070 0 0
+~
+~
+Door 3 0 0 16129 0 0
+~
+~
+End
+
+#16124
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16122 0 0
+~
+~
+Door 3 0 0 16072 0 0
+~
+~
+End
+
+#16125
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16127 0 0
+~
+~
+Door 3 0 0 16071 0 0
+~
+~
+End
+
+#16126
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16071 0 0
+~
+~
+Door 1 0 0 16127 0 0
+~
+~
+Door 3 0 0 16128 0 0
+~
+~
+End
+
+#16127
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16125 0 0
+~
+~
+Door 3 0 0 16126 0 0
+~
+~
+End
+
+#16128
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16070 0 0
+~
+~
+Door 1 0 0 16126 0 0
+~
+~
+Door 3 0 0 16068 0 0
+~
+~
+End
+
+#16129
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16123 0 0
+~
+~
+Door 2 0 0 16069 0 0
+~
+~
+Door 3 0 0 16131 0 0
+~
+~
+End
+
+#16130
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16131 0 0
+~
+~
+Door 1 0 0 16069 0 0
+~
+~
+Door 2 0 0 16067 0 0
+~
+~
+End
+
+#16131
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16129 0 0
+~
+~
+Door 2 0 0 16130 0 0
+~
+~
+End
+
+#16132
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16068 0 0
+~
+~
+Door 3 0 0 16133 0 0
+~
+~
+End
+
+#16133
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16067 0 0
+~
+~
+Door 1 0 0 16132 0 0
+~
+~
+Door 2 0 0 16138 0 0
+~
+~
+Door 3 0 0 16065 0 0
+~
+~
+End
+
+#16134
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16066 0 0
+~
+~
+Door 3 0 0 16136 0 0
+~
+~
+End
+
+#16135
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16136 0 0
+~
+~
+Door 1 0 0 16066 0 0
+~
+~
+Door 2 0 0 16137 0 0
+~
+~
+End
+
+#16136
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16134 0 0
+~
+~
+Door 2 0 0 16135 0 0
+~
+~
+End
+
+#16137
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16135 0 0
+~
+~
+Door 1 0 0 16065 0 0
+~
+~
+Door 2 0 0 16139 0 0
+~
+~
+End
+
+#16138
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16133 0 0
+~
+~
+Door 3 0 0 16064 0 0
+~
+~
+End
+
+#16139
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16137 0 0
+~
+~
+Door 1 0 0 16064 0 0
+~
+~
+End
+
+#16140
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16063 0 0
+~
+~
+Door 1 0 0 16142 0 0
+~
+~
+End
+
+#16141
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16142 0 0
+~
+~
+Door 3 0 0 16063 0 0
+~
+~
+End
+
+#16142
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16141 0 0
+~
+~
+Door 3 0 0 16140 0 0
+~
+~
+End
+
+#16143
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+End
+
+#16145
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16146 0 0
+~
+~
+Door 1 0 0 16062 0 0
+~
+~
+Door 2 0 0 16147 0 0
+~
+~
+End
+
+#16146
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16145 0 0
+~
+~
+End
+
+#16147
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16145 0 0
+~
+~
+Door 1 0 0 16061 0 0
+~
+~
+Door 2 0 0 16060 0 0
+~
+~
+Door 3 0 0 16152 0 0
+~
+~
+End
+
+#16148
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16149 0 0
+~
+~
+Door 3 0 0 16061 0 0
+~
+~
+End
+
+#16149
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16148 0 0
+~
+~
+Door 2 0 0 16151 0 0
+~
+~
+Door 3 0 0 16048 0 0
+~
+~
+End
+
+#16150
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16048 0 0
+~
+~
+Door 1 0 0 16151 0 0
+~
+~
+Door 3 0 0 16153 0 0
+~
+~
+End
+
+#16151
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16149 0 0
+~
+~
+Door 3 0 0 16150 0 0
+~
+~
+End
+
+#16152
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16147 0 0
+~
+~
+Door 2 0 0 16059 0 0
+~
+~
+Door 3 0 0 16155 0 0
+~
+~
+End
+
+#16153
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16060 0 0
+~
+~
+Door 1 0 0 16150 0 0
+~
+~
+Door 3 0 0 16154 0 0
+~
+~
+End
+
+#16154
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16059 0 0
+~
+~
+Door 1 0 0 16153 0 0
+~
+~
+Door 3 0 0 16156 0 0
+~
+~
+End
+
+#16155
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16152 0 0
+~
+~
+Door 2 0 0 16058 0 0
+~
+~
+End
+
+#16156
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16058 0 0
+~
+~
+Door 1 0 0 16154 0 0
+~
+~
+Door 2 0 0 16160 0 0
+~
+~
+Door 3 0 0 16056 0 0
+~
+~
+End
+
+#16157
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16057 0 0
+~
+~
+Door 3 0 0 16159 0 0
+~
+~
+End
+
+#16158
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16159 0 0
+~
+~
+Door 1 0 0 16057 0 0
+~
+~
+Door 2 0 0 16163 0 0
+~
+~
+End
+
+#16159
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16157 0 0
+~
+~
+Door 2 0 0 16158 0 0
+~
+~
+End
+
+#16160
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16156 0 0
+~
+~
+Door 1 0 0 16056 0 0
+~
+~
+Door 2 0 0 16162 0 0
+~
+~
+Door 3 0 0 16054 0 0
+~
+~
+End
+
+#16161
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16054 0 0
+~
+~
+Door 1 0 0 16162 0 0
+~
+~
+Door 3 0 0 16164 0 0
+~
+~
+End
+
+#16162
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16160 0 0
+~
+~
+Door 3 0 0 16161 0 0
+~
+~
+End
+
+#16163
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16158 0 0
+~
+~
+Door 1 0 0 16056 0 0
+~
+~
+Door 2 0 0 16053 0 0
+~
+~
+Door 3 0 0 16165 0 0
+~
+~
+End
+
+#16164
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16053 0 0
+~
+~
+Door 1 0 0 16161 0 0
+~
+~
+Door 3 0 0 16166 0 0
+~
+~
+End
+
+#16165
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 16163 0 0
+~
+~
+Door 2 0 0 16052 0 0
+~
+~
+End
+
+#16166
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16052 0 0
+~
+~
+Door 1 0 0 16164 0 0
+~
+~
+Door 2 0 0 16171 0 0
+~
+~
+Door 3 0 0 16050 0 0
+~
+~
+End
+
+#16167
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16168 0 0
+~
+~
+Door 1 0 0 16051 0 0
+~
+~
+Door 2 0 0 16049 0 0
+~
+~
+Door 3 0 0 16173 0 0
+~
+~
+End
+
+#16168
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16169 0 0
+~
+~
+Door 2 0 0 16167 0 0
+~
+~
+End
+
+#16169
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16051 0 0
+~
+~
+Door 3 0 0 16168 0 0
+~
+~
+End
+
+#16170
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16050 0 0
+~
+~
+Door 1 0 0 16171 0 0
+~
+~
+Door 2 0 0 16175 0 0
+~
+~
+Door 3 0 0 16047 0 0
+~
+~
+End
+
+#16171
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16166 0 0
+~
+~
+Door 3 0 0 16170 0 0
+~
+~
+End
+
+#16172
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16173 0 0
+~
+~
+Door 1 0 0 16049 0 0
+~
+~
+Door 2 0 0 16174 0 0
+~
+~
+End
+
+#16173
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16167 0 0
+~
+~
+Door 2 0 0 16172 0 0
+~
+~
+End
+
+#16174
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16172 0 0
+~
+~
+Door 1 0 0 16047 0 0
+~
+~
+Door 2 0 0 16045 0 0
+~
+~
+Door 3 0 0 16181 0 0
+~
+~
+End
+
+#16175
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16170 0 0
+~
+~
+Door 2 0 0 16177 0 0
+~
+~
+Door 3 0 0 16046 0 0
+~
+~
+End
+
+#16176
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16046 0 0
+~
+~
+Door 1 0 0 16177 0 0
+~
+~
+Door 2 0 0 16180 0 0
+~
+~
+Door 3 0 0 16044 0 0
+~
+~
+End
+
+#16177
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16175 0 0
+~
+~
+Door 3 0 0 16176 0 0
+~
+~
+End
+
+#16178
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16181 0 0
+~
+~
+Door 1 0 0 16045 0 0
+~
+~
+Door 2 0 0 16043 0 0
+~
+~
+Door 3 0 0 16183 0 0
+~
+~
+End
+
+#16179
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16044 0 0
+~
+~
+Door 1 0 0 16180 0 0
+~
+~
+Door 3 0 0 16182 0 0
+~
+~
+End
+
+#16180
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16176 0 0
+~
+~
+Door 3 0 0 16179 0 0
+~
+~
+End
+
+#16181
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16174 0 0
+~
+~
+Door 2 0 0 16178 0 0
+~
+~
+End
+
+#16182
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16043 0 0
+~
+~
+Door 1 0 0 16179 0 0
+~
+~
+Door 3 0 0 16184 0 0
+~
+~
+End
+
+#16183
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16178 0 0
+~
+~
+Door 2 0 0 16042 0 0
+~
+~
+Door 3 0 0 16185 0 0
+~
+~
+End
+
+#16184
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16042 0 0
+~
+~
+Door 1 0 0 16182 0 0
+~
+~
+Door 3 0 0 16186 0 0
+~
+~
+End
+
+#16185
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16183 0 0
+~
+~
+Door 2 0 0 16041 0 0
+~
+~
+Door 3 0 0 16187 0 0
+~
+~
+End
+
+#16186
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16041 0 0
+~
+~
+Door 1 0 0 16184 0 0
+~
+~
+Door 2 0 0 16192 0 0
+~
+~
+Door 3 0 0 16039 0 0
+~
+~
+End
+
+#16187
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16185 0 0
+~
+~
+Door 2 0 0 16040 0 0
+~
+~
+Door 3 0 0 16189 0 0
+~
+~
+End
+
+#16188
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16189 0 0
+~
+~
+Door 1 0 0 16040 0 0
+~
+~
+Door 2 0 0 16190 0 0
+~
+~
+End
+
+#16189
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16187 0 0
+~
+~
+Door 2 0 0 16188 0 0
+~
+~
+End
+
+#16190
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16188 0 0
+~
+~
+Door 1 0 0 16039 0 0
+~
+~
+Door 2 0 0 16191 0 0
+~
+~
+End
+
+#16191
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16190 0 0
+~
+~
+Door 1 0 0 16038 0 0
+~
+~
+Door 2 0 0 16193 0 0
+~
+~
+End
+
+#16192
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16186 0 0
+~
+~
+Door 1 0 0 16197 0 0
+~
+~
+Door 2 0 0 16036 0 0
+~
+~
+Door 3 0 0 16038 0 0
+~
+~
+End
+
+#16193
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16191 0 0
+~
+~
+Door 1 0 0 16037 0 0
+~
+~
+End
+
+#16194
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16037 0 0
+~
+~
+Door 1 0 0 16195 0 0
+~
+~
+Door 2 0 0 16031 0 0
+~
+~
+Door 3 0 0 16208 0 0
+~
+~
+End
+
+#16195
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16036 0 0
+~
+~
+Door 1 0 0 16034 0 0
+~
+~
+Door 2 0 0 16032 0 0
+~
+~
+Door 3 0 0 16194 0 0
+~
+~
+End
+
+#16196
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16194 0 0
+~
+~
+End
+
+#16197
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16199 0 0
+~
+~
+Door 2 0 0 16035 0 0
+~
+~
+Door 3 0 0 16192 0 0
+~
+~
+End
+
+#16198
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16199 0 0
+~
+~
+Door 2 0 0 16200 0 0
+~
+~
+Door 3 0 0 16035 0 0
+~
+~
+End
+
+#16199
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16198 0 0
+~
+~
+Door 3 0 0 16197 0 0
+~
+~
+End
+
+#16200
+Name Near A Merchant Highway~
+Descr
+~
+Sector 3
+Door 0 0 0 16198 0 0
+~
+~
+Door 2 0 0 16201 0 0
+~
+~
+Door 3 0 0 16034 0 0
+~
+~
+End
+
+#16201
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16200 0 0
+~
+~
+Door 2 0 0 16204 0 0
+~
+~
+Door 3 0 0 16033 0 0
+~
+~
+End
+
+#16203
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16033 0 0
+~
+~
+Door 1 0 0 16204 0 0
+~
+~
+Door 3 0 0 16206 0 0
+~
+~
+End
+
+#16204
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16201 0 0
+~
+~
+Door 3 0 0 16203 0 0
+~
+~
+End
+
+#16205
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 2 0 0 16032 0 0
+~
+~
+End
+
+#16206
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16032 0 0
+~
+~
+Door 1 0 0 16203 0 0
+~
+~
+Door 3 0 0 16207 0 0
+~
+~
+End
+
+#16207
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16031 0 0
+~
+~
+Door 1 0 0 16206 0 0
+~
+~
+Door 2 0 0 16213 0 0
+~
+~
+Door 3 0 0 16029 0 0
+~
+~
+End
+
+#16208
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16194 0 0
+~
+~
+Door 2 0 0 16030 0 0
+~
+~
+Door 3 0 0 16210 0 0
+~
+~
+End
+
+#16209
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16210 0 0
+~
+~
+Door 1 0 0 16030 0 0
+~
+~
+Door 2 0 0 16211 0 0
+~
+~
+End
+
+#16210
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16208 0 0
+~
+~
+Door 2 0 0 16209 0 0
+~
+~
+Door 4 0 0 16690 0 0
+~
+~
+End
+
+#16211
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16209 0 0
+~
+~
+Door 1 0 0 16029 0 0
+~
+~
+Door 2 0 0 16212 0 0
+~
+~
+End
+
+#16212
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16211 0 0
+~
+~
+Door 1 0 0 16028 0 0
+~
+~
+Door 2 0 0 16026 0 0
+~
+~
+Door 3 0 0 16217 0 0
+~
+~
+End
+
+#16213
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16207 0 0
+~
+~
+Door 2 0 0 16215 0 0
+~
+~
+Door 3 0 0 16028 0 0
+~
+~
+End
+
+#16214
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16027 0 0
+~
+~
+Door 1 0 0 16216 0 0
+~
+~
+Door 3 0 0 16218 0 0
+~
+~
+End
+
+#16215
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16213 0 0
+~
+~
+Door 2 0 0 16216 0 0
+~
+~
+Door 3 0 0 16027 0 0
+~
+~
+End
+
+#16216
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16215 0 0
+~
+~
+Door 3 0 0 16214 0 0
+~
+~
+End
+
+#16217
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16212 0 0
+~
+~
+Door 2 0 0 16006 0 0
+~
+~
+Door 3 0 0 16220 0 0
+~
+~
+End
+
+#16218
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16026 0 0
+~
+~
+Door 1 0 0 16214 0 0
+~
+~
+Door 3 0 0 16219 0 0
+~
+~
+End
+
+#16219
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16006 0 0
+~
+~
+Door 1 0 0 16218 0 0
+~
+~
+Door 2 0 0 16224 0 0
+~
+~
+Door 3 0 0 16025 0 0
+~
+~
+End
+
+#16220
+Name A Faint Trail~
+Descr
+This faint trail branchs off from the Great Merchant Highway. The main
+road lies just to the south, and a large gate seems to be very close to your
+north. An uneasy feeling flows over you as you step closer to the massive
+gates. 
+~
+Sector 4
+Door 1 0 0 16217 0 0
+~
+~
+Door 2 0 0 16005 0 0
+~
+~
+Door 3 0 0 16222 0 0
+~
+~
+End
+
+#16221
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16222 0 0
+~
+~
+Door 1 0 0 16005 0 0
+~
+~
+Door 2 0 0 16020 0 0
+~
+~
+Door 3 0 0 16226 0 0
+~
+~
+End
+
+#16222
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16220 0 0
+~
+~
+Door 2 0 0 16221 0 0
+~
+~
+End
+
+#16223
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16025 0 0
+~
+~
+Door 1 0 0 16224 0 0
+~
+~
+Door 3 0 0 16225 0 0
+~
+~
+End
+
+#16224
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16219 0 0
+~
+~
+Door 3 0 0 16223 0 0
+~
+~
+End
+
+#16225
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16020 0 0
+~
+~
+Door 1 0 0 16223 0 0
+~
+~
+Door 3 0 0 16227 0 0
+~
+~
+End
+
+#16226
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16221 0 0
+~
+~
+Door 2 0 0 16019 0 0
+~
+~
+Door 3 0 0 16017 0 0
+~
+~
+End
+
+#16227
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16019 0 0
+~
+~
+Door 1 0 0 16225 0 0
+~
+~
+End
+
+#16228
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16017 0 0
+~
+~
+Door 3 0 0 16230 0 0
+~
+~
+End
+
+#16229
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 3 0 0 16023 0 0
+~
+~
+End
+
+#16230
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16228 0 0
+~
+~
+Door 2 0 0 16016 0 0
+~
+~
+Door 3 0 0 16232 0 0
+~
+~
+Door 5 0 0 16255 0 0
+~
+~
+End
+
+#16231
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16232 0 0
+~
+~
+Door 1 0 0 16016 0 0
+~
+~
+Door 2 0 0 16233 0 0
+~
+~
+End
+
+#16232
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16230 0 0
+~
+~
+Door 2 0 0 16231 0 0
+~
+~
+End
+
+#16233
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16231 0 0
+~
+~
+Door 1 0 0 16024 0 0
+~
+~
+Door 2 0 0 16022 0 0
+~
+~
+Door 3 0 0 16237 0 0
+~
+~
+End
+
+#16234
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16023 0 0
+~
+~
+Door 3 0 0 16235 0 0
+~
+~
+End
+
+#16235
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16022 0 0
+~
+~
+Door 1 0 0 16234 0 0
+~
+~
+Door 3 0 0 16236 0 0
+~
+~
+End
+
+#16236
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16021 0 0
+~
+~
+Door 1 0 0 16235 0 0
+~
+~
+Door 3 0 0 16239 0 0
+~
+~
+End
+
+#16237
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16233 0 0
+~
+~
+Door 2 0 0 16021 0 0
+~
+~
+Door 3 0 0 16238 0 0
+~
+~
+End
+
+#16238
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16237 0 0
+~
+~
+Door 2 0 0 16015 0 0
+~
+~
+Door 3 0 0 16240 0 0
+~
+~
+End
+
+#16239
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16015 0 0
+~
+~
+Door 1 0 0 16236 0 0
+~
+~
+Door 2 0 0 16248 0 0
+~
+~
+Door 3 0 0 16007 0 0
+~
+~
+End
+
+#16240
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16238 0 0
+~
+~
+Door 2 0 0 16014 0 0
+~
+~
+Door 3 0 0 16242 0 0
+~
+~
+End
+
+#16241
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16014 0 0
+~
+~
+Door 1 0 0 16239 0 0
+~
+~
+End
+
+#16242
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16240 0 0
+~
+~
+Door 2 0 0 16010 0 0
+~
+~
+Door 3 0 0 16244 0 0
+~
+~
+End
+
+#16243
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16244 0 0
+~
+~
+Door 1 0 0 16010 0 0
+~
+~
+Door 2 0 0 16245 0 0
+~
+~
+End
+
+#16244
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16242 0 0
+~
+~
+Door 2 0 0 16243 0 0
+~
+~
+End
+
+#16245
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16243 0 0
+~
+~
+Door 1 0 0 16009 0 0
+~
+~
+Door 2 0 0 16247 0 0
+~
+~
+End
+
+#16246
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16009 0 0
+~
+~
+Door 3 0 0 16247 0 0
+~
+~
+End
+
+#16247
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Door 0 0 0 16245 0 0
+~
+~
+Door 1 0 0 16246 0 0
+~
+~
+End
+
+#16248
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16239 0 0
+~
+~
+Door 2 0 0 16250 0 0
+~
+~
+Door 3 0 0 16004 0 0
+~
+~
+End
+
+#16249
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16004 0 0
+~
+~
+Door 1 0 0 16250 0 0
+~
+~
+Door 3 0 0 16251 0 0
+~
+~
+End
+
+#16250
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16248 0 0
+~
+~
+Door 3 0 0 16249 0 0
+~
+~
+End
+
+#16251
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 0 0 0 16003 0 0
+~
+~
+Door 1 0 0 16249 0 0
+~
+~
+Door 3 0 0 16001 0 0
+~
+~
+End
+
+#16252
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 2 0 0 16002 0 0
+~
+~
+Door 3 0 0 16253 0 0
+~
+~
+End
+
+#16253
+Name Near A Merchant Highway~
+Descr
+This rubble strewn area near the merchant highway is often used to repair
+wagons. You hear some birds chirping and some other unidentified grunting
+noises coming from somewhere in the woods. 
+~
+Sector 3
+Door 1 0 0 16252 0 0
+~
+~
+Door 2 0 0 16254 0 0
+~
+~
+End
+
+#16254
+Name Near A Merchant Highway~
+Descr
+~
+Sector 3
+Door 0 0 0 16253 0 0
+~
+~
+Door 1 0 0 16002 0 0
+~
+~
+End
+
+#16255
+Name The Hideaway of Peace and Prosperity~
+Descr
+You see a saintly looking priest who happens to be wielding an enormous
+deadly looking blade. You feel a feeling of peace and tranquility and wonder
+why this priest is carrying such a weapon. 
+~
+Sector 0
+Reset M 16255 1 100
+Door 4 0 0 16230 0 0
+~
+~
+End
+
+#16331
+Name ~
+Descr
+~
+Door 1 0 0 16230 0 0
+~
+~
+End
+
+#16340
+Name ~
+Descr
+~
+Door 2 0 0 16010 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

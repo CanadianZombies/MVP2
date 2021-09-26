@@ -1,0 +1,2795 @@
+#AREADATA 
+Name Drequen Castle~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA feeling of terror overwhelms you as an evil presence peers into the room.
+~[0;37m
+SRepop 25
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Ululatus Talon~
+VNUMs 24301 24400
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#24301
+Name aONE A TROLL guard warrior~
+Short a Troll Warrior~
+Long 
+An old troll warrior stands here protecting Drequen from invaders.
+~
+Descr
+~
+AMax 2
+AYeller 5
+AWillhelp 0
+NHeight 144
+ActBits 134217730
+ActBits3 2048
+Affect_By 680
+Alignment -1000
+Money 90
+Level 250
+Sex 1
+MobType 12
+Guard 3
+RaceHate 67108864
+BCasts flamestrike~
+BCasts mana purge~
+BCasts invis~
+BCast_P 40
+End
+
+#24302
+Name newbie mage~
+Short a newbie mage~
+Long 
+A newbie mage is trying to figure out how to use his wand.
+~
+Descr
+~
+AMax 7
+NHeight 0
+Alignment 1000
+Money 100
+Level 15
+Sex 1
+MobType 0
+Guard 0
+End
+
+#24317
+Name atwo high priest onasis~
+Short onasis~
+Long 
+The Dark Priest, Onasis, is practicing his arcane magic.
+~
+Descr
+~
+AMax 1
+NHeight 90
+ActBits 2
+Alignment 1000
+Money 50
+Level 30
+Sex 1
+MobType 26
+Guard 0
+End
+
+#24318
+Name dsades~
+Short dsades, the legendary drow warrior~
+Long 
+Dsades, the legendary drow warrior, stands here protecting his home.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 95
+ActBits 16
+Alignment 1000
+Money 50
+Level 30
+MobType 26
+Guard 0
+End
+
+#24319
+Name gaefda human light~
+Short gaefda, the protector of light~
+Long 
+Gaefda, the protector of light, stands here protecting his home
+~
+Descr
+~
+AMax 1
+NHeight 30
+ActBits 16
+Affect_By 40
+Alignment 1000
+Money 50
+Level 30
+MobType 0
+Guard 0
+End
+
+#24321
+Name argentar~
+Short a banker~
+Long 
+Argentar stands here ready to take your money.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131074
+Affect_By 128
+Money 250
+Level 250
+Sex 1
+MobType 25
+Guard 0
+End
+
+#24328
+Name massive Troll~
+Short a Massive Troll~
+Long 
+A massive troll stands here guarding the hallway.
+~
+Descr
+~
+AMax 6
+AYeller 4
+AWillhelp 0
+NHeight 190
+ActBits 2
+ActBits4 8192
+Affect_By 680
+Alignment -1000
+Money 500
+Level 500
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#24356
+Name goblin thief poar~
+Short a goblin thief~
+Long 
+A goblin thief is sneaking in the shadows.
+~
+Descr
+~
+AMax 10
+NHeight 54
+Affect_By 32768
+Money 25
+Level 9
+Sex 1
+MobType 0
+Hp 7
+Guard 0
+End
+
+#24357
+Name rat~
+Short a rat~
+Long 
+A rat is here, scurrying around in the shadows.
+~
+Descr
+~
+AMax 10
+NHeight 5
+Money 3
+Level 7
+MobType 7
+Guard 0
+End
+
+#24367
+Name orc soldier suar~
+Short an Orc Soldier~
+Long 
+An Orc soldier is patroling the area.
+~
+Descr
+~
+AMax 7
+NHeight 63
+Money 25
+Level 15
+MobType 25
+Hp 7
+Guard 0
+End
+
+#24368
+Name prisoner~
+Short a prisoner~
+Long 
+A prisoner of the war is leaning agianst the wall.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 2
+Affect_By 131072
+Money 60
+Level 10
+MobType 0
+Hp 7
+Guard 0
+End
+
+#24369
+Name weak miner~
+Short a weak miner~
+Long 
+A weak looking miner is slowly striking the wall.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 20
+Level 20
+MobType 0
+Hp 16007
+Guard 0
+End
+
+#24370
+Name strong miner~
+Short a stong miner~
+Long 
+A stronger looking miner is smashing the wall with his pick.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 27
+Level 25
+MobType 0
+Hp 16007
+Guard 0
+Spec spec_warrior
+End
+
+#24371
+Name overlord~
+Short an overlord~
+Long 
+An overlord is patrolling here searching for lazy miners.
+~
+Descr
+~
+AMax 3
+NHeight 0
+Money 45
+Level 25
+MobType 0
+Hp 16007
+Guard 0
+Spec spec_warrior
+End
+
+#24372
+Name torturer~
+Short the Torturer~
+Long 
+The Torturer stands here causing massive amounts of pain to his victims.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Money 55
+Level 25
+MobType 12
+Hp 16007
+Guard 0
+Spec spec_warrior
+End
+
+#24374
+Name prisoner~
+Short a prisoner~
+Long 
+A prisoner of the war is leaning agianst the wall.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 2
+Affect_By 131072
+Money 60
+Level 10
+MobType 0
+Hp 7
+Guard 0
+End
+
+#24380
+Name prisoner~
+Short a prisoner~
+Long 
+A prisoner of the war is leaning agianst the wall.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 2
+Affect_By 131072
+Money 60
+Level 10
+MobType 0
+Hp 20
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#24301
+Name crimson altar~
+Short a [0m[31mcrimson [1m[30maltar[0m~
+Descr
+A large [0m[31mcrimson[0m altar lies here, giving a [1m[30mdark aura[0m.
+[0;36m~
+Type 13
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24302
+Name thick black whip~
+Short a thick [1m[30mblack whip[0m~
+Descr
+A long, thick black whip is coiled on the ground.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 4 0 0 0 2 5 0
+Weight 5
+Cost 100
+Affect 19 1 1 0 0
+Affect 18 -4 1 0 0
+End
+
+#24303
+Name black leather breastplate~
+Short a [1m[30mblack [0m[33mleather[0m breastplate~
+Descr
+A set of black leather armor is lying on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 1 0 10 8 10 10 5 3
+Weight 2
+Cost 0
+Affect 13 5 1 0 0
+End
+
+#24304
+Name iron ring overlord~
+Short an iron ring~
+Descr
+A small ring made for an overlord lies in the dust.
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 20 20 0 0
+Weight 2
+Cost 0
+Affect 13 5 1 0 0
+End
+
+#24305
+Name leather wristband~
+Short a [0m[33mleather[0m wristband~
+Descr
+A small leather wristband has been discarded.
+[0;36m~
+Type 9
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 10 10 20 20 7 1
+Weight 1
+Cost 0
+End
+
+#24306
+Name dark pendant~
+Short a [1m[30mdark pendant[0m~
+Descr
+A small dark pendant is lying on the floor.
+[0;36m~
+Type 9
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 10 10 0 2
+Weight 1
+Cost 0
+Affect 17 -1 1 0 0
+End
+
+#24307
+Name iron anklet~
+Short an iron anklet~
+Descr
+A rusty iron anklet is lying here.
+[0;36m~
+Type 9
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 8 8 10 1
+Weight 2
+Cost 0
+End
+
+#24308
+Name dull gray ioun stone NEWBIE~
+Short a [37mdull gray[0m ioun stone~
+Descr
+A [37mdull gray[0m ioun stone is lying on the floor.
+[0;36m~
+Type 9
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+Affect 18 1 1 0 0
+End
+
+#24309
+Name pale blue ioun stone NEWBIE~
+Short a [1m[36mpale blue[0m ioun stone[0m~
+Descr
+A pale blue ioun stone is lying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+Affect 15 4 1 0 0
+End
+
+#24310
+Name scarlet blue ioun stone NEWBIE~
+Short a [31msc[34mar[31mle[34mt b[31mlu[34me[0m ioun stone[0m~
+Descr
+A scarlet and blue ioun stone is lying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 26 5 1 0 0
+End
+
+#24311
+Name incandesecnt blue ioun stone NEWBIE~
+Short an [1m[34mincandescent blue[0m ioun stone~
+Descr
+An incandescent blue ioun stone is lying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 13 10 1 0 0
+End
+
+#24312
+Name dusty rose ioun stone~
+Short a [1m[30mdu[0m[31mst[1m[30my [0m[31mro[1m[30mse[0m ioun stone~
+Descr
+A dusty rose ioun stone is lying here.
+[0;36m~
+Type 9
+Extra 1
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 2 2 2 0 0 0 0 0 5
+Weight 0
+Cost 0
+Affect 17 -5 1 0 0
+End
+
+#24313
+Name deep red ioun stone~
+Short a [31mdeep red[0m ioun stone~
+Descr
+A deep red ioun stone is floating in the air.
+[0;36m~
+Type 13
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 2 1 1 0 0
+End
+
+#24319
+Name fountain~
+Short a fountain~
+Descr
+[1m[37mA ma[0m[37mr[1m[37mbl[0m[37me [1m[37mfou[0m[37mn[1m[37mtai[0m[37mn [1m[37msi[0m[37mt[1m[37ms he[0m[37mr[1m[37me co[0m[37mv[1m[37mere[0m[37md[1m[37m in [0m[32mmoss[0m.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 23 1000 1000 50 44 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24320
+Name hay pile~
+Short a pile of [1m[33mhay[0m~
+Descr
+A small pile of [1m[33mhay[0m sits in the room.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24321
+Name iron maiden~
+Short an iron maiden~
+Descr
+An iron maiden is sitting agianst the wall.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24322
+Name skeleton~
+Short a [1m[37ms[0m[37mk[1m[37me[0m[37mle[1m[37mt[0m[37mon[0m~
+Descr
+A skeleton is lying here on the ground.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24323
+Name a big red sign~
+Short [1m[31ma big red sign[0m~
+Descr
+[0m[36ma very large [1m[31mRED sign[0m[36m is here in the room for new players to read.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the Void of Reality.
+ 
+West of here is the newbie area where you can xp to level up and move out
+into the world. Up from here is Masqe where you can learn spells and skills
+to help youI suggest to say in here as long as you can before heading out
+into the open world! Once you reach level 20, you will no longer be able to
+enter this area.
+ 
+Here are some help files and commands to help you:
+Help Newbie
+Help Map
+Help Masqe
+Help Changes
+Help Damage
+ 
+slist skill
+slist spell
+ 
+While starting off flurry is your only skill. Use it but watch your
+moves. Once you have earned a few levels, head back here and go up into
+masqe where you can start to lean some skills and spells. Any mob that has
+[Teacher] in front of them will teach you a skill or a spell.
+ 
+The use of help masqe will show you the area and also point out where
+teachers are located along with, The banker, armorsmith, weaponsmith, baker,
+and a few other things. Help masqe and help map will come in handy.
+Good Luck and enjoy the mud!
+~
+ExtraDescr red~
+Welcome to the Void of Reality.
+ 
+West of here is the newbie area where you can xp to level up and move out
+into the world. Up from here is Masqe where you can learn spells and skills
+to help youI suggest to say in here as long as you can before heading out
+into the open world! Once you reach level 20, you will no longer be able to
+enter this area.
+ 
+Here are some help files and commands to help you:
+Help Newbie
+Help Map
+Help Masqe
+Help Changes
+Help Damage
+ 
+slist skill
+slist spell
+ 
+While starting off flurry is your only skill. Use it but watch your
+moves. Once you have earned a few levels, head back here and go up into
+masqe where you can start to lean some skills and spells. Any mob that has
+[Teacher] in front of them will teach you a skill or a spell.
+ 
+The use of help masqe will show you the area and also point out where
+teachers are located along with, The banker, armorsmith, weaponsmith, baker,
+and a few other things. Help masqe and help map will come in handy.
+Good Luck and enjoy the mud!
+~
+End
+
+#24324
+Name newbie blocker~
+Short a newbie blocker~
+Descr
+The newbie blocker!
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 1 25 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#24301
+Name Entrance to Drequen Castle~
+Descr
+The high walls of the gate seem to tower over you like two giants
+chilling the bones and making it hard to see what is on either side
+of you. The guard looks down upon you making sure you are of the right alignment to enter.
+~
+Flags 17416
+Sector 0
+Reset O 24324 -5 100
+Reset O 24323 -5 100
+Reset O 64301 -5 100
+Reset M 24301 1 100
+Reset O 202 -1 100
+Reset M 24301 1 100
+Reset O 202 -1 100
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 24302 0 0
+~
+~
+Door 4 0 0 8407 0 0
+~
+~
+End
+
+#24302
+Name A Ruined Courtyard~
+Descr
+Crumbling walls and a foul smell surrounds this ruined courtyard. The
+hard, marble floors are stained with moss. The entrance to the castle lies
+in the small gates to your north, west and south. The exit to the castle
+sits to the east. 
+~
+Flags 3145736
+Sector 0
+Reset M 48021 1 100
+Reset O 24319 -5 100
+Reset O 101 -5 100
+Door 0 0 0 24311 0 0
+~
+~
+Door 1 0 0 24301 0 0
+~
+~
+Door 2 0 0 24307 0 0
+~
+~
+Door 3 0 0 24303 0 0
+~
+~
+End
+
+#24303
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 1 0 0 24302 0 0
+~
+~
+Door 3 0 0 24304 0 0
+~
+~
+End
+
+#24304
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24303 0 0
+~
+~
+Door 3 0 0 24305 0 0
+~
+~
+End
+
+#24305
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 16394
+Sector 0
+Reset O 64301 -5 100
+Reset M 24328 1 100
+Reset M 24328 1 100
+Door 1 0 0 24304 0 0
+~
+~
+Door 3 0 0 24306 0 0
+~
+~
+End
+
+#24306
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 1 0 0 24305 0 0
+~
+~
+Door 3 0 0 24319 0 0
+~
+~
+End
+
+#24307
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 24302 0 0
+~
+~
+Door 2 0 0 24308 0 0
+~
+~
+End
+
+#24308
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 17546
+Sector 0
+Reset M 24328 1 100
+Reset M 24328 1 100
+Reset O 12506 -5 100
+Door 0 0 0 24307 0 0
+~
+~
+Door 2 0 0 24309 0 0
+~
+~
+End
+
+#24309
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A large rusted gate sits to the west, blocking
+the entrance to the cathderal. 
+~
+Flags 16392
+Sector 0
+Reset O 64301 -5 100
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 0 0 0 24308 0 0
+~
+~
+Door 2 0 0 24310 0 0
+~
+~
+Door 3 3 0 24315 90 90
+~
+rusted gate~
+End
+
+#24310
+Name A Turn in the Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A small rat skeleton can be seen in the dusty
+corner. The hallway continues north and west. 
+~
+Flags 8
+Sector 0
+ExtraDescr rat skeleton~
+This brittle skeleton seems to be of a large rat which has been devoured
+
+
+recently. 
+
+
+~
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 24309 0 0
+~
+~
+Door 3 0 0 24331 0 0
+~
+~
+End
+
+#24311
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 17546
+Sector 0
+Reset O 64301 -5 100
+Reset M 24328 1 100
+Reset M 24328 1 100
+Reset O 12507 -5 100
+Door 0 0 0 24312 0 0
+~
+~
+Door 2 0 0 24302 0 0
+~
+~
+End
+
+#24312
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Door 0 0 0 24313 0 0
+~
+~
+Door 2 0 0 24311 0 0
+~
+~
+End
+
+#24313
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 64301 -5 100
+Door 0 0 0 24314 0 0
+~
+~
+Door 2 0 0 24312 0 0
+~
+~
+End
+
+#24314
+Name A Turn in the Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. There is a turn here, leaving an exit south and
+west. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 24313 0 0
+~
+~
+Door 3 0 0 24335 0 0
+~
+~
+End
+
+#24315
+Name The Great Drequen Cathedral~
+Descr
+This large cathedral has been ruined over many years of plague and war.
+The dark, stained glass windows that sit in the ceiling casts a dark light
+over the cathderal. A strange chanting sound echos through the cathedral.
+Two large sets of rusted gates lie to the south and east, leading the way
+out. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24316 0 0
+~
+~
+Door 1 3 0 24309 90 90
+~
+rusted gate~
+Door 2 3 0 24331 90 90
+~
+rusted gate~
+Door 3 0 0 24318 0 0
+~
+~
+End
+
+#24316
+Name The Great Drequen Cathedral~
+Descr
+This large cathedral has been ruined over many years of plague and war.
+The dark, stained glass windows that sit in the ceiling casts a dark light
+over the cathderal. A strange chanting sound echos through the cathedral. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 24315 0 0
+~
+~
+Door 3 0 0 24317 0 0
+~
+~
+End
+
+#24317
+Name The Great Drequen Cathedral~
+Descr
+This large cathedral has been ruined over many years of plague and war.
+The dark, stained glass windows that sit in the ceiling casts a dark light
+over the cathderal. A strange chanting sound echos through the cathedral. A
+strange, crimson altar seems to radiate a dark aura. 
+~
+Flags 2097160
+Sector 0
+Reset O 24301 -5 100
+Reset M 24317 1 100
+Reset O 24308 -1 20
+Reset O 24309 -1 20
+Door 1 0 0 24316 0 0
+~
+~
+Door 2 0 0 24318 0 0
+~
+~
+End
+
+#24318
+Name The Great Drequen Cathedral~
+Descr
+This large cathedral has been ruined over many years of plague and war.
+The dark, stained glass windows that sit in the ceiling casts a dark light
+over the cathderal. A strange chanting sound echos through the cathedral. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24317 0 0
+~
+~
+Door 1 0 0 24315 0 0
+~
+~
+End
+
+#24319
+Name EO;the Center of Drequen Castle~
+Descr
+A large marble fountain sits ruined in this center square. Crumbling
+walls and shops line the hallways around here. A faint smell of food floats
+in from the south, and a constant banging sound comes from both the north
+and the south. 
+~
+Flags 3145736
+Sector 0
+Reset O 24319 -5 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Reset M 24357 1 100
+Door 0 0 0 24324 0 0
+~
+~
+Door 1 0 0 24306 0 0
+~
+~
+Door 2 0 0 24323 0 0
+~
+~
+Door 3 0 0 24320 0 0
+~
+~
+End
+
+#24320
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A carving of a suit of armor sites on the wall
+to the south. 
+~
+Flags 3163146
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 48150 -1 75
+Door 1 0 0 24319 0 0
+~
+~
+Door 2 0 0 24322 0 0
+~
+~
+Door 3 0 0 24349 0 0
+~
+~
+End
+
+#24321
+Name Drequen Bank~
+Descr
+A large safe stands in the corner to keep your money safe from
+thieves. A bank teller stands here awaiting your transaction
+while a huge security guard stands in the corner keeping a
+weary eye out for robbers.
+~
+Flags 4
+End
+
+#24322
+Name Drequen Armorer~
+Descr
+This small room is where the armorer of Drequen lives. A small anvil sits
+in the center of the room, next to a set of bellows and a furnace. A couple
+pieces of armor sit on the wall waiting to be sold. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 24320 0 0
+~
+~
+Door 1 0 0 24323 0 0
+~
+~
+End
+
+#24323
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A carving of a suit of armor is on the western
+wall. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 24319 0 0
+~
+~
+Door 2 0 0 24328 0 0
+~
+~
+Door 3 0 0 24322 0 0
+~
+~
+End
+
+#24324
+Name Main Street~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24325 0 0
+~
+~
+Door 2 0 0 24319 0 0
+~
+~
+End
+
+#24325
+Name Main Street~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A sword is carved in the wall to the west, and a
+bag is carved into the wall on the east. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Door 0 0 0 24326 0 0
+~
+~
+Door 1 0 0 24346 0 0
+~
+~
+Door 2 0 0 24324 0 0
+~
+~
+Door 3 0 0 24345 0 0
+~
+~
+End
+
+#24326
+Name Main Street~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24367 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 24327 0 0
+~
+~
+Door 2 0 0 24325 0 0
+~
+~
+End
+
+#24327
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. The hallway seems to split here, leaving exits
+to the west, south and east. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 64301 -5 100
+Door 1 0 0 24338 0 0
+~
+~
+Door 2 0 0 24326 0 0
+~
+~
+Door 3 0 0 24350 0 0
+~
+~
+End
+
+#24328
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A large gem is carved into the wall on the west,
+and a loaf of bread on the wall to the east. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset M 24356 1 100
+Reset O 64301 -5 100
+Door 0 0 0 24323 0 0
+~
+~
+Door 1 0 0 24348 0 0
+~
+~
+Door 2 0 0 24329 0 0
+~
+~
+Door 3 0 0 24347 0 0
+~
+~
+End
+
+#24329
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 0 0 0 24328 0 0
+~
+~
+Door 2 0 0 24330 0 0
+~
+~
+End
+
+#24330
+Name An Intersection~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. The hallway seems to split here, leaving exits
+east, north and west. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 24329 0 0
+~
+~
+Door 1 0 0 24334 0 0
+~
+~
+Door 3 0 0 24370 0 0
+~
+~
+End
+
+#24331
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A large rusted gate sits to the north, blocking
+the entrance to the cathedral. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Reset O 64301 -5 100
+Door 0 3 0 24315 90 90
+~
+rusted gate~
+Door 1 0 0 24310 0 0
+~
+~
+Door 3 0 0 24332 0 0
+~
+~
+End
+
+#24332
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 1 0 0 24331 0 0
+~
+~
+Door 3 0 0 24333 0 0
+~
+~
+End
+
+#24333
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Door 1 0 0 24332 0 0
+~
+~
+Door 3 0 0 24334 0 0
+~
+~
+End
+
+#24334
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 24333 0 0
+~
+~
+Door 3 0 0 24330 0 0
+~
+~
+End
+
+#24335
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset M 24357 1 100
+Reset O 64301 -5 100
+Door 1 0 0 24314 0 0
+~
+~
+Door 3 0 0 24336 0 0
+~
+~
+End
+
+#24336
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24335 0 0
+~
+~
+Door 3 0 0 24337 0 0
+~
+~
+End
+
+#24337
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset M 24357 1 100
+Reset O 64301 -5 100
+Door 1 0 0 24336 0 0
+~
+~
+Door 3 0 0 24338 0 0
+~
+~
+End
+
+#24338
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24337 0 0
+~
+~
+Door 3 0 0 24327 0 0
+~
+~
+End
+
+#24339
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 0 0 0 24340 0 0
+~
+~
+Door 3 0 0 24344 0 0
+~
+~
+End
+
+#24340
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 2 0 0 24339 0 0
+~
+~
+Door 3 0 0 24341 0 0
+~
+~
+End
+
+#24341
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 1 0 0 24340 0 0
+~
+~
+Door 2 0 0 24344 0 0
+~
+~
+Door 3 0 0 24342 0 0
+~
+~
+End
+
+#24342
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 1 0 0 24341 0 0
+~
+~
+Door 2 0 0 24343 0 0
+~
+~
+End
+
+#24343
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 0 0 0 24342 0 0
+~
+~
+Door 1 0 0 24344 0 0
+~
+~
+End
+
+#24344
+Name The Drequen Inn~
+Descr
+~
+Flags 4
+Door 0 0 0 24341 0 0
+~
+~
+Door 1 0 0 24339 0 0
+~
+~
+Door 3 0 0 24343 0 0
+~
+~
+End
+
+#24345
+Name Drequen Weaponry~
+Descr
+This room is filled with many different weapons which hang on the wall.
+This weapon shop is a popular place in the castle. A long counter seperates
+you from the many different types of weapons. 
+~
+Flags 4
+Sector 0
+Reset M 24318 1 100
+Reset O 24310 -1 20
+Reset O 24311 -1 20
+Door 1 0 0 24325 0 0
+~
+~
+End
+
+#24346
+Name Drequen Provisioner~
+Descr
+This is the provisoner of Drequen's home. A small counter sits between
+you and him. On the shelf behind him you can see many different items to be
+sold to the adventurers. This is probably the most clean room in the castle.
+~
+Flags 4
+Sector 0
+Door 3 0 0 24325 0 0
+~
+~
+End
+
+#24347
+Name Drequen Gem Shop~
+Descr
+This small shop seems to be the least traveled to shop in Drequen. There
+is barley enough room for two people in this place. If you didn't see the
+sign outside with a gem, you would have never known it was a shop at all. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 24328 0 0
+~
+~
+End
+
+#24348
+Name Drequen Butchery~
+Descr
+This room is covered in blood and animal parts. The butchery is where all
+the animals are slaughtered and sometimes cooked for food. A small rat tail
+sits in the corner of the room, almost causing you to think twice about what
+you buy. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 24328 0 0
+~
+~
+End
+
+#24349
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24320 0 0
+~
+~
+Door 3 0 0 24357 0 0
+~
+~
+End
+
+#24350
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24327 0 0
+~
+~
+Door 3 0 0 24351 0 0
+~
+~
+End
+
+#24351
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 414 -1 20
+Reset O 413 -1 20
+Reset O 410 -1 20
+Reset O 64301 -5 100
+Door 1 0 0 24350 0 0
+~
+~
+Door 3 0 0 24352 0 0
+~
+~
+End
+
+#24352
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 24351 0 0
+~
+~
+Door 3 0 0 24353 0 0
+~
+~
+End
+
+#24353
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Door 1 0 0 24352 0 0
+~
+~
+Door 3 0 0 24354 0 0
+~
+~
+End
+
+#24354
+Name A Turn in the Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. Cobwebs fill this corner of the castle, showing
+it is less traveled then most of the other halls. Exits lead to the east and
+south. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 24353 0 0
+~
+~
+Door 2 0 0 24362 0 0
+~
+~
+End
+
+#24355
+Name On a Spiral Stair~
+Descr
+~
+Flags 4
+Door 4 0 0 24356 0 0
+~
+~
+End
+
+#24356
+Name Atop the Tower~
+Descr
+~
+Flags 4
+Door 5 0 0 24355 0 0
+~
+~
+End
+
+#24357
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 24349 0 0
+~
+~
+Door 3 0 0 24358 0 0
+~
+~
+End
+
+#24358
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24357 0 0
+~
+~
+Door 3 0 0 24359 0 0
+~
+~
+End
+
+#24359
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. The hallway splits here, leaving exits to the
+east, north and south. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset M 24357 1 100
+Door 0 0 0 24360 0 0
+~
+~
+Door 1 0 0 24358 0 0
+~
+~
+Door 2 0 0 24363 0 0
+~
+~
+End
+
+#24360
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Door 0 0 0 24361 0 0
+~
+~
+Door 2 0 0 24359 0 0
+~
+~
+End
+
+#24361
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 0 0 0 24362 0 0
+~
+~
+Door 2 0 0 24360 0 0
+~
+~
+End
+
+#24362
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Reset O 64301 -5 100
+Door 0 0 0 24354 0 0
+~
+~
+Door 2 0 0 24361 0 0
+~
+~
+End
+
+#24363
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 24359 0 0
+~
+~
+Door 2 0 0 24364 0 0
+~
+~
+End
+
+#24364
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A faint sound of screaming echos from the east. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 24363 0 0
+~
+~
+Door 1 0 0 24371 0 0
+~
+~
+Door 2 0 0 24365 0 0
+~
+~
+End
+
+#24365
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24357 1 100
+Reset O 64301 -5 100
+Door 0 0 0 24364 0 0
+~
+~
+Door 2 0 0 24366 0 0
+~
+~
+End
+
+#24366
+Name A Turn in the Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. A faint screaming sound can be heard near here,
+but its hard to make out the direction because of the echo. This corner lets
+you go north, or east. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Door 0 0 0 24365 0 0
+~
+~
+Door 1 0 0 24367 0 0
+~
+~
+End
+
+#24367
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 1 0 0 24368 0 0
+~
+~
+Door 3 0 0 24366 0 0
+~
+~
+End
+
+#24368
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance through the halls. A cold draft blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24356 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 24369 0 0
+~
+~
+Door 3 0 0 24367 0 0
+~
+~
+End
+
+#24369
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance though the halls. A cold drafts blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Reset M 24367 1 100
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Reset O 421 -1 20
+Door 1 0 0 24370 0 0
+~
+~
+Door 3 0 0 24368 0 0
+~
+~
+End
+
+#24370
+Name A Dark Hallway~
+Descr
+This long hallway leads through the castle. An occasional torch gives off
+a dim light, causing shadows to dance though the halls. A cold drafts blows
+gently through the tunnels. 
+~
+Flags 8
+Sector 0
+Reset M 24302 1 100
+Reset O 413 -1 20
+Reset O 414 -1 20
+Reset O 410 -1 20
+Door 1 0 0 24330 0 0
+~
+~
+Door 3 0 0 24369 0 0
+~
+~
+End
+
+#24371
+Name Entrance to a Dungeon~
+Descr
+A large, broken gate lies off its hinges on the ground. The sounds of
+torture echos loudly here. There are small drops of blood stained on the
+stone floor. The hallway lies to the west, while the prison is to the east. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24372 0 0
+~
+~
+Door 3 0 0 24364 0 0
+~
+~
+End
+
+#24372
+Name In a Dungeon~
+Descr
+This large stone dungeon is home for the prisoners of Drequen. Loud
+screams echo through here, causing rats to scurry about, hiding in the
+shadows. The prisons lie to the north and south, while a looming dark
+staircase sits to the east. The hallway to your west leads out of the
+dungeon. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 24378 0 0
+~
+~
+Door 1 0 0 24376 0 0
+~
+~
+Door 2 0 0 24373 0 0
+~
+~
+Door 3 0 0 24371 0 0
+~
+~
+End
+
+#24373
+Name In A Dungeon~
+Descr
+This dark, dungeon is where the prisoners of Drequen are kelt. Most of
+them are too old to work in the mines, so they are left here to rot. A small
+gate sits to your east, keepings its prisoner inside. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 0 0 0 24372 0 0
+~
+~
+Door 1 3 0 24374 90 90
+~
+gate~
+End
+
+#24374
+Name A Prison Cell~
+Descr
+This cold cell is home for one of the prisoners of Drequen. Almost no
+light enters this cold cell. A pile of hay sits in the corner of the cell,
+used for sleeping and a small bucket for other duties. A strange stench
+makes it hard for you to breath in here. 
+~
+Flags 12
+Sector 0
+Reset M 24374 1 100
+Reset M 24374 1 100
+Reset M 24374 1 100
+Reset O 24320 -5 100
+Door 3 3 0 24373 90 90
+~
+gate~
+End
+
+#24375
+Name ~
+Descr
+~
+Door 2 0 0 24372 0 0
+~
+~
+End
+
+#24376
+Name A Staircase~
+Descr
+A large stone staircase stands before you, probably leading to the slave
+mines. Many banging sounds erupt from the staircase benath you. The prison
+lies close to your west, and the staircase leads down. 
+~
+Flags 8
+Sector 0
+Door 3 0 0 24372 0 0
+~
+~
+Door 5 0 0 24377 0 0
+~
+~
+End
+
+#24377
+Name At a Staircase~
+Descr
+A large staircase sits here leading back up to the prisons. It is alot
+warmer here than most parts of the castle. It seems to be coming from the
+west. Some screaming can be heard to the east. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24381 0 0
+~
+~
+Door 3 0 0 24384 0 0
+~
+~
+Door 4 0 0 24376 0 0
+~
+~
+End
+
+#24378
+Name In a Dungeon~
+Descr
+This dark, dungeon is where the prisoners of Drequen are kept. Most of
+them are too old to work in the mines, so they are left here to rot. Two
+gates sit in each direction, one west and one east. 
+~
+Flags 8
+Sector 0
+Reset O 64301 -5 100
+Door 1 3 0 24380 90 90
+~
+gate~
+Door 2 0 0 24372 0 0
+~
+~
+Door 3 3 0 24379 90 90
+~
+gate~
+End
+
+#24379
+Name A Prison Cell~
+Descr
+This cold cell is home for one of the prisoners of Drequen. Almost no
+light enters this cold cell. A pile of hay sits in the corner of the cell,
+used for sleeping and a small bucket for other duties. A strange stench
+makes it hard for you to breath in here. 
+~
+Flags 12
+Sector 0
+Reset M 24368 1 100
+Reset M 24368 1 100
+Reset M 24368 1 100
+Reset O 24320 -5 100
+Door 1 3 0 24378 90 90
+~
+gate~
+End
+
+#24380
+Name A Prison Cell~
+Descr
+This cold cell is home for one of the prisoners of Drequen. Almost no
+light enters this cold cell. A pile of hay sits in the corner of the cell,
+used for sleeping and a small bucket for other duties. A strange stench
+makes it hard for you to breath in here. 
+~
+Flags 12
+Sector 0
+Reset M 24380 1 100
+Reset M 24380 1 100
+Reset M 24380 1 100
+Reset O 24320 -5 100
+Door 3 3 0 24378 90 90
+~
+gate~
+End
+
+#24381
+Name A Damp Passage~
+Descr
+This long underground path is very wet. Water drops drip from the ceiling
+and colliding with the floor. Evil sounds of screaming and pain can be heard
+quite clearly from your east. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24382 0 0
+~
+~
+Door 3 0 0 24377 0 0
+~
+~
+End
+
+#24382
+Name A Damp Passage~
+Descr
+This long underground path is very wet. Water drops drip from the ceiling
+and colliding with the floor. Evil sounds of screaming and pain can be heard
+quite clearly from your east. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24383 0 0
+~
+~
+Door 3 0 0 24381 0 0
+~
+~
+End
+
+#24383
+Name A Torture Room~
+Descr
+This torture room is where the prisoners of good are kept to extract
+important information. Large stains of blood cover the floor, giving it a
+redish tint. Many different devices sit in this large room, and the stench
+here is unbearable. 
+~
+Flags 8
+Sector 0
+Reset O 24321 -5 100
+Reset O 24322 -3 100
+Reset M 24372 1 100
+Reset O 24302 -1 38
+Reset O 24304 -1 25
+Door 3 0 0 24382 0 0
+~
+~
+End
+
+#24384
+Name A Warm Passage~
+Descr
+This passage seems to be getting warmer to the west. It is fairly wet
+down here and steam rises slowly from the ground. Many loud clanking sounds
+can be heard to the west. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24377 0 0
+~
+~
+Door 3 0 0 24385 0 0
+~
+~
+End
+
+#24385
+Name A Warm Passage~
+Descr
+This passage seems to be getting warmer to the west. It is fairly wet
+down here and steam rises slowly from the ground. Many loud clanking sounds
+can be heard to the west. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24384 0 0
+~
+~
+Door 3 0 0 24386 0 0
+~
+~
+End
+
+#24386
+Name Entrance to the Mines~
+Descr
+This is the entrance to the coal mines. A large furnace sits here
+generating a vast amount of heat. The loud clanking sounds seem to be the
+noise of picks agianst the walls. The coal mine continues west, and a
+passage seems to go east. 
+~
+Flags 10
+Sector 0
+Door 1 0 0 24385 0 0
+~
+~
+Door 3 0 0 24387 0 0
+~
+~
+End
+
+#24387
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24369 1 100
+Reset O 253 -1 80
+Reset M 24371 1 100
+Reset O 24307 -1 25
+Reset O 24306 -1 35
+Reset O 24303 -1 40
+Door 0 0 0 24388 0 0
+~
+~
+Door 1 0 0 24386 0 0
+~
+~
+Door 3 0 0 24397 0 0
+~
+~
+End
+
+#24388
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24389 0 0
+~
+~
+Door 2 0 0 24387 0 0
+~
+~
+End
+
+#24389
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24369 1 100
+Reset O 253 -1 100
+Door 0 0 0 24392 0 0
+~
+~
+Door 2 0 0 24388 0 0
+~
+~
+Door 3 0 0 24390 0 0
+~
+~
+End
+
+#24390
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24370 1 100
+Reset O 253 -1 80
+Door 1 0 0 24389 0 0
+~
+~
+Door 3 0 0 24391 0 0
+~
+~
+End
+
+#24391
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24369 1 100
+Reset O 253 -1 80
+Door 1 0 0 24390 0 0
+~
+~
+End
+
+#24392
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24393 0 0
+~
+~
+Door 2 0 0 24389 0 0
+~
+~
+End
+
+#24393
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24370 1 100
+Reset O 253 -1 80
+Reset M 24371 1 100
+Reset O 24304 -1 25
+Reset O 24307 -1 25
+Reset O 24303 -1 40
+Door 0 0 0 24396 0 0
+~
+~
+Door 1 0 0 24395 0 0
+~
+~
+Door 2 0 0 24392 0 0
+~
+~
+End
+
+#24394
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24370 1 100
+Reset O 253 -1 80
+Door 3 0 0 24395 0 0
+~
+~
+End
+
+#24395
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24394 0 0
+~
+~
+Door 3 0 0 24393 0 0
+~
+~
+End
+
+#24396
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 24393 0 0
+~
+~
+End
+
+#24397
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24370 1 100
+Reset O 253 -1 75
+Reset M 24369 1 100
+Reset O 253 -1 80
+Door 1 0 0 24387 0 0
+~
+~
+Door 3 0 0 24398 0 0
+~
+~
+End
+
+#24398
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 24397 0 0
+~
+~
+Door 3 0 0 24399 0 0
+~
+~
+End
+
+#24399
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 24400 0 0
+~
+~
+Door 1 0 0 24398 0 0
+~
+~
+End
+
+#24400
+Name A Coal Mine~
+Descr
+This coal mine is home for the slaves of good. The stoney walls have been
+burtally bashed from the miners, as they search to collect chunks of coal.
+These coal passages are fairly hot, causing the working slaves to sweat more
+than usual. 
+~
+Flags 8
+Sector 0
+Reset M 24370 1 100
+Reset O 253 -1 80
+Reset M 24369 1 100
+Reset O 253 -1 80
+Reset M 24371 1 100
+Reset O 24306 -1 35
+Reset O 24307 -1 25
+Reset O 24303 -1 40
+Door 2 0 0 24399 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,1413 @@
+#AREADATA 
+Name Half-Elves~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe giggling of children can be heard in the distance.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Hawle~
+VNUMs 31000 31100
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#31000
+Name half-elf elf small~
+Short a small half-elf~
+Long 
+A small half-elf is running around the field.
+~
+Descr
+~
+AMax 5
+NHeight 60
+ActBits 2
+Money 100
+Level 100
+Sex 1
+Guard 0
+GHitR 100
+GDamR 7
+End
+
+#31001
+Name large half-elf elf~
+Short a large half-elf~
+Long 
+A larger half-elf is here keeping peace.
+~
+Descr
+~
+AMax 3
+NHeight 78
+ActBits 2
+Money 102
+Level 102
+Sex 1
+Guard 0
+GDamR 10
+End
+
+#31002
+Name orc slave~
+Short an orc slave~
+Long 
+An orc slave is here tending the fields.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 2
+Money 90
+Level 90
+Sex 1
+Guard 0
+End
+
+#31003
+Name kraenak PRAC~
+Short kraenak~
+Long 
+Kraenak, the half-elven wizard stands before you.
+~
+Descr
+~
+AMax 1
+NHeight 73
+ActBits 258
+Affect_By 128
+Money 102
+Level 102
+Sex 1
+Guard 0
+GHitR 100
+GDamR 25
+End
+
+#31004
+Name maladren~
+Short maladren~
+Long 
+Maladren, the half-elven healer stands before you.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits 2
+Affect_By 128
+Money 102
+Level 102
+Guard 0
+GDamR 25
+End
+
+#31005
+Name king half-elven elf~
+Short the half-elven king~
+Long 
+The great half-elven king is here, questioning your presence.
+~
+Descr
+~
+AMax 1
+NHeight 75
+ActBits 258
+Affect_By 128
+Money 102
+Level 102
+Sex 1
+Guard 0
+GDamR 30
+End
+
+#31006
+Name orcish prisoner~
+Short an orc prisoner~
+Long 
+An orc prisoner is chained to the wall here.
+~
+Descr
+~
+AMax 6
+NHeight 70
+ActBits 2
+Money 102
+Level 102
+Sex 1
+Guard 0
+GHitR 100
+End
+
+#31025
+Name half half-elven elf elven guard~
+Short half-elven guard~
+Long 
+A half-elven guard is faithfully guarding the clearing.
+~
+Descr
+~
+AMax 2
+NHeight 72
+ActBits -2147483646
+Affect_By 552
+Alignment 1
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+GDamR 37
+Spec spec_warrior
+End
+
+#31031
+Name armorer~
+Short a half-elven armorer~
+Long 
+A half-elven armorer is here repairing a breastplate.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 90
+Level 90
+Sex 1
+Guard 0
+Shop    0   0   0   0   0 100 100 6 5
+Shopd2 5
+Shopd3 10
+ShopCS Armory~
+End
+
+#31034
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#31099
+Name man guardian~
+Short hawle's guardian~
+Long 
+A large man is here protecting Hawle.
+~
+Descr
+~
+AMax 1
+AYeller 4
+AWillhelp 0
+NHeight 900
+ActBits -2080374776
+Affect_By 136
+Alignment -1000
+Money 109
+Level 109
+Sex 1
+MobType 0
+Guard 0
+GHitR 244
+GDamR 100
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#31000
+Name doodle cheese~
+Short [0ma [1m[33mcheese[0m doodle~
+Descr
+A small cheese doodle lies here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 8 0 0 0 2 2 0
+Weight 0
+Cost 0
+End
+
+#31001
+Name sacred spring~
+Short the sacred spring~
+Descr
+The sacred spring of the half-elves is bubbling here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10000000 10000000 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#31003
+Name superfragicali~
+Short bushes~
+Descr
+Some bushes are obstructing your view to the north.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#31034
+Name helmet~
+Short a plastic helmet~
+Descr
+A plastic helmet is here.
+[0;36m~
+Type 9
+Extra 1
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 50 50 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#31042
+Name earring intelligence~
+Short a spiked earring~
+Descr
+An intelligent looking earring is lying here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 0 0 0 0
+Weight 2
+Cost 200
+Affect 19 1 1 0 0
+Affect 18 -1 1 0 0
+End
+
+#31046
+Name king sceptre~
+Short the king's sceptre~
+Descr
+A finely-crafted sceptre is lying here, abandoned.
+[0;36m~
+Type 5
+Extra 537395201
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 8 0 0 0 4 5 0
+Weight 0
+Cost 0
+Affect 18 1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#31000
+Name A Forest Path~
+Descr
+Obviously you've ended up on a path through a thick forest. You hear birds
+chirping high up in the trees and numerous insects buzzing around your head.
+You can hear merry voices and laughing coming from ahead.
+~
+Door 0 0 0 31001 0 0
+~
+~
+End
+
+#31001
+Name A Forest Path~
+Descr
+Obviously you've ended up on a path through a thick forest. You hear birds
+chirping high up in the trees and numerous insects buzzing around your head.
+You can hear merry voices and laughing coming from ahead.
+~
+Door 2 0 0 31000 0 0
+~
+~
+Door 3 0 0 31002 0 0
+~
+~
+End
+
+#31002
+Name A Forest Path~
+Descr
+Obviously you've ended up on a path through a thick forest. You hear birds
+chirping high up in the trees and numerous insects buzzing around your head.
+You can hear merry voices and laughing coming from ahead.
+~
+Door 1 0 0 31001 0 0
+~
+~
+Door 3 0 0 31003 0 0
+~
+~
+End
+
+#31003
+Name Nearing a Large Field~
+Descr
+The forest path ends here, and you can see a large field with different figures
+moving about. You can either risk moving forward or turn back to the forest
+path and head home.
+~
+Door 0 0 0 31004 0 0
+~
+~
+Door 1 0 0 31002 0 0
+~
+~
+End
+
+#31004
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31001 3 100
+Door 0 0 0 31009 0 0
+~
+~
+Door 1 0 0 31005 0 0
+~
+~
+Door 2 0 0 31003 0 0
+~
+~
+Door 3 0 0 31011 0 0
+~
+~
+End
+
+#31005
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31008 0 0
+~
+~
+Door 1 0 0 31006 0 0
+~
+~
+Door 3 0 0 31004 0 0
+~
+~
+End
+
+#31006
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31000 5 100
+Door 0 0 0 31007 0 0
+~
+~
+Door 3 0 0 31005 0 0
+~
+~
+End
+
+#31007
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31012 0 0
+~
+~
+Door 2 0 0 31006 0 0
+~
+~
+Door 3 0 0 31008 0 0
+~
+~
+End
+
+#31008
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31013 0 0
+~
+~
+Door 1 0 0 31007 0 0
+~
+~
+Door 2 0 0 31005 0 0
+~
+~
+Door 3 0 0 31009 0 0
+~
+~
+End
+
+#31009
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31000 5 100
+Door 0 0 0 31014 0 0
+~
+~
+Door 1 0 0 31008 0 0
+~
+~
+Door 2 0 0 31004 0 0
+~
+~
+Door 3 0 0 31010 0 0
+~
+~
+End
+
+#31010
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31002 3 100
+Door 1 0 0 31009 0 0
+~
+~
+Door 2 0 0 31011 0 0
+~
+~
+End
+
+#31011
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31000 5 100
+Door 0 0 0 31010 0 0
+~
+~
+Door 1 0 0 31004 0 0
+~
+~
+End
+
+#31012
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31017 0 0
+~
+~
+Door 1 0 0 31015 0 0
+~
+~
+Door 2 0 0 31007 0 0
+~
+~
+Door 3 0 0 31013 0 0
+~
+~
+End
+
+#31013
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31018 0 0
+~
+~
+Door 1 0 0 31012 0 0
+~
+~
+Door 2 0 0 31008 0 0
+~
+~
+Door 3 0 0 31014 0 0
+~
+~
+End
+
+#31014
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31001 3 100
+Door 1 0 0 31013 0 0
+~
+~
+Door 2 0 0 31009 0 0
+~
+~
+End
+
+#31015
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31002 3 100
+Door 0 0 0 31016 0 0
+~
+~
+Door 3 0 0 31012 0 0
+~
+~
+End
+
+#31016
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Door 0 0 0 31020 0 0
+~
+~
+Door 2 0 0 31015 0 0
+~
+~
+Door 3 0 0 31017 0 0
+~
+~
+End
+
+#31017
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31001 3 100
+Door 0 0 0 31019 0 0
+~
+~
+Door 1 0 0 31016 0 0
+~
+~
+Door 2 0 0 31012 0 0
+~
+~
+Door 3 0 0 31018 0 0
+~
+~
+End
+
+#31018
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31000 5 100
+Door 1 0 0 31017 0 0
+~
+~
+Door 2 0 0 31013 0 0
+~
+~
+End
+
+#31019
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31002 3 100
+Door 0 0 0 31021 0 0
+~
+~
+Door 1 0 0 31020 0 0
+~
+~
+Door 2 0 0 31017 0 0
+~
+~
+End
+
+#31020
+Name A Large Field~
+Descr
+You are standing in a large field with many elves moving about. You also
+notice a few orcish slaves who look sad and angry. To the north you can see
+a narrow path through tall grass, while to the south you see a forest.
+~
+Reset M 31000 5 100
+Door 2 0 0 31016 0 0
+~
+~
+Door 3 0 0 31019 0 0
+~
+~
+End
+
+#31021
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 0 0 0 31022 0 0
+~
+~
+Door 2 0 0 31019 0 0
+~
+~
+End
+
+#31022
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 2 0 0 31021 0 0
+~
+~
+Door 3 0 0 31023 0 0
+~
+~
+End
+
+#31023
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 1 0 0 31022 0 0
+~
+~
+Door 3 0 0 31024 0 0
+~
+~
+End
+
+#31024
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 1 0 0 31023 0 0
+~
+~
+Door 2 0 0 31025 0 0
+~
+~
+Door 3 0 0 31062 0 0
+~
+~
+End
+
+#31025
+Name Before a Clearing~
+Descr
+You have found your way through the grass, and seem to have stumbled upon
+some sort of holy clearing. Two guards tip their hats gallantly at you and
+continue their work.
+~
+Flags 16384
+Reset M 31025 3 100
+Reset M 31025 3 100
+Door 0 0 0 31024 0 0
+~
+~
+Door 2 0 0 31026 30 30
+~
+gate~
+End
+
+#31026
+Name A Small Clearing~
+Descr
+You are inside some sort of holy clearing. To your southwest, you notice a
+small spring bubbling clear water from an unknown source. Further west, you
+notice a large tower stretching above the trees.
+~
+Door 0 0 0 31025 30 30
+~
+gate~
+Door 2 0 0 31027 0 0
+~
+~
+Door 3 0 0 31033 0 0
+~
+~
+End
+
+#31027
+Name A Small Clearing~
+Descr
+You are inside some sort of holy clearing. To your west, you notice a
+small spring bubbling clear water from an unknown source. Further west, you
+notice a large tower stretching above the trees.
+~
+Door 0 0 0 31026 0 0
+~
+~
+Door 2 0 0 31035 0 0
+~
+~
+Door 3 0 0 31031 0 0
+~
+~
+End
+
+#31028
+Name A Dirt Path~
+Descr
+~
+End
+
+#31029
+Name A Dirt Path~
+Descr
+~
+Door 0 0 0 31028 0 0
+~
+~
+End
+
+#31030
+Name A Dirt Path~
+Descr
+~
+Door 0 0 0 31029 0 0
+~
+~
+End
+
+#31031
+Name The Sacred Spring~
+Descr
+You've stumbled upon a small spring with an unreadable inscription written
+on it. The water looks clean and safe to drink from. A strange force beckons
+you to take a seat and rest for a while. You also notice that one of the
+stone surrounding the spring is loose.
+~
+Flags 2113536
+Reset O 31001 -5 100
+Door 0 0 0 31033 0 0
+~
+~
+Door 1 0 0 31027 0 0
+~
+~
+Door 5 259 0 31047 30 30
+~
+stone~
+End
+
+#31032
+Name The Weaponsmith~
+Descr
+~
+Flags 16388
+Door 3 0 0 31026 0 0
+~
+~
+End
+
+#31033
+Name A Small Clearing~
+Descr
+You are inside some sort of holy clearing. To your south, you notice a
+small spring bubbling clear water from an unknown source. Further west, you
+notice a large tower stretching above the trees.
+~
+Door 1 0 0 31026 0 0
+~
+~
+Door 2 0 0 31031 0 0
+~
+~
+End
+
+#31034
+Name The Bank~
+Descr
+~
+Flags 16388
+Door 3 0 0 31027 0 0
+~
+~
+End
+
+#31035
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the clearing onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Flags 1
+Door 0 0 0 31027 0 0
+~
+~
+Door 2 0 0 31036 0 0
+~
+~
+End
+
+#31036
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the clearing onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Flags 1
+Door 0 0 0 31035 0 0
+~
+~
+Door 3 0 0 31037 0 0
+~
+~
+End
+
+#31037
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the clearing onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Flags 1
+Door 0 0 0 31039 0 0
+~
+~
+Door 1 0 0 31036 0 0
+~
+~
+End
+
+#31038
+Name Behind the Outpost~
+Descr
+~
+Door 0 0 0 31039 0 0
+~
+~
+Door 5 0 0 31037 0 0
+~
+~
+End
+
+#31039
+Name Before a Large Tower~
+Descr
+Once again you've found your way through the tall grass, right up to a large
+tower. It is white in color and looks very well constructed. A white hue
+radiates and seems to beckon you forth.
+~
+Door 0 3 0 31040 16 16
+~
+gate~
+Door 2 0 0 31037 0 0
+~
+~
+End
+
+#31040
+Name Inside the Half-Elven Tower~
+Descr
+You're inside the tower, climbing a stairway of crystal. You notice once
+again that this tower is very well constructed. You hear voices coming from
+above. Your two choices are to venture forth or find your way through the
+grasses again.
+~
+Flags 4
+Door 2 3 0 31039 30 30
+~
+gate~
+Door 4 0 0 31041 0 0
+~
+~
+End
+
+#31041
+Name Inside the Half-Elven Tower~
+Descr
+You're inside the tower, climbing a stairway of crystal. You notice once
+again that this tower is very well constructed. The voices you heard earlier
+are getting louder as you climb further. A small chamber is to your west.
+~
+Flags 4
+Door 3 0 0 31042 0 0
+~
+~
+Door 4 0 0 31043 0 0
+~
+~
+Door 5 0 0 31040 0 0
+~
+~
+End
+
+#31042
+Name A Small Chamber~
+Descr
+You've entered the chamber of the half-elven wizard, Kraenak. He looks
+very smart, although he could possibly teach you something. This chamber
+is rather small, and cannot fit many people.
+~
+Flags 4
+Reset M 31003 1 100
+Door 1 0 0 31041 0 0
+~
+~
+End
+
+#31043
+Name Inside the Half-Elven Tower~
+Descr
+You're inside the tower, climbing a stairway of crystal. You notice once
+again that this tower is very well constructed. The voices you heard earlier
+are getting louder as you climb further. A small chamber is to your east.
+~
+Flags 4
+Door 1 0 0 31044 0 0
+~
+~
+Door 4 0 0 31045 0 0
+~
+~
+Door 5 0 0 31041 0 0
+~
+~
+End
+
+#31044
+Name A Small Chamber~
+Descr
+You've entered the chamber of the half-elven healer, Maladren. He looks
+very wise, although he could possibly teach you something. This chamber
+is rather small, and cannot fit many people.
+~
+Flags 4
+Reset M 31004 1 100
+Door 3 0 0 31043 0 0
+~
+~
+End
+
+#31045
+Name Inside the Half-Elven Tower~
+Descr
+You're inside the tower, climbing a stairway of crystal. You notice once
+again that this tower is very well constructed. The voices you heard earlier
+are coming from your north. A large throne room is to the north.
+~
+Flags 4
+Door 0 0 0 31046 0 0
+~
+~
+Door 5 0 0 31043 0 0
+~
+~
+End
+
+#31046
+Name The Throne Room~
+Descr
+You have entered the room of the famous half-elven king. He is wondering
+why you're here, but is not set to attack. You see a friendly glint in his
+eye and you realize he would be a better friend than enemy.
+~
+Flags 4
+Reset M 31005 1 100
+Reset O 31046 21 1
+Reset O 31042 7 1
+Door 2 0 0 31045 0 0
+~
+~
+End
+
+#31047
+Name An Earthen Tunnel~
+Descr
+You've gone under the loose stone and found yourself inside a tunnel
+with walls made of packed dirt. The walls look very fragile and look as if
+they are going to cave in any moment. Better move fast.
+~
+Flags 5
+Door 4 259 0 31031 30 30
+~
+stone~
+Door 5 0 0 31048 0 0
+~
+~
+End
+
+#31048
+Name An Earthen Tunnel~
+Descr
+You're walking through a wide tunnel with walls made of packed dirt. The
+walls look very fragile and look as if they are going to cave in at any
+moment. Better move fast.
+~
+Flags 5
+Door 4 0 0 31047 0 0
+~
+~
+Door 5 0 0 31049 0 0
+~
+~
+End
+
+#31049
+Name A Turn in the Tunnel~
+Descr
+You're walking through a wide tunnel with walls made of packed dirt. The
+walls look very fragile and look as if they are going to cave in at any
+moment. Better move fast.
+~
+Flags 5
+Door 2 0 0 31050 0 0
+~
+~
+Door 4 0 0 31048 0 0
+~
+~
+End
+
+#31050
+Name An Earthen Tunnel~
+Descr
+You're walking through a wide tunnel with walls made of packed dirt. The
+walls look very fragile and look as if they are going to cave in at any
+moment. Better move fast.
+~
+Flags 5
+Door 0 0 0 31049 0 0
+~
+~
+Door 3 0 0 31051 0 0
+~
+~
+End
+
+#31051
+Name An Earthen Tunnel~
+Descr
+You're walking through a wide tunnel with walls made of packed dirt. The
+walls look very fragile and look as if they are going to cave in at any
+moment. Better move fast.
+~
+Flags 5
+Door 1 0 0 31050 0 0
+~
+~
+Door 2 0 0 31052 0 0
+~
+~
+End
+
+#31052
+Name Before the Dungeons~
+Descr
+You've found your way out of that scary earthen tunnel, and you can see
+a large, dirty dungeon in the distance. You hear orcs moaning from their
+small cells. You feel like this is a place you'd rather not be right now.
+~
+Flags 5
+Door 0 0 0 31051 0 0
+~
+~
+Door 2 0 0 31053 0 0
+~
+~
+End
+
+#31053
+Name A Hallway Inside the Dungeon~
+Descr
+You are now inside one of the dirty hallways of the dungeon. There are
+cells with moaning orcs inside them, chained to the walls to your east and
+west. The scent of this dungeon makes your stomach turn.
+~
+Flags 4
+Door 0 0 0 31052 0 0
+~
+~
+Door 1 3 0 31055 30 30
+~
+bars~
+Door 2 0 0 31056 0 0
+~
+~
+Door 3 3 0 31054 30 30
+~
+bars~
+End
+
+#31054
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 1 3 0 31053 30 30
+~
+bars~
+End
+
+#31055
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 3 3 0 31053 30 30
+~
+bars~
+End
+
+#31056
+Name A Hallway Inside the Dungeon~
+Descr
+You are now inside one of the dirty hallways of the dungeon. There are
+cells with moaning orcs inside them, chained to the walls to your east and
+west. The scent of this dungeon makes your stomach turn.
+~
+Flags 4
+Door 0 0 0 31053 0 0
+~
+~
+Door 1 3 0 31058 30 30
+~
+bars~
+Door 2 0 0 31059 0 0
+~
+~
+Door 3 3 0 31057 30 30
+~
+bars~
+End
+
+#31057
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 1 3 0 31056 30 30
+~
+bars~
+End
+
+#31058
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 3 3 0 31056 30 30
+~
+bars~
+End
+
+#31059
+Name A Hallway Inside the Dungeon~
+Descr
+You are now inside one of the dirty hallways of the dungeon. There are
+cells with moaning orcs inside them, chained to the walls to your east and
+west. The scent of this dungeon makes your stomach turn.
+~
+Flags 4
+Door 0 0 0 31056 0 0
+~
+~
+Door 1 3 0 31061 30 30
+~
+bars~
+Door 3 3 0 31060 30 30
+~
+bars~
+End
+
+#31060
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 1 3 0 31059 30 30
+~
+bars~
+End
+
+#31061
+Name A Cell~
+Descr
+You're inside one of the cramped cells of the dungeon. There is a sad
+orc chained to the wall here, and he begs you to set him free.
+~
+Flags 4
+Reset M 31006 6 100
+Door 3 3 0 31059 30 30
+~
+bars~
+End
+
+#31062
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 1 0 0 31024 0 0
+~
+~
+Door 3 0 0 31063 0 0
+~
+~
+End
+
+#31063
+Name A Path Through Tall Grass~
+Descr
+You find that you have wandered away from the field onto a path through
+tall grasses. You have trouble seeing ahead of you since the grasses tower
+well over your head. The path is also faint and gets harder to follow
+with every step you take.
+~
+Door 1 0 0 31062 0 0
+~
+~
+Door 3 0 0 31064 0 0
+~
+~
+End
+
+#31064
+Name Passage Out~
+Descr
+Well, you've came upon a dead end in the path. A line of trees blocks your
+way all around you except for east. Your only option is to go back east to
+the path.
+~
+Door 0 259 0 31065 30 30
+~
+bushes~
+Door 1 0 0 31063 0 0
+~
+~
+End
+
+#31065
+Name A Hidden Area Past the Bushes~
+Descr
+You've seem to have discovered a hidden area inside a bush. You have no
+idea what this is or why its here. I guess you can just go back out to
+the path where you came from.
+~
+Flags 3145728
+Door 0 259 0 11795 30 30
+~
+mine~
+Door 2 259 0 31064 30 30
+~
+bushes~
+End
+
+#31066
+Name ~
+Descr
+~
+End
+
+#31099
+Name Hawle's Chamber~
+Descr
+~
+Flags 3145732
+Reset M 31099 1 100
+Reset O 31000 21 100
+End
+
+#0
+
+
+
+#$

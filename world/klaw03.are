@@ -1,0 +1,3939 @@
+#AREADATA 
+Name Castle Alteric~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe castle thrives with activity as a new day begins.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Klaw~
+VNUMs 29700 29899
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#29732
+Name elite guard~
+Short an elite guard~
+Long 
+An elite guard is here guarding the prison.
+~
+Descr
+This elite guard is here to protect the innocent and guard the area.
+~
+AMax 4
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 680
+Money 145
+Level 145
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#29741
+Name elite guard~
+Short an elite guard~
+Long 
+An elite guard of Alteric is here.
+~
+Descr
+This guard protects Alteric.
+~
+AMax 11
+NHeight 0
+ActBits 2
+Affect_By 520
+Money 115
+Level 115
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#29742
+Name hazard~
+Short hazard~
+Long 
+Hazard, the head elite guard is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Money 190
+Level 190
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#29745
+Name prisoner~
+Short alteric prisoner~
+Long 
+A prisoner of Alteric is here.
+~
+Descr
+~
+AMax 19
+NHeight 0
+ActBits 2
+Affect_By 552
+Money 101
+Level 100
+MobType 12
+Hp 15010
+Guard 0
+Spec spec_warrior
+End
+
+#29784
+Name male citizen alteric~
+Short a male citizen~
+Long 
+A male citizen of Alteric is here.
+~
+Descr
+~
+AMax 15
+AYeller 1
+AWillhelp 0
+NHeight 0
+Alignment 1000
+Money 30
+Level 71
+Sex 1
+MobType 0
+Hp 15010
+Guard 0
+End
+
+#29785
+Name female citizen alteric~
+Short a female citizen~
+Long 
+A female citizen of Alteric is here.
+~
+Descr
+~
+AMax 15
+AYeller 1
+AWillhelp 0
+NHeight 0
+Alignment 1000
+Money 25
+Level 71
+Sex 2
+MobType 0
+Hp 15010
+Guard 0
+End
+
+#29853
+Name rathell skaven prince~
+Short rathell~
+Long 
+Rathell, the skaven prince is here thinking of ways to storm the castle.
+~
+Descr
+This skaven prince has made a pact with Olg to invade Alteric soon. He
+has been down here for years planning on how to take it over, the only thing
+keeping him from doing it is the lack of manpower, but lately he has hired
+some ogres, orcs, and Georg the great minotaur to keep Alteric's defenses
+busy so some day he can invade. 
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 2
+ActBits4 8192
+Affect_By 680
+Alignment -1000
+Money 275
+Level 475
+MobType 18
+Guard 0
+Spec spec_warrior
+BCasts earthquake~
+BCast_P 20
+End
+
+#29854
+Name skaven warrior~
+Short a skaven warrior~
+Long 
+A skaven warrior is here protecting his master.
+~
+Descr
+This skaven knows nothing but to protect his master, Rathell with his life. 
+~
+AMax 3
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits4 4096
+Affect_By 648
+Alignment -1000
+Money 101
+Level 101
+MobType 18
+Guard 0
+Spec spec_warrior
+End
+
+#29705
+Name snake~
+Short a snake~
+Long 
+A Snake slithering his way by is here.
+~
+Descr
+This small snake attacks everything it can see.
+~
+AMax 3
+NHeight 2
+ActBits 16
+Money 75
+Level 75
+MobType 18
+Guard 0
+RaceHate 201326592
+End
+
+#0
+
+
+
+#OBJDATA
+#29741
+Name sapphire earring AC HP~
+Short a [1m[34msa[0m[34mpphi[1mre[0m earring~
+Descr
+A sapphire earring is here.
+[0;36m~
+Type 9
+Extra 2
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 8024
+Affect 17 -2 1 0 0
+Affect 13 20 1 0 0
+End
+
+#29742
+Name key~
+Short a Bronze Key~
+Descr
+An old plain bronze key is here.
+[0;36m~
+Type 18
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#29839
+Name hidden crack~
+Short a hidden crack~
+Descr
+A hidden crack is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 29840 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#29840
+Name hidden crack~
+Short a hidden crack~
+Descr
+A hidden crack is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 29839 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#29853
+Name scepter power unholy rathell APB2~
+Short [0m[31mRa[1m[30mthel[0m[31ml[0m'[31ms[0m [1m[30mSc[0m[31mept[1m[30mer[0m of [31mUn[1m[30mho[0m[31mly[0m [1m[30mP[0m[31mowe[1m[30mr[0m~
+Descr
+A scepter of enourmous power is here.
+[0;36m~
+Type 5
+Extra 537395200
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 8 0 0 0 3 8 0
+Weight 12
+Cost 51623
+Affect 19 2 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#29716
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29717 0 0
+~
+~
+Door 2 0 0 29715 0 0
+~
+~
+End
+
+#29717
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29718 0 0
+~
+~
+Door 2 0 0 29716 0 0
+~
+~
+End
+
+#29718
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29719 0 0
+~
+~
+Door 2 0 0 29717 0 0
+~
+~
+End
+
+#29719
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29720 0 0
+~
+~
+Door 2 0 0 29718 0 0
+~
+~
+End
+
+#29720
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29721 0 0
+~
+~
+Door 2 0 0 29719 0 0
+~
+~
+End
+
+#29721
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29722 0 0
+~
+~
+Door 2 0 0 29720 0 0
+~
+~
+End
+
+#29722
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29723 0 0
+~
+~
+Door 2 0 0 29721 0 0
+~
+~
+End
+
+#29723
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29724 0 0
+~
+~
+Door 2 0 0 29722 0 0
+~
+~
+Door 3 259 0 29722 30 30
+~
+sewer~
+End
+
+#29724
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29725 0 0
+~
+~
+Door 2 0 0 29723 0 0
+~
+~
+End
+
+#29725
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29726 0 0
+~
+~
+Door 2 0 0 29724 0 0
+~
+~
+End
+
+#29726
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29734 0 0
+~
+~
+Door 2 0 0 29725 0 0
+~
+~
+End
+
+#29727
+Name Hallway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 259 0 8041 30 30
+~
+Dungeondoor~
+Door 3 0 0 29728 0 0
+~
+~
+End
+
+#29728
+Name Hallway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29727 0 0
+~
+~
+Door 2 0 0 29729 0 0
+~
+~
+End
+
+#29729
+Name Hallway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29728 0 0
+~
+~
+Door 2 259 0 29739 30 30
+~
+Sewerdoor~
+Door 5 0 0 29730 0 0
+~
+~
+End
+
+#29730
+Name Stairway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29729 0 0
+~
+~
+Door 5 0 0 29731 0 0
+~
+~
+End
+
+#29731
+Name Stairway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29730 0 0
+~
+~
+Door 5 0 0 29732 0 0
+~
+~
+End
+
+#29732
+Name Stairway to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 29732 1 100
+Reset M 29732 1 100
+Reset M 29732 1 100
+Reset M 29732 1 100
+Door 0 0 0 29733 0 0
+~
+~
+Door 4 0 0 29731 0 0
+~
+~
+End
+
+#29733
+Name Entrance to Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29740 0 0
+~
+~
+Door 2 0 0 29732 0 0
+~
+~
+End
+
+#29734
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29735 0 0
+~
+~
+Door 3 0 0 29726 0 0
+~
+~
+End
+
+#29735
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 1 0 0 29736 0 0
+~
+~
+Door 3 0 0 29734 0 0
+~
+~
+End
+
+#29736
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29737 0 0
+~
+~
+Door 3 0 0 29735 0 0
+~
+~
+End
+
+#29737
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29738 0 0
+~
+~
+Door 3 0 0 29736 0 0
+~
+~
+End
+
+#29738
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29739 0 0
+~
+~
+Door 3 0 0 29737 0 0
+~
+~
+End
+
+#29739
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 6
+Sector 0
+Door 0 259 0 29729 30 30
+~
+Sewerdoor~
+Door 2 0 0 29738 0 0
+~
+~
+End
+
+#29740
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29743 0 0
+~
+~
+Door 1 0 0 29742 0 0
+~
+~
+Door 2 0 0 29733 0 0
+~
+~
+Door 3 0 0 29741 0 0
+~
+~
+End
+
+#29741
+Name Dungeon Elite Guard Headquarters~
+Descr
+Here is where the offduty guards live. They are always on guard though,
+because if some of the prisoners ever escape, Alteric will be is great
+trouble. These guards learned all of their skills in the Warrior
+Headquarters, and are very powerful. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Reset O 29741 1 1
+Reset M 29741 1 100
+Reset O 29741 1 1
+Reset M 29741 1 100
+Reset O 29741 1 1
+Door 1 0 0 29740 0 0
+~
+~
+End
+
+#29742
+Name Hazard's Office~
+Descr
+This plain and dull room is the head Elite Guard's office. 
+~
+Flags 4
+Sector 0
+Reset M 29742 1 100
+Reset O 29741 1 1
+Reset O 29741 1 1
+Door 3 0 0 29740 0 0
+~
+~
+End
+
+#29743
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29744 0 0
+~
+~
+Door 2 0 0 29740 0 0
+~
+~
+End
+
+#29744
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29747 0 0
+~
+~
+Door 1 3 0 29746 30 30
+~
+Celldoor~
+Door 2 0 0 29743 0 0
+~
+~
+Door 3 3 0 29745 30 30
+~
+Celldoor~
+End
+
+#29745
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 1 3 0 29744 30 30
+~
+Celldoor~
+End
+
+#29746
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 3 3 0 29744 30 30
+~
+Celldoor~
+End
+
+#29747
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29748 0 0
+~
+~
+Door 2 0 0 29744 0 0
+~
+~
+End
+
+#29748
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Door 0 0 0 29767 0 0
+~
+~
+Door 1 0 0 29757 0 0
+~
+~
+Door 2 0 0 29747 0 0
+~
+~
+Door 3 0 0 29749 0 0
+~
+~
+Door 5 3 29742 29776 30 30
+~
+Deepdungeondoor~
+End
+
+#29749
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29748 0 0
+~
+~
+Door 3 0 0 29750 0 0
+~
+~
+End
+
+#29750
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Door 0 3 0 29752 30 30
+~
+Celldoor~
+Door 1 0 0 29749 0 0
+~
+~
+Door 2 3 0 29751 30 30
+~
+Celldoor~
+Door 3 0 0 29753 0 0
+~
+~
+End
+
+#29751
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 0 3 0 29750 30 30
+~
+Celldoor~
+End
+
+#29752
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 2 3 0 29750 30 30
+~
+Celldoor~
+End
+
+#29753
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29750 0 0
+~
+~
+Door 3 0 0 29754 0 0
+~
+~
+End
+
+#29754
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 3 0 29756 30 30
+~
+Celldoor~
+Door 1 0 0 29753 0 0
+~
+~
+Door 2 3 0 29755 30 30
+~
+Celldoor~
+Door 3 0 0 29766 0 0
+~
+~
+End
+
+#29755
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 0 3 0 29754 30 30
+~
+Celldoor~
+End
+
+#29756
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 2 3 0 29754 30 30
+~
+Celldoor~
+End
+
+#29757
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29758 0 0
+~
+~
+Door 3 0 0 29748 0 0
+~
+~
+End
+
+#29758
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Door 0 3 0 29760 30 30
+~
+Celldoor~
+Door 1 0 0 29761 0 0
+~
+~
+Door 2 3 0 29759 30 30
+~
+Celldoor~
+Door 3 0 0 29757 0 0
+~
+~
+End
+
+#29759
+Name A Prison Cell~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 0 3 0 29758 30 30
+~
+Celldoor~
+End
+
+#29760
+Name A Prison Cell~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 2 3 0 29758 30 30
+~
+Celldoor~
+End
+
+#29761
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29762 0 0
+~
+~
+Door 3 0 0 29758 0 0
+~
+~
+End
+
+#29762
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 3 0 29763 30 30
+~
+Celldoor~
+Door 1 0 0 29765 0 0
+~
+~
+Door 2 3 0 29764 30 30
+~
+Celldoor~
+Door 3 0 0 29761 0 0
+~
+~
+End
+
+#29763
+Name A Prison Cell~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 2 3 0 29762 30 30
+~
+Celldoor~
+End
+
+#29764
+Name A Prison Cell~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 0 3 0 29762 30 30
+~
+Celldoor~
+End
+
+#29765
+Name Elite Guard Station~
+Descr
+Stationed right near the prison cells is the Elite guard station. Here
+some of the guards watch over while others walk around. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Reset O 29741 1 1
+Door 3 0 0 29762 0 0
+~
+~
+End
+
+#29766
+Name Elite Guard Station~
+Descr
+Stationed right near the prison cells is the Elite guard station. Here
+some of the guards watch over while others walk around. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Reset O 29741 1 1
+Door 1 0 0 29754 0 0
+~
+~
+End
+
+#29767
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29768 0 0
+~
+~
+Door 2 0 0 29748 0 0
+~
+~
+End
+
+#29768
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Door 0 0 0 29771 0 0
+~
+~
+Door 1 3 0 29770 30 30
+~
+Celldoor~
+Door 2 0 0 29767 0 0
+~
+~
+Door 3 3 0 29769 30 30
+~
+Celldoor~
+End
+
+#29769
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 1 3 0 29768 30 30
+~
+Celldoor~
+End
+
+#29770
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 3 3 0 29768 30 30
+~
+Celldoor~
+End
+
+#29771
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29772 0 0
+~
+~
+Door 2 0 0 29768 0 0
+~
+~
+End
+
+#29772
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29775 0 0
+~
+~
+Door 1 3 0 29774 30 30
+~
+Celldoor~
+Door 2 0 0 29771 0 0
+~
+~
+Door 3 3 0 29773 30 30
+~
+Celldoor~
+End
+
+#29773
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 1 3 0 29772 30 30
+~
+Celldoor~
+End
+
+#29774
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 3 3 0 29772 30 30
+~
+Celldoor~
+End
+
+#29775
+Name Elite Guard Station~
+Descr
+Stationed right near the prison cells is the Elite guard station. Here
+some of the guards watch over while others walk around. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Reset O 29741 1 1
+Door 2 0 0 29772 0 0
+~
+~
+End
+
+#29776
+Name Stairway to the Basement~
+Descr
+Stationed right near the prison cells is the Elite guard station. Here
+some of the guards watch over while others walk around. 
+~
+Flags 4
+Sector 0
+Reset M 29741 1 100
+Reset O 29741 1 1
+Door 4 3 29742 29748 30 30
+~
+Deepdungeondoor~
+Door 5 0 0 29777 0 0
+~
+~
+End
+
+#29777
+Name Alteric's Dungeon~
+Descr
+Alteric's Dungeon contains everything from minor criminals to mass
+murderers. Alteric's Elite Guard keep these prisoners in their prison cell,
+if they were to get out, all hell would break loose in Castle Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29780 0 0
+~
+~
+Door 1 0 0 29781 0 0
+~
+~
+Door 2 0 0 29778 0 0
+~
+~
+Door 3 0 0 29779 0 0
+~
+~
+Door 4 0 0 29776 0 0
+~
+~
+Door 5 0 0 29782 0 0
+~
+~
+End
+
+#29778
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 0 0 0 29777 0 0
+~
+~
+End
+
+#29779
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 1 0 0 29777 0 0
+~
+~
+End
+
+#29780
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 2 0 0 29777 0 0
+~
+~
+End
+
+#29781
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 3 0 0 29777 0 0
+~
+~
+End
+
+#29782
+Name A Prison Cell~
+Descr
+This small and cramped prison cell is one to one of Alteric's criminals.
+Whether he committed a minor crime or a very severe, the prisoner will spend
+the rest of his short life here. 
+~
+Flags 4
+Sector 0
+Reset M 29745 1 100
+Door 4 0 0 29777 0 0
+~
+~
+End
+
+#29783
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 2 3 0 7996 30 30
+~
+door~
+End
+
+#29784
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 7999 30 30
+~
+door~
+End
+
+#29785
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 8001 30 30
+~
+door~
+End
+
+#29786
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 3 3 0 8028 30 30
+~
+door~
+End
+
+#29787
+Name Entrance to Alteric's Sewers~
+Descr
+Although you thought the place to the east was Alteric's main sewer, now
+you see that perhaps further to the west is the real sewer and the hidden
+passageway is a place used to hide or escape in case the castle is attacked
+by invading forces. These sewers smell extremely bad and have a steady flow
+of sewage. 
+~
+Flags 4
+Sector 0
+Door 1 259 0 29708 30 30
+~
+trap~
+Door 3 0 0 29788 0 0
+~
+~
+End
+
+#29788
+Name Entrance to Alteric's Sewers~
+Descr
+Although you thought the place to the east was Alteric's main sewer, now
+you see that perhaps further to the west is the real sewer and the hidden
+passageway is a place used to hide or escape in case the castle is attacked
+by invading forces. These sewers smell extremely bad and have a steady flow
+of sewage. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29787 0 0
+~
+~
+Door 3 0 0 29789 0 0
+~
+~
+End
+
+#29789
+Name Entrance to Alteric's Sewers~
+Descr
+Although you thought the place to the east was Alteric's main sewer, now
+you see that perhaps further to the west is the real sewer and the hidden
+passageway is a place used to hide or escape in case the castle is attacked
+by invading forces. These sewers smell extremely bad and have a steady flow
+of sewage. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29788 0 0
+~
+~
+Door 3 0 0 29790 0 0
+~
+~
+End
+
+#29790
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29791 0 0
+~
+~
+Door 1 0 0 29789 0 0
+~
+~
+End
+
+#29791
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29792 0 0
+~
+~
+Door 2 0 0 29790 0 0
+~
+~
+End
+
+#29792
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29793 0 0
+~
+~
+Door 2 0 0 29791 0 0
+~
+~
+End
+
+#29793
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29794 0 0
+~
+~
+Door 2 0 0 29792 0 0
+~
+~
+End
+
+#29794
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29795 0 0
+~
+~
+Door 2 0 0 29793 0 0
+~
+~
+End
+
+#29795
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29794 0 0
+~
+~
+Door 3 0 0 29796 0 0
+~
+~
+End
+
+#29796
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... The sewer turns north here although you can go down into the lower
+sewers. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29798 0 0
+~
+~
+Door 1 0 0 29795 0 0
+~
+~
+Door 5 0 0 29797 0 0
+~
+~
+End
+
+#29797
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 3 0 0 29812 0 0
+~
+~
+Door 4 0 0 29796 0 0
+~
+~
+End
+
+#29798
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29799 0 0
+~
+~
+Door 2 0 0 29796 0 0
+~
+~
+End
+
+#29799
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29800 0 0
+~
+~
+Door 2 0 0 29798 0 0
+~
+~
+End
+
+#29800
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29801 0 0
+~
+~
+Door 2 0 0 29799 0 0
+~
+~
+End
+
+#29801
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29802 0 0
+~
+~
+Door 2 0 0 29800 0 0
+~
+~
+End
+
+#29802
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29803 0 0
+~
+~
+Door 1 0 0 29804 0 0
+~
+~
+Door 2 0 0 29801 0 0
+~
+~
+End
+
+#29803
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29860 0 0
+~
+~
+Door 2 0 0 29802 0 0
+~
+~
+End
+
+#29804
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... This branches off from the main sewer. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 29802 0 0
+~
+~
+Door 5 0 0 29805 0 0
+~
+~
+End
+
+#29805
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29806 0 0
+~
+~
+Door 4 0 0 29804 0 0
+~
+~
+End
+
+#29806
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29805 0 0
+~
+~
+Door 2 0 0 29807 0 0
+~
+~
+End
+
+#29807
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29806 0 0
+~
+~
+Door 1 0 0 29808 0 0
+~
+~
+End
+
+#29808
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 3 0 0 29807 0 0
+~
+~
+Door 5 0 0 29809 0 0
+~
+~
+End
+
+#29809
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29810 0 0
+~
+~
+Door 4 0 0 29808 0 0
+~
+~
+End
+
+#29810
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29809 0 0
+~
+~
+Door 2 0 0 29811 0 0
+~
+~
+End
+
+#29811
+Name A Dead-end~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... This dead end seems quite strange. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29810 0 0
+~
+~
+End
+
+#29812
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29813 0 0
+~
+~
+Door 1 0 0 29797 0 0
+~
+~
+End
+
+#29813
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29814 0 0
+~
+~
+Door 2 0 0 29812 0 0
+~
+~
+End
+
+#29814
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29815 0 0
+~
+~
+Door 2 0 0 29813 0 0
+~
+~
+End
+
+#29815
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29817 0 0
+~
+~
+Door 2 0 0 29814 0 0
+~
+~
+Door 5 0 0 29816 0 0
+~
+~
+End
+
+#29816
+Name Deeper Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29815 0 0
+~
+~
+Door 5 0 0 29828 0 0
+~
+~
+End
+
+#29817
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29818 0 0
+~
+~
+Door 2 0 0 29815 0 0
+~
+~
+End
+
+#29818
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29819 0 0
+~
+~
+Door 2 0 0 29817 0 0
+~
+~
+End
+
+#29819
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29820 0 0
+~
+~
+Door 2 0 0 29818 0 0
+~
+~
+End
+
+#29820
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29821 0 0
+~
+~
+Door 2 0 0 29819 0 0
+~
+~
+End
+
+#29821
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29820 0 0
+~
+~
+Door 3 0 0 29822 0 0
+~
+~
+End
+
+#29822
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29823 0 0
+~
+~
+Door 1 0 0 29821 0 0
+~
+~
+End
+
+#29823
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29824 0 0
+~
+~
+Door 2 0 0 29822 0 0
+~
+~
+End
+
+#29824
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29825 0 0
+~
+~
+Door 2 0 0 29823 0 0
+~
+~
+End
+
+#29825
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29826 0 0
+~
+~
+Door 2 0 0 29824 0 0
+~
+~
+End
+
+#29826
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29827 0 0
+~
+~
+Door 2 0 0 29825 0 0
+~
+~
+End
+
+#29827
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 93950 0 0
+~
+~
+Door 2 0 0 29826 0 0
+~
+~
+End
+
+#29828
+Name Deeper Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29816 0 0
+~
+~
+Door 5 0 0 29829 0 0
+~
+~
+End
+
+#29829
+Name Deeper Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29828 0 0
+~
+~
+Door 5 0 0 29830 0 0
+~
+~
+End
+
+#29830
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29831 0 0
+~
+~
+Door 4 0 0 29829 0 0
+~
+~
+End
+
+#29831
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29830 0 0
+~
+~
+Door 2 0 0 29832 0 0
+~
+~
+End
+
+#29832
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29831 0 0
+~
+~
+Door 3 0 0 29833 0 0
+~
+~
+End
+
+#29833
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29832 0 0
+~
+~
+Door 3 0 0 29834 0 0
+~
+~
+End
+
+#29834
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29833 0 0
+~
+~
+Door 2 0 0 29835 0 0
+~
+~
+End
+
+#29835
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29834 0 0
+~
+~
+Door 2 0 0 29836 0 0
+~
+~
+End
+
+#29836
+Name Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29835 0 0
+~
+~
+Door 5 0 0 29837 0 0
+~
+~
+End
+
+#29837
+Name Deeper Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29836 0 0
+~
+~
+Door 5 0 0 29838 0 0
+~
+~
+End
+
+#29838
+Name Deeper Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29837 0 0
+~
+~
+Door 5 0 0 29839 0 0
+~
+~
+End
+
+#29839
+Name Extremely Deep Into the Sewers of Alteric~
+Descr
+This passage goes deeper into the sewers. The temperature is slowly
+declining as you descend into the lower sewers. It appears no one has ever
+adventured down here in a long time. Every once in awhile you see skeletons
+and you wonder if this wasn't such a good idea. The sewers abruptly end
+here. You can almost see a rather small crack starting at the top of the
+wall. 
+~
+Flags 4
+Sector 0
+Reset O 29839 -5 75
+Door 4 0 0 29838 0 0
+~
+~
+End
+
+#29840
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. You notice a rather large crack in
+the wall, which is most likely how you got in here. 
+~
+Flags 4
+Sector 0
+Reset O 29840 -5 100
+Door 3 0 0 29841 0 0
+~
+~
+End
+
+#29841
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29840 0 0
+~
+~
+Door 3 0 0 29842 0 0
+~
+~
+End
+
+#29842
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29841 0 0
+~
+~
+Door 2 0 0 29843 0 0
+~
+~
+End
+
+#29843
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29842 0 0
+~
+~
+Door 5 0 0 29844 0 0
+~
+~
+End
+
+#29844
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29843 0 0
+~
+~
+Door 5 0 0 29845 0 0
+~
+~
+End
+
+#29845
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29846 0 0
+~
+~
+Door 4 0 0 29844 0 0
+~
+~
+End
+
+#29846
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29845 0 0
+~
+~
+Door 3 0 0 29847 0 0
+~
+~
+End
+
+#29847
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29846 0 0
+~
+~
+Door 3 0 0 29848 0 0
+~
+~
+End
+
+#29848
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29854 1 100
+Door 1 0 0 29847 0 0
+~
+~
+Door 2 0 0 29852 0 0
+~
+~
+Door 3 0 0 29849 0 0
+~
+~
+End
+
+#29849
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29848 0 0
+~
+~
+Door 2 0 0 29853 0 0
+~
+~
+Door 3 0 0 29850 0 0
+~
+~
+End
+
+#29850
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29849 0 0
+~
+~
+Door 2 0 0 29854 0 0
+~
+~
+Door 3 0 0 29851 0 0
+~
+~
+End
+
+#29851
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29854 1 100
+Door 1 0 0 29850 0 0
+~
+~
+Door 2 0 0 29858 0 0
+~
+~
+End
+
+#29852
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29848 0 0
+~
+~
+Door 2 0 0 29855 0 0
+~
+~
+Door 3 0 0 29853 0 0
+~
+~
+End
+
+#29853
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29853 1 100
+Reset O 29853 -1 5
+Door 0 0 0 29849 0 0
+~
+~
+Door 1 0 0 29852 0 0
+~
+~
+Door 2 0 0 29856 0 0
+~
+~
+Door 3 0 0 29854 0 0
+~
+~
+End
+
+#29854
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29854 1 100
+Door 0 0 0 29850 0 0
+~
+~
+Door 1 0 0 29853 0 0
+~
+~
+Door 2 0 0 29857 0 0
+~
+~
+Door 3 0 0 29858 0 0
+~
+~
+End
+
+#29855
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29854 1 100
+Door 0 0 0 29852 0 0
+~
+~
+Door 3 0 0 29856 0 0
+~
+~
+End
+
+#29856
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29853 0 0
+~
+~
+Door 1 0 0 29855 0 0
+~
+~
+Door 3 0 0 29857 0 0
+~
+~
+End
+
+#29857
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Reset M 29854 1 100
+Door 0 0 0 29854 0 0
+~
+~
+Door 1 0 0 29856 0 0
+~
+~
+Door 3 0 0 29859 0 0
+~
+~
+End
+
+#29858
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29851 0 0
+~
+~
+Door 1 0 0 29854 0 0
+~
+~
+Door 2 0 0 29859 0 0
+~
+~
+End
+
+#29859
+Name A Secret Alcove Below the Sewers of Alteric~
+Descr
+Through the crack in Alteric's sewers lies a secret alcove. This place
+appears to be inhabited by something, due to the strange footprints in the
+dust covering the ground. One thing distinct about this small alcove is that
+there are many rats scurrying everywhere. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29858 0 0
+~
+~
+Door 1 0 0 29857 0 0
+~
+~
+End
+
+#29860
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29861 0 0
+~
+~
+Door 2 0 0 29803 0 0
+~
+~
+End
+
+#29861
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29862 0 0
+~
+~
+Door 2 0 0 29860 0 0
+~
+~
+End
+
+#29862
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29863 0 0
+~
+~
+Door 2 0 0 29861 0 0
+~
+~
+End
+
+#29863
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29864 0 0
+~
+~
+Door 2 0 0 29862 0 0
+~
+~
+End
+
+#29864
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29865 0 0
+~
+~
+Door 2 0 0 29863 0 0
+~
+~
+End
+
+#29865
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29864 0 0
+~
+~
+Door 5 0 0 29878 0 0
+~
+~
+End
+
+#29866
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29867 0 0
+~
+~
+Door 2 0 0 29878 0 0
+~
+~
+End
+
+#29867
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 2 0 0 29866 0 0
+~
+~
+Door 3 0 0 29868 0 0
+~
+~
+End
+
+#29868
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 1 0 0 29867 0 0
+~
+~
+Door 3 0 0 29867 0 0
+~
+~
+End
+
+#29869
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 2 3 0 7989 30 30
+~
+door~
+End
+
+#29870
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29784 1 100
+Door 2 3 0 7991 30 30
+~
+door~
+End
+
+#29871
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 7994 30 30
+~
+door~
+End
+
+#29872
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 1 3 0 8031 30 30
+~
+door~
+End
+
+#29873
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 8037 30 30
+~
+door~
+End
+
+#29874
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 8034 30 30
+~
+door~
+End
+
+#29875
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 0 3 0 8046 30 30
+~
+door~
+End
+
+#29876
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 2 3 0 8049 30 30
+~
+door~
+End
+
+#29877
+Name A Small House~
+Descr
+In this small house lives a citizen of Alteric and his family. It is a
+one room house, but quite spacious. A few beds lie in the corner, and a
+small table is in the middle of the room. 
+~
+Flags 4
+Sector 0
+Reset M 29785 1 100
+Reset M 29784 1 100
+Door 3 3 0 8050 30 30
+~
+door~
+End
+
+#29878
+Name The Sewers of Alteric~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... This small intersection heads up down and north. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29866 0 0
+~
+~
+Door 4 0 0 29865 0 0
+~
+~
+Door 5 0 0 29880 0 0
+~
+~
+End
+
+#29879
+Name ~
+Descr
+~
+Door 1 0 0 29878 0 0
+~
+~
+Door 3 0 0 29878 0 0
+~
+~
+End
+
+#29880
+Name Deeper Into the Sewers~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29878 0 0
+~
+~
+Door 5 0 0 29881 0 0
+~
+~
+End
+
+#29881
+Name Deeper Into the Sewers~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29880 0 0
+~
+~
+Door 5 0 0 29882 0 0
+~
+~
+End
+
+#29882
+Name Deeper Into the Sewers~
+Descr
+Sewage here is almost knee deep as you see a lot of nasty things floating
+by. Who knows what could be lurking below the surface of water that might
+not take kind to you invading it's home. The stench hangs here from the
+waste, and occasionally bones float by as well. This place is silent except
+for the constant flow of water, although something must be living down
+here... 
+~
+Flags 4
+Sector 0
+Door 0 0 0 40837 0 0
+~
+~
+Door 4 0 0 29881 0 0
+~
+~
+End
+
+#29883
+Name The Sewers of Alteric~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 40825 0 0
+~
+~
+Door 2 0 0 29884 0 0
+~
+~
+End
+
+#29884
+Name The Sewers of Alteric~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29883 0 0
+~
+~
+End
+
+#29885
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 4 0 0 29884 0 0
+~
+~
+Door 5 0 0 29886 0 0
+~
+~
+End
+
+#29886
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 4 0 0 29885 0 0
+~
+~
+Door 5 0 0 29887 0 0
+~
+~
+End
+
+#29887
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 4 0 0 29886 0 0
+~
+~
+Door 5 0 0 29888 0 0
+~
+~
+End
+
+#29888
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 4 0 0 29887 0 0
+~
+~
+Door 5 0 0 29889 0 0
+~
+~
+End
+
+#29889
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29890 0 0
+~
+~
+Door 4 0 0 29888 0 0
+~
+~
+End
+
+#29890
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29891 0 0
+~
+~
+Door 2 0 0 29889 0 0
+~
+~
+End
+
+#29891
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 29892 0 0
+~
+~
+Door 2 0 0 29890 0 0
+~
+~
+End
+
+#29892
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 29893 0 0
+~
+~
+Door 3 0 0 29891 0 0
+~
+~
+End
+
+#29893
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29894 0 0
+~
+~
+Door 3 0 0 29892 0 0
+~
+~
+End
+
+#29894
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29895 0 0
+~
+~
+Door 2 0 0 29893 0 0
+~
+~
+End
+
+#29895
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 29894 0 0
+~
+~
+Door 3 0 0 29896 0 0
+~
+~
+End
+
+#29896
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 29895 0 0
+~
+~
+Door 3 0 0 29897 0 0
+~
+~
+End
+
+#29897
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29898 0 0
+~
+~
+Door 1 0 0 29896 0 0
+~
+~
+End
+
+#29898
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 29899 0 0
+~
+~
+Door 2 0 0 29897 0 0
+~
+~
+End
+
+#29899
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 29898 0 0
+~
+~
+End
+
+#29700
+Name A Secret Passage~
+Descr
+Below the cave is a small, cramped secret passage. You are crawling
+through smelly water and dozens of rats. Hopefully you come out of this
+soon, or you will drown. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 7924 0 0
+~
+~
+Door 2 0 0 29701 0 0
+~
+~
+End
+
+#29701
+Name A Secret Passage~
+Descr
+Below the cave is a small, cramped secret passage. You are crawling
+through smelly water and dozens of rats. Hopefully you come out of this
+soon, or you will drown. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29700 0 0
+~
+~
+Door 2 0 0 29702 0 0
+~
+~
+Door 3 259 0 29708 30 30
+~
+grate~
+End
+
+#29702
+Name A Secret Passage~
+Descr
+Below the cave is a small, cramped secret passage. You are crawling
+through smelly water and dozens of rats. Hopefully you come out of this
+soon, or you will drown. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29701 0 0
+~
+~
+Door 2 0 0 29703 0 0
+~
+~
+End
+
+#29703
+Name A Secret Passage~
+Descr
+Below the cave is a small, cramped secret passage. You are crawling
+through smelly water and dozens of rats. Hopefully you come out of this
+soon, or you will drown. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29702 0 0
+~
+~
+Door 2 0 0 29704 0 0
+~
+~
+End
+
+#29704
+Name A Secret Passage~
+Descr
+Luckily you are almost out of the water, and a bright light shines down
+on you from above. The walls are covered with slime and mold and travelling
+up will be very difficult, but most likely better than going back. 
+~
+Flags 6
+Sector 0
+Door 0 0 0 29703 0 0
+~
+~
+Door 4 0 0 29705 0 0
+~
+~
+End
+
+#29705
+Name A Secret Passage~
+Descr
+In attempt to climb up your hands are covered with a greasy slime. As you
+near the exit up above, the light is brighter and the climate is warmer. 
+~
+Flags 4
+Sector 0
+Reset M 29705 1 100
+Reset M 7900 1 100
+Door 4 0 0 29706 0 0
+~
+~
+Door 5 0 0 29704 0 0
+~
+~
+End
+
+#29706
+Name A Secret Passage~
+Descr
+In attempt to climb up your hands are covered with a greasy slime. As you
+near the exit up above, the light is brighter and the climate is warmer. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 29707 0 0
+~
+~
+Door 5 0 0 29705 0 0
+~
+~
+End
+
+#29707
+Name A Secret Passage~
+Descr
+Light shines upon you from the north, and its warm here. No more slime or
+mold line the dirt walls, but worms and snakes are everywhere. Hopefully you
+can get out of here, never to return. 
+~
+Flags 4
+Sector 0
+Reset M 7900 1 100
+Reset M 29705 1 100
+Door 0 0 0 7900 0 0
+~
+~
+Door 5 0 0 29706 0 0
+~
+~
+End
+
+#29708
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 6
+Sector 0
+Door 0 0 0 29709 0 0
+~
+~
+Door 1 259 0 29701 30 30
+~
+grate~
+Door 3 259 0 29787 30 30
+~
+trap~
+End
+
+#29709
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29710 0 0
+~
+~
+Door 2 0 0 29708 0 0
+~
+~
+End
+
+#29710
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29711 0 0
+~
+~
+Door 2 0 0 29709 0 0
+~
+~
+End
+
+#29711
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29712 0 0
+~
+~
+Door 2 0 0 29710 0 0
+~
+~
+End
+
+#29712
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29713 0 0
+~
+~
+Door 2 0 0 29711 0 0
+~
+~
+End
+
+#29713
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 29714 0 0
+~
+~
+Door 2 0 0 29712 0 0
+~
+~
+End
+
+#29714
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29715 0 0
+~
+~
+Door 2 0 0 29713 0 0
+~
+~
+End
+
+#29715
+Name A Hidden Passageway~
+Descr
+Past the grate is another passageway through You have no idea where it
+goes, but you cannot see the exit. Moldy brick make up most of the wall, and
+rats surround you. You derive from all of the given information that this is
+a sewer, for a very active place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 29716 0 0
+~
+~
+Door 2 0 0 29714 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

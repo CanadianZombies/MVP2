@@ -1,0 +1,415 @@
+#AREADATA 
+Name Good Healer's Cult~
+Repop [1;30mYour body feels cleansed as a new day arrives. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 2100 2149
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#2147
+Name healer statue~
+Short a statue of a great healer~
+Long 
+A large statue of a powerful cleric is here gazing down upon you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+ActBits3 524288
+Affect_By 50332296
+Level 500
+Sex 1
+MobType 15
+Hp 20
+Guard 0
+End
+
+#2148
+Name tarmuth~
+Short tarmuth~
+Long 
+Tarmuth, the finest healer of all time, is here working on a powerful scroll.
+~
+Descr
+Tarmuth could heal the masses with a single word. Always on the lookout
+for trouble, he gazes upon you as if to ask what he can do for you. At this
+moment you can feel the power radiating from him and know exactly how
+powerful he really is. 
+~
+AMax 1
+NHeight 69
+ActBits 258
+ActBits3 524288
+Affect_By 50331784
+Money 100
+Level 400
+Sex 1
+MobType 0
+Hp 20
+Guard 0
+ASklTaught 0 47
+ASklTaught 1 6
+ASklTaught 2 22
+ASklTaught 3 29
+ASklTaught 4 59
+ASklTaught 5 55
+ASklTaught 6 17
+End
+
+#0
+
+
+
+#OBJDATA
+#2100
+Name token healer's sect~
+Short a Healer's cult token~
+Descr
+A Healer's cult token is lying here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 5000
+End
+
+#2145
+Name sign~
+Short sign~
+Descr
+A sign explaining entrance to the Brethran cult is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the healers sect. Here are the things you will need in order
+
+to join our sect: 
+
+ 
+
+You must first have obtained a token from an area seller.
+
+If you have not yet obtained level 30, you may give that token to the statue
+
+for membership into our sect.
+
+ 
+
+Once you are a member, you may say "enter sect" for safe passage into our halls.
+
+~
+End
+
+#2149
+Name pure spring~
+Short a pure spring~
+Descr
+A spring of the purest water on earth flows here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#2100
+Name A Holy Path~
+Descr
+An enlightened path leads you out of the forest. A sudden calm has come
+over you as this path appears to have a glow about it. Perhaps you should
+see where this path leads. 
+~
+Door 0 0 0 2101 0 0
+~
+~
+Door 2 0 0 2115 0 0
+~
+~
+End
+
+#2101
+Name Entrance to the Cult of Brethran~
+Descr
+A huge statue of an ancient healer stands before you. Made from the
+finest stone anywhere this appears to be the strongest statue you've ever
+seen. I wonder what kind of damage this statue could do if it were alive? 
+Wait a minute, it IS alive!  
+~
+Flags 16384
+Reset M 2147 1 100
+Reset O 2145 -5 100
+Door 2 0 0 2100 0 0
+~
+~
+End
+
+#2102
+Name A Hallway of Pride~
+Descr
+A hallway of pride is a tribute to all the great healers of the past.
+Once you have performed many great deeds your spirit will forever be allowed
+to roam these halls to help guide the younger members. 
+~
+Flags 1156
+Door 0 0 0 2103 0 0
+~
+~
+Door 2 0 0 2101 0 0
+~
+~
+End
+
+#2103
+Name A Great Spring Within Healers Sect~
+Descr
+A hallway of pride is a tribute to all the great healers of the past.
+Once you have performed many great deeds your spirit will forever be allowed
+to roam these halls to help guide the younger members. 
+~
+Flags 1156
+Reset O 2149 -5 100
+Door 0 0 0 2104 0 0
+~
+~
+Door 1 0 0 2109 0 0
+~
+~
+Door 2 0 0 2102 0 0
+~
+~
+Door 3 0 0 2108 0 0
+~
+~
+End
+
+#2104
+Name A Hallway of Pride~
+Descr
+A hallway of pride is a tribute to all the great healers of the past.
+Once you have performed many great deeds your spirit will forever be allowed
+to roam these halls to help guide the younger members. 
+~
+Flags 1156
+Door 0 0 0 2105 0 0
+~
+~
+Door 1 23 0 2112 99 99
+~
+door~
+Door 2 0 0 2103 0 0
+~
+~
+Door 3 535 0 2110 99 99
+~
+door~
+End
+
+#2105
+Name A Hallway of Pride~
+Descr
+A hallway of pride is a tribute to all the great healers of the past.
+Once you have performed many great deeds your spirit will forever be allowed
+to roam these halls to help guide the younger members. 
+~
+Flags 1156
+Door 0 0 0 2106 0 0
+~
+~
+Door 2 0 0 2104 0 0
+~
+~
+End
+
+#2106
+Name A Hallway of Pride~
+Descr
+A hallway of pride is a tribute to all the great healers of the past.
+Once you have performed many great deeds your spirit will forever be allowed
+to roam these halls to help guide the younger members. 
+~
+Flags 1156
+Door 0 0 0 2107 0 0
+~
+~
+Door 1 23 0 2113 99 99
+~
+door~
+Door 2 0 0 2105 0 0
+~
+~
+Door 3 23 0 2114 99 99
+~
+door~
+End
+
+#2107
+Name Tarmuth's Chambers~
+Descr
+Tarmuth, the great healer, has retired to these halls in order to train
+those in the art of healing. Should you ever wish to anger him and leave the
+sect he has built, say "leave sect now" and he will be happy to banish you
+from these halls forever. 
+~
+Flags 1156
+Reset M 2148 1 100
+Door 2 0 0 2106 0 0
+~
+~
+End
+
+#2108
+Name A Room of Pure Hope~
+Descr
+In order to speak to the great healers of the past, the members have
+built a room of hope in which it is said is the only place that one can talk
+to the spirits freely. 
+~
+Flags 1156
+Door 1 0 0 2103 0 0
+~
+~
+End
+
+#2109
+Name Healers Hall~
+Descr
+The first room ever constructed by the healers, it is now the hall of
+gathering for its members. 
+~
+Flags 3163268
+Reset O 101 -5 100
+Door 1 3 0 2111 30 30
+~
+garden door~
+Door 3 0 0 2103 0 0
+~
+~
+End
+
+#2110
+Name A Healer's Chambers~
+Descr
+~
+Flags 4
+Door 1 0 0 2104 99 99
+~
+door~
+End
+
+#2111
+Name A Magical Garden~
+Descr
+A garden of pure magic grows plentiful here amongst the healers. The
+rarest flowers in all the land grow in mass about this great garden. You
+wonder to yourself who could have created such a place. Perhaps it was God,
+himself. 
+~
+Flags 1152
+Door 3 3 0 2109 30 30
+~
+garden door~
+End
+
+#2112
+Name A Healer's Chambers~
+Descr
+~
+Flags 132
+Door 3 0 0 2104 99 99
+~
+~
+End
+
+#2113
+Name A Healer's Chambers~
+Descr
+~
+Flags 132
+Door 3 0 0 2106 0 0
+~
+~
+End
+
+#2114
+Name A Healer's Chambers~
+Descr
+~
+Flags 132
+Door 1 0 0 2106 0 0
+~
+~
+End
+
+#2115
+Name A Holy Path~
+Descr
+An enlightened path leads you out of the forest. A sudden calm has come
+over you as this path appears to have a glow about it. Perhaps you should
+see where this path leads. 
+~
+Door 0 0 0 2100 0 0
+~
+~
+Door 3 0 0 2116 0 0
+~
+~
+End
+
+#2116
+Name A Holy Path~
+Descr
+An enlightened path leads you out of the forest. A sudden calm has come
+over you as this path appears to have a glow about it. Perhaps you should
+see where this path leads. 
+~
+Door 1 0 0 2115 0 0
+~
+~
+Door 2 0 0 2117 0 0
+~
+~
+End
+
+#2117
+Name A Holy Path~
+Descr
+An enlightened path leads you out of the forest. A sudden calm has come
+over you as this path appears to have a glow about it. Perhaps you should
+see where this path leads. 
+~
+Door 0 0 0 2116 0 0
+~
+~
+Door 2 0 0 9388 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

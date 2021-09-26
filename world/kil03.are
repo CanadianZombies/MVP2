@@ -1,0 +1,5984 @@
+#AREADATA 
+Name Halls of the Immortals~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe power of the gods flow through these halls.
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Kilith~
+VNUMs 37000 37299
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#37000
+Name mithril statue immortal~
+Short a mithril statue of Torak~
+Long 
+A mithril statue in the form of the Immortal Torak is here.
+~
+Descr
+~
+AMax 1
+NHeight 150
+ActBits 258
+ActBits4 2048
+Affect_By 168
+AffectTWO 12
+Money 200
+Level 101
+MobType 15
+Guard 0
+End
+
+#37001
+Name golden statue~
+Short a golden statue of Razlin~
+Long 
+A golden statue in the form of the Immortal Razlin is here.
+~
+Descr
+~
+Attackmsg slaughter~
+AMax 1
+NHeight 150
+ActBits 258
+ActBits4 2048
+Affect_By 168
+AffectTWO 12
+Money 101
+Level 101
+MobType 27
+Guard 0
+End
+
+#37002
+Name silver statue~
+Short a silver statue of Sabelis~
+Long 
+A silver statue in the form of the Immortal Sabelis is here.
+~
+Descr
+~
+AMax 1
+NHeight 150
+ActBits 258
+ActBits4 2048
+Affect_By 168
+AffectTWO 12
+Money 101
+Level 300
+MobType 15
+Guard 0
+ASklTaught 0 109
+ASklTaught 1 112
+ASklTaught 2 142
+End
+
+#37003
+Name platinum statue~
+Short a platinum statue of kilith~
+Long 
+A platinum statue in the form of the Immortal Kilith is here.
+~
+Descr
+~
+AMax 1
+NHeight 150
+ActBits 258
+ActBits4 2048
+Affect_By 168
+AffectTWO 12
+Money 101
+Level 200
+MobType 15
+Guard 0
+ASklTaught 0 126
+End
+
+#0
+
+
+
+#OBJDATA
+#37000
+Name portal glowing blue~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37005 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37001
+Name blue glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37000 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37002
+Name blue glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37011 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37003
+Name blue glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37009 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37004
+Name blue glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37016 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37005
+Name blue glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37031 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37006
+Name glowing portal~
+Short [1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m portal~
+Descr
+[1m[34mb[0m[34ml[1mu[0m[34me [1m[37mglowing[0m[36m portal floats in the room!
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 37078 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#37007
+Name bracer gods~
+Short a [1m[33mb[0m[33mr[1ma[0m[33mc[1me[0m[33mr[0m of the [1m[34mg[0m[34mo[1md[0m[34ms[0m~
+Descr
+A golden bracer has been dropped.
+[0;36m~
+Type 9
+Extra 2
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 7 20 20 0 0 20 20
+Weight 1
+Cost 200000
+Affect 17 -1 1 0 0
+Affect 19 1 1 0 0
+Affect 18 3 1 0 0
+End
+
+#37008
+Name ring goddess DO NOT COPY THIS RING! ORDER OF KILITH! LEET EQ!~
+Short a [1m[33mring [0mof the [1m[34mG[0m[34mo[1md[0m[34md[1me[0m[34ms[1ms[0m~
+Descr
+A very shinny ring which glows with intense power has been dropped here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 26 5 1 0 0
+Affect 13 10 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#37009
+Name gem immortal imm immortals~
+Short [0mThe [1m[31mG[34mE[35mM[0m of the [1m[34mI[0m[34mM[1mM[0m[34mO[1mR[0m[34mT[1mA[0m[34mL[1mS[0m~
+Descr
+A gem glowing with immense power lies on the ground.
+[0;36m~
+Type 21
+Extra 1
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 31 90 300 90 0 0 0 0 0 0
+Weight 1
+Cost 400000
+Affect 1 -1 1 0 0
+Affect 4 1 1 0 0
+Affect 3 1 1 0 0
+End
+
+#37047
+Name armor of the gods +20 hp +2 hit + 15 moves -2 saves -3 ac body~
+Short [1m[34m Armor of the Gods~
+Descr
+Ancient armor is in your inventory
+[0;36m~
+Type 9
+Extra 268435523
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 10 5 5 10 15 0 0 15 10
+Weight 2
+Cost 50000
+Affect 13 20 1 0 0
+Affect 18 2 1 0 0
+Affect 14 15 1 0 0
+Affect 20 -2 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#37100
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#37000
+Name Under the Ocean~
+Descr
+A strange force here has created some sort of vortex. This vortex is
+filled with water making it impossible to breathe with out a little help
+from magic. This might be the entrance to some kind of arcane place. Much
+power seems to flow through the area. 
+~
+Sector 8
+Door 0 0 0 0 30 30
+You bump into a wall. OUCH!
+~
+~
+Door 1 0 0 0 30 30
+You bump into a wall. OUCH!
+~
+~
+Door 4 0 0 4242 0 0
+~
+~
+Door 5 0 0 37002 0 0
+~
+~
+End
+
+#37001
+Name ~
+Descr
+~
+Door 4 0 0 37000 0 0
+~
+~
+End
+
+#37002
+Name Under the Ocean~
+Descr
+A strange force here has created some sort of vortex. This vortex is
+filled with water making it impossible to breathe with out a little help
+from magic. This might be the entrance to some kind of arcane place. Much
+power seems to flow through the area. 
+~
+Sector 8
+Door 4 0 0 37000 0 0
+~
+~
+Door 5 0 0 37003 0 0
+~
+~
+End
+
+#37003
+Name Under the Ocean~
+Descr
+A strange force here has created some sort of vortex. This vortex is
+filled with water making it impossible to breathe with out a little help
+from magic. This might be the entrance to some kind of arcane place. Much
+power seems to flow through the area. 
+~
+Sector 8
+Door 4 0 0 37002 0 0
+~
+~
+Door 5 0 0 37004 0 0
+~
+~
+End
+
+#37004
+Name Under the Ocean~
+Descr
+A strange force here has created some sort of vortex. This vortex is
+filled with water making it impossible to breathe with out a little help
+from magic. This might be the entrance to some kind of arcane place. Much
+power seems to flow through the area. 
+~
+Flags 12
+Sector 0
+Reset O 37000 -5 100
+Door 4 0 0 37003 0 0
+~
+~
+End
+
+#37005
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 37006 0 0
+~
+~
+End
+
+#37006
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37007 0 0
+~
+~
+Door 2 0 0 37005 0 0
+~
+~
+End
+
+#37007
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37008 0 0
+~
+~
+Door 3 0 0 37006 0 0
+~
+~
+End
+
+#37008
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37010 0 0
+~
+~
+Door 2 0 0 37009 0 0
+~
+~
+Door 3 0 0 37007 0 0
+~
+~
+End
+
+#37009
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37001 -5 100
+Door 0 0 0 37008 0 0
+~
+~
+End
+
+#37010
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+Door 2 0 0 37008 0 0
+~
+~
+End
+
+#37011
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37013 0 0
+~
+~
+Door 1 0 0 37012 0 0
+~
+~
+Door 2 0 0 37015 0 0
+~
+~
+Door 3 0 0 37014 0 0
+~
+~
+End
+
+#37012
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37003 -5 100
+Door 3 0 0 37011 0 0
+~
+~
+End
+
+#37013
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+Door 2 0 0 37011 0 0
+~
+~
+End
+
+#37014
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37004 -5 100
+Door 1 0 0 37011 0 0
+~
+~
+End
+
+#37015
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37001 -5 100
+Door 0 0 0 37011 0 0
+~
+~
+End
+
+#37016
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37017 0 0
+~
+~
+End
+
+#37017
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37024 0 0
+~
+~
+Door 1 0 0 37018 0 0
+~
+~
+Door 2 0 0 37016 0 0
+~
+~
+Door 3 0 0 37025 0 0
+~
+~
+End
+
+#37018
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37019 0 0
+~
+~
+Door 3 0 0 37017 0 0
+~
+~
+End
+
+#37019
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37023 0 0
+~
+~
+Door 1 0 0 37020 0 0
+~
+~
+Door 3 0 0 37018 0 0
+~
+~
+End
+
+#37020
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37021 0 0
+~
+~
+Door 3 0 0 37019 0 0
+~
+~
+End
+
+#37021
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37022 0 0
+~
+~
+Door 3 0 0 37020 0 0
+~
+~
+End
+
+#37022
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37004 -5 100
+Door 2 0 0 37021 0 0
+~
+~
+End
+
+#37023
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37000 -5 100
+Door 2 0 0 37019 0 0
+~
+~
+End
+
+#37024
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+Door 2 0 0 37017 0 0
+~
+~
+End
+
+#37025
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37017 0 0
+~
+~
+Door 3 0 0 37026 0 0
+~
+~
+End
+
+#37026
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37030 0 0
+~
+~
+Door 1 0 0 37025 0 0
+~
+~
+Door 3 0 0 37027 0 0
+~
+~
+End
+
+#37027
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37026 0 0
+~
+~
+Door 3 0 0 37028 0 0
+~
+~
+End
+
+#37028
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37029 0 0
+~
+~
+Door 1 0 0 37027 0 0
+~
+~
+End
+
+#37029
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37005 -5 100
+Door 2 0 0 37028 0 0
+~
+~
+End
+
+#37030
+Name The Maze of Portals~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+Door 2 0 0 37026 0 0
+~
+~
+End
+
+#37031
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37032 0 0
+~
+~
+End
+
+#37032
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37033 0 0
+~
+~
+Door 2 0 0 37042 0 0
+~
+~
+Door 3 0 0 37031 0 0
+~
+~
+End
+
+#37033
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37062 0 0
+~
+~
+Door 1 0 0 37034 0 0
+~
+~
+Door 3 0 0 37032 0 0
+~
+~
+End
+
+#37034
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37035 0 0
+~
+~
+Door 2 0 0 37046 0 0
+~
+~
+Door 3 0 0 37033 0 0
+~
+~
+End
+
+#37035
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37066 0 0
+~
+~
+Door 1 0 0 37036 0 0
+~
+~
+Door 3 0 0 37034 0 0
+~
+~
+End
+
+#37036
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37037 0 0
+~
+~
+Door 2 0 0 37050 0 0
+~
+~
+Door 3 0 0 37035 0 0
+~
+~
+End
+
+#37037
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37070 0 0
+~
+~
+Door 1 0 0 37038 0 0
+~
+~
+Door 3 0 0 37036 0 0
+~
+~
+End
+
+#37038
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37039 0 0
+~
+~
+Door 2 0 0 37054 0 0
+~
+~
+Door 3 0 0 37037 0 0
+~
+~
+End
+
+#37039
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area
+to discourage the petty thief from coming in and raiding this holy place.
+Many hidden rooms and traps can be found in this area. Taking the wrong
+portal could take someone further into the maze of halls and portals or take
+them right back to the entrance of this place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37074 0 0
+~
+~
+Door 1 0 0 37040 30 30
+~
+stonewall~
+Door 3 0 0 37038 0 0
+~
+~
+End
+
+#37040
+Name The Halls of Builders~
+Descr
+This is a maze of rooms and portals. Many portals go through this area to
+discourage the petty thief from coming in and raiding this holy place. Many
+hidden rooms and traps can be found in this area. Taking the wrong portal
+could take someone further into the maze of halls and portals or take them
+right back to the entrance of this place. There seems to be a strange
+looking wall to the east. 
+~
+Flags 4
+Sector 0
+Door 1 259 0 37041 30 30
+You bump into hard stonewall.
+~
+stonewall~
+Door 2 0 0 37058 0 0
+~
+~
+Door 3 0 0 37039 30 30
+~
+stonewall~
+End
+
+#37041
+Name A Hidden Room Behind the Wall~
+Descr
+This room has a small ammount of dust in it unlike the halls before it. A
+small breeze blows in from above keeping a small but stedy flow of air
+moving through the room.
+~
+Flags 4
+Sector 0
+Door 3 259 0 37040 30 30
+~
+stonewall~
+Door 4 259 0 37078 30 30
+~
+small air vent~
+End
+
+#37042
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 37032 0 0
+~
+~
+Door 2 0 0 37043 0 0
+~
+~
+End
+
+#37043
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37042 0 0
+~
+~
+Door 2 0 0 37044 0 0
+~
+~
+End
+
+#37044
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37043 0 0
+~
+~
+Door 5 0 0 37045 0 0
+~
+~
+End
+
+#37045
+Name A Portal Room~
+Descr
+This room has no exits. This room is also covered with dust, except in
+the middle of the room where a portal shimmers in and out of existence.
+There are a few bones and a few unsalvageable pieces of eq that lies on the
+room in here as well.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+End
+
+#37046
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37034 0 0
+~
+~
+Door 2 0 0 37047 0 0
+~
+~
+End
+
+#37047
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37046 0 0
+~
+~
+Door 2 0 0 37048 0 0
+~
+~
+End
+
+#37048
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37047 0 0
+~
+~
+Door 5 0 0 37049 0 0
+~
+~
+End
+
+#37049
+Name The Statue Room of Suicide~
+Descr
+This room is very different from the rest of the other rooms. There is
+not one speck of dust any where in this room. Some sort of energy flows
+through this room and many glyphs and other markings are on the walls. A
+gold animated statue stands in the middle of this room. Behind the statue is
+a portal floating in the room. 
+~
+Flags 4
+Sector 0
+Reset O 37005 -5 100
+End
+
+#37050
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37036 0 0
+~
+~
+Door 2 0 0 37051 0 0
+~
+~
+End
+
+#37051
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37050 0 0
+~
+~
+Door 2 0 0 37052 0 0
+~
+~
+End
+
+#37052
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37051 0 0
+~
+~
+Door 5 0 0 37053 0 0
+~
+~
+End
+
+#37053
+Name A Portal Room~
+Descr
+This room has no exits. This room is also covered with dust, except in
+the middle of the room where a portal shimmers in and out of existence.
+There are a few bones and a few unsalvageable pieces of eq that lies on the
+room in here as well.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+End
+
+#37054
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37038 0 0
+~
+~
+Door 2 0 0 37055 0 0
+~
+~
+End
+
+#37055
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37054 0 0
+~
+~
+Door 2 0 0 37056 0 0
+~
+~
+End
+
+#37056
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37055 0 0
+~
+~
+Door 5 257 0 37057 30 30
+~
+torakdoor~
+End
+
+#37057
+Name The Statue Room of Torak~
+Descr
+This room is very different from the rest of the other rooms. There is
+not one speck of dust any where in this room. Some sort of energy flows
+through this room and many glyphs and other markings are on the walls. A
+gold animated statue stands in the middle of this room. Behind the statue is
+a portal floating in the room.
+~
+Flags 4
+Sector 0
+Reset M 37000 1 100
+Reset O 37047 4 2
+Reset O 37005 -5 100
+End
+
+#37058
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37040 0 0
+~
+~
+Door 2 0 0 37059 0 0
+~
+~
+End
+
+#37059
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37058 0 0
+~
+~
+Door 2 0 0 37060 0 0
+~
+~
+End
+
+#37060
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37059 0 0
+~
+~
+Door 5 0 0 37061 0 0
+~
+~
+End
+
+#37061
+Name A Portal Room~
+Descr
+This room has no exits. This room is also covered with dust, except in
+the middle of the room where a portal shimmers in and out of existence.
+There are a few bones and a few unsalvageable pieces of eq that lies on the
+room in here as well.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+End
+
+#37062
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37063 0 0
+~
+~
+Door 2 0 0 37033 0 0
+~
+~
+End
+
+#37063
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37064 0 0
+~
+~
+Door 2 0 0 37062 0 0
+~
+~
+End
+
+#37064
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 2 0 0 37063 0 0
+~
+~
+Door 5 0 0 37065 0 0
+~
+~
+End
+
+#37065
+Name A Portal Room~
+Descr
+This room has no exits. This room is also covered with dust, except in
+the middle of the room where a portal shimmers in and out of existence.
+There are a few bones and a few unsalvageable pieces of eq that lies on the
+room in here as well.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+End
+
+#37066
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37067 0 0
+~
+~
+Door 2 0 0 37035 0 0
+~
+~
+End
+
+#37067
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37068 0 0
+~
+~
+Door 2 0 0 37066 0 0
+~
+~
+End
+
+#37068
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 2 0 0 37067 0 0
+~
+~
+Door 5 0 0 37069 0 0
+~
+~
+End
+
+#37069
+Name The Statue Room of Antioch~
+Descr
+This room is very different from the rest of the other rooms. There is
+not one speck of dust any where in this room. Some sort of energy flows
+through this room and many glyphs and other markings are on the walls. A
+gold animated statue stands in the middle of this room. Behind the statue is
+a portal floating in the room.
+~
+Flags 4
+Sector 0
+Reset O 37005 -5 100
+End
+
+#37070
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37071 0 0
+~
+~
+Door 2 0 0 37037 0 0
+~
+~
+End
+
+#37071
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37072 0 0
+~
+~
+Door 2 0 0 37070 0 0
+~
+~
+End
+
+#37072
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 2 0 0 37071 0 0
+~
+~
+Door 5 0 0 37073 0 0
+~
+~
+End
+
+#37073
+Name A Portal Room~
+Descr
+This room has no exits. This room is also covered with dust, except in
+the middle of the room where a portal shimmers in and out of existence.
+There are a few bones and a few unsalvageable pieces of eq that lies on the
+room in here as well.
+~
+Flags 4
+Sector 0
+Reset O 37002 -5 100
+End
+
+#37074
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37075 0 0
+~
+~
+Door 2 0 0 37039 0 0
+~
+~
+End
+
+#37075
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37076 0 0
+~
+~
+Door 2 0 0 37074 0 0
+~
+~
+End
+
+#37076
+Name A Forgotten Hallway~
+Descr
+This hall is filled with dust and cobwebs. Many old tapestries hang in
+the hall however what is on them can not be made out. There are a few
+skeletons that look to be of human decent. However how they died can not be
+figured out.
+~
+Flags 4
+Sector 0
+Door 2 0 0 37075 0 0
+~
+~
+Door 5 0 0 37077 0 0
+~
+~
+End
+
+#37077
+Name The Statue Room of Rein~
+Descr
+This room is very different from the rest of the other rooms. There is
+not one speck of dust any where in this room. Some sort of energy flows
+through this room and many glyphs and other markings are on the walls. A
+gold animated statue stands in the middle of this room. Behind the statue is
+a portal floating in the room.
+~
+Flags 4
+Sector 0
+Reset O 37005 -5 100
+End
+
+#37078
+Name Entrance to the Chambers of the Immortals~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37079 0 0
+~
+~
+Door 5 0 0 37041 0 0
+~
+~
+End
+
+#37079
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers. Off to the far north a hall can be seen and just to the
+west of here is a hall made of pure titanium that leads further into these
+chambers of the gods. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 37080 0 0
+~
+~
+Door 1 0 0 37086 0 0
+~
+~
+Door 2 0 0 37078 0 0
+~
+~
+Door 3 0 0 37133 0 0
+~
+~
+End
+
+#37080
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37081 0 0
+~
+~
+Door 1 0 0 37085 0 0
+~
+~
+Door 2 0 0 37079 0 0
+~
+~
+End
+
+#37081
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37082 0 0
+~
+~
+Door 1 0 0 37084 0 0
+~
+~
+Door 2 0 0 37080 0 0
+~
+~
+End
+
+#37082
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37083 0 0
+~
+~
+Door 2 0 0 37081 0 0
+~
+~
+End
+
+#37083
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37090 0 0
+~
+~
+Door 2 0 0 37084 0 0
+~
+~
+Door 3 0 0 37082 0 0
+~
+~
+End
+
+#37084
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37083 0 0
+~
+~
+Door 1 0 0 37089 0 0
+~
+~
+Door 2 0 0 37085 0 0
+~
+~
+Door 3 0 0 37081 0 0
+~
+~
+End
+
+#37085
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37084 0 0
+~
+~
+Door 1 0 0 37088 0 0
+~
+~
+Door 2 0 0 37086 0 0
+~
+~
+Door 3 0 0 37080 0 0
+~
+~
+End
+
+#37086
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 37085 0 0
+~
+~
+Door 1 0 0 37087 0 0
+~
+~
+Door 3 0 0 37079 0 0
+~
+~
+End
+
+#37087
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 37088 0 0
+~
+~
+Door 1 0 0 37094 0 0
+~
+~
+Door 3 0 0 37086 0 0
+~
+~
+End
+
+#37088
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37089 0 0
+~
+~
+Door 1 0 0 37093 0 0
+~
+~
+Door 2 0 0 37087 0 0
+~
+~
+Door 3 0 0 37085 0 0
+~
+~
+End
+
+#37089
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37090 0 0
+~
+~
+Door 1 0 0 37092 0 0
+~
+~
+Door 2 0 0 37088 0 0
+~
+~
+Door 3 0 0 37084 0 0
+~
+~
+End
+
+#37090
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37091 0 0
+~
+~
+Door 2 0 0 37089 0 0
+~
+~
+Door 3 0 0 37083 0 0
+~
+~
+End
+
+#37091
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers. A hallway made of pure silver heads off to the north. 
+~
+Flags 8
+Sector 0
+Door 0 0 0 37095 0 0
+~
+~
+Door 2 0 0 37092 0 0
+~
+~
+Door 3 0 0 37090 0 0
+~
+~
+End
+
+#37092
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37091 0 0
+~
+~
+Door 2 0 0 37093 0 0
+~
+~
+Door 3 0 0 37089 0 0
+~
+~
+End
+
+#37093
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37092 0 0
+~
+~
+Door 1 259 0 37209 30 30
+~
+hiddendoor~
+Door 2 0 0 37094 0 0
+~
+~
+Door 3 0 0 37088 0 0
+~
+~
+End
+
+#37094
+Name A Small Titanium Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure titanium. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty. It almost seems the immortals of this
+world all came together with their powers to build this amazing halls of
+linked chambers.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37093 0 0
+~
+~
+Door 3 0 0 37087 0 0
+~
+~
+End
+
+#37095
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37096 0 0
+~
+~
+Door 2 0 0 37091 0 0
+~
+~
+End
+
+#37096
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37097 0 0
+~
+~
+Door 2 0 0 37095 0 0
+~
+~
+End
+
+#37097
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37098 0 0
+~
+~
+Door 2 0 0 37096 0 0
+~
+~
+End
+
+#37098
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37099 0 0
+~
+~
+Door 2 0 0 37097 0 0
+~
+~
+End
+
+#37099
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37100 0 0
+~
+~
+Door 2 0 0 37098 0 0
+~
+~
+End
+
+#37100
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Sector 0
+Door 0 0 0 37101 0 0
+~
+~
+Door 2 0 0 37099 0 0
+~
+~
+End
+
+#37101
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37102 0 0
+~
+~
+Door 2 0 0 37100 0 0
+~
+~
+End
+
+#37102
+Name A Silver Hallway~
+Descr
+This just like the chamber to the south is made in a flawless manor.
+There is no dust or any imperfections in the walls. The tapestries in this
+hall keep telling the story of how the world was created. To the north
+another chamber can be made out which also looks to be made out of pure
+silver.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37103 0 0
+~
+~
+Door 2 0 0 37101 0 0
+~
+~
+End
+
+#37103
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37113 0 0
+~
+~
+Door 1 0 0 37104 0 0
+~
+~
+Door 2 0 0 37102 0 0
+~
+~
+Door 3 0 0 37107 0 0
+~
+~
+End
+
+#37104
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37114 0 0
+~
+~
+Door 1 0 0 37105 0 0
+~
+~
+Door 3 0 0 37103 0 0
+~
+~
+End
+
+#37105
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37115 0 0
+~
+~
+Door 1 0 0 37106 0 0
+~
+~
+Door 3 0 0 37104 0 0
+~
+~
+End
+
+#37106
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37116 0 0
+~
+~
+Door 3 0 0 37105 0 0
+~
+~
+End
+
+#37107
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37112 0 0
+~
+~
+Door 1 0 0 37103 0 0
+~
+~
+Door 3 0 0 37108 0 0
+~
+~
+End
+
+#37108
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37111 0 0
+~
+~
+Door 1 0 0 37107 0 0
+~
+~
+Door 3 0 0 37109 0 0
+~
+~
+End
+
+#37109
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37110 0 0
+~
+~
+Door 1 0 0 37108 0 0
+~
+~
+End
+
+#37110
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37123 0 0
+~
+~
+Door 1 0 0 37111 0 0
+~
+~
+Door 2 0 0 37109 0 0
+~
+~
+End
+
+#37111
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37122 0 0
+~
+~
+Door 1 0 0 37112 0 0
+~
+~
+Door 2 0 0 37108 0 0
+~
+~
+Door 3 0 0 37110 0 0
+~
+~
+End
+
+#37112
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37121 0 0
+~
+~
+Door 1 0 0 37113 0 0
+~
+~
+Door 2 0 0 37107 0 0
+~
+~
+Door 3 0 0 37111 0 0
+~
+~
+End
+
+#37113
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37120 0 0
+~
+~
+Door 1 0 0 37114 0 0
+~
+~
+Door 2 0 0 37103 0 0
+~
+~
+Door 3 0 0 37112 0 0
+~
+~
+End
+
+#37114
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37119 0 0
+~
+~
+Door 1 0 0 37115 0 0
+~
+~
+Door 2 0 0 37104 0 0
+~
+~
+Door 3 0 0 37113 0 0
+~
+~
+End
+
+#37115
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37118 0 0
+~
+~
+Door 1 0 0 37116 0 0
+~
+~
+Door 2 0 0 37105 0 0
+~
+~
+Door 3 0 0 37114 0 0
+~
+~
+End
+
+#37116
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37117 0 0
+~
+~
+Door 2 0 0 37106 0 0
+~
+~
+Door 3 0 0 37115 0 0
+~
+~
+End
+
+#37117
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37130 0 0
+~
+~
+Door 2 0 0 37116 0 0
+~
+~
+Door 3 0 0 37118 0 0
+~
+~
+End
+
+#37118
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37129 0 0
+~
+~
+Door 1 0 0 37117 0 0
+~
+~
+Door 2 0 0 37115 0 0
+~
+~
+Door 3 0 0 37119 0 0
+~
+~
+End
+
+#37119
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37128 0 0
+~
+~
+Door 1 0 0 37118 0 0
+~
+~
+Door 2 0 0 37114 0 0
+~
+~
+Door 3 0 0 37120 0 0
+~
+~
+End
+
+#37120
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37127 0 0
+~
+~
+Door 1 0 0 37119 0 0
+~
+~
+Door 2 0 0 37113 0 0
+~
+~
+Door 3 0 0 37121 0 0
+~
+~
+End
+
+#37121
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37126 0 0
+~
+~
+Door 1 0 0 37120 0 0
+~
+~
+Door 2 0 0 37112 0 0
+~
+~
+Door 3 0 0 37122 0 0
+~
+~
+End
+
+#37122
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37125 0 0
+~
+~
+Door 1 0 0 37121 0 0
+~
+~
+Door 2 0 0 37111 0 0
+~
+~
+Door 3 0 0 37123 0 0
+~
+~
+End
+
+#37123
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37124 0 0
+~
+~
+Door 1 0 0 37122 0 0
+~
+~
+Door 2 0 0 37110 0 0
+~
+~
+End
+
+#37124
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37125 0 0
+~
+~
+Door 2 0 0 37123 0 0
+~
+~
+End
+
+#37125
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37126 0 0
+~
+~
+Door 2 0 0 37122 0 0
+~
+~
+Door 3 0 0 37124 0 0
+~
+~
+End
+
+#37126
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37127 0 0
+~
+~
+Door 2 0 0 37121 0 0
+~
+~
+Door 3 0 0 37125 0 0
+~
+~
+End
+
+#37127
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 259 0 37131 30 30
+~
+hiddendoor~
+Door 1 0 0 37128 0 0
+~
+~
+Door 2 0 0 37120 0 0
+~
+~
+Door 3 0 0 37126 0 0
+~
+~
+End
+
+#37128
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37129 0 0
+~
+~
+Door 2 0 0 37119 0 0
+~
+~
+Door 3 0 0 37127 0 0
+~
+~
+End
+
+#37129
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37130 0 0
+~
+~
+Door 2 0 0 37118 0 0
+~
+~
+Door 3 0 0 37128 0 0
+~
+~
+End
+
+#37130
+Name A Silver Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure silver. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 2 0 0 37117 0 0
+~
+~
+Door 3 0 0 37129 0 0
+~
+~
+End
+
+#37131
+Name ~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 259 0 37132 30 30
+~
+razlindoor~
+Door 2 0 0 37127 0 0
+~
+~
+End
+
+#37132
+Name The Statue Room of Razlin~
+Descr
+~
+Flags 12
+Sector 0
+Reset O 37006 -5 100
+Reset M 37001 1 100
+Reset O 37007 -1 5
+End
+
+#37133
+Name A Small Titanium Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. There
+is no dust or any imperfections in the walls. The tapestries in this hall
+keep telling the story of how the world was created. To the east is a
+chamber made out of pure titanium. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 37079 0 0
+~
+~
+Door 3 0 0 37134 0 0
+~
+~
+End
+
+#37134
+Name A Small Titanium Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. There
+is no dust or any imperfections in the walls. The tapestries in this hall
+keep telling the story of how the world was created. To the east is a
+chamber made out of pure titanium.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37133 0 0
+~
+~
+Door 3 0 0 37135 0 0
+~
+~
+End
+
+#37135
+Name A Small Titanium Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. There
+is no dust or any imperfections in the walls. The tapestries in this hall
+keep telling the story of how the world was created. To the east is a
+chamber made out of pure titanium.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37134 0 0
+~
+~
+Door 3 0 0 37136 0 0
+~
+~
+End
+
+#37136
+Name A Mithril Room~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37137 0 0
+~
+~
+Door 1 0 0 37135 0 0
+~
+~
+Door 3 0 0 37171 0 0
+~
+~
+End
+
+#37137
+Name A Small Mithril Hallway~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37138 0 0
+~
+~
+Door 2 0 0 37136 0 0
+~
+~
+End
+
+#37138
+Name A Small Mithril Hallway~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37139 0 0
+~
+~
+Door 2 0 0 37137 0 0
+~
+~
+End
+
+#37139
+Name A Small Mithril Hallway~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37140 0 0
+~
+~
+Door 2 0 0 37138 0 0
+~
+~
+End
+
+#37140
+Name A Small Mithril Hallway~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37141 0 0
+~
+~
+Door 2 0 0 37139 0 0
+~
+~
+End
+
+#37141
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37151 0 0
+~
+~
+Door 1 0 0 37142 0 0
+~
+~
+Door 2 0 0 37140 0 0
+~
+~
+Door 3 0 0 37145 0 0
+~
+~
+End
+
+#37142
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37152 0 0
+~
+~
+Door 1 0 0 37143 0 0
+~
+~
+Door 3 0 0 37141 0 0
+~
+~
+End
+
+#37143
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37153 0 0
+~
+~
+Door 1 0 0 37144 0 0
+~
+~
+Door 3 0 0 37142 0 0
+~
+~
+End
+
+#37144
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37154 0 0
+~
+~
+Door 3 0 0 37143 0 0
+~
+~
+End
+
+#37145
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37150 0 0
+~
+~
+Door 1 0 0 37141 0 0
+~
+~
+Door 3 0 0 37146 0 0
+~
+~
+End
+
+#37146
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37149 0 0
+~
+~
+Door 1 0 0 37145 0 0
+~
+~
+Door 3 0 0 37147 0 0
+~
+~
+End
+
+#37147
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37148 0 0
+~
+~
+Door 1 0 0 37146 0 0
+~
+~
+End
+
+#37148
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37161 0 0
+~
+~
+Door 1 0 0 37149 0 0
+~
+~
+Door 2 0 0 37147 0 0
+~
+~
+End
+
+#37149
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37160 0 0
+~
+~
+Door 1 0 0 37150 0 0
+~
+~
+Door 2 0 0 37146 0 0
+~
+~
+Door 3 0 0 37148 0 0
+~
+~
+End
+
+#37150
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37159 0 0
+~
+~
+Door 1 0 0 37151 0 0
+~
+~
+Door 2 0 0 37145 0 0
+~
+~
+Door 3 0 0 37149 0 0
+~
+~
+End
+
+#37151
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37158 0 0
+~
+~
+Door 1 0 0 37152 0 0
+~
+~
+Door 2 0 0 37141 0 0
+~
+~
+Door 3 0 0 37150 0 0
+~
+~
+End
+
+#37152
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37157 0 0
+~
+~
+Door 1 0 0 37153 0 0
+~
+~
+Door 2 0 0 37142 0 0
+~
+~
+Door 3 0 0 37151 0 0
+~
+~
+End
+
+#37153
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37156 0 0
+~
+~
+Door 1 0 0 37154 0 0
+~
+~
+Door 2 0 0 37143 0 0
+~
+~
+Door 3 0 0 37152 0 0
+~
+~
+End
+
+#37154
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37155 0 0
+~
+~
+Door 2 0 0 37144 0 0
+~
+~
+Door 3 0 0 37153 0 0
+~
+~
+End
+
+#37155
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37168 0 0
+~
+~
+Door 2 0 0 37154 0 0
+~
+~
+Door 3 0 0 37156 0 0
+~
+~
+End
+
+#37156
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37167 0 0
+~
+~
+Door 1 0 0 37155 0 0
+~
+~
+Door 2 0 0 37153 0 0
+~
+~
+Door 3 0 0 37157 0 0
+~
+~
+End
+
+#37157
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37166 0 0
+~
+~
+Door 1 0 0 37156 0 0
+~
+~
+Door 2 0 0 37152 0 0
+~
+~
+Door 3 0 0 37158 0 0
+~
+~
+End
+
+#37158
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37165 0 0
+~
+~
+Door 1 0 0 37157 0 0
+~
+~
+Door 2 0 0 37151 0 0
+~
+~
+Door 3 0 0 37159 0 0
+~
+~
+End
+
+#37159
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37164 0 0
+~
+~
+Door 1 0 0 37158 0 0
+~
+~
+Door 2 0 0 37150 0 0
+~
+~
+Door 3 0 0 37160 0 0
+~
+~
+End
+
+#37160
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37163 0 0
+~
+~
+Door 1 0 0 37159 0 0
+~
+~
+Door 2 0 0 37149 0 0
+~
+~
+Door 3 0 0 37161 0 0
+~
+~
+End
+
+#37161
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 0 0 37162 0 0
+~
+~
+Door 1 0 0 37160 0 0
+~
+~
+Door 2 0 0 37148 0 0
+~
+~
+End
+
+#37162
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 37163 0 0
+~
+~
+Door 2 0 0 37161 0 0
+~
+~
+End
+
+#37163
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 37164 0 0
+~
+~
+Door 2 0 0 37160 0 0
+~
+~
+Door 3 0 0 37162 0 0
+~
+~
+End
+
+#37164
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 37165 0 0
+~
+~
+Door 2 0 0 37159 0 0
+~
+~
+Door 3 0 0 37163 0 0
+~
+~
+End
+
+#37165
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 259 0 37169 30 30
+~
+hiddendoor~
+Door 1 0 0 37166 0 0
+~
+~
+Door 2 0 0 37158 0 0
+~
+~
+Door 3 0 0 37164 0 0
+~
+~
+End
+
+#37166
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 37167 0 0
+~
+~
+Door 2 0 0 37157 0 0
+~
+~
+Door 3 0 0 37165 0 0
+~
+~
+End
+
+#37167
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 1 0 0 37168 0 0
+~
+~
+Door 2 0 0 37156 0 0
+~
+~
+Door 3 0 0 37166 0 0
+~
+~
+End
+
+#37168
+Name A Mithril Chamber~
+Descr
+~
+Flags 8
+Sector 0
+Door 2 0 0 37155 0 0
+~
+~
+Door 3 0 0 37167 0 0
+~
+~
+End
+
+#37169
+Name ~
+Descr
+~
+Flags 8
+Sector 0
+Door 0 259 0 37170 30 30
+~
+sabelisdoor~
+Door 2 0 0 37165 0 0
+~
+~
+End
+
+#37170
+Name ~
+Descr
+~
+Flags 8
+Sector 0
+Reset M 37002 1 100
+Reset O 37006 -5 100
+Reset O 37008 -1 5
+End
+
+#37171
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created. 
+~
+Flags 8
+Sector 0
+Door 1 0 0 37136 0 0
+~
+~
+Door 3 0 0 37172 0 0
+~
+~
+End
+
+#37172
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37171 0 0
+~
+~
+Door 3 0 0 37173 0 0
+~
+~
+End
+
+#37173
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37174 0 0
+~
+~
+Door 1 0 0 37172 0 0
+~
+~
+End
+
+#37174
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37175 0 0
+~
+~
+Door 2 0 0 37173 0 0
+~
+~
+End
+
+#37175
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created. Off to the west a chamber of pure platinum can be made
+out. 
+~
+Flags 8
+Sector 0
+Door 2 0 0 37174 0 0
+~
+~
+Door 3 0 0 37176 0 0
+~
+~
+End
+
+#37176
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created. Off to the west a chamber of pure platinum can be made
+out.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37175 0 0
+~
+~
+Door 3 0 0 37177 0 0
+~
+~
+End
+
+#37177
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created. Off to the west a chamber of pure platinum can be made
+out.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37176 0 0
+~
+~
+Door 3 0 0 37178 0 0
+~
+~
+End
+
+#37178
+Name A Small Platinum Hallway~
+Descr
+This just like the chamber to the east is made in a flawless manor. This
+hall is made out of pure platinum. There is no dust or any imperfections in
+the walls. The tapestries in this hall keep telling the story of how the
+world was created. Off to the west a chamber of pure platinum can be made
+out.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37177 0 0
+~
+~
+Door 3 0 0 37179 0 0
+~
+~
+End
+
+#37179
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37180 0 0
+~
+~
+Door 1 0 0 37178 0 0
+~
+~
+Door 2 0 0 37183 0 0
+~
+~
+Door 3 0 0 37189 0 0
+~
+~
+End
+
+#37180
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37181 0 0
+~
+~
+Door 2 0 0 37179 0 0
+~
+~
+Door 3 0 0 37190 0 0
+~
+~
+End
+
+#37181
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37182 0 0
+~
+~
+Door 2 0 0 37180 0 0
+~
+~
+Door 3 0 0 37191 0 0
+~
+~
+End
+
+#37182
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 2 0 0 37181 0 0
+~
+~
+Door 3 0 0 37192 0 0
+~
+~
+End
+
+#37183
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37179 0 0
+~
+~
+Door 2 0 0 37184 0 0
+~
+~
+Door 3 0 0 37188 0 0
+~
+~
+End
+
+#37184
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37183 0 0
+~
+~
+Door 2 0 0 37185 0 0
+~
+~
+Door 3 0 0 37187 0 0
+~
+~
+End
+
+#37185
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37184 0 0
+~
+~
+Door 3 0 0 37186 0 0
+~
+~
+End
+
+#37186
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37187 0 0
+~
+~
+Door 1 0 0 37185 0 0
+~
+~
+Door 3 0 0 37199 0 0
+~
+~
+End
+
+#37187
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37188 0 0
+~
+~
+Door 1 0 0 37184 0 0
+~
+~
+Door 2 0 0 37186 0 0
+~
+~
+Door 3 0 0 37198 0 0
+~
+~
+End
+
+#37188
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37189 0 0
+~
+~
+Door 1 0 0 37183 0 0
+~
+~
+Door 2 0 0 37187 0 0
+~
+~
+Door 3 0 0 37197 0 0
+~
+~
+End
+
+#37189
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37190 0 0
+~
+~
+Door 1 0 0 37179 0 0
+~
+~
+Door 2 0 0 37188 0 0
+~
+~
+Door 3 0 0 37196 0 0
+~
+~
+End
+
+#37190
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37191 0 0
+~
+~
+Door 1 0 0 37180 0 0
+~
+~
+Door 2 0 0 37189 0 0
+~
+~
+Door 3 0 0 37195 0 0
+~
+~
+End
+
+#37191
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37192 0 0
+~
+~
+Door 1 0 0 37181 0 0
+~
+~
+Door 2 0 0 37190 0 0
+~
+~
+Door 3 0 0 37194 0 0
+~
+~
+End
+
+#37192
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37182 0 0
+~
+~
+Door 2 0 0 37191 0 0
+~
+~
+Door 3 0 0 37193 0 0
+~
+~
+End
+
+#37193
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 1 0 0 37192 0 0
+~
+~
+Door 2 0 0 37194 0 0
+~
+~
+Door 3 0 0 37206 0 0
+~
+~
+End
+
+#37194
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37193 0 0
+~
+~
+Door 1 0 0 37191 0 0
+~
+~
+Door 2 0 0 37195 0 0
+~
+~
+Door 3 0 0 37205 0 0
+~
+~
+End
+
+#37195
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37194 0 0
+~
+~
+Door 1 0 0 37190 0 0
+~
+~
+Door 2 0 0 37196 0 0
+~
+~
+Door 3 0 0 37204 0 0
+~
+~
+End
+
+#37196
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37195 0 0
+~
+~
+Door 1 0 0 37189 0 0
+~
+~
+Door 2 0 0 37197 0 0
+~
+~
+Door 3 0 0 37203 0 0
+~
+~
+End
+
+#37197
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37196 0 0
+~
+~
+Door 1 0 0 37188 0 0
+~
+~
+Door 2 0 0 37198 0 0
+~
+~
+Door 3 0 0 37202 0 0
+~
+~
+End
+
+#37198
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37197 0 0
+~
+~
+Door 1 0 0 37187 0 0
+~
+~
+Door 2 0 0 37199 0 0
+~
+~
+Door 3 0 0 37201 0 0
+~
+~
+End
+
+#37199
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37198 0 0
+~
+~
+Door 1 0 0 37186 0 0
+~
+~
+Door 3 0 0 37200 0 0
+~
+~
+End
+
+#37200
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 8
+Sector 0
+Door 0 0 0 37201 0 0
+~
+~
+Door 1 0 0 37199 0 0
+~
+~
+End
+
+#37201
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37202 0 0
+~
+~
+Door 1 0 0 37198 0 0
+~
+~
+Door 2 0 0 37200 0 0
+~
+~
+End
+
+#37202
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37203 0 0
+~
+~
+Door 1 0 0 37197 0 0
+~
+~
+Door 2 0 0 37201 0 0
+~
+~
+End
+
+#37203
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37204 0 0
+~
+~
+Door 1 0 0 37196 0 0
+~
+~
+Door 2 0 0 37202 0 0
+~
+~
+Door 3 259 0 37207 30 30
+~
+hiddendoor~
+End
+
+#37204
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37205 0 0
+~
+~
+Door 1 0 0 37195 0 0
+~
+~
+Door 2 0 0 37203 0 0
+~
+~
+End
+
+#37205
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 37206 0 0
+~
+~
+Door 1 0 0 37194 0 0
+~
+~
+Door 2 0 0 37204 0 0
+~
+~
+End
+
+#37206
+Name A Platinum Chamber~
+Descr
+This small chamber is like nothing seen in the world. The walls and
+floors seem to be made of pure platinum. There is no dust nor any flaws not
+one thing is imperfect in this room. Tapestries are beautiful. They descript
+the lands of the world in pure beauty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 37193 0 0
+~
+~
+Door 2 0 0 37205 0 0
+~
+~
+End
+
+#37207
+Name ~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37203 0 0
+~
+~
+Door 3 259 0 37208 30 30
+~
+kilithdoor~
+End
+
+#37208
+Name Statue Room of Kilith~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 37003 1 100
+Reset O 37009 -1 5
+Reset O 37006 -5 100
+End
+
+#37209
+Name ~
+Descr
+~
+Flags 4
+Door 3 259 0 37093 30 30
+~
+hiddendoor~
+Door 5 0 0 37210 0 0
+~
+~
+End
+
+#37210
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37215 0 0
+~
+~
+Door 1 0 0 37211 0 0
+~
+~
+Door 4 0 0 37209 0 0
+~
+~
+End
+
+#37211
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37214 0 0
+~
+~
+Door 1 0 0 37212 0 0
+~
+~
+Door 3 0 0 37210 0 0
+~
+~
+End
+
+#37212
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37213 0 0
+~
+~
+Door 3 0 0 37211 0 0
+~
+~
+End
+
+#37213
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37218 0 0
+~
+~
+Door 2 0 0 37212 0 0
+~
+~
+Door 3 0 0 37214 0 0
+~
+~
+End
+
+#37214
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37217 0 0
+~
+~
+Door 1 0 0 37213 0 0
+~
+~
+Door 2 0 0 37211 0 0
+~
+~
+Door 3 0 0 37215 0 0
+~
+~
+End
+
+#37215
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37216 0 0
+~
+~
+Door 1 0 0 37214 0 0
+~
+~
+Door 2 0 0 37210 0 0
+~
+~
+End
+
+#37216
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37221 0 0
+~
+~
+Door 1 0 0 37217 0 0
+~
+~
+Door 2 0 0 37215 0 0
+~
+~
+End
+
+#37217
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37220 0 0
+~
+~
+Door 1 0 0 37218 0 0
+~
+~
+Door 2 0 0 37214 0 0
+~
+~
+Door 3 0 0 37216 0 0
+~
+~
+End
+
+#37218
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37219 0 0
+~
+~
+Door 2 0 0 37213 0 0
+~
+~
+Door 3 0 0 37217 0 0
+~
+~
+End
+
+#37219
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37224 0 0
+~
+~
+Door 2 0 0 37218 0 0
+~
+~
+Door 3 0 0 37220 0 0
+~
+~
+End
+
+#37220
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37223 0 0
+~
+~
+Door 1 0 0 37219 0 0
+~
+~
+Door 2 0 0 37217 0 0
+~
+~
+Door 3 0 0 37221 0 0
+~
+~
+End
+
+#37221
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37222 0 0
+~
+~
+Door 1 0 0 37220 0 0
+~
+~
+Door 2 0 0 37216 0 0
+~
+~
+End
+
+#37222
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37233 0 0
+~
+~
+Door 1 0 0 37223 0 0
+~
+~
+Door 2 0 0 37221 0 0
+~
+~
+End
+
+#37223
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37232 0 0
+~
+~
+Door 1 0 0 37224 0 0
+~
+~
+Door 2 0 0 37220 0 0
+~
+~
+Door 3 0 0 37222 0 0
+~
+~
+End
+
+#37224
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37231 0 0
+~
+~
+Door 1 0 0 37225 0 0
+~
+~
+Door 2 0 0 37219 0 0
+~
+~
+Door 3 0 0 37223 0 0
+~
+~
+End
+
+#37225
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37230 0 0
+~
+~
+Door 1 0 0 37226 0 0
+~
+~
+Door 3 0 0 37224 0 0
+~
+~
+End
+
+#37226
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37229 0 0
+~
+~
+Door 1 0 0 37227 0 0
+~
+~
+Door 3 0 0 37225 0 0
+~
+~
+End
+
+#37227
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37228 0 0
+~
+~
+Door 3 0 0 37226 0 0
+~
+~
+End
+
+#37228
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37239 0 0
+~
+~
+Door 2 0 0 37227 0 0
+~
+~
+Door 3 0 0 37229 0 0
+~
+~
+End
+
+#37229
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37238 0 0
+~
+~
+Door 1 0 0 37228 0 0
+~
+~
+Door 2 0 0 37226 0 0
+~
+~
+Door 3 0 0 37230 0 0
+~
+~
+End
+
+#37230
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37237 0 0
+~
+~
+Door 1 0 0 37229 0 0
+~
+~
+Door 2 0 0 37225 0 0
+~
+~
+Door 3 0 0 37231 0 0
+~
+~
+End
+
+#37231
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37236 0 0
+~
+~
+Door 1 0 0 37230 0 0
+~
+~
+Door 2 0 0 37224 0 0
+~
+~
+Door 3 0 0 37232 0 0
+~
+~
+End
+
+#37232
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37235 0 0
+~
+~
+Door 1 0 0 37231 0 0
+~
+~
+Door 2 0 0 37223 0 0
+~
+~
+Door 3 0 0 37233 0 0
+~
+~
+End
+
+#37233
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37234 0 0
+~
+~
+Door 1 0 0 37232 0 0
+~
+~
+Door 2 0 0 37222 0 0
+~
+~
+Door 3 0 0 37252 0 0
+~
+~
+End
+
+#37234
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37245 0 0
+~
+~
+Door 1 0 0 37235 0 0
+~
+~
+Door 2 0 0 37233 0 0
+~
+~
+Door 3 0 0 37257 0 0
+~
+~
+End
+
+#37235
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37244 0 0
+~
+~
+Door 1 0 0 37236 0 0
+~
+~
+Door 2 0 0 37232 0 0
+~
+~
+Door 3 0 0 37234 0 0
+~
+~
+End
+
+#37236
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37243 0 0
+~
+~
+Door 1 0 0 37237 0 0
+~
+~
+Door 2 0 0 37231 0 0
+~
+~
+Door 3 0 0 37235 0 0
+~
+~
+End
+
+#37237
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37242 0 0
+~
+~
+Door 1 0 0 37238 0 0
+~
+~
+Door 2 0 0 37230 0 0
+~
+~
+Door 3 0 0 37236 0 0
+~
+~
+End
+
+#37238
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37241 0 0
+~
+~
+Door 1 0 0 37239 0 0
+~
+~
+Door 2 0 0 37229 0 0
+~
+~
+Door 3 0 0 37237 0 0
+~
+~
+End
+
+#37239
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37240 0 0
+~
+~
+Door 2 0 0 37228 0 0
+~
+~
+Door 3 0 0 37238 0 0
+~
+~
+End
+
+#37240
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37269 0 0
+~
+~
+Door 2 0 0 37239 0 0
+~
+~
+Door 3 0 0 37241 0 0
+~
+~
+End
+
+#37241
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37268 0 0
+~
+~
+Door 1 0 0 37240 0 0
+~
+~
+Door 2 0 0 37238 0 0
+~
+~
+Door 3 0 0 37242 0 0
+~
+~
+End
+
+#37242
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37267 0 0
+~
+~
+Door 1 0 0 37241 0 0
+~
+~
+Door 2 0 0 37237 0 0
+~
+~
+Door 3 0 0 37243 0 0
+~
+~
+End
+
+#37243
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37266 0 0
+~
+~
+Door 1 0 0 37242 0 0
+~
+~
+Door 2 0 0 37236 0 0
+~
+~
+Door 3 0 0 37244 0 0
+~
+~
+End
+
+#37244
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37265 0 0
+~
+~
+Door 1 0 0 37243 0 0
+~
+~
+Door 2 0 0 37235 0 0
+~
+~
+Door 3 0 0 37245 0 0
+~
+~
+End
+
+#37245
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37264 0 0
+~
+~
+Door 1 0 0 37244 0 0
+~
+~
+Door 2 0 0 37234 0 0
+~
+~
+Door 3 0 0 37246 0 0
+~
+~
+End
+
+#37246
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37263 0 0
+~
+~
+Door 1 0 0 37245 0 0
+~
+~
+Door 2 0 0 37257 0 0
+~
+~
+Door 3 0 0 37247 0 0
+~
+~
+End
+
+#37247
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37262 0 0
+~
+~
+Door 1 0 0 37246 0 0
+~
+~
+Door 2 0 0 37256 0 0
+~
+~
+Door 3 0 0 37248 0 0
+~
+~
+End
+
+#37248
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37261 0 0
+~
+~
+Door 1 0 0 37247 0 0
+~
+~
+Door 2 0 0 37255 0 0
+~
+~
+Door 3 0 0 37249 0 0
+~
+~
+End
+
+#37249
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37260 0 0
+~
+~
+Door 1 0 0 37248 0 0
+~
+~
+Door 3 0 0 37250 0 0
+~
+~
+End
+
+#37250
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37259 0 0
+~
+~
+Door 1 0 0 37249 0 0
+~
+~
+Door 3 0 0 37251 0 0
+~
+~
+End
+
+#37251
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37258 0 0
+~
+~
+Door 1 0 0 37250 0 0
+~
+~
+End
+
+#37252
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37257 0 0
+~
+~
+Door 1 0 0 37233 0 0
+~
+~
+Door 3 0 0 37253 0 0
+~
+~
+End
+
+#37253
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37256 0 0
+~
+~
+Door 1 0 0 37252 0 0
+~
+~
+Door 3 0 0 37254 0 0
+~
+~
+End
+
+#37254
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37255 0 0
+~
+~
+Door 1 0 0 37253 0 0
+~
+~
+End
+
+#37255
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37248 0 0
+~
+~
+Door 1 0 0 37256 0 0
+~
+~
+Door 2 0 0 37254 0 0
+~
+~
+End
+
+#37256
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37247 0 0
+~
+~
+Door 1 0 0 37257 0 0
+~
+~
+Door 2 0 0 37253 0 0
+~
+~
+Door 3 0 0 37255 0 0
+~
+~
+End
+
+#37257
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37246 0 0
+~
+~
+Door 1 0 0 37234 0 0
+~
+~
+Door 2 0 0 37252 0 0
+~
+~
+Door 3 0 0 37256 0 0
+~
+~
+End
+
+#37258
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37281 0 0
+~
+~
+Door 1 0 0 37259 0 0
+~
+~
+Door 2 0 0 37251 0 0
+~
+~
+End
+
+#37259
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37280 0 0
+~
+~
+Door 1 0 0 37260 0 0
+~
+~
+Door 2 0 0 37250 0 0
+~
+~
+Door 3 0 0 37258 0 0
+~
+~
+End
+
+#37260
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37279 0 0
+~
+~
+Door 1 0 0 37261 0 0
+~
+~
+Door 2 0 0 37249 0 0
+~
+~
+Door 3 0 0 37259 0 0
+~
+~
+End
+
+#37261
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37278 0 0
+~
+~
+Door 1 0 0 37262 0 0
+~
+~
+Door 2 0 0 37248 0 0
+~
+~
+Door 3 0 0 37260 0 0
+~
+~
+End
+
+#37262
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37277 0 0
+~
+~
+Door 1 0 0 37263 0 0
+~
+~
+Door 2 0 0 37247 0 0
+~
+~
+Door 3 0 0 37261 0 0
+~
+~
+End
+
+#37263
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37276 0 0
+~
+~
+Door 1 0 0 37264 0 0
+~
+~
+Door 2 0 0 37246 0 0
+~
+~
+Door 3 0 0 37262 0 0
+~
+~
+End
+
+#37264
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37275 0 0
+~
+~
+Door 1 0 0 37265 0 0
+~
+~
+Door 2 0 0 37245 0 0
+~
+~
+Door 3 0 0 37263 0 0
+~
+~
+End
+
+#37265
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37274 0 0
+~
+~
+Door 1 0 0 37266 0 0
+~
+~
+Door 2 0 0 37244 0 0
+~
+~
+Door 3 0 0 37264 0 0
+~
+~
+End
+
+#37266
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37273 0 0
+~
+~
+Door 1 0 0 37267 0 0
+~
+~
+Door 2 0 0 37243 0 0
+~
+~
+Door 3 0 0 37265 0 0
+~
+~
+End
+
+#37267
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37272 0 0
+~
+~
+Door 1 0 0 37268 0 0
+~
+~
+Door 2 0 0 37242 0 0
+~
+~
+Door 3 0 0 37266 0 0
+~
+~
+End
+
+#37268
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37271 0 0
+~
+~
+Door 1 0 0 37269 0 0
+~
+~
+Door 2 0 0 37241 0 0
+~
+~
+Door 3 0 0 37267 0 0
+~
+~
+End
+
+#37269
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37270 0 0
+~
+~
+Door 2 0 0 37240 0 0
+~
+~
+Door 3 0 0 37268 0 0
+~
+~
+End
+
+#37270
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37293 0 0
+~
+~
+Door 2 0 0 37269 0 0
+~
+~
+Door 3 0 0 37271 0 0
+~
+~
+End
+
+#37271
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37292 0 0
+~
+~
+Door 1 0 0 37270 0 0
+~
+~
+Door 2 0 0 37268 0 0
+~
+~
+Door 3 0 0 37272 0 0
+~
+~
+End
+
+#37272
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37291 0 0
+~
+~
+Door 1 0 0 37271 0 0
+~
+~
+Door 2 0 0 37267 0 0
+~
+~
+Door 3 0 0 37273 0 0
+~
+~
+End
+
+#37273
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37290 0 0
+~
+~
+Door 1 0 0 37272 0 0
+~
+~
+Door 2 0 0 37266 0 0
+~
+~
+Door 3 0 0 37274 0 0
+~
+~
+End
+
+#37274
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37289 0 0
+~
+~
+Door 1 0 0 37273 0 0
+~
+~
+Door 2 0 0 37265 0 0
+~
+~
+Door 3 0 0 37275 0 0
+~
+~
+End
+
+#37275
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37288 0 0
+~
+~
+Door 1 0 0 37274 0 0
+~
+~
+Door 2 0 0 37264 0 0
+~
+~
+Door 3 0 0 37276 0 0
+~
+~
+End
+
+#37276
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37287 0 0
+~
+~
+Door 1 0 0 37275 0 0
+~
+~
+Door 2 0 0 37263 0 0
+~
+~
+Door 3 0 0 37277 0 0
+~
+~
+End
+
+#37277
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37286 0 0
+~
+~
+Door 1 0 0 37276 0 0
+~
+~
+Door 2 0 0 37262 0 0
+~
+~
+Door 3 0 0 37278 0 0
+~
+~
+End
+
+#37278
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37285 0 0
+~
+~
+Door 1 0 0 37277 0 0
+~
+~
+Door 2 0 0 37261 0 0
+~
+~
+Door 3 0 0 37279 0 0
+~
+~
+End
+
+#37279
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37284 0 0
+~
+~
+Door 1 0 0 37278 0 0
+~
+~
+Door 2 0 0 37260 0 0
+~
+~
+Door 3 0 0 37280 0 0
+~
+~
+End
+
+#37280
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37283 0 0
+~
+~
+Door 1 0 0 37279 0 0
+~
+~
+Door 2 0 0 37259 0 0
+~
+~
+Door 3 0 0 37281 0 0
+~
+~
+End
+
+#37281
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37282 0 0
+~
+~
+Door 1 0 0 37280 0 0
+~
+~
+Door 2 0 0 37258 0 0
+~
+~
+End
+
+#37282
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37283 0 0
+~
+~
+Door 2 0 0 37281 0 0
+~
+~
+End
+
+#37283
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37284 0 0
+~
+~
+Door 2 0 0 37280 0 0
+~
+~
+Door 3 0 0 37282 0 0
+~
+~
+End
+
+#37284
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37285 0 0
+~
+~
+Door 2 0 0 37279 0 0
+~
+~
+Door 3 0 0 37283 0 0
+~
+~
+End
+
+#37285
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37286 0 0
+~
+~
+Door 2 0 0 37278 0 0
+~
+~
+Door 3 0 0 37284 0 0
+~
+~
+End
+
+#37286
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37287 0 0
+~
+~
+Door 2 0 0 37277 0 0
+~
+~
+Door 3 0 0 37285 0 0
+~
+~
+End
+
+#37287
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37288 0 0
+~
+~
+Door 2 0 0 37276 0 0
+~
+~
+Door 3 0 0 37286 0 0
+~
+~
+End
+
+#37288
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37289 0 0
+~
+~
+Door 2 0 0 37275 0 0
+~
+~
+Door 3 0 0 37287 0 0
+~
+~
+End
+
+#37289
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37290 0 0
+~
+~
+Door 2 0 0 37274 0 0
+~
+~
+Door 3 0 0 37288 0 0
+~
+~
+End
+
+#37290
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37291 0 0
+~
+~
+Door 2 0 0 37273 0 0
+~
+~
+Door 3 0 0 37289 0 0
+~
+~
+End
+
+#37291
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37292 0 0
+~
+~
+Door 2 0 0 37272 0 0
+~
+~
+Door 3 0 0 37290 0 0
+~
+~
+End
+
+#37292
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37293 0 0
+~
+~
+Door 2 0 0 37271 0 0
+~
+~
+Door 3 0 0 37291 0 0
+~
+~
+End
+
+#37293
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 37294 0 0
+~
+~
+Door 2 0 0 37270 0 0
+~
+~
+Door 3 0 0 37292 0 0
+~
+~
+End
+
+#37294
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 37293 0 0
+~
+~
+Door 3 0 0 37295 0 0
+~
+~
+End
+
+#37295
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37294 0 0
+~
+~
+Door 3 0 0 37296 0 0
+~
+~
+End
+
+#37296
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37295 0 0
+~
+~
+Door 3 0 0 37297 0 0
+~
+~
+End
+
+#37297
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37296 0 0
+~
+~
+Door 3 0 0 37298 0 0
+~
+~
+End
+
+#37298
+Name A Great Hall~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37297 0 0
+~
+~
+Door 3 0 0 37299 0 0
+~
+~
+End
+
+#37299
+Name The Statue Room of Seige~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 37298 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

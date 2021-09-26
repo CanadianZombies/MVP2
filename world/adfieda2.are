@@ -1,0 +1,1405 @@
+#AREADATA 
+Name Adfeida Swamp~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe sound of crickets and frogs fills your heart with fear.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Talon Colomor~
+VNUMs 24452 24500
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#24452
+Name campestri fungus~
+Short a campestri~
+Long 
+A strange fungus is here singing and dancing around.
+~
+Descr
+~
+AMax 5
+NHeight 40
+Money 4
+Level 4
+MobType 17
+Guard 0
+End
+
+#24453
+Name garbug~
+Short a garbug~
+Long 
+A garbug is searching the swamps for some prey.
+~
+Descr
+~
+AMax 5
+NHeight 90
+ActBits 67108864
+Money 14
+Level 14
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#24454
+Name xantravar stringing horror~
+Short a xantravar~
+Long 
+A stinging horror is floating the swamps searching for food.
+~
+Descr
+~
+AMax 3
+NHeight 80
+ActBits 8
+ActBits4 4096
+Affect_By 524288
+Money 35
+Level 35
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#24455
+Name a boobrie~
+Short a boobrie~
+Long 
+A large boobrie is standing in the swamp grass.
+~
+Descr
+~
+AMax 3
+NHeight 145
+Money 35
+Level 35
+MobType 13
+Guard 0
+Spec spec_warrior
+End
+
+#24456
+Name catoblepas~
+Short a catoblepas~
+Long 
+A large catoblepas is here nibbling on some marsh grass.
+~
+Descr
+~
+AMax 3
+NHeight 80
+ActBits 32768
+Money 85
+Level 85
+Guard 0
+Spec spec_warrior
+End
+
+#24457
+Name crocodile~
+Short a crocodile~
+Long 
+A large crocodile is slowly moving through the swamps.
+~
+Descr
+~
+AMax 2
+NHeight 30
+ActBits 8
+ActBits4 4096
+Money 50
+Level 50
+MobType 20
+Guard 0
+Spec spec_warrior
+End
+
+#24458
+Name grippli~
+Short a grippli~
+Long 
+A grippli is wandering the swamps, hunting large insects.
+~
+Descr
+~
+AMax 2
+NHeight 30
+Affect_By 32768
+Money 36
+Level 36
+MobType 20
+Guard 0
+Spec spec_warrior
+End
+
+#24459
+Name hydra~
+Short a hydra~
+Long 
+A large hydra is reaching for you with its many heads.
+~
+Descr
+~
+AMax 1
+NHeight 80
+ActBits 24
+Money 110
+Level 110
+MobType 20
+Guard 0
+Spec spec_warrior
+End
+
+#24460
+Name giant dragon fly~
+Short a dragon fly~
+Long 
+A large dragon fly is darting quickly across the swamp.
+~
+Descr
+~
+AMax 5
+NHeight 28
+Affect_By 524288
+Money 20
+Level 20
+MobType 8
+Guard 0
+End
+
+#24461
+Name giant leech~
+Short a giant leech~
+Long 
+A giant leech leaps out of the swamps, looking for blood.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 8
+Affect_By 65536
+Money 38
+Level 38
+MobType 8
+Guard 0
+End
+
+#24462
+Name lizard man~
+Short a lizard man~
+Long 
+A lizard man warrior is patroling the area.
+~
+Descr
+~
+AMax 2
+NHeight 84
+ActBits 67108864
+Money 45
+Level 45
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#24463
+Name crimson death mist~
+Short some crimson death~
+Long 
+A strange crimson mist is floating towards you.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 256
+ActBits4 4096
+Affect_By 589952
+Money 130
+Level 130
+MobType 9
+Guard 0
+Spec spec_thief
+End
+
+#24464
+Name vampiric moss~
+Short some vampiric moss~
+Long 
+Some vampiric moss is hanging off a branch, waiting for prey.
+~
+Descr
+~
+AMax 3
+NHeight 12
+ActBits 10
+Affect_By 66048
+Money 25
+Level 25
+MobType 17
+Guard 0
+End
+
+#24465
+Name muckdwller~
+Short a muckdweller~
+Long 
+A small muckdweller is walking through the swamps.
+~
+Descr
+~
+AMax 17
+NHeight 13
+ActBits 8
+Money 10
+Level 10
+MobType 20
+Guard 0
+End
+
+#24466
+Name vegetation shambling mound~
+Short a shambling mound~
+Long 
+A huge mound of vegetation is slowing moving around.
+~
+Descr
+~
+AMax 2
+NHeight 90
+Affect_By 98304
+Money 120
+Level 120
+MobType 17
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#24452
+Name crimson mist~
+Short a [0m[31mcri[35mm[31mson m[35mi[31mst[0m~
+Descr
+A strange crimson mist is floating here.
+[0;36m~
+Type 9
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 10 10 50 50 10 1
+Weight 0
+Cost 0
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#24452
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 15
+Door 0 0 0 24453 0 0
+~
+~
+Door 1 0 0 24469 0 0
+~
+~
+Door 2 0 0 24451 0 0
+~
+~
+End
+
+#24453
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 15
+Door 0 0 0 24454 0 0
+~
+~
+Door 1 0 0 24468 0 0
+~
+~
+Door 2 0 0 24452 0 0
+~
+~
+End
+
+#24454
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 15
+Door 0 0 0 24455 0 0
+~
+~
+Door 1 0 0 24467 0 0
+~
+~
+Door 2 0 0 24453 0 0
+~
+~
+Door 3 0 0 29030 0 0
+~
+~
+End
+
+#24455
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 6
+Reset M 24465 1 100
+Door 0 0 0 24456 0 0
+~
+~
+Door 1 0 0 24466 0 0
+~
+~
+Door 2 0 0 24454 0 0
+~
+~
+End
+
+#24456
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 6
+Door 0 0 0 24457 0 0
+~
+~
+Door 1 0 0 24465 0 0
+~
+~
+Door 2 0 0 24455 0 0
+~
+~
+End
+
+#24457
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 6
+Door 0 0 0 24458 0 0
+~
+~
+Door 1 0 0 24464 0 0
+~
+~
+Door 2 0 0 24456 0 0
+~
+~
+End
+
+#24458
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 15
+Door 0 0 0 24459 0 0
+~
+~
+Door 1 0 0 24463 0 0
+~
+~
+Door 2 0 0 24457 0 0
+~
+~
+End
+
+#24459
+Name Adfeida Swamp~
+Descr
+Around you lies Adfeida swamp. Maybe brave adventurers tried to cross it
+and found their ends in its muddy bottoms. There are scarse trees all around
+and you see bushes here and there. Suddenly sounds of walking in the mud are
+heard and you turn around to get a better look, and see nothing.... 
+~
+Sector 15
+Door 0 0 0 24460 0 0
+~
+~
+Door 1 0 0 24462 0 0
+~
+~
+Door 2 0 0 24458 0 0
+~
+~
+End
+
+#24460
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 1 0 0 24461 0 0
+~
+~
+Door 2 0 0 24459 0 0
+~
+~
+End
+
+#24461
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 1 0 0 24480 0 0
+~
+~
+Door 2 0 0 24462 0 0
+~
+~
+Door 3 0 0 24460 0 0
+~
+~
+End
+
+#24462
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 0 0 0 24461 0 0
+~
+~
+Door 1 0 0 24479 0 0
+~
+~
+Door 2 0 0 24463 0 0
+~
+~
+Door 3 0 0 24459 0 0
+~
+~
+End
+
+#24463
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Reset M 24456 1 100
+Door 0 0 0 24462 0 0
+~
+~
+Door 1 0 0 24478 0 0
+~
+~
+Door 2 0 0 24464 0 0
+~
+~
+Door 3 0 0 24458 0 0
+~
+~
+End
+
+#24464
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 0 0 0 24463 0 0
+~
+~
+Door 1 0 0 24477 0 0
+~
+~
+Door 2 0 0 24465 0 0
+~
+~
+Door 3 0 0 24457 0 0
+~
+~
+End
+
+#24465
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 0 0 0 24464 0 0
+~
+~
+Door 1 0 0 24476 0 0
+~
+~
+Door 2 0 0 24466 0 0
+~
+~
+Door 3 0 0 24456 0 0
+~
+~
+End
+
+#24466
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 0 0 0 24465 0 0
+~
+~
+Door 1 0 0 24475 0 0
+~
+~
+Door 2 0 0 24467 0 0
+~
+~
+Door 3 0 0 24455 0 0
+~
+~
+End
+
+#24467
+Name Adfeida Swamp~
+Descr
+There is a mist in the air. It surrounds every tree, bush, and stone.
+Sometimes you think you see something move in the mist, but is gone before
+you can really put your eyes on it. The air feels strange, it smells of
+violence and maybe even death. Cold wind is blowing but the mist is not
+moving. 
+~
+Sector 15
+Door 0 0 0 24466 0 0
+~
+~
+Door 1 0 0 24474 0 0
+~
+~
+Door 2 0 0 24468 0 0
+~
+~
+Door 3 0 0 24454 0 0
+~
+~
+End
+
+#24468
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 15
+Door 0 0 0 24467 0 0
+~
+~
+Door 1 0 0 24473 0 0
+~
+~
+Door 2 0 0 24469 0 0
+~
+~
+Door 3 0 0 24453 0 0
+~
+~
+End
+
+#24469
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 15
+Door 0 0 0 24468 0 0
+~
+~
+Door 1 0 0 24472 0 0
+~
+~
+Door 2 0 0 24470 0 0
+~
+~
+Door 3 0 0 24452 0 0
+~
+~
+End
+
+#24470
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 15
+Door 0 0 0 24469 0 0
+~
+~
+Door 1 0 0 24471 0 0
+~
+~
+Door 3 0 0 24451 0 0
+~
+~
+End
+
+#24471
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 15
+Door 0 0 0 24472 0 0
+~
+~
+Door 1 0 0 24490 0 0
+~
+~
+Door 3 0 0 24470 0 0
+~
+~
+End
+
+#24472
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 6
+Door 0 0 0 24473 0 0
+~
+~
+Door 1 0 0 24489 0 0
+~
+~
+Door 2 0 0 24471 0 0
+~
+~
+Door 3 0 0 24469 0 0
+~
+~
+End
+
+#24473
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 6
+Door 0 0 0 24474 0 0
+~
+~
+Door 1 0 0 24488 0 0
+~
+~
+Door 2 0 0 24472 0 0
+~
+~
+Door 3 0 0 24468 0 0
+~
+~
+End
+
+#24474
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 6
+Door 0 0 0 24475 0 0
+~
+~
+Door 1 0 0 24487 0 0
+~
+~
+Door 2 0 0 24473 0 0
+~
+~
+Door 3 0 0 24467 0 0
+~
+~
+End
+
+#24475
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 15
+Reset M 24463 1 100
+Reset O 24452 21 1
+Door 0 0 0 24476 0 0
+~
+~
+Door 1 0 0 24486 0 0
+~
+~
+Door 2 0 0 24474 0 0
+~
+~
+Door 3 0 0 24466 0 0
+~
+~
+End
+
+#24476
+Name Adfeida Swamp~
+Descr
+Water seems to be ankle deep in all directions from here. Ahead lie
+several dry islands, or at least they look like they are dry, in this cold
+smokey air, the mist could be playing tricks even on the sharpest eyes. 
+~
+Sector 6
+Door 0 0 0 24477 0 0
+~
+~
+Door 1 0 0 24485 0 0
+~
+~
+Door 2 0 0 24475 0 0
+~
+~
+Door 3 0 0 24465 0 0
+~
+~
+End
+
+#24477
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 6
+Door 0 0 0 24478 0 0
+~
+~
+Door 1 0 0 24484 0 0
+~
+~
+Door 2 0 0 24476 0 0
+~
+~
+Door 3 0 0 24464 0 0
+~
+~
+End
+
+#24478
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 6
+Door 0 0 0 24479 0 0
+~
+~
+Door 1 0 0 24483 0 0
+~
+~
+Door 2 0 0 24477 0 0
+~
+~
+Door 3 0 0 24463 0 0
+~
+~
+End
+
+#24479
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 15
+Door 0 0 0 24480 0 0
+~
+~
+Door 1 0 0 24482 0 0
+~
+~
+Door 2 0 0 24478 0 0
+~
+~
+Door 3 0 0 24462 0 0
+~
+~
+End
+
+#24480
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 15
+Door 1 0 0 24481 0 0
+~
+~
+Door 2 0 0 24479 0 0
+~
+~
+Door 3 0 0 24461 0 0
+~
+~
+End
+
+#24481
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 15
+Reset M 24462 1 100
+Reset O 12554 7 45
+Door 1 0 0 24500 0 0
+~
+~
+Door 2 0 0 24482 0 0
+~
+~
+Door 3 0 0 24480 0 0
+~
+~
+End
+
+#24482
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 15
+Door 0 0 0 24481 0 0
+~
+~
+Door 1 0 0 24499 0 0
+~
+~
+Door 2 0 0 24483 0 0
+~
+~
+Door 3 0 0 24479 0 0
+~
+~
+End
+
+#24483
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 6
+Door 0 0 0 24482 0 0
+~
+~
+Door 1 0 0 24498 0 0
+~
+~
+Door 2 0 0 24484 0 0
+~
+~
+Door 3 0 0 24478 0 0
+~
+~
+End
+
+#24484
+Name Adfeida Swamp~
+Descr
+Clouds overhead look ready to burst down the biggest thunderstorm ever
+created. Air becomes feel with moisture and vapors start rising from the
+swamps. It is rumored that those vapors are the reason why so many brave man
+and women did not come back. But nobody knows for sure because not even one
+returned and told the tale of the Adfeida swamp. 
+~
+Sector 15
+Reset M 24461 1 100
+Door 0 0 0 24483 0 0
+~
+~
+Door 1 0 0 24497 0 0
+~
+~
+Door 2 0 0 24485 0 0
+~
+~
+Door 3 0 0 24477 0 0
+~
+~
+End
+
+#24485
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 6
+Door 0 0 0 24484 0 0
+~
+~
+Door 1 0 0 24496 0 0
+~
+~
+Door 2 0 0 24486 0 0
+~
+~
+Door 3 0 0 24476 0 0
+~
+~
+End
+
+#24486
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 15
+Door 0 0 0 24485 0 0
+~
+~
+Door 1 0 0 24495 0 0
+~
+~
+Door 2 0 0 24487 0 0
+~
+~
+Door 3 0 0 24475 0 0
+~
+~
+End
+
+#24487
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 15
+Reset M 24453 1 100
+Door 0 0 0 24486 0 0
+~
+~
+Door 1 0 0 24494 0 0
+~
+~
+Door 2 0 0 24488 0 0
+~
+~
+Door 3 0 0 24474 0 0
+~
+~
+End
+
+#24488
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 6
+Reset M 24465 1 100
+Door 0 0 0 24487 0 0
+~
+~
+Door 1 0 0 24493 0 0
+~
+~
+Door 2 0 0 24489 0 0
+~
+~
+Door 3 0 0 24473 0 0
+~
+~
+End
+
+#24489
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 6
+Door 0 0 0 24488 0 0
+~
+~
+Door 1 0 0 24492 0 0
+~
+~
+Door 2 0 0 24490 0 0
+~
+~
+Door 3 0 0 24472 0 0
+~
+~
+End
+
+#24490
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 15
+Door 0 0 0 24489 0 0
+~
+~
+Door 1 0 0 24491 0 0
+~
+~
+Door 3 0 0 24471 0 0
+~
+~
+End
+
+#24491
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 15
+Door 0 0 0 24492 0 0
+~
+~
+Door 3 0 0 24490 0 0
+~
+~
+End
+
+#24492
+Name Adfeida Swamp~
+Descr
+Cold rain starts coming down from the sky and lightining can be see
+striking the group far from here. The vapors are suddenly gone and the air
+feels refreshed. However it starts getting cold and shivers start running
+down your spine. Suddenly a crack of thunder goes off right above and rain
+pours on even harder. 
+~
+Sector 6
+Door 0 0 0 24493 0 0
+~
+~
+Door 2 0 0 24491 0 0
+~
+~
+Door 3 0 0 24489 0 0
+~
+~
+End
+
+#24493
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 15
+Door 0 0 0 24494 0 0
+~
+~
+Door 2 0 0 24492 0 0
+~
+~
+Door 3 0 0 24488 0 0
+~
+~
+End
+
+#24494
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 15
+Reset M 24466 1 100
+Door 0 0 0 24495 0 0
+~
+~
+Door 2 0 0 24493 0 0
+~
+~
+Door 3 0 0 24487 0 0
+~
+~
+End
+
+#24495
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 15
+Door 0 0 0 24496 0 0
+~
+~
+Door 2 0 0 24494 0 0
+~
+~
+Door 3 0 0 24486 0 0
+~
+~
+End
+
+#24496
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 6
+Door 0 0 0 24497 0 0
+~
+~
+Door 2 0 0 24495 0 0
+~
+~
+Door 3 0 0 24485 0 0
+~
+~
+End
+
+#24497
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 6
+Door 0 0 0 24498 0 0
+~
+~
+Door 1 0 0 24545 0 0
+~
+~
+Door 2 0 0 24496 0 0
+~
+~
+Door 3 0 0 24484 0 0
+~
+~
+End
+
+#24498
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 6
+Reset M 24465 1 100
+Door 0 0 0 24499 0 0
+~
+~
+Door 1 0 0 24541 0 0
+~
+~
+Door 2 0 0 24497 0 0
+~
+~
+Door 3 0 0 24483 0 0
+~
+~
+End
+
+#24499
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 15
+Door 0 0 0 24500 0 0
+~
+~
+Door 1 0 0 24537 0 0
+~
+~
+Door 2 0 0 24498 0 0
+~
+~
+Door 3 0 0 24482 0 0
+~
+~
+End
+
+#24500
+Name Adfeida Swamp~
+Descr
+The rain keeps on going and its starts getting darker. The wind picks up
+once more, but this time there is a feel death in the air for sure. Perhaps,
+there could be another reason why so many people have vanished in these
+swamps. Then, a gust of wind brings a sounds of howling and something else
+to your ears... 
+~
+Sector 15
+Reset M 24452 1 100
+Door 2 0 0 24499 0 0
+~
+~
+Door 3 0 0 24481 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

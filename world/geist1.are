@@ -1,0 +1,1734 @@
+#AREADATA 
+Name Drow of the Underdark~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe chanting of drow fanatics echo through the caves.~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Munky Kilith~
+VNUMs 15801 15899
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#15801
+Name drow~
+Short a drow~
+Long 
+A drow wanders through here on his way back home.
+~
+Descr
+~
+AMax 3
+NHeight 0
+Affect_By 552
+Money 80
+Level 80
+Sex 1
+MobType 26
+Guard 0
+End
+
+#15802
+Name drow warrior~
+Short a drow warrior~
+Long 
+A drow warrior stands here keeping the slaves in line.
+~
+Descr
+~
+AMax 3
+NHeight 0
+Affect_By 8
+Alignment -200
+Money 100
+Level 100
+Sex 1
+MobType 26
+Guard 0
+RaceHate 134217728
+End
+
+#15803
+Name drizzer~
+Short drizzer the drow gem seller~
+Long 
+Drizzer waits to sell his mighty gems.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Money 100
+Level 100
+MobType 0
+Guard 0
+RaceHate 134217728
+End
+
+#15813
+Name ellizzdt powerful drow mage~
+Short ellizzdt~
+Long 
+Ellizzdt the powerful drow mage is casting a spell.
+~
+Descr
+~
+AMax 1
+NHeight 45
+ActBits 67108866
+Affect_By 680
+Alignment -100
+Money 99
+Level 99
+Sex 2
+MobType 26
+Guard 0
+BCasts flamestrike~
+BCast_P 10
+End
+
+#15817
+Name drow slave master~
+Short the slave master~
+Long 
+The head slave master cracks her whip with vengeance.
+~
+Descr
+~
+AMax 1
+NHeight 50
+Affect_By 520
+Money 90
+Level 90
+Sex 2
+MobType 26
+Guard 0
+End
+
+#15818
+Name drow hunter~
+Short a drow hunter~
+Long 
+A drow hunter wanders here, trying to find prey.
+~
+Descr
+~
+AMax 3
+NHeight 50
+ActBits4 4096
+Affect_By 552
+Money 80
+Level 80
+Sex 1
+MobType 26
+Guard 0
+End
+
+#15819
+Name drow slave~
+Short a drow slave~
+Long 
+A drow slave is here, obeying his master's orders.
+~
+Descr
+~
+AMax 7
+NHeight 50
+Affect_By 520
+Money 90
+Level 90
+Sex 1
+MobType 26
+Guard 0
+End
+
+#15860
+Name large drow guard~
+Short a large drow guard~
+Long 
+A large drow guard stands here glaring at anyone who enters.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 16384
+Affect_By 520
+Money 70
+Level 70
+Sex 1
+MobType 26
+Guard 0
+RaceHate 134217728
+BFlurries 1
+End
+
+#15861
+Name large drow guard~
+Short a large drow guard~
+Long 
+A large drow guard stands here glaring at anyone who enters.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 100
+Level 100
+Sex 1
+MobType 26
+Guard 3
+End
+
+#15862
+Name wise old drow cleric~
+Short a wise old drow cleric~
+Long 
+A wise old drow cleric is praying here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 552
+Money 100
+Level 100
+Sex 2
+MobType 26
+Guard 0
+BCasts searing orb~
+BCasts healing~
+BCasts flamestrike~
+BCast_P 7
+End
+
+#0
+
+
+
+#OBJDATA
+#15801
+Name heart kilith midnight~
+Short a heart of some sort~
+Descr
+A heart beats here.
+[0;36m~
+Type 21
+Extra 805306497
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 500 500 110 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#15802
+Name fire~
+Short a fire~
+Descr
+A [1m[31mf[0m[31mi[1m[31mr[0m[31me [36mcircled in [37ms[1m[30mt[37mo[1m[30mn[37me[1m[30ms[0m[32m.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#15803
+Name drow arm plate armplates APB~
+Short some [1m[30mdark [36md[0m[36mro[1mw [0m[31marmplates[0m~
+Descr
+Some dark drow armplates lie on the ground in the dirt.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 4 0 0 0 0 0 0
+Weight 3
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#15804
+Name dark drow shoulderplate shoulder plate BS~
+Short a [1m[30mdark [1m[36md[0m[36mro[1mw [0m[31mshoulderplate[0m~
+Descr
+A dark looking shoulderplate has been discarded.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 10 10 10 10 10 10
+Weight 2
+Cost 0
+Affect 25 1 1 0 0
+Affect 18 3 1 0 0
+End
+
+#15805
+Name drow elbow elbowpad pad~
+Short a [1m[30mdark [1m[36md[0m[36mro[1mw [0m[31melbowpad[0m~
+Descr
+A dark looking elbowpad has been discarded.
+[0;36m~
+Type 9
+Wear 4194305
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 0 0 0
+Weight 1
+Cost 2000
+Affect 18 3 1 0 0
+Affect 13 4 1 0 0
+End
+
+#15806
+Name dark drow knee kneepad pad~
+Short a [1m[30mdark [1m[36md[0m[36mro[1mw [0m[31mkneepad[0m~
+Descr
+A dark looking kneepad has been discarded.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 2097153
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 10 10 10 10
+Weight 1
+Cost 2000
+Affect 19 1 1 0 0
+Affect 18 3 1 0 0
+End
+
+#15807
+Name green portal~
+Short a [1m[37mglowing [32mgreen[0m[37m portal~
+Descr
+Because the whities whined I added in this portal.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 15804 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#15860
+Name mask spider~
+Short a [0m[35ms[1m[30mp[0m[35mi[1m[30md[0m[35me[1m[30mr[0m mask~
+Descr
+A [35mvelvet[0m-[1m[30mblack[0m[36m cloth mask with spider like legs lies here.
+[0;36m~
+Type 9
+Extra 1
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 5 5 20 20 10 20
+Weight 1
+Cost 1000
+Affect 17 -2 1 0 0
+Affect 14 5 1 0 0
+Affect 13 5 1 0 0
+End
+
+#15862
+Name unholy altar~
+Short an unholy altar~
+Descr
+An unholy altar towers over you in the middle of the floor.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 15863 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#15863
+Name wall~
+Short the wall~
+Descr
+The wall made by Munky and Geist :)
+[0;36m~
+Type 30
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 15862 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#15865
+Name none~
+Short a [1m[31mf[0m[31mir[1m[31me[0m-[1m[31mel[0m[31me[0m[35mme[0m[31mnt[1m[31mal[0m gem~
+Descr
+A redish gem lies here covered in dust.
+[0;36m~
+Type 13
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60 60 50 0 0 0 0 0 0
+Weight 0
+Cost 30000
+End
+
+#15866
+Name drow made piwafwi cloak~
+Short a drow made [1m[34mp[0m[34mi[0m[37mw[1m[30ma[0m[37mf[0m[34mw[1m[34mi[0m~
+Descr
+A drow made cloak lies here.
+[0;36m~
+Type 9
+Extra 2
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 0 0 0 0
+Weight 0
+Cost 30000
+Affect 14 5 1 0 0
+Affect 13 5 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#15801
+Name A Small Cave Entrance~
+Descr
+You come across a small man made passageway. The area around you is tight
+and a stale earthy smell fills your nose. The walls are of pure dirt and
+fragile as if it is going to crumble. You hear scurrying sounds around your
+feet as you stumble on the loose dirt ground. The area ahead of you is
+silent and dark. 
+~
+Flags 12
+Sector 0
+Door 4 0 0 3207 0 0
+~
+~
+Door 5 0 0 15802 0 0
+~
+~
+End
+
+#15802
+Name Within a Small Shaft~
+Descr
+The passageway begins to shrink as you go further down. You feel the
+walls begin to squeeze in on you as you continue down. Scurrying sounds can
+be heard around your feet as you shuffle through the lose dirt ground. 
+~
+Flags 12
+Sector 0
+Door 4 0 0 15801 0 0
+~
+~
+Door 5 0 0 15803 0 0
+~
+~
+End
+
+#15803
+Name Within a Small Shaft~
+Descr
+The passageway begins to shrink as you go further down. You feel the
+walls begin to squeeze in on you as you continue down. Scurrying sounds can
+be heard around your feet as you shuffle through the loose dirt ground. 
+~
+Flags 12
+Sector 0
+Door 4 0 0 15802 0 0
+~
+~
+Door 5 0 0 15804 0 0
+~
+~
+End
+
+#15804
+Name Bottom of the Shaft~
+Descr
+The passageway reaches its narrowest point as you squeeze your way
+through a small crevice ahead of you. There is a slight breeze pushing past
+you as it makes its way to the ground above. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15805 0 0
+~
+~
+Door 4 0 0 15803 0 0
+~
+~
+End
+
+#15805
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15806 0 0
+~
+~
+Door 2 0 0 15804 0 0
+~
+~
+End
+
+#15806
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15807 0 0
+~
+~
+Door 2 0 0 15805 0 0
+~
+~
+End
+
+#15807
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15808 0 0
+~
+~
+Door 2 0 0 15806 0 0
+~
+~
+End
+
+#15808
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 2 0 0 15807 0 0
+~
+~
+Door 3 0 0 15809 0 0
+~
+~
+End
+
+#15809
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 1 0 0 15808 0 0
+~
+~
+Door 3 0 0 15810 0 0
+~
+~
+End
+
+#15810
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 1 0 0 15809 0 0
+~
+~
+Door 3 0 0 15811 0 0
+~
+~
+End
+
+#15811
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15812 0 0
+~
+~
+Door 1 0 0 15810 0 0
+~
+~
+End
+
+#15812
+Name A Small Crevice~
+Descr
+The walls are tight on either side of you as you slowly make your way
+through the long passageway. A strong wind rushes by filling you with
+terror. There is a very dim light just down the hall ahead of you. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 15813 0 0
+~
+~
+Door 2 0 0 15811 0 0
+~
+~
+End
+
+#15813
+Name Before the Practice Grounds~
+Descr
+As you approach a gate you can make out strange shadows ahead of you. If
+it weren't for the light, you would have walked right into two large drows
+blocking the entrance. You wonder what lies ahead of you as you prepare for
+a gorey fight with these two masters of battle. 
+~
+Flags 12
+Sector 0
+Reset M 15860 1 100
+Reset O 15866 -1 10
+Reset M 15860 1 100
+Reset O 15866 -1 10
+Door 0 515 0 15814 30 30
+~
+steel door~
+Door 2 0 0 15812 0 0
+~
+~
+End
+
+#15814
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15802 1 100
+Reset O 15803 -1 3
+Reset M 15801 1 100
+Reset O 15860 -1 25
+Door 0 0 0 15825 0 0
+~
+~
+Door 1 0 0 15815 0 0
+~
+~
+Door 2 515 0 15813 30 30
+~
+steel door~
+End
+
+#15815
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15824 0 0
+~
+~
+Door 1 0 0 15816 0 0
+~
+~
+Door 3 0 0 15814 0 0
+~
+~
+End
+
+#15816
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15823 0 0
+~
+~
+Door 1 0 0 15817 0 0
+~
+~
+Door 3 0 0 15815 0 0
+~
+~
+End
+
+#15817
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15802 1 100
+Reset O 15803 -1 3
+Door 0 0 0 15822 0 0
+~
+~
+Door 1 0 0 15818 0 0
+~
+~
+Door 3 0 0 15816 0 0
+~
+~
+End
+
+#15818
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15821 0 0
+~
+~
+Door 1 0 0 15819 0 0
+~
+~
+Door 3 0 0 15817 0 0
+~
+~
+End
+
+#15819
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15820 0 0
+~
+~
+Door 3 0 0 15818 0 0
+~
+~
+End
+
+#15820
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15831 0 0
+~
+~
+Door 2 0 0 15819 0 0
+~
+~
+Door 3 0 0 15821 0 0
+~
+~
+End
+
+#15821
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15830 0 0
+~
+~
+Door 1 0 0 15820 0 0
+~
+~
+Door 2 0 0 15818 0 0
+~
+~
+Door 3 0 0 15822 0 0
+~
+~
+End
+
+#15822
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15818 1 100
+Reset O 15805 -1 10
+Door 0 0 0 15829 0 0
+~
+~
+Door 1 0 0 15821 0 0
+~
+~
+Door 2 0 0 15817 0 0
+~
+~
+Door 3 0 0 15823 0 0
+~
+~
+End
+
+#15823
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15828 0 0
+~
+~
+Door 1 0 0 15822 0 0
+~
+~
+Door 2 0 0 15816 0 0
+~
+~
+Door 3 0 0 15824 0 0
+~
+~
+End
+
+#15824
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15818 1 100
+Reset O 15806 -1 10
+Door 0 0 0 15827 0 0
+~
+~
+Door 1 0 0 15823 0 0
+~
+~
+Door 2 0 0 15815 0 0
+~
+~
+Door 3 0 0 15825 0 0
+~
+~
+End
+
+#15825
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15826 0 0
+~
+~
+Door 1 0 0 15824 0 0
+~
+~
+Door 2 0 0 15814 0 0
+~
+~
+End
+
+#15826
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15837 0 0
+~
+~
+Door 1 0 0 15827 0 0
+~
+~
+Door 2 0 0 15825 0 0
+~
+~
+End
+
+#15827
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15836 0 0
+~
+~
+Door 1 0 0 15828 0 0
+~
+~
+Door 2 0 0 15824 0 0
+~
+~
+Door 3 0 0 15826 0 0
+~
+~
+End
+
+#15828
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15818 1 100
+Reset O 15805 -1 10
+Door 0 0 0 15835 0 0
+~
+~
+Door 1 0 0 15829 0 0
+~
+~
+Door 2 0 0 15823 0 0
+~
+~
+Door 3 0 0 15827 0 0
+~
+~
+End
+
+#15829
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 25
+Door 0 0 0 15834 0 0
+~
+~
+Door 1 0 0 15830 0 0
+~
+~
+Door 2 0 0 15822 0 0
+~
+~
+Door 3 0 0 15828 0 0
+~
+~
+End
+
+#15830
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15833 0 0
+~
+~
+Door 1 0 0 15831 0 0
+~
+~
+Door 2 0 0 15821 0 0
+~
+~
+Door 3 0 0 15829 0 0
+~
+~
+End
+
+#15831
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15832 0 0
+~
+~
+Door 2 0 0 15820 0 0
+~
+~
+Door 3 0 0 15830 0 0
+~
+~
+End
+
+#15832
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15843 0 0
+~
+~
+Door 2 0 0 15831 0 0
+~
+~
+Door 3 0 0 15833 0 0
+~
+~
+End
+
+#15833
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15817 1 100
+Reset O 15804 4 5
+Door 0 0 0 15842 0 0
+~
+~
+Door 1 0 0 15832 0 0
+~
+~
+Door 2 0 0 15830 0 0
+~
+~
+Door 3 0 0 15834 0 0
+~
+~
+End
+
+#158158
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15859 0 0
+~
+~
+Door 2 0 0 15857 0 0
+~
+~
+End
+
+#15834
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15841 0 0
+~
+~
+Door 1 0 0 15833 0 0
+~
+~
+Door 2 0 0 15829 0 0
+~
+~
+Door 3 0 0 15835 0 0
+~
+~
+End
+
+#15835
+Name A Peaceful Resting Place~
+Descr
+A fire has been set up here to warm tired hunters after practicing. The
+light emitted from the fire stings your eyes, which have become accustomed
+to the darkness. Several stones that have been warmed by the fire are
+circling it, offering a cozy place to rest. 
+~
+Flags 2097165
+Sector 0
+Reset O 15802 -5 100
+Door 0 0 0 15840 0 0
+~
+~
+Door 1 0 0 15834 0 0
+~
+~
+Door 2 0 0 15828 0 0
+~
+~
+Door 3 0 0 15836 0 0
+~
+~
+End
+
+#15836
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15818 1 100
+Reset O 15806 -1 10
+Door 0 0 0 15839 0 0
+~
+~
+Door 1 0 0 15835 0 0
+~
+~
+Door 2 0 0 15827 0 0
+~
+~
+Door 3 0 0 15837 0 0
+~
+~
+End
+
+#15837
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15838 0 0
+~
+~
+Door 1 0 0 15836 0 0
+~
+~
+Door 2 0 0 15826 0 0
+~
+~
+End
+
+#15838
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 3
+Door 0 0 0 15849 0 0
+~
+~
+Door 1 0 0 15839 0 0
+~
+~
+Door 2 0 0 15837 0 0
+~
+~
+End
+
+#15839
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15848 0 0
+~
+~
+Door 1 0 0 15840 0 0
+~
+~
+Door 2 0 0 15836 0 0
+~
+~
+Door 3 0 0 15838 0 0
+~
+~
+End
+
+#15840
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15847 0 0
+~
+~
+Door 1 0 0 15841 0 0
+~
+~
+Door 2 0 0 15835 0 0
+~
+~
+Door 3 0 0 15839 0 0
+~
+~
+End
+
+#15841
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15846 0 0
+~
+~
+Door 1 0 0 15842 0 0
+~
+~
+Door 2 0 0 15834 0 0
+~
+~
+Door 3 0 0 15840 0 0
+~
+~
+End
+
+#15842
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15845 0 0
+~
+~
+Door 1 0 0 15843 0 0
+~
+~
+Door 2 0 0 15833 0 0
+~
+~
+Door 3 0 0 15841 0 0
+~
+~
+End
+
+#15843
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 0 0 0 15844 0 0
+~
+~
+Door 2 0 0 15832 0 0
+~
+~
+Door 3 0 0 15842 0 0
+~
+~
+End
+
+#15844
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 0 259 0 15850 30 30
+~
+stonedoor~
+Door 2 0 0 15843 0 0
+~
+~
+Door 3 0 0 15845 0 0
+~
+~
+End
+
+#15845
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15819 1 100
+Door 1 0 0 15844 0 0
+~
+~
+Door 2 0 0 15842 0 0
+~
+~
+Door 3 0 0 15846 0 0
+~
+~
+End
+
+#15846
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 1 0 0 15845 0 0
+~
+~
+Door 2 0 0 15841 0 0
+~
+~
+Door 3 0 0 15847 0 0
+~
+~
+End
+
+#15847
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 1 0 0 15846 0 0
+~
+~
+Door 2 0 0 15840 0 0
+~
+~
+Door 3 0 0 15848 0 0
+~
+~
+End
+
+#15848
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Door 1 0 0 15847 0 0
+~
+~
+Door 2 0 0 15839 0 0
+~
+~
+Door 3 0 0 15849 0 0
+~
+~
+End
+
+#15849
+Name The Practice Grounds~
+Descr
+This room is overcast with shadows. It is very hard to see beyond its
+boundries without the aide of some sort of light. The air around you carries
+such a strong silence it is near deafening. 
+~
+Flags 13
+Sector 0
+Reset M 15818 1 100
+Reset O 15805 -1 10
+Door 1 0 0 15848 0 0
+~
+~
+Door 2 0 0 15838 0 0
+~
+~
+End
+
+#15850
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15851 0 0
+~
+~
+Door 2 259 0 15844 30 30
+~
+stonedoor~
+End
+
+#15851
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 3
+Door 0 0 0 15852 0 0
+~
+~
+Door 2 0 0 15850 0 0
+~
+~
+End
+
+#15852
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15853 0 0
+~
+~
+Door 2 0 0 15851 0 0
+~
+~
+End
+
+#15853
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15854 0 0
+~
+~
+Door 2 0 0 15852 0 0
+~
+~
+End
+
+#15854
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 3
+Door 2 0 0 15853 0 0
+~
+~
+Door 5 0 0 15855 0 0
+~
+~
+End
+
+#15855
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Door 4 0 0 15854 0 0
+~
+~
+Door 5 0 0 15856 0 0
+~
+~
+End
+
+#15856
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15857 0 0
+~
+~
+Door 4 0 0 15855 0 0
+~
+~
+End
+
+#15857
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 3
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 15856 0 0
+~
+~
+Door 5 0 0 15859 0 0
+~
+~
+End
+
+#15859
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Door 0 0 0 15860 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 4 0 0 15857 0 0
+~
+~
+End
+
+#15860
+Name A Hidden Passage~
+Descr
+As you push through this softly lit passage, you notice its stillness.
+The walls and floor are smooth rock and cool to the touch. You can hear a
+dull chant coming from further down the passage. 
+~
+Flags 13
+Sector 0
+Reset M 15801 1 100
+Reset O 15860 -1 3
+Door 0 3 0 15866 30 30
+~
+old door~
+Door 2 0 0 15859 0 0
+~
+~
+Door 3 0 0 15861 0 0
+~
+~
+End
+
+#15861
+Name A Hidden Gateway~
+Descr
+The hidden passage comes to an end as a large oak door blocks your way.
+There is a beautiful tapestry hanging on the door. You can hear a
+repetitious chant on the other side, sparking your curiousity. 
+~
+Flags 13
+Reset M 15861 1 100
+Door 1 0 0 15860 0 0
+~
+~
+Door 3 3 0 15862 30 30
+~
+oak door~
+End
+
+#15862
+Name A Dark Altar~
+Descr
+Almost immediately you noticed a strong aura of magic about this room.
+Along the walls of this room are several strange magical items. This must be
+a sanctuary of meditation for priests, as there is an altar resonating power
+int he middle of the floor. 
+~
+Flags 13
+Reset O 15807 -5 100
+Reset M 15862 1 100
+Reset O 71 -1 15
+Reset O 15862 -5 100
+Door 1 1 0 15861 30 30
+~
+oak door~
+End
+
+#15863
+Name A Spider's Alcove~
+Descr
+A low chanting can be heard from someplace near, yet no exits can be seen
+through the thick webs. Small amounts of light filters through a hole in the
+ceiling. Thick vines and vegetation cover the west wall. 
+~
+Flags 13
+Reset O 15863 -5 100
+Door 1 259 0 15864 30 30
+~
+spiderweb~
+End
+
+#15864
+Name Chamber of Necromancy~
+Descr
+Fungus upon the walls glow with an unholy seeming light. A feeling of
+dread seems to rise from the room below. What being could reside there?  
+~
+Flags 13
+Door 3 259 0 15863 30 30
+~
+spiderweb~
+Door 5 0 0 15865 0 0
+~
+~
+End
+
+#15865
+Name Chamber of Necromancy~
+Descr
+Great uneasiness settles upon you as you look uopn the mighty Ellizzdt.
+She seems more enthralled in the spell she is casting than in your intrusion
+into her lair. 
+~
+Flags 13
+Reset M 15813 1 100
+Reset O 52 -1 20
+Door 4 0 0 15864 0 0
+~
+~
+End
+
+#15866
+Name Drizzer's Room of Gems~
+Descr
+This room has gem upon gem on the shelves of this room. The room itself
+looks like one giant prisim glowing from the candles glowing off all of the
+gems. Drizzer stands behind the counter welcoming anyone who enters. 
+~
+Flags 8
+Reset M 15803 1 100
+Reset O 55 -1 20
+Door 2 3 0 15860 30 30
+~
+old door~
+End
+
+#0
+
+
+
+#$

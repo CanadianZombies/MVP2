@@ -1,0 +1,7843 @@
+#AREADATA 
+Name The Evil Hunting Grounds~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou feel something slithering up your leg!
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Grumble Porthos~
+VNUMs 4500 4799
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#4500
+Name salamander~
+Short a salamander~
+Long 
+A salamander is here, crawling around in the muck.
+~
+Descr
+~
+AMax 5
+NHeight 2
+Money 60
+Level 60
+MobType 6
+Guard 0
+End
+
+#4501
+Name giant salamander~
+Short a giant salamander~
+Long 
+A larger salamander crawls around, looking for insects.
+~
+Descr
+~
+AMax 3
+NHeight 3
+Money 80
+Level 80
+MobType 6
+Guard 0
+End
+
+#4502
+Name black vulture~
+Short a vulture~
+Long 
+A vulture is here, flying several feet above your head.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Affect_By 524288
+Money 60
+Level 60
+MobType 13
+Guard 0
+End
+
+#4503
+Name giant worm~
+Short a giant worm~
+Long 
+A giant earthworm is here, edging through the marsh.
+~
+Descr
+~
+AMax 3
+NHeight 3
+Money 85
+Level 85
+MobType 6
+Guard 0
+End
+
+#4504
+Name large black vulture~
+Short a large, black vulture~
+Long 
+A large black vulture starts to fly towards you!
+~
+Descr
+~
+AMax 3
+NHeight 5
+Affect_By 524288
+Money 80
+Level 80
+MobType 13
+Guard 0
+End
+
+#4505
+Name black cloaked assassin~
+Short a black cloaked assassin~
+Long 
+An assassin cloaked in black wanders around the marsh.
+~
+Descr
+~
+AMax 2
+NHeight 70
+Affect_By 552
+Money 70
+Level 70
+Sex 1
+MobType 26
+Guard 0
+RaceHate 1049600
+End
+
+#4506
+Name native huntsman~
+Short a native huntsman~
+Long 
+A native hunter is here, searching for dragonkin.
+~
+Descr
+~
+AMax 2
+NHeight 80
+Affect_By 552
+Money 75
+Level 75
+Sex 1
+MobType 0
+Guard 0
+RaceHate 4096
+End
+
+#4507
+Name water snake~
+Short a water snake~
+Long 
+A long water snake slithers across your feet.
+~
+Descr
+~
+AMax 3
+NHeight 5
+Money 80
+Level 80
+MobType 6
+Guard 0
+End
+
+#4508
+Name cobra~
+Short a cobra~
+Long 
+A large cobra bears its fangs and sets to attack!
+~
+Descr
+~
+AMax 3
+NHeight 5
+ActBits 8
+Affect_By 512
+Money 85
+Level 85
+MobType 6
+Guard 0
+End
+
+#4509
+Name jihorn minotaur warrior~
+Short jihorn~
+Long 
+Jihorn the minotaur warrior is on the lookout for good creatures.
+~
+Descr
+~
+AMax 1
+NHeight 182
+Affect_By 554
+Money 135
+Level 135
+Sex 1
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#4510
+Name dwarf child dwarven~
+Short a dwarven child~
+Long 
+A small dwarf has been forced to protect Lord Gith.
+~
+Descr
+~
+AMax 2
+NHeight 37
+ActBits 2
+Money 60
+Level 60
+Sex 1
+MobType 2
+Guard 0
+End
+
+#4511
+Name lord gith~
+Short lord Gith~
+Long 
+Lord Gith is here, overseeing his marsh and watching for good creatures.
+~
+Descr
+~
+AMax 1
+NHeight 273
+ActBits 2
+Affect_By 680
+Alignment 3000
+Money 175
+Level 175
+MobType 0
+Guard 0
+RaceHate 67108864
+End
+
+#4617
+Name ancient hag~
+Short an ancient hag~
+Long 
+An ancient hag of a woman is protecting her domain from good intrusion.
+~
+Descr
+~
+Attackmsg screetch~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 8744
+Alignment -1000
+Money 180
+Level 180
+Sex 2
+MobType 0
+Guard 0
+Spec spec_warrior
+RaceHate 67108864
+BCasts beam~
+BCasts vulnerability~
+BCast_P 15
+BKicks 1
+BFlurries 1
+End
+
+#4659
+Name ticket taker~
+Short a ticket taker~
+Long 
+A ticket taker is sneering at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Money 400
+Level 400
+MobType 0
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+End
+
+#0
+
+
+
+#OBJDATA
+#4505
+Name black cloak long about +10 HP +2 MAGICDAM~
+Short [0ma long, [1m[30mblack[0m cloak~
+Descr
+A long black cloak rests here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 3 1 1 0 0 40 40 0 0
+Weight 1
+Cost 235
+Affect 26 2 1 0 0
+Affect 13 10 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#4506
+Name facepaints paints face +10 HP +5 BS~
+Short some [1m[31mf[0m[31ma[37mc[1m[37me[30mpa[37mi[0m[37mn[31mt[1m[31ms[0m~
+Descr
+Some facepaints lie here.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 0 0 0 0
+Weight 1
+Cost 500
+Affect 18 1 1 0 0
+Affect 13 10 1 0 0
+Affect 25 2 1 0 0
+End
+
+#4509
+Name bloody longsword sword~
+Short [0ma [0m[31mbloody[0m longsword~
+Descr
+A sword dripping with blood rests here.
+[0;36m~
+Type 5
+Extra 541065217
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 3 7 0
+Weight 4
+Cost 5000
+Affect 19 1 1 0 0
+Affect 18 3 1 0 0
+End
+
+#4510
+Name bloody gauntlets hands~
+Short [0msome [0m[31mbloody[0m gauntlets~
+Descr
+A pair of bloody gauntlets lie here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 15 15 40 40 10 10
+Weight 2
+Cost 600
+Affect 18 2 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#4511
+Name chunk obsidian gem~
+Short [0ma chunk of [1m[30mobsidian[0m~
+Descr
+A small chunk of obsidian lies on the ground here.
+[0;36m~
+Type 21
+Extra 514
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 22 75 75 45 0 0 0 0 0 0
+Weight 1
+Cost 2633
+Affect 26 1 1 0 0
+Affect 27 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#4692
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4667 0 0
+~
+~
+Door 1 0 0 4691 0 0
+~
+~
+Door 2 0 0 4707 0 0
+~
+~
+Door 3 0 0 4693 0 0
+~
+~
+End
+
+#4693
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4666 0 0
+~
+~
+Door 1 0 0 4692 0 0
+~
+~
+Door 2 0 0 4706 0 0
+~
+~
+Door 3 0 0 4694 0 0
+~
+~
+End
+
+#4694
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4665 0 0
+~
+~
+Door 1 0 0 4693 0 0
+~
+~
+Door 2 0 0 4705 0 0
+~
+~
+Door 3 0 0 4695 0 0
+~
+~
+End
+
+#4695
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4664 0 0
+~
+~
+Door 1 0 0 4694 0 0
+~
+~
+Door 2 0 0 4704 0 0
+~
+~
+Door 3 0 0 4696 0 0
+~
+~
+End
+
+#4696
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4663 0 0
+~
+~
+Door 1 0 0 4695 0 0
+~
+~
+Door 2 0 0 4703 0 0
+~
+~
+Door 3 0 0 4697 0 0
+~
+~
+End
+
+#4697
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4662 0 0
+~
+~
+Door 1 0 0 4696 0 0
+~
+~
+Door 2 0 0 4702 0 0
+~
+~
+Door 3 0 0 4698 0 0
+~
+~
+End
+
+#4698
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4661 0 0
+~
+~
+Door 1 0 0 4697 0 0
+~
+~
+Door 2 0 0 4701 0 0
+~
+~
+End
+
+#4699
+Name A Long Dock Before the Warf~
+Descr
+A long dock runs to the east and west here. Just off to the West, the
+warf can be seen and some playful banter between the ticket taker and seller
+can be heard. Off to the East the smell of salt, mud, and some other
+undescribable smells fill the air. 
+~
+Flags 1026
+Sector 15
+Door 1 0 0 4657 0 0
+~
+~
+Door 3 0 0 4620 0 0
+~
+~
+End
+
+#4700
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4701 0 0
+~
+~
+Door 2 0 0 4739 0 0
+~
+~
+End
+
+#4701
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4698 0 0
+~
+~
+Door 1 0 0 4702 0 0
+~
+~
+Door 2 0 0 4738 0 0
+~
+~
+Door 3 0 0 4700 0 0
+~
+~
+End
+
+#4702
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4697 0 0
+~
+~
+Door 1 0 0 4703 0 0
+~
+~
+Door 2 0 0 4737 0 0
+~
+~
+Door 3 0 0 4701 0 0
+~
+~
+End
+
+#4703
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4696 0 0
+~
+~
+Door 1 0 0 4704 0 0
+~
+~
+Door 2 0 0 4736 0 0
+~
+~
+Door 3 0 0 4702 0 0
+~
+~
+End
+
+#4704
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4510 2 100
+Door 0 0 0 4695 0 0
+~
+~
+Door 1 0 0 4705 0 0
+~
+~
+Door 2 0 0 4735 0 0
+~
+~
+Door 3 0 0 4703 0 0
+~
+~
+End
+
+#4705
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4694 0 0
+~
+~
+Door 1 0 0 4706 0 0
+~
+~
+Door 2 0 0 4734 0 0
+~
+~
+Door 3 0 0 4704 0 0
+~
+~
+End
+
+#4706
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4693 0 0
+~
+~
+Door 1 0 0 4707 0 0
+~
+~
+Door 2 0 0 4733 0 0
+~
+~
+Door 3 0 0 4705 0 0
+~
+~
+End
+
+#4707
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4500 5 100
+Door 0 0 0 4692 0 0
+~
+~
+Door 1 0 0 4708 0 0
+~
+~
+Door 2 0 0 4732 0 0
+~
+~
+Door 3 0 0 4706 0 0
+~
+~
+End
+
+#4708
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4691 0 0
+~
+~
+Door 1 0 0 4709 0 0
+~
+~
+Door 2 0 0 4731 0 0
+~
+~
+Door 3 0 0 4707 0 0
+~
+~
+End
+
+#4709
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4690 0 0
+~
+~
+Door 1 0 0 4710 0 0
+~
+~
+Door 2 0 0 4730 0 0
+~
+~
+Door 3 0 0 4708 0 0
+~
+~
+End
+
+#4710
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4689 0 0
+~
+~
+Door 1 0 0 4711 0 0
+~
+~
+Door 2 0 0 4729 0 0
+~
+~
+Door 3 0 0 4709 0 0
+~
+~
+End
+
+#4711
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4688 0 0
+~
+~
+Door 1 0 0 4712 0 0
+~
+~
+Door 2 0 0 4728 0 0
+~
+~
+Door 3 0 0 4710 0 0
+~
+~
+End
+
+#4712
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4687 0 0
+~
+~
+Door 1 0 0 4713 0 0
+~
+~
+Door 2 0 0 4727 0 0
+~
+~
+Door 3 0 0 4711 0 0
+~
+~
+End
+
+#4713
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4503 3 100
+Door 0 0 0 4686 0 0
+~
+~
+Door 1 0 0 4714 0 0
+~
+~
+Door 2 0 0 4726 0 0
+~
+~
+Door 3 0 0 4712 0 0
+~
+~
+End
+
+#4714
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4507 3 100
+Door 0 0 0 4685 0 0
+~
+~
+Door 1 0 0 4715 0 0
+~
+~
+Door 2 0 0 4725 0 0
+~
+~
+Door 3 0 0 4713 0 0
+~
+~
+End
+
+#4715
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4684 0 0
+~
+~
+Door 1 0 0 4716 0 0
+~
+~
+Door 2 0 0 4724 0 0
+~
+~
+Door 3 0 0 4714 0 0
+~
+~
+End
+
+#4716
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4683 0 0
+~
+~
+Door 1 0 0 4717 0 0
+~
+~
+Door 2 0 0 4723 0 0
+~
+~
+Door 3 0 0 4715 0 0
+~
+~
+End
+
+#4717
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4682 0 0
+~
+~
+Door 1 0 0 4718 0 0
+~
+~
+Door 2 0 0 4722 0 0
+~
+~
+Door 3 0 0 4716 0 0
+~
+~
+End
+
+#4718
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4681 0 0
+~
+~
+Door 1 0 0 4719 0 0
+~
+~
+Door 2 0 0 4721 0 0
+~
+~
+Door 3 0 0 4717 0 0
+~
+~
+End
+
+#4719
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4680 0 0
+~
+~
+Door 2 0 0 4720 0 0
+~
+~
+Door 3 0 0 4718 0 0
+~
+~
+End
+
+#4720
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4719 0 0
+~
+~
+Door 2 0 0 4759 0 0
+~
+~
+Door 3 0 0 4721 0 0
+~
+~
+End
+
+#4721
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4718 0 0
+~
+~
+Door 1 0 0 4720 0 0
+~
+~
+Door 2 0 0 4758 0 0
+~
+~
+Door 3 0 0 4722 0 0
+~
+~
+End
+
+#4722
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4717 0 0
+~
+~
+Door 1 0 0 4721 0 0
+~
+~
+Door 2 0 0 4757 0 0
+~
+~
+Door 3 0 0 4723 0 0
+~
+~
+End
+
+#4723
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4716 0 0
+~
+~
+Door 1 0 0 4722 0 0
+~
+~
+Door 2 0 0 4756 0 0
+~
+~
+Door 3 0 0 4724 0 0
+~
+~
+End
+
+#4724
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4715 0 0
+~
+~
+Door 1 0 0 4723 0 0
+~
+~
+Door 2 0 0 4755 0 0
+~
+~
+Door 3 0 0 4725 0 0
+~
+~
+End
+
+#4725
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4714 0 0
+~
+~
+Door 1 0 0 4724 0 0
+~
+~
+Door 2 0 0 4754 0 0
+~
+~
+Door 3 0 0 4726 0 0
+~
+~
+End
+
+#4726
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4713 0 0
+~
+~
+Door 1 0 0 4725 0 0
+~
+~
+Door 2 0 0 4753 0 0
+~
+~
+Door 3 0 0 4727 0 0
+~
+~
+End
+
+#4727
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4502 5 100
+Reset M 4500 5 100
+Door 0 0 0 4712 0 0
+~
+~
+Door 1 0 0 4726 0 0
+~
+~
+Door 2 0 0 4752 0 0
+~
+~
+Door 3 0 0 4728 0 0
+~
+~
+End
+
+#4728
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4508 3 100
+Door 0 0 0 4711 0 0
+~
+~
+Door 1 0 0 4727 0 0
+~
+~
+Door 2 0 0 4751 0 0
+~
+~
+Door 3 0 0 4729 0 0
+~
+~
+End
+
+#4729
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4710 0 0
+~
+~
+Door 1 0 0 4728 0 0
+~
+~
+Door 2 0 0 4750 0 0
+~
+~
+Door 3 0 0 4730 0 0
+~
+~
+End
+
+#4730
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4709 0 0
+~
+~
+Door 1 0 0 4729 0 0
+~
+~
+Door 2 0 0 4749 0 0
+~
+~
+Door 3 0 0 4731 0 0
+~
+~
+End
+
+#4731
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4501 3 100
+Door 0 0 0 4708 0 0
+~
+~
+Door 1 0 0 4730 0 0
+~
+~
+Door 2 0 0 4748 0 0
+~
+~
+Door 3 0 0 4732 0 0
+~
+~
+End
+
+#4732
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4707 0 0
+~
+~
+Door 1 0 0 4731 0 0
+~
+~
+Door 2 0 0 4747 0 0
+~
+~
+Door 3 0 0 4733 0 0
+~
+~
+End
+
+#4733
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4706 0 0
+~
+~
+Door 1 0 0 4732 0 0
+~
+~
+Door 2 0 0 4746 0 0
+~
+~
+Door 3 0 0 4734 0 0
+~
+~
+End
+
+#4734
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4510 2 100
+Reset M 4502 5 100
+Door 0 0 0 4705 0 0
+~
+~
+Door 1 0 0 4733 0 0
+~
+~
+Door 2 0 0 4745 0 0
+~
+~
+Door 3 0 0 4735 0 0
+~
+~
+End
+
+#4735
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4511 1 100
+Reset O 4511 -1 10
+Door 0 0 0 4704 0 0
+~
+~
+Door 1 0 0 4734 0 0
+~
+~
+Door 2 0 0 4744 0 0
+~
+~
+Door 3 0 0 4736 0 0
+~
+~
+End
+
+#4736
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4703 0 0
+~
+~
+Door 1 0 0 4735 0 0
+~
+~
+Door 2 0 0 4743 0 0
+~
+~
+Door 3 0 0 4737 0 0
+~
+~
+End
+
+#4737
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4702 0 0
+~
+~
+Door 1 0 0 4736 0 0
+~
+~
+Door 2 0 0 4742 0 0
+~
+~
+Door 3 0 0 4738 0 0
+~
+~
+End
+
+#4738
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4701 0 0
+~
+~
+Door 1 0 0 4737 0 0
+~
+~
+Door 2 0 0 4741 0 0
+~
+~
+Door 3 0 0 4739 0 0
+~
+~
+End
+
+#4739
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4700 0 0
+~
+~
+Door 1 0 0 4738 0 0
+~
+~
+Door 2 0 0 4740 0 0
+~
+~
+End
+
+#4740
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4739 0 0
+~
+~
+Door 1 0 0 4741 0 0
+~
+~
+Door 2 0 0 4779 0 0
+~
+~
+End
+
+#4741
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4738 0 0
+~
+~
+Door 1 0 0 4742 0 0
+~
+~
+Door 2 0 0 4778 0 0
+~
+~
+Door 3 0 0 4740 0 0
+~
+~
+End
+
+#4742
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4737 0 0
+~
+~
+Door 1 0 0 4743 0 0
+~
+~
+Door 2 0 0 4777 0 0
+~
+~
+Door 3 0 0 4741 0 0
+~
+~
+End
+
+#4743
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4736 0 0
+~
+~
+Door 1 0 0 4744 0 0
+~
+~
+Door 2 0 0 4776 0 0
+~
+~
+Door 3 0 0 4742 0 0
+~
+~
+End
+
+#4744
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4735 0 0
+~
+~
+Door 1 0 0 4745 0 0
+~
+~
+Door 2 0 0 4775 0 0
+~
+~
+Door 3 0 0 4743 0 0
+~
+~
+End
+
+#4745
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4734 0 0
+~
+~
+Door 1 0 0 4746 0 0
+~
+~
+Door 2 0 0 4774 0 0
+~
+~
+Door 3 0 0 4744 0 0
+~
+~
+End
+
+#4746
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4507 3 100
+Door 0 0 0 4733 0 0
+~
+~
+Door 1 0 0 4747 0 0
+~
+~
+Door 2 0 0 4773 0 0
+~
+~
+Door 3 0 0 4745 0 0
+~
+~
+End
+
+#4747
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4732 0 0
+~
+~
+Door 1 0 0 4748 0 0
+~
+~
+Door 2 0 0 4772 0 0
+~
+~
+Door 3 0 0 4746 0 0
+~
+~
+End
+
+#4748
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4731 0 0
+~
+~
+Door 1 0 0 4749 0 0
+~
+~
+Door 2 0 0 4771 0 0
+~
+~
+Door 3 0 0 4747 0 0
+~
+~
+End
+
+#4749
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4506 2 100
+Reset O 4506 25 5
+Door 0 0 0 4730 0 0
+~
+~
+Door 1 0 0 4750 0 0
+~
+~
+Door 2 0 0 4770 0 0
+~
+~
+Door 3 0 0 4748 0 0
+~
+~
+End
+
+#4750
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4504 3 100
+Door 0 0 0 4729 0 0
+~
+~
+Door 1 0 0 4751 0 0
+~
+~
+Door 2 0 0 4769 0 0
+~
+~
+Door 3 0 0 4749 0 0
+~
+~
+End
+
+#4751
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4728 0 0
+~
+~
+Door 1 0 0 4752 0 0
+~
+~
+Door 2 0 0 4768 0 0
+~
+~
+Door 3 0 0 4750 0 0
+~
+~
+End
+
+#4752
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4727 0 0
+~
+~
+Door 1 0 0 4753 0 0
+~
+~
+Door 2 0 0 4767 0 0
+~
+~
+Door 3 0 0 4751 0 0
+~
+~
+End
+
+#4753
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4726 0 0
+~
+~
+Door 1 0 0 4754 0 0
+~
+~
+Door 2 0 0 4766 0 0
+~
+~
+Door 3 0 0 4752 0 0
+~
+~
+End
+
+#4754
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4725 0 0
+~
+~
+Door 1 0 0 4755 0 0
+~
+~
+Door 2 0 0 4765 0 0
+~
+~
+Door 3 0 0 4753 0 0
+~
+~
+End
+
+#4755
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4724 0 0
+~
+~
+Door 1 0 0 4756 0 0
+~
+~
+Door 2 0 0 4764 0 0
+~
+~
+Door 3 0 0 4754 0 0
+~
+~
+End
+
+#4756
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4723 0 0
+~
+~
+Door 1 0 0 4757 0 0
+~
+~
+Door 2 0 0 4763 0 0
+~
+~
+Door 3 0 0 4755 0 0
+~
+~
+End
+
+#4757
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4722 0 0
+~
+~
+Door 1 0 0 4758 0 0
+~
+~
+Door 2 0 0 4762 0 0
+~
+~
+Door 3 0 0 4756 0 0
+~
+~
+End
+
+#4758
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4721 0 0
+~
+~
+Door 1 0 0 4759 0 0
+~
+~
+Door 2 0 0 4761 0 0
+~
+~
+Door 3 0 0 4757 0 0
+~
+~
+End
+
+#4759
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4720 0 0
+~
+~
+Door 2 0 0 4760 0 0
+~
+~
+Door 3 0 0 4758 0 0
+~
+~
+End
+
+#4760
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4759 0 0
+~
+~
+Door 2 0 0 4799 0 0
+~
+~
+Door 3 0 0 4761 0 0
+~
+~
+End
+
+#4761
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4758 0 0
+~
+~
+Door 1 0 0 4760 0 0
+~
+~
+Door 2 0 0 4798 0 0
+~
+~
+Door 3 0 0 4762 0 0
+~
+~
+End
+
+#4762
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4757 0 0
+~
+~
+Door 1 0 0 4761 0 0
+~
+~
+Door 2 0 0 4797 0 0
+~
+~
+Door 3 0 0 4763 0 0
+~
+~
+End
+
+#4763
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4756 0 0
+~
+~
+Door 1 0 0 4762 0 0
+~
+~
+Door 2 0 0 4796 0 0
+~
+~
+Door 3 0 0 4764 0 0
+~
+~
+End
+
+#4764
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4755 0 0
+~
+~
+Door 1 0 0 4763 0 0
+~
+~
+Door 2 0 0 4795 0 0
+~
+~
+Door 3 0 0 4765 0 0
+~
+~
+End
+
+#4765
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4754 0 0
+~
+~
+Door 1 0 0 4764 0 0
+~
+~
+Door 2 0 0 4794 0 0
+~
+~
+Door 3 0 0 4766 0 0
+~
+~
+End
+
+#4766
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4753 0 0
+~
+~
+Door 1 0 0 4765 0 0
+~
+~
+Door 2 0 0 4793 0 0
+~
+~
+Door 3 0 0 4767 0 0
+~
+~
+End
+
+#4767
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4752 0 0
+~
+~
+Door 1 0 0 4766 0 0
+~
+~
+Door 2 0 0 4792 0 0
+~
+~
+Door 3 0 0 4768 0 0
+~
+~
+End
+
+#4768
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4751 0 0
+~
+~
+Door 1 0 0 4767 0 0
+~
+~
+Door 2 0 0 4791 0 0
+~
+~
+Door 3 0 0 4769 0 0
+~
+~
+End
+
+#4769
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4750 0 0
+~
+~
+Door 1 0 0 4768 0 0
+~
+~
+Door 2 0 0 4790 0 0
+~
+~
+Door 3 0 0 4770 0 0
+~
+~
+End
+
+#4770
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4749 0 0
+~
+~
+Door 1 0 0 4769 0 0
+~
+~
+Door 2 0 0 4789 0 0
+~
+~
+Door 3 0 0 4771 0 0
+~
+~
+End
+
+#4771
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4748 0 0
+~
+~
+Door 1 0 0 4770 0 0
+~
+~
+Door 2 0 0 4788 0 0
+~
+~
+Door 3 0 0 4772 0 0
+~
+~
+End
+
+#4772
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4747 0 0
+~
+~
+Door 1 0 0 4771 0 0
+~
+~
+Door 2 0 0 4787 0 0
+~
+~
+Door 3 0 0 4773 0 0
+~
+~
+End
+
+#4773
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4746 0 0
+~
+~
+Door 1 0 0 4772 0 0
+~
+~
+Door 2 0 0 4786 0 0
+~
+~
+Door 3 0 0 4774 0 0
+~
+~
+End
+
+#4774
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4745 0 0
+~
+~
+Door 1 0 0 4773 0 0
+~
+~
+Door 2 0 0 4785 0 0
+~
+~
+Door 3 0 0 4775 0 0
+~
+~
+End
+
+#4775
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4744 0 0
+~
+~
+Door 1 0 0 4774 0 0
+~
+~
+Door 2 0 0 4784 0 0
+~
+~
+Door 3 0 0 4776 0 0
+~
+~
+End
+
+#4776
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4743 0 0
+~
+~
+Door 1 0 0 4775 0 0
+~
+~
+Door 2 0 0 4783 0 0
+~
+~
+Door 3 0 0 4777 0 0
+~
+~
+End
+
+#4777
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4742 0 0
+~
+~
+Door 1 0 0 4776 0 0
+~
+~
+Door 2 0 0 4782 0 0
+~
+~
+Door 3 0 0 4778 0 0
+~
+~
+End
+
+#4778
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4741 0 0
+~
+~
+Door 1 0 0 4777 0 0
+~
+~
+Door 2 0 0 4781 0 0
+~
+~
+Door 3 0 0 4779 0 0
+~
+~
+End
+
+#4779
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4740 0 0
+~
+~
+Door 1 0 0 4778 0 0
+~
+~
+Door 2 0 0 4780 0 0
+~
+~
+End
+
+#4780
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4779 0 0
+~
+~
+Door 1 0 0 4781 0 0
+~
+~
+End
+
+#4781
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4778 0 0
+~
+~
+Door 1 0 0 4782 0 0
+~
+~
+Door 3 0 0 4780 0 0
+~
+~
+End
+
+#4782
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4777 0 0
+~
+~
+Door 1 0 0 4783 0 0
+~
+~
+Door 3 0 0 4781 0 0
+~
+~
+End
+
+#4783
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4776 0 0
+~
+~
+Door 1 0 0 4784 0 0
+~
+~
+Door 3 0 0 4782 0 0
+~
+~
+End
+
+#4784
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4775 0 0
+~
+~
+Door 1 0 0 4785 0 0
+~
+~
+Door 3 0 0 4783 0 0
+~
+~
+End
+
+#4785
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4774 0 0
+~
+~
+Door 1 0 0 4786 0 0
+~
+~
+Door 3 0 0 4784 0 0
+~
+~
+End
+
+#4786
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4773 0 0
+~
+~
+Door 1 0 0 4787 0 0
+~
+~
+Door 3 0 0 4785 0 0
+~
+~
+End
+
+#4787
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4772 0 0
+~
+~
+Door 1 0 0 4788 0 0
+~
+~
+Door 3 0 0 4786 0 0
+~
+~
+End
+
+#4788
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4771 0 0
+~
+~
+Door 1 0 0 4789 0 0
+~
+~
+Door 3 0 0 4787 0 0
+~
+~
+End
+
+#4789
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4770 0 0
+~
+~
+Door 1 0 0 4790 0 0
+~
+~
+Door 3 0 0 4788 0 0
+~
+~
+End
+
+#4790
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4769 0 0
+~
+~
+Door 1 0 0 4791 0 0
+~
+~
+Door 3 0 0 4789 0 0
+~
+~
+End
+
+#4791
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4768 0 0
+~
+~
+Door 1 0 0 4792 0 0
+~
+~
+Door 3 0 0 4790 0 0
+~
+~
+End
+
+#4792
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4767 0 0
+~
+~
+Door 1 0 0 4793 0 0
+~
+~
+Door 3 0 0 4791 0 0
+~
+~
+End
+
+#4793
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4766 0 0
+~
+~
+Door 1 0 0 4794 0 0
+~
+~
+Door 3 0 0 4792 0 0
+~
+~
+End
+
+#4794
+Name The Evil Hunting Grounds~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4765 0 0
+~
+~
+Door 1 0 0 4795 0 0
+~
+~
+Door 3 0 0 4793 0 0
+~
+~
+End
+
+#4795
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4764 0 0
+~
+~
+Door 1 0 0 4796 0 0
+~
+~
+Door 3 0 0 4794 0 0
+~
+~
+End
+
+#4796
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4763 0 0
+~
+~
+Door 1 0 0 4797 0 0
+~
+~
+Door 3 0 0 4795 0 0
+~
+~
+End
+
+#4797
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4762 0 0
+~
+~
+Door 1 0 0 4798 0 0
+~
+~
+Door 3 0 0 4796 0 0
+~
+~
+End
+
+#4798
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4761 0 0
+~
+~
+Door 1 0 0 4799 0 0
+~
+~
+Door 3 0 0 4797 0 0
+~
+~
+End
+
+#4799
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4760 0 0
+~
+~
+Door 3 0 0 4798 0 0
+~
+~
+End
+
+#4500
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4501 0 0
+~
+~
+Door 2 0 0 4539 0 0
+~
+~
+End
+
+#4501
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4502 0 0
+~
+~
+Door 2 0 0 4538 0 0
+~
+~
+Door 3 0 0 4500 0 0
+~
+~
+End
+
+#4502
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4503 0 0
+~
+~
+Door 2 0 0 4537 0 0
+~
+~
+Door 3 0 0 4501 0 0
+~
+~
+End
+
+#4503
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4504 0 0
+~
+~
+Door 2 0 0 4536 0 0
+~
+~
+Door 3 0 0 4502 0 0
+~
+~
+End
+
+#4504
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4505 0 0
+~
+~
+Door 2 0 0 4535 0 0
+~
+~
+Door 3 0 0 4503 0 0
+~
+~
+End
+
+#4505
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4506 0 0
+~
+~
+Door 2 0 0 4534 0 0
+~
+~
+Door 3 0 0 4504 0 0
+~
+~
+End
+
+#4506
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4507 0 0
+~
+~
+Door 2 0 0 4533 0 0
+~
+~
+Door 3 0 0 4505 0 0
+~
+~
+End
+
+#4507
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4508 0 0
+~
+~
+Door 2 0 0 4532 0 0
+~
+~
+Door 3 0 0 4506 0 0
+~
+~
+End
+
+#4508
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4509 0 0
+~
+~
+Door 2 0 0 4531 0 0
+~
+~
+Door 3 0 0 4507 0 0
+~
+~
+End
+
+#4509
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4510 0 0
+~
+~
+Door 2 0 0 4530 0 0
+~
+~
+Door 3 0 0 4508 0 0
+~
+~
+End
+
+#4510
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4511 0 0
+~
+~
+Door 2 0 0 4529 0 0
+~
+~
+Door 3 0 0 4509 0 0
+~
+~
+End
+
+#4511
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4512 0 0
+~
+~
+Door 2 0 0 4528 0 0
+~
+~
+Door 3 0 0 4510 0 0
+~
+~
+End
+
+#4512
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4513 0 0
+~
+~
+Door 2 0 0 4527 0 0
+~
+~
+Door 3 0 0 4511 0 0
+~
+~
+End
+
+#4513
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4514 0 0
+~
+~
+Door 2 0 0 4526 0 0
+~
+~
+Door 3 0 0 4512 0 0
+~
+~
+End
+
+#4514
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4515 0 0
+~
+~
+Door 2 0 0 4525 0 0
+~
+~
+Door 3 0 0 4513 0 0
+~
+~
+End
+
+#4515
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4516 0 0
+~
+~
+Door 2 0 0 4524 0 0
+~
+~
+Door 3 0 0 4514 0 0
+~
+~
+End
+
+#4516
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4517 0 0
+~
+~
+Door 2 0 0 4523 0 0
+~
+~
+Door 3 0 0 4515 0 0
+~
+~
+End
+
+#4517
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4518 0 0
+~
+~
+Door 2 0 0 4522 0 0
+~
+~
+Door 3 0 0 4516 0 0
+~
+~
+End
+
+#4518
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 1 0 0 4519 0 0
+~
+~
+Door 2 0 0 4521 0 0
+~
+~
+Door 3 0 0 4517 0 0
+~
+~
+End
+
+#4519
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 2 0 0 4520 0 0
+~
+~
+Door 3 0 0 4518 0 0
+~
+~
+End
+
+#4520
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4519 0 0
+~
+~
+Door 2 0 0 4559 0 0
+~
+~
+Door 3 0 0 4521 0 0
+~
+~
+End
+
+#4521
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4518 0 0
+~
+~
+Door 1 0 0 4520 0 0
+~
+~
+Door 2 0 0 4558 0 0
+~
+~
+Door 3 0 0 4522 0 0
+~
+~
+End
+
+#4522
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4517 0 0
+~
+~
+Door 1 0 0 4521 0 0
+~
+~
+Door 2 0 0 4557 0 0
+~
+~
+Door 3 0 0 4523 0 0
+~
+~
+End
+
+#4523
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4516 0 0
+~
+~
+Door 1 0 0 4522 0 0
+~
+~
+Door 2 0 0 4556 0 0
+~
+~
+Door 3 0 0 4524 0 0
+~
+~
+End
+
+#4524
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4515 0 0
+~
+~
+Door 1 0 0 4523 0 0
+~
+~
+Door 2 0 0 4555 0 0
+~
+~
+Door 3 0 0 4525 0 0
+~
+~
+End
+
+#4525
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4514 0 0
+~
+~
+Door 1 0 0 4524 0 0
+~
+~
+Door 2 0 0 4554 0 0
+~
+~
+Door 3 0 0 4526 0 0
+~
+~
+End
+
+#4526
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4513 0 0
+~
+~
+Door 1 0 0 4525 0 0
+~
+~
+Door 2 0 0 4553 0 0
+~
+~
+Door 3 0 0 4527 0 0
+~
+~
+End
+
+#4527
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4512 0 0
+~
+~
+Door 1 0 0 4526 0 0
+~
+~
+Door 2 0 0 4552 0 0
+~
+~
+Door 3 0 0 4528 0 0
+~
+~
+End
+
+#4528
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4511 0 0
+~
+~
+Door 1 0 0 4527 0 0
+~
+~
+Door 2 0 0 4551 0 0
+~
+~
+Door 3 0 0 4529 0 0
+~
+~
+End
+
+#4529
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4510 0 0
+~
+~
+Door 1 0 0 4528 0 0
+~
+~
+Door 2 0 0 4550 0 0
+~
+~
+Door 3 0 0 4530 0 0
+~
+~
+End
+
+#4530
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4509 0 0
+~
+~
+Door 1 0 0 4529 0 0
+~
+~
+Door 2 0 0 4549 0 0
+~
+~
+Door 3 0 0 4531 0 0
+~
+~
+End
+
+#4531
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4508 0 0
+~
+~
+Door 1 0 0 4530 0 0
+~
+~
+Door 2 0 0 4548 0 0
+~
+~
+Door 3 0 0 4532 0 0
+~
+~
+End
+
+#4532
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4507 0 0
+~
+~
+Door 1 0 0 4531 0 0
+~
+~
+Door 2 0 0 4547 0 0
+~
+~
+Door 3 0 0 4533 0 0
+~
+~
+End
+
+#4533
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4506 0 0
+~
+~
+Door 1 0 0 4532 0 0
+~
+~
+Door 2 0 0 4546 0 0
+~
+~
+Door 3 0 0 4534 0 0
+~
+~
+End
+
+#4534
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4505 0 0
+~
+~
+Door 1 0 0 4533 0 0
+~
+~
+Door 2 0 0 4545 0 0
+~
+~
+Door 3 0 0 4535 0 0
+~
+~
+End
+
+#4535
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4504 0 0
+~
+~
+Door 1 0 0 4534 0 0
+~
+~
+Door 2 0 0 4544 0 0
+~
+~
+Door 3 0 0 4536 0 0
+~
+~
+End
+
+#4536
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4503 0 0
+~
+~
+Door 1 0 0 4535 0 0
+~
+~
+Door 2 0 0 4543 0 0
+~
+~
+Door 3 0 0 4537 0 0
+~
+~
+End
+
+#4537
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4502 0 0
+~
+~
+Door 1 0 0 4536 0 0
+~
+~
+Door 2 0 0 4542 0 0
+~
+~
+Door 3 0 0 4538 0 0
+~
+~
+End
+
+#4538
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4501 0 0
+~
+~
+Door 1 0 0 4537 0 0
+~
+~
+Door 2 0 0 4541 0 0
+~
+~
+Door 3 0 0 4539 0 0
+~
+~
+End
+
+#4539
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4500 0 0
+~
+~
+Door 1 0 0 4538 0 0
+~
+~
+Door 2 0 0 4540 0 0
+~
+~
+End
+
+#4540
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4539 0 0
+~
+~
+Door 1 0 0 4541 0 0
+~
+~
+Door 2 0 0 4579 0 0
+~
+~
+End
+
+#4541
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4538 0 0
+~
+~
+Door 1 0 0 4542 0 0
+~
+~
+Door 2 0 0 4578 0 0
+~
+~
+Door 3 0 0 4540 0 0
+~
+~
+End
+
+#4542
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4537 0 0
+~
+~
+Door 1 0 0 4543 0 0
+~
+~
+Door 2 0 0 4577 0 0
+~
+~
+Door 3 0 0 4541 0 0
+~
+~
+End
+
+#4543
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4536 0 0
+~
+~
+Door 1 0 0 4544 0 0
+~
+~
+Door 2 0 0 4576 0 0
+~
+~
+Door 3 0 0 4542 0 0
+~
+~
+End
+
+#4544
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4500 5 100
+Door 0 0 0 4535 0 0
+~
+~
+Door 1 0 0 4545 0 0
+~
+~
+Door 2 0 0 4575 0 0
+~
+~
+Door 3 0 0 4543 0 0
+~
+~
+End
+
+#4545
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4534 0 0
+~
+~
+Door 1 0 0 4546 0 0
+~
+~
+Door 2 0 0 4574 0 0
+~
+~
+Door 3 0 0 4544 0 0
+~
+~
+End
+
+#4546
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4533 0 0
+~
+~
+Door 1 0 0 4547 0 0
+~
+~
+Door 2 0 0 4573 0 0
+~
+~
+Door 3 0 0 4545 0 0
+~
+~
+End
+
+#4547
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4503 3 100
+Door 0 0 0 4532 0 0
+~
+~
+Door 1 0 0 4548 0 0
+~
+~
+Door 2 0 0 4572 0 0
+~
+~
+Door 3 0 0 4546 0 0
+~
+~
+End
+
+#4548
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4531 0 0
+~
+~
+Door 1 0 0 4549 0 0
+~
+~
+Door 2 0 0 4571 0 0
+~
+~
+Door 3 0 0 4547 0 0
+~
+~
+End
+
+#4549
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4506 2 100
+Reset O 4506 25 5
+Door 0 0 0 4530 0 0
+~
+~
+Door 1 0 0 4550 0 0
+~
+~
+Door 2 0 0 4570 0 0
+~
+~
+Door 3 0 0 4548 0 0
+~
+~
+End
+
+#4550
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4529 0 0
+~
+~
+Door 1 0 0 4551 0 0
+~
+~
+Door 2 0 0 4569 0 0
+~
+~
+Door 3 0 0 4549 0 0
+~
+~
+End
+
+#4551
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4528 0 0
+~
+~
+Door 1 0 0 4552 0 0
+~
+~
+Door 2 0 0 4568 0 0
+~
+~
+Door 3 0 0 4550 0 0
+~
+~
+End
+
+#4552
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4502 5 100
+Door 0 0 0 4527 0 0
+~
+~
+Door 1 0 0 4553 0 0
+~
+~
+Door 2 0 0 4567 0 0
+~
+~
+Door 3 0 0 4551 0 0
+~
+~
+End
+
+#4553
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4526 0 0
+~
+~
+Door 1 0 0 4554 0 0
+~
+~
+Door 2 0 0 4566 0 0
+~
+~
+Door 3 0 0 4552 0 0
+~
+~
+End
+
+#4554
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4525 0 0
+~
+~
+Door 1 0 0 4555 0 0
+~
+~
+Door 2 0 0 4565 0 0
+~
+~
+Door 3 0 0 4553 0 0
+~
+~
+End
+
+#4555
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4524 0 0
+~
+~
+Door 1 0 0 4556 0 0
+~
+~
+Door 2 0 0 4564 0 0
+~
+~
+Door 3 0 0 4554 0 0
+~
+~
+End
+
+#4556
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4523 0 0
+~
+~
+Door 1 0 0 4557 0 0
+~
+~
+Door 2 0 0 4563 0 0
+~
+~
+Door 3 0 0 4555 0 0
+~
+~
+End
+
+#4557
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4522 0 0
+~
+~
+Door 1 0 0 4558 0 0
+~
+~
+Door 2 0 0 4562 0 0
+~
+~
+Door 3 0 0 4556 0 0
+~
+~
+End
+
+#4558
+Name Shore of a Marshy Island~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4521 0 0
+~
+~
+Door 1 0 0 4559 0 0
+~
+~
+Door 2 0 0 4561 0 0
+~
+~
+Door 3 0 0 4557 0 0
+~
+~
+End
+
+#4559
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4520 0 0
+~
+~
+Door 2 0 0 4560 0 0
+~
+~
+Door 3 0 0 4558 0 0
+~
+~
+End
+
+#4560
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4559 0 0
+~
+~
+Door 2 0 0 4599 0 0
+~
+~
+Door 3 0 0 4561 0 0
+~
+~
+End
+
+#4561
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4558 0 0
+~
+~
+Door 1 0 0 4560 0 0
+~
+~
+Door 2 0 0 4598 0 0
+~
+~
+Door 3 0 0 4562 0 0
+~
+~
+End
+
+#4562
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4557 0 0
+~
+~
+Door 1 0 0 4561 0 0
+~
+~
+Door 2 0 0 4597 0 0
+~
+~
+Door 3 0 0 4563 0 0
+~
+~
+End
+
+#4563
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4556 0 0
+~
+~
+Door 1 0 0 4562 0 0
+~
+~
+Door 2 0 0 4596 0 0
+~
+~
+Door 3 0 0 4564 0 0
+~
+~
+End
+
+#4564
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4555 0 0
+~
+~
+Door 1 0 0 4563 0 0
+~
+~
+Door 2 0 0 4595 0 0
+~
+~
+Door 3 0 0 4565 0 0
+~
+~
+End
+
+#4565
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4554 0 0
+~
+~
+Door 1 0 0 4564 0 0
+~
+~
+Door 2 0 0 4594 0 0
+~
+~
+Door 3 0 0 4566 0 0
+~
+~
+End
+
+#4566
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4553 0 0
+~
+~
+Door 1 0 0 4565 0 0
+~
+~
+Door 2 0 0 4593 0 0
+~
+~
+Door 3 0 0 4567 0 0
+~
+~
+End
+
+#4567
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4552 0 0
+~
+~
+Door 1 0 0 4566 0 0
+~
+~
+Door 2 0 0 4592 0 0
+~
+~
+Door 3 0 0 4568 0 0
+~
+~
+End
+
+#4568
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4551 0 0
+~
+~
+Door 1 0 0 4567 0 0
+~
+~
+Door 2 0 0 4591 0 0
+~
+~
+Door 3 0 0 4569 0 0
+~
+~
+End
+
+#4569
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4550 0 0
+~
+~
+Door 1 0 0 4568 0 0
+~
+~
+Door 2 0 0 4590 0 0
+~
+~
+Door 3 0 0 4570 0 0
+~
+~
+End
+
+#4570
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4549 0 0
+~
+~
+Door 1 0 0 4569 0 0
+~
+~
+Door 2 0 0 4589 0 0
+~
+~
+Door 3 0 0 4571 0 0
+~
+~
+End
+
+#4571
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4548 0 0
+~
+~
+Door 1 0 0 4570 0 0
+~
+~
+Door 2 0 0 4588 0 0
+~
+~
+Door 3 0 0 4572 0 0
+~
+~
+End
+
+#4572
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4547 0 0
+~
+~
+Door 1 0 0 4571 0 0
+~
+~
+Door 2 0 0 4587 0 0
+~
+~
+Door 3 0 0 4573 0 0
+~
+~
+End
+
+#4573
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4546 0 0
+~
+~
+Door 1 0 0 4572 0 0
+~
+~
+Door 2 0 0 4586 0 0
+~
+~
+Door 3 0 0 4574 0 0
+~
+~
+End
+
+#4574
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4545 0 0
+~
+~
+Door 1 0 0 4573 0 0
+~
+~
+Door 2 0 0 4585 0 0
+~
+~
+Door 3 0 0 4575 0 0
+~
+~
+End
+
+#4575
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4544 0 0
+~
+~
+Door 1 0 0 4574 0 0
+~
+~
+Door 2 0 0 4584 0 0
+~
+~
+Door 3 0 0 4576 0 0
+~
+~
+End
+
+#4576
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4543 0 0
+~
+~
+Door 1 0 0 4575 0 0
+~
+~
+Door 2 0 0 4583 0 0
+~
+~
+Door 3 0 0 4577 0 0
+~
+~
+End
+
+#4577
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4542 0 0
+~
+~
+Door 1 0 0 4576 0 0
+~
+~
+Door 2 0 0 4582 0 0
+~
+~
+Door 3 0 0 4578 0 0
+~
+~
+End
+
+#4578
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4541 0 0
+~
+~
+Door 1 0 0 4577 0 0
+~
+~
+Door 2 0 0 4581 0 0
+~
+~
+Door 3 0 0 4579 0 0
+~
+~
+End
+
+#4579
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4540 0 0
+~
+~
+Door 1 0 0 4578 0 0
+~
+~
+Door 2 0 0 4580 0 0
+~
+~
+End
+
+#4580
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4579 0 0
+~
+~
+Door 1 0 0 4581 0 0
+~
+~
+Door 2 0 0 4619 0 0
+~
+~
+End
+
+#4581
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4578 0 0
+~
+~
+Door 1 0 0 4582 0 0
+~
+~
+Door 2 0 0 4618 0 0
+~
+~
+Door 3 0 0 4580 0 0
+~
+~
+End
+
+#4582
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4577 0 0
+~
+~
+Door 1 0 0 4583 0 0
+~
+~
+Door 2 0 0 4617 0 0
+~
+~
+Door 3 0 0 4581 0 0
+~
+~
+End
+
+#4583
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4576 0 0
+~
+~
+Door 1 0 0 4584 0 0
+~
+~
+Door 2 0 0 4616 0 0
+~
+~
+Door 3 0 0 4582 0 0
+~
+~
+End
+
+#4584
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4575 0 0
+~
+~
+Door 1 0 0 4585 0 0
+~
+~
+Door 2 0 0 4615 0 0
+~
+~
+Door 3 0 0 4583 0 0
+~
+~
+End
+
+#4585
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4574 0 0
+~
+~
+Door 1 0 0 4586 0 0
+~
+~
+Door 2 0 0 4614 0 0
+~
+~
+Door 3 0 0 4584 0 0
+~
+~
+End
+
+#4586
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4573 0 0
+~
+~
+Door 1 0 0 4587 0 0
+~
+~
+Door 2 0 0 4613 0 0
+~
+~
+Door 3 0 0 4585 0 0
+~
+~
+End
+
+#4587
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4572 0 0
+~
+~
+Door 1 0 0 4588 0 0
+~
+~
+Door 2 0 0 4612 0 0
+~
+~
+Door 3 0 0 4586 0 0
+~
+~
+End
+
+#4588
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4500 1 100
+Door 0 0 0 4571 0 0
+~
+~
+Door 1 0 0 4589 0 0
+~
+~
+Door 2 0 0 4611 0 0
+~
+~
+Door 3 0 0 4587 0 0
+~
+~
+End
+
+#4589
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4570 0 0
+~
+~
+Door 1 0 0 4590 0 0
+~
+~
+Door 2 0 0 4610 0 0
+~
+~
+Door 3 0 0 4588 0 0
+~
+~
+End
+
+#4590
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4569 0 0
+~
+~
+Door 1 0 0 4591 0 0
+~
+~
+Door 2 0 0 4609 0 0
+~
+~
+Door 3 0 0 4589 0 0
+~
+~
+End
+
+#4591
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4504 3 100
+Door 0 0 0 4568 0 0
+~
+~
+Door 1 0 0 4592 0 0
+~
+~
+Door 2 0 0 4608 0 0
+~
+~
+Door 3 0 0 4590 0 0
+~
+~
+End
+
+#4592
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4567 0 0
+~
+~
+Door 1 0 0 4593 0 0
+~
+~
+Door 2 0 0 4607 0 0
+~
+~
+Door 3 0 0 4591 0 0
+~
+~
+End
+
+#4593
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4500 5 100
+Door 0 0 0 4566 0 0
+~
+~
+Door 1 0 0 4594 0 0
+~
+~
+Door 2 0 0 4606 0 0
+~
+~
+Door 3 0 0 4592 0 0
+~
+~
+End
+
+#4594
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4565 0 0
+~
+~
+Door 1 0 0 4595 0 0
+~
+~
+Door 2 0 0 4605 0 0
+~
+~
+Door 3 0 0 4593 0 0
+~
+~
+End
+
+#4595
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4564 0 0
+~
+~
+Door 1 0 0 4596 0 0
+~
+~
+Door 2 0 0 4604 0 0
+~
+~
+Door 3 0 0 4594 0 0
+~
+~
+End
+
+#4596
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4563 0 0
+~
+~
+Door 1 0 0 4597 0 0
+~
+~
+Door 2 0 0 4603 0 0
+~
+~
+Door 3 0 0 4595 0 0
+~
+~
+End
+
+#4597
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4562 0 0
+~
+~
+Door 1 0 0 4598 0 0
+~
+~
+Door 2 0 0 4602 0 0
+~
+~
+Door 3 0 0 4596 0 0
+~
+~
+End
+
+#4598
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4561 0 0
+~
+~
+Door 1 0 0 4599 0 0
+~
+~
+Door 2 0 0 4601 0 0
+~
+~
+Door 3 0 0 4597 0 0
+~
+~
+End
+
+#4599
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4560 0 0
+~
+~
+Door 2 0 0 4600 0 0
+~
+~
+Door 3 0 0 4598 0 0
+~
+~
+End
+
+#4600
+Name The Evil Hunting Grounds~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4599 0 0
+~
+~
+Door 2 0 0 4639 0 0
+~
+~
+Door 3 0 0 4601 0 0
+~
+~
+End
+
+#4601
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4598 0 0
+~
+~
+Door 1 0 0 4600 0 0
+~
+~
+Door 2 0 0 4638 0 0
+~
+~
+Door 3 0 0 4602 0 0
+~
+~
+End
+
+#4602
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4597 0 0
+~
+~
+Door 1 0 0 4601 0 0
+~
+~
+Door 2 0 0 4637 0 0
+~
+~
+Door 3 0 0 4603 0 0
+~
+~
+End
+
+#4603
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4596 0 0
+~
+~
+Door 1 0 0 4602 0 0
+~
+~
+Door 2 0 0 4636 0 0
+~
+~
+Door 3 0 0 4604 0 0
+~
+~
+End
+
+#4604
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4595 0 0
+~
+~
+Door 1 0 0 4603 0 0
+~
+~
+Door 2 0 0 4635 0 0
+~
+~
+Door 3 0 0 4605 0 0
+~
+~
+End
+
+#4605
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4594 0 0
+~
+~
+Door 1 0 0 4604 0 0
+~
+~
+Door 2 0 0 4634 0 0
+~
+~
+Door 3 0 0 4606 0 0
+~
+~
+End
+
+#4606
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4593 0 0
+~
+~
+Door 1 0 0 4605 0 0
+~
+~
+Door 2 0 0 4633 0 0
+~
+~
+Door 3 0 0 4607 0 0
+~
+~
+End
+
+#4607
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4592 0 0
+~
+~
+Door 1 0 0 4606 0 0
+~
+~
+Door 2 0 0 4632 0 0
+~
+~
+Door 3 0 0 4608 0 0
+~
+~
+End
+
+#4608
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4591 0 0
+~
+~
+Door 1 0 0 4607 0 0
+~
+~
+Door 2 0 0 4631 0 0
+~
+~
+Door 3 0 0 4609 0 0
+~
+~
+End
+
+#4609
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4590 0 0
+~
+~
+Door 1 0 0 4608 0 0
+~
+~
+Door 2 0 0 4630 0 0
+~
+~
+Door 3 0 0 4610 0 0
+~
+~
+End
+
+#4610
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4508 3 100
+Door 0 0 0 4589 0 0
+~
+~
+Door 1 0 0 4609 0 0
+~
+~
+Door 2 0 0 4629 0 0
+~
+~
+Door 3 0 0 4611 0 0
+~
+~
+End
+
+#4611
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4588 0 0
+~
+~
+Door 1 0 0 4610 0 0
+~
+~
+Door 2 0 0 4628 0 0
+~
+~
+Door 3 0 0 4612 0 0
+~
+~
+End
+
+#4612
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4587 0 0
+~
+~
+Door 1 0 0 4611 0 0
+~
+~
+Door 2 0 0 4627 0 0
+~
+~
+Door 3 0 0 4613 0 0
+~
+~
+End
+
+#4613
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4586 0 0
+~
+~
+Door 1 0 0 4612 0 0
+~
+~
+Door 2 0 0 4626 0 0
+~
+~
+Door 3 0 0 4614 0 0
+~
+~
+End
+
+#4614
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4585 0 0
+~
+~
+Door 1 0 0 4613 0 0
+~
+~
+Door 2 0 0 4625 0 0
+~
+~
+Door 3 0 0 4615 0 0
+~
+~
+End
+
+#4615
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4584 0 0
+~
+~
+Door 1 0 0 4614 0 0
+~
+~
+Door 2 0 0 4624 0 0
+~
+~
+Door 3 0 0 4616 0 0
+~
+~
+End
+
+#4616
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4583 0 0
+~
+~
+Door 1 0 0 4615 0 0
+~
+~
+Door 2 0 0 4623 0 0
+~
+~
+Door 3 0 0 4617 0 0
+~
+~
+End
+
+#4617
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4582 0 0
+~
+~
+Door 1 0 0 4616 0 0
+~
+~
+Door 2 0 0 4622 0 0
+~
+~
+Door 3 0 0 4618 0 0
+~
+~
+End
+
+#4618
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4581 0 0
+~
+~
+Door 1 0 0 4617 0 0
+~
+~
+Door 2 0 0 4621 0 0
+~
+~
+Door 3 0 0 4619 0 0
+~
+~
+End
+
+#4619
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4580 0 0
+~
+~
+Door 1 0 0 4618 0 0
+~
+~
+End
+
+#4620
+Name A Long Dock Before the Warf~
+Descr
+A long dock runs to the east and west here. Just off to the West, the
+warf can be seen and some playful banter between the ticket taker and seller
+can be heard. Off to the East the smell of salt, mud, and some other
+undescribable smells fill the air. 
+~
+Flags 1024
+Sector 15
+Door 1 0 0 4699 0 0
+~
+~
+Door 3 0 0 4660 0 0
+~
+~
+End
+
+#4621
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4618 0 0
+~
+~
+Door 1 0 0 4622 0 0
+~
+~
+End
+
+#4622
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4617 0 0
+~
+~
+Door 1 0 0 4623 0 0
+~
+~
+Door 2 0 0 4657 0 0
+~
+~
+Door 3 0 0 4621 0 0
+~
+~
+End
+
+#4623
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4616 0 0
+~
+~
+Door 1 0 0 4624 0 0
+~
+~
+Door 2 0 0 4656 0 0
+~
+~
+Door 3 0 0 4622 0 0
+~
+~
+End
+
+#4624
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4501 3 100
+Door 0 0 0 4615 0 0
+~
+~
+Door 1 0 0 4625 0 0
+~
+~
+Door 2 0 0 4655 0 0
+~
+~
+Door 3 0 0 4623 0 0
+~
+~
+End
+
+#4625
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4614 0 0
+~
+~
+Door 1 0 0 4626 0 0
+~
+~
+Door 2 0 0 4654 0 0
+~
+~
+Door 3 0 0 4624 0 0
+~
+~
+End
+
+#4626
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4502 5 100
+Door 0 0 0 4613 0 0
+~
+~
+Door 1 0 0 4627 0 0
+~
+~
+Door 2 0 0 4653 0 0
+~
+~
+Door 3 0 0 4625 0 0
+~
+~
+End
+
+#4627
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4612 0 0
+~
+~
+Door 1 0 0 4628 0 0
+~
+~
+Door 2 0 0 4652 0 0
+~
+~
+Door 3 0 0 4626 0 0
+~
+~
+End
+
+#4628
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4611 0 0
+~
+~
+Door 1 0 0 4629 0 0
+~
+~
+Door 2 0 0 4651 0 0
+~
+~
+Door 3 0 0 4627 0 0
+~
+~
+End
+
+#4629
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4610 0 0
+~
+~
+Door 1 0 0 4630 0 0
+~
+~
+Door 2 0 0 4650 0 0
+~
+~
+Door 3 0 0 4628 0 0
+~
+~
+End
+
+#4630
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4609 0 0
+~
+~
+Door 1 0 0 4631 0 0
+~
+~
+Door 2 0 0 4649 0 0
+~
+~
+Door 3 0 0 4629 0 0
+~
+~
+End
+
+#4631
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4608 0 0
+~
+~
+Door 1 0 0 4632 0 0
+~
+~
+Door 2 0 0 4648 0 0
+~
+~
+Door 3 0 0 4630 0 0
+~
+~
+End
+
+#4632
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4607 0 0
+~
+~
+Door 1 0 0 4633 0 0
+~
+~
+Door 2 0 0 4647 0 0
+~
+~
+Door 3 0 0 4631 0 0
+~
+~
+End
+
+#4633
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4606 0 0
+~
+~
+Door 1 0 0 4634 0 0
+~
+~
+Door 2 0 0 4646 0 0
+~
+~
+Door 3 0 0 4632 0 0
+~
+~
+End
+
+#4634
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4605 0 0
+~
+~
+Door 1 0 0 4635 0 0
+~
+~
+Door 2 0 0 4645 0 0
+~
+~
+Door 3 0 0 4633 0 0
+~
+~
+End
+
+#4635
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4604 0 0
+~
+~
+Door 1 0 0 4636 0 0
+~
+~
+Door 2 0 0 4644 0 0
+~
+~
+Door 3 0 0 4634 0 0
+~
+~
+End
+
+#4636
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4603 0 0
+~
+~
+Door 1 0 0 4637 0 0
+~
+~
+Door 2 0 0 4643 0 0
+~
+~
+Door 3 0 0 4635 0 0
+~
+~
+End
+
+#4637
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4602 0 0
+~
+~
+Door 1 0 0 4638 0 0
+~
+~
+Door 2 0 0 4642 0 0
+~
+~
+Door 3 0 0 4636 0 0
+~
+~
+End
+
+#4638
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4601 0 0
+~
+~
+Door 1 0 0 4639 0 0
+~
+~
+Door 2 0 0 4641 0 0
+~
+~
+Door 3 0 0 4637 0 0
+~
+~
+End
+
+#4639
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4600 0 0
+~
+~
+Door 2 0 0 4640 0 0
+~
+~
+Door 3 0 0 4638 0 0
+~
+~
+End
+
+#4640
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4639 0 0
+~
+~
+Door 2 0 0 4679 0 0
+~
+~
+Door 3 0 0 4641 0 0
+~
+~
+End
+
+#4641
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4638 0 0
+~
+~
+Door 1 0 0 4640 0 0
+~
+~
+Door 2 0 0 4678 0 0
+~
+~
+Door 3 0 0 4642 0 0
+~
+~
+End
+
+#4642
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4637 0 0
+~
+~
+Door 1 0 0 4641 0 0
+~
+~
+Door 2 0 0 4677 0 0
+~
+~
+Door 3 0 0 4643 0 0
+~
+~
+End
+
+#4643
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4636 0 0
+~
+~
+Door 1 0 0 4642 0 0
+~
+~
+Door 2 0 0 4676 0 0
+~
+~
+Door 3 0 0 4644 0 0
+~
+~
+End
+
+#4644
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4505 2 100
+Reset O 4505 11 7
+Door 0 0 0 4635 0 0
+~
+~
+Door 1 0 0 4643 0 0
+~
+~
+Door 2 0 0 4675 0 0
+~
+~
+Door 3 0 0 4645 0 0
+~
+~
+End
+
+#4645
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4634 0 0
+~
+~
+Door 1 0 0 4644 0 0
+~
+~
+Door 2 0 0 4674 0 0
+~
+~
+Door 3 0 0 4646 0 0
+~
+~
+End
+
+#4646
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4508 3 100
+Reset M 4502 5 100
+Door 0 0 0 4633 0 0
+~
+~
+Door 1 0 0 4645 0 0
+~
+~
+Door 2 0 0 4673 0 0
+~
+~
+Door 3 0 0 4647 0 0
+~
+~
+End
+
+#4647
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4632 0 0
+~
+~
+Door 1 0 0 4646 0 0
+~
+~
+Door 2 0 0 4672 0 0
+~
+~
+Door 3 0 0 4648 0 0
+~
+~
+End
+
+#4648
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4631 0 0
+~
+~
+Door 1 0 0 4647 0 0
+~
+~
+Door 2 0 0 4671 0 0
+~
+~
+Door 3 0 0 4649 0 0
+~
+~
+End
+
+#4649
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4509 1 100
+Reset O 4510 8 5
+Reset O 4509 21 1
+Door 0 0 0 4630 0 0
+~
+~
+Door 1 0 0 4648 0 0
+~
+~
+Door 2 0 0 4670 0 0
+~
+~
+Door 3 0 0 4650 0 0
+~
+~
+End
+
+#4650
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4617 1 100
+Door 0 0 0 4629 0 0
+~
+~
+Door 1 0 0 4649 0 0
+~
+~
+Door 2 0 0 4669 0 0
+~
+~
+Door 3 0 0 4651 0 0
+~
+~
+End
+
+#4651
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4628 0 0
+~
+~
+Door 1 0 0 4650 0 0
+~
+~
+Door 2 0 0 4668 0 0
+~
+~
+Door 3 0 0 4652 0 0
+~
+~
+End
+
+#4652
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4507 3 100
+Door 0 0 0 4627 0 0
+~
+~
+Door 1 0 0 4651 0 0
+~
+~
+Door 2 0 0 4667 0 0
+~
+~
+Door 3 0 0 4653 0 0
+~
+~
+End
+
+#4653
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4626 0 0
+~
+~
+Door 1 0 0 4652 0 0
+~
+~
+Door 2 0 0 4666 0 0
+~
+~
+Door 3 0 0 4654 0 0
+~
+~
+End
+
+#4654
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4625 0 0
+~
+~
+Door 1 0 0 4653 0 0
+~
+~
+Door 2 0 0 4665 0 0
+~
+~
+Door 3 0 0 4655 0 0
+~
+~
+End
+
+#4655
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4624 0 0
+~
+~
+Door 1 0 0 4654 0 0
+~
+~
+Door 2 0 0 4664 0 0
+~
+~
+Door 3 0 0 4656 0 0
+~
+~
+End
+
+#4656
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4505 2 100
+Reset O 4505 11 7
+Door 0 0 0 4623 0 0
+~
+~
+Door 1 0 0 4655 0 0
+~
+~
+Door 2 0 0 4663 0 0
+~
+~
+Door 3 0 0 4657 0 0
+~
+~
+End
+
+#4657
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4622 0 0
+~
+~
+Door 1 0 0 4656 0 0
+~
+~
+Door 2 0 0 4662 0 0
+~
+~
+Door 3 0 0 4699 0 0
+~
+~
+End
+
+#4658
+Name A Wharf~
+Descr
+You are standing in front of a large wharf. There is a ticket booth which
+seems to sell tickets for a ferry. You suddenly smell something rotten and
+you wonder what else is in the water.
+~
+Flags 2098176
+Sector 15
+Reset M 3699 1 100
+Reset O 3699 100 100
+Door 1 0 0 4660 0 0
+~
+~
+Door 3 0 0 4659 0 0
+~
+~
+End
+
+#4659
+Name A Dock~
+Descr
+You are standing on the dock to an ocean ferry. The ticket taker is
+staring at you with a look of disgust. 
+ 
+The ticket taker mumbles something about landlubbers.
+~
+Flags 2098176
+Sector 15
+Reset M 4659 1 100
+Door 1 0 0 4658 0 0
+~
+~
+Door 3 259 0 4909 30 30
+~
+~
+End
+
+#4660
+Name A Long Dock Before the Warf~
+Descr
+A long dock runs to the east and west here. Just off to the West, the
+warf can be seen and some playful banter between the ticket taker and seller
+can be heard. Off to the East the smell of salt, mud, and some other
+undescribable smells fill the air. 
+~
+Flags 1024
+Sector 15
+Door 1 0 0 4620 0 0
+~
+~
+Door 3 0 0 4658 0 0
+~
+~
+End
+
+#4661
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 1 0 0 4662 0 0
+~
+~
+Door 2 0 0 4698 0 0
+~
+~
+End
+
+#4662
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4657 0 0
+~
+~
+Door 1 0 0 4663 0 0
+~
+~
+Door 2 0 0 4697 0 0
+~
+~
+Door 3 0 0 4661 0 0
+~
+~
+End
+
+#4663
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4656 0 0
+~
+~
+Door 1 0 0 4664 0 0
+~
+~
+Door 2 0 0 4696 0 0
+~
+~
+Door 3 0 0 4662 0 0
+~
+~
+End
+
+#4664
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4655 0 0
+~
+~
+Door 1 0 0 4665 0 0
+~
+~
+Door 2 0 0 4695 0 0
+~
+~
+Door 3 0 0 4663 0 0
+~
+~
+End
+
+#4665
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4654 0 0
+~
+~
+Door 1 0 0 4666 0 0
+~
+~
+Door 2 0 0 4694 0 0
+~
+~
+Door 3 0 0 4664 0 0
+~
+~
+End
+
+#4666
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4653 0 0
+~
+~
+Door 1 0 0 4667 0 0
+~
+~
+Door 2 0 0 4693 0 0
+~
+~
+Door 3 0 0 4665 0 0
+~
+~
+End
+
+#4667
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4504 3 100
+Door 0 0 0 4652 0 0
+~
+~
+Door 1 0 0 4668 0 0
+~
+~
+Door 2 0 0 4692 0 0
+~
+~
+Door 3 0 0 4666 0 0
+~
+~
+End
+
+#4668
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4503 3 100
+Door 0 0 0 4651 0 0
+~
+~
+Door 1 0 0 4669 0 0
+~
+~
+Door 2 0 0 4691 0 0
+~
+~
+Door 3 0 0 4667 0 0
+~
+~
+End
+
+#4669
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4650 0 0
+~
+~
+Door 1 0 0 4670 0 0
+~
+~
+Door 2 0 0 4690 0 0
+~
+~
+Door 3 0 0 4668 0 0
+~
+~
+End
+
+#4670
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4649 0 0
+~
+~
+Door 1 0 0 4671 0 0
+~
+~
+Door 2 0 0 4689 0 0
+~
+~
+Door 3 0 0 4669 0 0
+~
+~
+End
+
+#4671
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4648 0 0
+~
+~
+Door 1 0 0 4672 0 0
+~
+~
+Door 2 0 0 4688 0 0
+~
+~
+Door 3 0 0 4670 0 0
+~
+~
+End
+
+#4672
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4647 0 0
+~
+~
+Door 1 0 0 4673 0 0
+~
+~
+Door 2 0 0 4687 0 0
+~
+~
+Door 3 0 0 4671 0 0
+~
+~
+End
+
+#4673
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4646 0 0
+~
+~
+Door 1 0 0 4674 0 0
+~
+~
+Door 2 0 0 4686 0 0
+~
+~
+Door 3 0 0 4672 0 0
+~
+~
+End
+
+#4674
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Reset M 4501 3 100
+Door 0 0 0 4645 0 0
+~
+~
+Door 1 0 0 4675 0 0
+~
+~
+Door 2 0 0 4685 0 0
+~
+~
+Door 3 0 0 4673 0 0
+~
+~
+End
+
+#4675
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4644 0 0
+~
+~
+Door 1 0 0 4676 0 0
+~
+~
+Door 2 0 0 4684 0 0
+~
+~
+Door 3 0 0 4674 0 0
+~
+~
+End
+
+#4676
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4643 0 0
+~
+~
+Door 1 0 0 4677 0 0
+~
+~
+Door 2 0 0 4683 0 0
+~
+~
+Door 3 0 0 4675 0 0
+~
+~
+End
+
+#4677
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4642 0 0
+~
+~
+Door 1 0 0 4678 0 0
+~
+~
+Door 2 0 0 4682 0 0
+~
+~
+Door 3 0 0 4676 0 0
+~
+~
+End
+
+#4678
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4641 0 0
+~
+~
+Door 1 0 0 4679 0 0
+~
+~
+Door 2 0 0 4681 0 0
+~
+~
+Door 3 0 0 4677 0 0
+~
+~
+End
+
+#4679
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4640 0 0
+~
+~
+Door 2 0 0 4680 0 0
+~
+~
+Door 3 0 0 4678 0 0
+~
+~
+End
+
+#4680
+Name Just Offshore an Island~
+Descr
+You are standing offshore a good-sized island. The water here is shallow
+and murky, you can't even see the bottom. The island appears to be a marsh,
+with many creatures dwelling within it. Suddenly, you hear a loud bang then
+a shrill scream coming from the island, this doesn't look like a place you
+want to be alone in. 
+~
+Flags 1024
+Sector 6
+Door 0 0 0 4679 0 0
+~
+~
+Door 2 0 0 4719 0 0
+~
+~
+Door 3 0 0 4681 0 0
+~
+~
+End
+
+#4681
+Name Shore of a Marshy Island~
+Descr
+You are standing on the shoreline of a marshy island. The air here is
+damp, and you have to move around to keep from sinking into the mud. Screams
+can be heard from within the island, along with some sort of explosion.
+Mosquitos and other insects buzz around your head. All of a sudden a giant
+salamander scurries by your feet, what could have frightened that creature? 
+~
+Flags 1024
+Sector 12
+Door 0 0 0 4678 0 0
+~
+~
+Door 1 0 0 4680 0 0
+~
+~
+Door 2 0 0 4718 0 0
+~
+~
+Door 3 0 0 4682 0 0
+~
+~
+End
+
+#4682
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4677 0 0
+~
+~
+Door 1 0 0 4681 0 0
+~
+~
+Door 2 0 0 4717 0 0
+~
+~
+Door 3 0 0 4683 0 0
+~
+~
+End
+
+#4683
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4676 0 0
+~
+~
+Door 1 0 0 4682 0 0
+~
+~
+Door 2 0 0 4716 0 0
+~
+~
+Door 3 0 0 4684 0 0
+~
+~
+End
+
+#4684
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4675 0 0
+~
+~
+Door 1 0 0 4683 0 0
+~
+~
+Door 2 0 0 4715 0 0
+~
+~
+Door 3 0 0 4685 0 0
+~
+~
+End
+
+#4685
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4674 0 0
+~
+~
+Door 1 0 0 4684 0 0
+~
+~
+Door 2 0 0 4714 0 0
+~
+~
+Door 3 0 0 4686 0 0
+~
+~
+End
+
+#4686
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4673 0 0
+~
+~
+Door 1 0 0 4685 0 0
+~
+~
+Door 2 0 0 4713 0 0
+~
+~
+Door 3 0 0 4687 0 0
+~
+~
+End
+
+#4687
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4672 0 0
+~
+~
+Door 1 0 0 4686 0 0
+~
+~
+Door 2 0 0 4712 0 0
+~
+~
+Door 3 0 0 4688 0 0
+~
+~
+End
+
+#4688
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4671 0 0
+~
+~
+Door 1 0 0 4687 0 0
+~
+~
+Door 2 0 0 4711 0 0
+~
+~
+Door 3 0 0 4689 0 0
+~
+~
+End
+
+#4689
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4670 0 0
+~
+~
+Door 1 0 0 4688 0 0
+~
+~
+Door 2 0 0 4710 0 0
+~
+~
+Door 3 0 0 4690 0 0
+~
+~
+End
+
+#4690
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4669 0 0
+~
+~
+Door 1 0 0 4689 0 0
+~
+~
+Door 2 0 0 4709 0 0
+~
+~
+Door 3 0 0 4691 0 0
+~
+~
+End
+
+#4691
+Name The Evil Hunting Grounds~
+Descr
+You are in a gloomy marsh. You hear screams in the distance, and you
+think you see some lights in the distance. This is definitely not a place
+you want to get lost in. You suddenly see a giant six foot long salamander
+run by your feet at a tremendous speed. You wonder what could possibly have
+frightened that creature so badly. You hear some deep breathing and feel
+like you are being watched. 
+~
+Flags 1024
+Sector 15
+Door 0 0 0 4668 0 0
+~
+~
+Door 1 0 0 4690 0 0
+~
+~
+Door 2 0 0 4708 0 0
+~
+~
+Door 3 0 0 4692 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,4030 @@
+#AREADATA 
+Name Caverns of Ashmere~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou feel as if someone has just pin-pointed your exact location...
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Hydroponic Bevier~
+VNUMs 16501 16999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#16501
+Name golem pride~
+Short a golem of pride~
+Long 
+A golem of pride is here proudly guarding the door.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 2
+ActBits3 2
+Affect_By 168
+Money 50
+Level 50
+MobType 10
+Guard 0
+End
+
+#16502
+Name golem fear~
+Short a golem of fear~
+Long 
+A golem of fear is here looking right into your soul.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 2
+ActBits3 2
+Affect_By 168
+Money 50
+Level 50
+MobType 10
+Guard 0
+End
+
+#16503
+Name knight darkness~
+Short a knight of darkness~
+Long 
+A knight of darkness is here gazing at you.
+~
+Descr
+~
+AMax 4
+NHeight 73
+ActBits 2
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#16504
+Name guardian knight~
+Short a guardian knight~
+Long 
+A guardian knight is here watching for intruders.
+~
+Descr
+~
+AMax 2
+NHeight 73
+ActBits 2
+ActBits3 2
+Affect_By 40
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#16505
+Name knight goodness~
+Short a knight of goodness~
+Long 
+A knight of goodness is here looking for evil to slay.
+~
+Descr
+~
+AMax 6
+NHeight 73
+ActBits 2
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#16506
+Name spirit ashmere~
+Short a floating spirit~
+Long 
+The spirit of Ashmere is floating here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 680
+Money 75
+Level 75
+MobType 21
+Guard 4
+BKicks 1
+BFlurries 1
+End
+
+#16507
+Name golem Fire~
+Short a golem of fire~
+Long 
+A golem of fire is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 110
+ActBits 2
+Affect_By 128
+Money 160
+Level 160
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#16508
+Name granite golem~
+Short a golem~
+Long 
+A Golem made from finely carved granite is here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 67108866
+ActBits3 2
+Affect_By 520
+Money 75
+Level 75
+MobType 10
+Guard 0
+End
+
+#16510
+Name water golem~
+Short a golem of water~
+Long 
+A golem of water is here.
+~
+Descr
+~
+AMax 1
+NHeight 110
+ActBits 258
+Affect_By 128
+Money 160
+Level 160
+MobType 10
+Guard 0
+ASklTaught 0 15
+End
+
+#16511
+Name air golem~
+Short a golem of air~
+Long 
+A golem of air is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 160
+Level 160
+MobType 10
+Guard 0
+End
+
+#16512
+Name golem earth~
+Short a golem of earth~
+Long 
+A golem of earth is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 160
+Level 160
+MobType 10
+Guard 0
+End
+
+#16513
+Name death golem~
+Short a golem of death~
+Long 
+A golem of death is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 200
+Level 200
+MobType 10
+Guard 0
+End
+
+#16514
+Name golem life~
+Short a golem of life~
+Long 
+A golem of life is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 160
+Level 160
+MobType 10
+Guard 0
+End
+
+#16515
+Name golem~
+Short a golem of chaos~
+Long 
+A golem of chaos is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 160
+Level 160
+Guard 0
+End
+
+#16516
+Name golem order~
+Short a golem of order~
+Long 
+A golem of order is here
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 640
+Money 190
+Level 190
+Guard 0
+Spec spec_warrior
+End
+
+#16519
+Name golem hatred~
+Short a golem of pure hatred~
+Long 
+A golem of pure hatred is here glaring into your soul.
+~
+Descr
+~
+AMax 10
+NHeight 99
+ActBits 2
+ActBits3 524288
+Affect_By 136
+Money 140
+Level 140
+Sex 1
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#16520
+Name ghost librarian~
+Short a ghostly librarian~
+Long 
+A long-dead librarian is tending some books here.
+~
+Descr
+~
+AMax 5
+NHeight 0
+Money 75
+Level 75
+MobType 21
+Guard 0
+End
+
+#16630
+Name undead cleric~
+Short an undead cleric~
+Long 
+The faint shape of a man is floating here.
+~
+Descr
+~
+AMax 1
+NHeight 500
+ActBits 2
+Affect_By 128
+Money 90
+Level 90
+MobType 9
+Guard 0
+BFlurries 1
+End
+
+#16679
+Name golem valor~
+Short a golem of valor~
+Long 
+A golem of valor is here boldly guarding the door.
+~
+Descr
+~
+AMax 1
+NHeight 100
+ActBits 2
+ActBits3 2
+Affect_By 168
+Money 50
+Level 50
+MobType 10
+Guard 0
+End
+
+#16691
+Name soldier light~
+Short a soldier of light~
+Long 
+A soldier of light is resting here.
+~
+Descr
+~
+AMax 4
+NHeight 77
+Affect_By 512
+Alignment 1000
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BKicks 1
+End
+
+#0
+
+
+
+#OBJDATA
+#16501
+Name gleaming yellow portal~
+Short a [1m[37mgleaming [33myellow[0m portal~
+Descr
+A [0m[1mgleaming [33myellow [0m[36mportal is here awaiting your arrival.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 16686 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#16502
+Name portal gleaming red~
+Short a [1m[37mgleaming [31mred[0m portal~
+Descr
+A [0m[1mgleaming [31mred[0m[36m portal is here awaiting your arrival.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 16690 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#16503
+Name sword holy light~
+Short a [1m[37msword[0m of [1m[37m[33mh[0m[1m[37mol[33my[0m [1m[33mli[0m[1m[37mg[33mht[0m~
+Descr
+A sword radiating pure goodness is lying on the floor unclaimed.
+[0;36m~
+Type 5
+Extra 4194305
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 3 0 0 0 4 4 0
+Weight 4
+Cost 1000
+Affect 18 4 1 0 0
+End
+
+#16504
+Name ring holy~
+Short a [37m[1mring of [33mh[37mol[33my li[37mg[33mht~
+Descr
+A ring is on the ground here emitting pure light.
+[0;36m~
+Type 9
+Extra 2
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 0 0 0
+Weight 2
+Cost 1000
+End
+
+#16505
+Name pendant light~
+Short a [1m[37mpendant[0m of [1m[33mli[37mg[33mht[0m~
+Descr
+A pendant is on the ground radiating pure light.
+[0;36m~
+Type 9
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 40 40 50 50 40 40
+Weight 1
+Cost 1000
+Affect 17 -1 1 0 0
+End
+
+#16506
+Name boots hatred~
+Short [31mb[1m[33moot[0m[31ms[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+Some boots are on the ground emitting pure hate.
+[0;36m~
+Type 9
+Extra 2
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 20 20 25 25 20 10
+Weight 4
+Cost 1000
+Affect 22 2 1 0 0
+End
+
+#16507
+Name robe holy light~
+Short a [1m[37mrobe of [33mh[37mol[37my [33mli[37mg[33mht[0m~
+Descr
+A robe is on the ground emitting pure light.
+[0;36m~
+Type 9
+Extra 1
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 3 2 2 40 40 50 50 40 40
+Weight 3
+Cost 1000
+Affect 13 10 1 0 0
+End
+
+#16508
+Name breastplate hatred~
+Short a [31mbre[1m[33mastpla[0m[31mte[0m of [1m[34mh[37ma[34mt[37mr[34me[37md~
+Descr
+A robe is on the ground radiating pure hatred into your soul.
+[0;36m~
+Type 9
+Extra 2
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 3 3 0 0 0 0 0 0
+Weight 7
+Cost 1000
+Affect 13 10 1 0 0
+Affect 18 -2 1 0 0
+End
+
+#16509
+Name gauntlets light~
+Short [1m[37mgauntlets of [33mli[37mg[33mht[0m~
+Descr
+A pair of gauntlets are on the ground gleaming with light.
+[0;36m~
+Type 9
+Extra 1
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 40 40 10 10 40 40
+Weight 3
+Cost 1000
+Affect 18 1 1 0 0
+End
+
+#16510
+Name vambraces hatred~
+Short some [31mvam[1m[33mbrac[0m[31mes[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+Some vambraces are on the ground radiating hatred.
+[0;36m~
+Type 9
+Extra 2
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 13 10 1 0 0
+End
+
+#16511
+Name greaves holy light~
+Short some [1m[37mgreaves of [33mh[37mol[33my li[37mg[33mht[0m~
+Descr
+Some greaves are on the ground attracting your attention.
+[0;36m~
+Type 9
+Extra 1
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 40 40 50 50 40 40
+Weight 2
+Cost 1000
+End
+
+#16512
+Name helmet hatred~
+Short a [31mh[1m[33melme[0m[31mt[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+A helmet is on the ground radiating pure hate.
+[0;36m~
+Type 9
+Extra 2
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 0 10 10 0
+Weight 2
+Cost 1000
+Affect 13 10 1 0 0
+End
+
+#16513
+Name belt hatred~
+Short a [31mb[0m[33m[1melt[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+A belt is on the ground emitting hatred into your soul.
+[0;36m~
+Type 9
+Extra 2
+Wear 10241
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#16514
+Name shield light~
+Short a [1m[37mshield of [33mh[37mol[33my li[37mg[33mht[0m~
+Descr
+A shield is on the ground radiating goodness into your heart.
+[0;36m~
+Type 9
+Extra 1
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 5 3 5 40 40 50 50 40 40
+Weight 2
+Cost 1000
+Affect 13 20 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#16515
+Name anklet hatred~
+Short an [31man[1m[33mklet[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+An anklet made of hate is lying on the ground.
+[0;36m~
+Type 9
+Extra 2
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 13 -5 1 0 0
+Affect 14 -5 1 0 0
+Affect 22 2 1 0 0
+End
+
+#16516
+Name light shoulderplate~
+Short a [1m[37mshoulderplate of [33mli[37mg[33mht[0m~
+Descr
+A shoulderplate is on the ground emitting light.
+[0;36m~
+Type 9
+Extra 1
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 2 40 40 50 50 40 40
+Weight 2
+Cost 1000
+Affect 18 1 1 0 0
+Affect 14 5 1 0 0
+Affect 13 5 1 0 0
+End
+
+#16517
+Name facemask light~
+Short a [1m[37mfacemask of [33mli[37mg[33mht[0m~
+Descr
+A facemask has been disguarded here on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 40 40 50 50 40 40
+Weight 2
+Cost 1000
+Affect 2 -1 1 0 0
+Affect 3 1 1 0 0
+End
+
+#16518
+Name eye hatred~
+Short an [31me[1m[33my[0m[31me[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+An eye has been carelessly tossed about the ground here.
+[0;36m~
+Type 9
+Extra 2
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 1000
+Affect 13 -2 1 0 0
+Affect 19 1 1 0 0
+End
+
+#16520
+Name wristband hatred~
+Short a [31mw[0m[1m[33mristban[0m[31md[0m of [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+A wristband is on the ground discarded.
+[0;36m~
+Type 9
+Extra 2
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 0 0 0
+Weight 1
+Cost 1000
+End
+
+#16521
+Name earring holy light~
+Short an [1m[37mearring of [33mh[37mol[33my li[37mg[33mht[0m~
+Descr
+(no description)~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 40 40 50 50 40 40
+Weight 0
+Cost 0
+Affect 18 2 1 0 0
+End
+
+#16628
+Name dagger hatred~
+Short a [31md[1m[33ma[37mgg[33me[0m[31mr [1m[33mof [1m[34mh[37ma[34mt[37mr[34me[37md[0m~
+Descr
+A dagger as black as night is lying on the ground here.
+[0;36m~
+Type 5
+Extra 131074
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 11 0 0 0 2 6 0
+Weight 2
+Cost 10000
+Affect 18 2 1 0 0
+End
+
+#16629
+Name $4CHEATER~
+Short [31mDELETE ME~
+Descr
+[31mDELETE ME.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#16668
+Name portal gleaming green~
+Short a [37m[1mgleaming [32mgreen[0m portal~
+Descr
+A [0m[1mgleaming [32mgreen [0m[36mportal is here awaiting your arrival.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 16669 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#16680
+Name white gleaming portal~
+Short a [1m[37mgleaming white[0m portal~
+Descr
+A [0m[1mgleaming white[0m[36m portal is here awaiting your arrival.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 16690 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#16682
+Name gleaming blue portal~
+Short a [1m[37mgleaming [34mblue[0m portal~
+Descr
+A [0m[1mgleaming [34mblue[0m[36m portal is here awaiting your arrival.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 16682 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#16501
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16577 0 0
+~
+~
+Door 2 0 0 16690 0 0
+~
+~
+Door 3 0 0 16502 0 0
+~
+~
+End
+
+#16502
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16501 0 0
+~
+~
+Door 3 0 0 16503 0 0
+~
+~
+End
+
+#16503
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16504 0 0
+~
+~
+Door 1 0 0 16502 0 0
+~
+~
+End
+
+#16504
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16505 0 0
+~
+~
+Door 2 0 0 16503 0 0
+~
+~
+End
+
+#16505
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16506 0 0
+~
+~
+Door 2 0 0 16504 0 0
+~
+~
+End
+
+#16506
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16507 0 0
+~
+~
+Door 2 0 0 16505 0 0
+~
+~
+End
+
+#16507
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16506 0 0
+~
+~
+Door 3 0 0 16508 0 0
+~
+~
+End
+
+#16508
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16507 0 0
+~
+~
+Door 3 0 0 16509 0 0
+~
+~
+End
+
+#16509
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16508 0 0
+~
+~
+Door 3 0 0 16510 0 0
+~
+~
+End
+
+#16510
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16511 0 0
+~
+~
+Door 1 0 0 16509 0 0
+~
+~
+End
+
+#16511
+Name The Caverns of Light~
+Descr
+This is the entrance to the caverns of light. It is rumored to be the
+home of the Knights of Holy Light, an organization dedicated to the
+erradication of evil throughout the realm. Regardless, you will have to get
+by the guardian to find out. 
+~
+Flags 5
+Sector 0
+Reset M 16504 1 100
+Reset O 62705 -1 15
+Door 0 3 0 16512 30 30
+~
+huge iron door~
+Door 2 0 0 16510 0 0
+~
+~
+End
+
+#16512
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16515 0 0
+~
+~
+Door 1 3 0 16514 30 30
+~
+wooden door~
+Door 2 3 0 16511 30 30
+~
+huge iron door~
+Door 3 3 0 16513 30 30
+~
+wooden door~
+End
+
+#16513
+Name A Penitent's Cell~
+Descr
+This small cell is set aside for those who feel the need to repent thier
+sins to the gods. those that stay here are confined by thier own choice, for
+no one may force a man or woman to repent, they must find it in themselves. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Reset O 16511 1 1
+Door 1 3 0 16512 30 30
+~
+wooden door~
+End
+
+#16514
+Name A Penitent's Cell~
+Descr
+This small cell is set aside for those who feel the need to repent thier
+sins to the gods. those that stay here are confined by thier own choice, for
+no one may force a man or woman to repent, they must find it in themselves. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Reset O 16507 5 1
+Door 3 3 0 16512 30 30
+~
+wooden door~
+End
+
+#16515
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16516 0 0
+~
+~
+Door 2 0 0 16512 0 0
+~
+~
+End
+
+#16516
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16519 0 0
+~
+~
+Door 1 3 0 16517 30 30
+~
+wooden door~
+Door 2 0 0 16515 0 0
+~
+~
+Door 3 3 0 16518 30 30
+~
+wooden door~
+End
+
+#16517
+Name A Penitent's Cell~
+Descr
+This small cell is set aside for those who feel the need to repent thier
+sins to the gods. those that stay here are confined by thier own choice, for
+no one may force a man or woman to repent, they must find it in themselves. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Reset O 16503 -1 1
+Reset O 16514 7 2
+Door 3 3 0 16516 30 30
+~
+wooden door~
+End
+
+#16518
+Name A Penitent's Cell~
+Descr
+This small cell is set aside for those who feel the need to repent thier
+sins to the gods. those that stay here are confined by thier own choice, for
+no one may force a man or woman to repent, they must find it in themselves. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Reset O 16521 1 1
+Door 1 3 0 16516 30 30
+~
+wooden door~
+End
+
+#16519
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16520 0 0
+~
+~
+Door 2 0 0 16516 0 0
+~
+~
+End
+
+#16520
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16521 0 0
+~
+~
+Door 2 0 0 16519 0 0
+~
+~
+End
+
+#16521
+Name The Hallway of Light~
+Descr
+On either side of this tall hallway are doors leading to the penitent's
+cells. Between them, there are fine paintings depicting the Knights of
+Goodness in varying battles against the forces of Evil. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16520 0 0
+~
+~
+Door 4 0 0 16522 0 0
+~
+~
+End
+
+#16522
+Name The Western Stairway~
+Descr
+Behind lies the most magnificent hallway ever seen in creation, surely
+whatever is ahead can not top it, or can it?  The stairway is heading
+western direction and seems to be going up. The air feels fresh and feeling
+of peace and quiet envelops you. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16523 0 0
+~
+~
+Door 5 0 0 16521 0 0
+~
+~
+End
+
+#16523
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 16524 0 0
+~
+~
+Door 5 0 0 16522 0 0
+~
+~
+End
+
+#16524
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16523 0 0
+~
+~
+Door 3 0 0 16525 0 0
+~
+~
+End
+
+#16525
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16524 0 0
+~
+~
+Door 2 0 0 16526 0 0
+~
+~
+End
+
+#16526
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16525 0 0
+~
+~
+Door 2 0 0 16527 0 0
+~
+~
+End
+
+#16527
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16526 0 0
+~
+~
+Door 1 0 0 16528 0 0
+~
+~
+End
+
+#16528
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16529 0 0
+~
+~
+Door 3 0 0 16527 0 0
+~
+~
+End
+
+#16529
+Name The West Wing~
+Descr
+After going up a short stairway, west wing lies before you. It is very
+clean and neatly organized, with servants scurring around to make sure
+everything gets done. Once in a while a noble walks by completly ignoring
+everybody around him. Statues and various works of art stand around showing
+the wealth of their owner. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16530 0 0
+~
+~
+Door 3 0 0 16528 0 0
+~
+~
+End
+
+#16530
+Name The West Wing~
+Descr
+The atmosphere here is changing, there seems to be less servants, and
+more nobles wandering around. Some having a pleasant conversation, and even
+a couple having a heated argument. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16531 0 0
+~
+~
+Door 3 0 0 16529 0 0
+~
+~
+End
+
+#16531
+Name The West Wing~
+Descr
+The atmosphere here is changing, there seems to be less servants, and
+more nobles wandering around. Some having a pleasant conversation, and even
+a couple having a heated argument. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16532 0 0
+~
+~
+Door 3 0 0 16530 0 0
+~
+~
+End
+
+#16532
+Name The West Wing~
+Descr
+The atmosphere here is changing, there seems to be less servants, and
+more nobles wandering around. Some having a pleasant conversation, and even
+a couple having a heated argument. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16533 0 0
+~
+~
+Door 2 0 0 16531 0 0
+~
+~
+End
+
+#16533
+Name The West Wing~
+Descr
+The atmosphere here is changing, there seems to be less servants, and
+more nobles wandering around. Some having a pleasant conversation, and even
+a couple having a heated argument. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16534 0 0
+~
+~
+Door 2 0 0 16532 0 0
+~
+~
+End
+
+#16534
+Name The West Wing~
+Descr
+The atmosphere here is changing, there seems to be less servants, and
+more nobles wandering around. Some having a pleasant conversation, and even
+a couple having a heated argument. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16533 0 0
+~
+~
+Door 4 0 0 16535 0 0
+~
+~
+End
+
+#16535
+Name The Western Stairway~
+Descr
+This stairwell leads further up into the west wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16536 0 0
+~
+~
+Door 5 0 0 16534 0 0
+~
+~
+End
+
+#16536
+Name The Western Stairway~
+Descr
+This stairwell leads further up into the west wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16537 0 0
+~
+~
+Door 5 0 0 16535 0 0
+~
+~
+End
+
+#16537
+Name Clerics Quarters~
+Descr
+This stairwell leads further up into the west wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16546 0 0
+~
+~
+Door 1 0 0 16542 0 0
+~
+~
+Door 2 0 0 16550 0 0
+~
+~
+Door 3 0 0 16538 0 0
+~
+~
+Door 4 0 0 16554 0 0
+~
+~
+Door 5 0 0 16536 0 0
+~
+~
+End
+
+#16538
+Name Western Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16537 0 0
+~
+~
+Door 3 0 0 16539 0 0
+~
+~
+End
+
+#16539
+Name Western Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16538 0 0
+~
+~
+Door 3 0 0 16540 0 0
+~
+~
+End
+
+#16540
+Name Western Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16539 0 0
+~
+~
+Door 2 0 0 16541 0 0
+~
+~
+End
+
+#16541
+Name Western Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16540 0 0
+~
+~
+End
+
+#16542
+Name Eastern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16543 0 0
+~
+~
+Door 3 0 0 16537 0 0
+~
+~
+End
+
+#16543
+Name Eastern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16544 0 0
+~
+~
+Door 3 0 0 16542 0 0
+~
+~
+End
+
+#16544
+Name Eastern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16545 0 0
+~
+~
+Door 3 0 0 16543 0 0
+~
+~
+End
+
+#16545
+Name Eastern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16544 0 0
+~
+~
+End
+
+#16546
+Name Northern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16547 0 0
+~
+~
+Door 2 0 0 16537 0 0
+~
+~
+End
+
+#16547
+Name Northern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16548 0 0
+~
+~
+Door 2 0 0 16546 0 0
+~
+~
+End
+
+#16548
+Name Northern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16549 0 0
+~
+~
+Door 2 0 0 16547 0 0
+~
+~
+End
+
+#16549
+Name Northern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 16548 0 0
+~
+~
+End
+
+#16550
+Name Southern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16537 0 0
+~
+~
+Door 2 0 0 16551 0 0
+~
+~
+End
+
+#16551
+Name Southern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16550 0 0
+~
+~
+Door 2 0 0 16552 0 0
+~
+~
+End
+
+#16552
+Name Southern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16551 0 0
+~
+~
+Door 3 0 0 16553 0 0
+~
+~
+End
+
+#16553
+Name Southern Wing of a Healer's Quarters~
+Descr
+Home to some of the greatest healers of the past, these quarters have now
+been turned into some sort of shrine. Perhaps you could learn a thing or two
+by looking around at some of their notes. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16552 0 0
+~
+~
+End
+
+#16554
+Name The Western Stairway~
+Descr
+This stairwell leads further up into the west wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16555 0 0
+~
+~
+Door 5 0 0 16537 0 0
+~
+~
+End
+
+#16555
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 16556 0 0
+~
+~
+Door 5 0 0 16554 0 0
+~
+~
+End
+
+#16556
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16555 0 0
+~
+~
+Door 3 0 0 16557 0 0
+~
+~
+End
+
+#16557
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16556 0 0
+~
+~
+Door 2 0 0 16558 0 0
+~
+~
+End
+
+#16558
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16557 0 0
+~
+~
+Door 2 0 0 16559 0 0
+~
+~
+End
+
+#16559
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16558 0 0
+~
+~
+Door 1 0 0 16560 0 0
+~
+~
+End
+
+#16560
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16561 0 0
+~
+~
+Door 3 0 0 16559 0 0
+~
+~
+End
+
+#16561
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16562 0 0
+~
+~
+Door 3 0 0 16560 0 0
+~
+~
+End
+
+#16562
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16563 0 0
+~
+~
+Door 3 0 0 16561 0 0
+~
+~
+End
+
+#16563
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16564 0 0
+~
+~
+Door 2 259 0 15000 30 30
+~
+brokendoor~
+Door 3 0 0 16562 0 0
+~
+~
+End
+
+#16564
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16565 0 0
+~
+~
+Door 2 0 0 16563 0 0
+~
+~
+End
+
+#16565
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16566 0 0
+~
+~
+Door 2 0 0 16564 0 0
+~
+~
+End
+
+#16566
+Name The West Wing~
+Descr
+The west wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16565 0 0
+~
+~
+Door 4 0 0 16567 0 0
+~
+~
+End
+
+#16567
+Name The Western Stairway~
+Descr
+This stairwell leads further up into the west wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16568 0 0
+~
+~
+Door 5 0 0 16566 0 0
+~
+~
+End
+
+#16568
+Name The Library of Ashmere~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16659 0 0
+~
+~
+Door 1 0 0 16573 0 0
+~
+~
+Door 2 0 0 16662 0 0
+~
+~
+Door 3 0 0 16569 0 0
+~
+~
+Door 4 259 0 16666 30 30
+~
+hidden door~
+Door 5 0 0 16567 0 0
+~
+~
+End
+
+#16569
+Name Western Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 4
+Door 1 0 0 16568 0 0
+~
+~
+Door 3 0 0 16570 0 0
+~
+~
+End
+
+#16570
+Name Western Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16569 0 0
+~
+~
+Door 3 0 0 16571 0 0
+~
+~
+End
+
+#16571
+Name Western Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16572 0 0
+~
+~
+Door 1 0 0 16570 0 0
+~
+~
+End
+
+#16572
+Name Western Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16571 0 0
+~
+~
+End
+
+#16573
+Name Eastern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 1 0 0 16574 0 0
+~
+~
+Door 3 0 0 16568 0 0
+~
+~
+End
+
+#16574
+Name Eastern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 1 0 0 16575 0 0
+~
+~
+Door 3 0 0 16573 0 0
+~
+~
+End
+
+#16575
+Name Eastern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 2 0 0 16576 0 0
+~
+~
+Door 3 0 0 16574 0 0
+~
+~
+End
+
+#16576
+Name Eastern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 0 0 0 16575 0 0
+~
+~
+End
+
+#16577
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16578 0 0
+~
+~
+Door 3 0 0 16501 0 0
+~
+~
+End
+
+#16578
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16579 0 0
+~
+~
+Door 3 0 0 16577 0 0
+~
+~
+End
+
+#16579
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16580 0 0
+~
+~
+Door 2 0 0 16578 0 0
+~
+~
+End
+
+#16580
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16581 0 0
+~
+~
+Door 2 0 0 16579 0 0
+~
+~
+End
+
+#16581
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16582 0 0
+~
+~
+Door 2 0 0 16580 0 0
+~
+~
+End
+
+#16582
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16583 0 0
+~
+~
+Door 2 0 0 16581 0 0
+~
+~
+End
+
+#16583
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16584 0 0
+~
+~
+Door 3 0 0 16582 0 0
+~
+~
+End
+
+#16584
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16585 0 0
+~
+~
+Door 3 0 0 16583 0 0
+~
+~
+End
+
+#16585
+Name The Underground Caverns of Ashmere~
+Descr
+The passage here is finely carved, as if it were made to last a lifetime.
+There are etchings along the walls, it is a design that you don't recognize,
+but you can tell is very old. You wonder just what artisans carved these
+magnificent halls. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16586 0 0
+~
+~
+Door 3 0 0 16584 0 0
+~
+~
+End
+
+#16586
+Name The Entryway to Ashmere~
+Descr
+This is the entryway into the House of Ashmere. This legendary house was
+home to healers of great renown, and as a center of learning for all those
+who practice the art of healing. 
+~
+Flags 5
+Sector 0
+Reset M 16504 1 100
+Reset O 62705 -1 15
+Door 0 3 0 16587 30 30
+~
+huge iron door~
+Door 2 0 0 16585 0 0
+~
+~
+End
+
+#16587
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Door 0 0 0 16588 0 0
+~
+~
+Door 1 3 0 16594 30 30
+~
+wooden door~
+Door 2 3 0 16586 30 30
+~
+huge iron door~
+Door 3 3 0 16593 30 30
+~
+wooden door~
+End
+
+#16588
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16589 0 0
+~
+~
+Door 2 0 0 16587 0 0
+~
+~
+End
+
+#16589
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Reset M 16505 1 100
+Door 0 0 0 16590 0 0
+~
+~
+Door 1 3 0 16596 30 30
+~
+wooden door~
+Door 2 0 0 16588 0 0
+~
+~
+Door 3 3 0 16595 30 30
+~
+wooden door~
+End
+
+#16590
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16591 0 0
+~
+~
+Door 2 0 0 16589 0 0
+~
+~
+End
+
+#16591
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16592 0 0
+~
+~
+Door 2 0 0 16590 0 0
+~
+~
+End
+
+#16592
+Name Halls of Ashmere~
+Descr
+This is the beginning of the halls of Ashmere.On either side are the
+barracks for the soldiers of light, ready to defend the halls in case of an
+attack at a moment's notice. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16591 0 0
+~
+~
+Door 4 0 0 16597 0 0
+~
+~
+End
+
+#16593
+Name A Small Barracks~
+Descr
+This small room serves as a place for the soldiers of light to rest, and
+recuperate from thier battles against the forces of evil. 
+~
+Flags 5
+Sector 0
+Reset M 16691 1 100
+Reset O 62705 -1 10
+Door 1 3 0 16587 30 30
+~
+wooden door~
+End
+
+#16594
+Name A Small Barracks~
+Descr
+This small room serves as a place for the soldiers of light to rest, and
+recuperate from thier battles against the forces of evil. 
+~
+Flags 5
+Sector 0
+Reset M 16691 1 100
+Reset O 62705 -1 10
+Door 3 3 0 16587 30 30
+~
+wooden door~
+End
+
+#16595
+Name A Small Barracks~
+Descr
+This small room serves as a place for the soldiers of light to rest, and
+recuperate from thier battles against the forces of evil. 
+~
+Flags 5
+Sector 0
+Reset M 16691 1 100
+Reset O 62705 -1 10
+Door 1 3 0 16589 30 30
+~
+wooden door~
+End
+
+#16596
+Name A Small Barracks~
+Descr
+This small room serves as a place for the soldiers of light to rest, and
+recuperate from thier battles against the forces of evil. 
+~
+Flags 5
+Sector 0
+Reset M 16691 1 100
+Reset O 62705 -1 10
+Door 3 3 0 16589 30 30
+~
+wooden door~
+End
+
+#16597
+Name The Eastern Stairway~
+Descr
+This stairwell leads further up into the east wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16598 0 0
+~
+~
+Door 5 0 0 16592 0 0
+~
+~
+End
+
+#16598
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 16599 0 0
+~
+~
+Door 5 0 0 16597 0 0
+~
+~
+End
+
+#16599
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16598 0 0
+~
+~
+Door 3 0 0 16600 0 0
+~
+~
+End
+
+#16600
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16599 0 0
+~
+~
+Door 2 0 0 16601 0 0
+~
+~
+End
+
+#16601
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16600 0 0
+~
+~
+Door 2 0 0 16602 0 0
+~
+~
+End
+
+#16602
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16601 0 0
+~
+~
+Door 1 0 0 16603 0 0
+~
+~
+End
+
+#16603
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16604 0 0
+~
+~
+Door 3 0 0 16602 0 0
+~
+~
+End
+
+#16604
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16605 0 0
+~
+~
+Door 3 0 0 16603 0 0
+~
+~
+End
+
+#16605
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16606 0 0
+~
+~
+Door 3 0 0 16604 0 0
+~
+~
+End
+
+#16606
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16607 0 0
+~
+~
+Door 2 0 0 16605 0 0
+~
+~
+End
+
+#16607
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16608 0 0
+~
+~
+Door 2 0 0 16606 0 0
+~
+~
+End
+
+#16608
+Name The East Wing~
+Descr
+The east wing leads you to the great libraries of Ashmere. Ever since the
+beginning of time, Ashmere has be the place where all the records of the
+realm have been kept. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16607 0 0
+~
+~
+Door 4 0 0 16609 0 0
+~
+~
+End
+
+#16609
+Name The Eastern Stairway~
+Descr
+This stairwell leads further up into the east wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16610 0 0
+~
+~
+Door 5 0 0 16608 0 0
+~
+~
+End
+
+#16610
+Name The Library of Ashmere~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16619 0 0
+~
+~
+Door 1 0 0 16615 0 0
+~
+~
+Door 2 0 0 16623 0 0
+~
+~
+Door 3 0 0 16611 0 0
+~
+~
+Door 4 0 0 16627 0 0
+~
+~
+Door 5 0 0 16609 0 0
+~
+~
+End
+
+#16611
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16610 0 0
+~
+~
+Door 3 0 0 16612 0 0
+~
+~
+End
+
+#16612
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16611 0 0
+~
+~
+Door 3 0 0 16613 0 0
+~
+~
+End
+
+#16613
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16612 0 0
+~
+~
+Door 2 0 0 16614 0 0
+~
+~
+End
+
+#16614
+Name Chamber of Death~
+Descr
+The golem of death is the guardian of these libraries. Anyone who dares
+to tamper with the sacred books will be forced to answer to him. No one who
+has tampered with one of the books has ever lived to regret it. 
+~
+Flags 5
+Sector 0
+Reset M 16513 1 100
+Reset O 16506 7 2
+Reset O 16512 7 1
+Reset O 16628 7 1
+Reset O 16520 7 2
+Reset O 16518 7 3
+Reset O 16513 7 2
+Reset O 16510 7 3
+Reset O 16508 7 1
+Reset O 16515 7 1
+Door 0 0 0 16613 0 0
+~
+~
+End
+
+#16615
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16616 0 0
+~
+~
+Door 3 0 0 16610 0 0
+~
+~
+End
+
+#16616
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16617 0 0
+~
+~
+Door 3 0 0 16615 0 0
+~
+~
+End
+
+#16617
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16618 0 0
+~
+~
+Door 3 0 0 16616 0 0
+~
+~
+End
+
+#16618
+Name Chamber of Life~
+Descr
+The golem of life is most powerful guardian of these libraries. Anyone
+who dares to tamper with the sacred books will be forced to answer to him.
+No one who has tampered with one of the books has ever lived to regret it. 
+~
+Flags 5
+Sector 0
+Reset M 16514 1 100
+Reset O 16516 7 6
+Reset O 16505 7 1
+Door 2 0 0 16617 0 0
+~
+~
+End
+
+#16619
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16620 0 0
+~
+~
+Door 2 0 0 16610 0 0
+~
+~
+End
+
+#16620
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16621 0 0
+~
+~
+Door 2 0 0 16619 0 0
+~
+~
+End
+
+#16621
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16622 0 0
+~
+~
+Door 2 0 0 16620 0 0
+~
+~
+End
+
+#16622
+Name Chamber of Chaos~
+Descr
+The golem of chaos is another guardian of these libraries. Anyone who
+dares to tamper with the sacred books will be forced to answer to him. No
+one who has tampered with one of the books has ever lived to regret it. 
+~
+Flags 2097157
+Sector 0
+Reset M 16515 1 100
+Door 3 0 0 16621 0 0
+~
+~
+End
+
+#16623
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16610 0 0
+~
+~
+Door 2 0 0 16624 0 0
+~
+~
+End
+
+#16624
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16623 0 0
+~
+~
+Door 2 0 0 16625 0 0
+~
+~
+End
+
+#16625
+Name Inside the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16624 0 0
+~
+~
+Door 3 0 0 16626 0 0
+~
+~
+End
+
+#16626
+Name Chamber of Order~
+Descr
+The golem of order is another guardian of these libraries. Anyone who
+dares to tamper with the sacred books will be forced to answer to him. No
+one who has tampered with one of the books has ever lived to regret it. 
+~
+Flags 5
+Sector 0
+Reset M 16516 1 100
+Door 1 0 0 16625 0 0
+~
+~
+End
+
+#16627
+Name The Eastern Stairway~
+Descr
+This stairwell leads further up into the east wing of the Hall. More
+busts and small statuettes of heroes of the hall line the stairs as you walk
+it. You recognize many of the names embossed on them, but some are so
+ancient that they have been made unreadable. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16630 0 0
+~
+~
+Door 5 0 0 16610 0 0
+~
+~
+End
+
+#16628
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16629 0 0
+~
+~
+Door 2 0 0 16631 0 0
+~
+~
+End
+
+#16629
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16630 0 0
+~
+~
+Door 3 0 0 16628 0 0
+~
+~
+End
+
+#16630
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 3 0 0 16629 0 0
+~
+~
+Door 5 0 0 16627 0 0
+~
+~
+End
+
+#16631
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16628 0 0
+~
+~
+Door 2 0 0 16632 0 0
+~
+~
+End
+
+#16632
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16631 0 0
+~
+~
+Door 1 0 0 16633 0 0
+~
+~
+End
+
+#16633
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16634 0 0
+~
+~
+Door 3 0 0 16632 0 0
+~
+~
+End
+
+#16634
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16635 0 0
+~
+~
+Door 3 0 0 16633 0 0
+~
+~
+End
+
+#16635
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16636 0 0
+~
+~
+Door 3 0 0 16634 0 0
+~
+~
+End
+
+#16636
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16637 0 0
+~
+~
+Door 3 0 0 16635 0 0
+~
+~
+End
+
+#16637
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16638 0 0
+~
+~
+Door 2 0 0 16636 0 0
+~
+~
+End
+
+#16638
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16639 0 0
+~
+~
+Door 2 0 0 16637 0 0
+~
+~
+End
+
+#16639
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16638 0 0
+~
+~
+Door 4 0 0 16640 0 0
+~
+~
+End
+
+#16640
+Name An Enlightened Passage~
+Descr
+The passage leads you to areas unknown in Ashmere. It is rumored that the
+great healers of the past used Ashmere as their main location for the
+training of young students. 
+~
+Flags 5
+Sector 0
+Door 4 0 0 16641 0 0
+~
+~
+Door 5 0 0 16639 0 0
+~
+~
+End
+
+#16641
+Name Upper Level of Ashmere~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Reset M 16506 1 100
+Door 0 0 0 16650 0 0
+~
+~
+Door 1 0 0 16646 0 0
+~
+~
+Door 2 0 0 16654 0 0
+~
+~
+Door 3 0 0 16642 0 0
+~
+~
+Door 4 259 0 16667 30 30
+~
+secret door~
+Door 5 0 0 16640 0 0
+~
+~
+End
+
+#16642
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16641 0 0
+~
+~
+Door 3 0 0 16643 0 0
+~
+~
+End
+
+#16643
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16642 0 0
+~
+~
+Door 3 0 0 16644 0 0
+~
+~
+End
+
+#16644
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16643 0 0
+~
+~
+Door 2 0 0 16645 0 0
+~
+~
+End
+
+#16645
+Name Chamber of Fire~
+Descr
+This is a room made of fire. The element of destruction and fiery. A
+golem stands at the center of the room peering at you intently. A small
+slight of agression will trigger his anger towards you as those past
+wanderers who entered. Fire is one of the main elements that one must learn
+to opress. 
+~
+Flags 5
+Sector 0
+Reset M 16507 1 100
+Door 0 0 0 16644 0 0
+~
+~
+End
+
+#16646
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16647 0 0
+~
+~
+Door 3 0 0 16641 0 0
+~
+~
+End
+
+#16647
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16648 0 0
+~
+~
+Door 3 0 0 16646 0 0
+~
+~
+End
+
+#16648
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 2 0 0 16649 0 0
+~
+~
+Door 3 0 0 16647 0 0
+~
+~
+End
+
+#16649
+Name Chamber of Water~
+Descr
+This is a room made up of water. The element of tranquility and serenity.
+A golem stands at the center of the room peering at you intently. A small
+slight of agression will trigger his anger towards you as those past
+wanderers who entered. 
+~
+Flags 5
+Sector 0
+Reset M 16510 1 100
+Door 0 0 0 16648 0 0
+~
+~
+End
+
+#16650
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16651 0 0
+~
+~
+Door 2 0 0 16641 0 0
+~
+~
+End
+
+#16651
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16652 0 0
+~
+~
+Door 2 0 0 16650 0 0
+~
+~
+End
+
+#16652
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16653 0 0
+~
+~
+Door 2 0 0 16651 0 0
+~
+~
+End
+
+#16653
+Name Chamber of Air~
+Descr
+This is a room made up of air. The element of havoc and malice. A golem
+of air stands at the center of the room peering at you intently. A gust of
+wind seems to come from the ground as if you are hovering. Air is another
+element that one must learn to cope with in order to master the art of
+magic. 
+~
+Flags 5
+Sector 0
+Reset M 16511 1 100
+Door 3 0 0 16652 0 0
+~
+~
+End
+
+#16654
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16641 0 0
+~
+~
+Door 2 0 0 16655 0 0
+~
+~
+End
+
+#16655
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16654 0 0
+~
+~
+Door 2 0 0 16656 0 0
+~
+~
+End
+
+#16656
+Name Hall of the Elements~
+Descr
+The hallway seems to be alive with the power of nature. You can feel the
+elements rushing against your body as you continue down the hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16655 0 0
+~
+~
+Door 3 0 0 16657 0 0
+~
+~
+End
+
+#16657
+Name Chamber of Earth~
+Descr
+A golem of earth is made of the the hardest stone in all the land. A
+golem stands at the center of the room peering at you intently. A small
+slight of agression will trigger his anger towards you as those past
+wanderers who entered. 
+~
+Flags 5
+Sector 0
+Reset M 16512 1 100
+Door 1 0 0 16656 0 0
+~
+~
+End
+
+#16658
+Name Northern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 0 0 0 16660 0 0
+~
+~
+Door 2 0 0 16659 0 0
+~
+~
+End
+
+#16659
+Name Northern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 0 0 0 16658 0 0
+~
+~
+Door 2 0 0 16568 0 0
+~
+~
+End
+
+#16660
+Name Northern Wing of the Library~
+Descr
+~
+Flags 5
+Sector 0
+Door 1 0 0 16661 0 0
+~
+~
+Door 2 0 0 16658 0 0
+~
+~
+End
+
+#16661
+Name Northern Wing of the Library~
+Descr
+~
+Flags 2097157
+Sector 0
+Door 3 0 0 16660 0 0
+~
+~
+End
+
+#16662
+Name Southern Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16568 0 0
+~
+~
+Door 2 0 0 16663 0 0
+~
+~
+End
+
+#16663
+Name Southern Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16662 0 0
+~
+~
+Door 2 0 0 16664 0 0
+~
+~
+End
+
+#16664
+Name Southern Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16663 0 0
+~
+~
+Door 3 0 0 16665 0 0
+~
+~
+End
+
+#16665
+Name Southern Wing of the Library~
+Descr
+The great library of Ashmere is the largest library in the realm. More
+books than you could possibly imagine line the walls of this great hallway. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16664 0 0
+~
+~
+End
+
+#16666
+Name A Caved-in Passage~
+Descr
+The stairway here is blocked by what seems to be the collapse of the
+surrounding structure. It seems that no further exploration is going to be
+possible until this is excavated. 
+~
+Flags 4
+Reset M 16630 1 100
+Reset O 16504 1 10
+Door 5 259 0 16568 30 30
+~
+hidden door~
+End
+
+#16667
+Name A Well-Lit Room~
+Descr
+A strange looking portal is the only thing in the room. All of the walls
+are covered with some sort of markings. Perhaps it would be best if you did
+not enter the portal. 
+~
+Flags 5
+Sector 0
+Reset O 16668 -5 100
+Reset O 16668 -5 100
+Door 5 259 0 16641 30 30
+~
+secret door~
+End
+
+#16669
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16670 0 0
+~
+~
+End
+
+#16670
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16671 0 0
+~
+~
+Door 2 0 0 16669 0 0
+~
+~
+End
+
+#16671
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16672 0 0
+~
+~
+Door 2 0 0 16670 0 0
+~
+~
+End
+
+#16672
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16673 0 0
+~
+~
+Door 3 0 0 16671 0 0
+~
+~
+End
+
+#16673
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16675 0 0
+~
+~
+Door 3 0 0 16672 0 0
+~
+~
+End
+
+#16674
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 1 0 0 16677 0 0
+~
+~
+Door 2 19 0 16675 30 30
+~
+valor~
+Door 3 0 0 16676 0 0
+~
+~
+End
+
+#16675
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset M 16679 1 100
+Door 0 19 0 16674 30 30
+~
+valor~
+Door 2 0 0 16673 0 0
+~
+~
+End
+
+#16676
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16680 0 0
+~
+~
+Door 1 0 0 16674 0 0
+~
+~
+End
+
+#16677
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16678 0 0
+~
+~
+Door 3 0 0 16674 0 0
+~
+~
+End
+
+#16678
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16679 0 0
+~
+~
+Door 2 0 0 16677 0 0
+~
+~
+End
+
+#16679
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset O 16680 -5 100
+Door 2 0 0 16678 0 0
+~
+~
+End
+
+#16680
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16681 0 0
+~
+~
+Door 2 0 0 16676 0 0
+~
+~
+End
+
+#16681
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset O 16682 -5 100
+Door 2 0 0 16680 0 0
+~
+~
+End
+
+#16682
+Name Deep Within Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16683 0 0
+~
+~
+End
+
+#16683
+Name Deep Within Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset M 16502 1 100
+Door 0 3 0 16684 30 30
+~
+fear~
+Door 2 0 0 16682 0 0
+~
+~
+End
+
+#16684
+Name Deep Within Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16685 0 0
+~
+~
+Door 2 3 0 16683 30 30
+~
+fear~
+End
+
+#16685
+Name Deep Within Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset O 16501 -5 100
+Door 2 0 0 16684 0 0
+~
+~
+End
+
+#16686
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Door 0 0 0 16687 0 0
+~
+~
+End
+
+#16687
+Name The Healer's Hall~
+Descr
+Within healers hall you find yourself alive with energy. The great
+healers of the past have left their marks on the walls in some form or
+another. 
+~
+Flags 5
+Sector 0
+Reset M 16501 1 100
+Door 0 3 0 16688 30 30
+~
+pride~
+Door 2 0 0 16686 0 0
+~
+~
+End
+
+#16688
+Name Waiting Room~
+Descr
+A waiting room for a chance to speak with the greatest healer in the
+land. Perhaps you should take a seat, he has been known to be quite long
+winded. 
+~
+Flags 5
+Sector 0
+Door 0 3 0 16689 30 30
+~
+healer door~
+Door 2 3 0 16687 30 30
+~
+pride~
+End
+
+#16689
+Name The Guild of Healers~
+Descr
+~
+Flags 5
+Sector 0
+Reset O 16502 -5 100
+Door 2 3 0 16688 30 30
+~
+healer door~
+End
+
+#16690
+Name Gates of Ashmere~
+Descr
+These gates are made of granite, carved with intricate designs. Guarding
+this portal are two giant statues on either side of the path. You might wish
+to rethink the reason you have for visiting this forbidding place. 
+~
+Flags 5
+Sector 0
+Reset M 16508 2 100
+Reset M 16508 2 100
+Door 0 0 0 16501 0 0
+~
+~
+Door 5 0 0 16210 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

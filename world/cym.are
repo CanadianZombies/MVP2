@@ -1,0 +1,711 @@
+#AREADATA 
+Name The Temple of the Dark Godking~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mChanting noises can be heard in the distance.
+~[0;37m
+SRepop 22
+SJail 74099
+SOutJail 74099
+SCZone 0
+Builders Cym~
+VNUMs 74101 74300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#74101
+Name Zandibar~
+Short Zandibar~
+Long 
+Zandibar the Horrible stands here, ready to rip you in two.
+~
+Descr
+Zandibar The Horrible
+~
+AMax 1
+NHeight 0
+ActBits 570425355
+Affect_By 1107296808
+AffectTWO 2
+Money 101
+Level 100
+Sex 1
+MobType 4
+Guard 0
+ArmorClass -100
+End
+
+#74102
+Name guard guardsman temple evil~
+Short Temple Guardsman~
+Long 
+A temple guardsman, robed in black and silver, stands here stiffly.
+~
+Descr
+a Temple Guardsman stands erect, looking menacing.
+~
+AMax 2
+NHeight 0
+ActBits 17
+ActBits3 2
+Alignment -100
+Money 31
+Level 31
+Sex 1
+MobType 0
+Guard 0
+Spec spec_waRRIOR
+RaceHate 134217728
+ArmorClass -1
+End
+
+#74103
+Name knight temple PRTCT~
+Short A Temple Knight~
+Long 
+A temple knight stands here, stoically watching the gate.
+~
+Descr
+A grim faced man garbed in black and silver stares back at you
+~
+Attackmsg cleave~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 520
+Money 67
+Level 67
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+ArmorClass -10
+End
+
+#74104
+Name captain temple guard knight~
+Short guard captain~
+Long 
+The captain of the temple guards stands here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Affect_By 8
+Alignment 12
+Money 78
+Level 78
+Sex 1
+MobType 0
+Guard 0
+ArmorClass -70
+End
+
+#74107
+Name Iorleth castellan~
+Short Iorleth the Castellan~
+Long 
+Iorleth the castellan, stands here, patiently waiting.
+~
+Descr
+The Temple castellan eagerly displays his wares here
+ 
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 32
+Money 80
+Level 80
+Sex 1
+MobType 0
+Guard 0
+Shop   19  17  15   0   0 110 40 4 23
+Shopd2 5
+Shopd3 4
+ArmorClass -17
+End
+
+#74108
+Name denizen citizen temple~
+Short a denizen of the temple~
+Long 
+A content looking denizen of the temple stands here.
+~
+Descr
+A modestly-robed temple dweller gazes at you kindly
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 15
+Level 15
+MobType 0
+Guard 0
+End
+
+#74111
+Name shopkeeper alchemist metallurgist~
+Short The temple metallurgist~
+Long 
+The temple's metallurgist stands here, scratching his head absently.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1
+Money 101
+Level 100
+Sex 1
+MobType 0
+Guard -18
+Shop    4  10  21   3   0 135 40 1 20
+Shopd2 5
+Shopd3 4
+ArmorClass -10
+End
+
+#74125
+Name ancient dragon gorthang~
+Short Gorthang the ancient dragon~
+Long 
+Gorthang, the ancient dragon, is here.
+~
+Descr
+Gorthang, guardian of the treasures of the Ancients, gazes 
+balefully at you and moves ponderously.
+~
+AMax 1
+NHeight 0
+ActBits 570425611
+ActBits3 524288
+Affect_By 1073742378
+AffectTWO 2
+Alignment -500
+Money 200
+Level 300
+MobType 5
+Guard 0
+Spec spec_breath_any
+ArmorClass -300
+End
+
+#0
+
+
+
+#OBJDATA
+#74101
+Name shimmering battleaxe axe HIT HP~
+Short a shimmering battleaxe~
+Descr
+A shimmering battleaxe lies here on the ground.
+[0;36m~
+Type 5
+Extra 10485761
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 60 0 3 0 0 0 4 5 0
+Weight 15
+Cost 22000
+Affect 18 1 1 0 0
+Affect 19 -1 1 0 0
+Affect 13 1 1 0 0
+End
+
+#74105
+Name sword scimitar curved~
+Short a gleaming scimitar~
+Descr
+A curved, well oiled scimitar
+[0;36m~
+Type 5
+Extra 262210
+Maxinroom 2
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 3 0 0 0 3 6 0
+Weight 15
+Cost 4000
+Affect 19 -1 1 0 0
+Affect 18 -1 1 0 0
+End
+
+#74108
+Name ring temple captain STR HP~
+Short Captain's ring~
+Descr
+Guard Captain's ring
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 50 50 0 0
+Weight 1
+Cost 3000
+Affect 1 1 1 0 0
+Affect 13 1 1 0 0
+Affect 3 -1 1 0 0
+End
+
+#74109
+Name midden key~
+Short midden key~
+Descr
+A key to the temple middens lies here on the ground.
+[0;36m~
+Type 18
+Extra 16384
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 910
+End
+
+#74111
+Name key jagged mercury~
+Short jagged mercury key~
+Descr
+a jagged mercury key
+[0;36m~
+Type 18
+Extra 16384
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 50
+End
+
+#74120
+Name carved sapphire gem~
+Short a carved [34msapphire [0mgem~
+Descr
+A carved, sapphire gem lies here on the ground.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9 90 90 65 0 0 0 0 0 0
+Weight 4
+Cost 6000
+End
+
+#74121
+Name carved amethyst gem~
+Short a carved [31mamethyst [0mgem~
+Descr
+A carved, amethyst gem lies here on the ground.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 92 92 65 0 0 0 0 0 0
+Weight 4
+Cost 6000
+End
+
+#74122
+Name carved glowing crystal~
+Short a carved [1m[37mglowing [0m[37mcrystal~
+Descr
+A carved, [1m[37mglowing [0m[37mcrystal lies here on the ground.
+[0;36m~
+Type 21
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 55 55 65 0 0 0 0 0 0
+Weight 4
+Cost 6000
+End
+
+#74222
+Name stout metal chest~
+Short a stout metal chest~
+Descr
+A stout metal chest rests here on the ground.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 500
+Cost 0
+End
+
+#987
+Name staff ancients magic~
+Short [31mStaff [0m[37mof the [1m[30mAncients[0m[37m~
+Descr
+The staff of the ancients lies here on the ground.
+[0;36m~
+Type 21
+Extra 536870977
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 100 100 60 0 0 0 0 0 0
+Weight 5
+Cost 130000
+End
+
+#0
+
+
+
+#ROOMDATA
+#74101
+Name A forgotten tunnel~
+Descr
+A musty smell assaults you as you step past fallen timbers and rubble.
+the crawlspace here is so small that only one person can pass.
+~
+Flags 13
+Sector 0
+Door 1 0 0 74102 0 0
+~
+~
+Door 4 3 0 1192 30 30
+~
+trapdoor~
+End
+
+#74102
+Name A forgotten tunnel~
+Descr
+The tunnel seems a but draftier here, and water seeps through the walls.
+~
+Flags 1037
+Sector 0
+Door 1 0 0 74103 0 0
+~
+~
+Door 3 0 0 74101 0 0
+~
+~
+Door 5 287 0 74110 40 40
+A rusted iron grating covers a yawning hole into blackness
+~
+irondoor~
+End
+
+#74103
+Name An ancient tunnel~
+Descr
+The forgotten tunnel ends in a crumbled stone gate to the east. To the west 
+the ancient stones stretch into darkness
+~
+Flags 1037
+Sector 0
+Door 1 7 0 74104 30 30
+A crumbling stone gate hangs in disuse here
+~
+stonedoor~
+Door 3 0 0 74102 0 0
+~
+~
+End
+
+#74104
+Name Temple courtyard~
+Descr
+A flagstone paved courtyard stretches out before you. The stones
+underfoot are ancient but well kept, and it is clear that this section
+of the ruins is still inhabited. To the east a great stone arch looms, 
+and to the south lies a huge assembly hall.
+~
+Flags 4
+Sector 0
+Reset M 74103 2 100
+Reset O 74105 21 8
+Reset M 74103 2 100
+Reset O 74105 21 8
+Door 1 0 0 74106 0 0
+~
+~
+Door 2 0 0 74105 0 0
+~
+~
+Door 3 3 0 74103 30 30
+~
+stonegate~
+End
+
+#74105
+Name Great Hall of the Assembly~
+Descr
+The Great Hall of the Assembly is immense, tier upon tier of gleaming
+seats and brilliantly colored panoplies and friezes. Priests and various
+others bustle about busily preparing for the next meeting.
+ 
+~
+Sector 0
+Door 0 0 0 74104 0 0
+~
+~
+End
+
+#74106
+Name The Hall of the Arch~
+Descr
+An immaculately cleaned hallway leads east to the temple storerooms,
+vaguely discernible as you move towards them.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 74107 0 0
+~
+~
+Door 3 0 0 74104 0 0
+~
+~
+End
+
+#74107
+Name The temple castellan's office~
+Descr
+A clean, but cluttered office. various supplies are stacked neatly
+along 2 walls, and many wares can be found here.
+~
+Flags 4
+Sector 0
+Reset M 74107 1 100
+Reset O 37 10 100
+Door 0 0 0 74108 0 0
+~
+~
+Door 3 0 0 74106 0 0
+~
+~
+End
+
+#74108
+Name A dusty hallway~
+Descr
+A dusty hallway runs from south to north, with temple denizens traipsing
+back and for exchanging gossip and trading items of worth.
+~
+Flags 4
+Sector 0
+Reset M 74108 5 50
+Reset M 74108 5 50
+Reset M 74108 5 50
+Door 0 0 0 74109 0 0
+~
+~
+Door 2 0 0 74107 0 0
+~
+~
+End
+
+#74109
+Name A dusty hallway~
+Descr
+A dusty hallway seems to stretch on forever to the south and north. A
+few paintings hang on the walls, in an ancient style, giving the hall
+an air of dignity and somber age.
+~
+Flags 4
+Sector 0
+Reset M 74102 3 100
+Reset O 1022 21 7
+Reset M 74102 3 100
+Reset O 1022 21 4
+Reset M 74104 1 95
+Reset O 74109 -1 66
+Reset O 74108 1 8
+Reset O 5014 4 35
+Reset O 74105 21 8
+Door 0 3 0 74111 30 30
+An iron and mahogany door bars the way.
+~
+iron door~
+Door 2 0 0 74108 0 0
+~
+~
+End
+
+#74110
+Name Guard Chamber ~
+Descr
+You see what appears to be a guard chamber of some sort, equipped
+with a small spring and supplies of food.
+~
+Flags 4
+Sector 0
+Reset O 9818 -5 100
+Reset M 74101 1 100
+Reset O 74101 21 10
+Reset O 19411 8 1
+Reset O 3210 4 50
+Door 4 2 0 74102 40 40
+~
+~
+End
+
+#74111
+Name The temple metallurgist's shop~
+Descr
+The workshop of the temple's resident expert in metals seems austere
+and slightly forbidding. Flasks and burners and strange chunks of
+metal and rock litter the room and a large steel ring in the floor
+indicates a a cellar below
+~
+Flags 2097156
+Sector 0
+Reset M 74111 1 100
+Reset O 60 10 50
+Reset O 57 10 50
+Reset O 54 10 50
+Reset O 51 10 50
+Reset O 74121 1 1
+Reset O 74122 1 1
+Reset O 74120 1 1
+Door 2 3 0 74109 30 30
+~
+iron door~
+Door 5 1 0 74120 30 30
+A stout wooden door set into the rocks of the floor blocks your vision
+~
+cellar door~
+End
+
+#74120
+Name The alchemist's cellar~
+Descr
+The cellar seems to be formed in a tunnel shape, with boxes and vials and
+packages stored carefully to either side of the ladder.  
+~
+Flags 37
+Sector 0
+Door 4 0 0 74111 0 0
+~
+~
+Door 5 0 0 74121 0 0
+~
+~
+End
+
+#74121
+Name The alchemist's cellar~
+Descr
+The cellar seems to be formed in a tunnel shape, with boxes and vials and
+packages stored carefully to either side of the ladder.  
+~
+Flags 37
+Sector 0
+Door 4 0 0 74120 0 0
+~
+~
+Door 5 0 0 74122 0 0
+~
+~
+End
+
+#74122
+Name The bottom of the cellar~
+Descr
+The cellar seems to be formed in a tunnel shape, with boxes and vials and
+packages stored carefully to either side of the ladder.  
+~
+Flags 32
+Door 4 0 0 74121 0 0
+~
+~
+Door 5 791 8575 74123 30 30
+~
+onyxdoor~
+End
+
+#74123
+Name Holdfast of the Ancients~
+Descr
+A storage chambers stretches out into the primeval gloom to all sides.
+Artifacts strange and arcane abound, and many devices swathed in a
+curious semi-clear fabric.
+~
+Flags 2097157
+Sector 0
+Door 2 0 0 74125 0 0
+~
+~
+Door 4 263 0 74122 30 30
+An onyx door seamlessly fades into the ceiling
+~
+onyxdoor~
+End
+
+#74125
+Name Holdfast of the Ancients~
+Descr
+The stone walls and floor are scorched and scarred as if by fire and
+the room reeks of foul air and gas. A tattered and brittle skeleton
+is crumpled in one corner and jagged beams jut from the floor.
+~
+Flags 1029
+Sector 0
+Reset M 74125 1 100
+Reset O 19 -1 1
+Reset O 987 -1 1
+Door 0 0 0 74123 0 0
+~
+~
+Door 2 0 0 74130 0 0
+~
+~
+End
+
+#74130
+Name A Dragon's Lair~
+Descr
+The stone walls and floor are scorched and scarred as if by fire and
+the room reeks of foul air and gas. A tattered and brittle skeleton
+is crumpled in one corner and jagged beams jut from the floor.
+~
+Door 0 0 0 74125 0 0
+~
+~
+Door 2 0 0 74200 0 0
+~
+~
+End
+
+#74200
+Name A Dragon's Lair~
+Descr
+The stone walls and floor are scorched and scarred as if by fire and
+the room reeks of foul air and gas. A tattered and brittle skeleton
+is crumpled in one corner and jagged beams jut from the floor.
+~
+Reset O 74222 -5 100
+Reset O 15010 -3 1
+Reset O 9255 -3 1
+Reset O 24203 -3 10
+Reset O 48079 -3 10
+Reset O 48067 -3 10
+Reset O 48013 -3 10
+Reset O 48012 -3 10
+Reset O 48011 -3 10
+Reset O 48010 -3 10
+Reset O 48009 -3 10
+Reset O 48008 -3 10
+Reset O 48002 -3 10
+Reset O 48001 -3 10
+Reset O 14030 -3 10
+Reset O 3327 -3 10
+Reset O 1020 -3 10
+Reset O 928 -3 10
+Door 0 0 0 74130 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

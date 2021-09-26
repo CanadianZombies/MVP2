@@ -1,0 +1,383 @@
+#AREADATA 
+Name Evil Thief's Cult~
+Repop [1;30mYour senses heighten as a new day approaches. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 9001 9049
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#9001
+Name dark statue~
+Short a statue of a Yoshin assassin~
+Long 
+A statue of a Yoshin assassin has been erected here.
+~
+Descr
+~
+AMax 1
+NHeight 98
+ActBits 2
+ActBits3 524288
+Affect_By 50332296
+Level 500
+MobType 15
+Hp 20
+Guard 0
+End
+
+#9002
+Name yoshin~
+Short spirit of Yoshin~
+Long 
+The Spirit of Yoshin is here to teach you in his fine art.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 258
+ActBits3 524288
+Affect_By 50331784
+Level 400
+Sex 1
+MobType 21
+Hp 20
+Guard 0
+Spec spec_warrior
+ASklTaught 0 554
+ASklTaught 1 550
+ASklTaught 2 551
+ASklTaught 3 558
+ASklTaught 4 556
+ASklTaught 5 559
+End
+
+#0
+
+
+
+#OBJDATA
+#9001
+Name yoshin sign~
+Short sign~
+Descr
+A sign explaining safe passage to the cult of Shadows is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Welcome to the House of Yoshin. Here are the things you will need in order
+
+to join our sect:
+
+ 
+
+You must first have obtained a token from an area seller.
+
+If you have not yet obtained level 30, you may give that token to the statue
+
+for membership into our sect.
+
+ 
+
+Once you are a member, you may say "enter sect" for safe passage into our halls.
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#9001
+Name A Baracade of Trees~
+Descr
+A nature-created clearing is here. To the north, the highway can be seen
+winding its way through the wilderness. Here, surrounded by coniferous trees
+in three directions, you feel somewhat at peace. 
+~
+Door 0 0 0 3591 0 0
+~
+~
+Door 1 0 0 3593 0 0
+~
+~
+Door 3 0 0 9018 0 0
+~
+~
+End
+
+#9002
+Name A Dark Trail~
+Descr
+A dark trail leads you away from the safety of the roads. Strange noises
+can be heard as you continue down this eerie trail. It was once said that a
+great assassin lived in a place like this. 
+~
+Door 0 0 0 9003 0 0
+~
+~
+Door 5 0 0 9018 0 0
+~
+~
+End
+
+#9003
+Name A Dark Trail~
+Descr
+A dark trail leads you away from the safety of the roads. Strange noises
+can be heard as you continue down this eerie trail. It was once said that a
+great assassin lived in a place like this. 
+~
+Door 2 0 0 9002 0 0
+~
+~
+Door 3 0 0 9004 0 0
+~
+~
+End
+
+#9004
+Name A Dark Trail~
+Descr
+A dark trail leads you away from the safety of the roads. Strange noises
+can be heard as you continue down this eerie trail. It was once said that a
+great assassin lived in a place like this. 
+~
+Door 0 0 0 9005 0 0
+~
+~
+Door 1 0 0 9003 0 0
+~
+~
+End
+
+#9005
+Name A Dark Trail~
+Descr
+A dark trail leads you away from the safety of the roads. Strange noises
+can be heard as you continue down this eerie trail. It was once said that a
+great assassin lived in a place like this. 
+~
+Door 2 0 0 9004 0 0
+~
+~
+Door 3 0 0 9006 0 0
+~
+~
+End
+
+#9006
+Name Before the Cult of Shadows~
+Descr
+A statue of a might Yoshinian assassin stands before you. Made from the
+finest stone anywhere this appears to be the strongest statue you've ever
+seen. I wonder what kind of damage this statue could do if it were alive? 
+Wait a minute, it IS alive!  
+~
+Flags 16384
+Reset M 9001 1 100
+Reset O 9001 -5 100
+Door 1 0 0 9005 0 0
+~
+~
+End
+
+#9007
+Name Within A Dark Hall~
+Descr
+Only an assassin could make his home in these halls. Dark and dreary to
+say the least it's a miracle that you haven't been killed by a fellow member
+already. 
+~
+Flags 1156
+Door 0 0 0 9008 0 0
+~
+~
+Door 2 0 0 9006 0 0
+~
+~
+End
+
+#9008
+Name A Dark Entrance~
+Descr
+Only an assassin could make his home in these halls. Dark and dreary to
+say the least it's a miracle that you haven't been killed by a fellow member
+already. 
+~
+Flags 1156
+Reset O 9102 -5 100
+Door 0 0 0 9011 0 0
+~
+~
+Door 2 0 0 9007 0 0
+~
+~
+Door 4 0 0 9012 0 0
+~
+~
+Door 5 0 0 9009 0 0
+~
+~
+End
+
+#9009
+Name A Dark Hallway~
+Descr
+Only an assassin could make his home in these halls. Dark and dreary to
+say the least it's a miracle that you haven't been killed by a fellow member
+already. 
+~
+Flags 1156
+Door 4 0 0 9008 0 0
+~
+~
+Door 5 0 0 9010 0 0
+~
+~
+End
+
+#9010
+Name A Dark Crypt~
+Descr
+When the great Yoshin finally died of old age, his spirit returned to
+this realm in order to train others in his ways. Should you ever wish to
+anger him and leave the sect he has built, say "leave sect now" and he will
+be happy to cast you from these halls forever. 
+~
+Flags 1156
+Reset M 9002 1 100
+Door 4 0 0 9009 0 0
+~
+~
+End
+
+#9011
+Name The Dark Room~
+Descr
+As its name suggests, this is a dark room. It has a strange smell
+imitating from it too. Perhaps this isn't the best place to spend your time.
+You have a strange feeling that someone is watching you. 
+~
+Flags 3163268
+Reset O 101 -5 100
+Door 2 0 0 9008 0 0
+~
+~
+End
+
+#9012
+Name A Secret Passage~
+Descr
+Only an assassin could make his home in these halls. Dark and dreary to
+say the least it's a miracle that you haven't been killed by a fellow member
+already. 
+~
+Flags 1156
+Door 0 23 0 9016 99 99
+~
+sect door~
+Door 2 23 0 9017 99 99
+~
+sect door~
+Door 4 0 0 9013 0 0
+~
+~
+Door 5 0 0 9008 0 0
+~
+~
+End
+
+#9013
+Name A Secret Passage~
+Descr
+Only an assassin could make his home in these halls. Dark and dreary to
+say the least it's a miracle that you haven't been killed by a fellow member
+already. 
+~
+Flags 1156
+Door 0 23 0 9014 99 99
+~
+sect door~
+Door 2 23 0 9015 99 99
+~
+sect door~
+Door 5 0 0 9012 0 0
+~
+~
+End
+
+#9014
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 2 0 0 9013 0 0
+~
+~
+End
+
+#9015
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 0 0 0 9013 0 0
+~
+~
+End
+
+#9016
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 2 0 0 9012 0 0
+~
+~
+End
+
+#9017
+Name Sect Room~
+Descr
+~
+Flags 132
+Door 0 0 0 9012 0 0
+~
+~
+End
+
+#9018
+Name A Dark Trail~
+Descr
+A dark trail leads you away from the safety of the roads. Strange noises
+can be heard as you continue down this eerie trail. It was once said that a
+great assassin lived in a place like this. 
+~
+Door 1 0 0 9001 0 0
+~
+~
+Door 4 0 0 9002 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

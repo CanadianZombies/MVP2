@@ -1,0 +1,4794 @@
+#AREADATA 
+Name Castle Alteric~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe castle thrives with activity as a new day begins.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Klaw~
+VNUMs 7900 8099
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#7900
+Name worm~
+Short a big worm~
+Long 
+A rather large worm, burrowing a hole is here.
+~
+Descr
+This rather large worm was bred by skavens to prevent the entering and
+exiting of creatures of the light. 
+~
+AMax 3
+NHeight 1
+ActBits 20
+Affect_By 66088
+Money 70
+Level 70
+MobType 8
+Guard 0
+Spec spec_poison
+RaceHate 67108864
+End
+
+#7901
+Name cave digger~
+Short a cave digger~
+Long 
+A Cave Digger is here digging out the cave.
+~
+Descr
+This cave digger digs out the cave and thats all he has done his entire
+life. He isn't nice to people who come around and you might pay for coming
+near him 
+~
+AMax 3
+NHeight 12
+ActBits 22
+Affect_By 552
+Money 20
+Level 20
+Sex 1
+MobType 12
+Guard 0
+GDamR -120
+RaceHate 201326592
+BCasts balefire~
+End
+
+#7924
+Name rat~
+Short a rat~
+Long 
+A big rat, trying to survive is here.
+~
+Descr
+Always hungry, this rat eats anything that flows by. 
+~
+AMax 13
+NHeight 5
+ActBits 16
+Affect_By 520
+Money 35
+Level 35
+MobType 6
+Guard 0
+Spec spec_poison
+RaceHate 201326592
+End
+
+#7928
+Name troll cave joe~
+Short joe, the cave-troll~
+Long 
+Joe, the Cave-Troll is here preventing passage.
+~
+Descr
+This troll is trying to keep reinforcements from getting to Alteric so
+his bosses can take over the city. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 552
+Alignment -1000
+Money 200
+Level 200
+Sex 1
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#7947
+Name ogre invader beast~
+Short an ogre invader~
+Long 
+An ogre invader is here preparing to storm the castle.
+~
+Descr
+Hired by the Rathell, this invader is trying to distract Alteric's
+defenses to let the skavens slip by inside. 
+~
+AMax 5
+NHeight 120
+ActBits3 532480
+ActBits4 4096
+Affect_By 680
+Alignment -1000
+Money 101
+Level 101
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#7957
+Name squire~
+Short a squire~
+Long 
+A squire, learning the arts of knighthood is here.
+~
+Descr
+Hardly experienced in the ways of knighthood, this squire has had to grow
+up too fast to fight the forces of evil. Maybe some day he will have the
+strength of one of the knights that is still alive, like Drex or Montell. 
+~
+AMax 7
+NHeight 0
+ActBits 1073741824
+ActBits3 540672
+ActBits4 4096
+Affect_By 648
+Alignment 1000
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#7959
+Name drex ~
+Short drex, knight of Alteric~
+Long 
+Drex, Knight of Alteric is here.
+~
+Descr
+Drex, one of the knights of Alteric still alive is patrolling the fields
+around Alteric. Most evil forces stand no chance against him, as he is
+extremely strong. 
+~
+AMax 1
+NHeight 0
+ActBits 1073742096
+ActBits4 4096
+Affect_By 648
+Money 300
+Level 300
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#7986
+Name guard of Alteric~
+Short guard of Alteric~
+Long 
+A Guard of Alteric is here preventing travel to some.
+~
+Descr
+This guard protects the city from the forces of evil. Defeat of them
+allows the evil forces to invade, which isn't good. 
+~
+AMax 12
+NHeight 0
+ActBits 2
+Affect_By 680
+Money 35
+Level 100
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#8006
+Name merchant~
+Short a merchant~
+Long 
+A merchant, attempting to sell his goods is here.
+~
+Descr
+Always trying to make a buck this merchant does about everything you
+need. He repairs anything, sells certain items, and can even do money
+transactions for you. 
+~
+AMax 2
+NHeight 0
+ActBits 3276802
+Affect_By 552
+Money 101
+Level 101
+MobType 0
+Guard 0
+Shop    0   5   9  21  10 17 100 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#8007
+Name sabre~
+Short sabre~
+Long 
+Sabre, keeper of Alteric is here.
+~
+Descr
+Sabre, the keeper of Alteric is pretty much Alteric's last stand. But he
+is no easy foe, he has fought many enemies, and he has never lost. Fighting
+him all by yourself might not me the greatest of ideas. 
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 1073741826
+ActBits4 8192
+Affect_By 680
+Money 325
+Level 325
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+BCasts sphere of destruction~
+BCasts vulnerability~
+BCast_P 12
+End
+
+#8008
+Name deputy~
+Short a deputy~
+Long 
+A deputy is here watching over everything.
+~
+Descr
+These deputies are a few select from the elite guards. They are here to
+protect Sabre with their life, and will at any cost. 
+~
+AMax 3
+AYeller 1
+AWillhelp 1
+NHeight 0
+ActBits4 4096
+Affect_By 648
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#8059
+Name queens personal guard~
+Short the queen's personal guard~
+Long 
+The queen's personal guard is here guarding the queen's room with his life.
+~
+Descr
+This guard is here to protect the queen. 
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 680
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 4
+Spec spec_warrior
+End
+
+#8060
+Name queen Cindy~
+Short queen Cindy~
+Long 
+Queen of Alteric, Cindy is here.
+~
+Descr
+This is the queen of Alteric. She is extremely gorgeous, with blond hair
+and large breasts. 
+~
+AMax 1
+NHeight 63
+ActBits 2
+Affect_By 680
+Money 260
+Level 260
+MobType 19
+Guard 0
+BCasts balefire~
+BCast_P 10
+End
+
+#8069
+Name master warrior aone~
+Short the master warrior~
+Long 
+The master warrior is here.
+~
+Descr
+This warrior of Alteric is the teacher of all of the warriors in Alteric.
+He is very old, and he has taught many of Alteric's knights such as Drex,
+Montell, Sabre, and even King Thomas. 
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 680
+Money 400
+Level 400
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+BFlurries 1
+BWarrior_P 80
+ASklTaught 0 32
+End
+
+#8070
+Name warrior apprentice~
+Short a warrior apprentice~
+Long 
+A warrior apprentice is here.
+~
+Descr
+One of the warriors the master is currently teaching, this apprentice
+will some day be the future defense of Alteric. 
+~
+AMax 2
+NHeight 0
+ActBits 134217730
+Affect_By 552
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#8072
+Name stockton~
+Short stockton~
+Long 
+Stockton, head merchant of Alteric is here.
+~
+Descr
+This is Alteric's head merchant, and he is the one that cut a deal with
+Korgan D'arth. Korgan trades him equipment to sell or for Alteric's defenses
+for all of the food and water the slave pits need, and a good deal of money.
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 680
+Money 225
+Level 225
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts balefire~
+BCast_P 3
+End
+
+#8079
+Name guard alteric king~
+Short the king's guard~
+Long 
+The king's guard stands here protecting the king with his life.
+~
+Descr
+This is the king's personal guard. Unless you have an appointment with
+the king, you had better leave now or you might anger the guards. 
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 3
+Spec spec_warrior
+End
+
+#8080
+Name king thomas~
+Short king thomas~
+Long 
+King Thomas, king of Alteric is here.
+~
+Descr
+King of Alteric, this handsome middle aged man is very muscular. He takes
+care of the kingdom's affairs, and has a beautiful wife. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 680
+Money 375
+Level 375
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts sphere of destruction~
+BCast_P 8
+End
+
+#8088
+Name apprentice wizard~
+Short an apprentice wizard~
+Long 
+An apprentice to the master wizard is here.
+~
+Descr
+The apprentice wizard is learning from Gandalf, the master wizard. Some
+day they will be the future mages of Alteric. 
+~
+AMax 2
+NHeight 0
+ActBits -2147483646
+Affect_By 520
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+BCasts fireball~
+BCast_P 8
+End
+
+#8089
+Name wizard gandolf PRAC teacher~
+Short gandolf the wizard~
+Long 
+[Teacher] Gandolf, the sorcerer of might is here.
+~
+Descr
+Gandalf is most likely the most powerful wizard in the world. Along with
+his natural brute strength, his ability to cast some of the most powerful
+spells ever discovered makes him one incredible foe. Rumors of a skaven
+wizard thats power challenges his makes you shiver at the fact that two
+people in the world could be that powerful. 
+~
+AMax 1
+ActBits 258
+Affect_By 680
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+BCasts balefire~
+BCasts Hurricane of Devastation~
+BCasts vulnerability~
+BCasts tornado of souls~
+BCast_P 10
+End
+
+#8091
+Name alchemist alteric~
+Short an Alteric alchemist~
+Long 
+An alchemist that works for Alteric is here.
+~
+Descr
+This alchemist makes quite a few things for Alteric. He instills spells
+he knows into objects that almost any mage can use, that deal a great deal
+of power. 
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 520
+Money 225
+Level 225
+Sex 1
+MobType 0
+Guard 0
+BCasts meteor~
+BCast_P 10
+ASklTaught 0 560
+End
+
+#8095
+Name apprentice healer~
+Short an apprentice healer~
+Long 
+The master healer's apprentice is here.
+~
+Descr
+This healer is learning in the ways of more advanced healing. His master
+is Xandoph, and if anyone ever tried to hurt him, he would do all he could
+to protect Xandoph. 
+~
+AMax 2
+NHeight 0
+ActBits 134217730
+Affect_By 552
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+BCasts healing~
+BCasts blind~
+BCast_P 9
+End
+
+#8096
+Name healer master aone Xandoph~
+Short xandoph~
+Long 
+Xandoph, the master healer of Alteric is here.
+~
+Descr
+This master healer is capable of the most powerful healing spells in the
+world. If you ever challenged his skills, you would most likely have to
+defeat him very quickly, because in the long run he can heal himself
+completely. 
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 680
+Money 250
+Level 250
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+BCasts divine healing~
+BCasts searing orb~
+BCast_P 12
+ASklTaught 0 194
+End
+
+#8099
+Name scientist alteric~
+Short alteric's scientist~
+Long 
+Alteric's scientist is here.
+~
+Descr
+Alteric's technology is surpased by none. Their extremely talented
+scientists produce some of the most advanced things in the world. Getting
+your hands on some of the stuff they make would be quite advantagous to your
+health. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Money 155
+Level 155
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#7900
+Name worm skin~
+Short a worm skin~
+Descr
+A former worms skin is here waiting you you.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 50 50 10 3
+Weight 0
+Cost 400
+Affect 13 10 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#7901
+Name sign big~
+Short a sign~
+Descr
+A sign is here to be READ BEFORE GOING DOWN.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Below here is the path to one of the oldest castles in the realm. But the
+
+
+way there is inhabited by quite a few monsters, and if you get in getting
+
+
+back out isn't always easy. Most people should wait until they can magically
+
+
+leave this place or are of higher level. 
+
+
+~
+End
+
+#7921
+Name deep hole~
+Short a hole~
+Descr
+A hole with water running into it is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 7924 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#7923
+Name rushing waterfall~
+Short a waterfall~
+Descr
+A rushing waterfall into a deep hole is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 7927 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#7928
+Name mask troll face~
+Short [1m[32mMa[0m[32msk[0m of the [1m[32mTr[0mo[32mll[0m~
+Descr
+A mask shaped like a troll's face awaits a new owner.
+[0;36m~
+Type 9
+Extra 2
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 10 10 50 50 10 3
+Weight 1
+Cost 2000
+Affect 13 12 1 0 0
+End
+
+#7959
+Name flaming whip APB~
+Short a [1m[31mF[0m[31ml[1m[31ma[0m[31mm[1m[31mi[0m[31mn[1mg[0m whip~
+Descr
+A whip of fire is here.
+[0;36m~
+Type 5
+Extra 537919490
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 4 0 0 0 2 12 0
+Weight 4
+Cost 40000
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#8005
+Name street light~
+Short a street light~
+Descr
+An [1m[30mever[0m-[1m[30mburning[36m street[33m light[36m keeps the street lighted here[0m.
+[0;36m~
+Type 1
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 0 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8006
+Name cart~
+Short a Cart~
+Descr
+A Cart covered with many valuable goods is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8007
+Name fountain~
+Short a [1m[30mBlack[0m [34mMarble[0m Fountain~
+Descr
+A [1m[30mBlack[0m [34mMarble[0m Fountain is here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8008
+Name sapphire longsword sword APB~
+Short a [1m[34msa[0m[34mpphi[1mre[0m-hilted longsword~
+Descr
+A longsword that has a sapphire encrusted hilt is here.
+[0;36m~
+Type 5
+Extra 541065281
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 60 0 3 0 0 0 7 3 0
+Weight 2
+Cost 10000
+Affect 19 2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#8060
+Name scarlet rose HEALBONUS earring~
+Short a [0m[31mS[1mc[0m[31ma[1mr[0m[31ml[1me[0m[31mt[0m rose~
+Descr
+A small red glowing flower is here.
+[0;36m~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 0 0 0 0
+Weight 1
+Cost 19827
+Affect 27 2 1 0 0
+Affect 13 20 1 0 0
+Affect 14 5 1 0 0
+End
+
+#8069
+Name boots enhancement APB KICK feet~
+Short some [31mB[1m[30moot[0m[31ms[0m of [1m[30mEn[0m[31mhanceme[1m[30mnt[0m~
+Descr
+A pair of new boots are here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 10 10 50 50 10 3
+Weight 3
+Cost 12000
+Affect 19 1 1 0 0
+Affect 22 3 1 0 0
+End
+
+#8072
+Name trash~
+Short trash~
+Descr
+Trash
+[0;36m~
+Type 13
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 70 70 54 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8073
+Name flaming shard amethyst dagger piercing BS APB~
+Short a [1m[31mf[0m[31ml[1ma[0m[31mm[1mi[0m[31mn[1mg[0m shard of [1m[31ma[0m[31mm[35me[1mth[0m[35my[31ms[1mt[0m~
+Descr
+A shard is stuck in the ground here, flaming.
+[0;36m~
+Type 5
+Extra 537001985
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 11 0 0 0 2 11 0
+Weight 2
+Cost 1000
+Affect 19 1 1 0 0
+Affect 25 3 1 0 0
+End
+
+#8074
+Name shimmering shard jacinth MAGICDAM fire death water gem~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[34mja[30mc[0m[31mi[1m[30mn[34mth[0m~
+Descr
+A piece of jacinth is half buried in the ground here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 28 150 150 70 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 26 2 1 0 0
+End
+
+#8075
+Name aquamarine gem shard shimmering~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[34maqu[1m[32ma[0m[36mma[1m[32mr[34mine[0m~
+Descr
+A piece of aquamarine lies here gathering dust.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 150 150 70 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 26 2 1 0 0
+End
+
+#8076
+Name alexandrite gem shard shimmering~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[30male[0m[36mxa[31mn[36mdr[1m[30mite[0m~
+Descr
+A piece of alexandrite lies here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 22 150 150 70 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 26 2 1 0 0
+End
+
+#8077
+Name topaz gem shard shimmering~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[31mt[0m[33mo[37mp[33ma[1m[31mz[0m~
+Descr
+A piece of peridot is here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 150 150 70 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 26 2 1 0 0
+End
+
+#8078
+Name shimmering shard limestone gem~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[32ml[0m[32mi[33mm[1m[30mest[0m[33mo[32mn[1me[0m~
+Descr
+A piece of limestone lies here.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 19 150 150 70 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 26 2 1 0 0
+End
+
+#8079
+Name shard shimmering rainbow gem~
+Short a [0m[37msh[1mim[0m[37mme[1mri[0m[37mng shard of [1m[34mr[32ma[36mi[31mn[35mb[33mo[37mw[0m~
+Descr
+Long a rainbow colored shard reflects light into your eye.
+[0;36m~
+Type 21
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 31 100 100 65 0 0 0 0 0 0
+Weight 0
+Cost 0
+Affect 26 2 1 0 0
+End
+
+#8080
+Name robe thomas silver~
+Short [34mK[37mi[1m[30mn[0m[37mg [34mT[37mh[1m[30mo[0m[37mm[1m[30ma[0m[37ms[0m'[1m[30ms[0m [34mR[37mo[1m[30mb[0m[37me~
+Descr
+A robe worn by King Thomas is here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 3 3 10 10 50 50 10 3
+Weight 3
+Cost 5000
+Affect 19 1 1 0 0
+End
+
+#8088
+Name aura power floating apb~
+Short an aura of [1m[34mpower[0m~
+Descr
+A pulsating object is here.
+[0;36m~
+Type 9
+Extra 536870915
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 100 100 0 0
+Weight 1
+Cost 19287
+Affect 4 -1 1 0 0
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+Affect 22 1 1 0 0
+End
+
+#8089
+Name stone power~
+Short trash~
+Descr
+A pulsating stone of great power lies here.
+[0;36m~
+Type 13
+Extra 536870912
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 0 100 70 0 0 0 0 0 0
+Weight 1
+Cost 28174
+End
+
+#8090
+Name orb light~
+Short an orb of [1m[33mLIGHT[0m~
+Descr
+An extremely bright orb lies here.
+[0;36m~
+Type 3
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 90 1 1 65 0 0 0 0 0 0
+Weight 15
+Cost 10294
+End
+
+#8091
+Name steroids~
+Short some steroids~
+Descr
+Some steroids are here.
+[0;36m~
+Type 26
+Extra 536870912
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 90 30 33 31 0 0 0 0 0 0
+Weight 15
+Cost 10294
+End
+
+#8092
+Name bag sand powder~
+Short [1m[30ma bag of [33msand[0m~
+Descr
+A magical bag of sand lays here.
+[0;36m~
+Type 27
+Extra 536870977
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1 4 0 0 0 0 0 0 0
+Weight 5
+Cost 1827
+End
+
+#8096
+Name helm healer HEALBONUS head~
+Short the [31mH[35mel[31mm[0m of the [31mHe[35mal[31mer[0m~
+Descr
+The helm of the healer is here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 10 0 10 10 50 50 10 3
+Weight 1
+Cost 6000
+Affect 27 5 1 0 0
+Affect 26 5 1 0 0
+Affect 13 20 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#8099
+Name mechanical belt APB BS waist~
+Short a [1m[30mMechanical[0m [31mB[1m[30mel[0m[31mt[0m~
+Descr
+A machinelike belt is here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 4 0 0 10 10 50 50 10 3
+Weight 1
+Cost 12731
+Affect 13 15 1 0 0
+Affect 19 1 1 0 0
+Affect 25 3 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#7900
+Name A Narrow Hole~
+Descr
+As you squeeze through this very tight hole, you notice it opens up into
+a great cave. 
+~
+Flags 12
+Sector 0
+Reset O 7901 -5 100
+Door 2 0 0 29707 0 0
+~
+~
+Door 4 0 0 9437 0 0
+~
+~
+Door 5 0 0 7902 0 0
+~
+~
+End
+
+#7901
+Name A Huge Cave~
+Descr
+After dropping a great distance, you finally hit the ground in an old,
+damp, musty cave. All you can hear is your own echo and very distant running
+water. Some strange and powerful force draws you northward. 
+~
+Reset M 7901 1 100
+Reset M 7900 1 100
+Door 0 0 0 7912 0 0
+~
+~
+Door 1 0 0 7913 0 0
+~
+~
+Door 2 0 0 7911 0 0
+~
+~
+Door 3 0 0 7914 0 0
+~
+~
+Door 4 0 0 7902 0 0
+~
+~
+End
+
+#7902
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7903 0 0
+~
+~
+Door 1 0 0 7905 0 0
+~
+~
+Door 2 0 0 7904 0 0
+~
+~
+Door 3 0 0 7906 0 0
+~
+~
+Door 4 0 0 7900 0 0
+~
+~
+Door 5 0 0 7919 0 0
+~
+~
+End
+
+#7903
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7922 0 0
+~
+~
+Door 1 0 0 7907 0 0
+~
+~
+Door 2 0 0 7902 0 0
+~
+~
+Door 3 0 0 7908 0 0
+~
+~
+Door 5 0 0 7912 0 0
+~
+~
+End
+
+#7904
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7902 0 0
+~
+~
+Door 1 0 0 7909 0 0
+~
+~
+Door 3 0 0 7910 0 0
+~
+~
+Door 5 0 0 7911 0 0
+~
+~
+End
+
+#7905
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7907 0 0
+~
+~
+Door 2 0 0 7909 0 0
+~
+~
+Door 3 0 0 7902 0 0
+~
+~
+Door 5 0 0 7913 0 0
+~
+~
+End
+
+#7906
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7908 0 0
+~
+~
+Door 1 0 0 7902 0 0
+~
+~
+Door 2 0 0 7910 0 0
+~
+~
+Door 5 0 0 7914 0 0
+~
+~
+End
+
+#7907
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 2 0 0 7905 0 0
+~
+~
+Door 3 0 0 7903 0 0
+~
+~
+Door 5 0 0 7915 0 0
+~
+~
+End
+
+#7908
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 1 0 0 7903 0 0
+~
+~
+Door 2 0 0 7906 0 0
+~
+~
+Door 5 0 0 7916 0 0
+~
+~
+End
+
+#7909
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7905 0 0
+~
+~
+Door 3 0 0 7904 0 0
+~
+~
+Door 5 0 0 7918 0 0
+~
+~
+End
+
+#7910
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7906 0 0
+~
+~
+Door 1 0 0 7904 0 0
+~
+~
+Door 5 0 0 7917 0 0
+~
+~
+End
+
+#7911
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Sector 0
+Door 0 0 0 7919 0 0
+~
+~
+Door 1 0 0 7918 0 0
+~
+~
+Door 3 0 0 7917 0 0
+~
+~
+Door 4 0 0 7904 0 0
+~
+~
+End
+
+#7912
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 7920 0 0
+~
+~
+Door 1 0 0 7915 0 0
+~
+~
+Door 2 0 0 7919 0 0
+~
+~
+Door 3 0 0 7916 0 0
+~
+~
+End
+
+#7913
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 7915 0 0
+~
+~
+Door 2 0 0 7918 0 0
+~
+~
+Door 3 0 0 7919 0 0
+~
+~
+Door 4 0 0 7905 0 0
+~
+~
+End
+
+#7914
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 7916 0 0
+~
+~
+Door 1 0 0 7919 0 0
+~
+~
+Door 2 0 0 7917 0 0
+~
+~
+Door 4 0 0 7906 0 0
+~
+~
+End
+
+#7915
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 7913 0 0
+~
+~
+Door 3 0 0 7912 0 0
+~
+~
+Door 4 0 0 7907 0 0
+~
+~
+End
+
+#7916
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 7912 0 0
+~
+~
+Door 2 0 0 7914 0 0
+~
+~
+Door 4 0 0 7908 0 0
+~
+~
+End
+
+#7917
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Reset M 7901 1 100
+Door 0 0 0 7914 0 0
+~
+~
+Door 1 0 0 7911 0 0
+~
+~
+Door 4 0 0 7910 0 0
+~
+~
+End
+
+#7918
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Flags 4
+Sector 0
+Reset M 7901 1 100
+Door 0 0 0 7913 0 0
+~
+~
+Door 3 0 0 7911 0 0
+~
+~
+Door 4 0 0 7909 0 0
+~
+~
+End
+
+#7919
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+very distant running water. A great and powerful force draws you northward. 
+~
+Sector 0
+Door 0 0 0 7912 0 0
+~
+~
+Door 1 0 0 7913 0 0
+~
+~
+Door 2 0 0 7911 0 0
+~
+~
+Door 3 0 0 7914 0 0
+~
+~
+End
+
+#7920
+Name A Huge Cave~
+Descr
+In this old, damp, and musty cave, all you can here is your own echo and
+near running water. A VERY powerful force pulls you northward. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 7921 0 0
+~
+~
+Door 2 0 0 7912 0 0
+~
+~
+Door 4 0 0 7922 0 0
+~
+~
+End
+
+#7921
+Name A Dead End~
+Descr
+This dead end presents you a huge hole with water running into it. The
+force that pulled you once is so strong to the hole, it's almost pulling you
+into it. You have second thoughts about continuing, but the force pulls you
+onward. 
+~
+Flags 4
+Sector 0
+Reset O 7921 -5 100
+Door 2 0 0 7920 0 0
+~
+~
+Door 4 0 0 7923 0 0
+~
+~
+End
+
+#7922
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Sector 9
+Door 0 0 0 7923 0 0
+~
+~
+Door 2 0 0 7903 0 0
+~
+~
+Door 5 0 0 7920 0 0
+~
+~
+End
+
+#7923
+Name A Dead End~
+Descr
+Here at this dead end, water is rushing downwards into a great hole. Mold
+and moss grow on the walls everywhere, and the foul odor forces you to
+retreat. 
+~
+Sector 9
+Reset O 7923 -5 100
+Door 2 0 0 7922 0 0
+~
+~
+Door 5 0 0 7921 0 0
+~
+~
+End
+
+#7924
+Name At the Bottom of the Hole~
+Descr
+Suprisingly, after falling many feet, you are fine and are in chest-high
+water. There is no way you will get out the way you came down, so south
+would be the best solution. 
+~
+Flags 4
+Sector 0
+Reset M 7924 1 100
+Door 0 0 0 7927 0 0
+~
+~
+Door 2 0 0 29700 0 0
+~
+~
+End
+
+#7925
+Name A Huge Cave~
+Descr
+Hovering over the ground, you notice nothing strange. The moss covered
+walls jet out sharply at you, OUCH!  
+~
+Door 4 0 0 7926 0 0
+~
+~
+Door 5 0 0 7919 0 0
+~
+~
+End
+
+#7926
+Name A Narrow Hole~
+Descr
+As you squeeze through this very tight hole, you notice it opens up into
+a great cave. Obviously you will not leave the cave through the same way you
+came through. 
+~
+Door 5 0 0 7925 0 0
+~
+~
+End
+
+#7927
+Name A Hidden Alcove~
+Descr
+Right past the waterfall is a small alcove brightly lit by a torch in the
+corner on the wall. Only one obvious exit, and thats to the north. It looks
+like it will be a cramp, but you have no choice. 
+~
+Flags 6
+Sector 0
+Door 0 0 0 7928 0 0
+~
+~
+Door 2 0 0 7924 0 0
+~
+~
+End
+
+#7928
+Name A Small Corridor~
+Descr
+In this tiny corridor there is another torch and you notice further ahead
+the cave opens up into a great opening. 
+~
+Flags 4
+Sector 0
+Reset M 7928 1 100
+Reset O 7928 1 1
+Door 0 259 0 7929 30 30
+~
+rock~
+Door 2 0 0 7927 0 0
+~
+~
+End
+
+#7929
+Name A Small Cave Mouth~
+Descr
+Bright light hurts your eyes as you exit the cave into a huge field. a
+road runs north through the grassy field up to a huge castle, built of black
+marble. The size of this castle overwhelms you. 
+~
+Flags 2
+Door 0 0 0 7940 30 30
+~
+rock~
+Door 1 0 0 7934 0 0
+~
+~
+Door 2 259 0 7928 30 30
+~
+rock~
+Door 3 0 0 7930 0 0
+~
+~
+End
+
+#7930
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7941 0 0
+~
+~
+Door 1 0 0 7929 0 0
+~
+~
+Door 3 0 0 7931 0 0
+~
+~
+End
+
+#7931
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7942 0 0
+~
+~
+Door 1 0 0 7930 0 0
+~
+~
+Door 3 0 0 7932 0 0
+~
+~
+End
+
+#7932
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7943 0 0
+~
+~
+Door 1 0 0 7931 0 0
+~
+~
+Door 3 0 0 7933 0 0
+~
+~
+End
+
+#7933
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7944 0 0
+~
+~
+Door 1 0 0 7932 0 0
+~
+~
+End
+
+#7934
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7939 0 0
+~
+~
+Door 1 0 0 7935 0 0
+~
+~
+Door 3 0 0 7929 0 0
+~
+~
+End
+
+#7935
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7938 0 0
+~
+~
+Door 1 0 0 7936 0 0
+~
+~
+Door 3 0 0 7934 0 0
+~
+~
+End
+
+#7936
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7937 0 0
+~
+~
+Door 3 0 0 7935 0 0
+~
+~
+End
+
+#7937
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7952 0 0
+~
+~
+Door 2 0 0 7936 0 0
+~
+~
+Door 3 0 0 7938 0 0
+~
+~
+End
+
+#7938
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7951 0 0
+~
+~
+Door 1 0 0 7937 0 0
+~
+~
+Door 2 0 0 7935 0 0
+~
+~
+Door 3 0 0 7939 0 0
+~
+~
+End
+
+#7939
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7950 0 0
+~
+~
+Door 1 0 0 7938 0 0
+~
+~
+Door 2 0 0 7934 0 0
+~
+~
+Door 3 0 0 7940 0 0
+~
+~
+End
+
+#7940
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Door 0 1 0 7949 30 30
+~
+~
+Door 1 0 0 7939 0 0
+~
+~
+Door 2 0 0 7929 0 0
+~
+~
+Door 3 0 0 7941 0 0
+~
+~
+End
+
+#7941
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7948 0 0
+~
+~
+Door 1 0 0 7940 0 0
+~
+~
+Door 2 0 0 7930 0 0
+~
+~
+Door 3 0 0 7942 0 0
+~
+~
+End
+
+#7942
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7947 0 0
+~
+~
+Door 1 0 0 7941 0 0
+~
+~
+Door 2 0 0 7931 0 0
+~
+~
+Door 3 0 0 7943 0 0
+~
+~
+End
+
+#7943
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7947 1 100
+Door 0 0 0 7946 0 0
+~
+~
+Door 1 0 0 7942 0 0
+~
+~
+Door 2 0 0 7932 0 0
+~
+~
+Door 3 0 0 7944 0 0
+~
+~
+End
+
+#7944
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7945 0 0
+~
+~
+Door 1 0 0 7943 0 0
+~
+~
+Door 2 0 0 7933 0 0
+~
+~
+End
+
+#7945
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7960 0 0
+~
+~
+Door 1 0 0 7946 0 0
+~
+~
+Door 2 0 0 7944 0 0
+~
+~
+End
+
+#7946
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7959 0 0
+~
+~
+Door 1 0 0 7947 0 0
+~
+~
+Door 2 0 0 7943 0 0
+~
+~
+Door 3 0 0 7945 0 0
+~
+~
+End
+
+#7947
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7958 0 0
+~
+~
+Door 1 0 0 7948 0 0
+~
+~
+Door 2 0 0 7942 0 0
+~
+~
+Door 3 0 0 7946 0 0
+~
+~
+End
+
+#7948
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7957 0 0
+~
+~
+Door 1 0 0 7949 0 0
+~
+~
+Door 2 0 0 7941 0 0
+~
+~
+Door 3 0 0 7947 0 0
+~
+~
+End
+
+#7949
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Door 0 0 0 7956 0 0
+~
+~
+Door 1 0 0 7950 0 0
+~
+~
+Door 2 0 0 7940 0 0
+~
+~
+Door 3 0 0 7948 0 0
+~
+~
+End
+
+#7950
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7955 0 0
+~
+~
+Door 1 0 0 7951 0 0
+~
+~
+Door 2 0 0 7939 0 0
+~
+~
+Door 3 0 0 7949 0 0
+~
+~
+End
+
+#7951
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 0 0 0 7954 0 0
+~
+~
+Door 1 0 0 7952 0 0
+~
+~
+Door 2 0 0 7938 0 0
+~
+~
+Door 3 0 0 7950 0 0
+~
+~
+End
+
+#7952
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7953 0 0
+~
+~
+Door 2 0 0 7937 0 0
+~
+~
+Door 3 0 0 7951 0 0
+~
+~
+End
+
+#7953
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7968 0 0
+~
+~
+Door 2 0 0 7952 0 0
+~
+~
+Door 3 0 0 7954 0 0
+~
+~
+End
+
+#7954
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7967 0 0
+~
+~
+Door 1 0 0 7953 0 0
+~
+~
+Door 2 0 0 7951 0 0
+~
+~
+Door 3 0 0 7955 0 0
+~
+~
+End
+
+#7955
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7966 0 0
+~
+~
+Door 1 0 0 7954 0 0
+~
+~
+Door 2 0 0 7950 0 0
+~
+~
+Door 3 0 0 7956 0 0
+~
+~
+End
+
+#7956
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Door 0 0 0 7965 0 0
+~
+~
+Door 1 0 0 7955 0 0
+~
+~
+Door 2 0 0 7949 0 0
+~
+~
+Door 3 0 0 7957 0 0
+~
+~
+End
+
+#7957
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Reset M 7959 1 100
+Reset O 7959 1 1
+Door 0 0 0 7964 0 0
+~
+~
+Door 1 0 0 7956 0 0
+~
+~
+Door 2 0 0 7948 0 0
+~
+~
+Door 3 0 0 7958 0 0
+~
+~
+End
+
+#7958
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7963 0 0
+~
+~
+Door 1 0 0 7957 0 0
+~
+~
+Door 2 0 0 7947 0 0
+~
+~
+Door 3 0 0 7959 0 0
+~
+~
+End
+
+#7959
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7959 1 100
+Reset O 12503 -1 5
+Reset O 7959 1 1
+Door 0 0 0 7962 0 0
+~
+~
+Door 1 0 0 7958 0 0
+~
+~
+Door 2 0 0 7946 0 0
+~
+~
+Door 3 0 0 7960 0 0
+~
+~
+End
+
+#7960
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7961 0 0
+~
+~
+Door 1 0 0 7959 0 0
+~
+~
+Door 2 0 0 7945 0 0
+~
+~
+End
+
+#7961
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7976 0 0
+~
+~
+Door 1 0 0 7962 0 0
+~
+~
+Door 2 0 0 7960 0 0
+~
+~
+End
+
+#7962
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7975 0 0
+~
+~
+Door 1 0 0 7963 0 0
+~
+~
+Door 2 0 0 7959 0 0
+~
+~
+Door 3 0 0 7961 0 0
+~
+~
+End
+
+#7963
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7974 0 0
+~
+~
+Door 1 0 0 7964 0 0
+~
+~
+Door 2 0 0 7958 0 0
+~
+~
+Door 3 0 0 7962 0 0
+~
+~
+End
+
+#7964
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Door 0 0 0 7973 0 0
+~
+~
+Door 1 0 0 7965 0 0
+~
+~
+Door 2 0 0 7957 0 0
+~
+~
+Door 3 0 0 7963 0 0
+~
+~
+End
+
+#7965
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7972 0 0
+~
+~
+Door 1 0 0 7966 0 0
+~
+~
+Door 2 0 0 7956 0 0
+~
+~
+Door 3 0 0 7964 0 0
+~
+~
+End
+
+#7966
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Reset M 7947 1 100
+Door 0 0 0 7971 0 0
+~
+~
+Door 1 0 0 7967 0 0
+~
+~
+Door 2 0 0 7955 0 0
+~
+~
+Door 3 0 0 7965 0 0
+~
+~
+End
+
+#7967
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7970 0 0
+~
+~
+Door 1 0 0 7968 0 0
+~
+~
+Door 2 0 0 7954 0 0
+~
+~
+Door 3 0 0 7966 0 0
+~
+~
+End
+
+#7968
+Name A Huge Field~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. 
+~
+Sector 2
+Door 0 0 0 7969 0 0
+~
+~
+Door 2 0 0 7953 0 0
+~
+~
+Door 3 0 0 7967 0 0
+~
+~
+End
+
+#7969
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 1 0 0 7982 0 0
+~
+~
+Door 2 0 0 7968 0 0
+~
+~
+Door 3 0 0 7970 0 0
+~
+~
+End
+
+#7970
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7969 0 0
+~
+~
+Door 2 0 0 7967 0 0
+~
+~
+Door 3 0 0 7971 0 0
+~
+~
+End
+
+#7971
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7970 0 0
+~
+~
+Door 2 0 0 7966 0 0
+~
+~
+Door 3 0 0 7972 0 0
+~
+~
+End
+
+#7972
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7971 0 0
+~
+~
+Door 2 0 0 7965 0 0
+~
+~
+Door 3 0 0 7973 0 0
+~
+~
+End
+
+#7973
+Name A Small Dirt Road~
+Descr
+A cool breeze wisps through the fields around Castle Alteric. Grass grows
+knee high full of mice. No trees line the outline, the land is flat as far
+as you can see, except for Castle Alteric, standing tall in the center. Just
+looking at this Castle of black marble makes your knees tremble. However,
+you are on a small dirt road through the fields leading to Castle Alteric,
+that is very well taken care of. 
+~
+Door 0 0 0 7985 0 0
+~
+~
+Door 1 0 0 7972 0 0
+~
+~
+Door 2 0 0 7964 0 0
+~
+~
+Door 3 0 0 7974 0 0
+~
+~
+End
+
+#7974
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7973 0 0
+~
+~
+Door 2 0 0 7963 0 0
+~
+~
+Door 3 0 0 7975 0 0
+~
+~
+End
+
+#7975
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7974 0 0
+~
+~
+Door 2 0 0 7962 0 0
+~
+~
+Door 3 0 0 7976 0 0
+~
+~
+End
+
+#7976
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7975 0 0
+~
+~
+Door 2 0 0 7961 0 0
+~
+~
+Door 3 0 0 7977 0 0
+~
+~
+End
+
+#7977
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7976 0 0
+~
+~
+Door 3 0 0 7978 0 0
+~
+~
+End
+
+#7978
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7977 0 0
+~
+~
+Door 3 0 0 7979 0 0
+~
+~
+End
+
+#7979
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Reset M 7957 1 100
+Door 1 0 0 7978 0 0
+~
+~
+Door 3 0 0 7980 0 0
+~
+~
+End
+
+#7980
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7979 0 0
+~
+~
+Door 3 0 0 8002 0 0
+~
+~
+End
+
+#7981
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+End
+
+#7982
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7983 0 0
+~
+~
+Door 3 0 0 7969 0 0
+~
+~
+End
+
+#7983
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 7984 0 0
+~
+~
+Door 3 0 0 7982 0 0
+~
+~
+End
+
+#7984
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 1 0 0 8003 0 0
+~
+~
+Door 3 0 0 7983 0 0
+~
+~
+End
+
+#7985
+Name On the Bridge Over the Moat~
+Descr
+This wooden bridge leads over the moat. Chains are connected on each side
+of the bridge, so it appears during wartime they can raise the bridge to
+prevent invasion. 
+~
+Door 0 0 0 7986 0 0
+~
+~
+Door 2 0 0 7973 0 0
+~
+~
+End
+
+#7986
+Name Before the Gates of Alteric~
+Descr
+Right past the drawbridge is a big gate that everyone travels through
+into Alteric. Guards sitting lazily around guard this gate at anyone who
+looks suspicious, perhaps including you. 
+~
+Flags 4
+Sector 0
+Reset M 7986 1 100
+Reset M 7986 1 100
+Reset M 7986 1 100
+Door 0 3 0 7987 30 30
+~
+Gate~
+Door 2 0 0 7985 0 0
+~
+~
+End
+
+#7987
+Name The Southern Intersection of Castle Alteric~
+Descr
+This intersection in the southern part of Castle Alteric connects Market
+Street and South Street. Many people occupy this road as well as merchants
+trying to sell their goods. Carts line the streets of valuable treasures,
+food, and equipment. 
+~
+Reset O 8005 -5 100
+Door 0 0 0 8004 0 0
+~
+~
+Door 1 0 0 7988 0 0
+~
+~
+Door 2 3 0 7986 30 30
+~
+Gate~
+Door 3 0 0 7995 0 0
+~
+~
+End
+
+#7988
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7989 0 0
+~
+~
+Door 3 0 0 7987 0 0
+~
+~
+End
+
+#7989
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 3 0 29869 30 30
+~
+door~
+Door 1 0 0 7990 0 0
+~
+~
+Door 3 0 0 7988 0 0
+~
+~
+End
+
+#7990
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7991 0 0
+~
+~
+Door 3 0 0 7989 0 0
+~
+~
+End
+
+#7991
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 3 0 29870 30 30
+~
+door~
+Door 1 0 0 7992 0 0
+~
+~
+Door 3 0 0 7990 0 0
+~
+~
+End
+
+#7992
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7993 0 0
+~
+~
+Door 3 0 0 7991 0 0
+~
+~
+End
+
+#7993
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 259 0 5300 30 30
+~
+securitydoor~
+Door 1 0 0 7994 0 0
+~
+~
+Door 3 0 0 7992 0 0
+~
+~
+End
+
+#7994
+Name The Intersection of East and South Streets~
+Descr
+More houses line the street here at the intersection of South street and
+East street. A street light keeps this intersection lit up all night, and
+security guards roam the streets. 
+~
+Reset M 5300 1 100
+Reset O 5301 1 1
+Door 0 0 0 8032 0 0
+~
+~
+Door 2 3 0 29871 30 30
+~
+door~
+Door 3 0 0 7993 0 0
+~
+~
+End
+
+#7995
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7987 0 0
+~
+~
+Door 3 0 0 7996 0 0
+~
+~
+End
+
+#7996
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 3 0 29783 30 30
+~
+door~
+Door 1 0 0 7995 0 0
+~
+~
+Door 3 0 0 7997 0 0
+~
+~
+End
+
+#7997
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7996 0 0
+~
+~
+Door 3 0 0 7998 0 0
+~
+~
+End
+
+#7998
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 259 0 8061 30 30
+~
+Warriordoor~
+Door 1 0 0 7997 0 0
+~
+~
+Door 3 0 0 7999 0 0
+~
+~
+End
+
+#7999
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7998 0 0
+~
+~
+Door 2 3 0 29784 30 30
+~
+door~
+Door 3 0 0 8000 0 0
+~
+~
+End
+
+#8000
+Name South Street~
+Descr
+Along South Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 7999 0 0
+~
+~
+Door 3 0 0 8001 0 0
+~
+~
+End
+
+#8001
+Name The Intersection of West and South Streets~
+Descr
+More houses line the street here at the intersection of West street and
+South street. A street light keeps this intersection lit up all night, and
+security guards roam the streets. 
+~
+Reset M 5300 1 100
+Reset O 5301 1 1
+Door 0 0 0 8029 0 0
+~
+~
+Door 1 0 0 8000 0 0
+~
+~
+Door 2 3 0 29785 30 30
+~
+door~
+End
+
+#8002
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5348 0 0
+~
+~
+Door 1 0 0 7980 0 0
+~
+~
+End
+
+#8003
+Name The Outside Walls of Castle Alteric~
+Descr
+Right outside of Castle Alteric, the black marble walls stand very high.
+Right in front of the wall is a moat, full of green waters and creatures of
+great power. The moat smells terrible, and you can't stand it for much
+longer. 
+~
+Sector 2
+Door 0 0 0 5308 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 3 0 0 7984 0 0
+~
+~
+End
+
+#8004
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Door 0 0 0 8005 0 0
+~
+~
+Door 2 0 0 7987 0 0
+~
+~
+End
+
+#8005
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Reset M 29784 1 100
+Door 0 0 0 8006 0 0
+~
+~
+Door 2 0 0 8004 0 0
+~
+~
+Door 3 259 0 8070 30 30
+~
+Traderdoor~
+End
+
+#8006
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Reset O 8006 -5 100
+Reset M 8006 1 100
+Reset O 39 5 100
+Door 0 0 0 8007 0 0
+~
+~
+Door 2 0 0 8005 0 0
+~
+~
+End
+
+#8007
+Name Center of Castle Alteric~
+Descr
+This is the center of Castle Alteric. Most of the trade goes on around
+here. A large Black Marble Fountain stands in the center of the square. A
+small street light keeps this place lit up all night, so trade goes on all
+day. 
+~
+Flags 3145728
+Reset M 8008 1 100
+Reset M 8008 1 100
+Reset M 8008 1 100
+Reset M 8007 1 100
+Reset O 8008 1 1
+Reset O 8007 -5 100
+Reset O 8005 -5 100
+Door 0 0 0 8008 0 0
+~
+~
+Door 1 0 0 8012 0 0
+~
+~
+Door 2 0 0 8006 0 0
+~
+~
+Door 3 0 0 8019 0 0
+~
+~
+End
+
+#8008
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Reset M 29785 1 100
+Reset O 8006 -5 100
+Reset M 8006 1 100
+Reset O 37 10 100
+Door 0 0 0 8009 0 0
+~
+~
+Door 2 0 0 8007 0 0
+~
+~
+End
+
+#8009
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Door 0 0 0 8010 0 0
+~
+~
+Door 2 0 0 8008 0 0
+~
+~
+Door 3 259 0 8092 30 30
+~
+Healerdoor~
+End
+
+#8010
+Name Market Street~
+Descr
+Here, on Market Street , Merchants, Citizens, and Tourists cover the
+street making it hard to get by. Carts line the street with many valuable
+items for sale, some catch your eye. 
+~
+Door 0 0 0 8011 0 0
+~
+~
+Door 2 0 0 8009 0 0
+~
+~
+End
+
+#8011
+Name The Northern Intersection of Castle Alteric~
+Descr
+This intersection in the northern part of Castle Alteric connects Market
+Street and North Street. Many people occupy this road including merchants
+trying to sell their goods. Carts line the streets of valuable treasures,
+food, and equipment. 
+~
+Reset O 8005 -5 100
+Door 0 3 0 5327 30 30
+~
+gate~
+Door 1 0 0 8033 0 0
+~
+~
+Door 2 0 0 8010 0 0
+~
+~
+Door 3 0 0 8043 0 0
+~
+~
+End
+
+#8012
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8013 0 0
+~
+~
+Door 3 0 0 8007 0 0
+~
+~
+End
+
+#8013
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8014 0 0
+~
+~
+Door 3 0 0 8012 0 0
+~
+~
+End
+
+#8014
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Reset M 29785 1 100
+Reset O 8006 -5 100
+Reset M 8006 1 100
+Reset O 23038 1 25
+Door 1 0 0 8015 0 0
+~
+~
+Door 2 259 0 8081 30 30
+~
+Wizarddoor~
+Door 3 0 0 8013 0 0
+~
+~
+End
+
+#8015
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8016 0 0
+~
+~
+Door 3 0 0 8014 0 0
+~
+~
+End
+
+#8016
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8017 0 0
+~
+~
+Door 3 0 0 8015 0 0
+~
+~
+End
+
+#8017
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8018 0 0
+~
+~
+Door 3 0 0 8016 0 0
+~
+~
+End
+
+#8018
+Name The Eastern Intersection of Castle Alteric~
+Descr
+This intersection in the eastern part of Castle Alteric connects Trade
+Street and East Street. Many people occupy this road including merchants
+trying to sell their goods. Carts line the streets of valuable treasures,
+food, and equipment. 
+~
+Reset O 8005 -5 100
+Door 0 0 0 8042 0 0
+~
+~
+Door 1 3 0 5314 30 30
+~
+gate~
+Door 2 0 0 8030 0 0
+~
+~
+Door 3 0 0 8017 0 0
+~
+~
+End
+
+#8019
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8007 0 0
+~
+~
+Door 3 0 0 8020 0 0
+~
+~
+End
+
+#8020
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8019 0 0
+~
+~
+Door 3 0 0 8022 0 0
+~
+~
+End
+
+#8021
+Name ~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8020 0 0
+~
+~
+End
+
+#8022
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Reset M 29784 1 100
+Reset O 8006 -5 100
+Reset M 8006 1 100
+Reset O 1013 1 25
+Door 1 0 0 8020 0 0
+~
+~
+Door 3 0 0 8023 0 0
+~
+~
+End
+
+#8023
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 0 259 0 8073 30 30
+~
+Kingdoor~
+Door 1 0 0 8022 0 0
+~
+~
+Door 3 0 0 8024 0 0
+~
+~
+End
+
+#8024
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8023 0 0
+~
+~
+Door 3 0 0 8025 0 0
+~
+~
+End
+
+#8025
+Name Trade Street~
+Descr
+Traders line trade street with carts full of items for sale. Millions of
+gold are made on these streets every day, mostly from Tourists buying
+greatly overprised treasure. 
+~
+Door 1 0 0 8024 0 0
+~
+~
+Door 3 0 0 8026 0 0
+~
+~
+End
+
+#8026
+Name The Western Intersection of Castle Alteric~
+Descr
+This intersection in the western part of Castle Alteric connects Trade
+Street and West Street. Many people occupy this road including merchants
+trying to sell their goods. Carts line the streets of valuable treasures,
+food, and equipment. 
+~
+Reset O 8005 -5 100
+Door 0 0 0 8052 0 0
+~
+~
+Door 1 0 0 8025 0 0
+~
+~
+Door 2 0 0 8027 0 0
+~
+~
+Door 3 3 0 5342 30 30
+~
+gate~
+End
+
+#8027
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8026 0 0
+~
+~
+Door 1 259 0 8097 30 30
+~
+technologydoor~
+Door 2 0 0 8028 0 0
+~
+~
+End
+
+#8028
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8027 0 0
+~
+~
+Door 1 3 0 29786 30 30
+~
+door~
+Door 2 0 0 8029 0 0
+~
+~
+End
+
+#8029
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8028 0 0
+~
+~
+Door 2 0 0 8001 0 0
+~
+~
+End
+
+#8030
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8018 0 0
+~
+~
+Door 2 0 0 8031 0 0
+~
+~
+End
+
+#8031
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8030 0 0
+~
+~
+Door 2 0 0 8032 0 0
+~
+~
+Door 3 3 0 29872 30 30
+~
+door~
+End
+
+#8032
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8031 0 0
+~
+~
+Door 2 0 0 7994 0 0
+~
+~
+End
+
+#8033
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8034 0 0
+~
+~
+Door 3 0 0 8011 0 0
+~
+~
+End
+
+#8034
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8035 0 0
+~
+~
+Door 2 3 0 29874 30 30
+~
+door~
+Door 3 0 0 8033 0 0
+~
+~
+End
+
+#8035
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8036 0 0
+~
+~
+Door 3 0 0 8034 0 0
+~
+~
+End
+
+#8036
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8037 0 0
+~
+~
+Door 3 0 0 8035 0 0
+~
+~
+End
+
+#8037
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8038 0 0
+~
+~
+Door 2 3 0 29873 30 30
+~
+door~
+Door 3 0 0 8036 0 0
+~
+~
+End
+
+#8038
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8039 0 0
+~
+~
+Door 3 0 0 8037 0 0
+~
+~
+End
+
+#8039
+Name Intersection of North and East Streets~
+Descr
+More houses line the street here at the intersection of North street and
+East street. A street light keeps this intersection lit up all night, and
+security guards roam the streets. 
+~
+Reset M 5300 1 100
+Reset O 5301 1 1
+Door 2 0 0 8040 0 0
+~
+~
+Door 3 0 0 8038 0 0
+~
+~
+End
+
+#8040
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8039 0 0
+~
+~
+Door 2 0 0 8041 0 0
+~
+~
+End
+
+#8041
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8040 0 0
+~
+~
+Door 2 0 0 8042 0 0
+~
+~
+Door 3 259 0 29727 30 30
+~
+Dungeondoor~
+End
+
+#8042
+Name East Street~
+Descr
+Along East Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8041 0 0
+~
+~
+Door 2 0 0 8018 0 0
+~
+~
+End
+
+#8043
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8011 0 0
+~
+~
+Door 3 0 0 8044 0 0
+~
+~
+End
+
+#8044
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8043 0 0
+~
+~
+Door 3 0 0 8045 0 0
+~
+~
+End
+
+#8045
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8044 0 0
+~
+~
+Door 3 0 0 8046 0 0
+~
+~
+End
+
+#8046
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8045 0 0
+~
+~
+Door 2 3 0 29875 30 30
+~
+door~
+Door 3 0 0 8047 0 0
+~
+~
+End
+
+#8047
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8046 0 0
+~
+~
+Door 3 0 0 8048 0 0
+~
+~
+End
+
+#8048
+Name North Street~
+Descr
+Along North Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 1 0 0 8047 0 0
+~
+~
+Door 3 0 0 8049 0 0
+~
+~
+End
+
+#8049
+Name Intersection of North and West Streets~
+Descr
+More houses line the street here at the intersection of North street and
+West street. A street light keeps this intersection lit up all night, and
+security guards roam the streets. 
+~
+Reset M 5300 1 100
+Reset O 5301 1 1
+Door 0 3 0 29876 30 30
+~
+door~
+Door 1 0 0 8048 0 0
+~
+~
+Door 2 0 0 8050 0 0
+~
+~
+End
+
+#8050
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8049 0 0
+~
+~
+Door 1 3 0 29877 30 30
+~
+door~
+Door 2 0 0 8051 0 0
+~
+~
+End
+
+#8051
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8050 0 0
+~
+~
+Door 1 259 0 8053 30 30
+~
+queendoor~
+Door 2 0 0 8052 0 0
+~
+~
+End
+
+#8052
+Name West Street~
+Descr
+Along West Street there are many houses where citizens of Alteric live.
+Small but sturdy houses are everywhere, and children play along outside the
+houses. 
+~
+Door 0 0 0 8051 0 0
+~
+~
+Door 2 0 0 8026 0 0
+~
+~
+End
+
+#8053
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8054 0 0
+~
+~
+Door 3 259 0 8051 30 30
+~
+queendoor~
+End
+
+#8054
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8055 0 0
+~
+~
+Door 3 0 0 8053 0 0
+~
+~
+End
+
+#8055
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8054 0 0
+~
+~
+Door 4 0 0 8056 0 0
+~
+~
+End
+
+#8056
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8057 0 0
+~
+~
+Door 5 0 0 8055 0 0
+~
+~
+End
+
+#8057
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8056 0 0
+~
+~
+Door 3 0 0 8058 0 0
+~
+~
+End
+
+#8058
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8059 0 0
+~
+~
+Door 1 0 0 8057 0 0
+~
+~
+End
+
+#8059
+Name Hallway to the Queen's Private Room~
+Descr
+The queen's private room is where her, and her husband sleep, even though
+he hardly ever has time to sleep. Her room is guarded by two guards of great
+strength and their glances give you the impression that now is the time to
+leave. 
+~
+Flags 4
+Sector 0
+Reset M 8059 1 100
+Reset M 8059 1 100
+Door 2 0 0 8058 0 0
+~
+~
+Door 4 0 0 8060 0 0
+~
+~
+End
+
+#8060
+Name Queen's Room~
+Descr
+Resting here in the room is Queen Cindy. Vases and painting are
+everywhere in this huge lavish room. The Black Marble walls surround you,
+but there are two windows looking out to the fields of Alteric. 
+~
+Flags 4
+Sector 0
+Reset M 8060 1 100
+Reset O 8060 1 1
+Reset O 8060 1 1
+Door 5 0 0 8059 0 0
+~
+~
+End
+
+#8061
+Name Entrance to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8062 0 0
+~
+~
+Door 2 259 0 7998 30 30
+~
+Warriordoor~
+End
+
+#8062
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8063 0 0
+~
+~
+Door 2 0 0 8061 0 0
+~
+~
+End
+
+#8063
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8064 0 0
+~
+~
+Door 3 0 0 8062 0 0
+~
+~
+End
+
+#8064
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8065 0 0
+~
+~
+Door 3 0 0 8063 0 0
+~
+~
+End
+
+#8065
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8064 0 0
+~
+~
+Door 4 0 0 8066 0 0
+~
+~
+End
+
+#8066
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 8067 0 0
+~
+~
+Door 5 0 0 8065 0 0
+~
+~
+End
+
+#8067
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8068 0 0
+~
+~
+Door 1 0 0 8066 0 0
+~
+~
+End
+
+#8068
+Name Hallway to Warrior Headquarters~
+Descr
+Before you lies the hallway to warrior Headquarters, where all new
+warriors in Alteric become skilled fighting warriors. Obviously you need
+some help in this catergory, so maybe they can help you. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8067 0 0
+~
+~
+Door 4 0 0 8069 0 0
+~
+~
+End
+
+#8069
+Name Warrior Headquarters~
+Descr
+Young warriors in training are here beating up on sacks of flour. They
+are quite skilled. The oldest man here, obviously the master warrior greets
+you into his headquarters and encourages you to test his apprentices in
+combat. 
+~
+Flags 4
+Sector 0
+Reset M 8069 1 100
+Reset O 27 -1 3
+Reset O 8069 1 1
+Reset M 8070 1 100
+Reset M 8070 1 100
+Door 5 0 0 8068 0 0
+~
+~
+End
+
+#8070
+Name Entrance to an Office~
+Descr
+This is the enterance to a lavish, well furnitured office. The Head
+Merchant's residence is ahead, but beware, he doesn't like unexpected
+guests. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8071 0 0
+~
+~
+Door 1 259 0 8005 30 30
+~
+Traderdoor~
+End
+
+#8071
+Name Entrance to an Office~
+Descr
+This is the enterance to a lavish, well furnitured office. The Head
+Merchant's residence is ahead, but beware, he doesn't like unexpected
+guests. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8070 0 0
+~
+~
+Door 3 3 0 8072 30 30
+~
+door~
+End
+
+#8072
+Name Stockton's Office~
+Descr
+Stockton, the Head Merchant of Alteric has his office up where, which he
+basically lives in. The royal purple carpet and many famous paintings on the
+wall obviously state that this man is a very wealthy man. You do not have an
+appointment, so you better leave. 
+~
+Flags 4
+Sector 0
+Reset M 8072 1 100
+Reset O 8073 -1 5
+Door 1 3 0 8071 30 30
+~
+door~
+End
+
+#8073
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8074 0 0
+~
+~
+Door 2 259 0 8023 30 30
+~
+Kingdoor~
+End
+
+#8074
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8075 0 0
+~
+~
+Door 2 0 0 8073 0 0
+~
+~
+End
+
+#8075
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8076 0 0
+~
+~
+Door 3 0 0 8074 0 0
+~
+~
+End
+
+#8076
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8077 0 0
+~
+~
+Door 3 0 0 8075 0 0
+~
+~
+End
+
+#8077
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8076 0 0
+~
+~
+Door 4 0 0 8078 0 0
+~
+~
+End
+
+#8078
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 8079 0 0
+~
+~
+Door 5 0 0 8077 0 0
+~
+~
+End
+
+#8079
+Name Hallway to the Throne Room~
+Descr
+This is the hallway to the throne room. Red carpet covers the floor and
+guards are everywhere. If you haven't been scheduled to meet the King, now
+is the time to leave. 
+~
+Flags 4
+Sector 0
+Reset M 8079 1 100
+Reset M 8079 1 100
+Door 3 0 0 8080 0 0
+~
+~
+Door 5 0 0 8078 0 0
+~
+~
+End
+
+#8080
+Name Throne Room~
+Descr
+This is the throne room of Alteric. King Thomas reigns Alteric and it's
+surrounding area, and this is his throne room. In front of you on a throne
+of gold he sits, impatiently waiting for you to leave. 
+~
+Flags 4
+Sector 0
+Reset M 8080 1 100
+Reset O 5300 -5 100
+Reset O 8080 1 2
+Door 1 0 0 8079 0 0
+~
+~
+End
+
+#8081
+Name Entrance to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 259 0 8014 30 30
+~
+Wizarddoor~
+Door 1 0 0 8082 0 0
+~
+~
+End
+
+#8082
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8083 0 0
+~
+~
+Door 3 0 0 8081 0 0
+~
+~
+End
+
+#8083
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8082 0 0
+~
+~
+Door 2 0 0 8084 0 0
+~
+~
+End
+
+#8084
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8083 0 0
+~
+~
+Door 3 0 0 8086 0 0
+~
+~
+Door 4 259 0 8085 30 30
+~
+Alchemistdoor~
+End
+
+#8085
+Name Stairway to Alchemist Workshop~
+Descr
+This stairway leads to the Alchemist workshop. In the Alchemist workshop
+new potions are produced daily, with many effects. Potions take weeks to
+perfect, so these people that run the Alchemist don't get out much. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 8090 0 0
+~
+~
+Door 5 259 0 8084 30 30
+~
+Alchemistdoor~
+End
+
+#8086
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8084 0 0
+~
+~
+Door 3 0 0 8087 0 0
+~
+~
+End
+
+#8087
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8088 0 0
+~
+~
+Door 1 0 0 8086 0 0
+~
+~
+End
+
+#8088
+Name Hallway to the Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8087 0 0
+~
+~
+Door 4 0 0 8089 0 0
+~
+~
+End
+
+#8089
+Name The Wizard's Laboratory~
+Descr
+The Wizard Laboratory is where most new spells are created. Also, many
+new wizards are trained in the art of wizardry here to defend Alteric. These
+apprentices are practicing spells right now impatiently, and you better
+leave before they target you. 
+~
+Flags 5
+Sector 0
+Reset M 8089 1 100
+Reset O 26 -1 3
+Reset O 8088 1 1
+Reset M 8088 1 100
+Reset M 8088 1 100
+Door 5 0 0 8088 0 0
+~
+~
+End
+
+#8090
+Name Stairway to Alchemist Workshop~
+Descr
+This stairway leads to the Alchemist workshop. In the Alchemist workshop
+new potions are produced daily, with many effects. Potions take weeks to
+perfect, so these people that run the Alchemist don't get out much. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 8091 0 0
+~
+~
+Door 5 0 0 8085 0 0
+~
+~
+End
+
+#8091
+Name Alchemist Workshop~
+Descr
+This stairway leads to the Alchemist workshop. In the Alchemist workshop
+new potions are produced daily, with many effects. Potions take weeks to
+perfect, so these people that run the Alchemist don't get out much. The
+Alchemists are stirring up a new potion 
+~
+Flags 5
+Sector 0
+Reset M 8091 1 100
+Reset O 8091 1 1
+Reset O 8092 -1 5
+Door 5 0 0 8090 0 0
+~
+~
+End
+
+#8092
+Name Hallway to the Healer's Abode~
+Descr
+As you travel through this hallway, a warm feeling comes over your body.
+Black Marble walls surround you, there are no windows, but a torch lighting
+the way. You hear strange chanting from up ahead. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8093 0 0
+~
+~
+Door 1 259 0 8009 30 30
+~
+Healerdoor~
+End
+
+#8093
+Name Hallway to the Healer's Abode~
+Descr
+As you travel through this hallway, a warm feeling comes over your body.
+Black Marble walls surround you, there are no windows, but a torch lighting
+the way. You hear strange chanting from up ahead. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8092 0 0
+~
+~
+Door 4 0 0 8094 0 0
+~
+~
+End
+
+#8094
+Name Hallway to the Healer's Abode~
+Descr
+As you travel through this hallway, a warm feeling comes over your body.
+Black Marble walls surround you, there are no windows, but a torch lighting
+the way. You hear strange chanting from up ahead. 
+~
+Flags 4
+Sector 0
+Door 3 0 0 8095 0 0
+~
+~
+Door 5 0 0 8093 0 0
+~
+~
+End
+
+#8095
+Name Hallway to the Healer's Abode~
+Descr
+As you travel through this hallway, a warm feeling comes over your body.
+Black Marble walls surround you, there are no windows, but a torch lighting
+the way. You hear strange chanting from up ahead. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 8094 0 0
+~
+~
+Door 4 0 0 8096 0 0
+~
+~
+End
+
+#8096
+Name Healer's Abode~
+Descr
+This is where young apprentices learn to become skilled healers in
+Alteric. All of the healer are chanting some unknown language with their
+eyes shut sitting crosslegged, so you think to yourself now is not a good
+time to bother them. 
+~
+Flags 4
+Sector 0
+Reset M 8096 1 100
+Reset O 8096 -1 4
+Reset M 8095 1 100
+Reset M 8095 1 100
+Door 5 0 0 8095 0 0
+~
+~
+End
+
+#8097
+Name Entrance to Alteric's Technology Center~
+Descr
+Alteric's Technology Center is where all of Alteric's Technology is
+created. Many interesting and useful inventions were made here. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 8098 0 0
+~
+~
+Door 3 259 0 8027 30 30
+~
+technologydoor~
+End
+
+#8098
+Name Hallway to Alteric's Technological Advancements Laboratory~
+Descr
+Alteric's Technology Center is where all of Alteric's Technology is
+created. Many interesting and useful inventions were made here. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 8097 0 0
+~
+~
+Door 4 0 0 8099 0 0
+~
+~
+End
+
+#8099
+Name Alteric's Technological Advancements Laboratory~
+Descr
+Alteric's Technology Center is where all of Alteric's Technology is
+created. Many interesting and useful inventions were made here. Scientists
+are making new inventions every day here that help Alteric be one of the
+most powerful kingdoms in the world. 
+~
+Flags 4
+Sector 0
+Reset M 8099 1 100
+Reset O 8099 1 1
+Door 5 0 0 8098 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

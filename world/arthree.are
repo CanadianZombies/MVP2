@@ -1,0 +1,1414 @@
+#AREADATA 
+Name The Depths of Masqe~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 10001 10100
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#10001
+Name bush giant~
+Short a giant thorn bush~
+Long 
+A giant thorn bush sways malignantly towards you.
+~
+Descr
+This giant thorn bush is covered with sharp needles, and for some reason,
+its strange, deformed mouthlike center doesn't look too friendly...  
+~
+Attackmsg poke~
+AMax 3
+NHeight 0
+ActBits 11
+Money 16
+Level 16
+MobType 17
+Guard 0
+End
+
+#10002
+Name ancient orc orcish warrior~
+Short an ancient orcish warrior~
+Long 
+An ancient orcish warrior wanders the caves, thinking of the past.
+~
+Descr
+This large, ancient warrior looks like he has stood the test of time. 
+His large hands and powerful, rippling muscles look like they could be used
+together to crush anyone who stands against him in battle.  
+~
+Attackmsg smash~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 520
+Alignment -10
+Money 41
+Level 41
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 335544320
+End
+
+#10003
+Name plant creature man~
+Short a plant man~
+Long 
+A strange plant creature, in the form of a man, stands here.
+~
+Descr
+This strange, green, plantlike creature walks around on two legs, and
+almost looks like a man...  You hope he doesn't have an appetite for living
+flesh.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 512
+Money 20
+Level 20
+Sex 1
+MobType 17
+Guard 0
+RaceHate 335544320
+End
+
+#10004
+Name giant rat~
+Short a giant rat~
+Long 
+A giant rat scurries along here, looking for food.
+~
+Descr
+What an ugly bugger...  
+~
+AMax 5
+NHeight 0
+ActBits 9
+Affect_By 512
+Money 4
+Level 4
+MobType 18
+Guard 0
+End
+
+#10005
+Name dark guardian~
+Short a dark guardian~
+Long 
+A dark guardian stands here, carefully looking you over.
+~
+Descr
+This guardian stands in the corridor, unaware of how long he has been
+here.  All that matters to him is not letting any pass to the south.  
+~
+Attackmsg claw~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Affect_By 552
+Alignment -200
+Money 58
+Level 58
+Sex 1
+MobType 9
+Guard 2
+End
+
+#10006
+Name dragon red large~
+Short a red dragon~
+Long 
+A large, red dragon walks around here, too large to escape the room.
+~
+Descr
+This huge, red dragon not only has fiery breath, but fiery eyes which
+seem to bore into your soul.  A strange look of hatred and frustration is
+etched permanently onto this beast's face.  
+~
+AMax 1
+NHeight 0
+ActBits 9
+ActBits4 2048
+Affect_By 520
+AffectTWO 1
+Alignment -10
+Money 180
+Level 180
+Sex 2
+MobType 5
+Guard 0
+Spec spec_breath_fire
+ArmorClass -290
+BCasts breath of fire~
+BCasts firestorm~
+BCast_P 3
+End
+
+#10007
+Name strange creature gremlin~
+Short a gremlin~
+Long 
+A strange, furry creature sits here, hunched over.
+~
+Descr
+This strange creature is a Gremlin if you ever saw one...  The beady
+looking eyes, the thick, tangled fur, the tan, wrinkled skin...  Yep.. 
+Definately a Gremlin.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Money 11
+Level 11
+MobType 0
+Guard 0
+End
+
+#10008
+Name large drow warrior~
+Short a large drow warrior~
+Long 
+A large drow warrior stands here, eating some fungus.
+~
+Descr
+This large drow warrior looks fast and sturdy.  You can't help but notice
+the strange green fungus he is franticly gnawing upon.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 512
+Alignment -100
+Money 29
+Level 29
+Sex 1
+MobType 26
+Guard 0
+RaceHate 335544320
+End
+
+#10009
+Name lost orcish scout orc~
+Short an orcish scout~
+Long 
+An orcish scout wanders around here, looking very lost.
+~
+Descr
+This orcish scout was probably sent down here by the chieftain of masqe
+or some other high commander, since any scout in his right mind wouldn't
+come down to this haunted place by his own free will.  
+~
+AMax 2
+NHeight 0
+ActBits 17
+Alignment -100
+Money 14
+Level 14
+Sex 1
+MobType 25
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#10001
+Name yellow portal~
+Short a [1m[33myellow [0mportal~
+Descr
+[0mA strange, [1m[33myellow[0m portal lies up against a desert wall of sand.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 28960 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#10002
+Name long sharp~
+Short a long, sharp thorn~
+Descr
+A long, sharp thorn lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 11 0 0 0 4 2 0
+Weight 1
+Cost 396
+End
+
+#10003
+Name leafy shirt green~
+Short a leafy-green shirt~
+Descr
+A leafy-green shirt lies here on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 14 14 0 0
+Weight 0
+Cost 71
+Affect 14 10 1 0 0
+End
+
+#10004
+Name thorn leaf strange~
+Short a strange leaf~
+Descr
+A strange leaf lies here on the ground.
+[0;36m~
+Type 26
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 12 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 295
+End
+
+#10005
+Name iron spike~
+Short an iron spike~
+Descr
+An iron spike lies on the ground here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 11 0 0 0 2 5 0
+Weight 2
+Cost 802
+End
+
+#10006
+Name dark blade steel~
+Short a dark, steel blade~
+Descr
+A dark steel blade lies here on the ground.
+[0;36m~
+Type 5
+Extra 2099200
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 3 0 0 0 2 8 0
+Weight 2
+Cost 1847
+Affect 19 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#10007
+Name dark helm~
+Short a dark helm~
+Descr
+A dark helm lies here, blending in with the shadows.
+[0;36m~
+Type 9
+Extra 2560
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 70 70 0 0
+Weight 1
+Cost 998
+Affect 17 -2 1 0 0
+Affect 18 1 1 0 0
+Affect 20 -1 1 0 0
+Affect 23 3 1 0 0
+End
+
+#10008
+Name red dragon tooth~
+Short a red dragon's tooth~
+Descr
+A red dragon's tooth lies here on the ground.
+[0;36m~
+Type 9
+Extra 536873025
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 3 0 10 10 50 50 10 1
+Weight 0
+Cost 2384
+Affect 18 1 1 0 0
+Affect 13 15 1 0 0
+End
+
+#10009
+Name red dragon scale~
+Short a [1m[31mred [0m[31mdragon's [1m[31mscale[0m~
+Descr
+The scale from a red dragon lies here on the ground.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 4 0 10 10 50 50 10 1
+Weight 4
+Cost 3021
+Affect 19 1 1 0 0
+Affect 18 -1 1 0 0
+End
+
+#10010
+Name small clay ring~
+Short a small, clay ring~
+Descr
+A small clay ring lies here on the ground.
+[0;36m~
+Type 8
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 0 0 0 0
+Weight 0
+Cost 485
+Affect 21 2 1 0 0
+End
+
+#10011
+Name strange green fungus~
+Short [0m[37msome strange [1m[32mgreen[0m[37m fungus~
+Descr
+Some strange green fungus lies here on the ground.
+[0;36m~
+Type 26
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 1 1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#10012
+Name strange green fungus~
+Short [0m[37msome strange [32m[1mgreen[0m[37m fungus~
+Descr
+Some strange green fungus lies here on the ground.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#10039
+Name dark Portal to Marneth~
+Short [0m[31m An Ancient Portal~
+Descr
+An ancient portal rests against the wall
+[0;36m~
+Type 12
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 93701 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#10041
+Name ancient Barrel~
+Short [0m[31m Ancient Barrel~
+Descr
+An ancient barrel sits abandon on the ground here.
+[0;36m~
+Type 15
+Extra 64
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 0 2 0 0 0 0 0 0 0
+Weight 40
+Cost 1000
+End
+
+#0
+
+
+
+#ROOMDATA
+#10001
+Name A Large Stone Stairway~
+Descr
+You stand on a huge stone stairway that has probably been around for
+centuries.  Above you, you can see the trapdoor that leads back up into
+Masqe, and below you, darkness...  
+~
+Flags 6
+Sector 0
+Door 4 3 0 8401 30 30
+~
+trapdoor~
+Door 5 0 0 10002 30 30
+~
+door~
+End
+
+#10002
+Name A Large Stone Stairway~
+Descr
+This large stone stairway continues both up and down.  Below, you hear
+total silence, and the air seems still and old.  The stairs here are worn
+and look well travelled upon.  
+~
+Flags 4
+Sector 0
+Door 4 0 0 10001 30 30
+~
+door~
+Door 5 0 0 10003 30 30
+~
+door~
+End
+
+#10003
+Name A Stairway Into the Depths of Masqe~
+Descr
+This large stone stairway continues both up and down.  Below, you hear
+total silence, and the air seems still and old.  The stairs here are worn
+and look well travelled upon.  
+~
+Flags 6
+Sector 0
+Door 4 0 0 10002 30 30
+~
+door~
+Door 5 0 0 10004 30 30
+~
+door~
+End
+
+#10004
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10007 30 30
+~
+door~
+Door 1 0 0 10006 30 30
+~
+door~
+Door 2 0 0 10005 30 30
+~
+door~
+Door 3 0 0 10008 30 30
+~
+door~
+Door 4 0 0 10003 30 30
+~
+door~
+End
+
+#10005
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10004 30 30
+~
+door~
+Door 1 0 0 10012 30 30
+~
+door~
+Door 3 0 0 10011 30 30
+~
+door~
+End
+
+#10006
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10010 30 30
+~
+door~
+Door 2 0 0 10012 30 30
+~
+door~
+Door 3 0 0 10004 30 30
+~
+door~
+End
+
+#10007
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10010 30 30
+~
+door~
+Door 2 0 0 10004 30 30
+~
+door~
+Door 3 0 0 10009 30 30
+~
+door~
+End
+
+#10008
+Name The Depths of Masqe~
+Descr
+This large room in the massive depths of Masqe is damp and dreary; not
+unlike the rest of this underground dwelling.  A strange smell of decay hits
+you, and you realize the air just moved; amazing...  Probably hasn't
+happened for 100 years.  
+~
+Flags 4
+Sector 0
+Reset M 10009 2 100
+Reset O 208 6 14
+Reset O 220 4 19
+Reset M 10004 5 100
+Door 0 0 0 10009 30 30
+~
+door~
+Door 1 0 0 10004 30 30
+~
+door~
+Door 2 0 0 10011 30 30
+~
+door~
+Door 3 0 0 10013 30 30
+~
+door~
+End
+
+#10009
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10007 30 30
+~
+door~
+Door 2 0 0 10008 30 30
+~
+door~
+Door 3 0 0 10014 30 30
+~
+door~
+End
+
+#10010
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 10006 30 30
+~
+door~
+Door 3 0 0 10007 30 30
+~
+door~
+End
+
+#10011
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Reset M 10009 2 100
+Reset O 205 6 26
+Reset O 219 4 18
+Reset O 3213 26 9
+Reset M 10004 5 100
+Door 0 0 0 10008 30 30
+~
+door~
+Door 1 0 0 10005 30 30
+~
+door~
+End
+
+#10012
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  A stone passageway leads
+east of here, and a moss-covered passageway winds south.  
+~
+Flags 4
+Sector 0
+Reset M 10004 5 100
+Door 0 0 0 10006 30 30
+~
+door~
+Door 1 0 0 10016 30 30
+~
+door~
+Door 2 0 0 10015 30 30
+~
+door~
+Door 3 0 0 10005 30 30
+~
+door~
+End
+
+#10013
+Name The Depths of Masqe~
+Descr
+You stand in the large, expansive, depths of Masqe.  Built long before
+the city as the original Orc caves, it was not until Krag joined the Orcs
+and Dark-elves that Masqe came into existance.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10014 30 30
+~
+door~
+Door 1 0 0 10008 30 30
+~
+door~
+End
+
+#10014
+Name The Depths of Masqe~
+Descr
+This small alcove in the massive depths of Masqe is damp and dreary; not
+unlike the rest of this underground dwelling.  A strange smell of decay hits
+you, and you realize the air just moved; amazing...  Probably hasn't
+happened for 100 years.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10009 30 30
+~
+door~
+Door 2 0 0 10013 30 30
+~
+door~
+End
+
+#10015
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  The passage runs south, and a large room is to the north.  
+~
+Flags 4
+Sector 0
+Reset M 10005 1 100
+Reset O 1054 10 19
+Reset O 10007 5 8
+Reset O 10006 21 9
+Reset O 237 21 48
+Door 0 0 0 10012 30 30
+~
+door~
+Door 2 0 0 10018 30 30
+~
+door~
+End
+
+#10016
+Name A Cold, Stone Passageway~
+Descr
+This ancient stone passageway is wet and slippery, and the air is damp
+and still.  The passage runs to the east, and the large room of the Masqe
+underground is to the west.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10017 30 30
+~
+door~
+Door 3 0 0 10012 30 30
+~
+door~
+End
+
+#10017
+Name A Cold, Stone Passageway~
+Descr
+This stone passageway echos your footsteps clearly into the still air as
+you walk along this ancient stone floor.  The passageway bends to the north
+and west here.  Far to the west you can see a massive room.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10021 30 30
+~
+door~
+Door 3 0 0 10016 30 30
+~
+door~
+End
+
+#10018
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10015 30 30
+~
+door~
+Door 1 0 0 10019 30 30
+~
+door~
+Door 3 0 0 10020 30 30
+~
+door~
+End
+
+#10019
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  
+~
+Flags 4
+Sector 0
+Door 3 0 0 10018 30 30
+~
+door~
+End
+
+#10020
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10018 30 30
+~
+door~
+Door 3 0 0 10040 30 30
+~
+door~
+End
+
+#10021
+Name A Cold, Stone Passageway~
+Descr
+This stone passageway echos your footsteps clearly into the still air as
+you walk along this ancient stone floor.  The passageway runs south, and a
+large stone cavern can be seen to the east.  
+~
+Flags 4
+Sector 0
+Reset M 10002 1 100
+Reset O 241 12 44
+Reset O 1062 -1 37
+Reset O 236 22 88
+Reset O 208 6 72
+Reset O 14594 10 13
+Reset O 10005 21 19
+Reset M 10004 5 100
+Door 1 0 0 10022 30 30
+~
+door~
+Door 2 0 0 10017 30 30
+~
+door~
+End
+
+#10022
+Name A Stone Cavern~
+Descr
+This moderately sized cavern is natural and almost seems to have small
+plants growing around some of the more earthen corners.  You are at the
+southwestern end of the cavern.  A stone passage leads west.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10023 30 30
+~
+door~
+Door 1 0 0 10024 30 30
+~
+door~
+Door 3 0 0 10021 30 30
+~
+door~
+End
+
+#10023
+Name A Stone Cavern~
+Descr
+This moderately sized cavern is natural and almost seems to have small
+plants growing around some of the more earthen corners.  You are at the
+northwestern corner of the cavern.  A strange cavern leads north from here. 
+~
+Flags 6
+Sector 0
+Reset M 10004 5 100
+Door 0 0 0 10026 30 30
+~
+door~
+Door 1 0 0 10025 30 30
+~
+door~
+Door 2 0 0 10022 30 30
+~
+door~
+End
+
+#10024
+Name A Stone Cavern~
+Descr
+This moderately sized cavern is natural and almost seems to have small
+plants growing around some of the more earthen corners.  You are at the
+southeastern end of the cavern.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10025 30 30
+~
+door~
+Door 3 0 0 10022 30 30
+~
+door~
+End
+
+#10025
+Name A Stone Cavern~
+Descr
+This moderately sized cavern is natural and almost seems to have small
+plants growing around some of the more earthen corners.  A misty passageway
+begins to the east of here, and the cavern stretches out to the southwest.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10028 30 30
+~
+door~
+Door 2 0 0 10024 30 30
+~
+door~
+Door 3 0 0 10023 30 30
+~
+door~
+End
+
+#10026
+Name A Strange, Glowing Passageway~
+Descr
+You stand in a strange, glowing passageway.  Odd green lichen seems to
+illuminate the area, and almost seems to move on the walls.  The rocks
+overhead look very loose; like they could fall at any moment.  
+~
+Flags 134217732
+Sector 0
+Door 0 0 0 10027 30 30
+~
+door~
+Door 2 0 0 10023 30 30
+~
+door~
+End
+
+#10027
+Name A Strange, Glowing Passageway~
+Descr
+You stand in a strange, glowing passageway.  Odd green lichen seems to
+illuminate the area, and almost seems to move on the walls.  The rocks
+overhead look very loose; like they could fall at any moment.  
+~
+Flags 134217732
+Sector 0
+Reset M 10008 1 100
+Reset O 10011 -1 45
+Reset O 10012 -1 100
+Reset O 50257 6 10
+Reset O 50258 8 3
+Reset O 50252 21 59
+Door 2 0 0 10026 30 30
+~
+door~
+End
+
+#10028
+Name A Damp Passageway~
+Descr
+You stand in a damp, underground passageway.  Green, algae-filled water
+drips from the ceiling, echoing throughout the still air.  You can smell
+must and mildew and you begin to feel as old as the ancient passageway.  
+~
+Flags 4
+Door 1 0 0 10029 30 30
+~
+door~
+Door 3 0 0 10025 30 30
+~
+door~
+End
+
+#10029
+Name A Damp Passageway~
+Descr
+You stand in a damp, underground passageway.  Green, algae-filled water
+drips from the ceiling, echoing throughout the still air.  You can smell
+must and mildew and you begin to feel as old as the ancient passageway.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 10030 30 30
+~
+door~
+Door 3 0 0 10028 30 30
+~
+door~
+End
+
+#10030
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  You are at the southwest corner.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10031 30 30
+~
+door~
+Door 1 0 0 10032 30 30
+~
+door~
+Door 2 0 0 10029 30 30
+~
+door~
+End
+
+#10031
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  
+~
+Flags 4
+Sector 0
+Reset M 10003 3 100
+Reset O 10003 4 72
+Reset O 10004 21 26
+Door 0 0 0 10034 30 30
+~
+door~
+Door 1 0 0 10033 30 30
+~
+door~
+Door 2 0 0 10030 30 30
+~
+door~
+End
+
+#10032
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  You are at the southeast corner.  
+~
+Flags 4
+Sector 0
+Reset M 10003 3 100
+Reset O 10003 4 41
+Door 0 0 0 10033 30 30
+~
+door~
+Door 3 0 0 10030 30 30
+~
+door~
+End
+
+#10033
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  There are some strange ferns covering the eastern,
+stone wall.  
+~
+Flags 6
+Sector 0
+Reset M 10003 3 100
+Door 0 0 0 10035 30 30
+~
+door~
+Door 1 259 0 10036 30 30
+You see some large ferns...  
+~
+ferns~
+Door 2 0 0 10032 30 30
+~
+door~
+Door 3 0 0 10031 30 30
+~
+door~
+End
+
+#10034
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  You are in the northwest corner.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10035 30 30
+~
+door~
+Door 2 0 0 10031 30 30
+~
+door~
+End
+
+#10035
+Name An Underground Garden~
+Descr
+This strange, underground garden is damp and moist.  Moss grows on the
+walls and large plants, covered with dew, brush against your legs.  The air
+is stiffling and heavy.  You are in the northeast corner.  
+~
+Flags 4
+Sector 0
+Reset M 10001 3 100
+Reset O 10002 21 4
+Door 2 0 0 10033 30 30
+~
+door~
+Door 3 0 0 10034 30 30
+~
+door~
+End
+
+#10036
+Name A Secret Garden~
+Descr
+This secret garden is like none you have ever seen before.  The walls
+seem to glow with an eerie light, and strange, exotic plants seem to move
+and sway in the stagnant air.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10037 30 30
+~
+door~
+Door 3 259 0 10033 30 30
+You see some ferns, covering up a hole in the wall...  
+~
+ferns~
+End
+
+#10037
+Name A Secret Garden~
+Descr
+This secret garden is like none you have ever seen before.  The walls
+seem to glow with an eerie light, and strange, exotic plants seem to move
+and sway in the stagnant air.  From here, you realize the garden is quite
+small, as you can see stone walls to the north and south after small short
+stretches of more garden.  
+~
+Flags 4
+Sector 0
+Reset M 10001 3 100
+Door 0 0 0 10038 30 30
+~
+door~
+Door 2 0 0 10039 30 30
+~
+door~
+Door 3 0 0 10036 30 30
+~
+door~
+End
+
+#10038
+Name A Secret Garden~
+Descr
+This secret garden is like none you have ever seen before.  The walls
+seem to glow with an eerie light, and strange, exotic plants seem to move
+and sway in the stagnant air.  A stone wall blocks your way north.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 10037 30 30
+~
+door~
+End
+
+#10039
+Name A Secret Garden~
+Descr
+This secret garden is like none you have ever seen before.  The walls
+seem to glow with an eerie light, and strange, exotic plants seem to move
+and sway in the stagnant air.  You are at the southern end.  
+~
+Flags 4
+Sector 0
+Reset O 10039 -5 100
+Reset O 10041 -5 100
+Door 0 0 0 10037 30 30
+~
+door~
+End
+
+#10040
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  The passage turns east and south here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10020 30 30
+~
+door~
+Door 2 0 0 10041 30 30
+~
+door~
+End
+
+#10041
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  The passage turns north and west here.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 10040 30 30
+~
+door~
+Door 3 0 0 10042 30 30
+~
+door~
+End
+
+#10042
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  You feel a strange presence to the southwest.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10041 30 30
+~
+door~
+Door 3 0 0 10043 30 30
+~
+door~
+End
+
+#10043
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  The passage turns south and east here.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 10042 30 30
+~
+door~
+Door 2 0 0 10044 30 30
+~
+door~
+Door 3 0 0 10049 30 30
+~
+door~
+End
+
+#10044
+Name A Moss-Covered Passageway~
+Descr
+This moss-covered passageway is damp and smelly.  Trickles of green water
+run down the moss-covered walls.  The air is still and silent; almost
+oppressive.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 10043 30 30
+~
+door~
+Door 3 7 0 10045 55 55
+You see a massive oakdoor.
+~
+oakdoor~
+End
+
+#10045
+Name A Large, Scorched Lair~
+Descr
+This large lair smells of smoke, and from the looks of the blackened
+walls, you can tell that intense heat and fire have created this black room.
+You can see the massive oak-door to the east of here.  
+~
+Flags 4
+Sector 0
+Door 1 7 0 10044 55 55
+You see a massive oakdoor that looks virtually unbreakable...  
+~
+oakdoor~
+Door 2 0 0 10047 30 30
+~
+door~
+Door 3 0 0 10046 30 30
+~
+door~
+End
+
+#10046
+Name A Large, Scorched Lair~
+Descr
+This large lair smells of smoke, and from the looks of the blackened
+walls, you can tell that intense heat and fire have created this black room.
+You stand in the northwest corner of the room.  
+~
+Flags 16777220
+Sector 0
+Door 1 0 0 10045 30 30
+~
+door~
+Door 2 0 0 10048 30 30
+~
+door~
+End
+
+#10047
+Name A Large, Scorched Lair~
+Descr
+This large lair smells of smoke, and from the looks of the blackened
+walls, you can tell that intense heat and fire have created this black room.
+You stand in the southeast corner of the room.  
+~
+Flags 16777220
+Sector 0
+Door 0 0 0 10045 30 30
+~
+door~
+Door 3 0 0 10048 30 30
+~
+door~
+End
+
+#10048
+Name A Large, Scorched Lair~
+Descr
+This large lair smells of smoke, and from the looks of the blackened
+walls, you can tell that intense heat and fire have created this black room.
+You stand in the southwest corner of the room.  
+~
+Flags 4
+Sector 0
+Reset M 10006 1 100
+Reset O 10008 2 1
+Reset O 10009 -1 1
+Door 0 0 0 10046 30 30
+~
+door~
+Door 1 0 0 10047 30 30
+~
+door~
+End
+
+#10049
+Name A Small Niche~
+Descr
+This small niche is cramped and smelly.  You can see a moss-covered
+passage to the east of here, and you smell a strange, burnt odor in the air,
+coming from somewhere to the south of here.  
+~
+Flags 4
+Sector 0
+Reset M 10007 1 100
+Reset O 207 6 100
+Reset O 217 4 100
+Reset O 10010 0 48
+Reset O 236 21 23
+Door 1 0 0 10043 30 30
+~
+door~
+End
+
+#10059
+Name On the Grassy Path~
+Descr
+~
+Flags 1
+Door 0 0 0 0 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 27536 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

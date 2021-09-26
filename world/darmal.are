@@ -1,0 +1,12269 @@
+#AREADATA 
+Name Forest/Castle~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe Forest sounds echo all around you as it springs back to life!
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Darmoss Malsirus Meligor~
+VNUMs 31101 32100
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#31332
+Name nym leafs vines~
+Short a Nym tender~
+Long 
+A Nym is here made up of floating vines and leafs, tending to the forest.
+~
+Descr
+~
+AMax 25
+NHeight 0
+ActBits 2
+ActBits3 65536
+Affect_By 40
+Alignment -500
+Money 101
+Level 101
+MobType 19
+Guard 0
+End
+
+#31333
+Name ansaline Aswussana~
+Short ansaline Aswussana~
+Long 
+Ansaline Aswussana stand here waching over her land.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+ActBits3 65536
+Affect_By 680
+Money 250
+Level 250
+Sex 2
+MobType 11
+Guard 0
+End
+
+#31949
+Name mintrap~
+Short (please set short description)~
+Long 
+Mindtrap sits here warning you of your presence.
+~
+Descr
+Mindtrap is here giving you the evil eye.
+~
+AMax 1
+NHeight 0
+Money 80
+Level 80
+Sex 1
+Guard 0
+End
+
+#31999
+Name karnage guard~
+Short a chaotic guard of karnage~
+Long 
+A chaotic guard of karnage sits here with full alertness
+~
+Descr
+You see here a guard of karnage desperatly keeping any newcomers
+from finding the lost citys treasures.
+~
+AMax 1
+NHeight 79
+ActBits 10
+Money 100
+Level 100
+Sex 1
+Guard 0
+End
+
+#32009
+Name mindtrap~
+Short mindtrap is here~
+Long 
+Mindtrap sits here, warning you of your folowing journey.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 25
+Level 25
+Sex 1
+Guard 0
+GDamR 100
+End
+
+#32010
+Name bertha~
+Short bertha~
+Long 
+Bertha is standing here, waiting for FRESH MEAT.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Money 60
+Level 60
+Sex 2
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#32009
+Name diamond encrust wristband~
+Short a Diamond encrusted wristband~
+Descr
+A Diamond encrusted wristband. shines with divine protection
+[0;36m~
+Type 9
+Wear 4198401
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 3 0 0 0 0 0 0
+Weight 1
+Cost 10000
+Affect 19 1 1 0 0
+Affect 13 10 1 0 0
+End
+
+#31135
+Name the Gem of Ansaline~
+Short the Gem of Ansaline~
+Descr
+The Gem of Ansaline is resting in the dirt
+[0;36m~
+Type 4
+Extra 805306369
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 150 150 90 0 0 0 0 0 0
+Weight 2
+Cost 40000
+Affect 3 1 1 0 0
+End
+
+#31137
+Name ansaline garden staff~
+Short the Ansaline Garden Staff~
+Descr
+A staff of Ansaline gardens lies here on the ground..
+[0;36m~
+Type 4
+Extra 536870977
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 150 150 90 0 0 0 0 0 0
+Weight 1
+Cost 100000
+Affect 3 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#31280
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31275 0 0
+~
+~
+Door 1 0 0 31159 0 0
+~
+~
+Door 2 0 0 31286 0 0
+~
+~
+Door 3 0 0 31279 0 0
+~
+~
+End
+
+#31281
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31282 0 0
+~
+~
+Door 2 0 0 31287 0 0
+~
+~
+End
+
+#31282
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31276 0 0
+~
+~
+Door 1 0 0 31283 0 0
+~
+~
+Door 2 0 0 31288 0 0
+~
+~
+Door 3 0 0 31281 0 0
+~
+~
+End
+
+#31283
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31277 0 0
+~
+~
+Door 1 0 0 31284 0 0
+~
+~
+Door 2 0 0 31289 0 0
+~
+~
+Door 3 0 0 31282 0 0
+~
+~
+End
+
+#31284
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31278 0 0
+~
+~
+Door 1 0 0 31285 0 0
+~
+~
+Door 2 0 0 31290 0 0
+~
+~
+Door 3 0 0 31283 0 0
+~
+~
+End
+
+#31285
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31279 0 0
+~
+~
+Door 1 0 0 31286 0 0
+~
+~
+Door 3 0 0 31284 0 0
+~
+~
+End
+
+#31286
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31280 0 0
+~
+~
+Door 1 0 0 31144 0 0
+~
+~
+Door 3 0 0 31285 0 0
+~
+~
+End
+
+#31287
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31281 0 0
+~
+~
+Door 1 0 0 31288 0 0
+~
+~
+Door 2 0 0 31292 0 0
+~
+~
+Door 3 0 0 31298 0 0
+~
+~
+End
+
+#31288
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31282 0 0
+~
+~
+Door 1 0 0 31289 0 0
+~
+~
+Door 2 0 0 31293 0 0
+~
+~
+Door 3 0 0 31287 0 0
+~
+~
+End
+
+#31289
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31283 0 0
+~
+~
+Door 1 0 0 31290 0 0
+~
+~
+Door 2 0 0 31294 0 0
+~
+~
+Door 3 0 0 31288 0 0
+~
+~
+End
+
+#31290
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31284 0 0
+~
+~
+Door 3 0 0 31289 0 0
+~
+~
+End
+
+#31291
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31298 0 0
+~
+~
+Door 1 0 0 31292 0 0
+~
+~
+Door 2 0 0 31295 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree.
+~
+~
+End
+
+#31292
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31287 0 0
+~
+~
+Door 1 0 0 31293 0 0
+~
+~
+Door 2 0 0 31296 0 0
+~
+~
+Door 3 0 0 31291 0 0
+~
+~
+End
+
+#31293
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31288 0 0
+~
+~
+Door 1 0 0 31294 0 0
+~
+~
+Door 2 0 0 31297 0 0
+~
+~
+Door 3 0 0 31292 0 0
+~
+~
+End
+
+#31294
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31289 0 0
+~
+~
+Door 3 0 0 31293 0 0
+~
+~
+End
+
+#31295
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31291 0 0
+~
+~
+Door 1 0 0 31296 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31296
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31292 0 0
+~
+~
+Door 1 0 0 31297 0 0
+~
+~
+Door 3 0 0 31295 0 0
+~
+~
+End
+
+#31297
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31293 0 0
+~
+~
+Door 3 0 0 31296 0 0
+~
+~
+End
+
+#31298
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31287 0 0
+~
+~
+Door 2 0 0 31291 0 0
+~
+~
+End
+
+#31299
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31269 0 0
+~
+~
+Door 1 0 0 31273 0 0
+~
+~
+Door 2 0 0 31277 0 0
+~
+~
+Door 3 0 0 31272 0 0
+~
+~
+End
+
+#31300
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31221 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31211 0 0
+~
+~
+Door 3 0 0 31215 0 0
+~
+~
+End
+
+#31301
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31302 0 0
+~
+~
+Door 2 0 0 31307 0 0
+~
+~
+End
+
+#31302
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31303 0 0
+~
+~
+Door 2 0 0 31308 0 0
+~
+~
+Door 3 0 0 31301 0 0
+~
+~
+End
+
+#31303
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31309 0 0
+~
+~
+Door 3 0 0 31302 0 0
+~
+~
+End
+
+#31304
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31419 0 0
+~
+~
+Door 1 0 0 31305 0 0
+~
+~
+Door 2 0 0 31310 0 0
+~
+~
+End
+
+#31305
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31420 0 0
+~
+~
+Door 1 0 0 31306 0 0
+~
+~
+Door 2 0 0 31311 0 0
+~
+~
+Door 3 0 0 31304 0 0
+~
+~
+End
+
+#31306
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31421 0 0
+~
+~
+Door 2 0 0 31312 0 0
+~
+~
+Door 3 0 0 31305 0 0
+~
+~
+End
+
+#31307
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31301 0 0
+~
+~
+Door 1 0 0 31308 0 0
+~
+~
+Door 2 0 0 31314 0 0
+~
+~
+End
+
+#31308
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31302 0 0
+~
+~
+Door 1 0 0 31309 0 0
+~
+~
+Door 2 0 0 31315 0 0
+~
+~
+Door 3 0 0 31307 0 0
+~
+~
+End
+
+#31309
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31303 0 0
+~
+~
+Door 2 0 0 31316 0 0
+~
+~
+Door 3 0 0 31308 0 0
+~
+~
+End
+
+#31310
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31304 0 0
+~
+~
+Door 1 0 0 31311 0 0
+~
+~
+End
+
+#31311
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31305 0 0
+~
+~
+Door 1 0 0 31312 0 0
+~
+~
+Door 2 0 0 31317 0 0
+~
+~
+Door 3 0 0 31310 0 0
+~
+~
+End
+
+#31312
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31306 0 0
+~
+~
+Door 1 0 0 31313 0 0
+~
+~
+Door 2 0 0 31318 0 0
+~
+~
+Door 3 0 0 31311 0 0
+~
+~
+End
+
+#31313
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31314 0 0
+~
+~
+Door 2 0 0 31319 0 0
+~
+~
+Door 3 0 0 31312 0 0
+~
+~
+End
+
+#31314
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31307 0 0
+~
+~
+Door 1 0 0 31315 0 0
+~
+~
+Door 2 0 0 31320 0 0
+~
+~
+Door 3 0 0 31313 0 0
+~
+~
+End
+
+#31315
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31308 0 0
+~
+~
+Door 1 0 0 31316 0 0
+~
+~
+Door 2 0 0 31321 0 0
+~
+~
+Door 3 0 0 31314 0 0
+~
+~
+End
+
+#31316
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31309 0 0
+~
+~
+Door 3 0 0 31315 0 0
+~
+~
+End
+
+#31317
+Name The Ansaline Garden ~
+Descr
+You are standing in a lush garden.  The garden is beautiful, and full of very decorative shrubs.  There are strange sounds 
+coming from the path below.  It makes you wonder what's down there.
+~
+Sector 3
+Door 0 0 0 31311 0 0
+~
+~
+Door 1 0 0 31318 0 0
+~
+~
+Door 5 0 0 32008 0 0
+~
+~
+End
+
+#31318
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31312 0 0
+~
+~
+Door 1 0 0 31319 0 0
+~
+~
+Door 2 0 0 31332 0 0
+~
+~
+Door 3 0 0 31317 0 0
+~
+~
+End
+
+#31319
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31313 0 0
+~
+~
+Door 1 0 0 31320 0 0
+~
+~
+Door 2 0 0 31333 0 0
+~
+~
+Door 3 0 0 31318 0 0
+~
+~
+End
+
+#31320
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31314 0 0
+~
+~
+Door 1 0 0 31321 0 0
+~
+~
+Door 2 0 0 31334 0 0
+~
+~
+Door 3 0 0 31319 0 0
+~
+~
+End
+
+#31321
+Name The Ansaline Garden ~
+Descr
+~
+Sector 3
+Door 0 0 0 31315 0 0
+~
+~
+Door 3 0 0 31320 0 0
+~
+~
+End
+
+#31322
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31323 0 0
+~
+~
+Door 2 0 0 31336 0 0
+~
+~
+End
+
+#31323
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31324 0 0
+~
+~
+Door 2 0 0 31337 0 0
+~
+~
+Door 3 0 0 31322 0 0
+~
+~
+End
+
+#31324
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 2 0 0 31338 0 0
+~
+~
+Door 3 0 0 31323 0 0
+~
+~
+End
+
+#31325
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31326 0 0
+~
+~
+Door 2 0 0 31328 0 0
+~
+~
+End
+
+#31326
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31327 0 0
+~
+~
+Door 2 0 0 31329 0 0
+~
+~
+Door 3 0 0 31325 0 0
+~
+~
+End
+
+#31327
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 2 0 0 31330 0 0
+~
+~
+Door 3 0 0 31326 0 0
+~
+~
+End
+
+#31328
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31325 0 0
+~
+~
+Door 1 0 0 31329 0 0
+~
+~
+Door 2 0 0 31339 0 0
+~
+~
+End
+
+#31329
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31326 0 0
+~
+~
+Door 1 0 0 31330 0 0
+~
+~
+Door 2 0 0 31340 0 0
+~
+~
+Door 3 0 0 31328 0 0
+~
+~
+End
+
+#31330
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31327 0 0
+~
+~
+Door 1 0 0 31331 0 0
+~
+~
+Door 2 0 0 31341 0 0
+~
+~
+Door 3 0 0 31329 0 0
+~
+~
+End
+
+#31331
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 2 0 0 31342 0 0
+~
+~
+Door 3 0 0 31330 0 0
+~
+~
+End
+
+#31332
+Name The Ansaline Garden ~
+Descr
+~
+Sector 3
+Door 0 0 0 31318 0 0
+~
+~
+Door 1 0 0 31333 0 0
+~
+~
+Door 2 0 0 31344 0 0
+~
+~
+End
+
+#31333
+Name The Ansaline Garden~
+Descr
+~
+Flags 3145728
+Sector 3
+Reset M 31333 1 100
+Door 0 0 0 31319 0 0
+~
+~
+Door 1 0 0 31334 0 0
+~
+~
+Door 2 0 0 31345 0 0
+~
+~
+Door 3 0 0 31332 0 0
+~
+~
+End
+
+#31334
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31320 0 0
+~
+~
+Door 2 0 0 31346 0 0
+~
+~
+Door 3 0 0 31333 0 0
+~
+~
+End
+
+#31335
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31336 0 0
+~
+~
+Door 2 0 0 31348 0 0
+~
+~
+End
+
+#31336
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31322 0 0
+~
+~
+Door 1 0 0 31337 0 0
+~
+~
+Door 3 0 0 31335 0 0
+~
+~
+End
+
+#31337
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31323 0 0
+~
+~
+Door 1 0 0 31338 0 0
+~
+~
+Door 2 0 0 31350 0 0
+~
+~
+Door 3 0 0 31336 0 0
+~
+~
+End
+
+#31338
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31324 0 0
+~
+~
+Door 2 0 0 31351 0 0
+~
+~
+Door 3 0 0 31337 0 0
+~
+~
+End
+
+#31339
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31328 0 0
+~
+~
+Door 1 0 0 31340 0 0
+~
+~
+End
+
+#31340
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31329 0 0
+~
+~
+Door 1 0 0 31341 0 0
+~
+~
+Door 3 0 0 31339 0 0
+~
+~
+End
+
+#31341
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31330 0 0
+~
+~
+Door 1 0 0 31342 0 0
+~
+~
+Door 2 0 0 31352 0 0
+~
+~
+Door 3 0 0 31340 0 0
+~
+~
+End
+
+#31342
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31331 0 0
+~
+~
+Door 1 0 0 31343 0 0
+~
+~
+Door 2 0 0 31353 0 0
+~
+~
+Door 3 0 0 31341 0 0
+~
+~
+End
+
+#31343
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31344 0 0
+~
+~
+Door 2 0 0 31354 0 0
+~
+~
+Door 3 0 0 31342 0 0
+~
+~
+End
+
+#31344
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31332 0 0
+~
+~
+Door 1 0 0 31345 0 0
+~
+~
+Door 2 0 0 31355 0 0
+~
+~
+Door 3 0 0 31343 0 0
+~
+~
+End
+
+#31345
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31333 0 0
+~
+~
+Door 1 0 0 31346 0 0
+~
+~
+Door 2 0 0 31356 0 0
+~
+~
+Door 3 0 0 31344 0 0
+~
+~
+End
+
+#31346
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31334 0 0
+~
+~
+Door 1 0 0 31347 0 0
+~
+~
+Door 2 0 0 31357 0 0
+~
+~
+Door 3 0 0 31345 0 0
+~
+~
+End
+
+#31347
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31348 0 0
+~
+~
+Door 2 0 0 31358 0 0
+~
+~
+Door 3 0 0 31346 0 0
+~
+~
+End
+
+#31348
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31335 0 0
+~
+~
+Door 1 0 0 31349 0 0
+~
+~
+Door 2 0 0 31359 0 0
+~
+~
+Door 3 0 0 31347 0 0
+~
+~
+End
+
+#31349
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31350 0 0
+~
+~
+Door 2 0 0 31360 0 0
+~
+~
+Door 3 0 0 31348 0 0
+~
+~
+End
+
+#31350
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31337 0 0
+~
+~
+Door 1 0 0 31351 0 0
+~
+~
+Door 3 0 0 31349 0 0
+~
+~
+End
+
+#31351
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31338 0 0
+~
+~
+Door 3 0 0 31350 0 0
+~
+~
+End
+
+#31352
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31341 0 0
+~
+~
+Door 1 0 0 31353 0 0
+~
+~
+Door 2 0 0 31363 0 0
+~
+~
+End
+
+#31353
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31342 0 0
+~
+~
+Door 1 0 0 31354 0 0
+~
+~
+Door 2 0 0 31364 0 0
+~
+~
+Door 3 0 0 31352 0 0
+~
+~
+End
+
+#31354
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31343 0 0
+~
+~
+Door 1 0 0 31355 0 0
+~
+~
+Door 2 0 0 31365 0 0
+~
+~
+Door 3 0 0 31353 0 0
+~
+~
+End
+
+#31355
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31344 0 0
+~
+~
+Door 1 0 0 31356 0 0
+~
+~
+Door 2 0 0 31366 0 0
+~
+~
+Door 3 0 0 31354 0 0
+~
+~
+End
+
+#31356
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31345 0 0
+~
+~
+Door 1 0 0 31357 0 0
+~
+~
+Door 2 0 0 31367 0 0
+~
+~
+Door 3 0 0 31355 0 0
+~
+~
+End
+
+#31357
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31346 0 0
+~
+~
+Door 1 0 0 31358 0 0
+~
+~
+Door 2 0 0 31368 0 0
+~
+~
+Door 3 0 0 31356 0 0
+~
+~
+End
+
+#31358
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31347 0 0
+~
+~
+Door 1 0 0 31359 0 0
+~
+~
+Door 2 0 0 31369 0 0
+~
+~
+Door 3 0 0 31357 0 0
+~
+~
+End
+
+#31359
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31348 0 0
+~
+~
+Door 1 0 0 31360 0 0
+~
+~
+Door 2 0 0 31370 0 0
+~
+~
+Door 3 0 0 31358 0 0
+~
+~
+End
+
+#31360
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31349 0 0
+~
+~
+Door 2 0 0 31371 0 0
+~
+~
+Door 3 0 0 31359 0 0
+~
+~
+End
+
+#31361
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31362 0 0
+~
+~
+Door 2 0 0 31374 0 0
+~
+~
+End
+
+#31362
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31363 0 0
+~
+~
+Door 2 0 0 31375 0 0
+~
+~
+Door 3 0 0 31361 0 0
+~
+~
+End
+
+#31363
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31352 0 0
+~
+~
+Door 1 0 0 31364 0 0
+~
+~
+Door 2 0 0 31376 0 0
+~
+~
+Door 3 0 0 31362 0 0
+~
+~
+End
+
+#31364
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31353 0 0
+~
+~
+Door 1 0 0 31365 0 0
+~
+~
+Door 2 0 0 31378 0 0
+~
+~
+Door 3 0 0 31363 0 0
+~
+~
+End
+
+#31365
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31354 0 0
+~
+~
+Door 1 0 0 31366 0 0
+~
+~
+Door 3 0 0 31364 0 0
+~
+~
+End
+
+#31366
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31355 0 0
+~
+~
+Door 1 0 0 31367 0 0
+~
+~
+Door 2 0 0 31379 0 0
+~
+~
+Door 3 0 0 31365 0 0
+~
+~
+End
+
+#31367
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31356 0 0
+~
+~
+Door 1 0 0 31368 0 0
+~
+~
+Door 2 0 0 31380 0 0
+~
+~
+Door 3 0 0 31366 0 0
+~
+~
+End
+
+#31368
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31357 0 0
+~
+~
+Door 1 0 0 31369 0 0
+~
+~
+Door 2 0 0 31381 0 0
+~
+~
+Door 3 0 0 31367 0 0
+~
+~
+End
+
+#31369
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31358 0 0
+~
+~
+Door 1 0 0 31370 0 0
+~
+~
+Door 3 0 0 31368 0 0
+~
+~
+End
+
+#31370
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31359 0 0
+~
+~
+Door 1 0 0 31371 0 0
+~
+~
+Door 2 0 0 31382 0 0
+~
+~
+Door 3 0 0 31369 0 0
+~
+~
+End
+
+#31371
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31360 0 0
+~
+~
+Door 1 0 0 31372 0 0
+~
+~
+Door 2 0 0 31383 0 0
+~
+~
+Door 3 0 0 31370 0 0
+~
+~
+End
+
+#31372
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 1 0 0 31373 0 0
+~
+~
+Door 2 0 0 31384 0 0
+~
+~
+Door 3 0 0 31371 0 0
+~
+~
+End
+
+#31373
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 2 0 0 31385 0 0
+~
+~
+Door 3 0 0 31372 0 0
+~
+~
+End
+
+#31374
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31361 0 0
+~
+~
+Door 1 0 0 31375 0 0
+~
+~
+Door 2 0 0 31386 0 0
+~
+~
+End
+
+#31375
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31362 0 0
+~
+~
+Door 1 0 0 31376 0 0
+~
+~
+Door 2 0 0 31387 0 0
+~
+~
+Door 3 0 0 31374 0 0
+~
+~
+End
+
+#31376
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31363 0 0
+~
+~
+Door 1 0 0 31378 0 0
+~
+~
+Door 2 0 0 31388 0 0
+~
+~
+Door 3 0 0 31375 0 0
+~
+~
+End
+
+#31378
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31364 0 0
+~
+~
+Door 3 0 0 31376 0 0
+~
+~
+End
+
+#31379
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31366 0 0
+~
+~
+Door 1 0 0 31380 0 0
+~
+~
+End
+
+#31380
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31367 0 0
+~
+~
+Door 1 0 0 31381 0 0
+~
+~
+Door 2 0 0 31393 0 0
+~
+~
+Door 3 0 0 31379 0 0
+~
+~
+End
+
+#31381
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31368 0 0
+~
+~
+Door 3 0 0 31380 0 0
+~
+~
+End
+
+#31382
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31370 0 0
+~
+~
+Door 1 0 0 31383 0 0
+~
+~
+End
+
+#31383
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31371 0 0
+~
+~
+Door 1 0 0 31384 0 0
+~
+~
+Door 2 0 0 31389 0 0
+~
+~
+Door 3 0 0 31382 0 0
+~
+~
+End
+
+#31384
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31372 0 0
+~
+~
+Door 1 0 0 31385 0 0
+~
+~
+Door 2 0 0 31390 0 0
+~
+~
+Door 3 0 0 31383 0 0
+~
+~
+End
+
+#31385
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31373 0 0
+~
+~
+Door 2 0 0 31391 0 0
+~
+~
+Door 3 0 0 31384 0 0
+~
+~
+End
+
+#31386
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31374 0 0
+~
+~
+Door 1 0 0 31387 0 0
+~
+~
+End
+
+#31387
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31375 0 0
+~
+~
+Door 1 0 0 31388 0 0
+~
+~
+Door 3 0 0 31386 0 0
+~
+~
+End
+
+#31388
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31376 0 0
+~
+~
+Door 3 0 0 31387 0 0
+~
+~
+End
+
+#31389
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31383 0 0
+~
+~
+Door 1 0 0 31390 0 0
+~
+~
+End
+
+#31390
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31384 0 0
+~
+~
+Door 1 0 0 31391 0 0
+~
+~
+Door 3 0 0 31389 0 0
+~
+~
+End
+
+#31391
+Name The Ansaline Garden~
+Descr
+~
+Sector 3
+Door 0 0 0 31385 0 0
+~
+~
+Door 3 0 0 31390 0 0
+~
+~
+End
+
+#31392
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31393 0 0
+~
+~
+Door 2 0 0 31395 0 0
+~
+~
+End
+
+#31393
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31380 0 0
+~
+~
+Door 3 0 0 31392 0 0
+~
+~
+End
+
+#31394
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31395 0 0
+~
+~
+Door 2 0 0 31397 0 0
+~
+~
+End
+
+#31395
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31392 0 0
+~
+~
+Door 3 0 0 31394 0 0
+~
+~
+End
+
+#31396
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31397 0 0
+~
+~
+Door 2 0 0 31398 0 0
+~
+~
+End
+
+#31397
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31394 0 0
+~
+~
+Door 2 0 0 31399 0 0
+~
+~
+Door 3 0 0 31396 0 0
+~
+~
+End
+
+#31398
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31396 0 0
+~
+~
+Door 1 0 0 31399 0 0
+~
+~
+End
+
+#31399
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31397 0 0
+~
+~
+Door 2 0 0 31400 0 0
+~
+~
+Door 3 0 0 31398 0 0
+~
+~
+End
+
+#31400
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31399 0 0
+~
+~
+Door 1 0 0 31401 0 0
+~
+~
+End
+
+#31401
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31402 0 0
+~
+~
+Door 3 0 0 31400 0 0
+~
+~
+End
+
+#31402
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31401 0 0
+~
+~
+Door 1 0 0 31403 0 0
+~
+~
+Door 2 0 0 31404 0 0
+~
+~
+End
+
+#31403
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31405 0 0
+~
+~
+Door 3 0 0 31402 0 0
+~
+~
+End
+
+#31404
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31402 0 0
+~
+~
+Door 1 0 0 31405 0 0
+~
+~
+End
+
+#31405
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31403 0 0
+~
+~
+Door 1 0 0 31406 0 0
+~
+~
+Door 3 0 0 31404 0 0
+~
+~
+End
+
+#31406
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31407 0 0
+~
+~
+Door 3 0 0 31405 0 0
+~
+~
+End
+
+#31407
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31406 0 0
+~
+~
+Door 1 0 0 31408 0 0
+~
+~
+Door 2 0 0 31409 0 0
+~
+~
+End
+
+#31408
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31410 0 0
+~
+~
+Door 3 0 0 31407 0 0
+~
+~
+End
+
+#31409
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31407 0 0
+~
+~
+Door 1 0 0 31410 0 0
+~
+~
+Door 2 0 0 31412 0 0
+~
+~
+End
+
+#31410
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31408 0 0
+~
+~
+Door 3 0 0 31409 0 0
+~
+~
+End
+
+#31411
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31412 0 0
+~
+~
+Door 2 0 0 31414 0 0
+~
+~
+End
+
+#31412
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31409 0 0
+~
+~
+Door 3 0 0 31411 0 0
+~
+~
+End
+
+#31413
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31414 0 0
+~
+~
+Door 2 0 0 31416 0 0
+~
+~
+End
+
+#31414
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31411 0 0
+~
+~
+Door 3 0 0 31413 0 0
+~
+~
+End
+
+#31415
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31416 0 0
+~
+~
+Door 2 0 0 31427 0 0
+~
+~
+End
+
+#31416
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31413 0 0
+~
+~
+Door 2 0 0 31418 0 0
+~
+~
+Door 3 0 0 31415 0 0
+~
+~
+End
+
+#31418
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31416 0 0
+~
+~
+Door 3 0 0 31427 0 0
+~
+~
+Door 4 259 0 31222 30 30
+~
+clovers~
+End
+
+#31419
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31420 0 0
+~
+~
+Door 2 0 0 31304 0 0
+~
+~
+End
+
+#31420
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 1 0 0 31421 0 0
+~
+~
+Door 2 0 0 31305 0 0
+~
+~
+Door 3 0 0 31419 0 0
+~
+~
+End
+
+#31421
+Name The Ansaline Garden ~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 2 0 0 31306 0 0
+~
+~
+Door 3 0 0 31420 0 0
+~
+~
+End
+
+#31427
+Name The Ansaline Garden~
+Descr
+Your standing in a lush garden flowers and shrubs are growing all around you.  Makes you wonder who cares for it.
+~
+Sector 3
+Door 0 0 0 31415 0 0
+~
+~
+Door 1 0 0 31418 0 0
+~
+~
+End
+
+#31601
+Name Entrance to the Lost City of Karnage~
+Descr
+~
+Door 0 0 0 31648 0 0
+~
+~
+Door 1 0 0 31602 0 0
+~
+~
+Door 4 0 0 31663 0 0
+~
+~
+Door 5 0 0 31999 0 0
+~
+~
+End
+
+#31602
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 259 0 31775 30 30
+~
+chamberfour~
+Door 1 0 0 31603 0 0
+~
+~
+Door 3 0 0 31601 0 0
+~
+~
+End
+
+#31603
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31604 0 0
+~
+~
+Door 3 0 0 31602 0 0
+~
+~
+End
+
+#31604
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31605 0 0
+~
+~
+Door 3 0 0 31603 0 0
+~
+~
+End
+
+#31605
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31606 0 0
+~
+~
+Door 3 0 0 31604 0 0
+~
+~
+End
+
+#31606
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31607 0 0
+~
+~
+Door 3 0 0 31605 0 0
+~
+~
+End
+
+#31607
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31608 0 0
+~
+~
+Door 3 0 0 31606 0 0
+~
+~
+End
+
+#31608
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31610 0 0
+~
+~
+Door 3 0 0 31607 0 0
+~
+~
+End
+
+#31609
+Name ~
+Descr
+~
+Door 3 0 0 31608 0 0
+~
+~
+End
+
+#31610
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31705 0 0
+~
+~
+Door 1 0 0 31611 0 0
+~
+~
+Door 3 0 0 31608 0 0
+~
+~
+End
+
+#31611
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31612 0 0
+~
+~
+Door 3 0 0 31610 0 0
+~
+~
+End
+
+#31612
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31613 0 0
+~
+~
+Door 3 0 0 31611 0 0
+~
+~
+End
+
+#31613
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31615 0 0
+~
+~
+Door 3 0 0 31612 0 0
+~
+~
+End
+
+#31614
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31656 0 0
+~
+~
+Door 3 0 0 31615 0 0
+~
+~
+End
+
+#31615
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31614 0 0
+~
+~
+Door 3 0 0 31613 0 0
+~
+~
+End
+
+#31616
+Name ~
+Descr
+~
+Door 0 0 0 31617 0 0
+~
+~
+Door 2 0 0 31649 0 0
+~
+~
+End
+
+#31617
+Name ~
+Descr
+~
+Door 0 0 0 31618 0 0
+~
+~
+Door 2 0 0 31616 0 0
+~
+~
+End
+
+#31618
+Name ~
+Descr
+~
+Door 0 0 0 31619 0 0
+~
+~
+Door 2 0 0 31617 0 0
+~
+~
+Door 3 0 0 31674 0 0
+~
+~
+End
+
+#31619
+Name ~
+Descr
+~
+Door 0 0 0 31620 0 0
+~
+~
+Door 2 0 0 31618 0 0
+~
+~
+End
+
+#31620
+Name ~
+Descr
+~
+Door 0 0 0 31621 0 0
+~
+~
+Door 2 0 0 31619 0 0
+~
+~
+End
+
+#31621
+Name ~
+Descr
+~
+Door 0 0 0 31622 0 0
+~
+~
+Door 2 0 0 31620 0 0
+~
+~
+End
+
+#31622
+Name ~
+Descr
+~
+Door 0 0 0 31623 0 0
+~
+~
+Door 2 0 0 31621 0 0
+~
+~
+End
+
+#31623
+Name ~
+Descr
+~
+Door 2 0 0 31622 0 0
+~
+~
+Door 5 0 0 31624 0 0
+~
+~
+End
+
+#31624
+Name A Path Around the Karnage~
+Descr
+~
+Door 2 0 0 31654 0 0
+~
+~
+Door 3 0 0 31625 0 0
+~
+~
+Door 4 0 0 31623 0 0
+~
+~
+End
+
+#31625
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31624 0 0
+~
+~
+Door 2 259 0 31745 30 30
+~
+chambertwo~
+Door 3 0 0 31626 0 0
+~
+~
+End
+
+#31626
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31625 0 0
+~
+~
+Door 3 0 0 31627 0 0
+~
+~
+End
+
+#31627
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31626 0 0
+~
+~
+Door 3 0 0 31628 0 0
+~
+~
+End
+
+#31628
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31627 0 0
+~
+~
+Door 3 0 0 31629 0 0
+~
+~
+End
+
+#31629
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31628 0 0
+~
+~
+Door 3 0 0 31630 0 0
+~
+~
+End
+
+#31630
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31629 0 0
+~
+~
+Door 3 0 0 31631 0 0
+~
+~
+End
+
+#31631
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31630 0 0
+~
+~
+Door 2 0 0 31709 0 0
+~
+~
+Door 3 0 0 31632 0 0
+~
+~
+End
+
+#31632
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31631 0 0
+~
+~
+Door 3 0 0 31633 0 0
+~
+~
+End
+
+#31633
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31632 0 0
+~
+~
+Door 3 0 0 31634 0 0
+~
+~
+End
+
+#31634
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31633 0 0
+~
+~
+Door 3 0 0 31635 0 0
+~
+~
+End
+
+#31635
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31634 0 0
+~
+~
+Door 3 0 0 31636 0 0
+~
+~
+End
+
+#31636
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31635 0 0
+~
+~
+Door 3 0 0 31637 0 0
+~
+~
+End
+
+#31637
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31636 0 0
+~
+~
+Door 3 0 0 31638 0 0
+~
+~
+End
+
+#31638
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31637 0 0
+~
+~
+Door 2 257 0 31810 30 30
+~
+chamberone~
+Door 3 0 0 31639 0 0
+~
+~
+End
+
+#31639
+Name A Path Around the Karnage~
+Descr
+~
+Door 1 0 0 31638 0 0
+~
+~
+Door 2 0 0 31640 0 0
+~
+~
+Door 4 0 0 31673 0 0
+~
+~
+End
+
+#31640
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31639 0 0
+~
+~
+Door 2 0 0 31641 0 0
+~
+~
+End
+
+#31641
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31640 0 0
+~
+~
+Door 2 0 0 31642 0 0
+~
+~
+End
+
+#31642
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31641 0 0
+~
+~
+Door 2 0 0 31643 0 0
+~
+~
+End
+
+#31643
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31642 0 0
+~
+~
+Door 2 0 0 31644 0 0
+~
+~
+End
+
+#31644
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31643 0 0
+~
+~
+Door 1 0 0 31713 0 0
+~
+~
+Door 2 0 0 31645 0 0
+~
+~
+End
+
+#31645
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31644 0 0
+~
+~
+Door 2 0 0 31646 0 0
+~
+~
+End
+
+#31646
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31645 0 0
+~
+~
+Door 2 0 0 31647 0 0
+~
+~
+End
+
+#31647
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31646 0 0
+~
+~
+Door 2 0 0 31648 0 0
+~
+~
+End
+
+#31648
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31647 0 0
+~
+~
+Door 2 0 0 31601 0 0
+~
+~
+End
+
+#31649
+Name ~
+Descr
+~
+Door 0 0 0 31616 0 0
+~
+~
+Door 2 0 0 31650 0 0
+~
+~
+End
+
+#31650
+Name ~
+Descr
+~
+Door 0 0 0 31649 0 0
+~
+~
+Door 2 0 0 31655 0 0
+~
+~
+End
+
+#31651
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31652 0 0
+~
+~
+Door 2 0 0 31658 0 0
+~
+~
+End
+
+#31652
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31653 0 0
+~
+~
+Door 2 0 0 31651 0 0
+~
+~
+End
+
+#31653
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31654 0 0
+~
+~
+Door 2 0 0 31652 0 0
+~
+~
+End
+
+#31654
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31624 0 0
+~
+~
+Door 2 0 0 31653 0 0
+~
+~
+End
+
+#31655
+Name ~
+Descr
+~
+Door 0 0 0 31650 0 0
+~
+~
+Door 5 0 0 31657 0 0
+~
+~
+End
+
+#31656
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 259 0 31766 30 30
+~
+chamberthree~
+Door 1 0 0 31657 0 0
+~
+~
+Door 3 0 0 31614 0 0
+~
+~
+End
+
+#31657
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31662 0 0
+~
+~
+Door 3 0 0 31656 0 0
+~
+~
+Door 4 0 0 31655 0 0
+~
+~
+End
+
+#31658
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31651 0 0
+~
+~
+Door 2 0 0 31659 0 0
+~
+~
+Door 3 0 0 31719 0 0
+~
+~
+End
+
+#31659
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31658 0 0
+~
+~
+Door 2 0 0 31660 0 0
+~
+~
+End
+
+#31660
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31659 0 0
+~
+~
+Door 2 0 0 31661 0 0
+~
+~
+End
+
+#31661
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31660 0 0
+~
+~
+Door 2 0 0 31662 0 0
+~
+~
+End
+
+#31662
+Name A Path Around the Karnage~
+Descr
+~
+Door 0 0 0 31661 0 0
+~
+~
+Door 2 0 0 31657 0 0
+~
+~
+End
+
+#31663
+Name ~
+Descr
+~
+Door 0 0 0 31664 0 0
+~
+~
+Door 5 0 0 31601 0 0
+~
+~
+End
+
+#31664
+Name ~
+Descr
+~
+Door 0 0 0 31665 0 0
+~
+~
+Door 2 0 0 31663 0 0
+~
+~
+End
+
+#31665
+Name ~
+Descr
+~
+Door 0 0 0 31666 0 0
+~
+~
+Door 2 0 0 31664 0 0
+~
+~
+End
+
+#31666
+Name ~
+Descr
+~
+Door 0 0 0 31667 0 0
+~
+~
+Door 2 0 0 31665 0 0
+~
+~
+End
+
+#31667
+Name ~
+Descr
+~
+Door 0 0 0 31668 0 0
+~
+~
+Door 2 0 0 31666 0 0
+~
+~
+End
+
+#31668
+Name ~
+Descr
+~
+Door 0 0 0 31669 0 0
+~
+~
+Door 1 0 0 31687 0 0
+~
+~
+Door 2 0 0 31667 0 0
+~
+~
+End
+
+#31669
+Name ~
+Descr
+~
+Door 0 0 0 31670 0 0
+~
+~
+Door 2 0 0 31668 0 0
+~
+~
+End
+
+#31670
+Name ~
+Descr
+~
+Door 0 0 0 31671 0 0
+~
+~
+Door 2 0 0 31669 0 0
+~
+~
+End
+
+#31671
+Name ~
+Descr
+~
+Door 0 0 0 31672 0 0
+~
+~
+Door 2 0 0 31670 0 0
+~
+~
+End
+
+#31672
+Name ~
+Descr
+~
+Door 0 0 0 31673 0 0
+~
+~
+Door 2 0 0 31671 0 0
+~
+~
+End
+
+#31673
+Name ~
+Descr
+~
+Door 2 0 0 31672 0 0
+~
+~
+Door 5 0 0 31639 0 0
+~
+~
+End
+
+#31674
+Name ~
+Descr
+~
+Door 1 0 0 31618 0 0
+~
+~
+Door 3 0 0 31675 0 0
+~
+~
+End
+
+#31675
+Name ~
+Descr
+~
+Door 1 0 0 31674 0 0
+~
+~
+Door 3 0 0 31676 0 0
+~
+~
+End
+
+#31676
+Name ~
+Descr
+~
+Door 1 0 0 31675 0 0
+~
+~
+Door 3 0 0 31677 0 0
+~
+~
+End
+
+#31677
+Name ~
+Descr
+~
+Door 1 0 0 31676 0 0
+~
+~
+Door 2 0 0 31688 0 0
+~
+~
+Door 3 0 0 31678 0 0
+~
+~
+End
+
+#31678
+Name ~
+Descr
+~
+Door 1 0 0 31677 0 0
+~
+~
+Door 3 0 0 31679 0 0
+~
+~
+End
+
+#31679
+Name ~
+Descr
+~
+Door 1 0 0 31678 0 0
+~
+~
+Door 3 0 0 31680 0 0
+~
+~
+End
+
+#31680
+Name ~
+Descr
+~
+Door 1 0 0 31679 0 0
+~
+~
+Door 3 0 0 31681 0 0
+~
+~
+End
+
+#31681
+Name ~
+Descr
+~
+Door 1 0 0 31680 0 0
+~
+~
+Door 3 0 0 31682 0 0
+~
+~
+End
+
+#31682
+Name ~
+Descr
+~
+Door 1 0 0 31681 0 0
+~
+~
+Door 3 0 0 31683 0 0
+~
+~
+End
+
+#31683
+Name ~
+Descr
+~
+Door 1 0 0 31682 0 0
+~
+~
+Door 3 0 0 31684 0 0
+~
+~
+End
+
+#31684
+Name ~
+Descr
+~
+Door 0 0 0 31696 0 0
+~
+~
+Door 1 0 0 31683 0 0
+~
+~
+Door 3 0 0 31685 0 0
+~
+~
+End
+
+#31685
+Name ~
+Descr
+~
+Door 1 0 0 31684 0 0
+~
+~
+Door 3 0 0 31686 0 0
+~
+~
+End
+
+#31686
+Name ~
+Descr
+~
+Door 1 0 0 31685 0 0
+~
+~
+Door 3 0 0 31687 0 0
+~
+~
+End
+
+#31687
+Name ~
+Descr
+~
+Door 1 0 0 31686 0 0
+~
+~
+Door 3 0 0 31668 0 0
+~
+~
+End
+
+#31688
+Name ~
+Descr
+~
+Door 0 0 0 31677 0 0
+~
+~
+Door 2 0 0 31689 0 0
+~
+~
+End
+
+#31689
+Name ~
+Descr
+~
+Door 0 0 0 31688 0 0
+~
+~
+Door 1 0 0 31695 0 0
+~
+~
+Door 2 0 0 31690 0 0
+~
+~
+Door 3 0 0 31694 0 0
+~
+~
+End
+
+#31690
+Name ~
+Descr
+~
+Door 0 0 0 31689 0 0
+~
+~
+Door 1 0 0 31692 0 0
+~
+~
+Door 3 0 0 31693 0 0
+~
+~
+End
+
+#31692
+Name ~
+Descr
+~
+Door 0 0 0 31695 0 0
+~
+~
+Door 3 0 0 31690 0 0
+~
+~
+End
+
+#31693
+Name ~
+Descr
+~
+Door 0 0 0 31694 0 0
+~
+~
+Door 1 0 0 31690 0 0
+~
+~
+End
+
+#31694
+Name ~
+Descr
+~
+Door 1 0 0 31689 0 0
+~
+~
+Door 2 0 0 31693 0 0
+~
+~
+End
+
+#31695
+Name ~
+Descr
+~
+Door 2 0 0 31692 0 0
+~
+~
+Door 3 0 0 31689 0 0
+~
+~
+End
+
+#31696
+Name ~
+Descr
+~
+Door 0 0 0 31697 0 0
+~
+~
+Door 2 0 0 31684 0 0
+~
+~
+End
+
+#31697
+Name ~
+Descr
+~
+Door 0 0 0 31698 0 0
+~
+~
+Door 1 0 0 31700 0 0
+~
+~
+Door 2 0 0 31696 0 0
+~
+~
+Door 3 0 0 31702 0 0
+~
+~
+End
+
+#31698
+Name ~
+Descr
+~
+Door 1 0 0 31701 0 0
+~
+~
+Door 2 0 0 31697 0 0
+~
+~
+Door 3 0 0 31703 0 0
+~
+~
+End
+
+#31699
+Name ~
+Descr
+~
+Door 2 0 0 31697 0 0
+~
+~
+End
+
+#31700
+Name ~
+Descr
+~
+Door 0 0 0 31701 0 0
+~
+~
+Door 3 0 0 31697 0 0
+~
+~
+End
+
+#31701
+Name ~
+Descr
+~
+Door 2 0 0 31700 0 0
+~
+~
+Door 3 0 0 31698 0 0
+~
+~
+End
+
+#31702
+Name ~
+Descr
+~
+Door 0 0 0 31703 0 0
+~
+~
+Door 1 0 0 31697 0 0
+~
+~
+End
+
+#31703
+Name ~
+Descr
+~
+Door 1 0 0 31698 0 0
+~
+~
+Door 2 0 0 31702 0 0
+~
+~
+End
+
+#31704
+Name ~
+Descr
+~
+Door 1 259 0 31723 30 30
+~
+drepper~
+Door 3 0 0 31741 0 0
+~
+~
+End
+
+#31705
+Name ~
+Descr
+~
+Door 0 0 0 31706 0 0
+~
+~
+Door 2 0 0 31610 0 0
+~
+~
+End
+
+#31706
+Name ~
+Descr
+~
+Door 0 0 0 31707 0 0
+~
+~
+Door 2 0 0 31705 0 0
+~
+~
+End
+
+#31707
+Name ~
+Descr
+~
+Door 0 0 0 31708 0 0
+~
+~
+Door 1 0 0 31740 0 0
+~
+~
+Door 2 0 0 31706 0 0
+~
+~
+Door 3 0 0 31739 0 0
+~
+~
+End
+
+#31708
+Name ~
+Descr
+~
+Door 0 3 0 31834 30 30
+~
+beware~
+Door 1 0 0 31737 0 0
+~
+~
+Door 2 0 0 31707 0 0
+~
+~
+Door 3 0 0 31738 0 0
+~
+~
+End
+
+#31709
+Name ~
+Descr
+~
+Door 0 0 0 31631 0 0
+~
+~
+Door 2 0 0 31710 0 0
+~
+~
+End
+
+#31710
+Name ~
+Descr
+~
+Door 0 0 0 31709 0 0
+~
+~
+Door 2 0 0 31711 0 0
+~
+~
+End
+
+#31711
+Name ~
+Descr
+~
+Door 0 0 0 31710 0 0
+~
+~
+Door 1 0 0 31726 0 0
+~
+~
+Door 2 0 0 31712 0 0
+~
+~
+Door 3 0 0 31728 0 0
+~
+~
+End
+
+#31712
+Name ~
+Descr
+~
+Door 0 0 0 31711 0 0
+~
+~
+Door 1 0 0 31725 0 0
+~
+~
+Door 3 0 0 31727 0 0
+~
+~
+End
+
+#31713
+Name ~
+Descr
+~
+Door 1 0 0 31714 0 0
+~
+~
+Door 3 0 0 31644 0 0
+~
+~
+End
+
+#31714
+Name ~
+Descr
+~
+Door 1 0 0 31715 0 0
+~
+~
+Door 3 0 0 31713 0 0
+~
+~
+End
+
+#31715
+Name ~
+Descr
+~
+Door 1 0 0 31716 0 0
+~
+~
+Door 3 0 0 31714 0 0
+~
+~
+End
+
+#31716
+Name ~
+Descr
+~
+Door 1 0 0 31717 0 0
+~
+~
+Door 3 0 0 31715 0 0
+~
+~
+End
+
+#31717
+Name ~
+Descr
+~
+Door 0 0 0 31734 0 0
+~
+~
+Door 1 0 0 31718 0 0
+~
+~
+Door 2 0 0 31735 0 0
+~
+~
+Door 3 0 0 31716 0 0
+~
+~
+End
+
+#31718
+Name ~
+Descr
+~
+Door 0 0 0 31733 0 0
+~
+~
+Door 2 0 0 31736 0 0
+~
+~
+Door 3 0 0 31717 0 0
+~
+~
+End
+
+#31719
+Name ~
+Descr
+~
+Door 1 0 0 31658 0 0
+~
+~
+Door 3 0 0 31720 0 0
+~
+~
+End
+
+#31720
+Name ~
+Descr
+~
+Door 1 0 0 31719 0 0
+~
+~
+Door 3 0 0 31721 0 0
+~
+~
+End
+
+#31721
+Name ~
+Descr
+~
+Door 1 0 0 31720 0 0
+~
+~
+Door 3 0 0 31722 0 0
+~
+~
+End
+
+#31722
+Name ~
+Descr
+~
+Door 0 0 0 31730 0 0
+~
+~
+Door 1 0 0 31721 0 0
+~
+~
+Door 2 0 0 31731 0 0
+~
+~
+Door 3 0 0 31723 0 0
+~
+~
+End
+
+#31723
+Name ~
+Descr
+~
+Door 0 0 0 31729 0 0
+~
+~
+Door 1 0 0 31722 0 0
+~
+~
+Door 2 0 0 31732 0 0
+~
+~
+End
+
+#31724
+Name ~
+Descr
+~
+Door 1 0 0 31723 0 0
+~
+~
+Door 3 0 0 31725 0 0
+~
+~
+End
+
+#31725
+Name ~
+Descr
+~
+Door 0 0 0 31726 0 0
+~
+~
+Door 3 0 0 31712 0 0
+~
+~
+End
+
+#31726
+Name ~
+Descr
+~
+Door 2 0 0 31725 0 0
+~
+~
+Door 3 0 0 31711 0 0
+~
+~
+End
+
+#31727
+Name ~
+Descr
+~
+Door 0 0 0 31728 0 0
+~
+~
+Door 1 0 0 31712 0 0
+~
+~
+End
+
+#31728
+Name ~
+Descr
+~
+Door 1 0 0 31711 0 0
+~
+~
+Door 2 0 0 31727 0 0
+~
+~
+End
+
+#31729
+Name ~
+Descr
+~
+Door 1 0 0 31730 0 0
+~
+~
+Door 2 0 0 31723 0 0
+~
+~
+End
+
+#31730
+Name ~
+Descr
+~
+Door 2 0 0 31722 0 0
+~
+~
+Door 3 0 0 31729 0 0
+~
+~
+End
+
+#31731
+Name ~
+Descr
+~
+Door 0 0 0 31722 0 0
+~
+~
+Door 3 0 0 31732 0 0
+~
+~
+End
+
+#31732
+Name ~
+Descr
+~
+Door 0 0 0 31723 0 0
+~
+~
+Door 1 0 0 31731 0 0
+~
+~
+End
+
+#31733
+Name ~
+Descr
+~
+Door 2 0 0 31718 0 0
+~
+~
+Door 3 0 0 31734 0 0
+~
+~
+End
+
+#31734
+Name ~
+Descr
+~
+Door 1 0 0 31733 0 0
+~
+~
+Door 2 0 0 31717 0 0
+~
+~
+End
+
+#31735
+Name ~
+Descr
+~
+Door 0 0 0 31717 0 0
+~
+~
+Door 1 0 0 31736 0 0
+~
+~
+End
+
+#31736
+Name ~
+Descr
+~
+Door 0 0 0 31718 0 0
+~
+~
+Door 3 0 0 31735 0 0
+~
+~
+End
+
+#31737
+Name ~
+Descr
+~
+Door 2 0 0 31740 0 0
+~
+~
+Door 3 0 0 31708 0 0
+~
+~
+End
+
+#31738
+Name ~
+Descr
+~
+Door 1 0 0 31708 0 0
+~
+~
+Door 2 0 0 31739 0 0
+~
+~
+End
+
+#31739
+Name ~
+Descr
+~
+Door 0 0 0 31738 0 0
+~
+~
+Door 1 0 0 31707 0 0
+~
+~
+End
+
+#31740
+Name ~
+Descr
+~
+Door 0 0 0 31737 0 0
+~
+~
+Door 3 0 0 31707 0 0
+~
+~
+End
+
+#31741
+Name ~
+Descr
+~
+Door 0 0 0 31742 0 0
+~
+~
+Door 1 0 0 31704 0 0
+~
+~
+End
+
+#31742
+Name ~
+Descr
+~
+End
+
+#31743
+Name ~
+Descr
+~
+Flags 4
+Door 2 0 0 31742 0 0
+~
+~
+End
+
+#31745
+Name ~
+Descr
+~
+Door 0 259 0 31625 30 30
+~
+chambertwo~
+Door 2 0 0 31746 0 0
+~
+~
+Door 3 0 0 31752 0 0
+~
+~
+End
+
+#31746
+Name ~
+Descr
+~
+Door 0 0 0 31745 0 0
+~
+~
+Door 2 0 0 31747 0 0
+~
+~
+Door 3 0 0 31751 0 0
+~
+~
+End
+
+#31747
+Name ~
+Descr
+~
+Door 0 0 0 31746 0 0
+~
+~
+Door 2 0 0 31748 0 0
+~
+~
+Door 3 0 0 31750 0 0
+~
+~
+End
+
+#31748
+Name ~
+Descr
+~
+Door 0 0 0 31747 0 0
+~
+~
+Door 3 0 0 31749 0 0
+~
+~
+End
+
+#31749
+Name ~
+Descr
+~
+Door 0 0 0 31750 0 0
+~
+~
+Door 1 0 0 31748 0 0
+~
+~
+Door 3 0 0 31763 0 0
+~
+~
+End
+
+#31750
+Name ~
+Descr
+~
+Door 0 0 0 31751 0 0
+~
+~
+Door 1 0 0 31747 0 0
+~
+~
+Door 2 0 0 31749 0 0
+~
+~
+Door 3 0 0 31762 0 0
+~
+~
+End
+
+#31751
+Name ~
+Descr
+~
+Door 0 0 0 31752 0 0
+~
+~
+Door 1 0 0 31746 0 0
+~
+~
+Door 2 0 0 31750 0 0
+~
+~
+Door 3 0 0 31764 0 0
+~
+~
+End
+
+#31752
+Name ~
+Descr
+~
+Door 1 0 0 31745 0 0
+~
+~
+Door 2 0 0 31751 0 0
+~
+~
+Door 3 0 0 31753 0 0
+~
+~
+End
+
+#31753
+Name ~
+Descr
+~
+Door 1 0 0 31752 0 0
+~
+~
+Door 2 0 0 31764 0 0
+~
+~
+Door 3 0 0 31754 0 0
+~
+~
+End
+
+#31754
+Name ~
+Descr
+~
+Door 1 0 0 31753 0 0
+~
+~
+Door 2 0 0 31765 0 0
+~
+~
+Door 3 0 0 31755 0 0
+~
+~
+End
+
+#31755
+Name ~
+Descr
+~
+Door 1 0 0 31754 0 0
+~
+~
+Door 2 0 0 31758 0 0
+~
+~
+Door 3 0 0 31756 0 0
+~
+~
+End
+
+#31756
+Name ~
+Descr
+~
+Door 1 0 0 31755 0 0
+~
+~
+Door 2 0 0 31757 0 0
+~
+~
+End
+
+#31757
+Name ~
+Descr
+~
+Door 0 0 0 31756 0 0
+~
+~
+Door 1 0 0 31758 0 0
+~
+~
+End
+
+#31758
+Name ~
+Descr
+~
+Door 0 0 0 31755 0 0
+~
+~
+Door 1 0 0 31765 0 0
+~
+~
+Door 2 0 0 31759 0 0
+~
+~
+Door 3 0 0 31757 0 0
+~
+~
+End
+
+#31759
+Name ~
+Descr
+~
+Door 0 0 0 31758 0 0
+~
+~
+Door 1 0 0 31761 0 0
+~
+~
+Door 2 0 0 31760 0 0
+~
+~
+End
+
+#31760
+Name ~
+Descr
+~
+End
+
+#31761
+Name ~
+Descr
+~
+Door 0 0 0 31765 0 0
+~
+~
+Door 1 0 0 31762 0 0
+~
+~
+Door 3 0 0 31759 0 0
+~
+~
+End
+
+#31762
+Name ~
+Descr
+~
+Door 0 0 0 31764 0 0
+~
+~
+Door 1 0 0 31750 0 0
+~
+~
+Door 2 0 0 31763 0 0
+~
+~
+Door 3 0 0 31761 0 0
+~
+~
+End
+
+#31763
+Name ~
+Descr
+~
+Door 0 0 0 31762 0 0
+~
+~
+Door 1 0 0 31749 0 0
+~
+~
+End
+
+#31764
+Name ~
+Descr
+~
+Door 0 0 0 31753 0 0
+~
+~
+Door 1 0 0 31751 0 0
+~
+~
+Door 2 0 0 31762 0 0
+~
+~
+Door 3 0 0 31765 0 0
+~
+~
+End
+
+#31765
+Name ~
+Descr
+~
+Door 0 0 0 31754 0 0
+~
+~
+Door 1 0 0 31764 0 0
+~
+~
+Door 2 0 0 31761 0 0
+~
+~
+Door 3 0 0 31758 0 0
+~
+~
+End
+
+#31766
+Name ~
+Descr
+~
+Door 0 0 0 31782 0 0
+~
+~
+Door 2 259 0 31656 30 30
+~
+chamberthree~
+Door 3 0 0 31767 0 0
+~
+~
+End
+
+#31767
+Name ~
+Descr
+~
+Door 0 0 0 31783 0 0
+~
+~
+Door 1 0 0 31766 0 0
+~
+~
+Door 3 0 0 31768 0 0
+~
+~
+End
+
+#31768
+Name ~
+Descr
+~
+Door 0 0 0 31784 0 0
+~
+~
+Door 1 0 0 31767 0 0
+~
+~
+Door 3 0 0 31769 0 0
+~
+~
+End
+
+#31769
+Name ~
+Descr
+~
+Door 0 0 0 31785 0 0
+~
+~
+Door 1 0 0 31768 0 0
+~
+~
+Door 3 0 0 31770 0 0
+~
+~
+End
+
+#31770
+Name ~
+Descr
+~
+Door 0 0 0 31773 0 0
+~
+~
+Door 1 0 0 31769 0 0
+~
+~
+Door 3 0 0 31771 0 0
+~
+~
+End
+
+#31771
+Name ~
+Descr
+~
+Door 0 0 0 31772 0 0
+~
+~
+Door 1 0 0 31770 0 0
+~
+~
+End
+
+#31772
+Name ~
+Descr
+~
+Door 1 0 0 31773 0 0
+~
+~
+Door 2 0 0 31771 0 0
+~
+~
+End
+
+#31773
+Name ~
+Descr
+~
+Door 0 0 0 31774 0 0
+~
+~
+Door 1 0 0 31785 0 0
+~
+~
+Door 2 0 0 31770 0 0
+~
+~
+Door 3 0 0 31772 0 0
+~
+~
+End
+
+#31774
+Name ~
+Descr
+~
+Door 0 0 0 31775 0 0
+~
+~
+Door 1 0 0 31776 0 0
+~
+~
+Door 2 0 0 31773 0 0
+~
+~
+End
+
+#31775
+Name ~
+Descr
+~
+Door 0 0 0 31787 0 0
+~
+~
+Door 1 0 0 31803 0 0
+~
+~
+Door 2 259 0 31602 30 30
+~
+chamberfour~
+End
+
+#31776
+Name ~
+Descr
+~
+Door 1 0 0 31777 0 0
+~
+~
+Door 2 0 0 31785 0 0
+~
+~
+Door 3 0 0 31774 0 0
+~
+~
+End
+
+#31777
+Name ~
+Descr
+~
+Door 0 0 0 31778 0 0
+~
+~
+Door 1 0 0 31786 0 0
+~
+~
+Door 2 0 0 31784 0 0
+~
+~
+Door 3 0 0 31776 0 0
+~
+~
+End
+
+#31778
+Name ~
+Descr
+~
+Door 1 0 0 31779 0 0
+~
+~
+Door 2 0 0 31777 0 0
+~
+~
+End
+
+#31779
+Name ~
+Descr
+~
+Door 1 0 0 31780 0 0
+~
+~
+Door 2 0 0 31786 0 0
+~
+~
+Door 3 0 0 31778 0 0
+~
+~
+Door 5 0 0 31840 0 0
+~
+~
+End
+
+#31780
+Name ~
+Descr
+~
+Door 2 0 0 31781 0 0
+~
+~
+Door 3 0 0 31779 0 0
+~
+~
+End
+
+#31781
+Name ~
+Descr
+~
+Door 0 0 0 31780 0 0
+~
+~
+Door 2 0 0 31782 0 0
+~
+~
+Door 3 0 0 31786 0 0
+~
+~
+End
+
+#31782
+Name ~
+Descr
+~
+Door 0 0 0 31781 0 0
+~
+~
+Door 2 0 0 31766 0 0
+~
+~
+Door 3 0 0 31783 0 0
+~
+~
+End
+
+#31783
+Name ~
+Descr
+~
+Door 0 0 0 31786 0 0
+~
+~
+Door 1 0 0 31782 0 0
+~
+~
+Door 2 0 0 31767 0 0
+~
+~
+Door 3 0 0 31784 0 0
+~
+~
+End
+
+#31784
+Name ~
+Descr
+~
+Door 0 0 0 31777 0 0
+~
+~
+Door 1 0 0 31783 0 0
+~
+~
+Door 2 0 0 31768 0 0
+~
+~
+Door 3 0 0 31785 0 0
+~
+~
+End
+
+#31785
+Name ~
+Descr
+~
+Door 0 0 0 31776 0 0
+~
+~
+Door 1 0 0 31784 0 0
+~
+~
+Door 2 0 0 31769 0 0
+~
+~
+Door 3 0 0 31773 0 0
+~
+~
+End
+
+#31786
+Name ~
+Descr
+~
+Door 0 0 0 31779 0 0
+~
+~
+Door 1 0 0 31781 0 0
+~
+~
+Door 2 0 0 31783 0 0
+~
+~
+Door 3 0 0 31777 0 0
+~
+~
+End
+
+#31787
+Name ~
+Descr
+~
+Door 0 0 0 31788 0 0
+~
+~
+Door 1 0 0 31804 0 0
+~
+~
+Door 2 0 0 31775 0 0
+~
+~
+End
+
+#31788
+Name ~
+Descr
+~
+Door 0 0 0 31789 0 0
+~
+~
+Door 1 0 0 31805 0 0
+~
+~
+Door 2 0 0 31787 0 0
+~
+~
+End
+
+#31789
+Name ~
+Descr
+~
+Door 1 0 0 31790 0 0
+~
+~
+Door 2 0 0 31788 0 0
+~
+~
+End
+
+#31790
+Name ~
+Descr
+~
+Door 1 0 0 31791 0 0
+~
+~
+Door 2 0 0 31805 0 0
+~
+~
+Door 3 0 0 31789 0 0
+~
+~
+End
+
+#31791
+Name ~
+Descr
+~
+Door 1 0 0 31792 0 0
+~
+~
+Door 2 0 0 31806 0 0
+~
+~
+Door 3 0 0 31790 0 0
+~
+~
+End
+
+#31792
+Name ~
+Descr
+~
+Door 2 0 0 31793 0 0
+~
+~
+Door 3 0 0 31791 0 0
+~
+~
+End
+
+#31793
+Name ~
+Descr
+~
+Door 0 0 0 31792 0 0
+~
+~
+Door 1 0 0 31794 0 0
+~
+~
+Door 3 0 0 31806 0 0
+~
+~
+End
+
+#31794
+Name ~
+Descr
+~
+Door 1 0 0 31795 0 0
+~
+~
+Door 2 0 0 31809 0 0
+~
+~
+Door 3 0 0 31793 0 0
+~
+~
+End
+
+#31795
+Name ~
+Descr
+~
+Door 2 0 0 31796 0 0
+~
+~
+Door 3 0 0 31794 0 0
+~
+~
+End
+
+#31796
+Name ~
+Descr
+~
+Door 0 0 0 31795 0 0
+~
+~
+Door 1 0 0 31797 0 0
+~
+~
+Door 2 0 0 31799 0 0
+~
+~
+Door 3 0 0 31809 0 0
+~
+~
+End
+
+#31797
+Name ~
+Descr
+~
+Door 2 0 0 31798 0 0
+~
+~
+Door 3 0 0 31796 0 0
+~
+~
+End
+
+#31798
+Name ~
+Descr
+~
+Door 0 0 0 31797 0 0
+~
+~
+Door 3 0 0 31799 0 0
+~
+~
+End
+
+#31799
+Name ~
+Descr
+~
+Door 0 0 0 31796 0 0
+~
+~
+Door 1 0 0 31798 0 0
+~
+~
+Door 3 0 0 31800 0 0
+~
+~
+End
+
+#31800
+Name ~
+Descr
+~
+Door 0 0 0 31809 0 0
+~
+~
+Door 1 0 0 31799 0 0
+~
+~
+Door 3 0 0 31801 0 0
+~
+~
+End
+
+#31801
+Name ~
+Descr
+~
+Door 0 0 0 31808 0 0
+~
+~
+Door 1 0 0 31800 0 0
+~
+~
+Door 3 0 0 31802 0 0
+~
+~
+End
+
+#31802
+Name ~
+Descr
+~
+Door 0 0 0 31807 0 0
+~
+~
+Door 1 0 0 31801 0 0
+~
+~
+Door 3 0 0 31803 0 0
+~
+~
+End
+
+#31803
+Name ~
+Descr
+~
+Door 0 0 0 31804 0 0
+~
+~
+Door 1 0 0 31802 0 0
+~
+~
+Door 3 0 0 31775 0 0
+~
+~
+End
+
+#31804
+Name ~
+Descr
+~
+Door 0 0 0 31805 0 0
+~
+~
+Door 1 0 0 31807 0 0
+~
+~
+Door 2 0 0 31803 0 0
+~
+~
+Door 3 0 0 31787 0 0
+~
+~
+End
+
+#31805
+Name ~
+Descr
+~
+Door 0 0 0 31790 0 0
+~
+~
+Door 1 0 0 31806 0 0
+~
+~
+Door 2 0 0 31804 0 0
+~
+~
+Door 3 0 0 31788 0 0
+~
+~
+End
+
+#31806
+Name ~
+Descr
+~
+Door 0 0 0 31791 0 0
+~
+~
+Door 1 0 0 31793 0 0
+~
+~
+Door 2 0 0 31807 0 0
+~
+~
+Door 3 0 0 31805 0 0
+~
+~
+End
+
+#31807
+Name ~
+Descr
+~
+Door 0 0 0 31806 0 0
+~
+~
+Door 1 0 0 31808 0 0
+~
+~
+Door 2 0 0 31802 0 0
+~
+~
+Door 3 0 0 31804 0 0
+~
+~
+End
+
+#31808
+Name ~
+Descr
+~
+Door 1 0 0 31809 0 0
+~
+~
+Door 2 0 0 31801 0 0
+~
+~
+Door 3 0 0 31807 0 0
+~
+~
+End
+
+#31809
+Name ~
+Descr
+~
+Door 0 0 0 31794 0 0
+~
+~
+Door 1 0 0 31796 0 0
+~
+~
+Door 2 0 0 31800 0 0
+~
+~
+Door 3 0 0 31808 0 0
+~
+~
+End
+
+#31810
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 257 0 31638 30 30
+~
+chamberone~
+Door 1 0 0 31827 0 0
+~
+~
+Door 2 0 0 31811 0 0
+~
+~
+End
+
+#31811
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31810 0 0
+~
+~
+Door 1 0 0 31828 0 0
+~
+~
+Door 2 0 0 31812 0 0
+~
+~
+End
+
+#31812
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31811 0 0
+~
+~
+Door 1 0 0 31829 0 0
+~
+~
+Door 2 0 0 31813 0 0
+~
+~
+End
+
+#31813
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31812 0 0
+~
+~
+Door 1 0 0 31814 0 0
+~
+~
+End
+
+#31814
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31829 0 0
+~
+~
+Door 1 0 0 31815 0 0
+~
+~
+Door 3 0 0 31813 0 0
+~
+~
+End
+
+#31815
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31830 0 0
+~
+~
+Door 1 0 0 31816 0 0
+~
+~
+Door 3 0 0 31814 0 0
+~
+~
+End
+
+#31816
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31817 0 0
+~
+~
+Door 3 0 0 31815 0 0
+~
+~
+End
+
+#31817
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31832 0 0
+~
+~
+Door 1 0 0 31818 0 0
+~
+~
+Door 2 0 0 31816 0 0
+~
+~
+Door 3 0 0 31830 0 0
+~
+~
+End
+
+#31818
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31833 0 0
+~
+~
+Door 1 0 0 31819 0 0
+~
+~
+Door 3 0 0 31817 0 0
+~
+~
+End
+
+#31819
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31820 0 0
+~
+~
+Door 3 0 0 31818 0 0
+~
+~
+End
+
+#31820
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31823 0 0
+~
+~
+Door 1 0 0 31821 0 0
+~
+~
+Door 2 0 0 31819 0 0
+~
+~
+Door 3 0 0 31833 0 0
+~
+~
+End
+
+#31821
+Name A Wall in the Chamber~
+Descr
+~
+Door 0 0 0 31822 0 0
+~
+~
+Door 3 0 0 31820 0 0
+~
+~
+End
+
+#31822
+Name A Wall in the Chamber~
+Descr
+~
+Door 2 0 0 31821 0 0
+~
+~
+Door 3 0 0 31823 0 0
+~
+~
+End
+
+#31823
+Name A Wall in the Chamber~
+Descr
+~
+Door 1 0 0 31822 0 0
+~
+~
+Door 2 0 0 31820 0 0
+~
+~
+Door 3 0 0 31824 0 0
+~
+~
+End
+
+#31824
+Name A Wall in the Chamber~
+Descr
+~
+Door 1 0 0 31823 0 0
+~
+~
+Door 2 0 0 31833 0 0
+~
+~
+Door 3 0 0 31825 0 0
+~
+~
+End
+
+#31825
+Name A Wall in the Chamber~
+Descr
+~
+Door 1 0 0 31824 0 0
+~
+~
+Door 2 0 0 31832 0 0
+~
+~
+Door 3 0 0 31826 0 0
+~
+~
+End
+
+#31826
+Name A Wall in the Chamber~
+Descr
+~
+Door 1 0 0 31825 0 0
+~
+~
+Door 2 0 0 31831 0 0
+~
+~
+Door 3 0 0 31827 0 0
+~
+~
+End
+
+#31827
+Name A Wall in the Chamber~
+Descr
+~
+Door 1 0 0 31826 0 0
+~
+~
+Door 2 0 0 31828 0 0
+~
+~
+Door 3 0 0 31810 0 0
+~
+~
+End
+
+#31828
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31827 0 0
+~
+~
+Door 1 0 0 31831 0 0
+~
+~
+Door 2 0 0 31829 0 0
+~
+~
+Door 3 0 0 31811 0 0
+~
+~
+End
+
+#31829
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31828 0 0
+~
+~
+Door 1 0 0 31830 0 0
+~
+~
+Door 2 0 0 31814 0 0
+~
+~
+Door 3 0 0 31812 0 0
+~
+~
+End
+
+#31830
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31831 0 0
+~
+~
+Door 1 0 0 31817 0 0
+~
+~
+Door 2 0 0 31815 0 0
+~
+~
+Door 3 0 0 31829 0 0
+~
+~
+End
+
+#31831
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31826 0 0
+~
+~
+Door 1 0 0 31832 0 0
+~
+~
+Door 2 0 0 31830 0 0
+~
+~
+Door 3 0 0 31828 0 0
+~
+~
+End
+
+#31832
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31825 0 0
+~
+~
+Door 1 0 0 31833 0 0
+~
+~
+Door 2 0 0 31817 0 0
+~
+~
+Door 3 0 0 31831 0 0
+~
+~
+End
+
+#31833
+Name A Room in the Chamber~
+Descr
+~
+Door 0 0 0 31824 0 0
+~
+~
+Door 1 0 0 31820 0 0
+~
+~
+Door 2 0 0 31818 0 0
+~
+~
+Door 3 0 0 31832 0 0
+~
+~
+End
+
+#31834
+Name ~
+Descr
+~
+Door 2 3 0 31708 30 30
+~
+beware~
+End
+
+#31835
+Name ~
+Descr
+~
+Door 3 0 0 31834 0 0
+~
+~
+End
+
+#31836
+Name ~
+Descr
+~
+Door 1 0 0 31834 0 0
+~
+~
+End
+
+#31838
+Name ~
+Descr
+~
+Door 4 0 0 31840 0 0
+~
+~
+Door 5 0 0 31839 0 0
+~
+~
+End
+
+#31839
+Name ~
+Descr
+~
+Door 4 0 0 31838 0 0
+~
+~
+End
+
+#31840
+Name ~
+Descr
+~
+Door 4 0 0 31779 0 0
+~
+~
+Door 5 0 0 31838 0 0
+~
+~
+End
+
+#31950
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31995 0 0
+~
+~
+Door 1 0 0 31951 0 0
+~
+~
+Door 2 0 0 32012 0 0
+~
+~
+Door 3 0 0 32100 0 0
+~
+~
+End
+
+#31951
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32085 0 0
+~
+~
+Door 1 0 0 32010 0 0
+~
+~
+Door 2 0 0 32011 0 0
+~
+~
+Door 3 0 0 31950 0 0
+~
+~
+End
+
+#31952
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31953 0 0
+~
+~
+End
+
+#31953
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 2 0 0 31954 0 0
+~
+~
+Door 3 0 0 31952 0 0
+~
+~
+End
+
+#31954
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 31953 0 0
+~
+~
+Door 3 0 0 31955 0 0
+~
+~
+End
+
+#31955
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31954 0 0
+~
+~
+Door 3 0 0 31956 0 0
+~
+~
+End
+
+#31956
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31955 0 0
+~
+~
+Door 3 0 0 31957 0 0
+~
+~
+End
+
+#31957
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31956 0 0
+~
+~
+Door 3 0 0 31958 0 0
+~
+~
+End
+
+#31958
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31957 0 0
+~
+~
+Door 3 0 0 31959 0 0
+~
+~
+End
+
+#31959
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31958 0 0
+~
+~
+End
+
+#31960
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32098 0 0
+~
+~
+Door 2 0 0 31969 0 0
+~
+~
+Door 3 0 0 32054 0 0
+~
+~
+End
+
+#31961
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 31962 0 0
+~
+~
+End
+
+#31962
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31961 0 0
+~
+~
+Door 3 0 0 31963 0 0
+~
+~
+End
+
+#31963
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31962 0 0
+~
+~
+Door 2 0 0 31965 0 0
+~
+~
+Door 3 0 0 31964 0 0
+~
+~
+End
+
+#31964
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31963 0 0
+~
+~
+End
+
+#31965
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 31963 0 0
+~
+~
+Door 1 0 0 31966 0 0
+~
+~
+End
+
+#31966
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31967 0 0
+~
+~
+Door 3 0 0 31965 0 0
+~
+~
+End
+
+#31967
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 31975 0 0
+~
+~
+Door 1 0 0 31968 0 0
+~
+~
+Door 3 0 0 31966 0 0
+~
+~
+End
+
+#31968
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 31967 0 0
+~
+~
+End
+
+#31969
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31960 0 0
+~
+~
+Door 1 0 0 32026 0 0
+~
+~
+Door 2 0 0 31982 0 0
+~
+~
+Door 3 0 0 32016 0 0
+~
+~
+End
+
+#31970
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Door 0 0 0 32008 0 0
+~
+~
+Door 1 0 0 31971 0 0
+~
+~
+Door 2 0 0 32010 0 0
+~
+~
+End
+
+#31971
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Door 3 0 0 31970 0 0
+~
+~
+End
+
+#31972
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31965 0 0
+~
+~
+Door 1 0 0 31973 0 0
+~
+~
+Door 2 0 0 31979 0 0
+~
+~
+Door 3 0 0 32030 0 0
+~
+~
+End
+
+#31973
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32028 0 0
+~
+~
+Door 1 0 0 31974 0 0
+~
+~
+Door 2 0 0 32029 0 0
+~
+~
+Door 3 0 0 31972 0 0
+~
+~
+End
+
+#31974
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32091 0 0
+~
+~
+Door 1 0 0 31986 0 0
+~
+~
+Door 2 0 0 31977 0 0
+~
+~
+Door 3 0 0 31973 0 0
+~
+~
+End
+
+#31975
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32050 0 0
+~
+~
+Door 2 0 0 31967 0 0
+~
+~
+End
+
+#31976
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 31974 0 0
+~
+~
+End
+
+#31977
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31974 0 0
+~
+~
+Door 2 0 0 31996 0 0
+~
+~
+End
+
+#31978
+Name ~
+Descr
+~
+End
+
+#31979
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31972 0 0
+~
+~
+Door 1 0 0 32084 0 0
+~
+~
+Door 2 0 0 32038 0 0
+~
+~
+Door 3 0 0 31980 0 0
+~
+~
+End
+
+#31980
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32068 0 0
+~
+~
+Door 1 0 0 31979 0 0
+~
+~
+Door 2 0 0 32068 0 0
+~
+~
+Door 3 0 0 31981 0 0
+~
+~
+End
+
+#31981
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31952 0 0
+~
+~
+Door 1 0 0 31980 0 0
+~
+~
+Door 2 0 0 32024 0 0
+~
+~
+Door 3 0 0 31982 0 0
+~
+~
+End
+
+#31982
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31969 0 0
+~
+~
+Door 1 0 0 31981 0 0
+~
+~
+Door 3 0 0 32015 0 0
+~
+~
+Door 4 0 0 32026 0 0
+~
+~
+Door 5 0 0 31983 0 0
+~
+~
+End
+
+#31983
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31984 0 0
+~
+~
+Door 4 0 0 31982 0 0
+~
+~
+End
+
+#31984
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31985 0 0
+~
+~
+Door 3 0 0 31983 0 0
+~
+~
+End
+
+#31985
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31986 0 0
+~
+~
+Door 3 0 0 31984 0 0
+~
+~
+End
+
+#31986
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31987 0 0
+~
+~
+Door 3 0 0 31985 0 0
+~
+~
+End
+
+#31987
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31988 0 0
+~
+~
+Door 3 0 0 31986 0 0
+~
+~
+End
+
+#31988
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31989 0 0
+~
+~
+Door 3 0 0 31987 0 0
+~
+~
+End
+
+#31989
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31990 0 0
+~
+~
+Door 3 0 0 31988 0 0
+~
+~
+End
+
+#31990
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31991 0 0
+~
+~
+Door 3 0 0 31989 0 0
+~
+~
+End
+
+#31991
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31992 0 0
+~
+~
+Door 3 0 0 31990 0 0
+~
+~
+End
+
+#31992
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31993 0 0
+~
+~
+Door 3 0 0 31991 0 0
+~
+~
+End
+
+#31993
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31994 0 0
+~
+~
+Door 3 0 0 31992 0 0
+~
+~
+End
+
+#31994
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31995 0 0
+~
+~
+Door 3 0 0 31993 0 0
+~
+~
+End
+
+#31995
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 31996 0 0
+~
+~
+Door 3 0 0 31994 0 0
+~
+~
+End
+
+#31996
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31977 0 0
+~
+~
+Door 1 0 0 31997 0 0
+~
+~
+Door 3 0 0 31995 0 0
+~
+~
+End
+
+#31997
+Name The Mindtrap Ends ~
+Descr
+~
+Flags 4
+Sector 0
+Door 3 0 0 31996 0 0
+~
+~
+Door 4 0 0 31998 0 0
+~
+~
+End
+
+#31998
+Name ~
+Descr
+~
+Door 4 0 0 31999 0 0
+~
+~
+Door 5 0 0 31997 0 0
+~
+~
+End
+
+#31999
+Name Before the City of Karnage~
+Descr
+~
+Door 4 0 0 31601 0 0
+~
+~
+Door 5 0 0 31998 0 0
+~
+~
+End
+
+#32000
+Name A Dark Tunnel Leading to Mindtrap~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32001 0 0
+~
+~
+Door 2 0 0 32009 0 0
+~
+~
+End
+
+#32001
+Name A Dark Tunnel Leading to Mindtrap~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32004 0 0
+~
+~
+Door 2 0 0 32000 0 0
+~
+~
+End
+
+#32002
+Name ~
+Descr
+~
+Door 1 0 0 32000 0 0
+~
+~
+End
+
+#32003
+Name ~
+Descr
+~
+Door 3 0 0 32000 0 0
+~
+~
+End
+
+#32004
+Name A Dark Tunnel Leading to Mindtrap~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32005 0 0
+~
+~
+Door 2 0 0 32001 0 0
+~
+~
+End
+
+#32005
+Name A Dark Tunnel Leading to Mindtrap~
+Descr
+~
+Flags 4
+Sector 0
+Door 2 0 0 32004 0 0
+~
+~
+Door 4 0 0 32006 0 0
+~
+~
+End
+
+#32006
+Name A Dark Tunnel~
+Descr
+~
+Sector 0
+Door 4 0 0 32007 0 0
+~
+~
+Door 5 0 0 32005 0 0
+~
+~
+End
+
+#32007
+Name A Dark Tunnel~
+Descr
+~
+Sector 0
+Door 4 3 0 32008 10 10
+~
+Secret~
+Door 5 0 0 32006 0 0
+~
+~
+End
+
+#32008
+Name A Tunnel Leading to the Maze~
+Descr
+to be changed
+~
+Flags 4
+Sector 0
+ExtraDescr torch~
+~
+Door 4 0 0 31317 0 0
+~
+~
+Door 5 3 0 32007 10 10
+~
+Secret~
+End
+
+#32009
+Name Mindtrap Junction of Ways~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 32009 1 100
+Reset M 32009 1 100
+Reset M 32009 1 100
+Reset M 32009 1 100
+Reset M 32009 1 100
+Door 0 0 0 32000 0 0
+~
+~
+Door 1 0 0 32021 0 0
+~
+~
+Door 2 0 0 32022 0 0
+~
+~
+End
+
+#32010
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 31970 0 0
+~
+~
+Door 1 0 0 32011 0 0
+~
+~
+Door 2 0 0 32021 0 0
+~
+~
+End
+
+#32011
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Sector 0
+Door 1 0 0 32012 0 0
+~
+~
+Door 3 0 0 32010 0 0
+~
+~
+End
+
+#32012
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Sector 0
+Door 1 0 0 32013 0 0
+~
+~
+Door 2 0 0 32034 0 0
+~
+~
+Door 3 0 0 32011 0 0
+~
+~
+End
+
+#32013
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Sector 0
+Door 1 0 0 32014 0 0
+~
+~
+Door 3 0 0 32012 0 0
+~
+~
+End
+
+#32014
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Sector 0
+Door 1 0 0 32015 0 0
+~
+~
+Door 2 0 0 32017 0 0
+~
+~
+Door 3 0 0 32013 0 0
+~
+~
+End
+
+#32015
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Flags 4
+Sector 0
+Door 2 0 0 32016 0 0
+~
+~
+Door 3 0 0 32014 0 0
+~
+~
+End
+
+#32016
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32015 0 0
+~
+~
+Door 3 0 0 32017 0 0
+~
+~
+End
+
+#32017
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32014 0 0
+~
+~
+Door 1 0 0 32016 0 0
+~
+~
+Door 2 0 0 32037 0 0
+~
+~
+End
+
+#32018
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32013 0 0
+~
+~
+Door 1 0 0 32017 0 0
+~
+~
+Door 2 0 0 32035 0 0
+~
+~
+Door 3 0 0 32019 0 0
+~
+~
+End
+
+#32019
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31987 0 0
+~
+~
+Door 1 0 0 32018 0 0
+~
+~
+Door 2 0 0 32015 0 0
+~
+~
+Door 3 0 0 32020 0 0
+~
+~
+End
+
+#32020
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31995 0 0
+~
+~
+Door 1 0 0 32019 0 0
+~
+~
+Door 2 0 0 32033 0 0
+~
+~
+Door 3 0 0 32083 0 0
+~
+~
+End
+
+#32021
+Name ~
+Descr
+~
+Door 0 0 0 32010 0 0
+~
+~
+End
+
+#32022
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32009 0 0
+~
+~
+Door 2 0 0 32031 0 0
+~
+~
+Door 3 0 0 32030 0 0
+~
+~
+End
+
+#32023
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32024 0 0
+~
+~
+End
+
+#32024
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32023 0 0
+~
+~
+Door 3 0 0 32025 0 0
+~
+~
+End
+
+#32025
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32040 0 0
+~
+~
+Door 1 0 0 32024 0 0
+~
+~
+Door 2 0 0 31985 0 0
+~
+~
+Door 3 0 0 32026 0 0
+~
+~
+End
+
+#32026
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32025 0 0
+~
+~
+Door 2 0 0 32027 0 0
+~
+~
+Door 5 0 0 31982 0 0
+~
+~
+End
+
+#32027
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32026 0 0
+~
+~
+Door 1 0 0 32028 0 0
+~
+~
+End
+
+#32028
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32029 0 0
+~
+~
+Door 3 0 0 32027 0 0
+~
+~
+End
+
+#32029
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32030 0 0
+~
+~
+Door 3 0 0 32028 0 0
+~
+~
+End
+
+#32030
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32029 0 0
+~
+~
+End
+
+#32031
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32022 0 0
+~
+~
+Door 1 0 0 32032 0 0
+~
+~
+Door 2 0 0 32045 0 0
+~
+~
+Door 3 0 0 32054 0 0
+~
+~
+End
+
+#32032
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31990 0 0
+~
+~
+Door 1 0 0 32033 0 0
+~
+~
+Door 2 0 0 32086 0 0
+~
+~
+Door 3 0 0 32031 0 0
+~
+~
+End
+
+#32033
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32020 0 0
+~
+~
+Door 1 0 0 31970 0 0
+~
+~
+Door 2 0 0 32058 0 0
+~
+~
+Door 3 0 0 32032 0 0
+~
+~
+End
+
+#32034
+Name ~
+Descr
+~
+Sector 0
+Door 0 0 0 32012 0 0
+~
+~
+Door 2 0 0 32061 0 0
+~
+~
+End
+
+#32035
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32018 0 0
+~
+~
+Door 1 0 0 32035 0 0
+~
+~
+Door 2 0 0 32041 0 0
+~
+~
+Door 3 0 0 32038 0 0
+~
+~
+End
+
+#32036
+Name ~
+Descr
+~
+Sector 0
+Door 1 0 0 32037 0 0
+~
+~
+End
+
+#32037
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32017 0 0
+~
+~
+Door 1 0 0 32038 0 0
+~
+~
+Door 2 0 0 32039 0 0
+~
+~
+Door 3 0 0 32036 0 0
+~
+~
+End
+
+#32038
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32037 0 0
+~
+~
+End
+
+#32039
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32037 0 0
+~
+~
+Door 2 0 0 32048 0 0
+~
+~
+Door 3 0 0 32040 0 0
+~
+~
+End
+
+#32040
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 31995 0 0
+~
+~
+Door 1 0 0 32039 0 0
+~
+~
+Door 2 0 0 32025 0 0
+~
+~
+Door 3 0 0 32097 0 0
+~
+~
+End
+
+#32041
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32035 0 0
+~
+~
+Door 1 0 0 32061 0 0
+~
+~
+Door 2 0 0 32057 0 0
+~
+~
+Door 3 0 0 32042 0 0
+~
+~
+End
+
+#32042
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32038 0 0
+~
+~
+Door 1 0 0 32041 0 0
+~
+~
+Door 2 0 0 32056 0 0
+~
+~
+Door 3 0 0 32043 0 0
+~
+~
+End
+
+#32043
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32029 0 0
+~
+~
+Door 1 0 0 32042 0 0
+~
+~
+Door 2 0 0 32054 0 0
+~
+~
+Door 3 0 0 32044 0 0
+~
+~
+End
+
+#32044
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31994 0 0
+~
+~
+Door 1 0 0 32043 0 0
+~
+~
+Door 2 0 0 32055 0 0
+~
+~
+Door 3 0 0 32065 0 0
+~
+~
+End
+
+#32045
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32046 0 0
+~
+~
+End
+
+#32046
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32045 0 0
+~
+~
+Door 3 0 0 32047 0 0
+~
+~
+End
+
+#32047
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32046 0 0
+~
+~
+Door 3 0 0 32048 0 0
+~
+~
+End
+
+#32048
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32039 0 0
+~
+~
+Door 1 0 0 32047 0 0
+~
+~
+Door 2 0 0 32050 0 0
+~
+~
+Door 3 0 0 32049 0 0
+~
+~
+End
+
+#32049
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32048 0 0
+~
+~
+End
+
+#32050
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32048 0 0
+~
+~
+Door 1 0 0 32051 0 0
+~
+~
+Door 2 0 0 31975 0 0
+~
+~
+End
+
+#32051
+Name ~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32052 0 0
+~
+~
+Door 3 0 0 32050 0 0
+~
+~
+End
+
+#32052
+Name ~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32053 0 0
+~
+~
+Door 3 0 0 32051 0 0
+~
+~
+End
+
+#32053
+Name ~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32054 0 0
+~
+~
+Door 3 0 0 32052 0 0
+~
+~
+End
+
+#32054
+Name ~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32053 0 0
+~
+~
+End
+
+#32055
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32044 0 0
+~
+~
+Door 1 0 0 32050 0 0
+~
+~
+Door 2 0 0 32066 0 0
+~
+~
+Door 3 0 0 32071 0 0
+~
+~
+End
+
+#32056
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32057 0 0
+~
+~
+End
+
+#32057
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32058 0 0
+~
+~
+Door 3 0 0 32056 0 0
+~
+~
+End
+
+#32058
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32059 0 0
+~
+~
+Door 3 0 0 32057 0 0
+~
+~
+End
+
+#32059
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32060 0 0
+~
+~
+Door 3 0 0 32058 0 0
+~
+~
+End
+
+#32060
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 2 0 0 32071 0 0
+~
+~
+Door 3 0 0 32059 0 0
+~
+~
+End
+
+#32061
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32034 0 0
+~
+~
+Door 1 0 0 32062 0 0
+~
+~
+Door 2 0 0 32072 0 0
+~
+~
+End
+
+#32062
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32063 0 0
+~
+~
+Door 3 0 0 32061 0 0
+~
+~
+End
+
+#32063
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32064 0 0
+~
+~
+Door 3 0 0 32062 0 0
+~
+~
+End
+
+#32064
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32093 0 0
+~
+~
+Door 1 0 0 32065 0 0
+~
+~
+Door 3 0 0 32063 0 0
+~
+~
+End
+
+#32065
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32064 0 0
+~
+~
+End
+
+#32066
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32055 0 0
+~
+~
+Door 1 0 0 32027 0 0
+~
+~
+Door 2 0 0 32077 0 0
+~
+~
+Door 3 0 0 31987 0 0
+~
+~
+End
+
+#32067
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32068 0 0
+~
+~
+End
+
+#32068
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32069 0 0
+~
+~
+Door 3 0 0 32067 0 0
+~
+~
+End
+
+#32069
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32070 0 0
+~
+~
+Door 3 0 0 32068 0 0
+~
+~
+End
+
+#32070
+Name Mindtrap Maze~
+Descr
+~
+Door 1 0 0 32071 0 0
+~
+~
+Door 3 0 0 32069 0 0
+~
+~
+End
+
+#32071
+Name Mindtrap Maze~
+Descr
+~
+Door 0 0 0 32060 0 0
+~
+~
+Door 3 0 0 32070 0 0
+~
+~
+End
+
+#32072
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32061 0 0
+~
+~
+Door 1 0 0 32073 0 0
+~
+~
+Door 2 0 0 32093 0 0
+~
+~
+End
+
+#32073
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32074 0 0
+~
+~
+Door 3 0 0 32072 0 0
+~
+~
+End
+
+#32074
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32075 0 0
+~
+~
+Door 3 0 0 32073 0 0
+~
+~
+End
+
+#32075
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32076 0 0
+~
+~
+Door 3 0 0 32074 0 0
+~
+~
+End
+
+#32076
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32075 0 0
+~
+~
+End
+
+#32077
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32066 0 0
+~
+~
+Door 1 0 0 32078 0 0
+~
+~
+Door 2 0 0 32088 0 0
+~
+~
+Door 3 0 0 32076 0 0
+~
+~
+End
+
+#32078
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31984 0 0
+~
+~
+Door 1 0 0 32079 0 0
+~
+~
+Door 2 0 0 31985 0 0
+~
+~
+Door 3 0 0 32077 0 0
+~
+~
+End
+
+#32079
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31983 0 0
+~
+~
+Door 1 0 0 32080 0 0
+~
+~
+Door 2 0 0 31983 0 0
+~
+~
+Door 3 0 0 32078 0 0
+~
+~
+End
+
+#32080
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 31994 0 0
+~
+~
+Door 1 0 0 31964 0 0
+~
+~
+Door 2 0 0 32085 0 0
+~
+~
+Door 3 0 0 32079 0 0
+~
+~
+End
+
+#32081
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32082 0 0
+~
+~
+Door 2 0 0 32083 0 0
+~
+~
+End
+
+#32082
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32081 0 0
+~
+~
+End
+
+#32083
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 0 0 0 32081 0 0
+~
+~
+Door 3 0 0 32084 0 0
+~
+~
+End
+
+#32084
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32083 0 0
+~
+~
+End
+
+#32085
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32080 0 0
+~
+~
+Door 1 0 0 32094 0 0
+~
+~
+Door 2 0 0 31951 0 0
+~
+~
+Door 3 0 0 32082 0 0
+~
+~
+End
+
+#32086
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 3 0 0 32087 0 0
+~
+~
+End
+
+#32087
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32086 0 0
+~
+~
+Door 3 0 0 32088 0 0
+~
+~
+End
+
+#32088
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32087 0 0
+~
+~
+Door 3 0 0 32089 0 0
+~
+~
+End
+
+#32089
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32088 0 0
+~
+~
+Door 3 0 0 32090 0 0
+~
+~
+End
+
+#32090
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32089 0 0
+~
+~
+Door 3 0 0 32091 0 0
+~
+~
+End
+
+#32091
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Door 1 0 0 32090 0 0
+~
+~
+Door 3 0 0 32092 0 0
+~
+~
+End
+
+#32092
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 1 0 0 32091 0 0
+~
+~
+Door 2 0 0 32094 0 0
+~
+~
+Door 3 0 0 32093 0 0
+~
+~
+End
+
+#32093
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32072 0 0
+~
+~
+Door 1 0 0 32092 0 0
+~
+~
+Door 2 0 0 32064 0 0
+~
+~
+End
+
+#32094
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 0 0 0 32092 0 0
+~
+~
+Door 1 0 0 32095 0 0
+~
+~
+End
+
+#32095
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 1 0 0 32096 0 0
+~
+~
+Door 3 0 0 32094 0 0
+~
+~
+End
+
+#32096
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 1 0 0 32097 0 0
+~
+~
+Door 3 0 0 32095 0 0
+~
+~
+End
+
+#32097
+Name Mindtrap Maze~
+Descr
+Darkness slowly surrounds you, as you rest here you hear faint screams
+echoing through the walls warning you of danger nearby in the distance.
+As the echo's get louder, you wonder wich you had come from, if you
+stick around to long you might get lost deeper south in the maze.
+~
+Sector 0
+Door 1 0 0 32040 0 0
+~
+~
+Door 3 0 0 32096 0 0
+~
+~
+End
+
+#32098
+Name The Minetrap Maze~
+Descr
+~
+Sector 0
+Door 0 0 0 31971 0 0
+~
+~
+Door 1 0 0 32099 0 0
+~
+~
+Door 2 0 0 31960 0 0
+~
+~
+Door 3 0 0 31953 0 0
+~
+~
+End
+
+#32099
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 32100 0 0
+~
+~
+Door 2 0 0 32014 0 0
+~
+~
+Door 3 0 0 32098 0 0
+~
+~
+End
+
+#32100
+Name The Mindtrap Maze~
+Descr
+~
+Flags 4
+Sector 0
+Door 0 0 0 32049 0 0
+~
+~
+Door 1 0 0 31950 0 0
+~
+~
+Door 2 0 0 32013 0 0
+~
+~
+Door 3 0 0 32099 0 0
+~
+~
+End
+
+#31101
+Name Forest Trail of Ansaline~
+Descr
+You enter a dark forest trail leading north and south.  You wonder if it wise to continue on the trail.
+~
+Door 0 0 0 31102 0 0
+~
+~
+Door 2 0 0 26719 0 0
+~
+~
+End
+
+#31102
+Name Forest Trail of Ansaline~
+Descr
+You enter a dark forest trail leading north and south.  You wonder if it wise to continue on the trail.
+~
+Door 0 0 0 31103 0 0
+~
+~
+Door 2 0 0 31101 0 0
+~
+~
+End
+
+#31103
+Name Forest Trail of Ansaline~
+Descr
+As you enter you notice the tail goes back to the south or down into the dense forest.  Which way will you travel?
+~
+Door 2 0 0 31102 0 0
+~
+~
+Door 5 0 0 31104 0 0
+~
+~
+End
+
+#31104
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31105 0 0
+~
+~
+Door 2 0 0 31110 0 0
+~
+~
+Door 4 0 0 31103 0 0
+~
+~
+End
+
+#31105
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31107 0 0
+~
+~
+Door 1 0 0 31106 0 0
+~
+~
+Door 2 0 0 31111 0 0
+~
+~
+Door 3 0 0 31104 0 0
+~
+~
+End
+
+#31106
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31108 0 0
+~
+~
+Door 3 0 0 31105 0 0
+~
+~
+End
+
+#31107
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31108 0 0
+~
+~
+Door 2 0 0 31105 0 0
+~
+~
+End
+
+#31108
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31138 0 0
+~
+~
+Door 2 0 0 31106 0 0
+~
+~
+Door 3 0 0 31107 0 0
+~
+~
+End
+
+#31109
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31110 0 0
+~
+~
+Door 2 0 0 31112 0 0
+~
+~
+End
+
+#31110
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31104 0 0
+~
+~
+Door 1 0 0 31111 0 0
+~
+~
+Door 2 0 0 31113 0 0
+~
+~
+Door 3 0 0 31109 0 0
+~
+~
+End
+
+#31111
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31105 0 0
+~
+~
+Door 2 0 0 31114 0 0
+~
+~
+Door 3 0 0 31110 0 0
+~
+~
+End
+
+#31112
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31109 0 0
+~
+~
+Door 1 0 0 31113 0 0
+~
+~
+End
+
+#31113
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31110 0 0
+~
+~
+Door 1 0 0 31114 0 0
+~
+~
+Door 2 0 0 31115 0 0
+~
+~
+Door 3 0 0 31112 0 0
+~
+~
+End
+
+#31114
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31111 0 0
+~
+~
+Door 2 0 0 31116 0 0
+~
+~
+Door 3 0 0 31113 0 0
+~
+~
+End
+
+#31115
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31113 0 0
+~
+~
+Door 1 0 0 31116 0 0
+~
+~
+Door 2 0 0 31117 0 0
+~
+~
+End
+
+#31116
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31114 0 0
+~
+~
+Door 2 0 0 31118 0 0
+~
+~
+Door 3 0 0 31115 0 0
+~
+~
+End
+
+#31117
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31115 0 0
+~
+~
+Door 1 0 0 31118 0 0
+~
+~
+Door 2 0 0 31120 0 0
+~
+~
+End
+
+#31118
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31116 0 0
+~
+~
+Door 1 0 0 31119 0 0
+~
+~
+Door 2 0 0 31121 0 0
+~
+~
+Door 3 0 0 31117 0 0
+~
+~
+End
+
+#31119
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 2 0 0 31122 0 0
+~
+~
+Door 3 0 0 31118 0 0
+~
+~
+End
+
+#31120
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31117 0 0
+~
+~
+Door 1 0 0 31121 0 0
+~
+~
+End
+
+#31121
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31118 0 0
+~
+~
+Door 1 0 0 31122 0 0
+~
+~
+Door 2 0 0 31123 0 0
+~
+~
+Door 3 0 0 31120 0 0
+~
+~
+End
+
+#31122
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31119 0 0
+~
+~
+Door 2 0 0 31124 0 0
+~
+~
+Door 3 0 0 31121 0 0
+~
+~
+End
+
+#31123
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31121 0 0
+~
+~
+Door 1 0 0 31124 0 0
+~
+~
+End
+
+#31124
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31122 0 0
+~
+~
+Door 1 0 0 31125 0 0
+~
+~
+Door 2 0 0 31126 0 0
+~
+~
+Door 3 0 0 31123 0 0
+~
+~
+End
+
+#31125
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31127 0 0
+~
+~
+Door 3 0 0 31124 0 0
+~
+~
+End
+
+#31126
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31124 0 0
+~
+~
+Door 1 0 0 31127 0 0
+~
+~
+Door 2 0 0 31129 0 0
+~
+~
+End
+
+#31127
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31125 0 0
+~
+~
+Door 1 0 0 31128 0 0
+~
+~
+Door 2 0 0 31130 0 0
+~
+~
+Door 3 0 0 31126 0 0
+~
+~
+End
+
+#31128
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31131 0 0
+~
+~
+Door 3 0 0 31127 0 0
+~
+~
+End
+
+#31129
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31126 0 0
+~
+~
+Door 1 0 0 31130 0 0
+~
+~
+End
+
+#31130
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31127 0 0
+~
+~
+Door 1 0 0 31131 0 0
+~
+~
+Door 2 0 0 31132 0 0
+~
+~
+Door 3 0 0 31129 0 0
+~
+~
+End
+
+#31131
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31128 0 0
+~
+~
+Door 2 0 0 31133 0 0
+~
+~
+Door 3 0 0 31130 0 0
+~
+~
+End
+
+#31132
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31130 0 0
+~
+~
+Door 1 0 0 31133 0 0
+~
+~
+End
+
+#31133
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31131 0 0
+~
+~
+Door 1 0 0 31134 0 0
+~
+~
+Door 2 0 0 31135 0 0
+~
+~
+Door 3 0 0 31132 0 0
+~
+~
+End
+
+#31134
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31136 0 0
+~
+~
+Door 3 0 0 31133 0 0
+~
+~
+End
+
+#31135
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31133 0 0
+~
+~
+Door 1 0 0 31136 0 0
+~
+~
+End
+
+#31136
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31134 0 0
+~
+~
+Door 3 0 0 31135 0 0
+~
+~
+End
+
+#31138
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31141 0 0
+~
+~
+Door 1 0 0 31139 0 0
+~
+~
+Door 2 0 0 31108 0 0
+~
+~
+End
+
+#31139
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31142 0 0
+~
+~
+Door 1 0 0 31140 0 0
+~
+~
+Door 3 0 0 31138 0 0
+~
+~
+End
+
+#31140
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31143 0 0
+~
+~
+Door 3 0 0 31139 0 0
+~
+~
+End
+
+#31141
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31144 0 0
+~
+~
+Door 1 0 0 31142 0 0
+~
+~
+Door 2 0 0 31138 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31142
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31145 0 0
+~
+~
+Door 1 0 0 31143 0 0
+~
+~
+Door 2 0 0 31139 0 0
+~
+~
+Door 3 0 0 31141 0 0
+~
+~
+End
+
+#31143
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31146 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31140 0 0
+~
+~
+Door 3 0 0 31142 0 0
+~
+~
+End
+
+#31144
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31159 0 0
+~
+~
+Door 1 0 0 31145 0 0
+~
+~
+Door 2 0 0 31141 0 0
+~
+~
+Door 3 0 0 31286 0 0
+~
+~
+End
+
+#31145
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31158 0 0
+~
+~
+Door 1 0 0 31146 0 0
+~
+~
+Door 2 0 0 31142 0 0
+~
+~
+Door 3 0 0 31144 0 0
+~
+~
+End
+
+#31146
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31157 0 0
+~
+~
+Door 1 0 0 31147 0 0
+~
+~
+Door 2 0 0 31143 0 0
+~
+~
+Door 3 0 0 31145 0 0
+~
+~
+End
+
+#31147
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31156 0 0
+~
+~
+Door 1 0 0 31148 0 0
+~
+~
+Door 3 0 0 31146 0 0
+~
+~
+End
+
+#31148
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31155 0 0
+~
+~
+Door 1 0 0 31149 0 0
+~
+~
+Door 3 0 0 31147 0 0
+~
+~
+End
+
+#31149
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31154 0 0
+~
+~
+Door 1 0 0 31150 0 0
+~
+~
+Door 2 0 0 31186 0 0
+~
+~
+Door 3 0 0 31148 0 0
+~
+~
+End
+
+#31150
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31153 0 0
+~
+~
+Door 1 0 0 31151 0 0
+~
+~
+Door 2 0 0 31187 0 0
+~
+~
+Door 3 0 0 31149 0 0
+~
+~
+End
+
+#31151
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31152 0 0
+~
+~
+Door 1 0 0 31185 0 0
+~
+~
+Door 2 0 0 31188 0 0
+~
+~
+Door 3 0 0 31150 0 0
+~
+~
+End
+
+#31152
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31167 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you Hit a tree
+~
+~
+Door 2 0 0 31151 0 0
+~
+~
+Door 3 0 0 31153 0 0
+~
+~
+End
+
+#31153
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31166 0 0
+~
+~
+Door 1 0 0 31152 0 0
+~
+~
+Door 2 0 0 31150 0 0
+~
+~
+Door 3 0 0 31154 0 0
+~
+~
+End
+
+#31154
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31165 0 0
+~
+~
+Door 1 0 0 31153 0 0
+~
+~
+Door 2 0 0 31149 0 0
+~
+~
+Door 3 0 0 31155 0 0
+~
+~
+End
+
+#31155
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31164 0 0
+~
+~
+Door 1 0 0 31154 0 0
+~
+~
+Door 2 0 0 31148 0 0
+~
+~
+Door 3 0 0 31156 0 0
+~
+~
+End
+
+#31156
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31162 0 0
+~
+~
+Door 1 0 0 31155 0 0
+~
+~
+Door 2 0 0 31147 0 0
+~
+~
+Door 3 0 0 31157 0 0
+~
+~
+End
+
+#31157
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31161 0 0
+~
+~
+Door 1 0 0 31156 0 0
+~
+~
+Door 2 0 0 31146 0 0
+~
+~
+Door 3 0 0 31158 0 0
+~
+~
+End
+
+#31158
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31160 0 0
+~
+~
+Door 1 0 0 31157 0 0
+~
+~
+Door 2 0 0 31145 0 0
+~
+~
+Door 3 0 0 31159 0 0
+~
+~
+End
+
+#31159
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31163 0 0
+~
+~
+Door 1 0 0 31158 0 0
+~
+~
+Door 2 0 0 31144 0 0
+~
+~
+Door 3 0 0 31280 0 0
+~
+~
+End
+
+#31160
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31200 0 0
+~
+~
+Door 1 0 0 31161 0 0
+~
+~
+Door 2 0 0 31158 0 0
+~
+~
+Door 3 0 0 31163 0 0
+~
+~
+End
+
+#31161
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31201 0 0
+~
+~
+Door 1 0 0 31162 0 0
+~
+~
+Door 2 0 0 31157 0 0
+~
+~
+Door 3 0 0 31160 0 0
+~
+~
+End
+
+#31162
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31164 0 0
+~
+~
+Door 2 0 0 31156 0 0
+~
+~
+Door 3 0 0 31161 0 0
+~
+~
+End
+
+#31163
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31199 0 0
+~
+~
+Door 1 0 0 31160 0 0
+~
+~
+Door 2 0 0 31159 0 0
+~
+~
+Door 3 0 0 31275 0 0
+~
+~
+End
+
+#31164
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31168 0 0
+~
+~
+Door 1 0 0 31165 0 0
+~
+~
+Door 2 0 0 31155 0 0
+~
+~
+Door 3 0 0 31162 0 0
+~
+~
+End
+
+#31165
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31169 0 0
+~
+~
+Door 1 0 0 31166 0 0
+~
+~
+Door 2 0 0 31154 0 0
+~
+~
+Door 3 0 0 31164 0 0
+~
+~
+End
+
+#31166
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31170 0 0
+~
+~
+Door 1 0 0 31167 0 0
+~
+~
+Door 2 0 0 31153 0 0
+~
+~
+Door 3 0 0 31165 0 0
+~
+~
+End
+
+#31167
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31191 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree.
+~
+~
+Door 2 0 0 31152 0 0
+~
+~
+Door 3 0 0 31166 0 0
+~
+~
+End
+
+#31168
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31169 0 0
+~
+~
+Door 2 0 0 31164 0 0
+~
+~
+End
+
+#31169
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31173 0 0
+~
+~
+Door 1 0 0 31170 0 0
+~
+~
+Door 2 0 0 31165 0 0
+~
+~
+Door 3 0 0 31168 0 0
+~
+~
+End
+
+#31170
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31174 0 0
+~
+~
+Door 1 0 0 31191 0 0
+~
+~
+Door 2 0 0 31166 0 0
+~
+~
+Door 3 0 0 31169 0 0
+~
+~
+End
+
+#31172
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31176 0 0
+~
+~
+Door 3 0 0 31191 0 0
+~
+~
+End
+
+#31173
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31174 0 0
+~
+~
+Door 2 0 0 31169 0 0
+~
+~
+End
+
+#31174
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31178 0 0
+~
+~
+Door 1 0 0 31175 0 0
+~
+~
+Door 2 0 0 31170 0 0
+~
+~
+Door 3 0 0 31173 0 0
+~
+~
+End
+
+#31175
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31179 0 0
+~
+~
+Door 1 0 0 31176 0 0
+~
+~
+Door 2 0 0 31191 0 0
+~
+~
+Door 3 0 0 31174 0 0
+~
+~
+End
+
+#31176
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31180 0 0
+~
+~
+Door 1 0 0 31177 0 0
+~
+~
+Door 2 0 0 31172 0 0
+~
+~
+Door 3 0 0 31175 0 0
+~
+~
+End
+
+#31177
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31181 0 0
+~
+~
+Door 3 0 0 31176 0 0
+~
+~
+End
+
+#31178
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31179 0 0
+~
+~
+Door 2 0 0 31174 0 0
+~
+~
+End
+
+#31179
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31182 0 0
+~
+~
+Door 1 0 0 31180 0 0
+~
+~
+Door 2 0 0 31175 0 0
+~
+~
+Door 3 0 0 31178 0 0
+~
+~
+End
+
+#31180
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31183 0 0
+~
+~
+Door 1 0 0 31181 0 0
+~
+~
+Door 2 0 0 31176 0 0
+~
+~
+Door 3 0 0 31179 0 0
+~
+~
+End
+
+#31181
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31184 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you Hit a tree
+~
+~
+Door 2 0 0 31177 0 0
+~
+~
+Door 3 0 0 31180 0 0
+~
+~
+End
+
+#31182
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31183 0 0
+~
+~
+Door 2 0 0 31179 0 0
+~
+~
+End
+
+#31183
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31184 0 0
+~
+~
+Door 2 0 0 31180 0 0
+~
+~
+Door 3 0 0 31182 0 0
+~
+~
+End
+
+#31184
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31181 0 0
+~
+~
+Door 3 0 0 31183 0 0
+~
+~
+End
+
+#31185
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31189 0 0
+~
+~
+Door 3 0 0 31151 0 0
+~
+~
+End
+
+#31186
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31149 0 0
+~
+~
+Door 1 0 0 31187 0 0
+~
+~
+End
+
+#31187
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31150 0 0
+~
+~
+Door 1 0 0 31188 0 0
+~
+~
+Door 2 0 0 31194 0 0
+~
+~
+Door 3 0 0 31186 0 0
+~
+~
+End
+
+#31188
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31151 0 0
+~
+~
+Door 1 0 0 31189 0 0
+~
+~
+Door 2 0 0 31192 0 0
+~
+~
+Door 3 0 0 31187 0 0
+~
+~
+End
+
+#31189
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31185 0 0
+~
+~
+Door 1 0 0 31190 0 0
+~
+~
+Door 2 0 0 31193 0 0
+~
+~
+Door 3 0 0 31188 0 0
+~
+~
+End
+
+#31190
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31198 0 0
+~
+~
+Door 3 0 0 31189 0 0
+~
+~
+End
+
+#31191
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31175 0 0
+~
+~
+Door 1 0 0 31172 0 0
+~
+~
+Door 2 0 0 31167 0 0
+~
+~
+Door 3 0 0 31170 0 0
+~
+~
+End
+
+#31192
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31188 0 0
+~
+~
+Door 1 0 0 31193 0 0
+~
+~
+Door 2 0 0 31195 0 0
+~
+~
+Door 3 0 0 31194 0 0
+~
+~
+End
+
+#31193
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31189 0 0
+~
+~
+Door 1 0 0 31198 0 0
+~
+~
+Door 2 0 0 31196 0 0
+~
+~
+Door 3 0 0 31192 0 0
+~
+~
+End
+
+#31194
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31187 0 0
+~
+~
+Door 1 0 0 31192 0 0
+~
+~
+End
+
+#31195
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31192 0 0
+~
+~
+Door 1 0 0 31196 0 0
+~
+~
+End
+
+#31196
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31193 0 0
+~
+~
+Door 1 0 0 31197 0 0
+~
+~
+Door 3 0 0 31195 0 0
+~
+~
+End
+
+#31197
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31198 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 3 0 0 31196 0 0
+~
+~
+End
+
+#31198
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31190 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you Hit a tree
+~
+~
+Door 2 0 0 31197 0 0
+~
+~
+Door 3 0 0 31193 0 0
+~
+~
+End
+
+#31199
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31203 0 0
+~
+~
+Door 1 0 0 31200 0 0
+~
+~
+Door 2 0 0 31163 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31200
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31204 0 0
+~
+~
+Door 1 0 0 31201 0 0
+~
+~
+Door 2 0 0 31160 0 0
+~
+~
+Door 3 0 0 31199 0 0
+~
+~
+End
+
+#31201
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31205 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31161 0 0
+~
+~
+Door 3 0 0 31200 0 0
+~
+~
+End
+
+#31202
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31207 0 0
+~
+~
+Door 1 0 0 31203 0 0
+~
+~
+End
+
+#31203
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31208 0 0
+~
+~
+Door 1 0 0 31204 0 0
+~
+~
+Door 2 0 0 31199 0 0
+~
+~
+Door 3 0 0 31202 0 0
+~
+~
+End
+
+#31204
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31209 0 0
+~
+~
+Door 1 0 0 31205 0 0
+~
+~
+Door 2 0 0 31200 0 0
+~
+~
+Door 3 0 0 31203 0 0
+~
+~
+End
+
+#31205
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31210 0 0
+~
+~
+Door 1 0 0 31206 0 0
+~
+~
+Door 2 0 0 31201 0 0
+~
+~
+Door 3 0 0 31204 0 0
+~
+~
+End
+
+#31206
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31211 0 0
+~
+~
+Door 3 0 0 31205 0 0
+~
+~
+End
+
+#31207
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31212 0 0
+~
+~
+Door 1 0 0 31208 0 0
+~
+~
+Door 2 0 0 31202 0 0
+~
+~
+End
+
+#31208
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31213 0 0
+~
+~
+Door 1 0 0 31209 0 0
+~
+~
+Door 2 0 0 31203 0 0
+~
+~
+Door 3 0 0 31207 0 0
+~
+~
+End
+
+#31209
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31214 0 0
+~
+~
+Door 1 0 0 31210 0 0
+~
+~
+Door 2 0 0 31204 0 0
+~
+~
+Door 3 0 0 31208 0 0
+~
+~
+End
+
+#31210
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31215 0 0
+~
+~
+Door 1 0 0 31211 0 0
+~
+~
+Door 2 0 0 31205 0 0
+~
+~
+Door 3 0 0 31209 0 0
+~
+~
+End
+
+#31211
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31300 0 0
+~
+~
+Door 2 0 0 31206 0 0
+~
+~
+Door 3 0 0 31210 0 0
+~
+~
+End
+
+#31212
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31217 0 0
+~
+~
+Door 1 0 0 31213 0 0
+~
+~
+Door 2 0 0 31207 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31213
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31218 0 0
+~
+~
+Door 1 0 0 31214 0 0
+~
+~
+Door 2 0 0 31208 0 0
+~
+~
+Door 3 0 0 31212 0 0
+~
+~
+End
+
+#31214
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31219 0 0
+~
+~
+Door 1 0 0 31215 0 0
+~
+~
+Door 2 0 0 31209 0 0
+~
+~
+Door 3 0 0 31213 0 0
+~
+~
+End
+
+#31215
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31220 0 0
+~
+~
+Door 1 0 0 31300 0 0
+~
+~
+Door 2 0 0 31210 0 0
+~
+~
+Door 3 0 0 31214 0 0
+~
+~
+End
+
+#31216
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31224 0 0
+~
+~
+Door 1 0 0 31217 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31217
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31225 0 0
+~
+~
+Door 1 0 0 31218 0 0
+~
+~
+Door 2 0 0 31212 0 0
+~
+~
+Door 3 0 0 31216 0 0
+~
+~
+End
+
+#31218
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31226 0 0
+~
+~
+Door 1 0 0 31219 0 0
+~
+~
+Door 2 0 0 31213 0 0
+~
+~
+Door 3 0 0 31217 0 0
+~
+~
+End
+
+#31219
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31227 0 0
+~
+~
+Door 1 0 0 31220 0 0
+~
+~
+Door 2 0 0 31214 0 0
+~
+~
+Door 3 0 0 31218 0 0
+~
+~
+End
+
+#31220
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31228 0 0
+~
+~
+Door 1 0 0 31221 0 0
+~
+~
+Door 2 0 0 31215 0 0
+~
+~
+Door 3 0 0 31219 0 0
+~
+~
+End
+
+#31221
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31229 0 0
+~
+~
+Door 1 0 0 31222 0 0
+~
+~
+Door 2 0 0 31300 0 0
+~
+~
+Door 3 0 0 31220 0 0
+~
+~
+End
+
+#31222
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31230 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 3 0 0 31221 0 0
+~
+~
+Door 5 259 0 31418 30 30
+~
+clovers~
+End
+
+#31223
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31232 0 0
+~
+~
+Door 1 0 0 31224 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31224
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31233 0 0
+~
+~
+Door 1 0 0 31225 0 0
+~
+~
+Door 2 0 0 31216 0 0
+~
+~
+Door 3 0 0 31223 0 0
+~
+~
+End
+
+#31225
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31234 0 0
+~
+~
+Door 1 0 0 31226 0 0
+~
+~
+Door 2 0 0 31217 0 0
+~
+~
+Door 3 0 0 31224 0 0
+~
+~
+End
+
+#31226
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31235 0 0
+~
+~
+Door 1 0 0 31227 0 0
+~
+~
+Door 2 0 0 31218 0 0
+~
+~
+Door 3 0 0 31225 0 0
+~
+~
+End
+
+#31227
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31236 0 0
+~
+~
+Door 1 0 0 31228 0 0
+~
+~
+Door 2 0 0 31219 0 0
+~
+~
+Door 3 0 0 31226 0 0
+~
+~
+End
+
+#31228
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31237 0 0
+~
+~
+Door 1 0 0 31229 0 0
+~
+~
+Door 2 0 0 31220 0 0
+~
+~
+Door 3 0 0 31227 0 0
+~
+~
+End
+
+#31229
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31238 0 0
+~
+~
+Door 1 0 0 31230 0 0
+~
+~
+Door 2 0 0 31221 0 0
+~
+~
+Door 3 0 0 31228 0 0
+~
+~
+End
+
+#31230
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31239 0 0
+~
+~
+Door 1 0 0 31231 0 0
+~
+~
+Door 2 0 0 31222 0 0
+~
+~
+Door 3 0 0 31229 0 0
+~
+~
+End
+
+#31231
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31240 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 3 0 0 31230 0 0
+~
+~
+End
+
+#31232
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31241 0 0
+~
+~
+Door 1 0 0 31233 0 0
+~
+~
+Door 2 0 0 31223 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31233
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31242 0 0
+~
+~
+Door 1 0 0 31234 0 0
+~
+~
+Door 2 0 0 31224 0 0
+~
+~
+Door 3 0 0 31232 0 0
+~
+~
+End
+
+#31234
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31243 0 0
+~
+~
+Door 1 0 0 31235 0 0
+~
+~
+Door 2 0 0 31225 0 0
+~
+~
+Door 3 0 0 31233 0 0
+~
+~
+End
+
+#31235
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31244 0 0
+~
+~
+Door 1 0 0 31236 0 0
+~
+~
+Door 2 0 0 31226 0 0
+~
+~
+Door 3 0 0 31234 0 0
+~
+~
+End
+
+#31236
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31237 0 0
+~
+~
+Door 2 0 0 31227 0 0
+~
+~
+Door 3 0 0 31235 0 0
+~
+~
+End
+
+#31237
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31245 0 0
+~
+~
+Door 1 0 0 31238 0 0
+~
+~
+Door 2 0 0 31228 0 0
+~
+~
+Door 3 0 0 31236 0 0
+~
+~
+End
+
+#31238
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31246 0 0
+~
+~
+Door 1 0 0 31239 0 0
+~
+~
+Door 2 0 0 31229 0 0
+~
+~
+Door 3 0 0 31237 0 0
+~
+~
+End
+
+#31239
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31247 0 0
+~
+~
+Door 1 0 0 31240 0 0
+~
+~
+Door 2 0 0 31230 0 0
+~
+~
+Door 3 0 0 31238 0 0
+~
+~
+End
+
+#31240
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31248 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31231 0 0
+~
+~
+Door 3 0 0 31239 0 0
+~
+~
+End
+
+#31241
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31249 0 0
+~
+~
+Door 1 0 0 31242 0 0
+~
+~
+Door 2 0 0 31232 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31242
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31250 0 0
+~
+~
+Door 1 0 0 31243 0 0
+~
+~
+Door 2 0 0 31233 0 0
+~
+~
+Door 3 0 0 31241 0 0
+~
+~
+End
+
+#31243
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31251 0 0
+~
+~
+Door 1 0 0 31244 0 0
+~
+~
+Door 2 0 0 31234 0 0
+~
+~
+Door 3 0 0 31242 0 0
+~
+~
+End
+
+#31244
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31235 0 0
+~
+~
+Door 3 0 0 31243 0 0
+~
+~
+End
+
+#31245
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31246 0 0
+~
+~
+Door 2 0 0 31237 0 0
+~
+~
+End
+
+#31246
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31252 0 0
+~
+~
+Door 1 0 0 31247 0 0
+~
+~
+Door 2 0 0 31238 0 0
+~
+~
+Door 3 0 0 31245 0 0
+~
+~
+End
+
+#31247
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31253 0 0
+~
+~
+Door 1 0 0 31248 0 0
+~
+~
+Door 2 0 0 31239 0 0
+~
+~
+Door 3 0 0 31246 0 0
+~
+~
+End
+
+#31248
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31254 0 0
+~
+~
+Door 1 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+Door 2 0 0 31240 0 0
+~
+~
+Door 3 0 0 31247 0 0
+~
+~
+End
+
+#31249
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31250 0 0
+~
+~
+Door 2 0 0 31241 0 0
+~
+~
+End
+
+#31250
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31251 0 0
+~
+~
+Door 2 0 0 31242 0 0
+~
+~
+Door 3 0 0 31249 0 0
+~
+~
+End
+
+#31251
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31243 0 0
+~
+~
+Door 3 0 0 31250 0 0
+~
+~
+End
+
+#31252
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31253 0 0
+~
+~
+Door 2 0 0 31246 0 0
+~
+~
+End
+
+#31253
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31254 0 0
+~
+~
+Door 2 0 0 31247 0 0
+~
+~
+Door 3 0 0 31252 0 0
+~
+~
+End
+
+#31254
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31248 0 0
+~
+~
+Door 3 0 0 31253 0 0
+~
+~
+End
+
+#31255
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31256 0 0
+~
+~
+Door 2 0 0 31258 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31256
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31257 0 0
+~
+~
+Door 2 0 0 31259 0 0
+~
+~
+Door 3 0 0 31255 0 0
+~
+~
+End
+
+#31257
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31260 0 0
+~
+~
+Door 3 0 0 31256 0 0
+~
+~
+End
+
+#31258
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31255 0 0
+~
+~
+Door 1 0 0 31259 0 0
+~
+~
+Door 2 0 0 31262 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31259
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31256 0 0
+~
+~
+Door 1 0 0 31260 0 0
+~
+~
+Door 2 0 0 31263 0 0
+~
+~
+Door 3 0 0 31258 0 0
+~
+~
+End
+
+#31260
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31257 0 0
+~
+~
+Door 1 0 0 31261 0 0
+~
+~
+Door 2 0 0 31264 0 0
+~
+~
+Door 3 0 0 31259 0 0
+~
+~
+End
+
+#31261
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31265 0 0
+~
+~
+Door 3 0 0 31260 0 0
+~
+~
+End
+
+#31262
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31258 0 0
+~
+~
+Door 1 0 0 31263 0 0
+~
+~
+End
+
+#31263
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31259 0 0
+~
+~
+Door 1 0 0 31264 0 0
+~
+~
+Door 2 0 0 31267 0 0
+~
+~
+Door 3 0 0 31262 0 0
+~
+~
+End
+
+#31264
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31260 0 0
+~
+~
+Door 1 0 0 31265 0 0
+~
+~
+Door 2 0 0 31268 0 0
+~
+~
+Door 3 0 0 31263 0 0
+~
+~
+End
+
+#31265
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31261 0 0
+~
+~
+Door 1 0 0 31266 0 0
+~
+~
+Door 2 0 0 31269 0 0
+~
+~
+Door 3 0 0 31264 0 0
+~
+~
+End
+
+#31266
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31270 0 0
+~
+~
+Door 3 0 0 31265 0 0
+~
+~
+End
+
+#31267
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31263 0 0
+~
+~
+Door 1 0 0 31268 0 0
+~
+~
+End
+
+#31268
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31264 0 0
+~
+~
+Door 1 0 0 31269 0 0
+~
+~
+Door 2 0 0 31272 0 0
+~
+~
+Door 3 0 0 31267 0 0
+~
+~
+End
+
+#31269
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31265 0 0
+~
+~
+Door 1 0 0 31270 0 0
+~
+~
+Door 2 0 0 31299 0 0
+~
+~
+Door 3 0 0 31268 0 0
+~
+~
+End
+
+#31270
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31266 0 0
+~
+~
+Door 1 0 0 31271 0 0
+~
+~
+Door 2 0 0 31273 0 0
+~
+~
+Door 3 0 0 31269 0 0
+~
+~
+End
+
+#31271
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 2 0 0 31274 0 0
+~
+~
+Door 3 0 0 31270 0 0
+~
+~
+End
+
+#31272
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31268 0 0
+~
+~
+Door 1 0 0 31299 0 0
+~
+~
+Door 2 0 0 31276 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31273
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31270 0 0
+~
+~
+Door 1 0 0 31274 0 0
+~
+~
+Door 2 0 0 31278 0 0
+~
+~
+Door 3 0 0 31299 0 0
+~
+~
+End
+
+#31274
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31271 0 0
+~
+~
+Door 1 0 0 31275 0 0
+~
+~
+Door 2 0 0 31279 0 0
+~
+~
+Door 3 0 0 31273 0 0
+~
+~
+End
+
+#31275
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 1 0 0 31163 0 0
+~
+~
+Door 2 0 0 31280 0 0
+~
+~
+Door 3 0 0 31274 0 0
+~
+~
+End
+
+#31276
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31272 0 0
+~
+~
+Door 1 0 0 31277 0 0
+~
+~
+Door 2 0 0 31282 0 0
+~
+~
+Door 3 0 0 0 30 30
+Ouch! you hit a tree..
+~
+~
+End
+
+#31277
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31299 0 0
+~
+~
+Door 1 0 0 31278 0 0
+~
+~
+Door 2 0 0 31283 0 0
+~
+~
+Door 3 0 0 31276 0 0
+~
+~
+End
+
+#31278
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Door 0 0 0 31273 0 0
+~
+~
+Door 1 0 0 31279 0 0
+~
+~
+Door 2 0 0 31284 0 0
+~
+~
+Door 3 0 0 31277 0 0
+~
+~
+End
+
+#31279
+Name The Ansaline Forest~
+Descr
+Most of the trees here spand four five even ten paces apart, tall
+leatherleafs and pines. There is alot of undergrowth between the pine trees
+made up of bry brown bushes and vines speard out in patches.Though some of
+the undergrowth patches are not small they spand from ten to fifty paces
+some going right over the pines in there way. 
+~
+Sector 3
+Reset M 31332 1 100
+Door 0 0 0 31274 0 0
+~
+~
+Door 1 0 0 31280 0 0
+~
+~
+Door 2 0 0 31285 0 0
+~
+~
+Door 3 0 0 31278 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

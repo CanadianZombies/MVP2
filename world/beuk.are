@@ -1,0 +1,5553 @@
+#AREADATA 
+Name The Forest of Xylar~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe sound of broken branches can be heard nearby.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Beuk~
+VNUMs 8601 8800
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#8601
+Name guardian nymph ~
+Short the Guardian Nymph of the Heart~
+Long 
+A blindingly beautiful, naked lady is guarding the heart. 
+~
+Descr
+You can't look directly at the nymph, because she is so beautiful it
+would blind you.  From the corner of your eyes you see that she carries a
+heart shaped object with her.  
+~
+AMax 1
+NHeight 0
+ActBits 603979827
+ActBits3 4194304
+Affect_By 128
+Alignment 750
+Money 25
+Level 25
+Sex 2
+MobType 19
+End
+
+#8602
+Name cavebear bear beast~
+Short a cavebear~
+Long 
+A very mean bear is growling at you.
+~
+Descr
+Uhoh, it's a mean cavebear, and it want's you for it's meal!  Head for
+the hills!  
+~
+AMax 1
+NHeight 0
+ActBits 11
+ActBits3 2
+Alignment -100
+Money 14
+Level 14
+Sex 2
+MobType 18
+Guard 0
+End
+
+#8603
+Name Island Savage~
+Short the Island Savage~
+Long 
+A savage looking man is here and he looks aggressive!
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 43
+Alignment -100
+Money 3
+Level 3
+Sex 1
+MobType 0
+Guard 0
+End
+
+#8604
+Name maggot~
+Short a maggot~
+Long 
+A yucky looking maggot is crawling about.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870975
+Money 1
+Level 1
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#8605
+Name harry forester man~
+Short Harry the Forester~
+Long 
+A long and thin man looks at you. He's got an axe!
+~
+Descr
+Harry the Forester looks like a strong man, even though he is thin.  
+He would probably chop down a tree in no time at all.
+~
+AMax 1
+NHeight 0
+ActBits 1610612785
+ActBits3 4194304
+Alignment 100
+Money 25
+Level 25
+Sex 1
+MobType 0
+Guard 0
+End
+
+#8606
+Name black bird raven beast~
+Short a raven~
+Long 
+A raven is perched on a signpost here.
+~
+Descr
+The raven isn't that big, but it looks like it could hurt you with it's
+sharp beak and claws.  
+~
+AMax 9
+NHeight 0
+ActBits 19
+Money 2
+Level 2
+MobType 13
+Guard 0
+End
+
+#8607
+Name Amy woman~
+Short Amy~
+Long 
+A woman dressed in practical clothes is cleaning fish.
+~
+Descr
+It's Amy, Fred the Fisherman's wife. She's a plain woman, but she smiles at you
+and asks if she can help you with anything.
+She's cleaning fish.
+~
+AMax 1
+NHeight 0
+ActBits 536870963
+ActBits3 4194304
+Alignment 100
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+Shop    0  19   0   0   0 110 90 6 18
+Shopd2 5
+Shopd3 4
+End
+
+#8608
+Name Fred fisherman man~
+Short Fred~
+Long 
+A man dressed in fisherman's clothes is fishing here.
+~
+Descr
+Fred is a strong fisherman, and he also sells home-made fishwine. 
+~
+AMax 1
+NHeight 0
+ActBits 536870963
+ActBits3 4194304
+Alignment 150
+Money 25
+Level 25
+Sex 1
+MobType 0
+Guard 0
+Shop    0  17   0   0   0 150 0 6 18
+Shopd2 5
+Shopd3 4
+End
+
+#8609
+Name bee bees hive~
+Short a swarm of bees~
+Long 
+From a branch hangs a beehive full of honey.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870931
+Money 2
+Level 2
+MobType 8
+Guard 0
+End
+
+#8610
+Name unicorn~
+Short a unicorn~
+Long 
+There's a beautiful unicorn walking around.
+~
+Descr
+Slightly smaller than a horse, but armed with a fierce horn on it's head.
+Unless you're a fair maiden, you'll probably have a hard time catching it. 
+And who's a maiden these days?
+~
+AMax 1
+NHeight 0
+ActBits 536879153
+Alignment 100
+Money 25
+Level 25
+Sex 1
+MobType 18
+Guard 0
+End
+
+#8611
+Name beast scarecrow golem~
+Short a scarecrow~
+Long 
+One of Bruno's scarecrows is on guard duty here.
+~
+Descr
+Better run, this is an animated scarecrow!  It's not just here for
+scaring the crows off, but the people too.  
+~
+AMax 2
+NHeight 0
+ActBits 536870937
+Money 7
+Level 7
+MobType 10
+Guard 0
+End
+
+#8612
+Name beast wild hog pig~
+Short a feral pig~
+Long 
+A wild pig is here, snuffing along.
+~
+Descr
+The pig looks in a bad mood, maybe she has young to protect.  Or worse,
+maybe she lost her young and is out on revenge.  
+~
+AMax 1
+NHeight 0
+ActBits 33554449
+Alignment -250
+Money 5
+Level 5
+Sex 2
+MobType 18
+Guard 0
+End
+
+#8613
+Name squirrel~
+Short a killer squirrel~
+Long 
+A squirrel is squeeking and gathering stuff here.
+~
+Descr
+The squirrel nervously looks at you.  Maybe it's afraid you'll try to
+take its stuff from it.  Well, maybe it's right!  Nasty little bugger.  
+~
+AMax 1
+NHeight 0
+ActBits 21
+Alignment 10
+Money 2
+Level 2
+MobType 7
+Guard 0
+End
+
+#8614
+Name beast wolf~
+Short a large wolf~
+Long 
+A big and dangerous looking wolf is on the prowl.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 33554449
+Alignment -500
+Money 7
+Level 7
+MobType 6
+Guard 0
+End
+
+#8615
+Name Fryda Witch~
+Short Fryda the forest witch~
+Long 
+A woman dressed in black is stooped over a cauldron here.
+~
+Descr
+Fryda is always busy brewing more potions or mixing up extra pills to
+sell at night.  She's open from 7 to midnight only.  
+~
+AMax 1
+NHeight 0
+ActBits 1610612755
+Alignment -100
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+Shop    0  26  10   2   0 120 40 1 24
+Shopd2 5
+Shopd3 4
+End
+
+#8616
+Name Bruno man farmer~
+Short Bruno the farmer~
+Long 
+Bruno is brandishing his Arquebus at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 25
+ActBits3 4194304
+Alignment -250
+Money 25
+Level 25
+Sex 1
+MobType 0
+Guard 0
+End
+
+#8617
+Name giant spider beast~
+Short a giant spider~
+Long 
+A very big arachnid stares at you with its eight eyes.
+~
+Descr
+These spiders are often used as mounts by orcs and dark elves.  They are
+monstrous perversions of normal spiders and can be dangerous.  
+~
+AMax 1
+NHeight 0
+ActBits 8209
+Alignment -500
+Money 15
+Level 15
+MobType 8
+Guard 0
+Spec spec_poison
+RaceHate 1988659336
+End
+
+#8618
+Name Angela whore lady woman~
+Short Angela~
+Long 
+A lovely looking young woman is sitting here.
+~
+Descr
+She looks quite beautiful, but not very happy, and she also seems very tired.
+She smiles at you and asks you if you want to buy anything.
+~
+AMax 1
+NHeight 0
+ActBits 275
+ActBits3 4194304
+Money 25
+Level 25
+Sex 2
+MobType 0
+Guard 0
+Shop    0  10   0   0   0 150 50 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#8619
+Name ghost innkeeper~
+Short the ghost of the innkeeper~
+Long 
+A vague outline of a ghost hovers around.
+~
+Descr
+The Innkeeper never really left his inn! And he'll might want to make sure
+you won't either!
+~
+AMax 1
+NHeight 0
+ActBits 33554451
+Affect_By 1638400
+Alignment -150
+Money 27
+Level 27
+MobType 21
+Guard 2
+End
+
+#8620
+Name small sparrow bird~
+Short a sparrow~
+Long 
+A sparrow is chirping here in the underbrush.
+~
+Descr
+The small sparrow looks at you, blinks his little eyes and hips away.
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 1
+Level 1
+MobType 13
+Guard 0
+End
+
+#8621
+Name beast spider small~
+Short a small spider~
+Long 
+A creepy small spider is crawling here.
+~
+Descr
+It's making a web, and looks harmless.
+~
+AMax 1
+NHeight 0
+ActBits 17
+Money 1
+Level 1
+MobType 8
+Guard 0
+End
+
+#8622
+Name legendary dark beast~
+Short the beast~
+Long 
+The legendary Beast of the Dark Trees is here!
+~
+Descr
+The Beast looks at you and gets ready for a charge. Better get out of here.
+~
+AMax 1
+NHeight 0
+ActBits 536870941
+Affect_By 128
+Alignment -250
+Money 32
+Level 32
+Sex 1
+MobType 18
+Guard 0
+RaceHate 469762048
+End
+
+#8623
+Name rat beast~
+Short a rat~
+Long 
+Noisy squicky rat-sounds are clearly audible.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536870937
+ActBits3 65536
+Money 3
+Level 3
+MobType 7
+Guard 0
+End
+
+#8624
+Name kobold beast~
+Short a kobold~
+Long 
+A kobold grins at you.
+~
+Descr
+The kobold has a very evil grin, and he's waving a short sword.
+~
+AMax 1
+NHeight 0
+ActBits 49
+Alignment -100
+Money 15
+Level 15
+Sex 1
+MobType 2
+Guard 0
+End
+
+#8625
+Name kobald beast~
+Short a kobald~
+Long 
+A kobald is waving his dagger at you.
+~
+Descr
+Kobalds are like kobolds, only older and with less hair.
+~
+AMax 1
+NHeight 0
+ActBits 49
+Alignment -100
+Money 10
+Level 10
+Sex 1
+MobType 2
+Guard 0
+End
+
+#8626
+Name female kobold beast~
+Short a kobold~
+Long 
+A female kobold is chewing on some mold here.
+~
+Descr
+Compared to this kobold, even you look pretty!
+~
+AMax 1
+NHeight 0
+ActBits 49
+Alignment -100
+Money 13
+Level 13
+Sex 2
+MobType 2
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#8601
+Name bob corpse hermit rotting~
+Short the corpse of Bob the Hermit~
+Descr
+The rotted corpse of Bob the Hermit is rotting further here.
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 10
+Cost 1
+ExtraDescr corpse body bob~
+Yech. He wasn't a clean man in life, and now that he's dead, he's even more filthy.
+
+But maybe some of his body parts are still useful?
+
+~
+End
+
+#8602
+Name finger wand~
+Short a finger from Bob the Hermit~
+Descr
+one of Bob's fingers looks ready to come off
+[0;36m~
+Type 3
+Extra 16384
+Maxinroom 10
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 18 1 1 56 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8603
+Name wish coin silver~
+Short a silver coin~
+Descr
+A silver coin has been tossed here as someone's wish.
+[0;36m~
+Type 20
+Maxinroom 15
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 3 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1
+End
+
+#8604
+Name teeth~
+Short Bob's teeth~
+Descr
+The teeth of Bob the Hermit are here.
+[0;36m~
+Type 5
+Extra 4587520
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 1 0 0 0 1 4 0
+Weight 1
+Cost 0
+End
+
+#8605
+Name heart of forest~
+Short the Heart of the Dark Tree Forest~
+Descr
+The Heart of an entire forest is here for you to take!
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 10
+Cost 5
+Affect 13 -25 1 0 0
+Affect 17 -3 1 0 0
+Affect 14 10 1 0 0
+End
+
+#8606
+Name boat~
+Short a wooden boat~
+Descr
+A small boat floats on the water here.
+[0;36m~
+Type 22
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 32
+Cost 100
+End
+
+#8607
+Name treasure chest~
+Short a treasure chest~
+Descr
+A treasure chest has been stashed here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 13 0 0 0 0 0 0 0 0
+Weight 10
+Cost 0
+End
+
+#8608
+Name coin money~
+Short some loot~
+Descr
+There's loot in the treasure chest!
+[0;36m~
+Type 20
+Maxinroom 50
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 3 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1
+End
+
+#8609
+Name nuts beukenootjes~
+Short a couple of Beukenootjes~
+Descr
+A couple of strange nuts are lying here.
+[0;36m~
+Type 26
+Maxinroom 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 1 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 1
+End
+
+#8610
+Name mysterious portal arch door~
+Short a mysterious arch~
+Descr
+There's a strange arch erected here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8749 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr arch~
+It's a strangely powerful looking arch, decorated with leaves and
+
+intertwining roots and branches.  
+
+You notice a small door through which you might be able to enter it.
+
+~
+End
+
+#8611
+Name fish food~
+Short a smoked fish~
+Descr
+A tasty looking fish.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 12 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#8612
+Name wine fishwine~
+Short a bottle of fishwine~
+Descr
+A chateau Frederique has been left here.
+[0;36m~
+Type 17
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 5 2 0 0 0 0 0 0 0
+Weight 1
+Cost 25
+End
+
+#8613
+Name honey food~
+Short some bee-honey~
+Descr
+You see some delicious looking honey.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#8614
+Name beukeboom beuk beech tree~
+Short an old tree~
+Descr
+The strange tree at the heart of the Dark Tree Forest reaches for the sky here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8773 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 0
+ExtraDescr tree beuk beech beukeboom~
+The Beech is very old and seems magical.
+
+~
+End
+
+#8615
+Name horn unihorn~
+Short a unihorn~
+Descr
+A unicorn's horn lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 11 0 0 0 3 2 0
+Weight 2
+Cost 50
+End
+
+#8616
+Name pitchfork weapon~
+Short a pitchfork~
+Descr
+A pitchfork is planted here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 11 0 0 0 1 5 0
+Weight 3
+Cost 495
+End
+
+#8617
+Name elvish rope~
+Short an elvish rope~
+Descr
+A rope is swinging from a tree here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 8789 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8618
+Name scroll prayer~
+Short a prayer to Beuk~
+Descr
+Someone wrote a prayer to a god.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 1 1 0 0 0 0 0 0
+Weight 1
+Cost 1300
+End
+
+#8619
+Name bruno key~
+Short Bruno's key~
+Descr
+The key to Bruno's farm is here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 1
+End
+
+#8620
+Name gun weapon arquebus~
+Short a strange weapon~
+Descr
+The farmer's weapon of choice is on the floor here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 6 0 0 0 2 4 0
+Weight 10
+Cost 1000
+End
+
+#8621
+Name unripe corn food~
+Short a few pieces of unripe corn~
+Descr
+Unripe corn is trying to ripen.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 1 0 0 0 0 0 0
+Weight 1
+Cost 0
+ExtraDescr corn~
+It doesn't look unappetizing, but it might not be very wise to eat this.
+
+~
+End
+
+#8622
+Name prize pumpkin food~
+Short a [33mpumpkin[0m~
+Descr
+A Farmer Bruno prize pumpkin is here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 48 0 0 0 0 0 0 0 0 0
+Weight 5
+Cost 100
+ExtraDescr pumpkin~
+Whoah, you could live for days on this pumpkin.  And it would be great to
+
+use on all hallow's eve too.  
+
+~
+End
+
+#8624
+Name potion aphrodesiac~
+Short an aphrodesiac~
+Descr
+A potion with pink and blueish hues swirling around inside.
+[0;36m~
+Type 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 42 42 -1 0 0 0 0 0 0
+Weight 1
+Cost 668
+End
+
+#8625
+Name birth control pill~
+Short a pill~
+Descr
+A kind of poisonous pill is here.
+[0;36m~
+Type 26
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 100
+End
+
+#8626
+Name kit tools toolkit~
+Short a toolkit~
+Descr
+Someone left his toolkit here.
+[0;36m~
+Type 15
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 25 13 0 0 0 0 0 0 0 0
+Weight 1
+Cost 25
+End
+
+#8627
+Name wrench~
+Short a heavy wrench~
+Descr
+A heavy wrench has been left here.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 7 0 0 0 3 2 0
+Weight 2
+Cost 995
+End
+
+#8628
+Name screwdriver~
+Short a screwdriver~
+Descr
+A screwdriver has been left here.
+[0;36m~
+Type 5
+Extra 131072
+Maxinroom 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 11 0 0 0 1 6 0
+Weight 1
+Cost 10
+Affect 18 -2 1 0 0
+End
+
+#8629
+Name hidden dungeon entrance~
+Short the entrance to the Dungeon~
+Descr
+The hidden entrance to a Dungeon. 
+[0;36m~
+Type 12
+Extra 65540
+Wear 0
+Timer 50
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8795 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#8630
+Name green slime mold food~
+Short an edible piece of mold~
+Descr
+[0mA [1m[32mgreen[0m glow comes from a piece of mold
+[0;36m~
+Type 19
+Maxinroom 5
+Wear 16385
+Timer 50
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#8631
+Name bone food~
+Short a bone~
+Descr
+A bone, still filled with delicious marrow, lies here.
+[0;36m~
+Type 19
+Maxinroom 10
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+End
+
+#8794
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#8601
+Name A path through the Dark Tree Forest.~
+Descr
+The forest here is quite heavy.  You hear the noisely chatter of birds
+in the trees and the sounds of the animals fouraging between the trees. 
+Occasionally you catch a glimpse of one of these animals, barely visible
+behind the trees lining the path.  
+~
+Flags 2
+Shd 1
+ExtraDescr fruit~
+There's apples, pears and a small red fruit that seems to grow in pairs.
+
+~
+ExtraDescr nuts ~
+Under a nearby tree are some small nuts. They look harmless enough, maybe you
+
+could eat them?
+
+~
+ExtraDescr tree trees~
+The trees are tall, and of mixed types. There are fruitbearing trees and trees
+
+bearing all kinds of nuts.
+
+~
+Reset O 8609 -5 75
+Movemess
+(null)~
+Door 0 0 0 8602 30 30
+~
+door~
+End
+
+#8602
+Name Along the path through the forest.~
+Descr
+More trees line the path here. The roots of a big tree have broken through 
+part of the pavement.
+What could be that strange, sweet smell your nose is picking up?
+~
+Shd 1
+ExtraDescr big tree~
+The big tree looks easy to climb. Who knows what wonders you will find hidden 
+
+between it's leaves? And who knows how many bones you'll break if you fall out?
+
+~
+Movemess
+(null)~
+Door 0 0 0 8603 30 30
+~
+door~
+Door 1 0 0 8612 30 30
+~
+door~
+Door 2 0 0 8601 30 30
+~
+door~
+Door 4 0 0 8780 30 30
+~
+door~
+End
+
+#8603
+Name The well at an Intersection.~
+Descr
+You are at an intersection. There's a fallen tree here that you could use as
+a bench, a well with clear looking water and a signpost giving directions.
+~
+Shd 1
+ExtraDescr well~
+The well looks just wide enough to dive down it.
+
+A small plaque on the well reads: "Wishing Well, water potable"
+
+There's a small wooden bucket next to the well, which is probably used to
+
+get water from it.
+
+~
+ExtraDescr bench fallen tree~
+It's not half rotten, so you won't get your clothing dirty if you sit on it.
+
+In fact, someone must have purposely put this tree here to relax on it.
+
+~
+ExtraDescr signpost~
+The signpost has three hands, pointing south, east and north.  They are
+
+lettered with a flowing script. 
+
+~
+ExtraDescr hands~
+South: This Way To Marabella.
+
+East:  This Way To Forest's Heart.
+
+North: This Way To *fill_in_later*.
+
+~
+ExtraDescr bucket~
+There's a hole in the bucket. Zounds, what bad luck.
+
+~
+Reset M 8606 10 100
+Movemess
+(null)~
+Door 0 0 0 8604 30 30
+~
+door~
+Door 1 0 0 8613 30 30
+~
+door~
+Door 2 0 0 8602 30 30
+~
+door~
+Door 5 0 0 8781 30 30
+~
+door~
+End
+
+#8604
+Name On the path~
+Descr
+The path's pavement is still pretty good at the southern end of this
+path, but at the northern end it's broken up.  The trees surrounding you
+seem older here, and the birds don't sing as happily as they do in the
+southern part of the forest.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8605 30 30
+~
+door~
+Door 1 0 0 8614 30 30
+~
+door~
+Door 2 0 0 8603 30 30
+~
+door~
+End
+
+#8605
+Name The overgrown path.~
+Descr
+Here the path is barely visible.  The forest has reclaimed most of it,
+the cobblestones are turned and covered with moss.  Small trees have already
+sprouted on what probably was once a main road.  Watch your step.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8606 30 30
+~
+door~
+Door 1 0 0 8615 30 30
+~
+door~
+Door 2 0 0 8604 30 30
+~
+door~
+End
+
+#8606
+Name In the Dark Tree Forest.~
+Descr
+It's a forest all right.  Plenty of nasty insects falling down your neck,
+slippery rotten leaves underneath your feet.  Strange sounds coming from
+strange beasts.  Maybe you shouldn't have left the path.  East or south lead
+away from here.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8616 30 30
+~
+door~
+Door 2 0 0 8605 30 30
+~
+door~
+End
+
+#8607
+Name At the pool.~
+Descr
+You are at the shore of a small lake, called the pool.  Maybe you could
+go for a swim.  You can see a path to the north and to the east.  There's a
+few tree here providing shade, and it looks generally agreable here.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 0 0 0 8608 30 30
+~
+door~
+Door 1 0 0 8617 30 30
+~
+door~
+Door 5 0 0 8782 30 30
+~
+door~
+End
+
+#8608
+Name North of the pool.~
+Descr
+To the south is a lovely looking pool, that looks like a nice place to
+rest for a while and forget about the pains of adventuring.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8609 30 30
+~
+door~
+Door 1 0 0 8618 30 30
+~
+door~
+Door 2 0 0 8607 30 30
+~
+door~
+End
+
+#8609
+Name Path past the shore of a lake.~
+Descr
+The bank of the lake is still to steep to negotiate, maybe if you follow
+the path to the north you can find a boardwalk or something.  
+~
+Movemess
+(null)~
+Door 0 0 0 8610 30 30
+~
+door~
+Door 2 0 0 8608 30 30
+~
+door~
+End
+
+#8610
+Name On the path through the forest.~
+Descr
+The forest is a bit lighter here, you can make out a small boardwalk to
+the north.  To the east is a lake, but you can't go there from here, the
+bank's just too steep.  
+You can see a small forested island in the lake.
+~
+ExtraDescr island~
+It looks uninhabited, primeval and dangerous. Where's the nearest boat?
+
+~
+Movemess
+(null)~
+Door 0 0 0 8731 30 30
+~
+door~
+Door 2 0 0 8609 30 30
+~
+door~
+End
+
+#8611
+Name In the light forest.~
+Descr
+The forest is light and lots of plants grow here. There's the trees, 
+of course, most of them are beeches. Large ferns grow in their shade.
+Smaller flowers, and bushes grow between the trees, and soft moss covers
+the ground.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8612 30 30
+~
+door~
+Door 1 0 0 8621 30 30
+~
+door~
+End
+
+#8612
+Name In the light forest.~
+Descr
+This part of the forest is lightly wooded. The beech-trees here are
+young and straight. You can hear the sounds of animals, crawling through
+the underbrush. To the west is a path.
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8622 30 30
+~
+door~
+Door 2 0 0 8611 30 30
+~
+door~
+Door 3 0 0 8602 30 30
+~
+door~
+End
+
+#8613
+Name The road to the heart of the forest.~
+Descr
+This road is neatly cobbled.  It's lined by trees, and doesn't meander to
+much.  It's less wide than the path it joins to the west.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8623 30 30
+~
+door~
+Door 3 0 0 8603 30 30
+~
+door~
+End
+
+#8614
+Name Between the trees.~
+Descr
+The trees here give you the creeps.  There might be something behind
+them, waiting to kill you.  Or some nasty parasite might decide to jump down
+you back and lay it's eggs in you.  Maybe you can still make it to the path
+to the west.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8624 30 30
+~
+door~
+Door 3 0 0 8604 30 30
+~
+door~
+End
+
+#8615
+Name The overgrown path.~
+Descr
+The remains of the path are still visible, if you know that they must be
+here.  The majority of the cobblestones has disappeared.  It looks like the
+path used to branch here; you can still see a half-rotten signpost.  
+~
+Shd 1
+Sector 3
+ExtraDescr signpost~
+The hands have fallen off.  Maybe if you look between the fallen leaves
+
+and the moss you can find them.  
+
+~
+ExtraDescr leaves moss~
+Actually, if you are looking for the hands of a signpost, you should be
+
+looking for them, not for organic debris...  
+
+~
+ExtraDescr for hands~
+Aha, here are the hands.  Hmm, the fungi have gotten to them a bit, but
+
+you can still make out the letters: 
+
+To the Wishing Well and Xylar.
+
+To the Old Hermit.
+
+To the city of *fill_in_later*.
+
+~
+Movemess
+(null)~
+Door 0 0 0 8616 30 30
+~
+door~
+Door 1 0 0 8625 30 30
+~
+door~
+Door 3 0 0 8605 30 30
+~
+door~
+End
+
+#8616
+Name On the overgrown path.~
+Descr
+The path is moderately visible here.  You can follow it north, check out
+that half rotten pole to the south or enter the forest to the east or west. 
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8617 30 30
+~
+door~
+Door 1 0 0 8626 30 30
+~
+door~
+Door 2 0 0 8615 30 30
+~
+door~
+Door 3 0 0 8606 30 30
+~
+door~
+End
+
+#8617
+Name On the path, near the pool.~
+Descr
+To the west you can see a small lake; the path goes south and north.  To
+the south the path is less clearly defined, to the north it looks more kept.
+Hey, maybe you could go into the forest to the east and find some
+interesting animals!  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8618 30 30
+~
+door~
+Door 1 0 0 8627 30 30
+~
+door~
+Door 2 0 0 8616 30 30
+~
+door~
+Door 3 0 0 8607 30 30
+~
+door~
+End
+
+#8618
+Name Bend in the path.~
+Descr
+Here the path curves.  There's a large lake to the north, and the shore
+is too steep to go down here.  To the south-west is a smaller lake, more
+like a pool or pond.  
+~
+Shd 1
+Movemess
+(null)~
+Door 2 0 0 8617 30 30
+~
+door~
+Door 3 0 0 8608 30 30
+~
+door~
+End
+
+#8619
+Name On the lake.~
+Descr
+The lake is quiet, although you can occaisionally hear a splash, when a
+fish jumps up from the water, and comes down a few feet later.  
+~
+Sector 7
+Movemess
+(null)~
+Door 0 0 0 8620 30 30
+~
+door~
+Door 1 0 0 8629 30 30
+~
+door~
+End
+
+#8620
+Name South of the boardwalk.~
+Descr
+The lake is cool, the fish are plenty, and you can relax and enjoy the
+surroundings.  To the north is a small pier, and east is an island.  Maybe
+you could circ le the island and look for a place to easily reach it.  
+~
+Sector 7
+Movemess
+(null)~
+Door 0 0 0 8732 30 30
+~
+door~
+Door 2 0 0 8619 30 30
+~
+door~
+End
+
+#8621
+Name In the light forest.~
+Descr
+The forest would be beautiful, if it weren't for all those trees and animals
+crawling about them. Those insects have a nasty sting, and occasionally one
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8622 30 30
+~
+door~
+Door 3 0 0 8611 30 30
+~
+door~
+End
+
+#8622
+Name In the light forest.~
+Descr
+The trees here don't seem to be affected by the seasons.  Some of them
+are in bloom, while others wear nuts and yet others have dropped their
+leaves.  
+There are all kinds of trees, but most are beeches.
+You can see a path to the north and to the east.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8623 30 30
+~
+door~
+Door 1 0 0 8632 30 30
+~
+door~
+Door 2 0 0 8621 30 30
+~
+door~
+Door 3 0 0 8612 30 30
+~
+door~
+End
+
+#8623
+Name On the road to the heart of the forest. ~
+Descr
+You can either follow the road, west or east, or go north or south,
+between the trees.  Maybe you'll see a squirrel!  Or maybe you'll see a
+wolf.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8633 30 30
+~
+door~
+Door 2 0 0 8622 30 30
+~
+door~
+Door 3 0 0 8613 30 30
+~
+door~
+End
+
+#8624
+Name Somewhere in the forest.~
+Descr
+East, west?  What would it matter?  You're somewhere in a forest, and
+you're lost.  Maybe you could kill one of those annoying birds sneaking
+through the underbrush, just to get your nerves down.  
+~
+Shd 1
+Reset M 8610 10 100
+Reset O 8615 5 100
+Movemess
+(null)~
+Door 1 0 0 8634 30 30
+~
+door~
+Door 3 0 0 8614 30 30
+~
+door~
+End
+
+#8625
+Name Path near Hermit's Cottage.~
+Descr
+This pathway is "paved" with small pellets of rock.  They make a nice
+sound when you walk on them.  To the east you can see a small cottage, it's
+door opened invitingly.  A sign near it says to "Buzz off" though.  West
+leads to a broken signpost.  
+~
+Movemess
+(null)~
+Door 1 1 0 8635 30 30
+Bob's front door.
+~
+east door~
+Door 3 0 0 8615 30 30
+~
+door~
+End
+
+#8626
+Name In the forest.~
+Descr
+Ah, for the life in a forest.  To be a tree, sipping up water from the
+ground, stretching you branches towards the sun.  Living for ages.  Not
+being bothered by those annoying insects trying to pierce your skin.  Not
+having to worry about brigands robbing you.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8627 30 30
+~
+door~
+Door 1 0 0 8636 30 30
+~
+door~
+Door 3 0 0 8616 30 30
+~
+door~
+End
+
+#8627
+Name A damp and dreary forest.~
+Descr
+The forest is green with plantlife.  The singing birds are, well,
+singing.  There's small newts and frogs running around.  To the west is a
+path.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8628 30 30
+~
+door~
+Door 1 0 0 8637 30 30
+~
+door~
+Door 2 0 0 8626 30 30
+~
+door~
+Door 3 0 0 8617 30 30
+~
+door~
+End
+
+#8628
+Name In the forest.~
+Descr
+The forest is getting thinner here, to the north you can see a lake.  The
+shore is to steep to go north though.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8638 30 30
+~
+door~
+Door 2 0 0 8627 30 30
+~
+door~
+End
+
+#8629
+Name On the fishing lake.~
+Descr
+You're to the south of a lovely looking island.  There's a boardwalk at
+it's eastern coast.  
+~
+Sector 7
+Movemess
+(null)~
+Door 1 0 0 8639 30 30
+~
+door~
+Door 3 0 0 8619 30 30
+~
+door~
+End
+
+#8630
+Name On the small Island.~
+Descr
+The island isn't very big, but it's covered with trees.  It smells really
+nice here, and it's quiet too.  This might be a good place to relax for a
+while.  Then again, maybe not.  
+~
+Sector 3
+Reset M 8603 1 100
+Movemess
+(null)~
+Door 1 0 0 8640 30 30
+~
+door~
+End
+
+#8631
+Name Inside the bear's cave.~
+Descr
+Good thing you brought that light, so you can see in here.  Bad thing you
+entered this den.  Bears don't like intruders.  Better hope it's
+hibernating, somewhere else.  
+~
+Flags 5
+Sector 0
+Reset M 8602 1 100
+Movemess
+(null)~
+Door 0 0 0 8632 30 30
+~
+door~
+End
+
+#8632
+Name Branch to the bear's cave.~
+Descr
+A small trail goes south here, towards a small cave.  The main path goes
+north and east.  
+Maybe going south isn't such a smart idea.
+~
+Flags 2
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8633 30 30
+~
+door~
+Door 1 0 0 8642 30 30
+~
+door~
+Door 2 0 0 8631 30 30
+~
+door~
+Door 3 0 0 8622 30 30
+~
+door~
+End
+
+#8633
+Name Branch at the road to the heart. ~
+Descr
+Here the road branches. Better check that signpost for directions.
+~
+ExtraDescr signpost~
+There are only two hands:
+
+South: To Harry. Watch out for the bear.
+
+East:  To the Heart.
+
+~
+Reset M 8606 10 100
+Movemess
+(null)~
+Door 1 0 0 8643 30 30
+~
+door~
+Door 2 0 0 8632 30 30
+~
+door~
+Door 3 0 0 8623 30 30
+~
+door~
+End
+
+#8634
+Name Between the trees.~
+Descr
+You ask yourself why you wanted to go in between the trees again.  It's
+not very pleasant in the forest; it's damp, cold, and generally unpleasant. 
+Why are forests depicted as being so nice in fairytales?  Luckly you can
+make out a path to the east.  
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8644 30 30
+~
+door~
+Door 3 0 0 8624 30 30
+~
+door~
+End
+
+#8635
+Name Inside Bob's little cottage.~
+Descr
+Inside this humble home there are a small table, a cot, a comfortable
+chair and a fireplace.  Oh, and a dead Hermit named Bob.  Looks like he's
+been dead for quite a few days, maybe you should do something?  
+~
+Flags 4
+Sector 0
+Reset O 8601 -5 100
+Reset O 8602 -3 100
+Reset O 8604 -3 100
+Movemess
+(null)~
+Door 1 3 0 8645 30 30
+This is Bob's Backdoor.
+~
+east door~
+Door 3 1 0 8625 30 30
+Bob's front door.
+~
+west door~
+End
+
+#8636
+Name The Dark Tree Forest.~
+Descr
+You're surrounded by bushes, you feel the moss under your feet and there
+are trees above you.  You'd almost feel comfortable.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8637 30 30
+~
+door~
+Door 1 0 0 8646 30 30
+~
+door~
+Door 3 0 0 8626 30 30
+~
+door~
+End
+
+#8637
+Name Spider's Web.~
+Descr
+A large spiderweb is hanging from a tree here.  It looks very strong. 
+You'd hate to run into the spider that made it.  Especially if you were
+stuck in the web at that moment.  Better keep your distance.  
+~
+Sector 3
+Reset M 8617 10 75
+Movemess
+(null)~
+Door 0 0 0 8638 30 30
+~
+door~
+Door 1 0 0 8647 30 30
+~
+door~
+Door 2 0 0 8636 30 30
+~
+door~
+Door 3 0 0 8627 30 30
+~
+door~
+End
+
+#8638
+Name In the forest.~
+Descr
+The forest is bordered by a lake to the north and a high fence to the
+east here.  You can still go west and south though.  
+~
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 8637 30 30
+~
+door~
+Door 3 0 0 8628 30 30
+~
+door~
+End
+
+#8639
+Name South-east corner of the lake.~
+Descr
+Here the water is calm, and fish splash around lively.  To the north you
+can see a small boardwalk, leading to an island.  
+~
+Sector 7
+Movemess
+(null)~
+Door 0 0 0 8640 30 30
+~
+door~
+Door 3 0 0 8629 30 30
+~
+door~
+End
+
+#8640
+Name At the island's boardwalk.~
+Descr
+Ah, here's the boardwalk to the island.  You can leave your boat here and
+take a look at the island.  Doesn't look too big though.  
+~
+Sector 6
+Movemess
+(null)~
+Door 0 0 0 8734 30 30
+~
+door~
+Door 2 0 0 8639 30 30
+~
+door~
+Door 3 0 0 8630 30 30
+~
+door~
+End
+
+#8641
+Name Harry the Forester's Home.~
+Descr
+You really shouldn't just enter other people's homes!  They might not
+react kindly and start hitting you, or cast a nasty spell to curse you.  
+~
+Flags 4
+Sector 0
+Reset M 8605 1 50
+Reset O 5007 8 100
+Movemess
+(null)~
+Door 1 1 0 8651 36 36
+This is the door leading out of Harry's place.
+~
+east door~
+End
+
+#8642
+Name Road through the Dark Tree Forest.~
+Descr
+You're on a rather boring part of a road through the Dark Tree Forest.
+You can go east or west, or just stay here.
+~
+Shd 1
+Movemess
+(null)~
+Door 1 0 0 8652 30 30
+~
+door~
+Door 3 0 0 8632 30 30
+~
+door~
+End
+
+#8643
+Name Curve in the road. ~
+Descr
+The road curves here.  Maybe this is a good time to leave it and go east,
+into the forest proper.  Or maybe you'd better follow it back to
+civilization.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8644 30 30
+~
+door~
+Door 1 0 0 8653 30 30
+~
+door~
+Door 3 0 0 8633 30 30
+~
+door~
+End
+
+#8644
+Name Signpost near Heart of Forest.~
+Descr
+Three hands pointing in three different directions.  You could take the
+small dirt road north, go east or south on the main path, or just go into
+the forest.  
+~
+ExtraDescr signpost~
+South: Harry the Forrester.
+
+East:  Heart of the Forest.
+
+North: Bob's Backdoor. Keep away.
+
+~
+Reset M 8606 100 75
+Movemess
+(null)~
+Door 0 0 0 8645 30 30
+~
+door~
+Door 1 0 0 8654 30 30
+~
+door~
+Door 2 0 0 8643 30 30
+~
+door~
+Door 3 0 0 8634 30 30
+~
+door~
+End
+
+#8645
+Name Behind Bob's Cottage.~
+Descr
+You are on a small dirt path behind the Hermit Bob's Cottage.  You can
+intrude upon his rest by going west, or go south and check out the signpost.
+~
+Movemess
+(null)~
+Door 2 0 0 8644 30 30
+~
+door~
+Door 3 3 0 8635 30 30
+Bob's backdoor.
+This is Bob's Backdoor.
+~
+west door~
+End
+
+#8646
+Name Thorny patch of bushes.~
+Descr
+Oh great, you walked right into a patch of bush that has enormous thorns.
+Move carefully or they might rip your clothes, equipment or even your skin. 
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8647 30 30
+~
+door~
+Door 1 0 0 8656 30 30
+~
+door~
+Door 3 0 0 8636 30 30
+~
+door~
+End
+
+#8647
+Name Fence in the forest.~
+Descr
+There's some nasty barbed bushes here, and a tree standing close enough
+to the fence for you to climb over it.  But going back might be less easy.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8657 30 30
+~
+door~
+Door 2 0 0 8646 30 30
+~
+door~
+Door 3 0 0 8637 30 30
+~
+door~
+Door 4 256 0 8648 30 30
+~
+door~
+End
+
+#8648
+Name In the cornfields.~
+Descr
+You are in the south-west corner of Bruno the Farmer's fields.  Corn is
+growing abundantly here.  To the north you can see a windmill and a
+farmhouse.  
+~
+Flags 2
+Sector 2
+Reset O 8621 -5 100
+Movemess
+(null)~
+Door 0 0 0 8649 30 30
+~
+door~
+Door 1 0 0 8658 30 30
+~
+door~
+End
+
+#8649
+Name In the cornfields.~
+Descr
+You are at the western end of a large field full of unripe corn.  To the
+west is a large fence.  The corn is waving in the wind, and it smells
+delicious.  
+~
+Sector 2
+Reset O 8621 -5 100
+Movemess
+(null)~
+Door 0 0 0 8650 30 30
+~
+door~
+Door 1 0 0 8659 30 30
+~
+door~
+Door 2 0 0 8648 30 30
+~
+door~
+End
+
+#8650
+Name The windmill.~
+Descr
+You're at the windmill Bruno uses to grind his corn.  It's not a very big
+windmill, and it's not being used right now, since there isn't any corn to
+grind.  To the north and west you can see the large fence Bruno built around
+his farm.  To the south are the cornfields, and the farm is to the east.  
+~
+Movemess
+(null)~
+Door 1 0 0 8660 30 30
+~
+door~
+Door 2 0 0 8649 30 30
+~
+door~
+End
+
+#8651
+Name In front of the Humble Home of Harry.~
+Descr
+A nice wooden house, decorated with a large wooden slap stating:"Here
+lives I, Harry the Forester."  is to the west of here.  You can also keep
+to the road by going east or north.  
+~
+Movemess
+(null)~
+Door 0 0 0 8652 30 30
+~
+door~
+Door 1 0 0 8661 30 30
+~
+door~
+Door 3 3 0 8641 36 36
+This door leads to Harry's home. 
+~
+west door~
+End
+
+#8652
+Name A bend in the road.~
+Descr
+You're still on a road through the forest.  It bends from west to south
+here.  (Or from south to west, depending on your perspective.)  
+You could just go north and enter the forest proper.
+~
+Movemess
+(null)~
+Door 0 0 0 8653 30 30
+~
+door~
+Door 2 0 0 8651 30 30
+~
+door~
+Door 3 0 0 8642 30 30
+~
+door~
+End
+
+#8653
+Name Between the trees of the Dark Tree Forest.~
+Descr
+It's so easy to get lost in this forest.  You can make out a clearing to
+the north-east.  Also there's a road to the south, and maybe to the west.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8663 30 30
+~
+door~
+Door 2 0 0 8652 30 30
+~
+door~
+Door 3 0 0 8643 30 30
+~
+door~
+End
+
+#8654
+Name Clearing at the Heart.~
+Descr
+The path widens into a large clearing here.  To the east you can see the
+Heart of the forest: a large, old Beech-tree.  You can also enter the forest
+north or south, or go to the signpost and path west of here.  
+~
+Movemess
+(null)~
+Door 1 0 0 8664 30 30
+~
+door~
+Door 3 0 0 8644 30 30
+~
+door~
+End
+
+#8655
+Name The Dark Tree Forest~
+Descr
+Dark trees surround you, and every direction seems to be the same.  No
+wait a minute: to the south the forest is less dense.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8656 30 30
+~
+door~
+Door 1 0 0 8665 30 30
+~
+door~
+End
+
+#8656
+Name The little graveyard.~
+Descr
+There's a small open patch between the trees here, and a few simple
+crosses have been placed in the ground.  There are no names on the markers,
+and you can only guess what or whom has been buried here.  
+~
+Shd 1
+Sector 3
+Reset M 8622 1 10
+Movemess
+(null)~
+Door 0 0 0 8657 30 30
+~
+door~
+Door 1 0 0 8666 30 30
+~
+door~
+Door 2 0 0 8655 30 30
+~
+door~
+Door 3 0 0 8646 30 30
+~
+door~
+End
+
+#8657
+Name Forest with a fence.~
+Descr
+Trees are growing close to the fence around the farm to the north.  If
+you go up here, you'll be able to take a look around the farm But You'll
+have to find another exit then, so be careful.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8667 30 30
+~
+door~
+Door 2 0 0 8656 30 30
+~
+door~
+Door 3 0 0 8647 30 30
+~
+door~
+Door 4 256 0 8658 30 30
+~
+door~
+End
+
+#8658
+Name In the cornfields.~
+Descr
+You're within the fence that surrounds Bruno's farm.  There's corn
+growing all around, it's like an ocean of food.  
+To the north you can see the farmhouse, and a windmill.
+~
+Flags 2
+Sector 2
+Reset O 8621 -5 100
+Movemess
+(null)~
+Door 0 0 0 8659 30 30
+~
+door~
+Door 1 0 0 8668 30 30
+~
+door~
+Door 3 0 0 8648 30 30
+~
+door~
+End
+
+#8659
+Name In the cornfields~
+Descr
+The corn is waving in the wind.  The rustling sounds, the spacious skies
+and the sight of the amber waves of grain make you feel sleepy.  
+~
+Sector 2
+Reset O 8621 -5 100
+Reset M 8611 3 75
+Movemess
+(null)~
+Door 0 0 0 8660 30 30
+~
+door~
+Door 1 0 0 8669 30 30
+~
+door~
+Door 2 0 0 8658 30 30
+~
+door~
+Door 3 0 0 8649 30 30
+~
+door~
+End
+
+#8660
+Name In front of the Farmhouse.~
+Descr
+You're in front of Bruno's big farmhouse.  He might be inside, so be
+careful, with the kind of fence he has, he might be partial against
+trespassers.  
+~
+Reset M 8616 1 100
+Reset O 8620 8 100
+Reset O 8619 -1 100
+Movemess
+(null)~
+Door 0 515 0 8778 25 25
+~
+door~
+Door 1 0 0 8670 30 30
+~
+door~
+Door 2 0 0 8659 30 30
+~
+door~
+Door 3 0 0 8650 30 30
+~
+door~
+End
+
+#8661
+Name On the path through the forest.~
+Descr
+The pathway continues to the east and west, but to the north is the real
+forest, full of mysticalities, adventure and danger.  
+You can see some signposts to the east, and a house to the west.
+~
+Movemess
+(null)~
+Door 0 0 0 8662 30 30
+~
+(null)~
+Door 1 0 0 8671 30 30
+~
+door~
+Door 3 0 0 8651 30 30
+~
+door~
+End
+
+#8662
+Name Between the trees of the Dark Tree Forest.~
+Descr
+The forest is beautiful.  All kinds of trees and plants and small
+creatures running up your clothes.  This is the life.  To the south is a
+path, which will make walking easier.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8663 30 30
+~
+door~
+Door 1 0 0 8672 30 30
+~
+door~
+Door 2 0 0 8661 30 30
+~
+(null)~
+End
+
+#8663
+Name Between the trees of the Dark Tree Forest.~
+Descr
+You feel the leaves underneath your feet, the gentle rustling of the wind
+through the leaves stokes your ears and once in a while you stumble over a
+hidden branch.  Ahh, for the life of the forest..  
+To the north is a very big tree, and it looks somehow magical.
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8664 30 30
+~
+door~
+Door 1 0 0 8673 30 30
+~
+door~
+Door 2 0 0 8662 30 30
+~
+door~
+Door 3 0 0 8653 30 30
+~
+door~
+End
+
+#8664
+Name The Heart of the Dark Tree Forest.~
+Descr
+The tree that's at the Heart of this forest is huge.  It seems to be
+humming with power.  Exits from this clearing lead in all cardinal
+directions, but you're feeling one with the forest, and don't want to leave
+so soon already.  
+~
+Shd 1
+Sector 2
+Reset M 8601 1 100
+Reset O 8605 -1 100
+Reset O 8614 -5 100
+Reset M 8612 15 75
+Reset M 8613 15 75
+Reset O 8609 -1 50
+Reset M 8620 25 100
+Movemess
+(null)~
+Door 0 0 0 8665 30 30
+~
+door~
+Door 1 0 0 8674 30 30
+~
+door~
+Door 2 0 0 8663 30 30
+~
+door~
+Door 3 0 0 8654 30 30
+~
+door~
+End
+
+#8665
+Name On the edge of a clearing.~
+Descr
+The trees here aren't as dence as the surrounding woods, and you find
+yourself on the edge of a clearing.  To the south is a tree that looks very
+old, older than all the trees in the rest of the forest.  
+~
+Sector 3
+ExtraDescr tree~
+It's a Beech. You catch a glimpse of someone walking near it.
+
+~
+Movemess
+(null)~
+Door 0 0 0 8666 30 30
+~
+door~
+Door 1 0 0 8675 30 30
+~
+door~
+Door 2 0 0 8664 30 30
+~
+door~
+Door 3 0 0 8655 30 30
+~
+door~
+End
+
+#8666
+Name More Dark Tree Forest.~
+Descr
+The forest seems to be endless.  Of course, there must be an end to it
+somewhere.  It's just that you can't see that end right now.  Maybe your a
+bit lost in the woods.  Every direction seems to be the same.  
+~
+Shd 1
+Sector 3
+Reset M 8614 10 100
+Movemess
+(null)~
+Door 0 0 0 8667 30 30
+~
+door~
+Door 1 0 0 8676 30 30
+~
+door~
+Door 2 0 0 8665 30 30
+~
+door~
+Door 3 0 0 8656 30 30
+~
+door~
+End
+
+#8667
+Name Fence in the Forest.~
+Descr
+You can go up a tree that grows partly over the fence, and then drop in
+on Bruno the farmer.  But you won't be able to go back the same route! 
+Maybe it's better to look around the forest for a bit more.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8677 30 30
+~
+door~
+Door 2 0 0 8666 30 30
+~
+door~
+Door 3 0 0 8657 30 30
+~
+door~
+Door 4 256 0 8668 30 30
+~
+door~
+End
+
+#8668
+Name In the cornfields.~
+Descr
+~
+Flags 2
+Sector 2
+Reset O 8621 -5 100
+Movemess
+(null)~
+Door 0 0 0 8669 30 30
+~
+door~
+Door 3 0 0 8658 30 30
+~
+door~
+End
+
+#8669
+Name In the cornfields.~
+Descr
+There sure is a lot of corn growing here.  What a pity it isn't ripe yet.
+But you can still relax and lie on your back staring at the clouds in it. 
+Just don't be surprised if the farmer comes and perforates you with his
+pitchfork.  
+~
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 8670 30 30
+~
+door~
+Door 1 0 0 8679 30 30
+~
+door~
+Door 2 0 0 8668 30 30
+~
+door~
+Door 3 0 0 8659 30 30
+~
+door~
+End
+
+#8670
+Name At Bruno's well.~
+Descr
+A small well, but probably adequate for Bruno, is built here.  It has the
+standard rope and pail for drawing water from it.  Perhaps you could dive
+down it.  
+~
+Sector 2
+ExtraDescr well~
+It's a standard well, a stone circle with a small roof over it.
+
+Maybe you can dive down.
+
+~
+Movemess
+(null)~
+Door 1 0 0 8680 30 30
+~
+door~
+Door 2 0 0 8669 30 30
+~
+door~
+Door 3 0 0 8660 30 30
+~
+door~
+Door 5 0 0 8784 30 30
+~
+door~
+End
+
+#8671
+Name Signpost in the Forest.~
+Descr
+This is a three way intersection, you can see a signpost to the east, and
+there's a signpost here too.  Maybe you should check them out, wouldn't want
+to get lost, would you?  
+~
+ExtraDescr signpost~
+West:  To the Forrester and the Wishing Well.
+
+East:  To the Heart, the Witch and Angela.
+
+South: To *fill_in*.
+
+~
+Reset M 8606 10 100
+Movemess
+(null)~
+Door 1 0 0 8681 30 30
+~
+door~
+Door 3 0 0 8661 30 30
+~
+door~
+End
+
+#8672
+Name Between the trees of the Dark Tree Forest.~
+Descr
+Trees everywhere you look.  Well not everywhere, there's a path to the
+east of here.  You can discern a couple of interesting looking arches over
+the path.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8673 30 30
+~
+door~
+Door 1 0 0 8682 30 30
+~
+door~
+Door 3 0 0 8662 30 30
+~
+door~
+End
+
+#8673
+Name Between the trees of the Dark Tree Forest.~
+Descr
+The forest is quite heavy here, but to the north it becomes less so, and
+you can see a path towards the east.  There's something strange at the path,
+looks like an arch of somekind.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8674 30 30
+~
+door~
+Door 1 0 0 8683 30 30
+~
+door~
+Door 2 0 0 8672 30 30
+~
+door~
+Door 3 0 0 8663 30 30
+~
+door~
+End
+
+#8674
+Name Clearing at the Heart.~
+Descr
+You are at the eastern end of a clearing.  It's very quiet and peaceful
+here.  To the west is a large beech-tree, which looks really old.  You're
+not sure, but you might have seen someone move at the tree.  To the east is
+a small signpost.  
+~
+Movemess
+(null)~
+Door 0 0 0 8675 30 30
+~
+door~
+Door 1 0 0 8684 30 30
+~
+door~
+Door 2 0 0 8673 30 30
+~
+door~
+Door 3 0 0 8664 30 30
+~
+door~
+End
+
+#8675
+Name In the forest.~
+Descr
+You know elves and stuff are supposed to like the forest, but that
+doesn't mean you have to like it, does it?  
+Some of the leaves of the trees have started rotting, and smell terrible.
+~
+Shd 1
+Sector 3
+ExtraDescr leaves rotting~
+Yukk, now look what you've done, you got your hands all dirty with
+
+half-rotten tree-yuck.  You'll probably smell bad for hours.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 8676 30 30
+~
+door~
+Door 1 0 0 8685 30 30
+~
+door~
+Door 2 0 0 8674 30 30
+~
+door~
+Door 3 0 0 8665 30 30
+~
+door~
+End
+
+#8676
+Name Somewhere in the Dark Tree Forest.~
+Descr
+You hear birds whistling sadly, and the leaves on the trees are softly
+sighing to the breeze.  You almost feel like singing a song.  But then you
+hit another cobweb, and the feeling is gone.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8677 30 30
+~
+door~
+Door 1 0 0 8686 30 30
+~
+door~
+Door 2 0 0 8675 30 30
+~
+door~
+Door 3 0 0 8666 30 30
+~
+door~
+End
+
+#8677
+Name A thicket full of thorns.~
+Descr
+Ouch! You walked right in a patch of thorny bushes.
+You can go any way you want from here, as long as you get out of here.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8678 30 30
+~
+door~
+Door 1 0 0 8687 30 30
+~
+door~
+Door 2 0 0 8676 30 30
+~
+door~
+Door 3 0 0 8667 30 30
+~
+door~
+End
+
+#8678
+Name Next to a fence.~
+Descr
+A large fence is placed in the forest here, but if you go up that tree,
+you'll easily be able to get over it.  Getting back might not be so easy
+though.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8688 30 30
+~
+door~
+Door 2 0 0 8677 30 30
+~
+door~
+Door 4 256 0 8668 30 30
+~
+door~
+End
+
+#8679
+Name Inside the gates of a farm.~
+Descr
+You're standing between the huge gates that Bruno uses to close of his
+farm.  But he usually keeps them locked, so you'd probably need his key to
+get out of here.  
+~
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8680 30 30
+~
+door~
+Door 1 7 8619 8689 34 34
+~
+gatedoor~
+Door 3 0 0 8669 30 30
+~
+door~
+End
+
+#8680
+Name On a path through the vegetable garden.~
+Descr
+You're in Farmer Bruno's vegetable garden.  Don't step on his prize
+pumpkins.  There's a path leading west and south.  You can see the gates to
+the south and a well to the east.  
+~
+Flags 2
+Sector 2
+Reset O 8622 -5 25
+Movemess
+(null)~
+Door 2 0 0 8679 30 30
+~
+door~
+Door 3 0 0 8670 30 30
+~
+door~
+End
+
+#8681
+Name Another intersection with a signpost.~
+Descr
+Both here and to the west are signposts.  The road here branches off to
+the north east and west.  The noisy chatter of the birds is becoming
+annoying, maybe you should read the signpost and find a way out of this
+forest.  
+~
+ExtraDescr signpost~
+North: To the Heart and the Witch.
+
+East:  To Angela and Thaenar.
+
+West:  To the Forester.
+
+~
+Reset M 8606 10 100
+Movemess
+(null)~
+Door 0 0 0 8682 30 30
+~
+door~
+Door 1 0 0 8691 30 30
+~
+door~
+Door 3 0 0 8671 30 30
+~
+door~
+End
+
+#8682
+Name At the southern-most mysterious arch.~
+Descr
+There are three strange arches here, two of them just to the north of here.
+This one looks like it's worth a closer look.
+~
+Flags 2097152
+Reset O 8610 -5 100
+Movemess
+(null)~
+Door 0 0 0 8683 30 30
+~
+door~
+Door 2 0 0 8681 30 30
+~
+door~
+Door 3 0 0 8672 30 30
+~
+door~
+End
+
+#8683
+Name At two mysterious arches.~
+Descr
+Three mysterious arches arc over the road here.  One is to the south of
+here and two are here.  They look scary in a way, imposing.  You can enter
+the forest to the east or west, or follow the road.  
+~
+ExtraDescr arch arches~
+The arches look beautiful and scare you at the same time.  They are
+
+decorated with carvings of leaves, roots and branches, all intertwining.  
+
+Who could have erected these, and why?
+
+~
+Movemess
+(null)~
+Door 0 0 0 8684 30 30
+~
+door~
+Door 1 0 0 8693 30 30
+~
+door~
+Door 2 0 0 8682 30 30
+~
+door~
+Door 3 0 0 8673 30 30
+~
+door~
+End
+
+#8684
+Name North of the three arches.~
+Descr
+To the south you can see three arches over the road. They look
+impressive, maybe it's time for a closer look? There's also a signpost,
+right here, indicating where the paths lead to. Might come in handy.
+~
+ExtraDescr signpost~
+South: To Angela and Harry. 
+
+East:  To the Witch and Bruno's Farm.
+
+West:  To the Heart of the forest.
+
+~
+Reset M 8606 10 100
+Movemess
+(null)~
+Door 1 0 0 8694 30 30
+~
+door~
+Door 2 0 0 8683 30 30
+~
+door~
+Door 3 0 0 8674 30 30
+~
+door~
+End
+
+#8685
+Name The Elvish Tree-hut.~
+Descr
+There's a rope hanging down from a tree here!  Maybe you're supposed to
+pull it?  Or climb it?  Might be the best idea to just leave it hanging. 
+Whoever put it here probably would like that best.  
+~
+Flags 4
+Sector 3
+ExtraDescr rope~
+Looking closer, you can see this rope was probably made by the fine hands
+
+of an elf.  It looks like a climbing rope.  
+
+~
+Reset O 8617 -5 100
+Movemess
+(null)~
+Door 0 0 0 8686 30 30
+~
+door~
+Door 1 0 0 8695 30 30
+~
+door~
+Door 3 0 0 8675 30 30
+~
+door~
+End
+
+#8686
+Name Well of the Witch.~
+Descr
+This is where Fryda gets her water: a small well surrounded by the trees
+of the forest.  Some of the plants are even growing on the well itself.  
+~
+Sector 3
+ExtraDescr well~
+The well doesn't look to deep, but you'd need a way to breathe underwater
+
+to be able to go down it.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 8687 30 30
+~
+door~
+Door 1 0 0 8696 30 30
+~
+door~
+Door 2 0 0 8685 30 30
+~
+door~
+Door 3 0 0 8676 30 30
+~
+door~
+Door 5 0 0 8783 30 30
+~
+door~
+End
+
+#8687
+Name In the Dark Tree Forest.~
+Descr
+The undergrowth in this forest is mainly ferns and moss.  Occasionally
+there's a few brambles or another bush.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8688 30 30
+~
+door~
+Door 2 0 0 8686 30 30
+~
+door~
+Door 3 0 0 8677 30 30
+~
+door~
+End
+
+#8688
+Name The Dark Tree Forest.~
+Descr
+The trees here seem to have gnarled faces, your imagination must be
+running wild.  Surely those are just twisted branches and shadows playing
+tricks with your eyes?  Or perhaps the magic from the witch that lives near
+here is affecting the trees?  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8689 30 30
+~
+door~
+Door 1 0 0 8698 30 30
+~
+door~
+Door 2 0 0 8687 30 30
+~
+door~
+Door 3 0 0 8678 30 30
+~
+door~
+End
+
+#8689
+Name Near the gate to the farm.~
+Descr
+It's only a short walk to the west to the gate of Bruno's farm.  Further
+up east is a signpost, and both to the north and the south is the Dark Tree
+Forest.  
+~
+Movemess
+(null)~
+Door 0 0 0 8690 30 30
+~
+door~
+Door 1 0 0 8699 30 30
+~
+door~
+Door 2 0 0 8688 30 30
+~
+door~
+Door 3 7 8619 8679 34 34
+~
+gatedoor~
+End
+
+#8690
+Name Fence with overhanging tree.~
+Descr
+There's lot of nasty little insects in the forest, biting you, climbing
+in your clothes and various orifices.  There's a tree here next to a fence. 
+The trees here stand very close to the fence.  You can climb one and drop on
+the other side.  To the north is more forest, to the south is a road.  
+~
+Shd 1
+Sector 3
+ExtraDescr tree~
+If you'd go up you could drop yourself on the other side of the fence.
+
+One way trip though, so better think before you act.
+
+~
+Movemess
+(null)~
+Door 0 0 0 8739 30 30
+~
+door~
+Door 2 0 0 8689 30 30
+~
+door~
+Door 4 256 0 8680 30 30
+~
+door~
+End
+
+#8691
+Name A small road.~
+Descr
+This small road joins another to the west.  To the north is the forest,
+and to the east you can see a branch in the road.  
+~
+Movemess
+(null)~
+Door 0 0 0 8692 30 30
+~
+door~
+Door 1 0 0 8701 30 30
+~
+door~
+Door 3 0 0 8681 30 30
+~
+door~
+End
+
+#8692
+Name Dark Forest.~
+Descr
+The forest is dark here.  You can make out what looks like a path to the
+west and to the south.  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8693 30 30
+~
+door~
+Door 1 0 0 8692 30 30
+~
+door~
+Door 2 0 0 8691 30 30
+~
+door~
+Door 3 0 0 8692 30 30
+~
+door~
+End
+
+#8693
+Name Dark forest.~
+Descr
+The forest is very dark here.  You can just discern a path to the west. 
+There's something arching over the path, a tree maybe?  
+~
+Flags 1
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8694 30 30
+~
+door~
+Door 2 0 0 8692 30 30
+~
+door~
+Door 3 0 0 8683 30 30
+~
+door~
+End
+
+#8694
+Name Bend in the path.~
+Descr
+The paths makes a turn here.  You can follow it either north or west.  If
+you're feeling bold, you could also go south, into the forest.  
+~
+Movemess
+(null)~
+Door 0 0 0 8695 30 30
+~
+door~
+Door 2 0 0 8693 30 30
+~
+door~
+Door 3 0 0 8684 30 30
+~
+door~
+End
+
+#8695
+Name A creepy part of a path.~
+Descr
+The path is dark and twisty here.  The forest to the east and west looks
+safer than the path!  Maybe you'd better hurry south.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 8696 30 30
+~
+door~
+Door 1 0 0 8705 30 30
+~
+door~
+Door 2 0 0 8694 30 30
+~
+door~
+Door 3 0 0 8685 30 30
+~
+door~
+End
+
+#8696
+Name In front of a small house.~
+Descr
+To the north lives a witch.  At least, that's what this small sign says. 
+Maybe she'd like you to pay here a visit?  Real witches don't get much
+visitors, so she might be lonely.  
+~
+ExtraDescr sign~
+Fryda the Witch. Potions, pills and prayers for sell. Open nightly.
+
+Only a few more steps to the north.
+
+~
+Movemess
+(null)~
+Door 0 3 0 8697 36 36
+~
+door to Fryda's house~
+Door 1 0 0 8706 30 30
+~
+door~
+Door 2 0 0 8695 30 30
+~
+door~
+Door 3 0 0 8686 30 30
+~
+door~
+End
+
+#8697
+Name Fryda's shop and house.~
+Descr
+This house is rather small, and not even made of candy, but it does fine
+for Fryda. She probably makes a lot of money selling pills and stuff.
+~
+Flags 4
+ExtraDescr cauldron kettle~
+It's full of strange goo. You'd better stay away from it.
+
+~
+Reset M 8615 1 100
+Reset O 1015 -1 100
+Reset O 1013 -1 100
+Reset O 8618 -1 100
+Reset O 5010 -1 50
+Reset O 5015 -1 50
+Reset O 5012 -1 50
+Reset O 5011 -1 50
+Reset O 8405 -1 50
+Movemess
+(null)~
+Door 0 1 0 8698 36 36
+~
+back door~
+Door 2 1 0 8696 36 36
+~
+front door~
+End
+
+#8698
+Name At the back of the store.~
+Descr
+You're at the back door of a small house and store, ran by a witch.
+She sell the local people their aphrodesiacs, and heals the occasional
+adventurer. To the north is a signpost.
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 8699 30 30
+~
+door~
+Door 1 0 0 8708 30 30
+~
+door~
+Door 2 3 0 8697 36 36
+~
+Fryda's back door~
+Door 3 0 0 8688 30 30
+~
+door~
+End
+
+#8699
+Name Signpost in the Forest.~
+Descr
+You can follow the path to the north, west or south from here.
+Better check for directions on the signpost first though.
+~
+ExtraDescr signpost~
+South: The Witch.
+
+North: Loop road.
+
+West:  Bruno's farmstead.
+
+~
+Reset M 8606 15 100
+Movemess
+(null)~
+Door 0 0 0 8700 30 30
+~
+door~
+Door 2 0 0 8698 30 30
+~
+door~
+Door 3 0 0 8689 30 30
+~
+door~
+End
+
+#8700
+Name The loop road.~
+Descr
+Here the road makes a loop.  You can take a short-cut through the forest
+by going north.  But you know the proverb: "Short cuts make for long
+delays."  
+~
+Movemess
+(null)~
+Door 0 0 0 8740 30 30
+~
+door~
+Door 1 0 0 8710 30 30
+~
+door~
+Door 2 0 0 8699 30 30
+~
+door~
+End
+
+#8701
+Name Road to Angela.~
+Descr
+The road is neatly cobbled here, although to the west the stones quickly
+dwindle.  A couple of flagstones lead off to the north, where a small house
+stands.  
+~
+Movemess
+(null)~
+Door 0 3 0 8702 36 36
+~
+door to Angela's house~
+Door 1 0 0 8711 30 30
+~
+door~
+Door 3 0 0 8691 30 30
+~
+door~
+End
+
+#8702
+Name Angela's home.~
+Descr
+Angela's house has a large bed, that doesn't so much look old, but well used.
+There's a small table with a washing basin on top and a larger table with two 
+rough chairs. An easy chair is placed next to the fireplace.
+~
+Flags 4
+Sector 0
+ExtraDescr bed~
+It's only rougly made, and doesn't look too clean.  It's probably not too
+
+confortble either.  
+
+~
+ExtraDescr basin~
+It looks pretty, but it's cracked. There's only a bit of water left.
+
+~
+Reset M 8618 1 100
+Reset O 8624 -1 100
+Reset O 8625 -1 100
+Movemess
+(null)~
+Door 0 3 0 8703 36 36
+~
+back door of Angela's house~
+Door 2 1 0 8701 36 36
+~
+front door of Angela's house~
+End
+
+#8703
+Name North of a house.~
+Descr
+To the south is Angela's little house.  The road you are on is neatly
+cobbled.  There's less trees here than in the rest of the forest, but there
+are a lot more bushes.  
+~
+ExtraDescr bush bushes~
+There are several different types of bushes, but they all have berries.
+
+None of the berries looks particulary tasteful or appetizing though.
+
+~
+Movemess
+(null)~
+Door 0 0 0 8704 30 30
+~
+door~
+Door 2 3 0 8702 36 36
+~
+back door to Angela's house~
+End
+
+#8704
+Name Neatly cobbled bend in the road.~
+Descr
+The road curves east to south here.  You can follow it to the signpost at
+an intersection to the east, or go south, where you can see a small house in
+the distance.  To the north are dense trees.  
+~
+Movemess
+(null)~
+Door 0 0 0 8705 30 30
+~
+door~
+Door 1 0 0 8714 30 30
+~
+door~
+Door 2 0 0 8703 30 30
+~
+door~
+End
+
+#8705
+Name In the forest.~
+Descr
+The trees are growing very close together here, and you have a hard time
+moving around.  You notice a path to the west, moving along it would
+probably go faster and easier.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8706 30 30
+~
+door~
+Door 1 0 0 8725 30 30
+~
+door~
+Door 2 0 0 8704 30 30
+~
+door~
+Door 3 0 0 8695 30 30
+~
+door~
+End
+
+#8706
+Name In the forest.~
+Descr
+Nasty little insects and spiders are running about the trees and bushes. 
+Some drop down your neck, others try to bite you.  You're lucky they are
+only small and can't hurt you, just annoy you.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8707 30 30
+~
+door~
+Door 1 0 0 8726 30 30
+~
+door~
+Door 2 0 0 8705 30 30
+~
+door~
+Door 3 0 0 8696 30 30
+~
+door~
+End
+
+#8707
+Name Deep within the Dark Tree Forest.~
+Descr
+You are deep within the forest, the trees look old and menacing.  You
+expect them to any moment now gather up their roots and run for it.  Or you.
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8708 30 30
+~
+door~
+Door 1 0 0 8727 30 30
+~
+door~
+Door 2 0 0 8706 30 30
+~
+door~
+End
+
+#8708
+Name Shortcut.~
+Descr
+A small trail of dirt leads in the east-west direction. Looks like a 
+often used shortcut. To the south are more trees.
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8718 30 30
+~
+door~
+Door 2 0 0 8707 30 30
+~
+door~
+Door 3 0 0 8698 30 30
+~
+door~
+End
+
+#8709
+Name The loop road.~
+Descr
+This is the loop road, looping around a corner of the Dark Tree Forest. 
+It's going from east to north at this section.  
+~
+Movemess
+(null)~
+Door 0 0 0 8710 30 30
+~
+door~
+Door 1 0 0 8719 30 30
+~
+door~
+End
+
+#8710
+Name The loop road.~
+Descr
+You are on the loop road, a rather broad road going around the
+northeastern part of this forest.  The road loops west-south here.  
+~
+Movemess
+(null)~
+Door 2 0 0 8709 30 30
+~
+door~
+Door 3 0 0 8700 30 30
+~
+door~
+End
+
+#8711
+Name A small, neatly cobbled road.~
+Descr
+To the north-west of the road you can see a path of flagstones lead off
+to a simple house.  The road itself leads west and east, but you can also go
+into the woods to the north of here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8712 30 30
+~
+door~
+Door 1 0 0 8721 30 30
+~
+door~
+Door 3 0 0 8701 30 30
+~
+door~
+End
+
+#8712
+Name Between the trees of the forest.~
+Descr
+Plants grow abundandly here, and insects fourage on them. Breathing is a pain
+because every time you try, you inhale some insects too. Yech.
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8722 30 30
+~
+door~
+Door 2 0 0 8711 30 30
+~
+door~
+End
+
+#8713
+Name Path to "Mariah's Well"~
+Descr
+A small path leads north to east here.  You notice a few stones on the
+path, they look pretty old.  Perhaps this road was paved once?  
+~
+Movemess
+(null)~
+Door 0 0 0 8714 30 30
+~
+door~
+Door 1 0 0 8723 30 30
+~
+door~
+End
+
+#8714
+Name Crossroads.~
+Descr
+Several roads meet here, forming sort of a cross.  There's a large
+signpost indicating where the roads lead to.  You might want to check for
+directions here, or you could get lost.  
+The north road leads to a dark tunnel, better light a torch or something.
+~
+ExtraDescr signpost~
+A signpost stands in the middle of the crossroads:
+
+South: Mariah's Well.
+
+West:  To Angela.
+
+East:  Thaenar.
+
+North: To the Inn.
+
+~
+Reset M 8606 15 100
+Movemess
+(null)~
+Door 0 0 0 8715 30 30
+~
+door~
+Door 1 0 0 8724 30 30
+~
+door~
+Door 2 0 0 8713 30 30
+~
+door~
+Door 3 0 0 8704 30 30
+~
+door~
+End
+
+#8715
+Name A dark tunnel.~
+Descr
+It's very dark in here, and you can't see much.  The walls are made of
+rough stones, and blackened by the soot of the torches and lamps that
+adventurers use to be able to see.  
+~
+Flags 4
+Shd 1
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8716 30 30
+~
+door~
+Door 2 0 0 8714 30 30
+~
+door~
+End
+
+#8716
+Name Deep under the earth.~
+Descr
+You are still in the dark tunnel.  Maybe there are secret exits?  You
+start tapping the walls, but find none.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8717 30 30
+~
+door~
+Door 2 0 0 8715 30 30
+~
+door~
+Door 5 3 0 8785 30 30
+There's a secret trapdoor, carefully camouflaged, down here!
+~
+secret trap door~
+End
+
+#8717
+Name A dark tunnel.~
+Descr
+To the north you can see the exit of the dark, blackened tunnel.  South
+of here it is even darker, as the tunnel goes down deeper.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8718 30 30
+~
+door~
+Door 2 0 0 8716 30 30
+~
+door~
+End
+
+#8718
+Name In front of the toolshed.~
+Descr
+The gaping maul of a dark tunnel leads south, remembering you of the
+stories about sleeping dragons.  To the east is a small shed, the door is
+half opened.  
+~
+Movemess
+(null)~
+Door 0 0 0 8719 30 30
+~
+door~
+Door 1 3 0 8728 36 36
+~
+door to the shed~
+Door 2 0 0 8717 30 30
+~
+door~
+Door 3 0 0 8708 30 30
+~
+door~
+End
+
+#8719
+Name Three-way intersection.~
+Descr
+There's three directions to choose from, at least, if you're following
+the road.  In that case you'd be wise to check out the signpost and find out
+where you are following it to.  
+~
+ExtraDescr signpost~
+West:  To Bruno, the Witch and ultimately to the Heart.
+
+East:  The loop road, to the Inn and the Elvish Gate.
+
+South: This way to Angela.
+
+~
+Reset M 8606 15 100
+Movemess
+(null)~
+Door 0 0 0 8720 30 30
+~
+door~
+Door 1 0 0 8729 30 30
+~
+door~
+Door 2 0 0 8718 30 30
+~
+door~
+Door 3 0 0 8709 30 30
+~
+door~
+End
+
+#8720
+Name Dark Tree Forest.~
+Descr
+The forest is full of life, mainly little insects that crawl up your
+clothes.  To the south is a signpost, giving directions.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8768 30 30
+~
+door~
+Door 2 0 0 8719 30 30
+~
+door~
+End
+
+#8721
+Name A small, neatly cobbled road.~
+Descr
+The small road leads off to the east and west. You can go north and enter 
+the southern parts of the Dark Tree Forest.
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8722 30 30
+~
+door~
+Door 1 0 0 3376 30 30
+~
+(null)~
+Door 3 0 0 8711 30 30
+~
+door~
+End
+
+#8722
+Name In the shade of the trees of the forest.~
+Descr
+Trees surround you, and large ferns grow in their shade.  Small creatures
+fourage on the plants, and some try to forage on you too.  To the south is a
+neatly cobbled road.  
+~
+Shd 1
+Sector 3
+Reset M 8621 25 75
+Movemess
+(null)~
+Door 0 0 0 8723 30 30
+~
+door~
+Door 2 0 0 8721 30 30
+~
+door~
+Door 3 0 0 8712 30 30
+~
+door~
+End
+
+#8723
+Name A stone well in the forest.~
+Descr
+There's a small, stone well in at the end of a path here.  There's more
+forest south of here, and if you have a way to breathe underwater, you could
+go down the well.  
+~
+Sector 2
+ExtraDescr well~
+A small plaque on the well says:
+
+"This well was dug in the year of the Warthog, by Alvin Bakerson to provide
+
+ water for him and his wife Mariah."
+
+~
+Movemess
+(null)~
+Door 2 0 0 8722 30 30
+~
+door~
+Door 3 0 0 8713 30 30
+~
+door~
+Door 5 0 0 8770 30 30
+~
+door~
+End
+
+#8724
+Name On a forest-road.~
+Descr
+This road leads west to a crossroads, complete with signpost. You could
+also wander of to the north, into the forest, but remember to watch out 
+for the wolves. 
+~
+Flags 2
+Movemess
+(null)~
+Door 0 0 0 8725 30 30
+~
+door~
+Door 1 0 0 3377 30 30
+~
+(null)~
+Door 3 0 0 8714 30 30
+~
+door~
+End
+
+#8725
+Name Forest.~
+Descr
+There are trees and bushes and moss and (ouch) nettles all around.
+Who says forests are fun probably doesn't live near one.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8726 30 30
+~
+door~
+Door 2 0 0 8724 30 30
+~
+door~
+Door 3 0 0 8705 30 30
+~
+door~
+End
+
+#8726
+Name Forest.~
+Descr
+The trees are old and thick here.  There's little undergrowth, but what
+little there is, looks nice.  Small animals scurry around you.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8727 30 30
+~
+door~
+Door 2 0 0 8725 30 30
+~
+door~
+Door 3 0 0 8706 30 30
+~
+door~
+End
+
+#8727
+Name Forest.~
+Descr
+The forest is dense, but it is mostly trees.  There are some ferns, that
+don't need much light, and a couple of sparse bushes, carrying berries.  
+~
+Sector 3
+ExtraDescr berries~
+They look nice, appetizing and most importantly bad for your health.
+
+Leave them for the birds to feed on.
+
+~
+Movemess
+(null)~
+Door 1 0 0 0 30 30
+Large trees block your way to the east.  
+~
+(null)~
+Door 2 0 0 8726 30 30
+~
+door~
+Door 3 0 0 8707 30 30
+~
+door~
+End
+
+#8728
+Name Toolshed.~
+Descr
+Several tools are stored in this toolshed, neatly pinned up the wall.
+You wonder whose tools these are, and why the shed wasn't locked.
+~
+Flags 4
+Reset O 8626 -5 50
+Reset O 8627 -5 50
+Movemess
+(null)~
+Door 3 1 0 8718 36 36
+~
+door to the outside~
+End
+
+#8729
+Name The loop road.~
+Descr
+The loop road makes a sharp turn here, going from north to east.  There's
+a signpost just east of here.  The road to the north looks dull and not
+often used.  You can see a dusty dirt road leading out of the forest to the
+east here.  
+~
+Movemess
+(null)~
+Door 0 0 0 8730 30 30
+~
+door~
+Door 1 0 0 3381 30 30
+~
+(null)~
+Door 3 0 0 8719 30 30
+~
+door~
+End
+
+#8730
+Name The loop road.~
+Descr
+"Still round the corner there may wait, a new road or a secret gate.
+And though I oft have passed them by, a day will come at last when I,
+Shall take the hidden paths that run, well, north or south from here"
+~
+Movemess
+(null)~
+Door 0 0 0 8769 30 30
+~
+door~
+Door 2 0 0 8729 30 30
+~
+door~
+End
+
+#8731
+Name At the boardwalk.~
+Descr
+The road leads south and north. To the north is a small cottage.
+There's a mooringplace for a fisherman's boat here.
+~
+Reset M 8608 1 100
+Reset O 8612 -1 100
+Movemess
+(null)~
+Door 0 0 0 8741 30 30
+~
+door~
+Door 1 0 0 8732 30 30
+~
+door~
+Door 2 0 0 8610 30 30
+~
+door~
+End
+
+#8732
+Name In the lake, near the boardwalk.~
+Descr
+The lake is rapidly getting deeper, you'll need a boat to go on.
+~
+Sector 6
+Movemess
+(null)~
+Door 1 0 0 8733 30 30
+~
+door~
+Door 2 0 0 8620 30 30
+~
+door~
+Door 3 0 0 8731 30 30
+~
+door~
+End
+
+#8733
+Name On the lake.~
+Descr
+You're on the lake.  Fish jump out of the water occasionally, and you can
+see an island to the south.  You can't reach it from here though, there's a
+boardwalk to the south-east though.  
+~
+Sector 7
+Movemess
+(null)~
+Door 1 0 0 8734 30 30
+~
+door~
+Door 3 0 0 8732 30 30
+~
+door~
+End
+
+#8734
+Name At the north-east corner of the lake.~
+Descr
+You could spent hours on this lake. It's so beautiful, the air is nice and
+clean and you feel so at ease. 
+~
+Sector 7
+Movemess
+(null)~
+Door 2 0 0 8640 30 30
+~
+door~
+Door 3 0 0 8733 30 30
+~
+door~
+End
+
+#8735
+Name At the fence of Bruno's farm.~
+Descr
+Bruno mustn't like strangers. He's got his farm well fenched off.
+Also, he's got animated scarecrows running around and killing people.
+Maybe someone should have a word with him and tell him off.
+~
+Sector 3
+Reset M 8611 3 100
+Reset O 8616 8 75
+Movemess
+(null)~
+Door 0 0 0 8745 30 30
+~
+door~
+Door 1 0 0 8736 30 30
+~
+door~
+End
+
+#8736
+Name A tall fence.~
+Descr
+Bruno's farm is surrounded by a tall fence and he has scarecrows to
+scare both people and crows away. To the north is a path.
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8737 30 30
+~
+door~
+Door 3 0 0 8735 30 30
+~
+door~
+End
+
+#8737
+Name The stout fence surrounding Bruno's farm.~
+Descr
+To the south is Bruno's farm.  But you can't reach it, a large fence is
+in the way.  You can see more fence to the east and west, and a road or
+rather path to the north.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8747 30 30
+~
+door~
+Door 1 0 0 8738 30 30
+~
+door~
+Door 3 0 0 8736 30 30
+~
+door~
+End
+
+#8738
+Name A fence around a farm.~
+Descr
+There's a fence here, fencing off a farm.  A small plaque is fixed to the
+fence.  Maybe you should read it.  
+You can walk over to the north and continue your voyage on the road.
+~
+Sector 3
+ExtraDescr plaque~
+Private property, keep out!
+
+~
+ExtraDescr plaque~
+~
+Movemess
+(null)~
+Door 0 0 0 8748 30 30
+~
+door~
+Door 1 0 0 8739 30 30
+~
+door~
+Door 3 0 0 8737 30 30
+~
+door~
+End
+
+#8739
+Name In the forest.~
+Descr
+North of here you notice a portal between the trees!  It might be worth
+investigating.  To the south you can see the fence surrounding Bruno's farm,
+and a tree standing close next to it.  
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8749 30 30
+~
+door~
+Door 1 0 0 8740 30 30
+~
+door~
+Door 2 0 0 8690 30 30
+~
+door~
+Door 3 0 0 8738 30 30
+~
+door~
+End
+
+#8740
+Name Shorcut through the forest.~
+Descr
+To the north and the south is the loop road.
+There's very interesting patches of forest through the east and the west.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8750 30 30
+~
+door~
+Door 1 0 0 8767 30 30
+~
+door~
+Door 2 0 0 8700 30 30
+~
+door~
+Door 3 0 0 8739 30 30
+~
+door~
+End
+
+#8741
+Name Path throught the forest, in front of Fishermen's house.~
+Descr
+To the east is Amy's Fish-shop.  To the south is a small boardwalk on the
+shore of a lake.  The road itself leads of to the north and south.  
+~
+Movemess
+(null)~
+Door 0 0 0 8751 30 30
+~
+door~
+Door 1 3 0 8742 36 36
+This door leads inside Fred and Amy's house.
+~
+east door ~
+Door 2 0 0 8731 30 30
+~
+door~
+End
+
+#8742
+Name Amy and Fred's humble abode.~
+Descr
+This is the home of Fred and his wife, Amy.
+It's also a fish-shop. Amy sells fish here, but only during the day.
+And at noon, she has her lunchbreak.
+~
+Flags 4
+Sector 0
+Reset M 8607 1 100
+Reset O 8611 -1 100
+Movemess
+(null)~
+Door 1 3 0 8743 36 36
+~
+east door~
+Door 3 3 0 8741 36 36
+~
+west door~
+End
+
+#8743
+Name Road to Fishermen's cottage.~
+Descr
+You're at the back entrance to Amy's Fishshop.  It doubles as Fred and
+Amy's house, and the shop's only open from 6 to 6.  To the south is the lake
+where they catch the fish, and to the north are more trees.  
+~
+Movemess
+(null)~
+Door 0 0 0 8753 30 30
+~
+door~
+Door 1 0 0 8744 30 30
+~
+east door~
+Door 3 3 0 8742 36 36
+This is the door of Amy and Fred's house.
+~
+west door~
+End
+
+#8744
+Name Road north of the fishing lake.~
+Descr
+There's a fishing lake to the south.  It has a small island in the middle
+of it.  Down this road, to the west, is a fisherman's house.  You can see
+trees, their leaves rustling in the wind, to the north.  There's a lovely
+little house to the east.  
+~
+Movemess
+(null)~
+Door 0 512 0 8754 30 30
+~
+door~
+Door 1 0 0 8745 30 30
+~
+door~
+Door 3 0 0 8743 30 30
+~
+door~
+End
+
+#8745
+Name In front of Beuk's small cottage.~
+Descr
+You're in front of the house of Beuk.  You can tell, because the sign
+says so.  The road goes east and west, north lies the door to the house and
+south is a fence.  
+~
+ExtraDescr sign~
+A small sign says:
+
+"This is the house of the famous heroine Beuk, who was the first inhabitant
+
+ of these woods. Visitors welcome."
+
+~
+Movemess
+(null)~
+Door 0 535 8800 8755 36 36
+~
+front door~
+Door 1 0 0 8746 30 30
+~
+door~
+Door 2 0 0 8735 30 30
+~
+door~
+Door 3 0 0 8744 30 30
+~
+door~
+End
+
+#8746
+Name Road through the forest.~
+Descr
+The road goes ever on, to the west and to the east at least.  There's a
+fence to the south, and to the north are more trees.  There's a cottage to
+the west.  
+~
+Movemess
+(null)~
+Door 0 0 0 8756 30 30
+~
+door~
+Door 1 0 0 8747 30 30
+~
+door~
+Door 3 0 0 8745 30 30
+~
+door~
+End
+
+#8747
+Name On the road near a strange tree.~
+Descr
+Next to the path, which continues both to the east and west, is a large
+dead or nearly dead tree.  A fence is clearly visible through the trees to
+the south.  Further south you can see a farmstead.  
+~
+ExtraDescr dead strange tree~
+It has branches positioned so you can climb it!  Maybe it's hollow. 
+
+Better go north to check it out from closer by.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 8757 30 30
+~
+door~
+Door 1 0 0 8748 30 30
+~
+door~
+Door 2 0 0 8737 30 30
+~
+door~
+Door 3 0 0 8746 30 30
+~
+door~
+End
+
+#8748
+Name On the road.~
+Descr
+To the south you can see the fence surrounding Bruno's farm.  The road
+continues west and east, but you can also enter the forest to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 8758 30 30
+~
+door~
+Door 1 0 0 8749 30 30
+~
+door~
+Door 2 0 0 8738 30 30
+~
+door~
+Door 3 0 0 8747 30 30
+~
+door~
+End
+
+#8749
+Name On an East-West Road~
+Descr
+The road here leads to the east and west.  You can see a small well
+between the trees to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 8759 30 30
+~
+door~
+Door 1 0 0 8750 30 30
+~
+door~
+Door 2 0 0 8739 30 30
+~
+door~
+Door 3 0 0 8748 30 30
+~
+door~
+End
+
+#8750
+Name On the road.~
+Descr
+To the west of here stands a magnificient portal.  You can take a
+shortcut, avoiding the loop in the road to the east, by going south.  Or you
+could go explore the forest to the north.  
+~
+Movemess
+(null)~
+Door 0 0 0 8760 30 30
+~
+door~
+Door 1 0 0 8764 30 30
+~
+door~
+Door 2 0 0 8740 30 30
+~
+door~
+Door 3 0 0 8749 30 30
+~
+door~
+End
+
+#8751
+Name On the road near Amy and Fred.~
+Descr
+The road leads to a small house to the south, but you can enter the
+forest to the east if you like.  
+~
+Movemess
+(null)~
+Door 1 0 0 8752 30 30
+~
+door~
+Door 2 0 0 8741 30 30
+~
+door~
+End
+
+#8752
+Name In the forest.~
+Descr
+There's a path leading through the forest to the west of here.  You can
+explore more of the forest to the east.  The forest has large trees, nice
+bushes with colorful berries and soft moss covers the ground.  
+~
+Sector 3
+ExtraDescr bush berries~
+The berries don't look edible. Better stay away from them.
+
+~
+Movemess
+(null)~
+Door 1 0 0 8753 30 30
+~
+door~
+Door 3 0 0 8751 30 30
+~
+door~
+End
+
+#8753
+Name The forest.~
+Descr
+You can see a path to the south, more trees to the east and west and a
+large tree with someone's name carved in it.  
+~
+Sector 3
+ExtraDescr tree name carving~
+@@@ @@@
+
+Bruno    @@@@@@@@@@@
+
+         @@@@@@@@@@@
+
+          @@@@@@@@@   Angela
+
+            @@@@@
+
+              @
+
+~
+Movemess
+(null)~
+Door 1 0 0 8754 30 30
+~
+door~
+Door 2 0 0 8743 30 30
+~
+door~
+Door 3 0 0 8752 30 30
+~
+door~
+End
+
+#8754
+Name In the Forest.~
+Descr
+The forest is not so dark here, actually it's quite nice.  It's not very
+damp, and there's a sweet smell of honey all around.  There are even some
+flowers growing here.  
+~
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 8744 30 30
+~
+door~
+Door 3 0 0 8753 30 30
+~
+door~
+End
+
+#8755
+Name Inside the warm and cosy cottage of Beuk.~
+Descr
+Beuk's house has a large bed, a low table and several comfortable looking
+chairs.  A fireplace provides warmth and light.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 23 8800 8745 36 36
+~
+front door~
+End
+
+#8756
+Name Light forest.~
+Descr
+Trees grown abundandly here, but not to close together, so they have
+plenty of space.  Moss and bushes complete the forest.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8757 30 30
+~
+door~
+Door 2 0 0 8746 30 30
+~
+door~
+End
+
+#8757
+Name At the hollow tree.~
+Descr
+You are now directly beside a strange tree.  It's easily climbed, and you
+find out it's hollow.  But do you dare to go down?  It looks dark in there,
+better light a lantern if you haven't done so yet.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8758 30 30
+~
+door~
+Door 2 0 0 8747 30 30
+~
+door~
+Door 3 0 0 8756 30 30
+~
+door~
+Door 5 0 0 8773 30 30
+~
+door~
+End
+
+#8758
+Name Light forest.~
+Descr
+The trees here look a lot friendlier then most trees you've seen lately. 
+They grow tall and straight up, and they lack the twisted roots and gnarled
+branches that most trees around here have.  
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8759 30 30
+~
+door~
+Door 2 0 0 8748 30 30
+~
+door~
+Door 3 0 0 8757 30 30
+~
+door~
+End
+
+#8759
+Name The well near Beuk's home.~
+Descr
+There's a well here, a small tin pail is standing beside it. You could go down the well and take a look.
+Of course, you'd need to somehow be able to breathe.
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8760 30 30
+~
+door~
+Door 2 0 0 8749 30 30
+~
+door~
+Door 3 0 0 8758 30 30
+~
+door~
+Door 5 0 0 8771 30 30
+~
+door~
+End
+
+#8760
+Name In the Dark Tree Forest.~
+Descr
+Dark trees are all around you. To the west, just visible between all the 
+trees, is a well. South of the well you can discern a large stone portal,
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 8761 30 30
+~
+door~
+Door 2 0 0 8750 30 30
+~
+door~
+Door 3 0 0 8759 30 30
+~
+door~
+End
+
+#8761
+Name Somewhere in the Dark Tree Forest.~
+Descr
+You're somewhere near the northern perimeter of the Dark Tree Forest.
+The trees are far less dark and imposing than to the south of here.
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 2 0 0 8764 30 30
+~
+door~
+Door 3 0 0 8760 30 30
+~
+door~
+End
+
+#8762
+Name Inside the abandoned inn.~
+Descr
+The inn is deserted, and only a few tables and chairs are still standing.
+It's dusty and dry in here, but you can't get a drink at the bar, someone
+else looted it earlier.  Maybe you could take a nap behind the bar?  
+~
+Flags 5
+Sector 0
+Reset M 8619 1 100
+Movemess
+(null)~
+Door 2 3 0 8765 5 5
+~
+door~
+End
+
+#8763
+Name Light Forest.~
+Descr
+There's plants everywhere you look, bushes, grasses, trees, they're all
+here.  To the south you can see a road curve its way through the forest.  
+You have the feeling something is hidden here...
+~
+Flags 2
+Sector 3
+Reset O 8629 -5 100
+Movemess
+(null)~
+Door 0 0 0 3360 30 30
+~
+(null)~
+Door 1 0 0 0 30 30
+Large trees block your way in that direction.
+~
+(null)~
+Door 2 0 0 8766 30 30
+~
+door~
+End
+
+#8764
+Name The loop road.~
+Descr
+You are on the loop road, that loops around the northeastern part of the
+Dark Tree Forest.  There used to be an inn around here, but it has been
+abandoned.  
+~
+Movemess
+(null)~
+Door 0 0 0 8761 30 30
+~
+door~
+Door 1 0 0 8765 30 30
+~
+door~
+Door 2 0 0 8767 30 30
+~
+door~
+Door 3 0 0 8750 30 30
+~
+door~
+End
+
+#8765
+Name At the loop road Inn.~
+Descr
+To the north of the road stands an abandoned house.  It used to be an
+inn, but now it's not much more than a ghosthouse.  Maybe the innkeeper left
+something useful behind.  You have a bad feeling about the old, abandoned
+inn to the north...  
+~
+ExtraDescr inn sign~
+The old inn sign is down on the floor:
+
+"Welcome to the Wild Boar Inn"
+
+It has the picture of a pig underneath these letters.
+
+~
+Movemess
+(null)~
+Door 0 3 0 8762 5 5
+~
+door~
+Door 1 0 0 8766 30 30
+~
+door~
+Door 2 0 0 8768 30 30
+~
+door~
+Door 3 0 0 8764 30 30
+~
+door~
+End
+
+#8766
+Name The loop road.~
+Descr
+The road curves west to south here.  To the north are a few trees.  This
+part of the road is pretty dusty, and probably isn't well travelled.  
+~
+Movemess
+(null)~
+Door 0 0 0 8763 30 30
+~
+door~
+Door 1 0 0 0 30 30
+Large trees block your way to the east.
+~
+(null)~
+Door 2 0 0 8769 30 30
+~
+door~
+Door 3 0 0 8765 30 30
+~
+door~
+End
+
+#8767
+Name Interesting part of the forest.~
+Descr
+There's quite a lot of ferns growing here, and also the trees look less 
+twisted than they do to the west of here. 
+~
+Sector 3
+ExtraDescr tree trees~
+Treesap is flowing from a wound one of the trees has.  It's sticky and
+
+smells rather wierd.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 8764 30 30
+~
+door~
+Door 1 0 0 8768 30 30
+~
+door~
+Door 3 0 0 8740 30 30
+~
+door~
+End
+
+#8768
+Name In between the trees.~
+Descr
+One of the trees here has fallen over, and a large pit has opened under
+it's roots.  If you were a little younger, it would be the perfect site for
+a small hut.  
+~
+Shd 1
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 8765 30 30
+~
+door~
+Door 2 0 0 8720 30 30
+~
+door~
+Door 3 0 0 8767 30 30
+~
+door~
+End
+
+#8769
+Name The loop road.~
+Descr
+"The road goes ever on and on, right from the door where it.. ehm,
+started?" Well, so much for trying to sing that song. Whomever made it,
+probably had this road in mind.
+~
+Movemess
+(null)~
+Door 0 0 0 8766 30 30
+~
+door~
+Door 2 0 0 8730 30 30
+~
+door~
+End
+
+#8770
+Name Down the well near Angela's house.~
+Descr
+Iron rungs lead up this well.  The east well looks like it might conceal
+a door.  
+~
+Sector 8
+Movemess
+(null)~
+Door 1 259 0 8771 30 30
+~
+hidden door to the east~
+Door 4 0 0 8723 30 30
+~
+door~
+End
+
+#8771
+Name At the bottom of Beuk's well.~
+Descr
+You are at the bottom of a small well.  Small rungs lead up.  You have
+heard about wells and stuff being connected, maybe there's secret doors
+about?  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 0 259 0 8781 30 30
+A secret passage under the water.
+~
+north secret door~
+Door 3 259 0 8770 30 30
+~
+hidden door to the west~
+Door 4 0 0 8759 30 30
+~
+door~
+End
+
+#8772
+Name Secret Room.~
+Descr
+This secret room is very small, maybe you should check out that chest?
+~
+Flags 4
+Reset O 8607 -5 100
+Reset O 8608 -3 5
+Reset O 8608 -3 10
+Reset O 8608 -3 20
+Reset O 8608 -3 30
+Movemess
+(null)~
+Door 1 0 0 8773 30 30
+~
+door~
+End
+
+#8773
+Name Down a hollow tree.~
+Descr
+Someone fixed iron rungs on the inside of this tree!  It might be a
+thieve's hideout!  Or maybe it's someones storage area...  Hmm, there might
+be secret doors around.  
+~
+Flags 5
+Sector 0
+ExtraDescr secret doors~
+You tap the inside of the trunk and discover a sliding hatch to the west.
+
+~
+Movemess
+(null)~
+Door 1 0 0 8774 30 30
+~
+door~
+Door 3 259 0 8772 30 30
+~
+sliding hatch~
+Door 4 0 0 8757 30 30
+~
+door~
+End
+
+#8774
+Name Rotting food cache.~
+Descr
+YECH!  It smells awful down this passage.  No wonder, with all that
+rotting food with maggots crawling about it.  
+~
+Flags 4
+ExtraDescr rotten food~
+No, don't even think about getting it, it would probably poison you if
+
+you even came close.  And the smell is terrible too.  
+
+~
+Reset M 8604 25 100
+Movemess
+(null)~
+Door 3 0 0 8773 30 30
+~
+door~
+End
+
+#8775
+Name The rooms beneath the tunnel.~
+Descr
+This must have been a bedroom.  The remains of two beds are against one
+wall.  A small iron brazier is standing next to a table with a cracked
+washing basin on it.  Water is dripping down from the ceiling.  
+~
+Flags 5
+Sector 0
+ExtraDescr brazier~
+It was probably use to heat the room a bit. There's bits of ash left in it,
+
+they look very old.
+
+~
+ExtraDescr bed beds~
+The beds are nothing more than four legs with some wooden planks nailed
+
+to them.  The blankets and matresses are gone.  
+
+~
+Movemess
+(null)~
+Door 0 0 0 8785 30 30
+~
+door~
+Door 1 0 0 8776 30 30
+~
+door~
+End
+
+#8776
+Name The rooms beneath the tunnel.~
+Descr
+This is all that's left of a small kitchen.  A worktop made of stone, an
+old pan with a hole rusted in it, and the remains of a small stove.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8786 30 30
+~
+door~
+Door 3 0 0 8775 30 30
+~
+door~
+End
+
+#8777
+Name The sitting room.~
+Descr
+Bruno has a nice sitting room with several easy chairs, a low table, a
+fireplace and a musicbox.  The windows look out over his farm.  North of
+here is the kitchen and to the east is the hall.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8787 30 30
+~
+door~
+Door 1 0 0 8778 30 30
+~
+door~
+End
+
+#8778
+Name Hallway.~
+Descr
+You're in the hallway of Bruno's farm.  To the east is a sliding door,
+and a doorway leads west to his living rooms.  To the north is his bedroom. 
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8788 30 30
+~
+door~
+Door 1 3 0 8779 30 30
+~
+sliding door~
+Door 2 3 0 8660 25 25
+~
+door~
+Door 3 0 0 8777 30 30
+~
+door~
+End
+
+#8779
+Name The Barn~
+Descr
+This is where the corn and the flour is stored.  There's only a few sacks
+of flour left.  This place is very dusty and smells dry and musty.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 3 3 0 8778 30 30
+~
+sliding door~
+End
+
+#8780
+Name Up a big tree in the dark tree forest.~
+Descr
+From here you can see the Path leading south and north.  To the north is
+a small intersection, with a signpost and what looks like a well.  If you're
+afraid of heights, now might be a good time to go down again.  
+~
+Reset M 8609 2 100
+Reset O 8613 -1 100
+Movemess
+(null)~
+Door 5 0 0 8602 30 30
+~
+door~
+End
+
+#8781
+Name Down the Wishing Well~
+Descr
+You are at the bottom of the Wishing Well.  It's pretty slippery here
+and, this being a well, it's very wet here too.  Maybe it's time to go up
+again.  
+~
+Shd 1
+Sector 8
+Reset O 8603 -5 75
+Movemess
+(null)~
+Door 1 259 0 8782 30 30
+A secret underwater passage!
+~
+east secret door~
+Door 2 259 0 8771 30 30
+A secret passage!
+~
+a passage~
+Door 4 0 0 8603 30 30
+~
+door~
+End
+
+#8782
+Name Down the pool.~
+Descr
+You are at the bottom of a small lake.  Fish look at you suspiciously,
+intruder.  The water around you makes it hard to move.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 1 259 0 8783 30 30
+An underwater passageway.
+~
+east secret door~
+Door 3 259 0 8781 30 30
+A secret way!
+~
+west secret door~
+Door 4 0 0 8607 30 30
+~
+door~
+End
+
+#8783
+Name Down the well of Fryda.~
+Descr
+It's wet here, and slippery and cold.  What are you doing down this well
+anyway?  You could be sitting near a warm fire and share stories with your
+friends.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 1 259 0 8784 30 30
+~
+east secret door~
+Door 3 259 0 8782 30 30
+A secret way underneath the water.
+~
+west secret door~
+Door 4 0 0 8686 30 30
+~
+door~
+End
+
+#8784
+Name Down Bruno's well.~
+Descr
+Bruno doesn't know about the secret passage from his well to the outside,
+or he'd have his well filled up.  It's slippery and cold here, better find
+the exit and get out of here.  
+~
+Shd 1
+Sector 8
+Movemess
+(null)~
+Door 3 259 0 8783 30 30
+A secret door!
+~
+west secret door~
+Door 4 0 0 8670 30 30
+~
+door~
+End
+
+#8785
+Name The rooms beneath the tunnel.~
+Descr
+There are a few iron rungs leading up to a trap door here.  This room was
+probably some kind of shelter, but it hasn't been used lately.  There's some
+broken down furniture on the floor.  
+~
+Flags 5
+Sector 0
+ExtraDescr furniture~
+There's a big table, that has swollen up with water, and an easy chair,
+
+that has it's filling coming out.
+
+A small fireplace is half covered by a chair that has fallen apart.
+
+~
+Movemess
+(null)~
+Door 1 0 0 8786 30 30
+~
+door~
+Door 2 0 0 8775 30 30
+~
+door~
+Door 4 3 0 8716 30 30
+~
+trap door~
+End
+
+#8786
+Name The rooms beneath the tunnel.~
+Descr
+There are several shelves lining the walls here, but there's nothing on
+them.  You briefly wonder what it could have been that was stored here.  
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8776 30 30
+~
+door~
+Door 3 0 0 8785 30 30
+~
+door~
+End
+
+#8787
+Name Kitchen.~
+Descr
+The kitchen has a large table with four chairs.  There's also a stove and
+a worktop.  A pump is used to pump up water from the well.  A few closets
+hold some meager supplies.  You'd expect a big larder full of smoked hams,
+pies and puddings, but there's hardly enough here to feed a rat.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8777 30 30
+~
+door~
+End
+
+#8788
+Name Bedroom.~
+Descr
+A large bed dominates this room.  It's big enough for two people. 
+There's small closets beside the bed, and a wardrobe against the western
+wall.  A washing basin is on a dresser, and a mirror is on the wall.  
+~
+Flags 4
+Movemess
+(null)~
+Door 2 0 0 8778 30 30
+~
+door~
+End
+
+#8789
+Name The pillaged home.~
+Descr
+Someone must have gotten here before you! The tree-hut has been ransacked.
+In a corner lie the remains of a humanoid creature, and there's brown blood
+all over the walls and floor. The furniture has been overturned. Better
+go down and out of here fast, before someone blames you.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 5 0 0 8685 30 30
+~
+door~
+End
+
+#8790
+Name Inside the Dungeon.~
+Descr
+It's cool here, but not uncomfortably cold. Mold grows on the walls.
+This corridor leads south, where the entrance to the dungeon lies,
+and deeper into the dungeon to the east.
+~
+Flags 5
+Sector 0
+Reset M 8626 5 75
+Reset O 8630 -1 100
+Reset O 8630 -5 50
+Movemess
+(null)~
+Door 1 0 0 8791 30 30
+~
+(null)~
+Door 2 0 0 8795 30 30
+~
+(null)~
+End
+
+#8791
+Name Inside the Dungeon.~
+Descr
+There's less mold growing on the walls here.  The corridor leads east and
+west.  Water seeps along the walls, forming a small pool.  
+~
+Flags 5
+Sector 0
+ExtraDescr pool~
+Small larvae swim around in the pool happily. They look like small wurms.
+
+~
+Reset M 8625 10 75
+Reset M 8623 15 25
+Reset O 8630 -5 10
+Movemess
+(null)~
+Door 1 0 0 8792 30 30
+~
+(null)~
+Door 3 0 0 8790 30 30
+~
+(null)~
+End
+
+#8792
+Name A Chamber.~
+Descr
+This chamber has yellowish walls, that are covered by a thin layer of
+slime, making them very shiny and slick. A pedestal is place roughly in
+the center of the room. There's an inscription on it.
+A small hole in the south wall leads to another chamber.
+~
+Flags 5
+Sector 0
+ExtraDescr pedestal inscription~
+The inscription reads: "Hodie Mihi, Cras Tibi."  Underneath that, in a
+
+smaller font:"This be the tomb and final resting place of" 
+
+In relief:"Chagen Clericson" 
+
+And in the smaller font:"Our pal. Let him rest in peace."
+
+~
+Movemess
+(null)~
+Door 1 0 0 8793 30 30
+~
+(null)~
+Door 2 0 0 8797 30 30
+~
+(null)~
+Door 3 0 0 8791 30 30
+~
+(null)~
+End
+
+#8793
+Name Musty Corridor~
+Descr
+This is a wide corridor. Funny, part of the walls are laid bricks.
+There's even the remains of a carpet on the floor. And those flimsey
+rags, they look like the remains of a curtain. A small shrine is 
+behind their remains.
+~
+Flags 5
+Sector 0
+ExtraDescr small shrine~
+The shrine holds to figurines, a male and a female. They grin at you
+
+in a way only statuettes can.
+
+~
+Movemess
+(null)~
+Door 1 0 0 8794 30 30
+~
+(null)~
+Door 3 0 0 8792 30 30
+~
+(null)~
+End
+
+#8794
+Name Large Grotto.~
+Descr
+The walls of this grotto are partly laid brick.  Some of them are still
+plastered, although the plaster has gone yellow and moldy.  
+There's tiles on the floor, but stalagmites have grown on most of them.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 8799 30 30
+~
+(null)~
+Door 3 0 0 8793 30 30
+~
+(null)~
+End
+
+#8795
+Name The Dungeon.~
+Descr
+You are in a dark, dreary dungeon.  Green mold grows from the walls, on
+the ceiling and on the floor.  You can hear the dripping of water, slowly
+trickling down stalagtites, and contributing to the staligmites on the
+floor.  Theres piercers hiding between the stalagtites, and occasionally one
+or two drop down!  From the entrance to the south comes just enough light to
+see by.  
+~
+Flags 134217732
+Sector 0
+Reset O 8630 -5 50
+Movemess
+(null)~
+Door 0 0 0 8790 30 30
+~
+(null)~
+Door 1 0 0 8796 30 30
+~
+(null)~
+Door 2 0 0 8763 30 30
+~
+(null)~
+End
+
+#8796
+Name A small passageway.~
+Descr
+This is a small tunnel, you're almost crawling to be able to pass it.
+To the west it opens up in a large cave, to the east is a small room.
+A sick smell comes from the east though.
+~
+Flags 5
+Sector 0
+Reset O 8630 -5 50
+Movemess
+(null)~
+Door 1 0 0 8797 30 30
+~
+(null)~
+Door 3 0 0 8795 30 30
+~
+(null)~
+End
+
+#8797
+Name Small Chamber.~
+Descr
+You're in a small chamber, holes in the wall lead of to all cardinal
+directions but south. It smells very musty in here, and it makes you
+feel nauseous. Better move on.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 8792 30 30
+~
+(null)~
+Door 1 0 0 8798 30 30
+~
+(null)~
+Door 3 0 0 8796 30 30
+~
+(null)~
+End
+
+#8798
+Name Passage.~
+Descr
+A hole leads west to a small chamber. The other side of the passage opens
+to a bigger cavern. The wall here are covered by a slimy substance, that
+seems to stick when you touch it. Yech.
+~
+Flags 5
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 8799 30 30
+~
+(null)~
+Door 3 0 0 8797 30 30
+~
+(null)~
+End
+
+#8799
+Name Large Grotto.~
+Descr
+This grotto holds the remains of a large building.  There's a broken-down
+wall of large bricks, and part of a rug, now swollen with water and covered
+with yellow mold.  The remains of a throne are in front of a small opening
+to the east.  
+~
+Flags 5
+Sector 0
+Reset M 8624 15 75
+Reset O 236 8 100
+Movemess
+(null)~
+Door 0 0 0 8794 30 30
+~
+(null)~
+Door 1 0 0 8800 30 30
+~
+(null)~
+Door 3 0 0 8798 30 30
+~
+(null)~
+End
+
+#8800
+Name The secret room.~
+Descr
+This is probably where the people who used to live here hid when their
+castle fell. There's bones here, they probably starved in their hiding
+place, or maybe the enemy found them.
+~
+Flags 5
+Sector 0
+Reset O 8631 -5 100
+Movemess
+(null)~
+Door 3 0 0 8799 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

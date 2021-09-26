@@ -1,0 +1,5998 @@
+#AREADATA 
+Name Gnellshar~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m~[0;37m
+SRepop 22
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Horus~
+VNUMs 40801 41000
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#40801
+Name small scorpion~
+Short a small scorpion~
+Long 
+A Small Scorpion is here crawling towards you.
+~
+Descr
+Small, but with a painful bite, this scorpion finds its prey by following
+body heat.  
+~
+AMax 3
+NHeight 0
+ActBits 9
+ActBits3 65536
+Affect_By 552
+Money 3
+Level 3
+MobType 8
+Guard 0
+Spec spec_poison
+ArmorClass -50
+End
+
+#40802
+Name gnome dreamer PRTCT~
+Short a stoned gnome~
+Long 
+A Gnome stands here staring off into space with glazed eyes.
+~
+Descr
+A small gnome stands here, his eyes are glazed as he stares off at the
+surrounding countryside.  Occasionally he takes a pipe from his pocket,
+lights it, and starts smoking.  
+~
+AMax 8
+NHeight 0
+ActBits 1610612769
+ActBits3 4194304
+Affect_By 548
+Alignment 100
+Money 12
+Level 12
+Sex 1
+MobType 3
+Guard 0
+Spec spec_poison
+End
+
+#40803
+Name black fungus~
+Short some black fungus~
+Long 
+a patch of black fungus hangs from the ceiling
+~
+Descr
+A patch of black fungus is here gradually rotting away, while at the same
+time regenerating itself, you wonder what it eats.  
+~
+AMax 9
+NHeight 0
+ActBits 3
+ActBits3 589824
+Affect_By 4194304
+Money 2
+Level 2
+MobType 17
+Guard 0
+End
+
+#40804
+Name good guardian gnome aone~
+Short a gnome guardian~
+Long 
+The Great Gnome Guardian of Gnellshar stands here trying to look mean.
+~
+Descr
+This must be the largest gnome you've ever seen, you wonder if he
+was born this way, or magically made.  He appears to be trying to
+look very mean, but the effect is ruined by the large party hat he
+is wearing upon his head
+~
+AMax 1
+AYeller 2
+AWillhelp 0
+NHeight 0
+ActBits 1744830467
+ActBits3 16384
+ActBits4 8192
+Affect_By 680
+Alignment 500
+Money 60
+Level 60
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+End
+
+#40805
+Name gnome guard aone~
+Short a gnome guard~
+Long 
+A Gnome Guard stands here with a serious look on his face.
+~
+Descr
+This guard looks like he would rather be anywhere other than here, perhaps
+down at Whit's finding himself a young nubile female gnome.
+~
+AMax 3
+AYeller 2
+AWillhelp 1
+NHeight 0
+ActBits 1749024769
+ActBits4 4096
+Affect_By 1073741824
+Alignment 300
+Money 30
+Level 30
+Sex 1
+MobType 3
+Guard 0
+RaceHate 134217728
+End
+
+#40806
+Name gnome citizen PRTCT~
+Short a gnome citizen~
+Long 
+A citizen of Gnellshar is here looking a bit tipsy.
+~
+Descr
+This man looks like he's having the time of his life, as you look at him
+he holds up his drink and says "CHEERS"
+~
+AMax 10
+NHeight 0
+ActBits 1073741829
+Alignment 100
+Money 10
+Level 10
+Sex 1
+MobType 3
+Guard 0
+RaceHate 134217728
+End
+
+#40807
+Name gnome woman PRTCT~
+Short a gnome woman~
+Long 
+A gnome woman stands here frowning upon everyone's activities.
+~
+Descr
+This has to be the unhappiest looking woman you've ever seen, as you 
+look at her she walks around frowning and yelling at every gnome in 
+the room.
+~
+AMax 10
+AYeller 2
+AWillhelp 0
+NHeight 0
+ActBits -1073741819
+ActBits3 4194304
+Alignment 150
+Money 15
+Level 15
+Sex 2
+MobType 3
+Guard 0
+Spec spec_janitor
+RaceHate 134217728
+End
+
+#40808
+Name drunk gnome ~
+Short a drunken gnome~
+Long 
+a very drunk gnome stumbles around here.
+~
+Descr
+This gnome looks like he's liable to fall over any second, you better watch out.
+~
+AMax 9
+NHeight 0
+ActBits 1073741829
+ActBits3 4194304
+Affect_By 264
+Alignment 20
+Money 5
+Level 5
+Sex 1
+MobType 3
+Guard 0
+Spec spec_thief
+RaceHate 134217728
+End
+
+#40809
+Name gnome slut ~
+Short a gnome slut~
+Long 
+a gnomish slut stands here showing off her wares
+~
+Descr
+You look over the slut, pondering on whether to try her out for the night
+or not.  You're not terribly impressed by her looks, but hey, when you're
+desperate you can't be picky.  
+~
+AMax 8
+NHeight 0
+ActBits 1073741825
+ActBits3 2359296
+Affect_By 40
+Money 20
+Level 20
+Sex 2
+MobType 3
+Guard 0
+Spec spec_janitor
+RaceHate 134217728
+End
+
+#40810
+Name ghip gnome aone~
+Short Ghip~
+Long 
+a small gnome stands behind the counter looking you over
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1077936131
+ActBits3 524288
+Affect_By 1073741824
+Alignment 300
+Money 150
+Level 150
+Sex 1
+MobType 3
+Guard 0
+Shop    0   8  10   2  21 120 40 1 24
+Shopd2 20
+Shopd3 2
+End
+
+#40811
+Name ghap gnome aone~
+Short Ghap~
+Long 
+A fat gnome is here cooking away.
+~
+Descr
+This fat happy looking gnome is walking from pot to pot adding various
+disgusting looking things to them.  You wonder to yourself "Should I really
+eat any of this stuff?"  
+~
+AMax 1
+NHeight 0
+ActBits 1077936131
+Alignment 300
+Money 90
+Level 90
+Sex 1
+MobType 3
+Guard 0
+Shop    0  19  17  13   0 100 1 1 24
+Shopd2 5
+Shopd3 4
+ShopCr 40854
+ShopCS Ghap pours a glob of nasty looking stuff into a bowl.~
+RaceHate 134217728
+End
+
+#40812
+Name ghop gnome AONE~
+Short Ghop~
+Long 
+Ghop stands here playing with a small pointy object.
+~
+Descr
+Ghop is a very burly man, and he seems to love his weapons.
+~
+AMax 1
+NHeight 0
+ActBits 1078984707
+Alignment 500
+Money 110
+Level 110
+Sex 1
+MobType 3
+Guard 0
+Shop    0   5   0   0   0 120 40 0 23
+Shopd2 5
+Shopd3 4
+RaceHate 134217728
+End
+
+#40813
+Name whit gnome~
+Short Whit~
+Long 
+A large mean looking gnome is here making sure his home stays peaceful.
+~
+Descr
+Whit doesn't look like such a nice guy, despite the party going on around
+him.  Perhaps alot of fights break out here, he looks as if he could stop
+one pretty quickly though.  
+~
+AMax 1
+NHeight 0
+ActBits -2113929213
+Affect_By 1073742504
+Alignment -100
+Money 50
+Level 50
+Sex 1
+MobType 3
+Guard 0
+RaceHate 128
+End
+
+#40814
+Name gnome guard aone~
+Short a gnome guard~
+Long 
+A gnome guard sits here playing cards.
+~
+Descr
+This gnome looks like he's having the time of his life playing cards
+(instead of guarding like he should be).  You should probably leave him
+alone since interrupting him might make him mad.  
+~
+AMax 3
+NHeight 0
+ActBits 1212153859
+ActBits3 1
+Affect_By 8
+Alignment 200
+Money 30
+Level 30
+Sex 1
+MobType 3
+Guard 40860
+End
+
+#40815
+Name gnome president whittaker aone PRTCT~
+Short the president~
+Long 
+Whittaker, President of Gnellshar is here.
+~
+Descr
+You see a smartly dressed gnome who looks as if he holds enourmous power.
+Although he seems a bit tipsy also, he seems more in control of himself than
+the rest of the gnomes you've seen.  Perhaps that is why he holds the office
+he does.  
+~
+AMax 2
+NHeight 0
+ActBits -1073610749
+Affect_By 33416
+Alignment 600
+Money 85
+Level 85
+Sex 1
+MobType 3
+Guard 0
+End
+
+#40816
+Name bodyguard guard gnome aone~
+Short a presidential bodyguard~
+Long 
+One of the president's bodyguards is here looking mean.
+~
+Descr
+This loyal gnome spends her entire life protecting the president, you
+don't envy her for her job.  
+~
+AMax 2
+NHeight 0
+ActBits 1212153859
+Affect_By 520
+Alignment 500
+Money 35
+Level 35
+Sex 2
+MobType 3
+Guard 0
+End
+
+#40817
+Name gnome warrior good aone prtct~
+Short a gnome warrior~
+Long 
+A warrior gnome is here hunting for Merkitz.
+~
+Descr
+You feel sorry for this noble gnome, for he has dedicated his life to
+exterminating the Merkitz and will surely die before his time.  
+~
+AMax 22
+NHeight 0
+ActBits 1207959553
+Affect_By 33554952
+Alignment 200
+Money 12
+Level 12
+Sex 1
+MobType 3
+Guard 0
+Spec spec_warrior
+End
+
+#40818
+Name merkitz warrior ATWO BEAST~
+Short a merkitz warrior~
+Long 
+A merkitz warrior is here dealing death.
+~
+Descr
+You are disgusted by what you see, looking like a cross between a spider
+and a roach, this six legged monstrosity deserves to die.  
+~
+AMax 25
+NHeight 0
+ActBits 268435465
+ActBits3 73728
+Affect_By 33554944
+Alignment -200
+Money 11
+Level 11
+MobType 8
+Guard 0
+Spec spec_poison
+RaceHate 512
+End
+
+#40819
+Name gnome elite warrior aeone good~
+Short a gnome warrior~
+Long 
+An Elite gnome warrior scours the area looking for Merkitz.
+~
+Descr
+This gnome has seen a few battles, and you think he may survive a little
+longer against the never-ending waves of Merkitz.  
+~
+AMax 1
+NHeight 0
+ActBits 1212153857
+Affect_By 520
+Alignment 250
+Money 16
+Level 16
+MobType 3
+Guard 0
+Spec spec_warrior
+End
+
+#40820
+Name gnome watchman aone~
+Short a gnome watchman~
+Long 
+A gnome watchman is here looking over the many battles below.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1212153859
+Affect_By 520
+Alignment 250
+Money 30
+Level 30
+MobType 3
+Guard 0
+End
+
+#40821
+Name otyugah creature filthy~
+Short an otyugah~
+Long 
+A huge filthy creature is here apparently enjoying the waste.
+~
+Descr
+The stench of this creature alone is enough to knock you out.  You draw
+back in disgust as you watch it take a pile of filth and place it inside one
+of it's large toothy maws.  
+~
+AMax 1
+NHeight 0
+ActBits 536870923
+ActBits3 524288
+Affect_By 138412584
+AffectTWO 2
+Alignment -300
+Money 60
+Level 60
+MobType 5
+Guard 0
+Spec spec_poison
+End
+
+#40822
+Name merkitz worker beast evil~
+Short a merkitz worker~
+Long 
+A Merkitz worker is here gathering up bits of food.
+~
+Descr
+This merkitz apparently spends its days gathering food to feed the baby
+merkitz.  He wasn't bred for combat, but can still hold his own.  
+~
+AMax 15
+NHeight 0
+ActBits 13
+Affect_By 512
+Alignment -200
+Money 7
+Level 7
+MobType 8
+Guard 0
+End
+
+#40823
+Name merkitz guard evil beast ~
+Short a merkitz guard~
+Long 
+A Merkitz guard is here making sure all goes well for his race.
+~
+Descr
+This guard is amazingly ugly and disgusting, with six legs and a
+roach-like back, he is fearsome to behold.  
+~
+AMax 5
+NHeight 0
+ActBits 9
+Affect_By 520
+Alignment -200
+Money 15
+Level 15
+MobType 8
+Guard 0
+Spec spec_warrior
+End
+
+#40824
+Name merkitz guard beast evil~
+Short a merkitz guard~
+Long 
+A Merkitz guard is here masking sure noone passes.
+~
+Descr
+Vemon drips from the evil looking jaws of this merkitz.  It's foul breath
+and evil look make you think twice about continuing this attack.  
+~
+AMax 2
+NHeight 0
+ActBits 11
+ActBits3 2
+Affect_By 520
+Alignment -300
+Money 25
+Level 25
+MobType 8
+Guard 2
+Spec spec_poison
+End
+
+#40825
+Name merkitz elite warrior evil beast~
+Short an Elite Merkitz guard~
+Long 
+An Elite Merkitz Warrior is here guarding the Queen's lair.
+~
+Descr
+You quiver in fear at this six-armed monstrosity.  While you try you best
+to avoid it's blows, you decide you'd never want to run into this thing when
+you were undressed.  
+~
+AMax 2
+NHeight 0
+ActBits 11
+ActBits3 2
+Affect_By 520
+Alignment -400
+Money 30
+Level 30
+MobType 8
+Guard 2
+Spec spec_warrior
+End
+
+#40826
+Name merkitz hatchling beast evil~
+Short a merkitz hatchling~
+Long 
+A Merkitz Hatchling is here scrambling around looking for food.
+~
+Descr
+A tiny version of the merkitz you've seen so far, six small legs and
+large claws and teeth.  
+~
+AMax 12
+NHeight 0
+ActBits 13
+Affect_By 520
+Alignment -50
+Money 2
+Level 2
+MobType 8
+Guard 0
+End
+
+#40827
+Name merkitz child evil beast~
+Short a merkitz child~
+Long 
+A merkitz child is wandering the area hunting for something to eat.
+~
+Descr
+This small merkitz looks very very hungry, you hope you don't make it's
+next meal.  
+~
+AMax 14
+NHeight 0
+ActBits 5
+Affect_By 520
+Alignment -100
+Money 5
+Level 5
+MobType 8
+Guard 0
+End
+
+#40828
+Name guard guardian merkitz evil beast AONE~
+Short a queen's guardian~
+Long 
+A merkitz is here guarding the Queen from harm.
+~
+Descr
+This huge merkitz has but one purpose in life, to protect the queen.  
+~
+AMax 2
+NHeight 0
+ActBits 4194305
+Affect_By 66088
+AffectTWO 2
+Alignment -400
+Money 90
+Level 90
+MobType 8
+Guard 0
+Spec spec_breath_gas
+End
+
+#40829
+Name queen merkitz evil beast PRTCT~
+Short the merkitz queen~
+Long 
+The Fearsome Merkitz Queen is here awaiting her latest dinner.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 134217731
+Affect_By 680
+AffectTWO 2
+Alignment -900
+Money 195
+Level 195
+Sex 2
+MobType 8
+Guard 0
+End
+
+#40830
+Name gshar gnome good guardian ghost holy~
+Short the ghost of Gshar~
+Long 
+Gshar, Holy Guardian of Gnellshar is here protecting the shrine.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 387
+ActBits3 1064960
+Affect_By 1074266634
+Alignment 1000
+Money 90
+Level 90
+Sex 1
+MobType 21
+Guard 0
+RaceHate 134217728
+End
+
+#40831
+Name gnome good prisoner~
+Short a gnome prisoner~
+Long 
+A gnome prisoner is here being held until feeding time.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1073741825
+ActBits3 16384
+Affect_By 512
+Alignment 200
+Money 5
+Level 5
+Sex 1
+MobType 3
+Guard 0
+End
+
+#40832
+Name Rock creature ~
+Short a rock creature~
+Long 
+A large creature made of rock is here protecting its territory.
+~
+Descr
+This creature looks like nothing more than a large rock, except for the
+menacing looking armlike protrusions.  
+~
+AMax 10
+NHeight 0
+ActBits -2147483621
+ActBits3 4194304
+Affect_By 8389120
+Money 20
+Level 20
+MobType 14
+Guard 0
+ArmorClass -50
+End
+
+#40833
+Name rock king creature huge~
+Short a huge rock creature~
+Long 
+A huge rock creature is here guarding it's territory
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits -2147483637
+Affect_By 512
+Money 50
+Level 50
+MobType 15
+Guard 0
+End
+
+#40834
+Name traveller man lonely~
+Short a lonely traveller~
+Long 
+A lonely traveller is here exploring the area
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1073741825
+ActBits3 131072
+Affect_By 512
+Alignment 100
+Money 13
+Level 13
+Sex 1
+MobType 0
+Guard 0
+Spec spec_janitor
+End
+
+#40835
+Name mule~
+Short a blue-grey mule~
+Long 
+A bluish-grey mule is here chomping on what food he can find.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 8193
+Money 13
+Level 13
+MobType 18
+Guard 0
+RaceHate 134217728
+End
+
+#40872
+Name no name~
+Short (no short description)~
+Long 
+(no long description)~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#40881
+Name no name~
+Short (no short description)~
+Long 
+(no long description)~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#40903
+Name no name~
+Short (no short description)~
+Long 
+(no long description)~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#40905
+Name bob~
+Short Bob, the strange wanderer~
+Long 
+Bob, a strange old hermit of amazing powers smiles at you.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 3
+Money 200
+Level 200
+Sex 1
+Guard 0
+Spec spec_warrior
+ArmorClass 400
+End
+
+#40906
+Name no name~
+Short (no short description)~
+Long 
+(no long description)~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#40999
+Name blank~
+Short blank~
+Long 
+blank
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Affect_By 8193
+Alignment -16959
+Money 1
+Level 1
+MobType 15
+Guard 0
+Spec spec_breath_any
+End
+
+#0
+
+
+
+#OBJDATA
+#40801
+Name box paperbox metal~
+Short a paperbox~
+Descr
+A Paperbox stands against the north wall.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 0
+Weight 200
+Cost 0
+End
+
+#40802
+Name paper~
+Short a newspaper~
+Descr
+a newspaper is here fluttering in the wind.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 20 20 0 0
+Weight 1
+Cost 5
+ExtraDescr paper~
+GNELLSHAR TIMES
+
+
+                         ---------------
+
+
+                         Vol 24 Issue 17
+
+
+                         ---------------
+
+
+ 
+
+
+                          WAR CONTINUES
+
+
+     In our eternal struggle against the infernal Merkitz, we have made little
+
+
+progress, even now the war is at its usual standstill.  Casualties this
+
+
+month have been minimal, we have only lost 14 warriors.  Unfortunately they
+
+
+seem to breed faster than we can kill them.  Rumor has it that there is a
+
+
+Queen Merkitz deep within the pit, we hope to one day find and destroy her
+
+
+but our luck so far has been bad.
+
+
+ 
+
+
+ 
+
+
+                        PARTY PROBLEMS
+
+
+  The President has asked that all gnomes PLEASE do not smoke gnelk petals
+
+
+before a battle, it has been statistically shown that it slows down combat
+
+
+reflexes and could possibly cause your death.
+
+
+ 
+
+
+                        TOWN TIDBITS
+
+
+Whit's has shown a dramatic increase in his sales this month, we attribute
+
+
+this to hard times on the front, and many grieving widows.
+
+
+ 
+
+
+The President was found dallying around with a pretty young gnome..
+
+
+WOO HOO, he still has a little life in him after all.
+
+
+ 
+
+
+      this issue has been brought to you courtesy of Whargo.
+
+
+ 
+
+
+P.S. don't feed the guardian.
+
+
+~
+End
+
+#40803
+Name key~
+Short a small silver key~
+Descr
+someone must have accidentally left their key here
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 15
+End
+
+#40804
+Name ladder~
+Short a ladder~
+Descr
+a long ladder leads down into the pit.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 40848 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40805
+Name Waterfall~
+Short a waterfall~
+Descr
+A Waterfall is here feeding the raging river
+[0;36m~
+Type 12
+Extra 8388672
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40932 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr waterfall~
+This is a very beautiful waterfall, you think you can make out a
+
+
+passageway behind it.  
+
+
+~
+End
+
+#40806
+Name hole east ~
+Short a hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40952 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40807
+Name hole north~
+Short a large hole in the north wall~
+Descr
+A large hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40953 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40808
+Name tiny hole south~
+Short a tiny hole in the south wall~
+Descr
+A tiny hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40955 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40809
+Name small hole west~
+Short a small hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40946 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40810
+Name hole north~
+Short a small hole in the north wall~
+Descr
+A small hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40954 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40811
+Name hole west~
+Short a small hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40953 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40812
+Name tiny hole west~
+Short a tiny hole in the west wall~
+Descr
+A tiny hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40955 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40813
+Name small hole east~
+Short a small hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40946 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40814
+Name hole west small~
+Short a small hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40954 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40815
+Name tiny hole north~
+Short a tiny hole in the north wall~
+Descr
+A tiny hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40957 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40816
+Name tiny hole east~
+Short a tiny hole in the east wall~
+Descr
+A tiny hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40956 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40817
+Name small hole west~
+Short a small hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40948 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40818
+Name small hole east~
+Short a small hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40947 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40819
+Name small hole north~
+Short a small hole in the north wall~
+Descr
+A small hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40949 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40820
+Name hole south small~
+Short a small hole in the south wall~
+Descr
+A small hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40948 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40821
+Name small hole west~
+Short a small hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40950 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40822
+Name small hole east~
+Short a small hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40949 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40823
+Name smelly hole floor down~
+Short a smelly hole in the floor~
+Descr
+A small smelly hole is in the center of the floor.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40951 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40824
+Name small hole ceiling up u~
+Short a small hole in the ceiling~
+Descr
+A small hole is in the ceiling here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40950 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40825
+Name large hole north~
+Short a large hole in the north wall~
+Descr
+A large hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40958 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40826
+Name small hole east~
+Short a small hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40954 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40827
+Name large hole south~
+Short a large hole in the south wall~
+Descr
+A large hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40946 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40828
+Name large hole south~
+Short a large hole in the south wall~
+Descr
+A large hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40953 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40829
+Name large hole north~
+Short a large hole in the north wall~
+Descr
+A large hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40959 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40830
+Name large hole east~
+Short a large hole in the east wall~
+Descr
+A large hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40959 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40831
+Name large hole south~
+Short a large hole in the south wall~
+Descr
+A large hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40961 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40832
+Name large hole south~
+Short a large hole in the south wall~
+Descr
+A large hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40958 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40833
+Name large hole west~
+Short a large hole in the west wall~
+Descr
+A large hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40960 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40834
+Name large hole north~
+Short a large hole in the north wall~
+Descr
+A large hole is in the north wall
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40960 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40835
+Name small hole south~
+Short a small hole in the south wall~
+Descr
+A small hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40962 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40836
+Name large hole floor down d~
+Short a large hole in the floor~
+Descr
+A large hole is in the floor.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40963 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40837
+Name small hole north~
+Short a small hole in the north wall~
+Descr
+A small hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40961 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40838
+Name large hole ceiling up u~
+Short a large hole in the ceiling~
+Descr
+A large hole is in the ceiling.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40961 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40839
+Name large hole north~
+Short a large hole in the north wall~
+Descr
+A large hole is in the north wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40964 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40840
+Name large hole south~
+Short a large hole in the south wall~
+Descr
+A large hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40963 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40841
+Name huge hole floor~
+Short a huge hole in the floor~
+Descr
+A huge hole takes up most of the floor.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40965 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40842
+Name huge hole ceiling~
+Short a huge hole in the ceiling~
+Descr
+A huge hole takes up most of the ceiling.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40964 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40843
+Name vial mushroom small~
+Short a small vial~
+Descr
+A small glass vial shaped like a mushroom lying here.
+[0;36m~
+Type 10
+Extra 64
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 1 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 490
+ExtraDescr vial~
+You see a small glass vial shaped like a mushroom.
+
+
+~
+End
+
+#40844
+Name philter~
+Short a small philter~
+Descr
+A small glass philter is lying here.
+[0;36m~
+Type 10
+Extra 64
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 1 -1 -1 0 0 0 0 0 0
+Weight 1
+Cost 850
+End
+
+#40845
+Name scroll blue~
+Short a thin blue scroll~
+Descr
+A thin blue scroll flutters around on the ground.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 6584
+End
+
+#40846
+Name waterlogged scroll~
+Short a waterlogged scroll~
+Descr
+A drenched scroll is here dripping water all over the place.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 33 -1 -1 0 0 0 0 0 0
+Weight 2
+Cost 1000
+End
+
+#40847
+Name gem gnomish tiny red~
+Short a gnomish [31mred [0mgem~
+Descr
+A tiny [31mred [0mgem lies here waiting to be picked up.
+[0;36m~
+Type 21
+Extra 65
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 30 30 19 0 0 0 0 0 0
+Weight 1
+Cost 750
+End
+
+#40848
+Name cracked gem rainbow small~
+Short a small cracked rainbow gem~
+Descr
+A small damaged rainbow gem is lying here.
+[0;36m~
+Type 21
+Extra 64
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 11 30 30 20 0 0 0 0 0 0
+Weight 2
+Cost 7011
+End
+
+#40849
+Name dark glasses sunglasses pair~
+Short a pair of [1m[30mdark [0msunglasses~
+LEffect 1
+Descr
+A pair of sunglasses have been left here.
+[0;36m~
+Type 8
+Extra 4112
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 120
+End
+
+#40850
+Name spikes heel pair set~
+Short a set of heel spikes~
+Descr
+Two long spikes with leather straps attached are lying here.
+[0;36m~
+Type 8
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 3
+Cost 1000
+Affect 22 3 1 0 0
+End
+
+#40851
+Name glob goo~
+Short a glob of goo~
+Descr
+A glob of unidentifiable goo has been left on the floor.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1
+End
+
+#40852
+Name fried merkitz legs~
+Short a plate of fried Merkitz legs~
+Descr
+A hot steamy plate of fried Merkitz legs has been left here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 14
+End
+
+#40853
+Name poached egg merkitz~
+Short a poached Merkitz egg~
+Descr
+Someone has left a poached egg in the floor.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 45
+End
+
+#40854
+Name gumbo merkitz bowl~
+Short a bowl of Merkitz gumbo~
+Descr
+A large bowl of extremely disgusting looking gumbo is here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 49 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 95
+End
+
+#40855
+Name snuff brandy~
+Short a snuff of gnomish brandy~
+Descr
+Someone has left their brandy here.
+[0;36m~
+Type 17
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 4 0 0 0 0 0 0 0
+Weight 0
+Cost 5
+End
+
+#40856
+Name innards jug merkitz fermented~
+Short a jug of fermented merkitz innards~
+Descr
+A medium sized jug is lying here.
+[0;36m~
+Type 17
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 6 0 0 0 0 0 0 0
+Weight 1
+Cost 200
+End
+
+#40857
+Name key whit's whit~
+Short Whit's key~
+Descr
+a key is lying here discarded
+[0;36m~
+Type 18
+Extra 65536
+Wear 1
+Timer 100
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#40858
+Name gnelk petal~
+Short a gnelk petal~
+Descr
+a petal from a flower you don't recognize is lying here.
+[0;36m~
+Type 26
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 15 1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 165
+Affect 17 -2 1 0 0
+End
+
+#40859
+Name large crate~
+Short a large crate~
+Descr
+A large crate marked "Petals" is here.
+[0;36m~
+Type 15
+Extra 16
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 15 40857 0 0 0 0 0 0 0
+Weight 100
+Cost 0
+End
+
+#40860
+Name deck cards gnomish~
+Short a deck of gnomish cards~
+Descr
+A deck of cards are lying here.
+[0;36m~
+Type 8
+Extra 8388608
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 200
+End
+
+#40861
+Name table card~
+Short a card table~
+Descr
+[33mA small wooden card table sits in the center of the room.[0m
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40862
+Name urinal toilet~
+Short a gnome toilet~
+Descr
+A gnome sized toilet stands against the south wall.
+[0;36m~
+Type 17
+Extra 8388608
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 99 99 0 99 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40863
+Name light spotlight large~
+Short a large spotlight~
+Descr
+A large spotlight is here shining on the various battles below.
+[0;36m~
+Type 1
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 1 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40864
+Name ladder ~
+Short a ladder~
+Descr
+A ladder ends here at a ledge along the wall of the pit.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 40853 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40865
+Name gnomish party hat~
+Short a gnomish party hat~
+Descr
+A brightly colored party hat has been left here.
+[0;36m~
+Type 9
+Extra 8388609
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 15 15 0 0
+Weight 4
+Cost 900
+Affect 20 -5 1 0 0
+End
+
+#40866
+Name pool putrid~
+Short a putrid pool~
+Descr
+A putrid pool of dirty water lies in the center of the room.
+[0;36m~
+Type 25
+Extra 16
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40867
+Name list of wimpy gnome eq~
+Short list of wimpy gnome eq~
+Descr
+224 217 205 230 40868
+[0;36m~
+Type 28
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40868
+Name earring webbed~
+Short a webbed earring~
+Descr
+An earring made from some sort of webbing is lying here.
+[0;36m~
+Type 9
+Extra 8391680
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 50 50 0 0
+Weight 0
+Cost 17
+Affect 17 -1 1 0 0
+End
+
+#40869
+Name list of guard eq~
+Short a list of gnome guard EQ~
+Descr
+212 236 239 203 40868
+[0;36m~
+Type 28
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 6 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40870
+Name earring webbed~
+Short a webbed earring~
+Descr
+An earring made of strong thick webbing is here.
+[0;36m~
+Type 9
+Extra 8391745
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 2 2 0 0
+Weight 2
+Cost 8473
+Affect 13 5 1 0 0
+Affect 14 6 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#40871
+Name rapier sword thin~
+Short a long sharp rapier~
+Descr
+A long thin sharp looking sword lies here.
+[0;36m~
+Type 5
+Extra 8650754
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 1 0 0 0 1 16 0
+Weight 2
+Cost 0
+End
+
+#40872
+Name robes gshar ghostly robe~
+Short Gshar's [1m[35mghostly robes~
+Descr
+A ghostly robe is here floating in the air.
+[0;36m~
+Type 9
+Extra 8388641
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 0 0 0 0
+Weight 2
+Cost 47000
+Affect 20 -4 1 0 0
+End
+
+#40873
+Name shell merkitz armor~
+Short a merkitz shell~
+Descr
+What looks to be the shell of some type of insect is here.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 75 75 0 0
+Weight 8
+Cost 800
+End
+
+#40874
+Name merkitz headplate helm helmet~
+Short a merkitz headplate~
+Descr
+An unusual shaped helmet is here.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 75 75 0 0
+Weight 4
+Cost 570
+End
+
+#40875
+Name merkitz pincer~
+Short a merkitz pincer~
+Descr
+The pincer of some kind of insect has been left here
+[0;36m~
+Type 5
+Extra 4194304
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 30 0 5 0 0 0 3 4 0
+Weight 4
+Cost 2400
+Affect 18 2 1 0 0
+End
+
+#40876
+Name merkitz faceplate face plate~
+Short a merkitz faceplate~
+Descr
+The insectile faceplate of a merkitz is here.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 50 50 0 0
+Weight 2
+Cost 600
+End
+
+#40877
+Name merkitz egg food~
+Short a merkitz egg~
+Descr
+The egg of a merkitz is here.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 10 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 200
+End
+
+#40878
+Name strand webbing web ~
+Short a strand of webbing~
+Descr
+A strand of webbing is floating in the air here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 4 0 0 0 3 3 0
+Weight 0
+Cost 315
+End
+
+#40879
+Name web webbing strand strong~
+Short a strong strand of webbing~
+Descr
+A strong stand of webbing is lying on the ground here.
+[0;36m~
+Type 5
+Extra 1048578
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 4 0 0 0 4 4 0
+Weight 1
+Cost 2700
+Affect 19 1 1 0 0
+End
+
+#40880
+Name list of worker stuff~
+Short a list of merkitz worker stuff~
+Descr
+40877 40878 40874 40877 40870
+[0;36m~
+Type 28
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40881
+Name merkitz guard list~
+Short merkitz guard list~
+Descr
+40873 40874 40875 40876 40878
+[0;36m~
+Type 28
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40882
+Name pincer queen merkitz~
+Short [1m[33mPincer [0mof the [33mMerkitz Queen~
+Descr
+A long sharp looking pincer is lying here.
+[0;36m~
+Type 5
+Extra 537002066
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 35 0 9 0 0 0 3 6 0
+Weight 1
+Cost 48000
+Affect 19 1 1 0 0
+Affect 18 2 1 0 0
+End
+
+#40908
+Name hole west~
+Short a hole in the west wall~
+Descr
+A small hole is in the west wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40947 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40912
+Name small hole south~
+Short a small hole in the south wall~
+Descr
+A small hole is in the south wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40952 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40913
+Name small hole east~
+Short a small hole in the east wall~
+Descr
+A small hole is in the east wall.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 40955 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40999
+Name armor falcon sexy~
+Short [1m[35mFalcon's [37mHoly Armor[0m~
+Descr
+A suit of armor is lying here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 0 10 15 30 30 25 10
+Weight 4
+Cost 45000
+Affect 26 -3 1 0 0
+Affect 19 -1 1 0 0
+Affect 27 5 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#40801
+Name Path into the Mountain~
+Descr
+As you suspected the road leads into a large cave in the side of the
+mountain, it looks to be well used, and you don't feel that there is any
+danger to be found.  In fact there are many fairly fresh wagon tracks
+leading into the cave.  To your west the road continues back towards the
+northern road and Gnarnoc.  
+~
+Reset M 40801 5 100
+Door 1 0 0 40802 30 30
+~
+door~
+Door 3 0 0 56258 0 0
+~
+~
+End
+
+#40802
+Name Path under the Mountain~
+Descr
+The road narrows a bit as it leads further into the mountain, there are
+torches placed at regular intervals along the walls.  About 20 feet above
+you, you can make out the ceiling.  It must have taken someone years to dig
+out this tunnel and you wonder at its purpose.  
+~
+Sector 0
+Reset M 40835 3 100
+Reset M 40834 3 100
+Door 1 0 0 40803 30 30
+~
+door~
+Door 3 0 0 40801 30 30
+~
+door~
+End
+
+#40803
+Name Path under the Mountain~
+Descr
+You continue along the road, wondering exacly how long it is, and where
+it leads.  Far to your west you can barely make out a light which must be
+the exit.  While to your east the tunnel seems to go on endlessly.  You can
+hear the faint sounds of what sounds to be civilization from the east.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40804 30 30
+~
+door~
+Door 3 0 0 40802 30 30
+~
+door~
+End
+
+#40804
+Name Path under the Mountain~
+Descr
+You continue along the road, wondering exacly how long it is, and where
+it leads.  Far to your west you can barely make out a light which must be
+the exit.  While to your east the tunnel seems to go on endlessly.  You can
+hear the faint sounds of what sounds to be civilization from the east.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40805 30 30
+~
+door~
+Door 3 0 0 40803 30 30
+~
+door~
+End
+
+#40805
+Name Path under the Mountain~
+Descr
+You continue along the road, wondering exacly how long it is, and where
+it leads.  Far to your west you can barely make out a light which must be
+the exit.  While to your east the tunnel seems to go on endlessly.  You can
+hear the faint sounds of what sounds to be civilization from the east.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40806 30 30
+~
+door~
+Door 3 0 0 40804 30 30
+~
+door~
+End
+
+#40806
+Name Crossroads under the Mountain~
+Descr
+Here the tunnel splits up, continuing to the east the road continues on
+its way.  To the north you can see nothing but blackness, while to the south
+you can hear the sounds of civilization, you wonder who would live inside of
+a mountain.  
+~
+Flags 3
+Sector 0
+Reset M 40801 5 100
+Reset M 40803 100 2
+Door 0 0 0 40817 30 30
+~
+door~
+Door 1 0 0 40807 30 30
+~
+door~
+Door 2 0 0 40822 30 30
+~
+door~
+Door 3 0 0 40805 30 30
+~
+door~
+End
+
+#40807
+Name Path under the Mountain~
+Descr
+The road seems to deteriorate a bit here, as if it hasn't been used as
+much.  You feel like you're the only person in the area, the sounds of
+civilization are very faint to the west, while to the east you can hear no
+sounds at all.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40808 30 30
+~
+door~
+Door 3 0 0 40806 30 30
+~
+door~
+End
+
+#40808
+Name Path under the Mountain~
+Descr
+You feel as if you're the only living being for miles..  The road is
+beginning to get into a very bad shape, with rocks strewn everywhere, it
+looks as if you're the first person to travel this way in years.  Far to the
+east you can make out a light, perhaps the tunnel does have an end.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40809 30 30
+~
+door~
+Door 3 0 0 40807 30 30
+~
+door~
+End
+
+#40809
+Name Path under the Mountain~
+Descr
+You start to stumble as the road gets steadily worse, you can see a light
+to the east, and nothing at all to the west.  The road also starts to get
+narrower the farther west it goes.  
+~
+Sector 0
+Reset M 40835 3 100
+Reset M 40834 3 100
+Reset M 40803 100 2
+Door 1 0 0 40810 30 30
+~
+door~
+Door 3 0 0 40808 30 30
+~
+door~
+End
+
+#40810
+Name Path under the Mountain~
+Descr
+You start to stumble as the road gets steadily worse, you can see a light
+to the east, and nothing at all to the west.  The road also starts to get
+narrower the farther west it goes.  
+~
+Sector 0
+Reset M 40803 100 2
+Door 1 0 0 40811 30 30
+~
+door~
+Door 3 0 0 40809 30 30
+~
+door~
+End
+
+#40811
+Name Path into the Mountain~
+Descr
+The tunnel opens up onto a large rock ledge on the side of the mountain,
+to your east you can see twin towers on the edge of the ledge, you wonder
+what in the world two towers are doing on the side of a mountain.  To your
+west the road leads into the mountain.  
+~
+Flags 134217732
+Sector 2
+Door 1 0 0 40812 30 30
+~
+door~
+Door 3 0 0 40810 30 30
+~
+door~
+End
+
+#40812
+Name Mountainside Guard Post~
+Descr
+You stand on a mountain ledge between the two guard towers.  You can now
+see why they stand here, apparently there used to be a rope bridge
+connecting this ledge with a matching ledge on a mountain across the chasm. 
+To your north and south stand the guard towers, to your west the road leads
+back into the mountain.  To your east the only way to go is straight down
+about 3,000 feet.  
+~
+Flags 4
+Sector 2
+Door 0 1 0 40813 30 30
+~
+crumbling door~
+Door 2 3 0 40814 30 30
+~
+crumbling door~
+Door 3 0 0 40811 30 30
+~
+door~
+End
+
+#40813
+Name Northern Guard Tower~
+Descr
+You stand in the northern guard tower, it looks like this place hasn't
+been used in hundreds of years, very little remains of the furniture that
+used to decorate this room.  On the back wall of the room is a ladder that
+must lead to the roof, suprisingly it has survived years of disuse.  
+~
+Flags 5
+Sector 0
+Door 2 1 0 40812 30 30
+~
+crumbling door~
+Door 4 0 0 40815 30 30
+~
+door~
+End
+
+#40814
+Name Southern Guard Tower~
+Descr
+You stand in the southern guard tower, it looks like this place hasn't
+been used in hundreds of years, very little remains of the furniture that
+used to decorate this room.  On the back wall of the room is a ladder that
+must lead to the roof, suprisingly it has survived years of disuse.  In the
+corner of the room is what appears to be a nest of some sort, you wonder
+what has made its home here.  
+~
+Flags 5
+Sector 0
+Reset M 40801 5 100
+Door 0 3 0 40812 30 30
+~
+crumbling door~
+Door 4 0 0 40816 30 30
+~
+door~
+End
+
+#40815
+Name Roof of Northern Tower~
+Descr
+You stand upon the roof of the northern tower, you can see for miles
+around you, unfortunately there isn't much to see, to your west is the side
+of the mountain, and to your east there stands a much smaller mountain.  To
+the north and south the range continues.  Far below you you can see hundreds
+of trees which have flourished in the valley formed between these two
+mountains, but you can see no way to reach it.  
+~
+Flags 4
+Sector 2
+Reset M 40802 10 100
+Reset O 40858 -1 100
+Door 5 0 0 40813 30 30
+~
+door~
+End
+
+#40816
+Name Roof of Southern Tower~
+Descr
+You stand upon the roof of the southern tower, you can see for miles
+around you, unfortunately there isn't much to see, to your west is the side
+of the mountain, and to your east there stands a much smaller mountain.  To
+the north and south the range continues.  Far below you you can see hundreds
+of trees which have flourished in the valley formed between these two
+mountains, but you can see no way to reach it.  
+~
+Flags 4
+Sector 2
+Door 5 0 0 40814 30 30
+~
+door~
+End
+
+#40817
+Name Northern Passage~
+Descr
+Your footsteps echo as you travel along the passage, you can see light to
+your north, and the sounds of civilization come from the south.  The tunnel
+is not very wide, but there is plenty of room for three to walk abreast.  
+~
+Flags 4
+Reset M 40803 100 2
+Door 0 0 0 40818 30 30
+~
+door~
+Door 2 0 0 40806 30 30
+~
+door~
+End
+
+#40818
+Name Widening Passage~
+Descr
+The passage begins to widen here, and you can see what appears to be a
+humongous staircase to your north, you wonder what such a creation is doing
+inside of a mountain.  To your south the passage leads back to the
+crossroads.  
+~
+Flags 4
+Reset M 40835 3 100
+Reset M 40834 3 100
+Door 0 0 0 40819 30 30
+~
+door~
+Door 2 0 0 40817 30 30
+~
+door~
+End
+
+#40819
+Name Entrance to the Grand Stairs~
+Descr
+You stand upon a landing of the Grand Staircase, to your east the stairs
+begin to rise, while to your west they lead down.  Torches string the walls
+in both directions.  To your north is a large hole which the stairs circle
+around, you look up and down, but can only see for about 100 feet in either
+direction.  
+~
+Flags 4
+Door 1 0 0 40820 30 30
+~
+door~
+Door 2 0 0 40818 30 30
+~
+door~
+Door 3 0 0 40821 30 30
+~
+door~
+End
+
+#40820
+Name The Grand Stairs~
+Descr
+Here the stairs lead further up into the mountain, you wonder where they
+will take you, on your right the wall is lined with torches, while to your
+north is the large chasm, you find yourself wishing that there was a railing
+while you stay as close to the wall as you can.  
+~
+Flags 4
+Door 0 0 0 0 0 0
+~
+~
+Door 3 0 0 40819 30 30
+~
+door~
+End
+
+#40821
+Name The Grand Stairs~
+Descr
+Here the stairs lead further down into the mountain, you wonder where
+they will take you, on your left the wall is lined with torches, while to
+your north is the large chasm, you find yourself wishing that there was a
+railing while you stay as close to the wall as you can.  
+~
+Flags 4
+Door 1 0 0 40819 30 30
+~
+door~
+End
+
+#40822
+Name Entrance to Gnellshar~
+Descr
+The passageway narrows here, and becomes much more refined, as if people
+were here working on it on a regular basis.  You see a large plaque affixed
+upon the wall.  To the south you can hear the sounds of revelry as if a
+large party was going on.  
+~
+Flags 2055
+Sector 0
+ExtraDescr plaque~
+WELCOME TO GNELLSHAR
+
+
+                         --------------------
+
+
+   We hope you enjoy your visit to our home, please stay out of the the pit if
+
+
+you are not seasoned adventurers.
+
+
+P.S. please do not feed the guardian.
+
+
+~
+Door 0 0 0 40806 30 30
+~
+door~
+Door 2 0 0 40824 30 30
+~
+door~
+End
+
+#40823
+Name Guardian's Lair~
+Descr
+You have entered what appears to be the home of the Guardian, it is a
+messy place, it seems he spends most of his time outside doing his job. 
+There is food scattered all over the floor, half-eaten.  And an oversized
+bed in the corner.  Back to the east you can see the guardian and the gates
+he guards.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40824 30 30
+~
+door~
+End
+
+#40824
+Name Gates of Gnellshar~
+Descr
+You stand at the gates of the city of Gnellshar, home of the gnomes.  To
+your south you can see bright lights, it appears there is a party of sorts
+going on.  To the north the light grows dimmer.  
+~
+Flags 5
+Sector 0
+Reset M 40804 1 100
+Reset O 40865 -3 100
+Reset O 1026 -1 25
+Door 0 0 0 40822 30 30
+~
+door~
+Door 2 0 0 40827 30 30
+~
+door~
+Door 3 0 0 40823 30 30
+~
+door~
+End
+
+#40825
+Name Gnellshar Top level~
+Descr
+The passageway splits up here, you can go in any direction, it appears to
+be a marketplace of sorts, on the north wall is a picture of an explosion,
+on the south wall a picture of a sword, and on the west wall a picture of...
+Well..  You're not sure what it is.  
+~
+Flags 4
+Sector 0
+Reset M 40809 5 10
+Reset M 40807 10 25
+Reset O 40867 -1 5
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Door 0 0 0 40831 30 30
+~
+door~
+Door 1 0 0 40826 30 30
+~
+door~
+Door 2 0 0 40833 30 30
+~
+door~
+Door 3 0 0 40832 30 30
+~
+door~
+End
+
+#40826
+Name Gnellshar Top level~
+Descr
+The passageway continues east and west, all around you the party
+continues, you are constantly accosted by gnomes looking for a good time,
+some of them laugh at you, and some ask you to join in the fun.  
+~
+Flags 4
+Sector 0
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Door 1 0 0 40827 30 30
+~
+door~
+Door 3 0 0 40825 30 30
+~
+door~
+End
+
+#40827
+Name Gnellshar Top level~
+Descr
+You stand upon a large passage way that is open to the south, as you look
+in that direction you see an amazing sight, a huge walkway surrounds a giant
+pit, while you are to far away to see what lies in the pit, you can see much
+activity on the walkway.  Immediately around you, you can see, and hear what
+appears to be a large party, gnomes are everywhere, most of them in a state
+of drunkeness.  To your south is a stairway leading down to the avenue
+surrounding the pit, while to your east and west the passageway continues.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Door 0 0 0 40824 30 30
+~
+door~
+Door 1 0 0 40828 30 30
+~
+door~
+Door 3 0 0 40826 30 30
+~
+door~
+Door 5 0 0 40830 30 30
+~
+door~
+End
+
+#40828
+Name Gnellshar Top Level~
+Descr
+The passageway continues east and west, all around you the party
+continues, you are constantly accosted by gnomes looking for a good time,
+some of them laugh at you, and some ask you to join in the fun.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40829 30 30
+~
+door~
+Door 3 0 0 40827 30 30
+~
+door~
+End
+
+#40829
+Name Gnellshar Top Level~
+Descr
+This area appears to be the nexus of the large party you seem to be
+surrounded by, gnomes are everywhere, one is even hanging from a large
+stalagtite on the ceiling.  You can go south, east, or west, from here, they
+all seem to look the same.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Door 0 259 0 40834 30 30
+~
+wall~
+Door 1 0 0 40835 30 30
+~
+door~
+Door 2 0 0 40836 30 30
+~
+door~
+Door 3 0 0 40828 30 30
+~
+door~
+End
+
+#40830
+Name Stairway in Gnellshar~
+Descr
+You are on a large stairway leading from Pit Avenue to Gnellshar's top
+level and vice-versa.  You can make out a little more of the pit from here,
+but all you can make out is a river and two large stalagmites.  You can head
+up or down from here.  
+~
+Flags 4
+Sector 0
+Movemess
+None.test
+~
+Door 4 0 0 40827 30 30
+~
+door~
+Door 5 0 0 40837 0 0
+~
+~
+End
+
+#40831
+Name Ghip's Shop of the Bizarre and Wonderful~
+Descr
+The walls of this room are crammed full of things, potions, books, junk,
+half of which you can't even begin to figure out what it is.  To the south
+you can go back to the passageway.  
+~
+Flags 4
+Sector 0
+Reset M 40810 1 100
+Reset O 40844 5 50
+Reset O 40843 7 100
+Reset O 40846 -1 75
+Reset O 40847 -1 50
+Reset O 40848 -1 20
+Reset O 40849 -1 100
+Reset O 40850 -1 20
+Door 2 0 0 40825 30 30
+~
+door~
+End
+
+#40832
+Name Ghap's Shop of Semi-Combustable Edibles~
+Descr
+The first thing you notice here is the almost unbearable stench that
+assaults your nostrils.  Pots and pans lie everywhere in various states of
+cleanliness, and bowls of stuff you are forced to assume is food are lines
+up along a not-so-clean counter.  
+~
+Flags 4
+Sector 0
+Reset M 40811 1 100
+Reset O 40851 -1 100
+Reset O 40852 -1 100
+Reset O 40853 -1 100
+Reset O 40854 -1 100
+Reset O 40855 -1 100
+Reset O 40856 -1 100
+Door 1 0 0 40825 30 30
+~
+door~
+End
+
+#40833
+Name Ghop's Shop of Pointy Things~
+Descr
+Swords, daggers, polearms, everything sharp you can think of lines all
+available space in this room, there are even some things you can't
+recognize.  To the north you can return to the passageway.  
+~
+Flags 4
+Sector 0
+Reset M 40812 1 100
+Reset O 236 -1 100
+Reset O 238 -1 100
+Reset O 1025 -1 100
+Reset O 237 -1 100
+Reset O 45606 -1 100
+Reset O 50355 -1 100
+Reset O 14574 -1 100
+Door 0 0 0 40825 30 30
+~
+door~
+End
+
+#40834
+Name Niche in the Wall~
+Descr
+This is a small niche off the main passage through Gnellshar.  You catch
+your breath happy to be away from the gnomes for a while.  
+~
+Flags 2097156
+Sector 0
+Door 2 257 0 40829 30 30
+~
+wall~
+End
+
+#40835
+Name Official Looking Passageway~
+Descr
+There are much fewer gnomes here, and the mood seems much more serious. 
+The passageway continues to the east and west.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40867 0 0
+~
+~
+Door 3 0 0 40829 30 30
+~
+door~
+End
+
+#40836
+Name Whit's ~
+Descr
+Silky curtains cover the walls here, and cushions are scattered all over
+the floor, most of which are occupied by gnomes smoking from strange looking
+pipes.  To the north you can return to the main passageway.  To the south
+there appears to be another room behind one of the curtains.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40829 30 30
+~
+door~
+Door 2 3 0 40872 30 30
+~
+curtain~
+End
+
+#40837
+Name North Pit Avenue~
+Descr
+You are walking along North Pit Avenue.  The road continues to the east
+and west, while to the south is a large podium overlooking the pit.  Gnomes
+are all around you in various states of drunkeness.  You can also go up the
+stairs to the top level of Gnellshar.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 5
+Reset M 40809 5 10
+Reset O 40868 -1 100
+Reset M 40818 40 5
+Door 1 0 0 40839 0 0
+~
+~
+Door 2 0 0 40838 0 0
+~
+~
+Door 3 0 0 40866 0 0
+~
+~
+Door 4 0 0 40830 0 0
+~
+~
+End
+
+#40838
+Name Podium Overlooking the Pit~
+Descr
+This podium looks to be set up to watch for signs of activity in the pit
+below.  A small telescope is set up at the south edge of the podium.  And
+many chair are scattered about giving you the impression that this is used
+as a conference room of sorts.  
+~
+Flags 4
+Sector 0
+Reset M 40815 1 10
+Reset O 40870 -1 15
+Reset O 40871 -1 25
+Reset M 40816 2 100
+Reset O 40869 -1 100
+Reset M 40816 2 100
+Reset O 40869 -1 100
+Door 0 0 0 40837 0 0
+~
+~
+End
+
+#40839
+Name North Pit Avenue~
+Descr
+You are walking along North Pit Avenue, to your east and west the avenue
+continues.  To your south you can see the Pit, it is a rather amazing sight,
+two stalagmites mark the southern end of the pit and a fast moving river
+runs through th emiddle of it.  You can see patches of activitie at various
+places in the pit, but are to far away to make out any specifics.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40840 0 0
+~
+~
+Door 3 0 0 40837 0 0
+~
+~
+End
+
+#40840
+Name North Pit Avenue~
+Descr
+You are walking along North Pit Avenue.  To your east you can see some
+type of guards post, while to your west Pit Avenue continues.  You can't
+seem to get away from all these drunken gnomes.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 1 0 0 40843 0 0
+~
+~
+Door 3 0 0 40839 0 0
+~
+~
+End
+
+#40841
+Name Northeast Guard Station~
+Descr
+You stand in the northeast guard station, as you look around you wonder
+why they even bothered making a guard station, since apparently very few
+gnomes feel like wasting their time with serious activity.  
+~
+Flags 6
+Sector 0
+Door 1 0 0 40842 0 0
+~
+~
+Door 2 0 0 40843 0 0
+~
+~
+End
+
+#40842
+Name Northeast Guard Station~
+Descr
+This room unlike all the other guard rooms looks like it actually gets
+some use, a card table is set up in the middle of the room with 4 or five
+chairs set up around it.  It looks like not all the guards spend their time
+doing their job.  
+~
+Flags 4
+Sector 0
+Reset O 40861 -5 100
+Reset O 40860 -5 100
+Reset M 40814 5 100
+Reset O 40869 -1 50
+Reset M 40814 5 100
+Reset O 40869 -1 50
+Reset M 40814 5 100
+Reset O 40869 -1 50
+Door 2 0 0 40844 0 0
+~
+~
+Door 3 0 0 40841 0 0
+~
+~
+End
+
+#40843
+Name Northeast Guard Station~
+Descr
+You stand at the entrance to some sort of Guard station.  The guards
+you've seen so far have seemed like they'd rather be doing anything than
+actually 'guarding'.  You can enter the station to your east and north.  Pit
+Avenue continues in the other directions.  
+~
+Flags 4
+Sector 0
+Reset M 40805 5 100
+Reset O 40869 -1 50
+Reset M 40818 40 5
+Door 0 0 0 40841 0 0
+~
+~
+Door 1 0 0 40844 0 0
+~
+~
+Door 2 0 0 40860 0 0
+~
+~
+Door 3 0 0 40840 0 0
+~
+~
+End
+
+#40844
+Name Northeast Guard Station~
+Descr
+You stand in the northeast guard station, as you look around you wonder
+why they even bothered making a guard station, since apparently very few
+gnomes feel like wasting their time with serious activity.  
+~
+Flags 6
+Sector 0
+Door 0 0 0 40842 0 0
+~
+~
+Door 3 0 0 40843 0 0
+~
+~
+End
+
+#40845
+Name West Pit Avenue~
+Descr
+You walk along the avenue running up and down the west side of the pit. 
+To your north and south the avenue continues, while to your east is the pit
+itself.  A 500 foot drop, you try not to get to close to the side.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 0 0 0 40864 0 0
+~
+~
+Door 2 0 0 40846 0 0
+~
+~
+End
+
+#40846
+Name West Pit Avenue~
+Descr
+You are on West Pit avenue.  To your north and south the avenue
+continues.  You take a moment to look into the pit, from up here it looks
+almost beautiful.  You can make out a twin pair of lights on the two
+stalagmites and wonder what they are for.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40845 0 0
+~
+~
+Door 2 0 0 40847 0 0
+~
+~
+End
+
+#40847
+Name West Pit Avenue~
+Descr
+You are on West Pit avenue.  To your north and south the avenue
+continues.  You take a moment to look into the pit, from up here it looks
+almost beautiful.  You can make out a twin pair of lights on the two
+stalagmites and wonder what they are for.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40846 0 0
+~
+~
+Door 2 0 0 40849 0 0
+~
+~
+End
+
+#40848
+Name Ledge ~
+Descr
+You stand upon a ledge overlooking the pit, you can see two large
+stalagmites directly in front of you, further away you can make out a raging
+river, and beyond that some caves.  You'll have to hoof it the rest of the
+way down since the ladder ends here.  Luckily the slope is not to steep.  
+~
+Flags 4
+Sector 0
+Reset O 40864 -5 100
+Door 5 1 0 40903 30 30
+~
+~
+End
+
+#40849
+Name West Pit Avenue~
+Descr
+You walk along the avenue running up and down the west side of the pit. 
+To your north and south the avenue continues, while to your east is the pit
+itself.  A 500 foot drop, you try not to get to close to the side.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40847 0 0
+~
+~
+Door 2 0 0 40850 0 0
+~
+~
+End
+
+#40850
+Name Junction of West and South Pit Avenue~
+Descr
+Here the Avenue turns north and east.  To your northeast you can still
+see the pit, and you think you can make out a way down there to your east. 
+Even here this close to the entrance of the pit, the party never stops.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 0 0 0 40849 0 0
+~
+~
+Door 1 0 0 40851 0 0
+~
+~
+End
+
+#40851
+Name South Pit Avenue~
+Descr
+You are walking along the southern edge of the pit.  To your north the
+pit looms ominously close.  You wonder what lives down there that causes the
+gnomes so much trouble.  To your east you can see the ladder leading down to
+the pit, while to your west the avenue turns north.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40852 0 0
+~
+~
+Door 3 0 0 40850 0 0
+~
+~
+End
+
+#40852
+Name South Pit Avenue~
+Descr
+You are walking along the southern edge of the pit.  To your north the
+pit looms ominously close.  You wonder what lives down there that causes the
+gnomes so much trouble.  To your east you can see the ladder leading down to
+the pit, while to your west the avenue turns north.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40853 0 0
+~
+~
+Door 3 0 0 40851 0 0
+~
+~
+End
+
+#40853
+Name Entrance to the Pit~
+Descr
+You have arrived at the entrace to the Pit.  A long ladder leads down
+into the darkness below.  You think you can make out a ledge about halfway
+down where the ladder ends.  You notice that the gnomes here stay far away
+from the ladder as if they're afraid of something.  
+~
+Flags 4
+Sector 0
+Reset O 40804 -5 100
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 1 0 0 40854 0 0
+~
+~
+Door 3 0 0 40852 0 0
+~
+~
+End
+
+#40854
+Name South Pit Avenue~
+Descr
+You are walking along the southern edge of the pit.  To your north the
+pit looms ominously close.  You wonder what lives down there that causes the
+gnomes so much trouble.  To your west you can see the ladder leading down to
+the pit, while to your east the avenue turns north.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40855 0 0
+~
+~
+Door 3 0 0 40853 0 0
+~
+~
+End
+
+#40855
+Name South Pit Avenue~
+Descr
+You are walking along the southern edge of the pit.  To your north the
+pit looms ominously close.  You wonder what lives down there that causes the
+gnomes so much trouble.  To your west you can see the ladder leading down to
+the pit, while to your east the avenue turns north.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40856 0 0
+~
+~
+Door 3 0 0 40854 0 0
+~
+~
+End
+
+#40856
+Name Junction of South and East Pit Avenue~
+Descr
+Here the Avenue turns north and west.  To your northwest you can still
+see the pit, and you think you can make out a way down there to your west. 
+Even here this close to the entrance of the pit, the party never stops.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 0 0 0 40857 0 0
+~
+~
+Door 3 0 0 40855 0 0
+~
+~
+End
+
+#40857
+Name East Pit Avenue~
+Descr
+You walk along the avenue running up and down the east side of the pit. 
+To your north and south the avenue continues, while to your west is the pit
+itself.  A 500 foot drop, you try not to get to close to the side.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40858 0 0
+~
+~
+Door 2 0 0 40856 0 0
+~
+~
+End
+
+#40858
+Name East Pit Avenue~
+Descr
+You are on East Pit avenue.  To your north and south the avenue
+continues.  You take a moment to look into the pit, from up here it looks
+almost beautiful.  You can make out a twin pair of lights on the two
+stalagmites and wonder what they are for.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40859 0 0
+~
+~
+Door 2 0 0 40857 0 0
+~
+~
+End
+
+#40859
+Name East Pit Avenue~
+Descr
+You are on East Pit avenue.  To your north and south the avenue
+continues.  You take a moment to look into the pit, from up here it looks
+almost beautiful.  You can make out a twin pair of lights on the two
+stalagmites and wonder what they are for.  
+~
+Flags 4
+Sector 0
+Reset M 40806 10 50
+Reset O 40867 -1 5
+Reset M 40807 10 50
+Reset O 40867 -1 5
+Reset M 40808 10 50
+Reset O 40855 -1 5
+Reset M 40802 10 50
+Reset O 40858 -1 15
+Reset M 40809 5 15
+Door 0 0 0 40860 0 0
+~
+~
+Door 2 0 0 40858 0 0
+~
+~
+End
+
+#40860
+Name East Pit Avenue~
+Descr
+You walk along the avenue running up and down the east side of the pit. 
+To your north and south the avenue continues, while to your west is the pit
+itself.  A 500 foot drop, you try not to get to close to the side.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40843 0 0
+~
+~
+Door 2 0 0 40859 0 0
+~
+~
+End
+
+#40861
+Name Northwest Guard Station~
+Descr
+This place doesn't look like it gets much use, you suppose most of the
+gnomes spend more time drinking and smoking than they do guarding.  Dust
+covers everything, and everytime you move you are forced to sneeze.  
+~
+Flags 4
+Sector 0
+Reset M 40818 40 10
+Reset M 40818 40 10
+Reset M 40818 40 10
+Reset M 40818 40 10
+Reset M 40818 40 10
+Door 1 0 0 40862 0 0
+~
+~
+Door 2 0 0 40863 0 0
+~
+~
+End
+
+#40862
+Name Northwest Guard Station~
+Descr
+This place doesn't look like it gets much use, you suppose most of the
+gnomes spend more time drinking and smoking than they do guarding.  Dust
+covers everything, and everytime you move you are forced to sneeze.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 40864 0 0
+~
+~
+Door 3 0 0 40861 0 0
+~
+~
+End
+
+#40863
+Name Northwest Guard Station~
+Descr
+This place doesn't look like it gets much use, you suppose most of the
+gnomes spend more time drinking and smoking than they do guarding.  Dust
+covers everything, and everytime you move you are forced to sneeze.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40861 0 0
+~
+~
+Door 1 0 0 40864 0 0
+~
+~
+End
+
+#40864
+Name Northwest Guard Station~
+Descr
+You stand at the entrance to some sort of Guard station.  The guards
+you've seen so far have seemed like they'd rather be doing anything than
+actually 'guarding'.  You can enter the station to your west and north.  Pit
+Avenue continues in the other directions.  
+~
+Flags 4
+Sector 0
+Reset M 40805 5 100
+Reset O 40869 -1 50
+Door 0 0 0 40862 0 0
+~
+~
+Door 1 0 0 40865 0 0
+~
+~
+Door 2 0 0 40845 0 0
+~
+~
+Door 3 0 0 40863 0 0
+~
+~
+End
+
+#40865
+Name North Pit Avenue~
+Descr
+You are walking along North Pit Avenue.  To your west you can see some
+type of guards post, while to your east Pit Avenue continues.  You can't
+seem to get away from all these drunken gnomes.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40866 0 0
+~
+~
+Door 3 0 0 40864 0 0
+~
+~
+End
+
+#40866
+Name North Pit Avenue~
+Descr
+You are walking along North Pit Avenue, to your east and west the avenue
+continues.  To your south you can see the Pit, it is a rather amazing sight,
+two stalagmites mark the southern end of the pit and a fast moving river
+runs through th emiddle of it.  You can see patches of activitie at various
+places in the pit, but are to far away to make out any specifics.  
+~
+Flags 4
+Sector 0
+Door 1 0 0 40837 0 0
+~
+~
+Door 3 0 0 40865 0 0
+~
+~
+End
+
+#40867
+Name Official Looking Passageway~
+Descr
+You have arrived at the end of the passageway, a medium sized metal box
+stands against the north wall, it seems to contain papers of some kind.  A
+large Oaken door blocks your way to the east.  
+~
+Flags 4
+Sector 0
+Reset O 40801 -5 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset O 40802 -3 100
+Reset M 40805 5 100
+Reset O 40803 -3 15
+Reset O 40869 -1 50
+Door 1 3 -24733 40869 80 80
+~
+Oak door~
+Door 3 0 0 40835 0 0
+~
+~
+End
+
+#40868
+Name Records Room~
+Descr
+This must be where they make the newspaper, there is a large printing
+press against the north wall, and a large desk for putting the paper
+together on the east wall.  The entire west wall is covered with filing
+cabinets, the contents of which you don't even think you want to know.  
+~
+Flags 4
+Sector 0
+Door 2 0 0 40869 0 0
+~
+~
+End
+
+#40869
+Name Gnellshar City Hall~
+Descr
+You stand in the middle of Gnellshar City Hall, the pinnacle of gnomish
+achievments (which isn't much).  The walls are covered with the heads of
+some sort of creature that looks like a cross between a spider and a
+cockroach.  You find yourself repulsed.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 40868 0 0
+~
+~
+Door 1 0 0 40870 0 0
+~
+~
+Door 2 0 0 40871 0 0
+~
+~
+Door 3 7 -24733 40867 80 80
+~
+Oak door~
+End
+
+#40870
+Name President's Office~
+Descr
+This is the office of Whittaker, President of Gnellshar.  As you glance
+around the office you are amazed at the luxury, deep padded wall to wall
+carpets, a large mahogany desk, and of course a small paper shredder in the
+corner.  There is a large plaque set into the north wall, perhaps you should
+read it.  
+~
+Flags 4
+Sector 0
+ExtraDescr plaque~
+The small plaque reads:
+
+
+  
+
+
+   ------------------------
+
+
+   This area coded by Horus
+
+
+   otherwise known as Falcon
+
+
+   ------------------------
+
+
+ 
+
+
+I hope you enjoy!
+
+
+~
+Reset M 40815 1 50
+Reset O 40870 -1 5
+Reset O 40871 -1 5
+Door 3 0 0 40869 0 0
+~
+~
+End
+
+#40871
+Name Bathroom~
+Descr
+This is a bathroom, you assume it's where the city hall workers go when
+they need to go.  You stop yourself before you think to deeply on where the
+rest of the gnomish population relives themselves.  
+~
+Flags 4
+Sector 0
+Reset O 40862 -5 100
+Door 0 0 0 40869 0 0
+~
+~
+End
+
+#40872
+Name Whit's Chambers~
+Descr
+This is a plush comfortable looking room.  Pillows cover much of the
+floor, and the rest is taken up by a large bed.  You can hardly see the bed
+for all the gnomes passed out upon it.  You can return to Whit's main room
+to the north.  
+~
+Flags 4
+Sector 0
+Reset M 40813 1 100
+Reset O 237 -1 35
+Reset O 40857 -1 50
+Door 0 3 0 40836 30 30
+~
+curtain~
+Door 5 279 -24679 40873 90 90
+~
+pillow~
+End
+
+#40873
+Name Whit's Stash~
+Descr
+This must be where Whit keeps his supply of gnelk petals, cases and cases
+of them line the walls.  You could make a fortune if you could figure out
+some way to transport this stuff out of here.  
+~
+Flags 4
+Sector 0
+Reset O 40859 -5 100
+Reset O 40858 -3 100
+Reset O 40858 -3 100
+Reset O 40858 -3 100
+Reset O 40858 -3 100
+Reset O 40858 -3 100
+Reset O 40858 -3 100
+Door 4 259 0 40872 90 90
+~
+pillow~
+End
+
+#40889
+Name Crack above Queen's Chambers~
+Descr
+You are flying inside of a large crack in the Ceiling of the Queen's
+chambers.  The sides of the crack are much to slick for you to hold onto. 
+You can return to the Queen's room below you, or it looks like you can
+barely squeeze through a hole above you, but you're not sure if you could
+return the same way.  
+~
+Flags 5
+Sector 9
+Door 4 0 0 40941 0 0
+~
+~
+Door 5 0 0 40984 0 0
+~
+~
+End
+
+#40890
+Name Large Tunnel~
+Descr
+You are in a large tunnel in the merkitz caves.  Webs cover the walls and
+the ceiling, and you can hear what sounds like a thousand merkitz to your
+south.  You cringe at the thought of encountering that many at once.  The
+tunnel continues to the north and south.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Reset M 40826 50 50
+Reset M 40827 20 50
+Door 0 0 0 40967 0 0
+~
+~
+Door 2 0 0 40892 0 0
+~
+~
+End
+
+#40891
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Reset M 40826 50 50
+Reset M 40827 20 50
+Reset M 40827 50 25
+Door 2 0 0 40894 0 0
+~
+~
+Door 3 0 0 40892 0 0
+~
+~
+End
+
+#40892
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40890 0 0
+~
+~
+Door 1 0 0 40891 0 0
+~
+~
+Door 2 0 0 40897 0 0
+~
+~
+Door 3 0 0 40893 0 0
+~
+~
+End
+
+#40893
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 1 0 0 40892 0 0
+~
+~
+Door 2 0 0 40898 0 0
+~
+~
+End
+
+#40894
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40891 0 0
+~
+~
+Door 2 0 0 40895 0 0
+~
+~
+Door 3 0 0 40897 0 0
+~
+~
+End
+
+#40895
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40894 0 0
+~
+~
+Door 3 0 0 40896 0 0
+~
+~
+End
+
+#40896
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40897 0 0
+~
+~
+Door 1 0 0 40895 0 0
+~
+~
+Door 3 0 0 40983 0 0
+~
+~
+End
+
+#40897
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset O 40866 -5 100
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Reset M 40826 50 50
+Door 0 0 0 40892 0 0
+~
+~
+Door 1 0 0 40894 0 0
+~
+~
+Door 2 0 0 40896 0 0
+~
+~
+Door 3 0 0 40898 0 0
+~
+~
+End
+
+#40898
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40893 0 0
+~
+~
+Door 1 0 0 40897 0 0
+~
+~
+Door 2 0 0 40983 0 0
+~
+~
+End
+
+#40899
+Name Top of East Stalagmite~
+Descr
+From here you can see the entire pit area, what a sight it is, never in
+your life have you seen so much death.  These battles must have been going
+on for year.  A large spotlight is here shining light upon various battles. 
+~
+Flags 5
+Sector 0
+Reset M 40820 2 100
+Reset O 40863 -5 100
+Door 5 0 0 40909 0 0
+~
+~
+End
+
+#40900
+Name Top of West Stalagmite~
+Descr
+From here you can see the entire pit area, what a sight it is, never in
+your life have you seen so much death.  These battles must have been going
+on for year.  A large spotlight is here shining light upon various battles. 
+~
+Flags 5
+Sector 0
+Reset O 40863 -5 100
+Reset M 40820 2 100
+Door 5 0 0 40907 0 0
+~
+~
+End
+
+#40901
+Name Southern End of the Pit~
+Descr
+The sounds of battle can be heard all around you, gnome vs.  Something
+that looks like a cross between a spider and a roach.  You look around you
+and decide that this war has been going on for a very very long time.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40906 0 0
+~
+~
+Door 1 0 0 40902 0 0
+~
+~
+End
+
+#40902
+Name South of Stalagmite~
+Descr
+Gnome skeletons and the remains of some insect-like creature scatter the
+ground here, you can barely take a step without them crunching underfoot. 
+To your north is the largest stalagmite you've ever seen.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 1 0 0 40903 0 0
+~
+~
+Door 3 0 0 40901 0 0
+~
+~
+Door 4 0 0 40907 0 0
+~
+~
+End
+
+#40903
+Name Southern End of the Pit~
+Descr
+You can see why they call this the pit, bones lie scattered everywhere
+and the ground runs red with blood.  Two large stalagmites are to your
+north, while you the east and south the pit continues.  You can return to
+Gnellshar by climbing to the ledge.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40817 20 50
+Reset M 40817 20 50
+Reset M 40817 20 50
+Reset M 40817 20 50
+Door 0 0 0 40908 0 0
+~
+~
+Door 1 0 0 40904 0 0
+~
+~
+Door 3 0 0 40902 0 0
+~
+~
+Door 4 0 0 40848 0 0
+~
+~
+End
+
+#40904
+Name South of Stalagmite~
+Descr
+Gnome skeletons and the remains of some insect-like creature scatter the
+ground here, you can barely take a step without them crunching underfoot. 
+To your north is the largest stalagmite you've ever seen.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 1 0 0 40905 0 0
+~
+~
+Door 3 0 0 40903 0 0
+~
+~
+Door 4 0 0 40909 0 0
+~
+~
+End
+
+#40905
+Name Southern End of the Pit~
+Descr
+The sounds of battle can be heard all around you, gnome vs.  Something
+that looks like a cross between a spider and a roach.  You look around you
+and decide that this war has been going on for a very very long time.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40910 0 0
+~
+~
+Door 3 0 0 40904 0 0
+~
+~
+End
+
+#40906
+Name West of Stalagmite~
+Descr
+As you continue through this bloody battleground you are horrified at the
+various sights around you.  You feel sorry for all the gnomes who have died
+here and hope that one day they will be avenged.  A large stalagmite rises
+up to your east.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40911 0 0
+~
+~
+Door 2 0 0 40901 0 0
+~
+~
+Door 4 0 0 40907 0 0
+~
+~
+End
+
+#40907
+Name Climbing a Large Stalagmite~
+Descr
+You are halfway up the western stalagmite, you can see most of the pit
+from here.  You see a large river cutting across the pit to your north with
+a small bridge crossing it.  Small battles are being fought all over the
+place between gnomes and merkitz.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40912 0 0
+~
+~
+Door 2 0 0 40902 0 0
+~
+~
+Door 3 0 0 40906 0 0
+~
+~
+Door 4 0 0 40900 0 0
+~
+~
+End
+
+#40908
+Name Between Stalagmites~
+Descr
+You are standing between two huge stalagmites, both of which are to steep
+to climb from here.  You can hear the rushing of water from the north, and
+the sounds of battle from all sides of you.  Bones and blood cover the
+ground.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40913 0 0
+~
+~
+Door 1 0 0 0 30 30
+The large stalagmite is in your way.
+~
+~
+Door 2 0 0 40903 0 0
+~
+~
+Door 3 0 0 0 30 30
+The large stalagmite is in your way
+~
+~
+End
+
+#40909
+Name Climbing a Large Stalagmite~
+Descr
+You are halfway up the eastern stalagmite, you can see most of the pit
+from here.  You see a large river cutting across the pit to your north with
+a small bridge crossing it.  Small battles are being fought all over the
+place between gnomes and merkitz.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40914 0 0
+~
+~
+Door 1 0 0 40910 0 0
+~
+~
+Door 2 0 0 40904 0 0
+~
+~
+Door 4 0 0 40899 0 0
+~
+~
+End
+
+#40910
+Name East of Stalagmite~
+Descr
+As you continue through this bloody battleground you are horrified at the
+various sights around you.  You feel sorry for all the gnomes who have died
+here and hope that one day they will be avenged.  A large stalagmite rises
+up to your south.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40915 0 0
+~
+~
+Door 2 0 0 40905 0 0
+~
+~
+Door 4 0 0 40909 0 0
+~
+~
+End
+
+#40911
+Name Southern End of the Pit~
+Descr
+Bones and carcases crunch underfoot as you continue trudging through the
+pit.  To your north the river is getting much closer.  The sounds of battle
+continue from all sides.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40916 0 0
+~
+~
+Door 1 0 0 40912 0 0
+~
+~
+Door 2 0 0 40906 0 0
+~
+~
+End
+
+#40912
+Name North of Stalagmite~
+Descr
+As you continue through this bloody battleground you are horrified at the
+various sights around you.  You feel sorry for all the gnomes who have died
+here and hope that one day they will be avenged.  A large stalagmite rises
+up to your south.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40917 0 0
+~
+~
+Door 1 0 0 40913 0 0
+~
+~
+Door 3 0 0 40911 0 0
+~
+~
+Door 4 0 0 40907 0 0
+~
+~
+End
+
+#40913
+Name Southern End of the Pit~
+Descr
+Bones and carcases crunch underfoot as you continue trudging through the
+pit.  To your north the river is getting much closer.  The sounds of battle
+continue from all sides.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40918 0 0
+~
+~
+Door 1 0 0 40914 0 0
+~
+~
+Door 2 0 0 40908 0 0
+~
+~
+Door 3 0 0 40912 0 0
+~
+~
+End
+
+#40914
+Name North of Stalagmite~
+Descr
+As you continue through this bloody battleground you are horrified at the
+various sights around you.  You feel sorry for all the gnomes who have died
+here and hope that one day they will be avenged.  A large stalagmite rises
+up to your south.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40919 0 0
+~
+~
+Door 1 0 0 40915 0 0
+~
+~
+Door 3 0 0 40913 0 0
+~
+~
+Door 4 0 0 40909 0 0
+~
+~
+End
+
+#40915
+Name Southern End of the Pit~
+Descr
+Bones and carcases crunch underfoot as you continue trudging through the
+pit.  To your north the river is getting much closer.  The sounds of battle
+continue from all sides.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40920 0 0
+~
+~
+Door 2 0 0 40910 0 0
+~
+~
+Door 3 0 0 40914 0 0
+~
+~
+End
+
+#40916
+Name South of Raging River~
+Descr
+You stand upon a ledge overlooking a raging river, You would have to be a
+brave soul indeed to try your luck there.  Fortunately the ledge is to high
+up, to enter the river from here would be certain death.  Far to the east
+you can see a bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40917 0 0
+~
+~
+Door 2 0 0 40911 0 0
+~
+~
+End
+
+#40917
+Name South of Raging River~
+Descr
+You stand upon a ledge overlooking a raging river, You would have to be a
+brave soul indeed to try your luck there.  Fortunately the ledge is to high
+up, to enter the river from here would be certain death.  To your northwest
+you can see a small bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40918 0 0
+~
+~
+Door 2 0 0 40912 0 0
+~
+~
+Door 3 0 0 40916 0 0
+~
+~
+End
+
+#40918
+Name South of Chitinous Bridge~
+Descr
+You are on a ledge overlooking a raging river.  Directly north of you is
+some sort of bridge crossing the river.  You can't quit make out what the
+bridge is made of, but it looks quite unusual.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40926 0 0
+~
+~
+Door 1 0 0 40919 0 0
+~
+~
+Door 2 0 0 40913 0 0
+~
+~
+Door 3 0 0 40917 0 0
+~
+~
+End
+
+#40919
+Name South of Raging River~
+Descr
+You stand upon a ledge overlooking a raging river, You would have to be a
+brave soul indeed to try your luck there.  Fortunately the ledge is to high
+up, to enter the river from here would be certain death.  To your northwest
+you can see a small bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40920 0 0
+~
+~
+Door 2 0 0 40914 0 0
+~
+~
+Door 3 0 0 40918 0 0
+~
+~
+End
+
+#40920
+Name South of Raging River~
+Descr
+You stand upon a ledge overlooking a raging river, You would have to be a
+brave soul indeed to try your luck there.  Fortunately the ledge is to high
+up, to enter the river from here would be certain death.  Far to the west
+you can see a bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 40915 0 0
+~
+~
+Door 3 0 0 40919 0 0
+~
+~
+End
+
+#40921
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 5
+Movemess
+washed over the edge of a huge waterfall!!!
+~
+Door 1 0 0 40922 0 0
+~
+~
+End
+
+#40922
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 1
+Sector 6
+Reset M 40832 10 100
+Reset M 40832 10 100
+Reset M 40832 10 100
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40923 0 0
+~
+~
+Door 3 0 0 40921 0 0
+~
+~
+End
+
+#40923
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40924 0 0
+~
+~
+Door 3 0 0 40922 0 0
+~
+~
+End
+
+#40924
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40925 0 0
+~
+~
+Door 3 0 0 40923 0 0
+~
+~
+End
+
+#40925
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40927 0 0
+~
+~
+Door 3 0 0 40924 0 0
+~
+~
+End
+
+#40926
+Name Chitinous Bridge~
+Descr
+You stand upon a bridge which looks to be built from insect parts.  It is
+one of the most repulsive looking works of architecture you have ever seen. 
+You can head back into the pit to the north and south.  
+~
+Flags 1
+Sector 0
+Reset M 40819 1 100
+Door 0 0 0 40938 0 0
+~
+~
+Door 2 0 0 40918 0 0
+~
+~
+Door 5 259 0 40927 30 30
+~
+trapdoor~
+End
+
+#40927
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 1
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40928 0 0
+~
+~
+Door 3 0 0 40925 0 0
+~
+~
+Door 4 3 0 40926 30 30
+~
+trapdoor~
+End
+
+#40928
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40929 0 0
+~
+~
+Door 3 0 0 40927 0 0
+~
+~
+End
+
+#40929
+Name Raging River~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40930 0 0
+~
+~
+Door 3 0 0 40928 0 0
+~
+~
+End
+
+#40930
+Name Nearing Waterfall~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Reset M 40832 10 100
+Reset M 40832 10 100
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 1 0 0 40931 0 0
+~
+~
+Door 3 0 0 40929 0 0
+~
+~
+End
+
+#40931
+Name Bottom of Waterfall~
+Descr
+You are in the midst of the raging river, you can barely see your
+surroundings and spend most of your time trying to stay afloat.  The noise
+level is almost unbearable, and you fear for your life.  
+~
+Flags 8193
+Sector 6
+Reset M 40832 10 100
+Reset O 40805 -5 100
+Move_dir 3
+Movemess
+washed downstream by the powerful current!
+~
+Door 3 0 0 40930 0 0
+~
+~
+Door 4 0 0 0 0 0
+~
+~
+End
+
+#40932
+Name Stone Passage~
+Descr
+You are in a small stoneworked passageway, it looks like you're the first
+one to arrive here in years, cobwebs hang everywhere.  The passageway
+continues to the north, or you can return to the river to the west.  
+~
+Flags 1
+Sector 0
+Door 0 0 0 40933 0 0
+~
+~
+Door 3 0 0 40931 0 0
+~
+~
+End
+
+#40933
+Name Stone Passage~
+Descr
+You are travelling down a stone passageway, water drips from the ceiling
+and cobwebs cover the walls.  You can see a faint light far to the north. 
+The passageway continues both north and south.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40934 0 0
+~
+~
+Door 2 0 0 40932 0 0
+~
+~
+End
+
+#40934
+Name Stone Passage~
+Descr
+You are travelling down a stone passageway, water drips from the ceiling
+and cobwebs cover the walls.  You can see a faint light closeby to the
+north.  The passageway continues both north and south.  
+~
+Flags 5
+Sector 0
+Door 0 1 0 40935 30 30
+~
+way~
+Door 2 0 0 40933 0 0
+~
+~
+End
+
+#40935
+Name Gnome Shrine~
+Descr
+You have arrived in an ancient shrine.  This place must have been built
+before the start of the Gnome/Merkitz wars, and it looks like noone has been
+here since.  An old crumbling altar sits in the middle of the room, and
+decayed tapestries cover the walls.  
+~
+Flags 3145732
+Sector 0
+Reset M 40830 1 100
+Reset O 40872 -1 3
+Reset O 40871 -1 20
+Door 2 0 0 40934 0 0
+~
+~
+End
+
+#40936
+Name North of Raging River~
+Descr
+You stand upon a ledge overlooking the raging river, on this side of the
+river there are veritable mountains of bones and markitz parts.  The ground
+runs red with the blood of so many dead.  Far to your east you can see the
+chitinous bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40941 0 0
+~
+~
+Door 1 0 0 40937 0 0
+~
+~
+End
+
+#40937
+Name North of Raging River~
+Descr
+You stand upon a ledge overlooking the raging river, on this side of the
+river there are veritable mountains of bones and markitz parts.  The ground
+runs red with the blood of so many dead.  To the southeast you can see the
+chitinous bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40942 0 0
+~
+~
+Door 1 0 0 40938 0 0
+~
+~
+Door 3 0 0 40936 0 0
+~
+~
+End
+
+#40938
+Name North of Chitinous Bridge~
+Descr
+You stand north of the chitinous bridge spanning the raging river.  To
+your north you can see some sort of caves in the wall of the pit, this must
+be where the merkitz come from.  You shiver in fear at the thought of
+getting closer.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40943 0 0
+~
+~
+Door 1 0 0 40939 0 0
+~
+~
+Door 2 0 0 40926 0 0
+~
+~
+Door 3 0 0 40937 0 0
+~
+~
+End
+
+#40939
+Name North of Raging River~
+Descr
+You stand upon a ledge overlooking the raging river, on this side of the
+river there are veritable mountains of bones and markitz parts.  The ground
+runs red with the blood of so many dead.  To the southwest you can see the
+chitinous bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40944 0 0
+~
+~
+Door 1 0 0 40940 0 0
+~
+~
+Door 3 0 0 40938 0 0
+~
+~
+End
+
+#40940
+Name North of Raging River~
+Descr
+You stand upon a ledge overlooking the raging river, on this side of the
+river there are veritable mountains of bones and markitz parts.  The ground
+runs red with the blood of so many dead.  Far to your west you can see the
+chitinous bridge crossing the river.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40945 0 0
+~
+~
+Door 3 0 0 40939 0 0
+~
+~
+End
+
+#40941
+Name Northern End of the Pit~
+Descr
+You have reached the northern wall of the pit.  Bones and merkitz parts
+lie a foot deep against the wall.  You can see the toll this war has taken
+on both sides, but you can't bring yourself to feel sorry for the insects. 
+You can make out a medium sized crack in the floor here, but it looks to be
+to small for you to fit into.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 1 0 0 40942 0 0
+~
+~
+Door 2 0 0 40936 0 0
+~
+~
+End
+
+#40942
+Name Northern End of the Pit~
+Descr
+You have reached the northern wall of the pit.  Bones and merkitz parts
+lie a foot deep against the wall.  You can see the toll this war has taken
+on both sides, but you can't bring yourself to feel sorry for the insects.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 1 0 0 40943 0 0
+~
+~
+Door 2 0 0 40937 0 0
+~
+~
+Door 3 0 0 40941 0 0
+~
+~
+End
+
+#40943
+Name Northern End of the Pit~
+Descr
+You stand at the mouth of a large cavern in he north wall of the pit. 
+You can hear the chittering sounds of the merkitz emenating from inside. 
+You are not really sure you want to find out what horrors are inside.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 0 0 0 40946 0 0
+~
+~
+Door 1 0 0 40944 0 0
+~
+~
+Door 2 0 0 40938 0 0
+~
+~
+Door 3 0 0 40942 0 0
+~
+~
+End
+
+#40944
+Name Northern End of the Pit~
+Descr
+You have reached the northern wall of the pit.  Bones and merkitz parts
+lie a foot deep against the wall.  You can see the toll this war has taken
+on both sides, but you can't bring yourself to feel sorry for the insects.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 1 0 0 40945 0 0
+~
+~
+Door 2 0 0 40939 0 0
+~
+~
+Door 3 0 0 40943 0 0
+~
+~
+End
+
+#40945
+Name Northern End of the Pit~
+Descr
+You have reached the northern wall of the pit.  Bones and merkitz parts
+lie a foot deep against the wall.  You can see the toll this war has taken
+on both sides, but you can't bring yourself to feel sorry for the insects.  
+~
+Flags 5
+Sector 0
+Reset M 40817 20 50
+Reset M 40818 40 50
+Door 2 0 0 40940 0 0
+~
+~
+Door 3 0 0 40944 0 0
+~
+~
+End
+
+#40946
+Name Entrance to Merkitz Caves~
+Descr
+You are standing in the middle of a medium sized underground room, webs
+cover every nook and cranny of the walls, and tunnels seem to lead off in
+every direction.  
+~
+Flags 5
+Sector 0
+Reset M 40818 40 100
+Reset M 40818 40 100
+Reset M 40817 20 100
+Reset O 40806 -5 100
+Reset O 40807 -5 100
+Reset O 40908 -5 100
+Door 2 0 0 40943 0 0
+~
+~
+End
+
+#40947
+Name Small Tunnel~
+Descr
+You are in what seems to be a well used underground tunnel, you are
+forced to stoop down so you don't scrape your head on the ceiling.  You are
+constantly brushing webs and small spiders and bugs off of you as you walk
+along.  
+~
+Flags 32772
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40813 -5 100
+Reset O 40817 -5 100
+End
+
+#40948
+Name Small Twisty Tunnel~
+Descr
+You are in what seems to be a well used underground tunnel, you are
+forced to stoop down so you don't scrape your head on the ceiling.  You are
+constantly brushing webs and small spiders and bugs off of you as you walk
+along.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40818 -5 100
+Reset O 40819 -5 100
+End
+
+#40949
+Name Small Twisty Tunnel~
+Descr
+You are in what seems to be a well used underground tunnel, you are
+forced to stoop down so you don't scrape your head on the ceiling.  You are
+constantly brushing webs and small spiders and bugs off of you as you walk
+along.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40820 -5 100
+Reset O 40821 -5 100
+End
+
+#40950
+Name Stench Filled Room~
+Descr
+You have arrived in a medium sized room, a horrible stench arises from a
+small hole in the center of the room.  You quickly cover your nose to stop
+yourself from losing your lunch.  This must be where Merkitz get rid of
+their waste.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset M 40822 20 50
+Reset O 40822 -5 100
+Reset O 40823 -5 100
+End
+
+#40951
+Name Waste Pit~
+Descr
+You are in a pit filled with smelly disgusting disease ridden filth. 
+What possesed you to come down here, you're not sure.  The only exit appears
+to be back up the way you came in.  
+~
+Flags 1073774597
+Sector 10
+Reset M 40821 1 100
+Reset O 40875 -1 50
+Reset O 40879 -1 1
+Door 4 0 0 40950 0 0
+~
+~
+End
+
+#40952
+Name Small Tunnel~
+Descr
+As you brush the webs off of your face, you see that you are crouching
+along a small twisting tunnel.  The clicking sounds of Merkitz going about
+their daily work come from all directions.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40809 -5 100
+Reset O 40810 -5 100
+End
+
+#40953
+Name A Large Tunnel~
+Descr
+You are walking through a large tunnel in the Merkitz caves.  Strands of
+webbing cover the walls, getting all over you.  You see a small hole in the
+east wall, and large holes to the north and south.  
+~
+Flags 32773
+Sector 0
+Reset O 40827 -5 100
+Reset O 40826 -5 100
+Reset O 40825 -5 100
+End
+
+#40954
+Name Small Tunnel Junction~
+Descr
+Here the tunnel splits.  You can go either east, south, or west. 
+Clicking sounds surround you and you hope you don't run into to many merkitz
+at once, or you shall surely perish.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40811 -5 100
+Reset O 40912 -5 100
+Reset O 40913 -5 100
+End
+
+#40955
+Name Small Tunnel~
+Descr
+You are crawling through a web filled tunnel, two tiny holes split from
+the tunnel here, one two the north and one to the east.  You think you could
+squeeze through if you really tried.  To the west is a larger hole.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40814 -5 100
+Reset O 40815 -5 100
+Reset O 40816 -5 100
+End
+
+#40956
+Name Tiny Tunnel~
+Descr
+This tiny tunnel gets smaller and smaller until you can no longer fit
+through it.  You can return to the larger tunnel through a hole in the west
+wall, after you brush off some more webbing of course.  
+~
+Flags 32773
+Sector 0
+Reset O 40812 -5 100
+Reset M 40826 50 50
+End
+
+#40957
+Name Tiny Tunnel~
+Descr
+This tiny tunnel gets smaller and smaller until you can no longer fit
+through it.  You can return to the larger tunnel through a hole in the south
+wall, after you brush off some more webbing of course.  
+~
+Flags 32773
+Sector 0
+Reset O 40808 -5 100
+Reset M 40826 50 50
+End
+
+#40958
+Name A Large Tunnel~
+Descr
+You continue down the large tunnel.  The clicking is about to drive you
+mad, Merkitz must be swarming all over this place.  Webs are all around and
+you can hardly move two feet without having to brush more off.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40828 -5 100
+Reset O 40829 -5 100
+End
+
+#40959
+Name A Large Twisty Tunnel~
+Descr
+You continue down the large tunnel.  The clicking is about to drive you
+mad, Merkitz must be swarming all over this place.  Webs are all around and
+you can hardly move two feet without having to brush more off.  
+~
+Flags 32773
+Sector 0
+Reset O 40832 -5 100
+Reset O 40833 -5 100
+End
+
+#40960
+Name A Large Twisty Tunnel~
+Descr
+You continue down the large tunnel.  The clicking is about to drive you
+mad, Merkitz must be swarming all over this place.  Webs are all around and
+you can hardly move two feet without having to brush more off.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40830 -5 100
+Reset O 40831 -5 100
+End
+
+#40961
+Name Junction in Large Twisty Tunnel~
+Descr
+The tunnel splits here.  There is a small hole in the south wall from
+which you can hear alot of clicking.  A large hole is in the floor and
+another to the north.  
+~
+Flags 32773
+Sector 0
+Reset O 40836 -5 100
+Reset O 40835 -5 100
+Reset O 40834 -5 100
+End
+
+#40962
+Name Dead End~
+Descr
+The tunnel ends abrutly here.  This seems to be a playroom of sorts,
+shaped bones litter the floor.  Many strands of webbing cover the room from
+top to bottom.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40837 -5 100
+End
+
+#40963
+Name A Large Twisty Tunnel~
+Descr
+You continue down the large tunnel.  The clicking is about to drive you
+mad, Merkitz must be swarming all over this place.  Webs are all around and
+you can hardly move two feet without having to brush more off.  
+~
+Flags 32773
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40838 -5 100
+Reset O 40839 -5 100
+End
+
+#40964
+Name Going Down?~
+Descr
+You stand upon a small ledge looking into a deep hole in the floor.  It
+is to dark to make out what exactly is down there, but the clicking you can
+hear gives it away.  
+~
+Flags 32773
+Sector 0
+Reset O 40840 -5 100
+Reset O 40841 -5 100
+End
+
+#40965
+Name Entrance to the Queen's Caves~
+Descr
+The tunnels finally give way to normal sized passageways, webs still
+cover the walls, and you are covered with them head to toe.  The chittering
+sound that you can't seem to get away from is much louder now, you wish you
+had something to plug your ears with.  
+~
+Flags 5
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset O 40842 -5 100
+Door 3 259 0 40966 30 30
+~
+webbing~
+End
+
+#40966
+Name Large Tunnel~
+Descr
+You are in a large tunnel in the Merkitz caves.  Clicking surrounds you,
+the sounds of hundreds of insects living together.  The tunnel continues to
+the east and south.  
+~
+Flags 5
+Sector 0
+Door 1 259 0 40965 30 30
+~
+webbing~
+Door 2 0 0 40967 0 0
+~
+~
+End
+
+#40967
+Name Large Tunnel~
+Descr
+You are in a large tunnel in the Merkitz caves.  Clicking surrounds you,
+the sounds of hundreds of insects living together.  The tunnel continues to
+the north , south, and west.  
+~
+Flags 5
+Sector 0
+Reset M 40822 20 50
+Reset O 40880 -1 5
+Reset M 40823 7 50
+Reset O 40881 -1 50
+Door 0 0 0 40966 0 0
+~
+~
+Door 2 0 0 40890 0 0
+~
+~
+Door 3 0 0 40968 0 0
+~
+~
+End
+
+#40968
+Name Large Tunnel~
+Descr
+You are in a long tunnel heading east and west.  To your north you can
+see a room which appears to be almost full of webbing, you wonder what it is
+used for.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Door 0 0 0 40969 0 0
+~
+~
+Door 1 0 0 40967 0 0
+~
+~
+Door 3 0 0 40970 0 0
+~
+~
+End
+
+#40969
+Name Cell~
+Descr
+As you enter this room, the webbing falls behind you.  As you look around
+you decide that this is used to hold prisoners (before they eat them of
+course).  
+~
+Flags 8421383
+Sector 0
+Reset M 40831 5 100
+Door 2 259 0 40968 30 30
+~
+webbing~
+End
+
+#40970
+Name Large Tunnel~
+Descr
+You are in a long tunnel heading east and west.  To your north you can
+see a room which appears to be almost full of webbing, you wonder what it is
+used for.  The tunnel splits up here, continuing east and west, and also a
+larger tunnel heads down.  
+~
+Flags 5
+Sector 0
+Reset M 40823 7 50
+Reset O 40881 -1 50
+Door 0 0 0 40971 0 0
+~
+~
+Door 1 0 0 40968 0 0
+~
+~
+Door 3 0 0 40996 0 0
+~
+~
+Door 5 0 0 40972 0 0
+~
+~
+End
+
+#40971
+Name Cell~
+Descr
+As you enter this room, the webbing falls behind you.  As you look around
+you decide that this is used to hold prisoners (before they eat them of
+course).  
+~
+Flags 8421383
+Sector 0
+Reset O 40877 -5 25
+Reset M 40831 5 100
+Door 2 259 0 40970 30 30
+~
+webbing~
+End
+
+#40972
+Name Huge Tunnel~
+Descr
+You are in a huge tunnel in the Merkitz caves, this looks to be a
+guardpost of some sort.  To your west is another of the web filled rooms,
+while to the south the tunnel continues.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Reset M 40822 20 50
+Reset O 40880 -1 12
+Reset M 40824 2 75
+Reset O 40881 -1 50
+Reset M 40824 2 75
+Reset O 40881 -1 50
+Door 2 0 0 40974 0 0
+~
+~
+Door 3 0 0 40973 0 0
+~
+~
+Door 4 0 0 40970 0 0
+~
+~
+End
+
+#40973
+Name Cell~
+Descr
+As you enter this room, the webbing falls behind you.  As you look around
+you decide that this is used to hold prisoners (before they eat them of
+course).  
+~
+Flags 8421383
+Sector 0
+Reset M 40831 5 100
+Door 1 259 0 40972 30 30
+~
+webbing~
+End
+
+#40974
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel.  Clicking noises surround you and
+seem to come from all directions at once.  The tunnel continues north and
+east from here.  
+~
+Flags 5
+Sector 0
+Reset M 40823 7 50
+Reset O 40881 -1 50
+Door 0 0 0 40972 0 0
+~
+~
+Door 1 0 0 40975 0 0
+~
+~
+End
+
+#40975
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel running east and west.  This tunnel
+is bigger than the others you've seen so far, and you wonder why it was dug
+to such huge proportions.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40976 0 0
+~
+~
+Door 3 0 0 40974 0 0
+~
+~
+End
+
+#40976
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel.  Small insects cover the walls and
+floor, and you can hardly move without crushing a handful of them with each
+step.  You can continue down the tunnel to the south and west.  
+~
+Flags 5
+Sector 0
+Reset M 40827 25 100
+Reset M 40827 25 100
+Reset M 40827 25 100
+Reset O 40877 -5 25
+Door 2 0 0 40977 0 0
+~
+~
+Door 3 0 0 40975 0 0
+~
+~
+End
+
+#40977
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel.  Small insects cover the walls and
+floor, and you can hardly move without crushing a handful of them with each
+step.  You can continue down the tunnel to the north and west.  
+~
+Flags 5
+Sector 0
+Reset M 40823 7 50
+Reset O 40881 -1 50
+Door 0 0 0 40976 0 0
+~
+~
+Door 3 0 0 40978 0 0
+~
+~
+End
+
+#40978
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel running east and west.  This tunnel
+is bigger than the others you've seen so far, and you wonder why it was dug
+to such huge proportions.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40977 0 0
+~
+~
+Door 3 0 0 40979 0 0
+~
+~
+End
+
+#40979
+Name Huge Tunnel~
+Descr
+You are in a huge web covered tunnel in the merkitz caves.  Water drips
+from the ceiling here, and moss covers the floor and walls.  A small tunnel
+leads up from here, a huge tunnel leads north, while a very large hole in
+the floor leads down.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40978 0 0
+~
+~
+Door 4 0 0 40985 0 0
+~
+~
+Door 5 0 0 40980 0 0
+~
+~
+End
+
+#40980
+Name Royal Passage~
+Descr
+You are in a huge tunnel in the merkitz caves.  Colored webbing covers
+the walls, many shades of red and blue have been hung to form elaborate
+patterns on the walls.  The tunnel continues to the east, and a large hole
+in the ceiling allows passage up.  
+~
+Flags 5
+Sector 0
+Reset M 40823 7 100
+Reset O 40881 -1 50
+Door 1 0 0 40981 0 0
+~
+~
+Door 4 0 0 40979 0 0
+~
+~
+End
+
+#40981
+Name Royal Passage~
+Descr
+You are in a huge tunnel in the merkitz caves.  Colored webbing covers
+the walls, many shades of red and blue have been hung to form elaborate
+patterns on the walls.  The tunnel continues to the east and west.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40982 0 0
+~
+~
+Door 3 0 0 40980 0 0
+~
+~
+End
+
+#40982
+Name Royal Passage~
+Descr
+You are in a huge tunnel in the merkitz caves.  A gigantic web framed
+archway is to your south, decorated by webs of every color.  The royal
+tunnel continues to your west.  You can hear the Clicking of tousands of
+merkitz all around you, and you fear what may lie ahead of you.  
+~
+Flags 7
+Sector 0
+Reset M 40825 2 75
+Reset O 40876 -1 100
+Reset O 40879 -1 5
+Reset M 40825 2 75
+Reset O 40876 -1 100
+Reset O 40879 -1 5
+Door 2 0 0 40984 0 0
+~
+~
+Door 3 0 0 40981 0 0
+~
+~
+End
+
+#40983
+Name Breeding Room~
+Descr
+The scened before you defies description, thousands upon thousand of
+merkitz eggs lie scattered upon the floor of this room.  Some are broken,
+some intact, while hundreds of small merkitz scamper around.  You start to
+wonder what so many merkitz eat, then your eyes fall upon five or six gnome
+corpses, some half eaten scattered around the room.  
+~
+Flags 5
+Sector 0
+Reset M 40826 50 50
+Reset O 40877 -5 25
+Reset O 40877 -5 25
+Reset M 40827 20 50
+Door 0 0 0 40898 0 0
+~
+~
+Door 1 0 0 40896 0 0
+~
+~
+End
+
+#40984
+Name Chamber of the Queen Merkitz~
+Descr
+You have entered a HUGE cavern.  Broken and unbroken merkitz eggs fill
+the room as far as you can see.  A monstrous thick web hangs from floor to
+ceiling.  You can barely make out a small crack in the ceiling that may
+allow passage in that direction.  The ominous sound of something huge moving
+about can be heard from the web.  You fear for your life and soul.  
+~
+Flags 1073741829
+Sector 0
+Reset M 40828 2 100
+Reset O 40879 -1 45
+Reset M 40828 2 100
+Reset O 40879 -1 45
+Reset M 40829 1 100
+Reset O 40882 21 3
+Door 0 0 0 40982 0 0
+~
+~
+Door 4 0 0 40889 0 0
+~
+~
+End
+
+#40985
+Name Wet Tunnel~
+Descr
+You are crawling through a wet tunnel in the merkitz caves.  A small
+rivulet of water flows down the side of the tunnel, and moss covers the
+walls.  You can continue climbing up, or back down.  
+~
+Flags 7
+Sector 0
+Door 4 0 0 40986 0 0
+~
+~
+Door 5 0 0 40979 0 0
+~
+~
+End
+
+#40986
+Name Wet Tunnel~
+Descr
+You are crawling through a wet tunnel in the merkitz caves.  A small
+rivulet of water flows down the side of the tunnel, and moss covers the
+walls.  You can continue climbing up, or back down.  
+~
+Flags 5
+Sector 0
+Reset M 40832 10 100
+Door 4 0 0 40987 0 0
+~
+~
+Door 5 0 0 40985 0 0
+~
+~
+End
+
+#40987
+Name Wet Tunnel~
+Descr
+You are crawling through a wet tunnel in the merkitz caves.  A small
+rivulet of water flows down the side of the tunnel, and moss covers the
+walls.  You can continue south, or climb down from here.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 40988 0 0
+~
+~
+Door 5 0 0 40986 0 0
+~
+~
+End
+
+#40988
+Name Wet Tunnel~
+Descr
+You are crawling through a wet tunnel in the merkitz caves.  You can hear
+the roaring of water to your east.  A small rivulet of water runs down the
+center of the tunnel, and you can feel a breeze from the east.  
+~
+Flags 5
+Sector 0
+Reset M 40833 2 50
+Reset M 40832 10 50
+Door 0 0 0 40987 0 0
+~
+~
+Door 1 0 0 40989 0 0
+~
+~
+End
+
+#40989
+Name Wet Tunnel~
+Descr
+You are crawling through a wet tunnel in the merkitz caves.  You can hear
+the roaring of water to your east.  A small rivulet of water runs down the
+center of the tunnel, and you can feel a breeze from the east.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 40990 0 0
+~
+~
+Door 3 0 0 40988 0 0
+~
+~
+End
+
+#40990
+Name Wet Tunnel~
+Descr
+You are crawling down a wet tunnel.  You can barely hear yourself think
+over the roaring of what sounds like water.  A strong breeze can be felt
+from the east.  You are soaked to the bone and hope you can get to someplace
+dry soon.  
+~
+Flags 5
+Sector 0
+Reset M 40832 10 100
+Door 1 0 0 40991 0 0
+~
+~
+Door 3 0 0 40989 0 0
+~
+~
+End
+
+#40991
+Name Scenic Overlook~
+Descr
+You are standing upon a ledge overlooking a raging river below you.  From
+this distance it is almost beautiful, you can see a large waterfall to the
+east where the rivers empties into who knows where.  The ledge is rather
+slick here, and the spray from the river is soaking you.  You can return to
+the wet tunnel to the north, or continue along the ledge to your south.  
+~
+Flags 5
+Sector 0
+Reset M 40833 50 2
+Door 2 0 0 40992 0 0
+~
+~
+Door 3 0 0 40990 0 0
+~
+~
+End
+
+#40992
+Name Scenic Overlook~
+Descr
+You are standing upon a ledge overlooking a raging river below you.  From
+this distance it is almost beautiful, you can see a large waterfall to the
+east where the rivers empties into who knows where.  The ledge is rather
+slick here, and the spray from the river is soaking you.  You can head back
+upon the ledge to your north.  
+~
+Flags 139269
+Sector 0
+Reset M 40832 10 100
+Move_dir 5
+Movemess
+suprised as you slip and fall over the edge!
+~
+Door 0 0 0 40991 0 0
+~
+~
+Door 5 0 0 40922 0 0
+~
+~
+End
+
+#40993
+Name Cell~
+Descr
+This is another room used to hold prisoners, but this one looks like it
+has been occupied recently.  Most of the webs have been moved to a corner of
+the room, and a small bed is set up in the center.  
+~
+Flags 8421383
+Sector 0
+Reset M 40831 5 100
+Door 2 259 0 40996 30 30
+~
+Webbing~
+End
+
+#40994
+Name Cell~
+Descr
+As you enter this room, the webbing falls behind you.  As you look around
+you decide that this is used to hold prisoners (before they eat them of
+course).  
+~
+Flags 8421383
+Sector 0
+Reset O 40877 -5 25
+Reset M 40831 5 100
+Door 2 259 0 40998 30 30
+~
+Webbing~
+End
+
+#40996
+Name Large Tunnel~
+Descr
+You are in a long tunnel heading east and west.  To your north you can
+see a room which appears to be almost full of webbing, you wonder what it is
+used for.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Door 0 3 0 40993 30 30
+~
+Webbing~
+Door 1 0 0 40970 0 0
+~
+~
+Door 3 0 0 40998 0 0
+~
+~
+End
+
+#40998
+Name Large Tunnel~
+Descr
+You are in a long tunnel heading east and west.  To your north you can
+see a room which appears to be almost full of webbing, you wonder what it is
+used for.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 40994 0 0
+~
+~
+Door 1 0 0 40996 0 0
+~
+~
+Door 3 0 0 40999 0 0
+~
+~
+End
+
+#40999
+Name Sloping Passageway~
+Descr
+You are walking along a passageway sloping downward.  The webbing seems
+to be less as you move along the passageway, and the clicking sound is
+getting further away.  The passage continues to the east and west.  
+~
+Flags 5
+Sector 0
+Reset O 40877 -5 25
+Door 1 0 0 40998 0 0
+~
+~
+Door 3 0 0 41000 0 0
+~
+~
+End
+
+#41000
+Name Sloping Passageway~
+Descr
+You are walking along a passageway sloping downward.  The webbing seems
+to be less as you move along the passageway, and the clicking sound is
+getting further away.  The passage continues to the east.  
+~
+Flags 7
+Sector 0
+Door 1 0 0 40999 0 0
+~
+~
+End
+
+#63901
+Name ~
+Descr
+~
+End
+
+#0
+
+
+
+#$

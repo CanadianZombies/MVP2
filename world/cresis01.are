@@ -1,0 +1,199 @@
+#AREADATA 
+Name Cresis' first~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Cresis Grian~
+VNUMs 66501 66600
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#66506
+Name newbie~
+Short kill me~
+Long 
+Type k newbie to attack me.
+~
+Descr
+~
+AMax 5
+NHeight 77
+ActBits 65554
+Money 10
+Level 10
+Sex 1
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#66501
+Name Entrance To Mud School~
+Descr
+Welcome newbies to mud school this is to help you learn how
+to play emlen muds and show you a few tips and all that good
+stuff. If you already know how to play head north if you would 
+like to learn a bit head south.
+~
+Flags 4
+Door 2 0 0 66502 0 0
+~
+~
+End
+
+#66502
+Name Mud School~
+Descr
+Well if your here you probably dont know how to play emlen muds. To
+start off there are mobs in this area called shop keepers. They wont do much
+here but on the open game u can sell\buy items off of them. See 'help shop' 
+~
+Flags 4
+Door 0 0 0 66501 0 0
+~
+~
+Door 1 0 0 66503 0 0
+~
+~
+Door 2 0 0 66507 0 0
+~
+~
+Door 3 0 0 66504 0 0
+~
+~
+End
+
+#66503
+Name A Hallway Through the Mud School~
+Descr
+~
+Flags 4
+Door 1 0 0 66506 0 0
+~
+~
+Door 3 0 0 66502 0 0
+~
+~
+End
+
+#66504
+Name A Hallway Through the Mud School~
+Descr
+~
+Flags 4
+Door 1 0 0 66502 0 0
+~
+~
+Door 3 0 0 66505 0 0
+~
+~
+End
+
+#66505
+Name Room~
+Descr
+To get stuff out of an object type get <item name> from <objects name>.
+Or if you wana put something in a object Type put <items name> in <objects
+name> 
+~
+Flags 4
+Door 1 0 0 66504 0 0
+~
+~
+End
+
+#66506
+Name Mud School~
+Descr
+To get in battle type k <mob name> to engage it.Type flurry to do a set
+of multiple attacks but it takes some of your moves to use it. 
+~
+Flags 4
+Reset M 66506 5 100
+Door 3 0 0 66503 0 0
+~
+~
+End
+
+#66507
+Name Room~
+Descr
+~
+Flags 4
+Door 0 0 0 66502 0 0
+~
+~
+Door 1 0 0 66508 0 0
+~
+~
+Door 3 0 0 66510 0 0
+~
+~
+End
+
+#66508
+Name Room~
+Descr
+~
+Flags 4
+Door 1 0 0 66509 0 0
+~
+~
+Door 3 0 0 66507 0 0
+~
+~
+End
+
+#66509
+Name Room~
+Descr
+~
+Flags 4
+Door 3 0 0 66508 0 0
+~
+~
+End
+
+#66510
+Name Room~
+Descr
+~
+Flags 4
+Door 1 0 0 66507 0 0
+~
+~
+Door 3 0 0 66511 0 0
+~
+~
+End
+
+#66511
+Name Room~
+Descr
+~
+Flags 4
+Door 1 0 0 66510 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

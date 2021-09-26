@@ -1,0 +1,1434 @@
+#AREADATA 
+Name Temple of Rakin~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe Temple is alive with the spirits of the past.
+~[0;37m
+SRepop 40
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 13100 13299
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#13290
+Name guardian spirit~
+Short guardian spirit~
+Long 
+A guardian spirit is here protecting all who call the temple home.
+~
+Descr
+~
+AMax 4
+NHeight 60
+ActBits -2147483632
+Affect_By 8
+Money 120
+Level 120
+Sex 1
+MobType 21
+Guard 0
+End
+
+#13291
+Name restless soul~
+Short a restless soul~
+Long 
+A restless soul is eternally damned to these halls.
+~
+Descr
+~
+AMax 6
+NHeight 80
+Money 100
+Level 100
+MobType 0
+Guard 0
+End
+
+#13293
+Name temple wanderer~
+Short a temple wanderer~
+Long 
+A temple wanderer wanders aimlessly about the room.
+~
+Descr
+~
+AMax 5
+NHeight 60
+ActBits 16
+Money 20
+Level 20
+Sex 2
+MobType 0
+Guard 0
+End
+
+#13294
+Name spirit warrior~
+Short a spirit warrior~
+Long 
+A spirit warrior wonders about his tomb.
+~
+Descr
+~
+AMax 6
+NHeight 40
+ActBits -2147483648
+Money 100
+Level 100
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#13296
+Name maud'dib~
+Short the great Maud'dib~
+Long 
+The great Maud'dib is here ready for yet another battle.
+~
+Descr
+~
+AMax 1
+NHeight 75
+ActBits -2147483390
+Affect_By 50332298
+Money 300
+Level 300
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#13298
+Name dead worker~
+Short a long dead worker~
+Long 
+A long dead worker gave his life to build this temple.
+~
+Descr
+~
+AMax 6
+NHeight 0
+Money 100
+Level 100
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#13292
+Name sparkling earring~
+Short a [1m[35ms[30mp[35ma[30mr[35mk[30ml[35mi[30mn[35mg [0m[1mearring[0m~
+Descr
+A sparkling earring is here sparkling.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 3 0 0 0 0 0 0 0
+Weight 1
+Cost 30132
+Affect 17 -3 1 0 0
+Affect 20 -3 1 0 0
+End
+
+#13295
+Name spirit maud'dib~
+Short the [1m[36mSpirit [30mof [36mMaud'dib[0m~
+Descr
+The spirit of maud'dib floats about the room.
+[0;36m~
+Type 9
+Extra 536870946
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 3 3 15 0 0 0 0 0
+Weight 0
+Cost 23952
+Affect 19 1 1 0 0
+Affect 17 -3 1 0 0
+Affect 20 -10 1 0 0
+End
+
+#13297
+Name chisel~
+Short a chisel~
+Descr
+An old and worn chisel looks to be a thousand years old is here.
+[0;36m~
+Type 5
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 11 0 0 0 2 3 0
+Weight 2
+Cost 0
+End
+
+#13299
+Name a great well~
+Short a great well~
+Descr
+A great well, which appears bottomless, is full of crystal clear water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#13100
+Name A Dark Corridor~
+Descr
+A dark and cramped corridor looks as if it was built very recently.
+Perhaps you should find out what or where it leads to. 
+~
+Flags 5
+Door 2 0 0 9653 0 0
+~
+~
+Door 5 0 0 13101 0 0
+~
+~
+End
+
+#13101
+Name A Dark Corridor~
+Descr
+A dark and cramped corridor looks as if it was built very recently.
+Perhaps you should find out what or where it leads to. 
+~
+Flags 5
+Door 0 0 0 13102 0 0
+~
+~
+Door 4 0 0 13100 0 0
+~
+~
+End
+
+#13102
+Name Before the Great Temple~
+Descr
+You can't believe your eyes!  A huge temple, built some thousands of
+years ago is right before you. It must have gotten buried over time and then
+recently discovered. 
+~
+Flags 5
+Door 0 0 0 13103 0 0
+~
+~
+Door 2 0 0 13101 0 0
+~
+~
+End
+
+#13103
+Name Entrance to the Great Temple~
+Descr
+The huge gates of the temple are before you. You have heard stories of
+how powerful the people who built it were and begin to question whether or
+not you really want to know what is on the other side of this gate. 
+~
+Flags 2
+Door 0 3 0 13104 30 30
+~
+gate~
+Door 2 0 0 13102 0 0
+~
+~
+End
+
+#13104
+Name Within the Temple~
+Descr
+As you look around the temple you notice what remarkable shape its in for
+being thousands of years old. Carvings line the walls with details of the
+people's history and you start to wonder if you should really be intruding
+on their temple. 
+~
+Flags 6
+Door 0 0 0 13105 0 0
+~
+~
+Door 2 3 0 13103 30 30
+~
+gate~
+End
+
+#13105
+Name Within the Temple~
+Descr
+As you look around the temple you notice what remarkable shape its in for
+being thousands of years old. Carvings line the walls with details of the
+people's history and you start to wonder if you should really be intruding
+on their temple. 
+~
+Flags 4
+Door 2 0 0 13104 0 0
+~
+~
+Door 4 0 0 13106 0 0
+~
+~
+End
+
+#13106
+Name Within the Temple~
+Descr
+As you look around the temple you notice what remarkable shape its in for
+being thousands of years old. Carvings line the walls with details of the
+people's history and you start to wonder if you should really be intruding
+on their temple. 
+~
+Flags 4
+Door 0 0 0 13107 0 0
+~
+~
+Door 5 0 0 13105 0 0
+~
+~
+End
+
+#13107
+Name Within the Temple~
+Descr
+As you look around the temple you notice what remarkable shape its in for
+being thousands of years old. Carvings line the walls with details of the
+people's history and you start to wonder if you should really be intruding
+on their temple. 
+~
+Flags 4
+Reset M 13290 1 100
+Door 0 0 0 13110 0 0
+~
+~
+Door 1 0 0 13109 0 0
+~
+~
+Door 2 0 0 13106 0 0
+~
+~
+Door 3 0 0 13108 0 0
+~
+~
+End
+
+#13108
+Name A Path Within the Temple~
+Descr
+The thin hallway is barely wide enough for you to fit through. There are
+warnings of walls that can cave in on an intruder of the temple. 
+~
+Flags 4
+Door 1 0 0 13107 0 0
+~
+~
+Door 3 0 0 13131 0 0
+~
+~
+End
+
+#13109
+Name A Path Within the Temple~
+Descr
+The thin hallway is barely wide enough for you to fit through. There are
+warnings of walls that can cave in on an intruder of the temple. 
+~
+Flags 4
+Reset M 13293 1 100
+Door 1 0 0 13111 0 0
+~
+~
+Door 3 0 0 13107 0 0
+~
+~
+End
+
+#13110
+Name A Great Well~
+Descr
+This well must go hundreds of feet into the earth. Crystal clear water
+must flow beneath the great temple for water to still be flowing from a well
+as old as this. 
+~
+Flags 4
+Reset O 13299 -5 100
+Door 2 0 0 13107 0 0
+~
+~
+End
+
+#13111
+Name A Path Within the Temple~
+Descr
+The thin hallway is barely wide enough for you to fit through. There are
+warnings of walls that can cave in on an intruder of the temple. 
+~
+Flags 4
+Door 3 0 0 13109 0 0
+~
+~
+Door 5 0 0 13112 0 0
+~
+~
+End
+
+#13112
+Name A Path Within the Temple~
+Descr
+The thin hallway is barely wide enough for you to fit through appears
+above you. There are warnings of walls that can cave in on an intruder of
+the temple. Perhaps you should stay in the main corridor. 
+~
+Flags 4
+Door 0 0 0 13113 0 0
+~
+~
+Door 3 0 0 13159 0 0
+~
+~
+Door 4 0 0 13111 0 0
+~
+~
+End
+
+#13113
+Name A Great Corridor~
+Descr
+Gold lines the floor of this great corridor. This is where the people
+would come to leave riches for their ancestors to use in the after life. 
+~
+Flags 4
+Door 0 0 0 13114 0 0
+~
+~
+Door 2 0 0 13112 0 0
+~
+~
+End
+
+#13114
+Name A Great Corridor~
+Descr
+Gold lines the floor of this great corridor. This is where the people
+would come to leave riches for their ancestors to use in the after life. 
+~
+Flags 4
+Door 0 0 0 13115 0 0
+~
+~
+Door 2 0 0 13113 0 0
+~
+~
+End
+
+#13115
+Name A Great Corridor~
+Descr
+Gold lines the floor of this great corridor. This is where the people
+would come to leave riches for their ancestors to use in the after life. 
+~
+Flags 4
+Door 1 0 0 13116 0 0
+~
+~
+Door 2 0 0 13114 0 0
+~
+~
+End
+
+#13116
+Name A Crumbling Hallway~
+Descr
+It looks like the ceiling could cave in at any moment!  The crumbling
+walls that surround you were once a great corridor, full of statues and
+sculptures. 
+~
+Flags 4
+Door 1 0 0 13117 0 0
+~
+~
+Door 3 0 0 13115 0 0
+~
+~
+End
+
+#13117
+Name A Crumbling Hallway~
+Descr
+It looks like the ceiling could cave in at any moment!  The crumbling
+walls that surround you were once a great corridor, full of statues and
+sculptures. 
+~
+Flags 6
+Door 3 0 0 13116 0 0
+~
+~
+Door 5 3 0 13118 30 30
+~
+rubble~
+End
+
+#13118
+Name A Broken Down Area of the Temple~
+Descr
+This part of the temple appears to have started to fall apart. Stones
+from the walls have fallen and broken into rubble on the floor. 
+~
+Flags 4
+Door 2 0 0 13119 0 0
+~
+~
+Door 4 3 0 13117 30 30
+~
+rubble~
+End
+
+#13119
+Name A Broken Down Area of the Temple~
+Descr
+This part of the temple appears to have started to fall apart. Stones
+from the walls have fallen and broken into rubble on the floor. 
+~
+Flags 4
+Reset M 13298 1 100
+Door 0 0 0 13118 0 0
+~
+~
+Door 3 0 0 13120 0 0
+~
+~
+End
+
+#13120
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 1 0 0 13119 0 0
+~
+~
+Door 2 0 0 13122 0 0
+~
+~
+Door 3 0 0 13121 0 0
+~
+~
+End
+
+#13121
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 1 0 0 13120 0 0
+~
+~
+Door 3 0 0 13126 0 0
+~
+~
+End
+
+#13122
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Reset M 13298 1 100
+Door 0 0 0 13120 0 0
+~
+~
+Door 2 0 0 13123 0 0
+~
+~
+End
+
+#13123
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 0 0 0 13122 0 0
+~
+~
+Door 3 0 0 13124 0 0
+~
+~
+End
+
+#13124
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 1 0 0 13123 0 0
+~
+~
+Door 2 0 0 13125 0 0
+~
+~
+End
+
+#13125
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Reset M 13298 1 100
+Reset O 13297 21 20
+Door 0 0 0 13124 0 0
+~
+~
+End
+
+#13126
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Reset M 13298 1 100
+Door 1 0 0 13121 0 0
+~
+~
+Door 2 0 0 13127 0 0
+~
+~
+Door 3 0 0 13128 0 0
+~
+~
+End
+
+#13127
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 0 0 0 13126 0 0
+~
+~
+Door 3 0 0 13129 0 0
+~
+~
+End
+
+#13128
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Door 0 0 0 13130 0 0
+~
+~
+Door 1 0 0 13126 0 0
+~
+~
+Door 2 0 0 13129 0 0
+~
+~
+End
+
+#13129
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Reset M 13298 1 100
+Reset O 13297 30 75
+Door 0 0 0 13128 0 0
+~
+~
+Door 1 0 0 13127 0 0
+~
+~
+End
+
+#13130
+Name A Buried Tomb~
+Descr
+You have stumbled upon the workers who gave their lives to build this
+temple. They do not take lightly to ones who might mar their work. 
+~
+Flags 4
+Reset M 13298 1 100
+Reset O 13297 21 40
+Door 2 0 0 13128 0 0
+~
+~
+End
+
+#13131
+Name A Narrow Hallway~
+Descr
+The thin hallway is barely wide enough for you to fit through. There are
+warnings of walls that can cave in on an intruder of the temple. 
+~
+Flags 4
+Door 0 0 0 13132 0 0
+~
+~
+Door 1 0 0 13108 0 0
+~
+~
+End
+
+#13132
+Name A Narrow Hallway~
+Descr
+The thin hallway is barely wide enough for you to fit through. There are
+warnings of walls that can cave in on an intruder of the temple. 
+~
+Flags 4
+Door 0 0 0 13133 0 0
+~
+~
+Door 2 0 0 13131 0 0
+~
+~
+End
+
+#13133
+Name A Small Junction Within the Temple~
+Descr
+It appears that there is a fork in the temple.  Two small paths can be seen
+leading away from the junction with no end in site for either path.
+~
+Flags 4
+Reset M 13290 1 100
+Door 1 0 0 13134 0 0
+~
+~
+Door 2 0 0 13132 0 0
+~
+~
+Door 3 0 0 13135 0 0
+~
+~
+End
+
+#13134
+Name A Large Hallway~
+Descr
+The hallway walls are covered in some ancient language. Of all the
+pictures on the wall the one that catches your eye appears to have a Rakin
+warrior beheading someone. 
+~
+Flags 4
+Reset M 13293 1 100
+Door 0 0 0 13136 0 0
+~
+~
+Door 3 0 0 13133 0 0
+~
+~
+End
+
+#13135
+Name A Dark Hallway~
+Descr
+The walls here are completely black. Perhaps now is the time for you to
+leave this sacred temple while you still live. 
+~
+Flags 4
+Door 0 0 0 13145 0 0
+~
+~
+Door 1 0 0 13133 0 0
+~
+~
+End
+
+#13136
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Door 0 0 0 13137 0 0
+~
+~
+Door 1 0 0 13138 0 0
+~
+~
+Door 2 0 0 13134 0 0
+~
+~
+End
+
+#13137
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Door 0 0 0 13140 0 0
+~
+~
+Door 2 0 0 13136 0 0
+~
+~
+End
+
+#13138
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Reset M 13290 1 100
+Door 1 0 0 13139 0 0
+~
+~
+Door 3 0 0 13136 0 0
+~
+~
+End
+
+#13139
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Reset M 13293 1 100
+Door 0 0 0 13141 0 0
+~
+~
+Door 3 0 0 13138 0 0
+~
+~
+End
+
+#13140
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Door 1 0 0 13143 0 0
+~
+~
+Door 2 0 0 13137 0 0
+~
+~
+End
+
+#13141
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Door 0 0 0 13142 0 0
+~
+~
+Door 2 0 0 13139 0 0
+~
+~
+End
+
+#13142
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Reset M 13290 1 100
+Door 2 0 0 13141 0 0
+~
+~
+Door 3 0 0 13143 0 0
+~
+~
+End
+
+#13143
+Name Hall of Ancients~
+Descr
+The great hall is where all the ancients of the past have left their
+mark. The walls are lined with details of their lives and what they
+accomplished. 
+~
+Flags 4
+Reset M 13293 1 100
+Door 1 0 0 13142 0 0
+~
+~
+Door 2 0 0 13144 0 0
+~
+~
+Door 3 0 0 13140 0 0
+~
+~
+End
+
+#13144
+Name Hall of Worship~
+Descr
+For thousands of years, people would come from all around the world to
+worship in this very spot. The walls are lined with beautiful carvings and
+sculptures. 
+~
+Flags 3162118
+Door 0 0 0 13143 0 0
+~
+~
+End
+
+#13145
+Name Warriors Path~
+Descr
+Sculptures of the great warriors of the past line the armor filled halls. 
+~
+Flags 4
+Reset M 13293 1 100
+Door 2 0 0 13135 0 0
+~
+~
+Door 3 0 0 13146 0 0
+~
+~
+End
+
+#13146
+Name Warriors Path~
+Descr
+Sculptures of the great warriors of the past line the armor filled halls. 
+~
+Flags 6
+Door 1 0 0 13145 0 0
+~
+~
+Door 5 3 0 13147 30 30
+~
+tomb~
+End
+
+#13147
+Name Warriors Hall~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 6
+Reset M 13294 1 100
+Door 0 0 0 13150 0 0
+~
+~
+Door 1 0 0 13151 0 0
+~
+~
+Door 2 0 0 13148 0 0
+~
+~
+Door 3 0 0 13149 0 0
+~
+~
+Door 4 3 0 13146 30 30
+~
+tomb~
+Door 5 259 0 13156 30 30
+~
+secret~
+End
+
+#13148
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Door 0 0 0 13147 0 0
+~
+~
+Door 1 0 0 13152 0 0
+~
+~
+Door 3 0 0 13153 0 0
+~
+~
+End
+
+#13149
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Door 0 0 0 13155 0 0
+~
+~
+Door 1 0 0 13147 0 0
+~
+~
+Door 2 0 0 13153 0 0
+~
+~
+End
+
+#13150
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Door 1 0 0 13154 0 0
+~
+~
+Door 2 0 0 13147 0 0
+~
+~
+Door 3 0 0 13155 0 0
+~
+~
+End
+
+#13151
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Reset M 13294 1 100
+Door 0 0 0 13154 0 0
+~
+~
+Door 2 0 0 13152 0 0
+~
+~
+Door 3 0 0 13147 0 0
+~
+~
+End
+
+#13152
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Reset M 13294 1 100
+Door 0 0 0 13151 0 0
+~
+~
+Door 3 0 0 13148 0 0
+~
+~
+End
+
+#13153
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Reset M 13294 1 100
+Door 0 0 0 13149 0 0
+~
+~
+Door 1 0 0 13148 0 0
+~
+~
+End
+
+#13154
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Reset M 13294 1 100
+Door 2 0 0 13151 0 0
+~
+~
+Door 3 0 0 13150 0 0
+~
+~
+End
+
+#13155
+Name A Warrior's Tomb~
+Descr
+It is said that the spirit of the greatest fighters still wander these
+very halls. The walls are lined with art that shows these great warriors in
+viscous battle. 
+~
+Flags 4
+Reset M 13294 1 100
+Door 1 0 0 13150 0 0
+~
+~
+Door 2 0 0 13149 0 0
+~
+~
+End
+
+#13156
+Name Entrance to the Great Tomb~
+Descr
+A huge tomb has been hidden within the temple. A picture on the wall
+depicts a spirit arising to fight anyone who might dare to enter it. 
+~
+Flags 4
+Door 3 0 0 13157 0 0
+~
+~
+Door 4 3 0 13147 30 30
+~
+secret~
+End
+
+#13157
+Name The Tomb of Maud'dib~
+Descr
+Maud'dib was the greatest warrior of all time. It is rumored that he
+fought for hundreds of years and defeated entire armies with nothing but his
+bare hands. 
+~
+Flags 4
+Reset M 13296 1 100
+Reset O 13295 15 1
+Reset O 13292 26 1
+Door 1 0 0 13156 0 0
+~
+~
+End
+
+#13159
+Name A Lost Corridor~
+Descr
+Judging by the markings on the walls, this is where the lost souls are
+kept. Those who betrayed their elders are have been damned to this hallway
+forever!  Perhaps it would be best if you went the other way. 
+~
+Flags 4
+Door 1 0 0 13112 0 0
+~
+~
+Door 3 0 0 13160 0 0
+~
+~
+End
+
+#13160
+Name A Lost Corridor~
+Descr
+Judging by the markings on the walls, this is where the lost souls are
+kept. Those who betrayed their elders are have been damned to this hallway
+forever!  Perhaps it would be best if you went the other way. 
+~
+Flags 4
+Door 1 0 0 13159 0 0
+~
+~
+Door 2 0 0 13161 0 0
+~
+~
+End
+
+#13161
+Name A Lost Corridor~
+Descr
+Judging by the markings on the walls, this is where the lost souls are
+kept. Those who betrayed their elders are have been damned to this hallway
+forever!  Perhaps it would be best if you went the other way. 
+~
+Flags 4
+Door 0 0 0 13160 0 0
+~
+~
+Door 5 3 0 13162 30 30
+~
+stone~
+End
+
+#13162
+Name Entrance to the Halls of Sin~
+Descr
+Judging by what you can make out of the symbols that line the entrance,
+this appears to be where they beat and killed all those who conspired
+against them. 
+~
+Flags 4
+Door 3 0 0 13163 0 0
+~
+~
+Door 4 3 0 13161 30 30
+~
+stone~
+End
+
+#13163
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 1 100
+Door 0 0 0 13165 0 0
+~
+~
+Door 1 0 0 13162 0 0
+~
+~
+Door 2 0 0 13164 0 0
+~
+~
+Door 3 0 0 13166 0 0
+~
+~
+End
+
+#13164
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Door 0 0 0 13163 0 0
+~
+~
+Door 3 0 0 13168 0 0
+~
+~
+End
+
+#13165
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Door 0 0 0 13169 0 0
+~
+~
+Door 2 0 0 13163 0 0
+~
+~
+Door 3 0 0 13167 0 0
+~
+~
+End
+
+#13166
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Door 0 0 0 13167 0 0
+~
+~
+Door 1 0 0 13163 0 0
+~
+~
+Door 2 0 0 13168 0 0
+~
+~
+End
+
+#13167
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 1 100
+Door 0 0 0 13170 0 0
+~
+~
+Door 1 0 0 13165 0 0
+~
+~
+Door 2 0 0 13166 0 0
+~
+~
+End
+
+#13168
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 1 100
+Door 0 0 0 13166 0 0
+~
+~
+Door 1 0 0 13164 0 0
+~
+~
+End
+
+#13169
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 5 75
+Door 2 0 0 13165 0 0
+~
+~
+Door 3 0 0 13170 0 0
+~
+~
+End
+
+#13170
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Door 0 0 0 13173 0 0
+~
+~
+Door 1 0 0 13169 0 0
+~
+~
+Door 2 0 0 13167 0 0
+~
+~
+Door 3 0 0 13171 0 0
+~
+~
+End
+
+#13171
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 1 100
+Door 0 0 0 13172 0 0
+~
+~
+Door 1 0 0 13170 0 0
+~
+~
+End
+
+#13172
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Door 1 0 0 13173 0 0
+~
+~
+Door 2 0 0 13171 0 0
+~
+~
+End
+
+#13173
+Name Halls of Sin~
+Descr
+The halls of sin are where all souls who have sinned against the great
+spirits are forever damned. You can hear the screams of the lost souls that
+still try to escape these halls. 
+~
+Flags 4
+Reset M 13291 1 100
+Door 2 0 0 13170 0 0
+~
+~
+Door 3 0 0 13172 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

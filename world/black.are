@@ -1,0 +1,1312 @@
+#AREADATA 
+Name Orc Spawning Grounds~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mSome grunting noises can be heard nearby.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Blackhand~
+VNUMs 19601 19699
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#19601
+Name Orcish Grunt~
+Short a small orcish grunt~
+Long 
+You see a small Orcish Grunt standing here.
+~
+Descr
+The Orc has many battle wounds on him.  With two teeth that stick straight
+up, and a face with horror, you are stricken with terror.
+~
+AMax 10
+NHeight 0
+ActBits 402653201
+ActBits3 8192
+Affect_By 512
+Alignment -300
+Money 14
+Level 14
+Sex 1
+MobType 25
+Guard 19602
+Spec spec_warrior
+RaceHate 1
+End
+
+#19602
+Name Blackheart~
+Short Blackheart~
+Long 
+You see Blackheart, the leader of the orcish hoards sitting upon his throne.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 552
+Alignment -1000
+Money 37
+Level 37
+Sex 1
+MobType 25
+Guard 0
+RaceHate 1
+End
+
+#19603
+Name Orc baby~
+Short a small Orcish baby~
+Long 
+You see a a small, cute Orcish baby crawling here.
+~
+Descr
+The small and tiny orc baby is so cute!  You wish you could but the fangs that protrude upward draw you away.
+~
+AMax 1
+NHeight 0
+ActBits 55
+Alignment -300
+Money 1
+Level 1
+Sex 1
+MobType 25
+Guard 0
+End
+
+#19604
+Name Orcish Nurse~
+Short an orcish nurse~
+Long 
+You see an Orcish Nurse standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+ActBits3 4
+Affect_By 512
+Alignment -300
+Money 10
+Level 10
+Sex 2
+MobType 25
+Guard 19603
+End
+
+#19605
+Name royal savage orc guard~
+Short a Royal Orc Savage Guard~
+Long 
+A Royal Savage Orc Guard is here, guarding his post.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 19
+ActBits3 4
+Affect_By 520
+Alignment -800
+Money 26
+Level 26
+Sex 1
+MobType 25
+Guard 19602
+RaceHate 335544320
+End
+
+#19606
+Name large orc savage~
+Short a large Orcish Savage~
+Long 
+You see a large Orcish Savage standing here.
+~
+Descr
+~
+AMax 10
+NHeight 0
+ActBits 415236113
+ActBits3 8192
+Affect_By 512
+Alignment -500
+Money 7
+Level 7
+Sex 1
+MobType 25
+Guard 0
+RaceHate 1
+ArmorClass 4
+End
+
+#19607
+Name kealdon~
+Short Kealdon~
+Long 
+You see Kealdon, the Wolf keeper.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 520
+Alignment -700
+Money 56
+Level 56
+Sex 1
+MobType 25
+Guard 0
+Shop    0   0   0   0   0 100 50 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass 1
+End
+
+#19608
+Name a huge war wolf~
+Short a huge war wolf~
+Long 
+You see a heavily armoured War Wolf awaiting your command.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 8259
+Affect_By 520
+Alignment -300
+Money 8
+Level 8
+Sex 1
+MobType 6
+Guard 0
+ArmorClass 5
+End
+
+#19609
+Name white dragon~
+Short a white dragon~
+Long 
+You see a white dragon tending her young.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 680
+Alignment 400
+Money 41
+Level 41
+Sex 2
+MobType 5
+Guard 0
+End
+
+#19610
+Name black dragon~
+Short a black dragon~
+Long 
+You see a black dragon here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 164384
+Alignment -900
+Money 44
+Level 44
+Sex 1
+MobType 5
+Guard 0
+End
+
+#19611
+Name High Druid~
+Short a High Druid~
+Long 
+A dark and evil High Druid stands here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 536871187
+Alignment -500
+Money 60
+Level 60
+Sex 1
+MobType 26
+Guard 0
+End
+
+#19612
+Name Dog Keeper~
+Short a Dog Keeper~
+Long 
+You see a dog keeper guarding the pen.
+~
+Descr
+The Orcish keeper stands quitely with intuitive watch.
+~
+AMax 1
+NHeight 0
+ActBits 19
+ActBits3 4
+Alignment -400
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 19607
+RaceHate 134217728
+End
+
+#0
+
+
+
+#OBJDATA
+#19601
+Name lair~
+Short The Entrance to the Lair~
+Descr
+[Other Exits: Lair]
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 19602 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr Lair~
+You see the entrance to the Lair.
+
+
+~
+End
+
+#19602
+Name Cave Entrance~
+Short The Way into the Cave~
+Descr
+[Other Exits: Cave]
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 19620 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr Cave~
+The cave is just south ahead in front of you.
+
+
+~
+End
+
+#19603
+Name Meat~
+Short A small piece of [31mmeat.~
+Descr
+You see a small piece of [31mmeat.
+[0;36m~
+Type 19
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10
+ExtraDescr meat~
+You see a raw piece of meat on a bone.
+
+
+~
+ExtraDescr food~
+You see a raw piece of meat on a bone.
+
+
+~
+End
+
+#19604
+Name The Black Key~
+Short a small black key~
+Descr
+You see a sturdy Black Key
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr Key~
+You see a Black Key
+
+
+~
+ExtraDescr Black~
+You see a Black Key.
+
+
+~
+End
+
+#19605
+Name Orc Blade~
+Short an orcish blade~
+Descr
+An orcish blade lies on the ground here.
+[0;36m~
+Type 5
+Extra 2097681
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 40 3 0 3 0 0 0 3 3 0
+Weight 8
+Cost 1540
+Affect 18 -1 1 0 0
+Affect 19 2 1 0 0
+ExtraDescr Blade~
+You see a dark shining Orc Blade.
+
+
+~
+End
+
+#19606
+Name Orc Breast Plate~
+Short an Orcish Breast Plate~
+Descr
+You see an orcish Breast Plate lying on the ground.
+[0;36m~
+Type 9
+Extra 528
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 6
+Cost 2000
+Affect 17 -1 1 0 0
+Affect 2 -2 1 0 0
+ExtraDescr plate~
+You see an Orcish Breast Plate... with it's dark dismissable shine.
+
+
+~
+ExtraDescr Breast~
+You see an Orcish Breast Plate... with it's dark dismissable shine.
+
+
+~
+End
+
+#19607
+Name The Wolf Pen~
+Short a Wolf Pen~
+Descr
+You see a Wolf Pen.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr wolf~
+You see a shit load of wolves barking thier lungs out.
+
+
+~
+ExtraDescr pen~
+You see a shit load of wolves barking their lungs out.
+
+
+~
+End
+
+#19608
+Name Slide Hole~
+Short A Hidden Carved Hole~
+Descr
+You see a hidden carved hole.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 19622 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr Hidden~
+This hidden carved hole is concealed under the forest's bed of leaves, moss,
+
+
+and branches.  What kind of person would want to carve a whole like this in the
+
+
+middle of a forest?
+
+
+~
+ExtraDescr hole~
+This hidden carved hole is concealed under the forest's bed of leaves, moss,
+
+
+and branches.  What kind of person or thing would want to carve a whole like
+
+
+this in the middle of a forest?
+
+
+~
+End
+
+#19610
+Name Dragon Tooth~
+Short a dragon's tooth~
+Descr
+A dragon's tooth lies here; it looks sharp.
+[0;36m~
+Type 5
+Extra 4194304
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 100 0 2 0 0 0 3 4 0
+Weight 0
+Cost 500
+Affect 18 2 1 0 0
+End
+
+#19611
+Name Dwarven Corpse~
+Short a rotting dwarven corpse~
+Descr
+You see a dead, rotting, dwarven corpse lying here.
+[0;36m~
+Type 23
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19612
+Name Diary~
+Short A diary~
+Descr
+You see a diary.
+[0;36m~
+Type 11
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr diary~
+Day 1, Month of Carnage Daeo - The days have been long since the starting
+
+
+of carving a way through the mountain side.  We have gone 20 feet into
+
+
+the mountainside without any problem.  The other dwarves are lagging behind,
+
+
+but no trouble, I can manage myself with the help of my fellow half-giants.
+
+
+============================================================================
+
+
+Day 3, Month of Carnage Daeo - Many of the workers have come to our camp
+
+
+site outside of this cave drunk and delireous.  Things started getting
+
+
+serious when reports and citings of dragons are heard by mouth from some
+
+
+older workers here.  The cave we have dug is not even half done.  If the
+
+
+other dwarves continue with the habit they have acquired, this dig will 
+
+
+never get done.
+
+
+============================================================================
+
+
+Day 6, Month of Carnage Daeo - Other dwarves have finally taken this dig
+
+
+seriously.  We have been finding ancient artifacts of dark and evil druidic
+
+
+worship, but these remains have been here for over 200 or more years.  The
+
+
+sitings of dragons increase.  I have no fear, we have over 16 warriors here
+
+
+that are guarding us against the orcs, and over 20 mages here that guard us
+
+
+from anything else.  I laugh in the face of dragons!
+
+
+============================================================================
+
+
+Day 9, Month of Carnage Daeo - We have only accomplished 25% of our 
+
+
+original plan even with people working hard.  This morning, a dragon was
+
+
+defeated but due to a casualty.  These black dragons are deadly, and a mage
+
+
+sacrificed his life to save his other fellow friends.  Today we held a short
+
+
+funeral for the brave soul.  
+
+
+=============================================================================
+
+
+Day 11, Month of Carnage Daeo - All work has stopped on the dig.  We are now
+
+
+evacuating the site because of over 10 sitings of black dragons.  So far,
+
+
+a total of 3 good fighters, and 10 mages have died.  We cannot sustain the
+
+
+attack and growth of the black dragons.  I have build this secret room in
+
+
+anything happens to us on our evacuation.
+
+
+==============================================================================
+
+
+Day 13, Month of Carnage Daeo - On our evacuation, 5 black dragons have 
+
+
+attacked us.  We lost all our mages and all our fighters.  The fight was
+
+
+gruesome, and hurt us bad.  We took them down with us though.  We have
+
+
+almost half of the population who started on the dig with us.  The dragons
+
+
+have blocked our evacuation and I am forced to live in this secret room
+
+
+with my other friends.  The black dragons have populated most of the 
+
+
+cave now and are making their homes here.  
+
+
+=============================================================================
+
+
+Day 15, Month of Carnage Daeo - Many of my friends have gone insane and
+
+
+left the saftey of the secret room i have made.  I do not know what fate
+
+
+has laid upon them, but i am glad that i will not suffer at the hands of a 
+
+
+black dragon.
+
+
+=============================================================================
+
+
+Day 19, Month of Carnage Daeo - Food shortage out.  Ink running out.  Dying
+
+
+of starvation.  Cannot leave room, dragons coming in & out of cave.  Eyesight
+
+
+going out.  Anyone who finds this diary, help me continue riddence of cave.
+
+
+Find out fate of dwarven race.  Find mother and talk.  
+
+
+=============================================================================
+
+
+Day 21, Month of Carnage Daeo - Dyin-g .. . ple.. as..e he..lp
+
+
+=============================================================================
+
+
+*no more entries*
+
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#19601
+Name Entrance to the Orc's Lair~
+Descr
+You come upon the cave entrance of the Orc's lair.  The entrace is not much
+more than 9 ft. tall and 12 ft. wide.  The entrance is shaped most likely
+like the skull of an Orc.  It is very dangerous to travel ahead without
+any help.
+~
+Sector 3
+Reset O 19601 -5 100
+Movemess
+(null)~
+Door 2 0 0 19606 30 30
+~
+door~
+End
+
+#19602
+Name The Fork in the Orc's Entrance~
+Descr
+The ceiling of the cave are lined with stalagmites as you travel further
+into the cave.  The path splits into 3 directions, where should you go?
+~
+Flags 4
+Sector 0
+Reset M 19601 20 50
+Reset O 19606 4 30
+Reset O 19605 21 30
+Reset O 19603 11 60
+Reset M 19601 20 50
+Reset O 19603 11 60
+Reset M 19601 20 40
+Reset O 19606 4 30
+Reset O 19603 11 60
+Reset M 19606 5 100
+Reset O 19606 -1 40
+Reset O 19603 11 60
+Reset M 19606 5 100
+Reset O 19603 11 50
+Reset M 19606 5 100
+Reset O 19603 11 50
+Reset M 19606 5 100
+Reset O 19606 4 50
+Reset O 19603 -1 75
+Reset M 19606 5 100
+Reset O 19603 11 50
+Movemess
+(null)~
+Door 0 0 0 19604 30 30
+~
+door~
+Door 1 0 0 19603 30 30
+~
+door~
+Door 2 0 0 19601 30 30
+This is the way back out of the orc lair.
+~
+door~
+Door 3 0 0 19605 30 30
+~
+door~
+End
+
+#19603
+Name The Orc's Nursery~
+Descr
+You enter a room filled with little baby Orcs screaming and crying.  Some
+even crawl around you and hold on to your legs.  Hmm, who's keeping watch
+on these babies?
+~
+Flags 4
+Sector 0
+Reset M 19603 2 40
+Reset M 19604 2 40
+Movemess
+(null)~
+Door 0 0 0 19612 30 30
+~
+door~
+Door 3 0 0 19602 30 30
+~
+door~
+End
+
+#19604
+Name Hallway~
+Descr
+You are walking down a small tunnel, or hallway with torches lighting up
+the sides of the walls. Your journey should be short, for the Orc's 
+activites are vigorous and active here.
+~
+Flags 4
+Sector 0
+Reset M 19606 5 60
+Reset M 19606 5 60
+Reset M 19606 5 60
+Reset M 19606 5 60
+Reset M 19601 10 70
+Reset M 19601 10 70
+Reset M 19601 10 70
+Reset M 19601 10 70
+Movemess
+(null)~
+Door 0 0 0 19607 30 30
+~
+door~
+Door 2 0 0 19602 30 30
+~
+door~
+Door 3 0 0 19609 30 30
+~
+door~
+End
+
+#19605
+Name The Orcish Mess Hall~
+Descr
+You arrive at the very place where the orcs eat in their barbaric ways.
+You remember romours of how the orcs eat their prey raw and barbaricyly.
+The smell of rotted meat littered on the ground, and flies makes you want
+to turn back.
+~
+Flags 4
+Sector 0
+Reset M 19601 10 50
+Reset O 19605 21 25
+Reset O 19603 -1 75
+Reset M 19601 10 50
+Reset O 19606 4 30
+Reset O 19605 21 25
+Reset O 19603 11 50
+Reset M 19601 10 50
+Reset O 19605 21 20
+Reset O 19603 11 50
+Reset M 19601 10 40
+Reset O 19606 4 40
+Reset O 19603 11 50
+Reset M 19601 10 40
+Reset O 19606 4 40
+Reset O 19603 11 60
+Reset M 19606 5 70
+Reset O 19603 11 60
+Reset M 19606 5 70
+Reset O 19603 11 60
+Reset M 19606 5 70
+Reset O 19603 11 60
+Reset M 19606 5 70
+Reset O 19603 11 70
+Reset M 19606 5 70
+Reset O 19603 11 70
+Reset M 19606 5 70
+Reset O 19603 11 50
+Movemess
+(null)~
+Door 0 0 0 19609 30 30
+~
+door~
+Door 1 0 0 19602 30 30
+~
+door~
+End
+
+#19606
+Name A Carved Path Through the Trees~
+Descr
+You are travelling through a path of trees that have been cleared. If not
+for the obvious marks, you wouldn't have noticed this path.
+You see tracks leading north.
+~
+Sector 3
+Reset M 19606 3 50
+Reset M 19601 3 40
+Movemess
+(null)~
+Door 0 0 0 19601 30 30
+~
+door~
+Door 2 0 0 19613 30 30
+~
+door~
+End
+
+#19607
+Name The Orcish Throne Room~
+Descr
+This is the main room where the Orcish hoard's king sits to rest and command s troops.  The room is brightly lighted, and designs of skulls and the such are
+hung on the walls.
+~
+Flags 4
+Sector 0
+ExtraDescr Door~
+You see a Door.
+
+
+~
+Reset M 19602 1 100
+Reset O 19605 21 90
+Reset O 19604 11 100
+Reset M 19605 2 100
+Reset O 19606 4 60
+Reset O 19605 21 40
+Reset M 19605 2 100
+Reset O 19606 4 60
+Reset O 19605 21 40
+Movemess
+(null)~
+Door 0 259 19604 19608 50 50
+~
+hidden door~
+Door 2 0 0 19604 30 30
+~
+door~
+End
+
+#19608
+Name The Orc's Treasure Room~
+Descr
+You are in a huge holding of gold and wealth.
+You are very, very tempted to take things from this room.
+~
+Flags 268435460
+Sector 0
+Reset O 19603 -5 100
+Movemess
+(null)~
+Door 2 259 0 19607 50 50
+~
+hidden door~
+End
+
+#19609
+Name The Orc's Training Room~
+Descr
+The circular room is set with dust and sand at your feet.  Only at times
+when the Orcs need special training the 10 torches are unlit and they begin
+their night training.  This explains why some Orcs are so skilled at night 
+time fighting.  
+~
+Flags 4
+Sector 0
+Reset M 19606 15 40
+Reset M 19606 15 40
+Reset M 19606 15 40
+Reset M 19606 15 40
+Reset M 19601 15 50
+Reset M 19601 15 50
+Reset M 19601 15 50
+Reset M 19601 15 50
+Movemess
+(null)~
+Door 1 0 0 19604 30 30
+~
+door~
+Door 2 0 0 19605 30 30
+~
+door~
+Door 3 0 0 19610 30 30
+~
+door~
+End
+
+#19610
+Name Wolf Pen~
+Descr
+This is the wolf pen that the orcs use to train any wolf into WAR wolves.
+They can be purchased from Kealdon and can be MOUNTED, and followed as a
+pet.  The wolves bark at your entrance.
+~
+Flags 70
+Sector 0
+Reset O 19607 -5 100
+Reset M 19607 1 100
+Reset M 19612 1 100
+Movemess
+(null)~
+Door 1 0 0 19609 30 30
+~
+door~
+End
+
+#19611
+Name Pet Storage Room~
+Descr
+Room for dogs to be sold at 19610
+~
+Sector 0
+Reset M 19608 5 100
+Reset M 19608 5 100
+Reset M 19608 5 100
+Reset M 19608 5 100
+Reset M 19608 5 100
+Movemess
+(null)~
+End
+
+#19612
+Name Orcish Meat Room~
+Descr
+You see a large number of orcish arms and legs hanging on the wall.  
+The counter and the floor is spilled with orcish blood and insides.  You
+know now that this room is designed to treat Orcs of their illnessess and
+injuries.  Though, with all of this gore, you feel healed and rested when 
+you enter this room.
+~
+Flags 3145750
+Sector 0
+Movemess
+(null)~
+Door 2 0 0 19603 30 30
+~
+door~
+End
+
+#19613
+Name Cobblestone Path~
+Descr
+You are walking along a paved cobblestone road in the middle of the roaring
+jungle.  The magnificent trees tower above you as you look around.  Best
+be careful, romours have it that the orcs travel along this road 
+searching for their prey.
+~
+Sector 3
+Reset M 19601 3 30
+Movemess
+(null)~
+Door 0 0 0 19606 30 30
+~
+Path~
+Door 1 0 0 19616 30 30
+~
+door~
+Door 2 0 0 19624 30 30
+~
+door~
+Door 3 0 0 19614 30 30
+~
+door~
+End
+
+#19614
+Name Cobblestone Path~
+Descr
+You are walking along a paved cobblestone road in the middle of the roaring
+jungle.  The magnificent trees tower above you as you look around.  The
+smell of the outdoors ignite your interest in exploring and hiking through
+the woods here.  With all this to see and feel, you wonder who made the 
+cobblestone path through the woods you are traveling on.
+~
+Sector 3
+Reset M 19606 3 30
+Movemess
+(null)~
+Door 1 0 0 19613 30 30
+~
+door~
+Door 3 0 0 19615 30 30
+~
+door~
+End
+
+#19615
+Name Cobblestone Path~
+Descr
+You come to the end of the cobble stone path.  From here on, only a cliff is
+in the way, and a dirt path south is the only other way to go other than back.
+Strange noises come from the south.
+~
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 19614 30 30
+~
+door~
+Door 2 0 0 19617 30 30
+~
+door~
+End
+
+#19616
+Name Cobblestone Path~
+Descr
+The trees tower over you, and you feel a sense of serenity.  Birds chirp,
+insects mating, and other peacefull sounds make you feel like resting.
+What ever happened to those Orcs that you heard about that inhabitied
+these woods?
+~
+Flags 2
+Sector 3
+Movemess
+(null)~
+Door 1 0 0 11236 0 0
+~
+~
+Door 3 0 0 19613 30 30
+~
+door~
+End
+
+#19617
+Name Dirt Path~
+Descr
+This path is littered with blood drops and skulls laying in a row at the
+edges of the path.  You see many footsteps going in the same direction, but
+none coming back.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 19615 30 30
+~
+door~
+Door 2 0 0 19618 30 30
+~
+door~
+End
+
+#19618
+Name Dirt Path to Huge Caves~
+Descr
+This path is littered with blood drops and skulls laying in a row at the
+edges of the path.  Huge tracks of dragon feet are seen.  The site of the
+tracks make you want to turn back and run!
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 19617 30 30
+~
+door~
+Door 2 0 0 19619 30 30
+~
+door~
+Door 3 0 0 19623 30 30
+~
+door~
+End
+
+#19619
+Name Entrance to Gigantic Caves~
+Descr
+You are standing at the opening of a gigantic, 20 stories high cave.
+The width of the cave is about 10 stories wide.  You wonder
+what could be living in such a cave?
+~
+Flags 2
+Shd 1
+Sector 4
+Reset O 19602 -5 100
+Movemess
+(null)~
+Door 0 0 0 19618 30 30
+~
+door~
+End
+
+#19620
+Name Inside Cave~
+Descr
+The smell of raw, rotted meat float in the air as you enter.  You 
+accidently step on a skull and laugh.  But it soon ends as you hear growls
+toward the south.  You cringe and tremble at the sounds.  If you choose
+to go back, North is the way.
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 19619 30 30
+~
+door~
+Door 1 0 0 19626 30 30
+~
+(null)~
+Door 2 0 0 19621 30 30
+~
+door~
+Door 3 0 0 19622 30 30
+~
+door~
+End
+
+#19621
+Name The Dragon Hibernating Room~
+Descr
+You enter a huge oval room.  The celing is such a sight.  The room is 20
+stories high with huge stone perches on the sides for the dragons.  You 
+feel a large breathing animal in the room.  Maybe you should turn around
+and run like chicken shit.
+~
+Flags 4
+Sector 0
+Reset M 19609 1 40
+Reset O 19610 11 50
+Reset M 19610 1 40
+Reset O 19610 11 40
+Movemess
+(null)~
+Door 0 0 0 19620 30 30
+~
+door~
+End
+
+#19622
+Name Bone Room~
+Descr
+This room is virtually made of bones of brave adventurers who have come to
+slay the mighty dragons.  Although this rooms seems a little gastly, you
+feel a serenity of praying to all the lost souls who risked their lives
+fighting these dragons.  You feel at rest here.
+~
+Flags 3145750
+Movemess
+(null)~
+Door 1 0 0 19620 30 30
+~
+door~
+Door 3 0 0 19628 30 30
+~
+(null)~
+End
+
+#19623
+Name A Cut Off~
+Descr
+There is a cut off from the Dirt Path.  The road has been cleared by
+a master tracker.  The trees are even bigger here than anywhere else.
+This makes you think of the many things you could be doing with your time.
+The path you are traveling is carefully cut.  Why has this path been carved?
+~
+Sector 3
+Reset O 19608 -5 100
+Movemess
+(null)~
+Door 1 0 0 19618 30 30
+~
+door~
+End
+
+#19624
+Name Forest Walk~
+Descr
+You are walking along the many gigantic redwood trees.  There is no path,
+only your senses are guiding you.  You walk under a huge bog with moss,
+and vines are all around.  Birds chirp as you see a never ending greeness.
+~
+Sector 3
+Movemess
+(null)~
+Door 0 0 0 19613 30 30
+~
+door~
+Door 2 23 19609 19625 16 16
+This wall is covered with vines and designs.  But in particular, a skull
+with a gaping mouth has a key hole in the middle of it.
+~
+wall~
+End
+
+#19625
+Name The Circular Worship~
+Descr
+You come strange clearing.  The trees has been cut and large stones are
+places in a ring.  In the center of the ring, there is a square block that
+is about 2 ft. high.  Strange carvings are on every block. Each symbolizes
+a different druidic number.  What could this place be?
+~
+Sector 3
+Reset M 19611 1 100
+Movemess
+(null)~
+Door 0 0 0 19624 16 16
+~
+door~
+End
+
+#19626
+Name Dead End~
+Descr
+You end up at a dead end.  This room is extrememly oval shaped, and it looks
+hand carved.  You see the many chips along the wall used by some stone 
+hammer.  What or who could've made this place?
+~
+Sector 0
+Movemess
+(null)~
+Door 0 273 0 19627 30 30
+You see a clear carved door in the wall itself.
+~
+door~
+Door 3 0 0 19620 30 30
+~
+(null)~
+End
+
+#19627
+Name Dwarven Workspace~
+Descr
+The room stinks due to the rotting bones of the corpse on the left side of
+the room.  The room has a workbench, tools, maps, and the such.  Most of the
+items here useless.  What the hell is a rotting dead dwarven corpse doing here?
+~
+Flags 4
+Sector 0
+Reset O 19611 -5 100
+Reset O 19612 -3 100
+Movemess
+(null)~
+Door 2 0 0 19626 30 30
+~
+(null)~
+End
+
+#19628
+Name Bone Room~
+Descr
+The bone room conintues west as you see the charred remains of other 
+adventurers who have come to slay the dragons.  Where are these dragons
+coming from and why do they keep coming to this certain cave?
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 1 0 0 19622 30 30
+~
+(null)~
+End
+
+#0
+
+
+
+#$

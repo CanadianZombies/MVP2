@@ -1,0 +1,6192 @@
+#AREADATA 
+Name The Swamplands~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe water around you seems to be alive once again.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Bruenr~
+VNUMs 11201 11400
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#11203
+Name watchtower guardian guard~
+Short Watchtower Guardian~
+Long 
+The Watchtower Guardian floats about lifelessly guarding the fallen tower.
+~
+Descr
+He looks to have been a former knight.  Dressed in a suit of silver
+platemail he floats about making sure no harm falls upon the watchtower.  
+~
+AMax 1
+NHeight 0
+ActBits 7
+Affect_By 1049224
+Alignment 100
+Money 43
+Level 43
+Sex 1
+MobType 9
+Guard 0
+Spec spec_poison
+End
+
+#11216
+Name headhunter head hunter~
+Short the headhunter~
+Long 
+The Headhunter stands here glancing suspiciously at your head.
+~
+Descr
+A huge human with thick, bulging muscles stands here admiring the
+countless trophies that hang upon the bloodstained wall.  He whips around
+sword in hand and casts a glare in your direction.  
+~
+AMax 1
+NHeight 0
+ActBits 1107296273
+Alignment -100
+Money 37
+Level 37
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#11217
+Name muck dragon~
+Short the Muck Dragon~
+Long 
+The Muck Dragon is here guarding it's nest.
+~
+Descr
+The dragon is disgusting.  It's skin is a mix of deep green and black and
+has bubbles/warts all over it.  It's eyes are brown and bulge out of it's
+head.  It's mouth is sporting a set of sharp looking teeth and it's claws
+are the same.  She will do just about anything to protect her eggs by the
+look in her eyes.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 1
+Alignment -12
+Money 27
+Level 27
+Sex 2
+MobType 5
+Guard -46
+Spec spec_breath_gas
+End
+
+#11228
+Name green fish~
+Short A green fish~
+Long 
+A bright green fish swims around without a care in the world.
+~
+Descr
+The fish has scaley bright green fish with little purple marks by the
+fins.  It looks happy and swims about care free doing circles, flips, and
+many other things.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Money 6
+Level 6
+Sex 2
+MobType 14
+Guard 0
+End
+
+#11231
+Name zep bargainer~
+Short Zep the Bargainer~
+Long 
+Zep the bargainer is standing here looking over his goods.
+~
+Descr
+You see a happy looking man with a big smile on his face.  He wears a
+pair of plaid, red pants with suspenders and a white shirt tucked into the
+pants.  With a look of shock on his face he exclaims, "Oh my!  It's been so
+long since i've seen anyone living!"  
+~
+AMax 1
+NHeight 0
+ActBits 19
+Affect_By 40
+Alignment 165
+Money 41
+Level 41
+Sex 1
+MobType 21
+Guard 0
+Shop    0   5   9   0   0 105 25 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#11232
+Name dread arms~
+Short A dread~
+Long 
+A pair of skeletal arms float about grasping at the air.
+~
+Descr
+A pair of floating arms make up the entire mob.  They float about
+grasping at the air seemingly trying to find something.  Hopefully it's not
+you.  
+~
+AMax 5
+NHeight 0
+ActBits 17
+ActBits3 8196
+Affect_By 524288
+Alignment -25
+Money 12
+Level 12
+MobType 9
+Guard 47
+RaceHate 67108864
+End
+
+#11238
+Name hill giant~
+Short A hill giant~
+Long 
+A large hill giant is here looking blood thirsty.
+~
+Descr
+This guy is quite big although most giants are.  He has a set of small
+white eyes, huge muscles, a crooked grin, and a set of the yellowist teeth
+you've ever seen.  
+~
+AMax 1
+NHeight 0
+ActBits 33554433
+Affect_By 131072
+Alignment -75
+Money 22
+Level 22
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#11243
+Name treg~
+Short Treg the Innkeeper~
+Long 
+Treg the innkeeper floats here making sure no harm falls on his beautiful inn.
+~
+Descr
+Treg was so obsessed with his inn that he now haunts it in his afterlife
+making sure that nobody ruins the foundation.  He looks pretty small and
+harmless but you never know.  
+~
+AMax 1
+NHeight 0
+ActBits 51
+Affect_By 524288
+Alignment 120
+Money 26
+Level 26
+Sex 1
+MobType 21
+Guard 0
+End
+
+#11244
+Name ghost adventurer~
+Short adventurer's ghost~
+Long 
+The ghost of a long dead adventurer is here looking bored.
+~
+Descr
+Clad in leather armor, a backpack, and a warhammer he looks to have done
+a little adventuring in his day.  Now he haunts the room he died in because
+he he has nothing better to do.  
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 1048576
+Money 11
+Level 11
+Sex 1
+MobType 21
+Guard 0
+End
+
+#11249
+Name ghost noble~
+Short the ghost of a wealthy noble~
+Long 
+The ghost of a wealthy noble floats around haunting the room.
+~
+Descr
+The ghost looks at you in disgust when he notices the muck on some of
+your attire and turns it's back on you.  He sure is quite snobbish and rude.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 1048584
+Alignment 25
+Money 18
+Level 18
+Sex 1
+MobType 21
+Guard 0
+End
+
+#11255
+Name stone golem sentinel~
+Short a stone golem~
+Long 
+A stone golem stands here, guarding the gate.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 680
+Money 60
+Level 60
+Sex 1
+MobType 10
+Guard 0
+Spec spec_warrior
+End
+
+#11259
+Name executioner ghaft troll~
+Short Ghaft the Executioner~
+Long 
+A large blue troll drools on a bloody stump waiting for more victims.
+~
+Descr
+The troll is big, dumb, and doesn't look like he has much going on in his
+life.  His skin is a dark blue and looks as if it's been melted onto his
+bones.  He is too stupid to realize that there will be no more executions so
+he stand here drooling away.  
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+ActBits3 524288
+Affect_By 512
+Alignment -375
+Money 21
+Level 21
+Sex 1
+MobType 12
+Guard 0
+End
+
+#11264
+Name mayor ghost~
+Short Dread Swamp's Former Mayor~
+Long 
+The ghost of the former mayor floats around gambling against himself.
+~
+Descr
+You see a man who has many obvious problems.  For one he is addicted to
+gambling , he wasn't very clean, and he didn't dress in anything but a pair
+of shorts.  Wonder how this guy got to be mayor?  
+~
+AMax 1
+NHeight 0
+ActBits 540016643
+ActBits3 65536
+Affect_By 524800
+Alignment 175
+Money 25
+Level 25
+Sex 1
+MobType 21
+Guard 0
+End
+
+#11269
+Name reth mage prac~
+Short Reth~
+Long 
+Reth is relaxing in a floating chair staring out the window.
+~
+Descr
+Reth looks as if he's seen it all in his lifetime (and after lifetime). 
+He wears a hard looking expression on his face and his eyes seem to know
+what you are thinking.  He wears a long red robe with a darker red trim and
+many magical runes cover the garment.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 1573416
+Money 100
+Level 100
+Sex 1
+MobType 9
+Guard 0
+End
+
+#11270
+Name thief azrack~
+Short Azrack~
+Long 
+Azrack is sitting in the middle of the room looking dangerously calm.
+~
+Descr
+You see a man who looks in his mid twenties.  Short brown hair, dark
+brown eyes, and fairly dark skin.  He is dressed entirely in black and has a
+pair of soft looking boots.  His money pouch can be seen through the cloak
+and it looks quite full.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 1049120
+Alignment -100
+Money 130
+Level 130
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#11271
+Name warrior exidor~
+Short Exidor~
+Long 
+Exidor circles around the room bashing doors, and kicking tables.
+~
+Descr
+The man was huge.  His body was well toned in all areas and his muscles
+were quite big.  Watching him practice has you awestruck.  He comes over,
+stands before you, and asks if you wish to practice with him.  
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 512
+Alignment 25
+Money 40
+Level 40
+Sex 1
+MobType 21
+Guard 0
+Spec spec_warrior
+End
+
+#11272
+Name servant~
+Short A crypt servant~
+Long 
+A Crypt Servant lifelessly roams the graveyard.
+~
+Descr
+A zombie looks better than these guys.  A skinny white skull, yellowish
+green eyes, and the rest of the entire body is skeletal.  Some of it's teeth
+are missing along with a few of it's fingers.  It's suprising that this
+rotting corpse is still walking.  
+~
+AMax 11
+NHeight 0
+ActBits 17
+ActBits3 4
+Alignment -25
+Money 13
+Level 13
+Sex 2
+MobType 9
+Guard 21
+End
+
+#11273
+Name wraith shimmering~
+Short A shimmering wraith~
+Long 
+A wraith is here shimmering brilliantly.
+~
+Descr
+The undead being shimmers as it walks about.  It is only visable as a
+dark shadow and it's hands glow strangely.  You don't know if your weapon
+will pass right through the shadow or not.  
+~
+AMax 11
+NHeight 0
+ActBits 1
+Affect_By 1081856
+Money 14
+Level 14
+MobType 9
+Guard 0
+End
+
+#11285
+Name lich ancient~
+Short The Ancient Lich~
+Long 
+An ancient looking lich licks his decayed lips and grins.
+~
+Descr
+The lich looks to be very old and it has a horrible smell as it's been
+dead for hundreds of years.  It's flesh glows a faint green and it's eyes
+are bright orange.  He grins like a starving boy finding a piece of food at
+you.  
+~
+AMax 1
+NHeight 0
+ActBits 33554459
+ActBits3 4
+Affect_By 544
+Alignment -125
+Money 120
+Level 120
+Sex 1
+MobType 9
+Guard 8
+End
+
+#11300
+Name small monster muck~
+Short A small muck monster~
+Long 
+A small muck monster swims in the disgusting looking muck.
+~
+Descr
+The muck monster is quite small and doesn't look very old yet.  It's body
+is made from the muck you see everywhere around you and is a dark greenish
+brown color.  It would be hard to see it move since it can travel underneath
+the muck.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+ActBits3 65536
+Affect_By 32768
+Money 5
+Level 5
+MobType 15
+Guard 0
+End
+
+#11302
+Name normal monster muck~
+Short A normal muck monster~
+Long 
+A normal sized muck monster flaps about on it's back.
+~
+Descr
+The muck monster is a normal sized monster and has been around for a
+little while.  It's body is made from the muck you see everywhere around you
+and is a dark greenish brown color.  It would be hard to see it move since
+it can travel underneath the muck.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+ActBits3 65536
+Affect_By 32768
+Money 7
+Level 7
+MobType 15
+Guard 0
+End
+
+#11303
+Name big monster muck~
+Short A big muck monster~
+Long 
+A big muck monster splashes around keeping an eye on the younger.
+~
+Descr
+The muck monster is one of the older in the mini village of muck people. 
+It's body is made from the muck you see everywhere around you and is a dark
+greenish brown color.  It would be hard to see it move since it can travel
+underneath the muck.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+ActBits3 65536
+Affect_By 32768
+Money 11
+Level 11
+MobType 15
+Guard 0
+End
+
+#11308
+Name elder monster muck~
+Short The Elder Muck Monster~
+Long 
+The elder muck monster lounges around the room gurgling with others.
+~
+Descr
+The elder muck monster is quite large at eight or so feet tall.  It flaps
+around gurgling with others on what to do tomorrow.  They all treat it with
+respect so you assume that it's the mini villages leader.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 22
+Level 22
+MobType 15
+Guard 0
+End
+
+#11309
+Name giant mouse~
+Short A Giant Mouse~
+Long 
+A giant mouse is here feeding on leftover crumbs.
+~
+Descr
+You see a normal mouse only enlarged quite a bit.  Wonder what he could
+be eating to grow to that size if eating is what caused the growth.  It's
+pure white and has redish eyes.  
+~
+AMax 6
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+MobType 7
+Guard 0
+End
+
+#11311
+Name dread master~
+Short The Master Dread~
+Long 
+The Master Dread is here clawing at the walls.
+~
+Descr
+You see a pair of arms connected to nothing.  They float about clawing at
+the walls trying to better it's lair.  A dull blue ring is attached to one
+of it's fingers.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 8192
+Affect_By 524288
+Alignment -235
+Money 125
+Level 125
+MobType 9
+Guard 0
+RaceHate 335544320
+End
+
+#11312
+Name yellow fish~
+Short A yellow fish~
+Long 
+A bright yellow fish swims around without a care in the world.
+~
+Descr
+The fish has scaley bright yellow skin with little orange marks by the
+fins.  It looks happy and swims about care free doing circles, flips, and
+many other things.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Money 4
+Level 4
+Sex 2
+MobType 14
+Guard 0
+End
+
+#11313
+Name giant serpent~
+Short A giant water serpent~
+Long 
+A giant water serpent swims around looking hungry.
+~
+Descr
+The serpent is covered with a thin set of dark red scales.  It's eyes are
+sunk deep within it's head and it's mouth is full of sharp looking teeth. 
+He looks hungry but doesn't advance upon you.  He looks very protective of
+the water and his surroundings.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 65536
+Alignment -175
+Money 29
+Level 29
+Sex 1
+MobType 14
+Guard 0
+End
+
+#11314
+Name swamp plant~
+Short a swamp plant~
+Long 
+A strange swamp plant appears to be moving here!
+~
+Descr
+This horrible plant gives off a bad odor, and your eyes water when you
+get too close to it.  
+~
+Attackmsg scratch~
+AMax 5
+NHeight 0
+ActBits 25
+Money 12
+Level 12
+MobType 17
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#11202
+Name sign~
+Short Entry Sign~
+Descr
+A large sign draws your attention here.  Perhaps you should read it.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
++- - - - - - - - - - - - - - - WARNING!  - - - - - - - - - - - - - - - -+
+
+
+| This area was designed for seasoned adventurers.  Mobs within weren't |
+
+
+| made to be easy.  Suggested that experienced adventurers enter.  With |
+
+
+| that said and done go at it.  Hope the area is entertaining. -Bruenor |
+
+
++- - - - - - - - - - - - - - - WARNING!  - - - - - - - - - - - - - - - -+ 
+
+
+~
+End
+
+#11203
+Name sword jagged~
+Short a jagged sword~
+Descr
+A sharp, jagged sword lies here longing to taste flesh and bone.
+[0;36m~
+Type 5
+Extra 2359296
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 1 0 0 0 3 5 0
+Weight 14
+Cost 4000
+Affect 18 1 1 0 0
+ExtraDescr sword~
+The sword is fairly heavy and it's edges though jagged are very sharp. 
+
+
+The blade is sort of wavey and the hilt is covered with leather.  
+
+
+~
+ExtraDescr jagged~
+The sword is fairly heavy and it's edges though jagged are very sharp. 
+
+
+The blade is sort of wavey and the hilt is covered with leather.  
+
+
+~
+End
+
+#11208
+Name rusty old key~
+Short an old rusty key~
+Descr
+An old rusty key lies here rotting away.
+[0;36m~
+Type 18
+Maxinroom 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#11209
+Name stump tree~
+Short A Tree Stump~
+Descr
+A huge, hollow tree stump has it's roots here.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11218
+Name egg~
+Short Muck Dragon's Egg~
+Descr
+A medium sized egg with many dirt spots is here.
+[0;36m~
+Type 19
+Maxinroom 4
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 7 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 8
+ExtraDescr egg~
+The egg is a medium sized dragon egg and looks a little dirty but well
+
+
+taken care of.  If you were starving you could most likely eat it.  
+
+
+~
+End
+
+#11228
+Name hole water waterhole~
+Short the huge waterhole~
+Descr
+The huge waterhole looks clean enough to drink from.
+[0;36m~
+Type 25
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 55 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#11230
+Name sign~
+Short Supply Shop Sign~
+Descr
+A heavy sign is stuck in the muck here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
++- Zep's Bargain Shop - - - - - - - - - - - - - - - - - - - - - - - -+
+
+
+ 
+
+
+| Shoes - Armor - Weapons - Survival Kits - Lures - Lanterns - Tents |
+
+
+ 
+
+
+| And much, much, more. So come on in and take a look around will ya |
+
+
+ 
+
+
++- Zep's Bargain Shop - - - - - - - - - - - - - - - - - - - - - - - -+
+
+
+~
+End
+
+#11231
+Name whip bright green~
+Short [32m[1mA Bright Green Whip[0m~
+Descr
+A long, bright green whip lies here unused.
+[0;36m~
+Type 5
+Extra 1048576
+Maxinroom 2
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 4 0 0 0 4 3 0
+Weight 5
+Cost 995
+End
+
+#11238
+Name huge stone club~
+Short A Huge Stone Club~
+Descr
+A huge club made of stone rests upon the ground waiting to be used.
+[0;36m~
+Type 5
+Extra 2621440
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 7 0 0 0 3 4 0
+Weight 17
+Cost 900
+Affect 18 -2 1 0 0
+Affect 19 2 1 0 0
+Affect 17 5 1 0 0
+ExtraDescr club~
+The club is very big and bulky making it hard to wield.  It has numerous
+
+
+cracks and dents indicating that it's been used more than a couple times.  
+
+
+~
+ExtraDescr huge~
+The club is very big and bulky making it hard to wield.  It has numerous
+
+
+cracks and dents indicating that it's been used more than a couple times.  
+
+
+~
+ExtraDescr stone~
+The club is very big and bulky making it hard to wield.  It has numerous
+
+
+cracks and dents indicating that it's been used more than a couple times.  
+
+
+~
+End
+
+#11243
+Name pen golden~
+Short [33m[1mTreg's Golden Pen[0m~
+Descr
+A beautiful golden pen with the word Treg engraved on it rests here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 2 0 0 0 4 3 0
+Weight 0
+Cost 3500
+Affect 19 -1 1 0 0
+Affect 18 1 1 0 0
+ExtraDescr pen~
+The pen is a deep black and has golden trim upon it.  The word Treg is
+
+
+engraved in the middle of the pen serving as a place to hold onto when
+
+
+writing.  The tip looks very sharp.  
+
+
+~
+End
+
+#11255
+Name sign~
+Short Graveyard Sign~
+Descr
+A small sign hangs upon the graveyards gate.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
++- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+
+
+ 
+
+
+| You may have noticed the heavily chained fence, beware it keeps many foul |
+
+
+ 
+
+
+| things inside that should not be let upon the streets. This was not meant |
+
+
+ 
+
+
+| to be taken lightly. The Academy lies eastward if you're seeking it out.. |
+
+
+ 
+
+
++- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+
+
+~
+End
+
+#11259
+Name axe gleaming sharp~
+Short a sharp, gleaming axe~
+Descr
+A sharp, gleaming axe is covered with muck.
+[0;36m~
+Type 5
+Extra 262145
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 3 3 0
+Weight 13
+Cost 525
+Affect 18 2 1 0 0
+Affect 1 1 1 0 0
+Affect 3 -1 1 0 0
+ExtraDescr gleaming~
+The axe gleams quite a bit for what it has been through.  It has chopped
+
+
+many a head from their body and would have done many more if the town was
+
+
+still active.  
+
+
+~
+ExtraDescr axe~
+The axe gleams quite a bit for what it has been through.  It has chopped
+
+
+many a head from their body and would have done many more if the town was
+
+
+still active.  
+
+
+~
+ExtraDescr sharp~
+The axe gleams quite a bit for what it has been through.  It has chopped
+
+
+many a head from their body and would have done many more if the town was
+
+
+still active.  
+
+
+~
+End
+
+#11262
+Name trash~
+Short A Glittering Gem~
+Descr
+A gem glitters happily on the gorund.
+[0;36m~
+Type 13
+Extra 67
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 40 60 35 0 0 0 0 0 0
+Weight 2
+Cost 3943
+ExtraDescr gem~
+The gem is stunningly beautiful and glitters at the slightest light.
+
+
+~
+ExtraDescr glittering~
+The gem is stunningly beautiful and glitters at the slightest light.
+
+
+~
+End
+
+#11265
+Name wand green~
+Short [32mA dark green wand[0m~
+Descr
+A dark green wand lies here humming with power.
+[0;36m~
+Type 3
+Extra 67
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 18 3 3 91 0 0 0 0 0 0
+Weight 1
+Cost 750
+ExtraDescr wand~
+The wand is dark green and has a few magical looking runes at it's base.
+
+
+~
+End
+
+#11311
+Name ring blue dull~
+Short [34m[1mA Dull Blue Ring[0m~
+Descr
+A dull blue ring lies here feeling left out.
+[0;36m~
+Type 9
+Extra 536870930
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 0 0 100 100 0 0
+Weight 1
+Cost 5493
+Affect 17 -1 1 0 0
+Affect 19 1 1 0 0
+End
+
+#943
+Name sword sharp sharpness~
+Short The Sword of Sharpness~
+Descr
+A long, very sharp looking sword gleams brilliantly here.
+[0;36m~
+Type 5
+Extra 4194305
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 1 0 0 0 3 5 0
+Weight 13
+Cost 8595
+Affect 19 1 1 0 0
+Affect 18 1 1 0 0
+ExtraDescr sword~
+The sword is extremely sharp and quite long.  It's blade is made of
+
+
+silver and the hilt is an onyx color.  The blade is quite beautiful and was
+
+
+made very well.  
+
+
+~
+ExtraDescr sharpness~
+The sword is extremely sharp and quite long.  It's blade is made of
+
+
+silver and the hilt is an onyx color.  The blade is quite beautiful and was
+
+
+made very well.  
+
+
+~
+End
+
+#944
+Name nest~
+Short The Muck Dragon's Nest~
+Descr
+A giant nest fills most of the room.
+[0;36m~
+Type 15
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr nest~
+The giant nest sits in the middle of the room and covers about half the
+
+
+cottage.  It's made up of dried and withered grass, a few sticks, and some
+
+
+muck.  
+
+
+~
+End
+
+#945
+Name poniard dagger~
+Short Azrack's Poniard~
+Descr
+A long, black dagger with a twisting hilt is stuck here.
+[0;36m~
+Type 5
+Extra 131649
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 2 0 0 0 5 3 0
+Weight 5
+Cost 6950
+Affect 18 2 1 0 0
+ExtraDescr dagger~
+This dagger has most likely killed quite a few people unfortunate enough
+
+
+to cross Azrack.  It's long, black, and has a twisting hilt.  
+
+
+~
+ExtraDescr poniard~
+This dagger has most likely killed quite a few people unfortunate enough
+
+
+to cross Azrack.  It's long, black, and has a twisting hilt.  
+
+
+~
+End
+
+#946
+Name cloak dark darkness~
+Short The Cloak of Darkness~
+Descr
+A shadowy cloak which you didn't see the first time lies here practically hidden.
+[0;36m~
+Type 9
+Extra 536870976
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 1
+Cost 3020
+Affect 2 1 1 0 0
+Affect 24 8 1 0 0
+Affect 4 -1 1 0 0
+ExtraDescr darkness~
+The cloak even when held is hard to see.  Almost as if it wasn't there. 
+
+
+It's sort of a transparent material made of pure black.  
+
+
+~
+ExtraDescr dark~
+The cloak even when held is hard to see.  Almost as if it wasn't there. 
+
+
+It's sort of a transparent material made of pure black.  
+
+
+~
+ExtraDescr cloak~
+The cloak even when held is hard to see.  Almost as if it wasn't there. 
+
+
+It's sort of a transparent material made of pure black.  
+
+
+~
+End
+
+#947
+Name long robe red~
+Short [31mA Long Red Robe[0m~
+Descr
+A long red robe lies crumpled on the ground.
+[0;36m~
+Type 9
+Extra 67
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 75 75 0 0
+Weight 3
+Cost 3000
+Affect 21 10 1 0 0
+Affect 3 1 1 0 0
+Affect 1 -1 1 0 0
+ExtraDescr robe~
+The robe is long, red, and has many magical looking runes on it.  
+
+
+~
+End
+
+#948
+Name boots sneaking~
+Short The Boots of Sneaking~
+Descr
+A pair of extremely soft looking boots lie here covered with dust.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 50 50 0 0
+Weight 3
+Cost 3020
+Affect 14 15 1 0 0
+End
+
+#949
+Name boots spiked~
+Short A pair of spiked boots~
+Descr
+A heavy pair of boots with a spike attached to each toe rests here.
+[0;36m~
+Type 9
+Extra 64
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 30 30 0 0
+Weight 7
+Cost 3020
+Affect 14 -15 1 0 0
+Affect 22 1 1 0 0
+End
+
+#970
+Name green sash ancient wisdom~
+Short The Sash of Ancient Wisdom~
+Descr
+A green, ancient looking sash is crumpled on the ground.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 5 0 0 0 0 50 50 0 0
+Weight 1
+Cost 11943
+Affect 17 -3 1 0 0
+Affect 14 20 1 0 0
+Affect 13 20 1 0 0
+Affect 4 1 1 0 0
+ExtraDescr green~
+The sash is made with superb quality.  It's dark green in color and is a
+
+
+little bigger than a normal sized belt.  It has the mark of the ancients
+
+
+upon it telling you the object is very old and valuable indeed.  
+
+
+~
+ExtraDescr sash~
+The sash is made with superb quality.  It's dark green in color and is a
+
+
+little bigger than a normal sized belt.  It has the mark of the ancients
+
+
+upon it telling you the object is very old and valuable indeed.  
+
+
+~
+ExtraDescr ancient~
+The sash is made with superb quality.  It's dark green in color and is a
+
+
+little bigger than a normal sized belt.  It has the mark of the ancients
+
+
+upon it telling you the object is very old and valuable indeed.  
+
+
+~
+ExtraDescr wisdom~
+The sash is made with superb quality.  It's dark green in color and is a
+
+
+little bigger than a normal sized belt.  It has the mark of the ancients
+
+
+upon it telling you the object is very old and valuable indeed.  
+
+
+~
+End
+
+#971
+Name hammer black~
+Short [30m[1ma black hammer[0m~
+Descr
+A small black hammer is here waiting to pound something.
+[0;36m~
+Type 5
+Extra 524288
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 7 0 0 0 3 3 0
+Weight 12
+Cost 554
+Affect 19 1 1 0 0
+Affect 18 -4 1 0 0
+ExtraDescr hammer~
+The hammer is made entirely of bone and is stained a pale black color.
+
+
+~
+ExtraDescr black~
+The hammer is made entirely of bone and is stained a pale black color.
+
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#11201
+Name Entrance to the Swamplands~
+Descr
+You stand on the outer brink of a seemingly endless swampland.  A thick
+fog covers the land making it impossible to see more than five feet in any
+direction at all.  Murky brown water fills into your footprints leaving a
+disgusting smell.  You get the feeling that whatever lies within would be
+quite formidable to survive such a harsh environment.  
+~
+Flags 16
+Sector 0
+Reset O 11202 -5 100
+Movemess
+(null)~
+Door 0 0 0 11202 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 29171 30 30
+~
+(null)~
+Door 3 0 0 11229 30 30
+~
+door~
+End
+
+#11202
+Name Beginning of Eastern Alley~
+Descr
+Looking around you notice that this used to be a small village.  The
+broken remains of a small alley can be seen through the muck directly below
+you.  The alley continues east or you can go south to the entrance.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11203 30 30
+~
+door~
+Door 2 0 0 11201 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11203
+Name Fallen Watchtower~
+Descr
+A HUGE tree lies embedded in the muck.  Looking into the hole you notice
+it has ladder rungs fastened onto the tree.  From the looks of it this was
+the city's watchtower.  The alley continues east and a path leads north.  
+~
+Shd 1
+ExtraDescr rungs~
+The rungs are rusted and don't look as stable as they might have been.  
+
+
+~
+ExtraDescr tree~
+The tree is very, very large.  It grew well above the other trees making
+
+
+it an ideal watchtower.  
+
+
+~
+Reset M 11203 1 100
+Reset O 11203 21 15
+Movemess
+(null)~
+Door 0 0 0 11218 30 30
+~
+door~
+Door 1 0 0 11204 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11202 30 30
+~
+door~
+End
+
+#11204
+Name Before the Cottage~
+Descr
+To the north you see a small shack that has withstood the trials placed
+upon it.  A door hangs from the doorway on one hinge making an eerie
+creaking noise at the slightest breeze.  The alley continues east.  
+~
+ExtraDescr cottage~
+The cottage is falling apart.  The door hangs on one hinge creaking
+
+
+whenever a slight breeze blows.  It's a plain wooden color and a single
+
+
+window is placed next to the front door.  
+
+
+~
+ExtraDescr door~
+It looks as if it would fall to the ground with a clatter at the
+
+
+slightest touch.  
+
+
+~
+Reset M 11314 6 100
+Movemess
+(null)~
+Door 0 0 0 11217 30 30
+~
+door~
+Door 1 0 0 11205 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11203 30 30
+~
+door~
+End
+
+#11205
+Name Eastern Alley~
+Descr
+The alley gets even smaller here.  A forest of charred and rotten trees
+can be seen both to the north and south.  Glowing green eyes stare at you
+from behind many of the stumps.  Several stand upon sight and close in.  It
+might be a good idea to run right about now unless you like being lunch.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11206 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11204 30 30
+~
+door~
+End
+
+#11206
+Name Eastern Alley~
+Descr
+The muck is getting so thick that you can't see the alley anymore.  You
+are beginning to wish that all this awful muck would just leave.  The alley
+continues east or west.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11207 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11205 30 30
+~
+door~
+End
+
+#11207
+Name Before the Rusted Gate~
+Descr
+A huge rusted gate blocks passage to the north.  The path seems unusually
+wide for a driveway and you wonder to yourself what it was used for.  Recent
+footprints can be seen in the thick muck.  
+~
+ExtraDescr gate~
+The once magnificent gate is rusted and warped leaving it's appearance
+
+
+quite ugly.  
+
+
+~
+ExtraDescr rusted~
+The once magnificent gate is rusted and warped leaving it's appearance
+
+
+quite ugly.  
+
+
+~
+Movemess
+(null)~
+Door 0 19 0 11210 30 30
+The gate looks as if it's about to fall apart in a rusted heap.
+~
+Rusted Gate~
+Door 1 0 0 11208 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11206 30 30
+~
+door~
+End
+
+#11208
+Name Near the End of Eastern Alley~
+Descr
+The muck in now knee deep making walking very difficult.  Sloshing along
+you tell yourself that you would rather be at home freezing to death while
+singing Little Bunny FuFu.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11209 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11207 30 30
+~
+door~
+End
+
+#11209
+Name Dead End~
+Descr
+The alley comes do a dead stop.  You are surrounded on three sides by
+impassible trees.  You are slowly sinking the muck is so deep here.  It
+might be a good idea to leave.  
+~
+Shd 1
+Reset O 11209 -5 100
+Reset O 11208 -3 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11208 30 30
+~
+door~
+End
+
+#11210
+Name Path to the House~
+Descr
+Dense trees line the entire path making the travel extremely dark.  The
+darkness is overwhelming and makes you feel small and insecure.  The gate
+lies to the south giveing you a chance to turn back.  
+~
+ExtraDescr gate~
+The once magnificent gate is rusted and warped leaving it's appearance
+
+
+quite ugly.  
+
+
+~
+ExtraDescr rusted~
+The once magnificent gate is rusted and warped leaving it's appearance
+
+
+quite ugly.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11211 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 19 0 11207 30 30
+~
+Rusted Gate~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11211
+Name Path to the House~
+Descr
+The gate is no longer visable behind you.  The darkness is overwhelming
+and makes you feel small and insecure.  You hope you have a good sense of
+direction.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11212 30 30
+~
+door~
+Door 2 0 0 11210 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11212
+Name Before the Ugly House~
+Descr
+You stand before a moderately sized house.  You catch a glimpse of a
+bright orange patch on the house from the upper righthand candle lit room. 
+There are a set of steep stairs leading up to the house in front of you.  
+~
+ExtraDescr door~
+The door is made of solid oak and has a small hole to peep on visitors.  
+
+
+~
+ExtraDescr stairs~
+The stairs are old and starting to crumble to dust.  
+
+
+~
+Movemess
+(null)~
+Door 0 3 0 11213 30 30
+~
+Front Door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11211 30 30
+~
+door~
+End
+
+#11213
+Name Living Room of the Ugly House~
+Descr
+Man is this room ugly.  You shudder as you look around.  Lime green
+carpeting, bright purple lizard skin furniture, pink leather blinds, rusty
+brown painted walls, and pictures of dead sunflowers on the walls
+EVERYWHERE.  A rock could decorate this place better.  You are in the only
+room downstairs.  
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+The door is made of solid oak and has a small hole to peep on visitors.  
+
+
+~
+ExtraDescr blinds~
+The pink blinds are very old and a few holes decorateing them.  
+
+
+~
+ExtraDescr walls~
+The walls have a few cracks that show even through the thick brown paint.  
+
+
+~
+ExtraDescr wall~
+The walls have a few cracks that show even through the thick brown paint.  
+
+
+~
+ExtraDescr furniture~
+A few chairs and a table or two are made of a bright purplish colored
+
+
+lizard skin giving it a rough appearance.  
+
+
+~
+ExtraDescr carpet~
+The carpet is in good shape still.  No stains or anything can be found. 
+
+
+Other than the lime green color it's ok.  
+
+
+~
+ExtraDescr pictures~
+A big, dead, sunflower with a purple background makes up the picture.  
+
+
+~
+ExtraDescr stairs~
+The stairs are very steep and covered with the all to familiar lime green
+
+
+carpeting.  
+
+
+~
+ExtraDescr picture~
+A big, dead, sunflower with a purple background makes up the picture.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 3 0 11212 30 30
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 4 0 0 11214 30 30
+~
+door~
+End
+
+#11214
+Name Upstairs in the Ugly House~
+Descr
+After reaching the top of a big staircase you close your eyes to avoid
+the sight below.  You begin to wonder if you're more afraid of looking at
+the living room or meeting whatever is in the far room.  
+~
+Flags 4
+Sector 0
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 11215 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run into the railing meant to keep people like you from falling down.
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 5 0 0 11213 30 30
+~
+door~
+End
+
+#11215
+Name Upstairs in the Ugly House~
+Descr
+You stand before a closed oak door (fortunately they forgot to decorate
+the upstairs).  Every few seconds you hear a mumble or two come from within
+the room to the south.  Suddenly you hear an ear splitting *CRASH* as
+something was thrown against a wall.  Whatever is in there sounds like it is
+in a bad mood.  
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+The bedroom door is made of solid oak and tarnished a light greenish
+
+
+color.  It looks quite sturdy.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 3 0 11216 30 30
+~
+Bedroom Door~
+Door 3 0 0 11214 30 30
+~
+door~
+End
+
+#11216
+Name Master Bedroom~
+Descr
+The room is filled with dragon heads and such stuffed and hung on the
+wall.  Many swords, clubs, and other bloody weapons hang next to each of the
+heads.  A big human with rippling muscles fixes his stern gaze upon you.  He
+asks in a threatening voice "Did I say you could enter my house?  And my
+bedroom at that!"  .  He stands up and faces you looking unimpressed at your
+appearance.  You hope you are not the next head to decorate his wall.  
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+The bedroom door is made of solid oak and tarnished a light greenish
+
+
+color.  It looks quite sturdy.  
+
+
+~
+Reset M 11216 1 100
+Reset O 943 21 4
+Movemess
+(null)~
+Door 0 3 0 11215 30 30
+~
+Bedroom Door~
+Door 1 0 0 0 30 30
+You run into the wall and almost knock a few trophies down.
+~
+door~
+Door 2 0 0 0 30 30
+You run into the wall and almost knock a few trophies down.
+~
+door~
+Door 3 0 0 0 30 30
+You run into the wall and almost knock a few trophies down.
+~
+door~
+End
+
+#11217
+Name Inside the Cottage~
+Descr
+You stand in a cottage with rotten floor boards.  After pulling your foot
+free of the new hole you just added you see a human sized hole in the far
+wall.  A big nest like structure sits in the middle of the room.  
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+It looks as if it would fall to the ground with a clatter at the
+
+
+slightest touch.  
+
+
+~
+ExtraDescr nest~
+The giant nest covers most of the cottage.  The nest is made up of dried
+
+
+and withered grass, a few sticks, and some muck.  
+
+
+~
+ExtraDescr hole~
+The hole in the wall looks human sized.  What could have thrown a human
+
+
+through a cottage wall?  
+
+
+~
+Reset M 11217 1 100
+Reset O 944 -5 100
+Reset O 11218 -3 100
+Reset O 11218 -3 100
+Reset O 11218 -3 100
+Reset O 11218 -3 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 0 0 11204 30 30
+~
+door~
+Door 3 0 0 11218 30 30
+~
+door~
+End
+
+#11218
+Name Beside the Cottage~
+Descr
+A hole in the side of the cottage catches your attention.  It's human
+shaped you realize.  You hear an in/out breathing pattern and by the sound
+of it whatever is making the noise seems quite large.  
+~
+ExtraDescr hole~
+The hole in the wall looks human sized.  What could have thrown a human
+
+
+through a cottage wall?  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11219 30 30
+~
+door~
+Door 1 0 0 11217 30 30
+~
+door~
+Door 2 0 0 11203 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11219
+Name Well Used Path~
+Descr
+The path looks to have been used many, many times in the past.  A thick
+rut at least two feet deep makes up the entire path.  What could like ahead
+that was used that much?  Besides the recent footprints in the muck nothing
+else is of interest.  
+~
+Reset M 11314 6 100
+Movemess
+(null)~
+Door 0 0 0 11222 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11218 30 30
+~
+door~
+Door 3 0 0 11220 30 30
+~
+door~
+End
+
+#11220
+Name Path Inside the Trees~
+Descr
+A very narrow path almost hidden from sight provides travel to the north.
+To the south and west huge, dense trees block your passage.  A strange noise
+can be heard from somewhere although you can't seem to pinpoint the noise
+due to the echo off the trees.  
+~
+Shd 1
+Movemess
+(null)~
+Door 0 0 0 11221 30 30
+~
+door~
+Door 1 0 0 11219 30 30
+~
+door~
+Door 2 258 0 11309 30 30
+~
+hidden~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11221
+Name In Front of the Log Shack~
+Descr
+This has got to be one of THE smallest dwellings you have ever laid eyes
+upon.  The shack is made entirely of logs and decayed sod held together by
+dried mud.  The logs have begun to fall apart in many places making the
+shack look even worse than it already does.  
+~
+ExtraDescr shack~
+The shack is extremely small and looks like it wasn't taken care of as
+
+
+good as it could have been.  Logs, sod, and mud make up the shack.  Maybe it
+
+
+was a temporary stay when the owner was in town.  
+
+
+~
+Movemess
+(null)~
+Door 0 3 0 11224 30 30
+~
+Log Shack Door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11220 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11222
+Name Well Used Path~
+Descr
+The path looks to have been used many, many times in the past.  A thick
+rut at least two feet deep makes up the entire path.  What could lie ahead
+that was used that much?  Besides the recent footprints in the muck nothing
+else is of interest.  
+~
+Movemess
+(null)~
+Door 0 0 0 11223 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11219 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11223
+Name Well Used Path~
+Descr
+The path looks to have been used many, many times in the past.  A thick
+rut at least two feet deep makes up the entire path.  What could lie ahead
+that was used that much?  Besides the recent footprints in the muck nothing
+else is of interest.  
+~
+Reset M 11314 6 100
+Movemess
+(null)~
+Door 0 0 0 11225 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11222 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11224
+Name Log Shack Door~
+Descr
+The inside is very simplistic.  A hole in the floor with blackened rocks
+surrounding the outer edge lies in the center of the room filled with ash. 
+A single metal pot hangs on the northern wall with an uncomfortable looking
+sleeping mat curled up underneath.  
+~
+Flags 4
+ExtraDescr hole~
+The hole served as a place to start a fire and cook meals.  Ashes lie
+
+
+thick inside the hole and blackened rocks surround the outer edge so that no
+
+
+fire spread.  
+
+
+~
+ExtraDescr pot~
+The metal pot was used to cook meals above the fire pit.  
+
+
+~
+ExtraDescr mat~
+The sleeping mat looks very uncomfortable in your opinion.  It's covered
+
+
+with dust, dirt, and who knows what else.  
+
+
+~
+Reset M 11232 5 100
+Reset M 11232 5 100
+Reset M 11232 5 100
+Reset M 11232 5 100
+Reset M 11232 5 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 3 0 11221 30 30
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+door~
+End
+
+#11225
+Name Turn in the Well Used Path~
+Descr
+Heavy trees can be seen in front of you blocking passage to the north and
+west.  The path veers to the east and the footprints are still visable in
+the oozing slime.  
+~
+Reset M 11314 6 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11226 30 30
+~
+door~
+Door 2 0 0 11223 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11226
+Name Well Used Path~
+Descr
+This path seems endless.  You hope that whatever is at the end of the
+path is quite worth this walk.  Glancing around you see the same-old,
+same-old path you've been walking and nothing out of the oridnary catches
+your attantion.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11227 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11225 30 30
+~
+door~
+End
+
+#11227
+Name Turn in the Well Used Path~
+Descr
+A wagon lies tipped over in the soggy muck.  The skeletal hand of an
+unfortunate adventurer hangs out the side of the wagon seemingly reaching
+for something.  The path continues to the south.  
+~
+ExtraDescr wagon~
+The wagon is tipped over and half buried in the soggy muck.  A hand hangs
+
+
+out the back quite skeletal like.  
+
+
+~
+Reset M 11314 6 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11228 30 30
+~
+door~
+Door 3 0 0 11226 30 30
+~
+door~
+End
+
+#11228
+Name Huge Waterhole~
+Descr
+This must have been the towns source of water.  The hole is huge and no
+muck or debries pollute the calm water.  A slight tremor breaks the calm
+water every five to ten seconds causeing a rippling affect throught the
+waterhole.  
+~
+ExtraDescr hole~
+The waterhole is clean as can be providing clear water for your drinking
+
+
+pleasure.  
+
+
+~
+Reset O 11228 -5 100
+Movemess
+(null)~
+Door 0 0 0 11227 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 5 0 0 11312 30 30
+~
+door~
+End
+
+#11229
+Name Worn Path~
+Descr
+The path seems to have been traveld some in it's former days.  Wagon ruts
+make you stumble every now and then because you can't see them through the
+thick ooze.  Paths lead all directions save south.  
+~
+Movemess
+(null)~
+Door 0 0 0 11230 30 30
+~
+door~
+Door 1 0 0 11201 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11232 30 30
+~
+door~
+End
+
+#11230
+Name Before The Ruined Supply Shop~
+Descr
+You stand at the enterance to what looks to be a supply shop in it's
+prime.  A few sacks with large holes are on the steps.  A mouse scurries out
+of your way from inside a sack as you approach the stairs.  A sign is stuck
+in the muck on the right.  
+~
+ExtraDescr stairs~
+The stairs are made
+
+
+~
+ExtraDescr door~
+The door hangs wide open.  It's made of solid iron and has a thick
+
+
+paddalock clampled to a chain hanging from the doorknob.  
+
+
+~
+Reset O 11230 -5 100
+Movemess
+(null)~
+Door 0 0 0 11231 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11229 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11231
+Name Supply Shop Remains~
+Descr
+The walls are starting to fall apart and the roof is caving in.  Shelves
+can be seen along the walls and in rows facing Zep's counter in the front of
+the room.  Business at one time thrived here.  You can tell just from the
+amount of supply shelves there are.  The room has a window twords the back
+of the shop to allow light at the rear end of the store.  A musky scent
+lingers in the air filling your nostrils with disgust.  
+~
+Flags 4
+ExtraDescr walls~
+The wall's paint is crumbleing off leaving paint chips along the outer
+
+
+edge of the whole store.  
+
+
+~
+ExtraDescr wall~
+The wall's paint is crumbleing off leaving paint chips along the outer
+
+
+edge of the whole store.  
+
+
+~
+ExtraDescr roof~
+The roof is giving way to time and a few holes can be seen when you look up.
+
+
+~
+ExtraDescr counter~
+The counter is made so that Zep had plenty of room to do what he wanted
+
+
+to do behind the counter and not be cramped up.  A few scuffs and scratches
+
+
+are engraved in the smooth blue tinted marble.  
+
+
+~
+ExtraDescr window~
+The window is at the very back of the shop and light no longer streams
+
+
+through it due to the thick fog blotting out the sunlight.  
+
+
+~
+ExtraDescr shelves~
+The shelves are placed so that each can be seen from the front desk.  Cut
+
+
+down on the thieves profits most likely.  
+
+
+~
+ExtraDescr door~
+The door hangs wide open.  It's made of solid iron and has a thick
+
+
+paddalock clamped to a chain hanging from the doorknob.  
+
+
+~
+Reset M 11231 1 100
+Reset O 11231 21 65
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 0 0 11230 30 30
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+door~
+End
+
+#11232
+Name Beginning of Main Street~
+Descr
+This must have been the main street of the small village.  The road is
+paved with dark, gray stones and is about fifteen to twenty feet wide. 
+Lanterns hanging from posts still burn along both sides of the road.  
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11233 30 30
+~
+door~
+Door 1 0 0 11229 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11233
+Name Main Street~
+Descr
+The stones are suffering from deterioration due to heavy travel along
+this street.  For such a small town there was quite a bit of activity.  Must
+have been a resting point for tired and weary travelers.  A small dirty
+alley leads westwards and the street continues north.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11239 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11232 30 30
+~
+door~
+Door 3 0 0 11234 30 30
+~
+door~
+End
+
+#11234
+Name Begining of the Unfinished Alley~
+Descr
+The alley is very small at about four feet wide.  Dirt piles make walking
+difficult most of the time weaving in and out between them.  The alley must
+not have been finished.  
+~
+ExtraDescr dirt~
+The dirt piles are quite numerous forceing you to weave around them.
+
+
+~
+ExtraDescr pile~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+ExtraDescr piles~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11233 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11235 30 30
+~
+door~
+End
+
+#11235
+Name Unfinished Alley~
+Descr
+The alley is very small at about four feet wide.  Dirt piles make walking
+difficult most of the time weaving in and out between them.  The alley must
+not have been finished.  
+~
+Shd 1
+ExtraDescr dirt~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+ExtraDescr pile~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+ExtraDescr piles~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11234 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 11236 30 30
+~
+door~
+End
+
+#11236
+Name Unfinished Alley~
+Descr
+The alley is very small at about four feet wide.  Dirt piles make walking
+difficult most of the time weaving in and out between them.  The alley must
+not have been finished.  The alley has a slight incline here.  
+~
+Shd 1
+ExtraDescr dirt~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+ExtraDescr pile~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+ExtraDescr piles~
+The dirt piles are quite numerous forceing you to weave around them.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 1 0 0 11235 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 3 0 0 19616 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 4 0 0 11237 30 30
+~
+door~
+End
+
+#11237
+Name Middle of the Hill~
+Descr
+There is no alley here.  The building crew must not have made it this
+far.  The hill is hard to climb due to poor footing and the steepness.  You
+wonder how much further the top is because your legs are begining to ache.  
+~
+Movemess
+(null)~
+Door 0 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 1 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 2 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 3 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 4 0 0 11238 30 30
+~
+door~
+Door 5 0 0 11236 30 30
+~
+door~
+End
+
+#11238
+Name Hill Giants Abode~
+Descr
+The top of the hill finally.  There is no fog here due to the height of
+the hill.  A large tent made of a bear's skin is flapping merrily in the
+wind.  A campfire hole lies burning in front of the tent.  A loud snoring
+can be heard from within.  Peering carefully in you see a large giant
+sleeping.  
+~
+ExtraDescr tent~
+The tent is rather large and made completely out of bear skin.  A small
+
+
+logo shows that it came from Zep's shop.  
+
+
+~
+ExtraDescr hole~
+The campfire is still burning sending waves of warmth all around.  
+
+
+~
+Reset M 11238 1 100
+Reset O 11238 21 75
+Movemess
+(null)~
+Door 0 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 1 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 2 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 3 256 0 11236 30 30
+You trip yourself trying to walk up the hill and fall to the bottom.
+~
+door~
+Door 5 0 0 11237 30 30
+~
+door~
+End
+
+#11239
+Name Main Street~
+Descr
+The stones are suffering from deterioration due to heavy travel along
+this street.  For such a small town there was quite a bit of activity.  Must
+have been a resting point for tired and weary travelers.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11240 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11233 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11240
+Name Main Street~
+Descr
+The stones are suffering from deterioration due to heavy travel along
+this street.  For such a small town there was quite a bit of activity.  Must
+have been a resting point for tired and weary travelers.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11241 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+Door 2 0 0 11239 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+door~
+End
+
+#11241
+Name Main Street~
+Descr
+The stones are suffering from deterioration due to heavy travel along
+this street.  For such a small town there was quite a bit of activity.  Must
+have been a resting point for tired and weary travelers.  To the west you
+can see a large sign indicating a former inn.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11252 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11240 30 30
+~
+door~
+Door 3 0 0 11242 30 30
+~
+door~
+End
+
+#11242
+Name In Front of Treg's Inn~
+Descr
+Treg's Inn was rumored to be one of the finest of it's time.  Even now
+the muck covered inn looks halfway appealing.  Huge white pillars run from
+the ground up to the roof above the second floor.  A set of intricately
+designed steel doors block entry into the inn at the top of the stairs.  
+~
+ExtraDescr doors~
+The doors are designed superbly.  Thick steel, many complicated designs,
+
+
+and very, very sturdy looking.  
+
+
+~
+ExtraDescr door~
+The doors are designed superbly.  Thick steel, many complicated designs,
+
+
+and very, very sturdy looking.  
+
+
+~
+ExtraDescr inn~
+The inn still looks inviting even with the muck that covers a lot of the
+
+
+lower level.  Huge white pillars run from the ground to the roof above the
+
+
+second floor.  A huge window can be seen on each side of the doors.  The
+
+
+steps up to the inn are even decorated with designs.  
+
+
+~
+ExtraDescr pillars~
+The pillars run from the ground all the way up to the roof.  They are
+
+
+cylinder and they twist like a spiral to the top.  
+
+
+~
+ExtraDescr pillar~
+The pillars run from the ground all the way up to the roof.  They are
+
+
+cylinder and they twist like a spiral to the top.  
+
+
+~
+ExtraDescr stairs~
+The stairs have small pictures of many odd beasts carved upon each step. 
+
+
+This place spared no expense in it's decorations obviously.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11241 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 3 3 0 11243 30 30
+~
+Inn Door~
+End
+
+#11243
+Name Inn's Reception~
+Descr
+The room is stunning.  Plush red carpeting with gold trim covers the
+entire lower level.  The walls are a deep shade of white and have many
+masterful paintings hanging upon them.  A huge chandelier of brilliant
+crystal hangs above the receptionist's desk.  This definitely was an upper
+class place.  
+~
+Flags 4
+Sector 0
+ExtraDescr door~
+The doors are designed superbly.  Thick steel, many complicated designs,
+
+
+and very, very sturdy looking.  
+
+
+~
+ExtraDescr doors~
+The doors are designed superbly.  Thick steel, many complicated designs,
+
+
+and very, very sturdy looking.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A thin gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr chandelier~
+The chandelier is made from a shimmering crystaline substance.  Many
+
+
+candles are resting unlit in the holders and a pure gold chain attaches it
+
+
+to the ceiling.  
+
+
+~
+ExtraDescr desk~
+The desk is made from black marble and has a few notes scattered around
+
+
+the top.  A circular dish holds a few dripping feather quill's.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.
+
+
+~
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+Reset M 11243 1 100
+Reset O 11243 21 25
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11242 30 30
+~
+Inn Door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 11250 30 30
+~
+door~
+End
+
+#11244
+Name First Room~
+Descr
+The room has a medium sized bed with red silk sheets to match the carpet.
+An open window to the east fills the room with a breeze and the odor of the
+familiar muck outside.  A few pieces of furniture are placed around the
+room.  The room is nice but not nearly as big or elegant as the suite.  
+~
+Flags 4
+Sector 0
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr furniture~
+The furniture is made of solid oak wood with a hard leather covering.  
+
+
+~
+ExtraDescr door~
+The door is made from a sturdy looking unknown wood type.  A big number 1
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr first~
+The door is made from a sturdy looking unknown wood type.  A big number 1
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr one~
+The door is made from a sturdy looking unknown wood type.  A big number 1
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr bed~
+The bed is a medium size with red satin sheets that match the carpet
+
+
+perfectly.  It looks pretty comfortable.  
+
+
+~
+ExtraDescr window~
+The window is all the way open providing the upstairs with air and the
+
+
+smell of muck.  
+
+
+~
+Reset M 11244 3 100
+Reset O 205 6 100
+Reset O 219 4 100
+Reset O 202 7 100
+Reset O 1025 21 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 2 0 11251 30 30
+~
+First Door~
+End
+
+#11245
+Name Second Room~
+Descr
+The room has a medium sized bed with red silk sheets to match the carpet.
+A few pieces of furniture are placed around the room.  The room is nice but
+not nearly as nice or elegant as the suite.  
+~
+Flags 4
+Sector 0
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr furniture~
+The furniture is made of solid oak wood with a hard leather covering.  
+
+
+~
+ExtraDescr door~
+The door is made from a sturdy looking unknown wood type.  A big number 2
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr second~
+The door is made from a sturdy looking unknown wood type.  A big number 2
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr two~
+The door is made from a sturdy looking unknown wood type.  A big number 2
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr bed~
+The bed is a medium size with red satin sheets that match the carpet
+
+
+perfectly.  It looks pretty comfortable.  
+
+
+~
+Reset M 11244 3 100
+Reset O 205 6 100
+Reset O 219 4 100
+Reset O 202 7 100
+Reset O 1025 21 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 3 0 11246 30 30
+~
+Second Door~
+End
+
+#11246
+Name End of the Hallway~
+Descr
+You are on the second floor of the inn.  To the east and west there are
+doors leading into rooms.  The hallway stops going north here and continues
+back to the south.  
+~
+Flags 4
+Sector 0
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr door~
+Which door? Second or third?
+
+
+~
+ExtraDescr second~
+The door is made from a sturdy looking unknown wood type.  A big number 2
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr two~
+The door is made from a sturdy looking unknown wood type.  A big number 2
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr third~
+The door is made from a sturdy looking unknown wood type.  A big number 3
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr three~
+The door is made from a sturdy looking unknown wood type.  A big number 3
+
+
+stands out seperating this room from the others.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11245 30 30
+~
+Second Door~
+Door 2 0 0 11251 30 30
+~
+door~
+Door 3 3 0 11247 30 30
+~
+Third Door~
+End
+
+#11247
+Name Third Room~
+Descr
+The room has a medium sized bed with red silk sheets to match the carpet.
+A few pieces of furniture are placed around the room.  The room is nice but
+not nearly as nice or elegant as the suite.  
+~
+Flags 4
+Sector 0
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr furniture~
+The furniture is made of solid oak wood with a hard leather covering.  
+
+
+~
+ExtraDescr door~
+The door is made from a sturdy looking unknown wood type.  A big number 3
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr third~
+The door is made from a sturdy looking unknown wood type.  A big number 3
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr three~
+The door is made from a sturdy looking unknown wood type.  A big number 3
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr bed~
+The bed is a medium size with red satin sheets that match the carpet
+
+
+perfectly.  It looks pretty comfortable.  
+
+
+~
+Reset M 11309 10 100
+Reset M 11309 10 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11246 30 30
+~
+Third Door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11248
+Name Fourth Room~
+Descr
+The room has a medium sized bed with red silk sheets to match the carpet.
+A few pieces of furniture are placed around the room.  The room is nice but
+not nearly as nice or elegant as the suite.  
+~
+Flags 4
+Sector 0
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr furniture~
+The furniture is made of solid oak wood with a hard leather covering.  
+
+
+~
+ExtraDescr door~
+The door is made from a sturdy looking unknown wood type.  A big number 4
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr fourth~
+The door is made from a sturdy looking unknown wood type.  A big number 4
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr four~
+The door is made from a sturdy looking unknown wood type.  A big number 4
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr bed~
+The bed is a medium size with red satin sheets that match the carpet
+
+
+perfectly.  It looks pretty comfortable.  
+
+
+~
+Reset M 11244 3 100
+Reset O 205 6 100
+Reset O 219 4 100
+Reset O 202 7 100
+Reset O 1025 21 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11251 30 30
+~
+Fourth Door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11249
+Name Deluxe Suite~
+Descr
+This room has elegant furniture placed around the room and a huge fluffy
+king sized bed below the stained glass windows on the western end of the
+room.  A pool type structure still bubbles on the southern end of the room. 
+This must have been a room for wealthy nobles, rich aristocrats, or well
+respected figures.  
+~
+Flags 4
+Sector 0
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr bed~
+The bed is covered with red satin sheets that match the carpet perfectly.
+
+
+The bed is absoultley huge and looks extremely comfortable.  
+
+
+~
+ExtraDescr window~
+The stained glass windows have a picture of a noble knight defending
+
+
+innocent villagers from a huge dragon.  All in all it looks very nice.  
+
+
+~
+ExtraDescr windows~
+The stained glass windows have a picture of a noble knight defending
+
+
+innocent villagers from a huge dragon.  All in all it looks very nice.  
+
+
+~
+ExtraDescr pool~
+A stone bath has water bubbling in it still.  The water is mildly warm to
+
+
+the touch and must come from an underground spring.  Looks relaxing.  
+
+
+~
+ExtraDescr furniture~
+The furniture in this room is made from solid oak.  It's covered with
+
+
+soft leather and silky animal fur providing maximum comfort.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+Reset M 11249 1 100
+Reset O 1025 21 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11250 30 30
+~
+Suite Door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11250
+Name Before the Stairs~
+Descr
+This room is no less stunning than the reception.  The same carpeting and
+design looks to have been adopted throughout the whole inn.  A big arched
+door lies to the west and a set of stairs go upward.  
+~
+Flags 4
+Sector 0
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A thin gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 11243 30 30
+~
+door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 3 0 11249 30 30
+~
+Suite Door~
+Door 4 0 0 11251 30 30
+~
+door~
+End
+
+#11251
+Name Upstairs Hallway~
+Descr
+You are on the second floor of the inn.  To the east and west there are
+doors leading into rooms.  The hall continues to the north or you can go
+back down the stairs behind you.  
+~
+Flags 4
+Sector 0
+ExtraDescr carpet~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr floor~
+The carpet is a royal shade of red and is quite fluffy making your
+
+
+footsteps unheard and comfortable.  A think gold trim lines the edges of the
+
+
+carpet.  
+
+
+~
+ExtraDescr wall~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr walls~
+The walls have many beautifuly crafted paintings hanging upon them.  
+
+
+~
+ExtraDescr first~
+The door is made from a sturdy looking unknown wood type.  A big number 1
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr fourth~
+The door is made from a sturdy looking unknown wood type.  A big number 4
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr door~
+Which door? First or fourth?
+
+
+~
+ExtraDescr four~
+The door is made from a sturdy looking unknown wood type.  A big number 4
+
+
+stands out seperating this room from the others.  
+
+
+~
+ExtraDescr one~
+The door is made from a sturdy looking unknown wood type.  A big number 1
+
+
+stands out seperating this room from the others.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11246 30 30
+~
+door~
+Door 1 3 0 11244 30 30
+~
+First Door~
+Door 3 3 0 11248 30 30
+~
+Fourth Door~
+Door 5 0 0 11250 30 30
+~
+door~
+End
+
+#11252
+Name Main Street~
+Descr
+Odd.  You still see the signs of wear that are seen all along the main
+street but there are stones scattered here for no apparent reason.  An eerie
+scraping noise can be heard from somewhere or another.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+There are a few stones lying here unused.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11253 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11241 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+End
+
+#11253
+Name Main Street~
+Descr
+Darkness..  The normal lantern that lights Main Street is broken upon the
+ground with a huge pile of dirt next to it.  The scraping noise is very loud
+here and seems to be coming from below the street.  A small hole with stones
+scattered around it can be seen a short distance away.  
+~
+ExtraDescr dirt~
+The dirt pile is pretty big and must have come from the hole in the
+
+
+street.  
+
+
+~
+ExtraDescr pile~
+The dirt pile is pretty big and must have come from the hole in the
+
+
+street.  
+
+
+~
+ExtraDescr lantern~
+The lantern is shattered upon the ground as if somebody smashed it with a club.
+
+
+~
+ExtraDescr hole~
+A small hole is burrowed within Main Street with stones scatterd all
+
+
+around it.  The hole is about ten feet deep and pretty dark.  Not more than
+
+
+one person would fit in there by the looks of it.  
+
+
+~
+ExtraDescr stones~
+There are many stones scattered upon the already laid stones.  Most
+
+
+likely they came from the hole dug into the street.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11254 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11252 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 5 259 0 11310 30 30
+~
+Dull Rock~
+End
+
+#11254
+Name Main Street~
+Descr
+There are a few stones scattered here as well but not as many.  The
+scraping noise still can be heard sending shivers up your spine.  The light
+has returned thankfully and a big gate can be seen up the street a ways.  
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+There are a few stones lying here unused.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11255 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11253 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+End
+
+#11255
+Name Entrance to the Graveyard~
+Descr
+You stand before a large gate leading into the graveyard.  The gate is
+unusually and heavily chained.  You can't tell if it's meant to keep
+intruders out or whatever wanders within in.  A strange sense of evil can be
+felt upon approaching the gate.  
+~
+ExtraDescr gate~
+The gate is very large at about fifteen feet tall.  Heavy chains are
+
+
+wrapped around the entire gate with the ends locked onto steel poles
+
+
+hammered far into the ground.  
+
+
+~
+ExtraDescr lantern~
+A lantern swiftly cuts through the dense fog providing you with light. 
+
+
+It must be powerful magic because your current light source doesn't help
+
+
+much.  
+
+
+~
+ExtraDescr stones~
+They are a deep grayish color and carved in squares.  They fit closely
+
+
+together along the whole road.  They show signs of wear due to heavy travel.
+
+
+~
+Reset M 11255 1 100
+Reset O 11255 -5 100
+Movemess
+(null)~
+Door 0 3 0 11272 35 35
+~
+gate~
+Door 1 0 0 11256 30 30
+~
+door~
+Door 2 0 0 11254 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+End
+
+#11256
+Name Beginning of the Path to the Academy~
+Descr
+You stand upon what was a well trodden path in it's days.  Many young
+thieves, warriors, and magic users sought out the assistance of the Acadamy
+to hone their skills to a higher level of ability.  It is rumored that the
+spirits of the former guildmasters still roam the Acadamy teaching the young
+pupils who are brave enough to seek their help.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11257 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 3 0 0 11255 30 30
+~
+door~
+End
+
+#11257
+Name Path to the Academy~
+Descr
+You stand upon what was a well trodden path in it's days.  Many young
+thieves, warriors, and magic users sought out the assistance of the Acadamy
+to hone their skills to a higher level of ability.  It is rumored that the
+spirits of the former guildmasters still roam the Acadamy teaching the young
+pupils who are brave enough to seek their help.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11258 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 3 0 0 11256 30 30
+~
+door~
+End
+
+#11258
+Name Path to the Academy~
+Descr
+A few small cages lie unused on both sides of the path here.  The
+skeleton of an unfortunate soul is occupying one of the cages.  A few blood
+spatters can be seen on the nearby trees.  A worried feeling passes through
+your body as a small burst of wind catches you from behind.  
+~
+ExtraDescr cages~
+The cages are about six feet in height, five feet in length, and three
+
+
+feet in width.  They look sturdy and hard to escape from.  
+
+
+~
+ExtraDescr cage~
+The cages are about six feet in height, five feet in length, and three
+
+
+feet in width.  They look sturdy and hard to escape from.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really want to go into that cage?
+~
+(null)~
+Door 1 0 0 11259 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really want to go into that cage?
+~
+(null)~
+Door 3 0 0 11257 30 30
+~
+door~
+End
+
+#11259
+Name Punishment Place~
+Descr
+This must have been where criminals were executed for their wrong doings.
+A few more cages are resting empty here.  The justice system here was a
+little harsh but it was very effective in keeping the crime low.  A large
+pit is dug off the northern side of the path.  
+~
+ExtraDescr clue~
+Clue #7 Find the Lord of the Jungle, search his realm for the next clue.
+
+
+~
+ExtraDescr cage~
+The cages are about six feet in height, five feet in length, and three
+
+
+feet8 in width.  They look sturdy and hard to escape from.  8 
+
+
+~
+ExtraDescr cages~
+The cages are about six feet in height, five feet in length, and three
+
+
+feet8 in width.  They look sturdy and hard to escape from.  8 
+
+
+~
+ExtraDescr pit~
+The pit is pretty big and is filled with quite a few bones.  The headless
+
+
+bodies were thrown here to decompose it looks.  
+
+
+~
+Reset M 11259 1 100
+Reset O 11259 21 30
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You fall into the pit and after several minutes manage to climb back out.
+~
+(null)~
+Door 1 0 0 11260 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really want to go into that cage?
+~
+(null)~
+Door 3 0 0 11258 30 30
+~
+door~
+End
+
+#11260
+Name Path to the Academy~
+Descr
+The path has grown noticeably smaller here shrinking to half it's
+original size.  Must have been Punishment Place that made more than a few
+apprentices turn away in fright (especially the thieves).  The blood
+spatters also cover a few of the surrounding trees here.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11261 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 3 0 0 11259 30 30
+~
+door~
+End
+
+#11261
+Name Path to the Academy~
+Descr
+What a long walk!  This path seems endless and you most likely would be
+sleep walking if Punishment Place wouldn't have woke you up so effectively. 
+Wishful thinking has you hoping the Acadamy is somewhere close by.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11262 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 3 0 0 11260 30 30
+~
+door~
+End
+
+#11262
+Name In Front of a Small Shop~
+Descr
+A small, humble shop has with a big welcome sign above the front door
+welcomes you to enter it's peaceful environment.  You can enter the small
+shop to the south, take the northbound path to the Academy, or go back to
+the main part of town eastwards.  
+~
+ExtraDescr shop~
+The small shop didn't do quite as well as Zep's shop did.  The shop was
+
+
+shabily made and no windows or anything nice can be seen about the shop.  
+
+
+~
+ExtraDescr sign~
+W - E - L - C - O - M - E
+
+
+-to the necesities shop.-
+
+
+-------------------------
+
+
+~
+Movemess
+(null)~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11263 30 30
+~
+door~
+Door 3 0 0 11261 30 30
+~
+door~
+End
+
+#11263
+Name Necessity Shop~
+Descr
+The small shop has a dirt floor, a small rickety counter, and some
+shelves behind the clerks desk displaying what the store has to offer.  A
+few loaves of bread are rotting on the lowest shelf.  A single waterskin
+hangs from a hook pounded into the wall and a few blankets carved from an
+animal hide sit in the far corner of the room.  
+~
+Flags 4
+ExtraDescr counter~
+The counter looks very unsturdy.  It would probably fall apart if
+
+
+anything heavy was placed on it.  
+
+
+~
+ExtraDescr shelves~
+The shelves are held up by pieces of metal pounded into the wall.
+
+
+~
+ExtraDescr blankets~
+The blankets are moldy, rotten, and don't look worth the trouble to take them.
+
+
+~
+ExtraDescr desk~
+The desk is a large piece of wood with legs fastened onto it. Nothing fancy.
+
+
+~
+ExtraDescr bread~
+You most certainly don't want to eat that disgusting bread.  Better leave
+
+
+it here to avoid poisoning.  
+
+
+~
+Reset O 39 -5 100
+Reset M 11309 10 100
+Movemess
+(null)~
+Door 0 0 0 11262 30 30
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11264
+Name Guard's Headquarters~
+Descr
+The guards obviously used this as a hangout rather than a headquarters. 
+You can tell this by looking around the room and seeing garbage everywhere. 
+Padded benches line rooms walls and a gambling table sits in the center of
+the room with a few chairs surrounding it.  Looks like an excuse to get away
+from the wife at home.  
+~
+Flags 4
+ExtraDescr chairs~
+The chairs are not the best built chairs but they do their job.  
+
+
+~
+ExtraDescr chair~
+The chairs are not the best built chairs but they do their job.  
+
+
+~
+ExtraDescr door~
+The door has a sliding window allowing the person to see who was at the
+
+
+door before unlocking and opening it.  The door is painted black and the
+
+
+doorknob seems to be a little broken.  
+
+
+~
+ExtraDescr wall~
+The walls are painted a dull blue and a few scuff marks can be seen.  
+
+
+~
+ExtraDescr walls~
+The walls are painted a dull blue and a few scuff marks can be seen.  
+
+
+~
+ExtraDescr table~
+The gambling table has handprints worn into the sides.  Man this must
+
+
+have been used a lot to have that happen.  A few dice and come chips lie in
+
+
+the center of the table.  
+
+
+~
+ExtraDescr benches~
+The benches are bolted to the wall and look comfortable enough.  
+
+
+~
+ExtraDescr bench~
+The benches are bolted to the wall and look comfortable enough.  
+
+
+~
+Reset M 11264 1 100
+Movemess
+(null)~
+Door 0 3 0 11265 30 30
+~
+Headquarters Door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11265
+Name Winding Path to the Academy~
+Descr
+The path is overgrown with moss making it hard to stay on the right
+course to the Academy.  Stepping over a few fallen trees is the most
+excitement to be found.  It seems nobody has been here in a long time.  A
+door almost hidden from sight can be made out to the south.  
+~
+Movemess
+(null)~
+Door 0 0 0 11267 30 30
+~
+door~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 3 0 11264 30 30
+~
+Headquarters Door~
+Door 3 0 0 11266 30 30
+~
+door~
+End
+
+#11266
+Name Path to the Academy~
+Descr
+The path is overgrown with moss making it hard to stay on the right
+course to the Acadamy.  Stepping over a few fallen trees is the most
+excitement to be found.  It seems nobody has been here in a long time.  
+~
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 1 0 0 11265 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+End
+
+#11267
+Name In Front of the Academy~
+Descr
+Finally you have reached this god forsaken place!  A good sized building
+makes it's fountation here biding you to enter and see if the rumors are
+what they are supposed to be.  A set of marble steps lead up to the front
+entrance and a few broken windows have shed their glass upon the steps.  
+~
+ExtraDescr steps~
+The steps are made of a black marble that still shines.
+
+
+~
+ExtraDescr window~
+The windows are mostly intact.  A few are broken and their glass lies
+
+
+upon the front steps.  
+
+
+~
+ExtraDescr windows~
+The windows are mostly intact.  A few are broken and their glass lies
+
+
+upon the front steps.  
+
+
+~
+ExtraDescr entrancesetenv sup on~
+~
+ExtraDescr entrance~
+The door is made of a metal you've never seen before.  A sword, dagger,
+
+
+and spell book are engraved into a circle upon it.  The words Mayor's Office
+
+
+are above the circle.  
+
+
+~
+ExtraDescr door~
+The door is made of a metal you've never seen before.  A sword, dagger,
+
+
+and spell book are envraved into a circle upon it.  The words Mayor's Office
+
+
+are above the circle.  
+
+
+~
+Movemess
+(null)~
+Door 0 3 0 11268 30 30
+~
+Acadamy Entrance~
+Door 1 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+Door 2 0 0 11265 30 30
+~
+door~
+Door 3 0 0 0 30 30
+You run face first into a tree. Ouch!
+~
+(null)~
+End
+
+#11268
+Name The Mayor's Office~
+Descr
+The office is quite the pig sty.  Papers, messages, quills, and countless
+other things are scattered everywhere including the floor.  The desk is even
+worse with three foot high piles of messages and ink stains all over the top
+of the desk.  The walls are a light shade of yellow and the floor is hard
+and wooden.  The outside looks better than the inside so far.  Passages lead
+north and east.  
+~
+Flags 4
+Sector 0
+ExtraDescr walls~
+The walls are very dirty and haven't been cleaned in a long time giving
+
+
+them the appearance of being gray versus the nomal light yellow.  
+
+
+~
+ExtraDescr door~
+The door is made of a metal you've never seen before.  A sword, dagger,
+
+
+and spell book also decorate the inside of the door.  A basket hangs from
+
+
+the corner of the door with undelivered messages in it.  
+
+
+~
+ExtraDescr desk~
+The desk is in defenite need of cleaning with piles and piles of messages
+
+
+and ink stains cover the surface.  This was either one lazy, or one real
+
+
+busy mayor.  
+
+
+~
+Movemess
+(null)~
+Door 0 3 0 11269 30 30
+~
+passage~
+Door 1 3 0 11271 30 30
+~
+passage~
+Door 2 3 0 11267 30 30
+~
+Acadamy Entrance~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11269
+Name Magic Users Laboratory~
+Descr
+Many shelves have ancient looking books and potions resting on them.  A
+few flasks are filled with spell components and the such on the huge central
+desk.  Pages from unfinished spells lie in a basket upon the floor.  Little
+cubby holes along the northern wall are filled with scrolls and other
+parchments.  Passages lead east and south.  
+~
+Flags 4
+Sector 0
+ExtraDescr holes~
+The whole wall is full of them.  Must be at least fifty plus.  Each one
+
+
+contains some sort of rolled up parchment most likely magical.  
+
+
+~
+ExtraDescr hole~
+The whole wall is full of them.  Must be at least fifty plus.  Each one
+
+
+contains some sort of rolled up parchment most likely magical.  
+
+
+~
+ExtraDescr cubby~
+The whole wall is full of them.  Must be at least fifty plus.  Each one
+
+
+contains some sort of rolled up parchment most likely magical.  
+
+
+~
+ExtraDescr basket~
+This is where the rejected spells went.  The pile is fairly small so
+
+
+there must not have been too many failures.  
+
+
+~
+ExtraDescr desk~
+The desk is very large and is placed in the center of the room.  Many
+
+
+flasks are resting upon the top unused while others are full of spell
+
+
+components or unidentified liquids.  
+
+
+~
+ExtraDescr shelves~
+The shelves are covered with many different colored potions and
+
+
+spellbooks.  
+
+
+~
+Reset M 11269 1 100
+Reset O 947 11 2
+Reset O 11265 22 40
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 3 0 11270 30 30
+~
+passage~
+Door 2 3 0 11268 30 30
+~
+passage~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11270
+Name The Thieves Court~
+Descr
+The walls have many short swords, daggers, and any other weapons a thief
+could use hanging on them.  A few have fallen to the ground and making
+walking near the walls dangerous.  Many dummy dolls hang from ropes attached
+to the roof with holes in their back and coinpurses empty.  Passages lead
+south and west.  
+~
+Flags 4
+Sector 0
+ExtraDescr dummy~
+The dolls have coinpurses attached around their waists (empty of course,
+
+
+you're in the thieves court).  Deep holes are embedded into their backs and
+
+
+they have ropes connecting them to the roof.  
+
+
+~
+ExtraDescr dolls~
+The dolls have coinpurses attached around their waists (empty of course,
+
+
+you're in the thieves court).  Deep holes are embedded into their backs and
+
+
+they have ropes connecting them to the roof.  
+
+
+~
+ExtraDescr doll~
+The dolls have coinpurses attached around their waists (empty of course,
+
+
+you're in the thieves court).  Deep holes are embedded into their backs and
+
+
+they have ropes connecting them to the roof.  
+
+
+~
+ExtraDescr wall~
+The walls are covered with scrapes and scratches.  The dark gray paint is
+
+
+peeling off in a few spots and an occasional hole can be found.  
+
+
+~
+ExtraDescr walls~
+The walls are covered with scrapes and scratches.  The dark gray paint is
+
+
+peeling off in a few spots and an occasional hole can be found.  
+
+
+~
+Reset M 11270 1 100
+Reset O 946 11 1
+Reset O 948 7 1
+Reset O 945 21 4
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 3 0 11271 30 30
+~
+passage~
+Door 3 3 0 11269 30 30
+~
+passage~
+End
+
+#11271
+Name The Warriors Training Grounds~
+Descr
+The walls have many swords, clubs, and countless other weapons suspended
+by hooks and other gadgets.  A few pieces off of shattered doors lie
+scattered about and many tables are broken from bash and kick practice. 
+Passages lead north and west.  
+~
+Flags 4
+Sector 0
+ExtraDescr tables~
+The tables are shattered quite well.  The warriors must have been doing
+
+
+their homework.  
+
+
+~
+ExtraDescr table~
+The tables are shattered quite well.  The warriors must have been doing
+
+
+their homework.  
+
+
+~
+ExtraDescr wall~
+The walls are covered with scrapes and scratches.  The dark gray paint is
+
+
+peeling off in a few spots and an occasional hole can be found.  
+
+
+~
+ExtraDescr walls~
+The walls are covered with scrapes and scratches.  The dark gray paint is
+
+
+peeling off in a few spots and an occasional hole can be found.  
+
+
+~
+Reset M 11271 1 100
+Reset O 949 7 10
+Movemess
+(null)~
+Door 0 3 0 11270 30 30
+~
+passage~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 3 0 11268 30 30
+~
+passage~
+End
+
+#11272
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shivers through your body.  You can still escape through
+the gate to the south.  
+~
+Shd 1
+Sector 2
+ExtraDescr gate~
+The gate is very large at about fifteen feet tall.  Heavy chains are
+
+
+wrapped around the entire gate with the ends locked onto steel poles
+
+
+hammered far into the ground.  
+
+
+~
+Movemess
+(null)~
+Door 0 0 0 11283 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 3 0 11255 35 35
+~
+gate~
+Door 3 0 0 11273 30 30
+~
+door~
+End
+
+#11273
+Name Southern Path Through the Graveyard~
+Descr
+You are traveling along the southern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11272 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11274 30 30
+~
+door~
+End
+
+#11274
+Name Southern Path Through the Graveyard~
+Descr
+You are traveling along the southern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11273 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11275 30 30
+~
+door~
+End
+
+#11275
+Name Southern Path Through the Graveyard~
+Descr
+You are traveling along the southern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11274 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11276 30 30
+~
+door~
+End
+
+#11276
+Name Southern Path Through the Graveyard~
+Descr
+You are traveling along the southern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 11279 30 30
+~
+door~
+Door 1 0 0 11275 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11277 30 30
+~
+door~
+End
+
+#11277
+Name Unused Corner of the Graveyard~
+Descr
+This section of the graveyard looks to have been barely if ever used. 
+The grass here is twice as tall as the normally tall grass and there is no
+path to walk on.  There is a small gate to the south.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11276 30 30
+~
+door~
+Door 2 3 0 11278 30 30
+~
+Back Gate~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11278
+Name Back Entrance~
+Descr
+You stand before a gate that seemingly enters a graveyard.  Thick fog
+makes it impossible to see more than five feet in any direction.  You can
+sense evil radiating from inside the gate.  The smell of death and decay is
+everywhere.  
+~
+Shd 1
+Reset O 11202 -5 100
+Movemess
+(null)~
+Door 0 3 0 11277 30 30
+~
+back gate~
+Door 2 259 0 29193 30 30
+~
+Highway~
+End
+
+#11279
+Name Western Path Through the Graveyard~
+Descr
+You are traveling along the western fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 11288 30 30
+~
+door~
+Door 1 0 0 11280 30 30
+~
+door~
+Door 2 0 0 11276 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11280
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11281 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11279 30 30
+~
+door~
+End
+
+#11281
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11282 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11280 30 30
+~
+door~
+End
+
+#11282
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11283 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11281 30 30
+~
+door~
+End
+
+#11283
+Name Eastern Path Through the Graveyard~
+Descr
+You are traveling along the eastern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 11284 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 11272 30 30
+~
+door~
+Door 3 0 0 11282 30 30
+~
+door~
+End
+
+#11284
+Name Eastern Path Through the Graveyard~
+Descr
+You are traveling along the eastern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 11293 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 11283 30 30
+~
+door~
+End
+
+#11285
+Name Inside the Ancient Tomb~
+Descr
+You stand inside an old, dusty tomb.  The tomb is completely bare except
+the coffin placed upon a large block of wood standing in the center of the
+room.  Looking down you see that the dust covers your feet completely.  This
+place has been left undisturbed for a long time it looks.  
+~
+Flags 4
+Shd 1
+Sector 0
+Reset M 11285 1 100
+Reset O 970 12 1
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 3 0 11286 30 30
+~
+Tomb Door~
+End
+
+#11286
+Name Before the Ancient Tomb~
+Descr
+The tomb is extremely old and is still in good shape.  Most structures
+this old would have turned to dust and blown away.  The tomb was here before
+the town was and is the reason the town was built here.  There is a thick
+inscription that can be made out underneath the muck.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 3 0 11285 30 30
+~
+Tomb Door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11287 30 30
+~
+door~
+End
+
+#11287
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11286 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11288 30 30
+~
+door~
+End
+
+#11288
+Name Western Path Through the Graveyard~
+Descr
+You are traveling along the western fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 11289 30 30
+~
+door~
+Door 1 0 0 11287 30 30
+~
+door~
+Door 2 0 0 11279 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11289
+Name Western Path Through the Graveyard~
+Descr
+You are traveling along the western fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  The fence corners here making it impossible to go north.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11290 30 30
+~
+door~
+Door 2 0 0 11288 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11290
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 11294 30 30
+~
+door~
+Door 1 0 0 11291 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11289 30 30
+~
+door~
+End
+
+#11291
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11292 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11290 30 30
+~
+door~
+End
+
+#11292
+Name Path Through the Graveyard~
+Descr
+The graveyard path hasn't been taken care of in a long time.  Thick grass
+and weeds cover everywhere but the path making it hard or impossible to see
+many of the marker stones without walking and standing next to them.  The
+fog hasn't let up here in fact it's got worse.  The evil can be felt all
+around you sending shiver through your body.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 11293 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11291 30 30
+~
+door~
+End
+
+#11293
+Name Eastern Path Through the Graveyard~
+Descr
+You are traveling along the eastern fence.  Strange noises can be heard
+all around you making the stmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 11284 30 30
+~
+door~
+Door 3 0 0 11292 30 30
+~
+door~
+End
+
+#11294
+Name Northern Path Through the Graveyard~
+Descr
+You are traveling along the northern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11295 30 30
+~
+door~
+Door 2 0 0 11290 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11295
+Name Northern Path Through the Graveyard~
+Descr
+You are traveling along the northern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11272 11 100
+Reset O 950 21 80
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11296 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11294 30 30
+~
+door~
+End
+
+#11296
+Name Northern Path Through the Graveyard~
+Descr
+You are traveling along the northern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Reset M 11273 11 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11297 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11295 30 30
+~
+door~
+End
+
+#11297
+Name Northern Path Through the Graveyard~
+Descr
+You are traveling along the northern fence.  Strange noises can be heard
+all around you making the atmosphere eerie and frightening.  Thick grass
+seperates the fence from the path making it hard to tell if something is
+lurking by the fence ready to jump out at you.  The smell of death and decay
+is everywhere.  
+~
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11298 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11296 30 30
+~
+door~
+End
+
+#11298
+Name Unfinished Graveyard Path~
+Descr
+The path is about halfway finished.  Many shovels are buried in the dirt
+or stuck into an unfinished part of the path.  The ground is very soggy here
+and the muck is more frequent than normal.  The fence can be seen directly
+north.  
+~
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11299 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11297 30 30
+~
+door~
+End
+
+#11299
+Name Unfinished Graveyard Path~
+Descr
+The path is about halfway finished.  Many shovels are buried in the dirt
+or stuck into an unfinished part of the path.  The ground is very soggy here
+and the muck is more frequent than normal.  The fence can be seen directly
+north.  
+~
+Flags 2
+Shd 1
+Sector 2
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11300 30 30
+~
+door~
+Door 2 0 0 0 30 30
+You really don't feel like going through the thick grass.
+~
+(null)~
+Door 3 0 0 11298 30 30
+~
+door~
+End
+
+#11300
+Name Beginning of a Muck Pit~
+Descr
+There are piles and piles of muck and you are standing foot deep in the
+stuff.  The stench is pretty bad and your attire is getting really messy. 
+Where did this all come from?  Might have been a dumping ground for the
+stuff if somebody tried to clean the place up before the town was abandoned.
+~
+Shd 1
+Sector 15
+Reset M 11300 4 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 11301 30 30
+~
+door~
+Door 3 0 0 11299 30 30
+~
+door~
+End
+
+#11301
+Name Shallow Muck Pit~
+Descr
+Muck here, muck there, muck everywhere.  This is defenitely a dumping
+ground for the filthy substance.  The muck shifts around every now and then
+making it seem somewhat alive.  Thankfully it's not very deep.  
+~
+Shd 1
+Sector 15
+Reset M 11300 4 100
+Movemess
+(null)~
+Door 0 0 0 11300 30 30
+~
+door~
+Door 1 0 0 11306 30 30
+~
+door~
+Door 2 0 0 11302 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11302
+Name Muck Pit~
+Descr
+The muck is very liquid like here and has gotten a little bit deeper from
+the beginning of the pit.  Hopefully there are no unexpected holes you might
+sink into.  A few tremors break the silent surface from time to time.  
+~
+Sector 15
+Reset M 11302 3 100
+Reset M 11302 3 100
+Movemess
+(null)~
+Door 0 0 0 11301 30 30
+~
+door~
+Door 1 0 0 11305 30 30
+~
+door~
+Door 2 0 0 11303 30 30
+~
+door~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11303
+Name Deep Muck Pit~
+Descr
+What are you doing here?  In the midst of a huge muck pit is not the best
+place to enjoy ones day (although it is kind of fun playing in the mud). 
+It's gotten quite a bit deeper here and from your estimate it's at least two
+and a half feet deep.  
+~
+Sector 15
+Reset M 11303 3 100
+Movemess
+(null)~
+Door 0 0 0 11302 30 30
+~
+door~
+Door 1 0 0 11304 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+End
+
+#11304
+Name Deep Muck Pit~
+Descr
+What are you doing here?  In the midst of a huge muck pit is not the best
+place to enjoy ones day (although it is kind of fun playing in the mud). 
+It's gotten quite a bit deeper here and from your estimate it's at least two
+and a half feet deep.  
+~
+Shd 1
+Sector 15
+Reset M 11303 3 100
+Movemess
+(null)~
+Door 0 0 0 11305 30 30
+~
+door~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11303 30 30
+~
+door~
+End
+
+#11305
+Name Muck Pit~
+Descr
+The muck is very liquid like here and has gotten a little bit deeper from
+the beginning of the pit.  Hopefully there are no unexpected holes you might
+sink into.  A few tremors break the silent surface from time to time.  
+~
+Shd 1
+Sector 15
+Reset M 11302 3 100
+Movemess
+(null)~
+Door 0 0 0 11306 30 30
+~
+door~
+Door 1 0 0 11307 30 30
+~
+door~
+Door 2 0 0 11304 30 30
+~
+door~
+Door 3 0 0 11302 30 30
+~
+door~
+End
+
+#11306
+Name Shallow Muck Pit~
+Descr
+Muck here, muck there.  Muck everywhere.  This is defenitely a dumping
+ground for the filthy substance.  The muck shifts around every now and then
+making it seem somewhat alive.  Thankfully it's not very deep.  
+~
+Sector 15
+Reset M 11300 4 100
+Reset M 11300 4 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 11305 30 30
+~
+door~
+Door 3 0 0 11301 30 30
+~
+door~
+End
+
+#11307
+Name Deep Muck Pit~
+Descr
+What are you doing here?  In the midst of a huge muck pit is not the best
+place to enjoy ones day (although it is kind of fun playing in the mud). 
+It's gotten quite a bit deeper here and from your estimate it's at least two
+and a half feet deep.  
+~
+Shd 1
+Sector 15
+Reset M 11303 3 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 11308 30 30
+~
+door~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11305 30 30
+~
+door~
+End
+
+#11308
+Name Very Deep Muck Pit~
+Descr
+Wow is it deep here.  A good four and a half feet you would guess.  The
+muck gurgles and spurts about often and something seems out of the ordinary
+here.  You pass it off as an illusion of the mind and notice the only way
+out is the way you came in.  
+~
+Shd 1
+Sector 15
+Reset M 11308 1 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 1 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 2 0 0 0 30 30
+The graveyard fence prevents you from going that way.
+~
+(null)~
+Door 3 0 0 11307 30 30
+~
+door~
+Door 4 0 0 2599 0 0
+~
+~
+End
+
+#11309
+Name Behind the Hidden Passage~
+Descr
+You somehow managed to find the secret door lodged inside a large tree. 
+The room is fairly small and hasn't been cleaned recently.  A thick layer of
+dust covers everthing in sight.  A bench has been carved into the eastern
+wall.  Dust covered bottles of ale are scattered everywhere.  This must have
+been a secret hangout of some kind.  
+~
+Flags 4
+ExtraDescr door~
+The secret door was made very well leaving no traces of it's existance to
+
+
+be found.  It's a slab cut from the tree that fits back in place.  
+
+
+~
+ExtraDescr bench~
+The bench is carved from the tree providing a spot to sit and talk.  A
+
+
+thick layer of dust indicates that they haven't been used recently.  
+
+
+~
+ExtraDescr bottles~
+The empty bottles have a thick layer of dust covering them.
+
+
+~
+ExtraDescr bottle~
+The empty bottles have a thick layer of dust covering them.
+
+
+~
+ExtraDescr ale~
+The empty bottles have a thick layer of dust covering them.
+
+
+~
+Reset M 11309 10 100
+Reset M 11309 10 100
+Reset M 11309 10 100
+Movemess
+(null)~
+Door 0 258 0 11220 30 30
+~
+hidden~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+door~
+End
+
+#11310
+Name Small Hole in Main Street~
+Descr
+The hole is VERY small and tight fitting making standing here uncomfy. 
+Claw marks cover the entire floor and most of the the three walls.  An even
+smaller tunnel can barely be made out to the north.  A grunting noise comes
+from the smaller tunnel making you think twice before entering.  
+~
+Flags 4
+Movemess
+(null)~
+Door 0 0 0 11311 30 30
+~
+door~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 4 257 0 11253 30 30
+~
+Dull Rock~
+End
+
+#11311
+Name Lair of the Master Dread~
+Descr
+The room got quite a bit bigger here and is somewhat in order compared to
+the other room.  Claw marks are still visable as the walls aren't smoothed
+off.  The foul smell of rotting flesh and rotting carcasses fill the room. 
+A few arms and legs lie piled up in the northwestern corner of the room
+(some human, others unrecognized) still in one piece.  
+~
+Flags 4
+Reset M 11311 1 100
+Reset O 11311 0 1
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 1 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+Door 2 0 0 11310 30 30
+~
+door~
+Door 3 0 0 0 30 30
+Run into walls often?
+~
+(null)~
+End
+
+#11312
+Name Inside the Huge Waterhole~
+Descr
+Swimming around in the huge waterhold is quite enjoyable.  The water is a
+pleasant temperature and a few colorful fish swim nearby.  A strange
+vibrating can be felt every five to ten seconds.  Your instincts kick in and
+tell you there is danger near.  
+~
+Flags 34948
+Shd 1
+Sector 8
+Reset M 11312 1 100
+Reset M 11228 1 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 1 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 2 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 3 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 4 0 0 11228 30 30
+~
+door~
+Door 5 0 0 11313 30 30
+~
+door~
+End
+
+#11313
+Name Bottom of the Huge Waterhole~
+Descr
+You have reached the bottom of the hole and are quite a ways from the
+surface.  It's grown dark from the depth and dark shapes swim around
+replacing the colorful fish that were above.  One shape in particular sticks
+out because of it's size.  
+~
+Flags 34949
+Shd 1
+Sector 8
+Reset M 11313 1 100
+Movemess
+(null)~
+Door 0 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 1 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 2 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 3 0 0 0 30 30
+You leave a body imprint and realize you can't go that way.
+~
+door~
+Door 4 0 0 11312 30 30
+~
+door~
+End
+
+#0
+
+
+
+#$

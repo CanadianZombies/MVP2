@@ -1,0 +1,2115 @@
+#AREADATA 
+Name The Fort of Shadows~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe silence becomes deafening... 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Gex Fedaykin~
+VNUMs 3700 3800
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#3700
+Name short lookout human~
+Short a short lookout~
+Long 
+A short lookout stands here surveying the world below.
+~
+Descr
+Scantily clad and noticeably short, a small lookout doesn't look like
+he'd put up much of a fight. 
+~
+AMax 15
+NHeight 49
+Affect_By 33320
+Money 120
+Level 120
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3701
+Name short human female small~
+Short a small humanoid~
+Long 
+A small humanoid silently moves through the fort.
+~
+Descr
+~
+AMax 5
+NHeight 47
+Affect_By 33280
+Money 10
+Level 10
+Sex 2
+MobType 0
+Guard 0
+End
+
+#3702
+Name guard short dark man human gate~
+Short a dark gateguard~
+Long 
+A dark gateguard stands here blending into the shadowy fort.
+~
+Descr
+The dark little guard silently stands post in front of the fort. The
+color of his skin allows him to blend in with the pitch-smeared wood of the
+gate and walls. 
+~
+AMax 2
+NHeight 51
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 60
+Level 60
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3703
+Name guard human tower short man~
+Short a tower guard~
+Long 
+A tower guard blends into the shadows of the fort.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 66088
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 1
+End
+
+#3704
+Name gammon man blind enchanter~
+Short gammon~
+Long 
+Gammon the blind enchanter is here in silent misery.
+~
+Descr
+~
+AMax 1
+NHeight 49
+ActBits 2
+Affect_By 65539
+Money 200
+Level 200
+Sex 1
+MobType 0
+Guard 0
+BCasts Soulsmash~
+BCast_P 20
+End
+
+#3705
+Name short man prisoner pris~
+Short a helpless prisoner~
+Long 
+A helpless prisoner is shackled to the wall here.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 2
+Affect_By 512
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#3707
+Name guard short dark man human gate ~
+Short a dark gateguard~
+Long 
+A dark gateguard stands here blending into the shadowy fort.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 60
+Level 60
+MobType 0
+Guard 2
+End
+
+#0
+
+
+
+#OBJDATA
+#3700
+Name dark Pool of Water~
+Short a dark pool~
+Descr
+A dark pool of water is here looking merky and bottomless.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3701
+Name rusty shackles chains~
+Short some rusty shackles~
+Descr
+Some rusty shackles are lying here.
+[0;36m~
+Type 9
+Extra 4096
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 5 5 10 10 0 1
+Weight 20
+Cost 100
+Affect 17 2 1 0 0
+Affect 14 -50 1 0 0
+End
+
+#3702
+Name face faceplate concealment MAGICDAM~
+Short a faceplate of [1m[30mC[0mo[32mn[30mc[1m[30me[0m[32ma[1m[30ml[0mm[1m[30me[0m[32mn[0m[30mt~
+Descr
+A faceplate made of strange material lies here unused.
+[0;36m~
+Type 9
+Extra 536870945
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 2 20 0 0 0 0 0
+Weight 2
+Cost 900
+Affect 13 5 1 0 0
+Affect 17 -2 1 0 0
+Affect 26 5 1 0 0
+End
+
+#3703
+Name long black spear~
+Short a long [1m[30mblack spear[0m~
+Descr
+A long black spear lies forgotten on the ground.
+[0;36m~
+Type 5
+Extra 1073741824
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 12 0 11 0 0 0 8 2 0
+Weight 5
+Cost 1050
+End
+
+#3704
+Name fIX ME~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#3705
+Name fIX ME DARKIE PORTAL~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#3700
+Name Before A Dark Fort~
+Descr
+A small pitch-black fort stands here almost obscured by the dark forest
+around it. It's hard to see where the structure ends and the shadowy woods
+begins. 
+~
+Sector 3
+Door 0 0 0 3701 0 0
+~
+~
+End
+
+#3701
+Name A Dark Wooden Gate~
+Descr
+A large wooden gate stands here blocking the entrance to a shadowy
+structure. The wood seems to have been smeared with some sort of pitch or
+tar to give it a blackened appearance. The utter blackness of the place
+appears to absorb the light and sound around it. The forest is dead silent
+around you. 
+~
+Flags 1
+Reset M 3702 1 100
+Reset M 3702 1 100
+Door 0 3 0 3702 30 30
+~
+wooden gate~
+Door 2 0 0 3700 0 0
+~
+~
+End
+
+#3702
+Name Inside the Fort~
+Descr
+As you walk inside the gate you notice that it is still dead silent
+within the walls. The few citizens you see here are small and dark skinned.
+The small people don't seem to say anything but frequently look to each
+other and exchange different facial expressions. You surmise they're
+communicating with something other than verbal speech. 
+~
+Flags 32769
+Door 1 0 0 3703 0 0
+~
+~
+Door 2 3 0 3701 30 30
+~
+wooden gate~
+End
+
+#3703
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 1 0 0 3704 0 0
+~
+~
+Door 3 0 0 3702 0 0
+~
+~
+End
+
+#3704
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 1
+Reset M 3703 1 100
+Door 0 0 0 3706 0 0
+~
+~
+Door 1 3 0 3705 30 30
+~
+tower door~
+Door 3 0 0 3703 0 0
+~
+~
+End
+
+#3705
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 3 3 0 3704 30 30
+~
+tower door~
+Door 4 0 0 3710 0 0
+~
+~
+End
+
+#3706
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 0 0 0 3707 0 0
+~
+~
+Door 2 0 0 3704 0 0
+~
+~
+End
+
+#3707
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 2 0 0 3706 0 0
+~
+~
+Door 3 0 0 3724 0 0
+~
+~
+End
+
+#3708
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Reset M 3701 1 100
+Door 0 0 0 3709 0 0
+~
+~
+Door 1 0 0 3724 0 0
+~
+~
+End
+
+#3709
+Name A Busy Courtyard~
+Descr
+The central area of the fort is more populated than the rest of the
+structure. Several small dark humanoids move from place to place carrying
+supplies or other seemingly important items. The inhabitants make no sound
+as they move deftly across the square. The air is thick and weighs heavy
+upon you. 
+~
+Flags 32769
+Reset O 3700 -5 100
+Reset M 3701 1 100
+Door 0 0 0 3721 0 0
+~
+~
+Door 1 0 0 3734 0 0
+~
+~
+Door 2 0 0 3708 0 0
+~
+~
+Door 3 0 0 3719 0 0
+~
+~
+End
+
+#3710
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 4 0 0 3711 0 0
+~
+~
+Door 5 0 0 3705 0 0
+~
+~
+End
+
+#3711
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 4 3 0 3712 30 30
+~
+hatch~
+Door 5 0 0 3710 0 0
+~
+~
+End
+
+#3712
+Name The Top of the Tower~
+Descr
+You reach the top of the tower and look out over the dark trees below
+you. You're deafened by the sound of the wind and realize it's the first
+sound you've heard since entering the fort. The air feels good upon your
+skin as you deeply inhale the fresh air around you. 
+~
+Flags 1048576
+Reset M 3700 2 100
+Reset O 3703 21 5
+Reset M 3700 2 100
+Door 5 3 0 3711 30 30
+~
+hatch~
+End
+
+#3713
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Reset M 3701 1 100
+Door 1 0 0 3719 0 0
+~
+~
+Door 3 0 0 3714 0 0
+~
+~
+End
+
+#3714
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Door 1 0 0 3713 0 0
+~
+~
+Door 3 0 0 3715 0 0
+~
+~
+End
+
+#3715
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Sector 0
+Door 1 0 0 3714 0 0
+~
+~
+Door 4 0 0 3716 0 0
+~
+~
+Door 5 259 0 3789 30 30
+~
+tunnel~
+End
+
+#3716
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Door 4 0 0 3717 0 0
+~
+~
+Door 5 0 0 3715 0 0
+~
+~
+End
+
+#3717
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Door 4 3 0 3718 30 30
+~
+hatch~
+Door 5 0 0 3716 0 0
+~
+~
+End
+
+#3718
+Name An Open Deck~
+Descr
+You climb up from the stairwell into an open-air deck that looks out over
+the fort and forest outside. The fresh air fills your lungs and you realize
+you can finally hear the sounds of the world around. You also hear a faint
+humming sound emitting from the floor beneath you. 
+~
+Flags 3145728
+Reset M 3700 2 100
+Reset M 3700 2 100
+Door 5 3 0 3717 30 30
+~
+hatch~
+End
+
+#3719
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Door 1 0 0 3709 0 0
+~
+~
+Door 3 0 0 3713 0 0
+~
+~
+End
+
+#3720
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 0 0 0 3725 0 0
+~
+~
+Door 2 0 0 3723 0 0
+~
+~
+End
+
+#3721
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Reset M 3701 1 100
+Door 1 0 0 3722 0 0
+~
+~
+Door 2 0 0 3709 0 0
+~
+~
+End
+
+#3722
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 1 0 0 3723 0 0
+~
+~
+Door 3 0 0 3721 0 0
+~
+~
+End
+
+#3723
+Name A Path Throught the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 0 0 0 3720 0 0
+~
+~
+Door 3 0 0 3722 0 0
+~
+~
+End
+
+#3724
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 1 0 0 3707 0 0
+~
+~
+Door 3 0 0 3708 0 0
+~
+~
+End
+
+#3725
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 1
+Reset M 3703 1 100
+Door 1 3 0 3726 30 30
+~
+tower door~
+Door 2 0 0 3720 0 0
+~
+~
+Door 3 0 0 3730 0 0
+~
+~
+End
+
+#3726
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 3 3 0 3725 30 30
+~
+tower door~
+Door 4 0 0 3727 0 0
+~
+~
+End
+
+#3727
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 4 0 0 3728 0 0
+~
+~
+Door 5 0 0 3726 0 0
+~
+~
+End
+
+#3728
+Name Inside a Guard Tower~
+Descr
+A narrow staircase stretches into darkness here. The silent passageway is
+plunged into deep impenetrable shadow. 
+~
+Flags 32773
+Door 4 3 0 3729 30 30
+~
+hatch~
+Door 5 0 0 3727 0 0
+~
+~
+End
+
+#3729
+Name The Top of the Tower~
+Descr
+You reach the top of the tower and look out over the dark trees below
+you. You're deafened by the sound of the wind and realize it's the first
+sound you've heard since entering the fort. The air feels good upon your
+skin as you deeply inhale the fresh air around you. 
+~
+Flags 1048576
+Reset M 3700 2 100
+Reset O 3703 21 5
+Reset M 3700 2 100
+Door 5 3 0 3728 30 30
+~
+hatch~
+End
+
+#3730
+Name A Path Through the Fort~
+Descr
+A twisting path meanders through the shadows through the quiet outpost.
+Few residents are seen and none are heard as the small people slip in and
+out of sight. The silence boggles you find your communications are severely
+impeded. 
+~
+Flags 32769
+Door 1 0 0 3725 0 0
+~
+~
+Door 3 0 0 3731 0 0
+~
+~
+End
+
+#3731
+Name Inside the Fort~
+Descr
+As you walk inside the gate you notice that it is still dead silent
+within the walls. The few citizens you see here are small and dark skinned.
+The small people don't seem to say anything but frequently look to each
+other and exchange different facial expressions. You surmise they're
+communicating with something other than verbal speech. 
+~
+Flags 32769
+Door 0 3 0 3732 30 30
+~
+wooden gate~
+Door 1 0 0 3730 0 0
+~
+~
+End
+
+#3732
+Name A Dark Wooden Gate~
+Descr
+A large wooden gate stands here blocking the entrance to a shadowy
+structure. The wood seems to have been smeared with some sort of pitch or
+tar to give it a blackened appearance. The utter blackness of the place
+appears to absorb the light and sound around it. The forest is dead silent
+around you. 
+~
+Flags 1
+Reset M 3707 2 100
+Reset M 3707 2 100
+Door 0 0 0 3733 0 0
+~
+~
+Door 2 3 0 3731 30 30
+~
+wooden gate~
+End
+
+#3733
+Name Before a Dark Fort~
+Descr
+A small pitch-black fort stands here almost obscured by the dark forest
+around it. It's hard to see where the structure ends and the shadowy woods
+begins. 
+~
+Door 0 0 0 9518 0 0
+~
+~
+Door 2 0 0 3732 0 0
+~
+~
+End
+
+#3734
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Door 1 0 0 3735 0 0
+~
+~
+Door 3 0 0 3709 0 0
+~
+~
+End
+
+#3735
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Reset M 3701 1 100
+Door 1 0 0 3736 0 0
+~
+~
+Door 3 0 0 3734 0 0
+~
+~
+End
+
+#3736
+Name A Dark Corridor~
+Descr
+The passageway is dark and humid. You sense motion along the walls and
+ceiling around you. You can faintly make out the outlines of small lizards
+scurrying around in the darkness. You decide it's best to keep moving. 
+~
+Flags 32773
+Sector 0
+Door 1 0 0 3737 0 0
+~
+~
+Door 3 0 0 3735 0 0
+~
+~
+End
+
+#3737
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Sector 0
+Door 3 0 0 3736 0 0
+~
+~
+Door 4 0 0 3738 0 0
+~
+~
+Door 5 259 0 3799 30 30
+~
+grate~
+End
+
+#3738
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Door 4 0 0 3739 0 0
+~
+~
+Door 5 0 0 3737 0 0
+~
+~
+End
+
+#3739
+Name A Dark Stairwell~
+Descr
+The corridor ends in a staircase that leads up into the shadows. You can
+still make out the outlines of the small lizards from below in the corridor.
+You decide shy away from touching the walls. 
+~
+Flags 32773
+Door 4 3 0 3740 30 30
+~
+hatch~
+Door 5 0 0 3738 0 0
+~
+~
+End
+
+#3740
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Door 0 0 0 3743 0 0
+~
+~
+Door 1 0 0 3741 0 0
+~
+~
+Door 2 0 0 3747 0 0
+~
+~
+Door 3 0 0 3745 0 0
+~
+~
+Door 5 3 0 3739 30 30
+~
+hatch~
+End
+
+#3741
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3742 0 0
+~
+~
+Door 1 0 0 3750 0 0
+~
+~
+Door 2 0 0 3748 0 0
+~
+~
+Door 3 0 0 3740 0 0
+~
+~
+End
+
+#3742
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3753 0 0
+~
+~
+Door 1 0 0 3751 0 0
+~
+~
+Door 2 0 0 3741 0 0
+~
+~
+Door 3 0 0 3743 0 0
+~
+~
+End
+
+#3743
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3754 0 0
+~
+~
+Door 1 0 0 3742 0 0
+~
+~
+Door 2 0 0 3740 0 0
+~
+~
+Door 3 0 0 3744 0 0
+~
+~
+End
+
+#3744
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3755 0 0
+~
+~
+Door 1 0 0 3743 0 0
+~
+~
+Door 2 0 0 3745 0 0
+~
+~
+Door 3 0 0 3757 0 0
+~
+~
+End
+
+#3745
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3744 0 0
+~
+~
+Door 1 0 0 3740 0 0
+~
+~
+Door 2 0 0 3746 0 0
+~
+~
+Door 3 0 0 3758 0 0
+~
+~
+End
+
+#3746
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3745 0 0
+~
+~
+Door 1 0 0 3747 0 0
+~
+~
+Door 2 0 0 3761 0 0
+~
+~
+Door 3 0 0 3759 0 0
+~
+~
+End
+
+#3747
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3740 0 0
+~
+~
+Door 1 0 0 3748 0 0
+~
+~
+Door 2 0 0 3762 0 0
+~
+~
+Door 3 0 0 3746 0 0
+~
+~
+End
+
+#3748
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3741 0 0
+~
+~
+Door 1 0 0 3749 0 0
+~
+~
+Door 2 0 0 3763 0 0
+~
+~
+Door 3 0 0 3747 0 0
+~
+~
+End
+
+#3749
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3750 0 0
+~
+~
+Door 1 0 0 3766 0 0
+~
+~
+Door 2 0 0 3764 0 0
+~
+~
+Door 3 0 0 3748 0 0
+~
+~
+End
+
+#3750
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3751 0 0
+~
+~
+Door 1 0 0 3767 0 0
+~
+~
+Door 2 0 0 3749 0 0
+~
+~
+Door 3 0 0 3741 0 0
+~
+~
+End
+
+#3751
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3752 0 0
+~
+~
+Door 1 0 0 3768 0 0
+~
+~
+Door 2 0 0 3750 0 0
+~
+~
+Door 3 0 0 3742 0 0
+~
+~
+End
+
+#3752
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3771 0 0
+~
+~
+Door 1 0 0 3769 0 0
+~
+~
+Door 2 0 0 3751 0 0
+~
+~
+Door 3 0 0 3753 0 0
+~
+~
+End
+
+#3753
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3772 0 0
+~
+~
+Door 1 0 0 3752 0 0
+~
+~
+Door 2 0 0 3742 0 0
+~
+~
+Door 3 0 0 3754 0 0
+~
+~
+End
+
+#3754
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3773 0 0
+~
+~
+Door 1 0 0 3753 0 0
+~
+~
+Door 2 0 0 3743 0 0
+~
+~
+Door 3 0 0 3755 0 0
+~
+~
+End
+
+#3755
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3774 0 0
+~
+~
+Door 1 0 0 3754 0 0
+~
+~
+Door 2 0 0 3744 0 0
+~
+~
+Door 3 0 0 3756 0 0
+~
+~
+End
+
+#3756
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3775 0 0
+~
+~
+Door 1 0 0 3755 0 0
+~
+~
+Door 2 0 0 3757 0 0
+~
+~
+Door 3 0 0 3777 0 0
+~
+~
+End
+
+#3757
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3756 0 0
+~
+~
+Door 1 0 0 3744 0 0
+~
+~
+Door 2 0 0 3758 0 0
+~
+~
+Door 3 0 0 3778 0 0
+~
+~
+End
+
+#3758
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3757 0 0
+~
+~
+Door 1 0 0 3745 0 0
+~
+~
+Door 2 0 0 3759 0 0
+~
+~
+Door 3 0 0 3779 0 0
+~
+~
+End
+
+#3759
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3758 0 0
+~
+~
+Door 1 0 0 3746 0 0
+~
+~
+Door 2 0 0 3760 0 0
+~
+~
+Door 3 0 0 3780 0 0
+~
+~
+End
+
+#3760
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3759 0 0
+~
+~
+Door 1 0 0 3761 0 0
+~
+~
+Door 2 0 0 3783 0 0
+~
+~
+Door 3 0 0 3781 0 0
+~
+~
+End
+
+#3761
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3746 0 0
+~
+~
+Door 1 0 0 3762 0 0
+~
+~
+Door 2 0 0 3784 0 0
+~
+~
+Door 3 0 0 3760 0 0
+~
+~
+End
+
+#3762
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3747 0 0
+~
+~
+Door 1 0 0 3763 0 0
+~
+~
+Door 2 0 0 3785 0 0
+~
+~
+Door 3 0 0 3761 0 0
+~
+~
+End
+
+#3763
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3748 0 0
+~
+~
+Door 1 0 0 3764 0 0
+~
+~
+Door 2 0 0 3786 0 0
+~
+~
+Door 3 0 0 3762 0 0
+~
+~
+End
+
+#3764
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3749 0 0
+~
+~
+Door 1 0 0 3765 0 0
+~
+~
+Door 2 0 0 3787 0 0
+~
+~
+Door 3 0 0 3763 0 0
+~
+~
+End
+
+#3765
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3766 0 0
+~
+~
+Door 2 0 0 3788 0 0
+~
+~
+Door 3 0 0 3764 0 0
+~
+~
+End
+
+#3766
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3767 0 0
+~
+~
+Door 2 0 0 3765 0 0
+~
+~
+Door 3 0 0 3749 0 0
+~
+~
+End
+
+#3767
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 0 0 0 3768 0 0
+~
+~
+Door 2 0 0 3766 0 0
+~
+~
+Door 3 0 0 3750 0 0
+~
+~
+End
+
+#3768
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3769 0 0
+~
+~
+Door 2 0 0 3767 0 0
+~
+~
+Door 3 0 0 3751 0 0
+~
+~
+End
+
+#3769
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3770 0 0
+~
+~
+Door 2 0 0 3768 0 0
+~
+~
+Door 3 0 0 3752 0 0
+~
+~
+End
+
+#3770
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 2 0 0 3769 0 0
+~
+~
+Door 3 0 0 3771 0 0
+~
+~
+End
+
+#3771
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 1 0 0 3770 0 0
+~
+~
+Door 2 0 0 3752 0 0
+~
+~
+Door 3 0 0 3772 0 0
+~
+~
+End
+
+#3772
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 1 0 0 3771 0 0
+~
+~
+Door 2 0 0 3753 0 0
+~
+~
+Door 3 0 0 3773 0 0
+~
+~
+End
+
+#3773
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 1 0 0 3772 0 0
+~
+~
+Door 2 0 0 3754 0 0
+~
+~
+Door 3 0 0 3774 0 0
+~
+~
+End
+
+#3774
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 1 0 0 3773 0 0
+~
+~
+Door 2 0 0 3755 0 0
+~
+~
+Door 3 0 0 3775 0 0
+~
+~
+End
+
+#3775
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 1 0 0 3774 0 0
+~
+~
+Door 2 0 0 3756 0 0
+~
+~
+Door 3 0 0 3776 0 0
+~
+~
+End
+
+#3776
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 1 0 0 3775 0 0
+~
+~
+Door 2 0 0 3777 0 0
+~
+~
+End
+
+#3777
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3776 0 0
+~
+~
+Door 1 0 0 3756 0 0
+~
+~
+Door 2 0 0 3778 0 0
+~
+~
+End
+
+#3778
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset O 19433 21 10
+Door 0 0 0 3777 0 0
+~
+~
+Door 1 0 0 3757 0 0
+~
+~
+Door 2 0 0 3779 0 0
+~
+~
+End
+
+#3779
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 0 0 0 3778 0 0
+~
+~
+Door 1 0 0 3758 0 0
+~
+~
+Door 2 0 0 3780 0 0
+~
+~
+End
+
+#3780
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3779 0 0
+~
+~
+Door 1 0 0 3759 0 0
+~
+~
+Door 2 0 0 3781 0 0
+~
+~
+End
+
+#3781
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3780 0 0
+~
+~
+Door 1 0 0 3760 0 0
+~
+~
+Door 2 0 0 3782 0 0
+~
+~
+End
+
+#3782
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 0 0 0 3781 0 0
+~
+~
+Door 1 0 0 3783 0 0
+~
+~
+End
+
+#3783
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3760 0 0
+~
+~
+Door 1 0 0 3784 0 0
+~
+~
+Door 3 0 0 3782 0 0
+~
+~
+End
+
+#3784
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3761 0 0
+~
+~
+Door 1 0 0 3785 0 0
+~
+~
+Door 3 0 0 3783 0 0
+~
+~
+End
+
+#3785
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 0 0 0 3762 0 0
+~
+~
+Door 1 0 0 3786 0 0
+~
+~
+Door 3 0 0 3784 0 0
+~
+~
+End
+
+#3786
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3763 0 0
+~
+~
+Door 1 0 0 3787 0 0
+~
+~
+Door 3 0 0 3785 0 0
+~
+~
+End
+
+#3787
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Door 0 0 0 3764 0 0
+~
+~
+Door 1 0 0 3788 0 0
+~
+~
+Door 3 0 0 3786 0 0
+~
+~
+End
+
+#3788
+Name An Open Lookout Platform~
+Descr
+The stairwell ends at large platform where several lookouts keep watchful
+eyes on the fort below and the paths and forest outside the fort. The air
+feels cooler and much less dense than it did below. 
+~
+Reset M 3700 1 100
+Reset O 3703 21 5
+Door 0 0 0 3765 0 0
+~
+~
+Door 3 0 0 3787 0 0
+~
+~
+End
+
+#3789
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 5
+Door 1 0 0 3790 0 0
+~
+~
+Door 4 259 0 3715 30 30
+~
+tunnel~
+End
+
+#3790
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 5
+Door 1 0 0 3791 0 0
+~
+~
+Door 3 0 0 3789 0 0
+~
+~
+End
+
+#3791
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 5
+Door 1 0 0 3792 0 0
+~
+~
+Door 3 0 0 3790 0 0
+~
+~
+End
+
+#3792
+Name A Small Dark Cavern~
+Descr
+The tunnel widens out here into a small cavern. Curiously you can hear
+the soft chant of incantations in the darkness. Evidently you're not alone
+in the impenetrable darkness of the caverns below the Fort of Shadows. 
+~
+Flags 5
+Reset M 3704 1 100
+Reset O 3702 25 1
+Door 0 0 0 3796 0 0
+~
+~
+Door 2 0 0 3793 0 0
+~
+~
+Door 3 0 0 3791 0 0
+~
+~
+End
+
+#3793
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 0 0 0 3792 0 0
+~
+~
+Door 2 0 0 3794 0 0
+~
+~
+End
+
+#3794
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 0 0 0 3793 0 0
+~
+~
+Door 2 0 0 3795 0 0
+~
+~
+End
+
+#3795
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 0 0 0 3794 0 0
+~
+~
+Door 4 259 0 3700 30 30
+~
+rock~
+End
+
+#3796
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 0 0 0 3797 0 0
+~
+~
+Door 2 0 0 3792 0 0
+~
+~
+End
+
+#3797
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 0 0 0 3798 0 0
+~
+~
+Door 2 0 0 3796 0 0
+~
+~
+End
+
+#3798
+Name A Tunnel Beneath the Fort~
+Descr
+A rough-hewn tunnel stretches into the darkness before you. You
+periodically trip over rocks or other unseen obstacles. The air is thick and
+oppressive to match the walls around you. 
+~
+Flags 32773
+Door 2 0 0 3797 0 0
+~
+~
+Door 4 259 0 3733 30 30
+~
+rock~
+End
+
+#3799
+Name A Cramped Passageway~
+Descr
+A tight passageway leads down under the outpost. You find that there's
+barely room for your shoulders to fit through. The walls feel damn and the
+humidity is stifling. 
+~
+Flags 32773
+Door 3 259 0 3800 30 30
+~
+cell door~
+Door 4 259 0 3737 30 30
+~
+grate~
+End
+
+#3800
+Name A Small Cramped Cell~
+Descr
+The cell is dark, moist and altogether unpleasant. The stench assails
+your nostrils and makes you want to turn your head and rid yourself of any
+meal you may have had that day. There are rusty shackles attached to the
+walls around you. You thank whatever power that renders the fort silent for
+sparing you the pained howling of the prisoners here. 
+~
+Flags 32773
+Reset M 3705 1 100
+Reset O 3701 9 100
+Door 1 259 0 3799 30 30
+~
+cell door~
+End
+
+#0
+
+
+
+#$

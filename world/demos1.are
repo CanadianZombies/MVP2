@@ -1,0 +1,3334 @@
+#AREADATA 
+Name The Master Area~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA haunting moan echoes through the area.  
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Demos~
+VNUMs 1201 1399
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#1201
+Name bat flying~
+Short a black bat~
+Long 
+A small black bat is flying around here, looking for something to bite.
+~
+Descr
+~
+AMax 12
+NHeight 30
+ActBits 9
+Affect_By 524800
+Money 10
+Level 10
+MobType 7
+Guard 0
+End
+
+#1202
+Name bear cave cavebear~
+Short a cavebear~
+Long 
+A large bear is resting here, sleeping off it's last meal.
+~
+Descr
+~
+AMax 5
+NHeight 100
+ActBits 1
+Affect_By 131072
+Money 35
+Level 35
+MobType 6
+Guard 0
+End
+
+#1203
+Name cave fisher~
+Short a cave fisher~
+Long 
+A cave fisher is resting on a ledge here, trying to snare a meal.
+~
+Descr
+~
+AMax 5
+NHeight 68
+ActBits 9
+Money 30
+Level 30
+MobType 8
+Guard 0
+Spec spec_poison
+End
+
+#1204
+Name mummy cloth ~
+Short an ancient mummy~
+Long 
+A tall mummy strides towards you, shrouded in strips of rotting cloth.
+~
+Descr
+~
+AMax 2
+NHeight 82
+ActBits 9
+Affect_By 4194312
+Money 50
+Level 50
+MobType 9
+Guard 0
+Spec spec_warrior
+End
+
+#1205
+Name skeleton bones~
+Short a skeleton~
+Long 
+A brittle skeleton shambles about the room here, looking for a purpose.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 40
+Level 40
+MobType 9
+Guard 0
+End
+
+#1206
+Name wraith undead~
+Short a deadly wraith~
+Long 
+An evil looking wraith hovers here, looking for life force to drain.
+~
+Descr
+~
+AMax 2
+NHeight 66
+ActBits 129
+ActBits4 4096
+Affect_By 524416
+Money 45
+Level 45
+MobType 21
+Guard 0
+End
+
+#1207
+Name lich~
+Short the lich~
+Long 
+A rotting lich hovers here, still trying to master all magic.
+~
+Descr
+~
+AMax 2
+NHeight 76
+ActBits 3
+ActBits3 524288
+Affect_By 34078848
+Alignment -5000
+Money 50
+Level 50
+Sex 1
+MobType 9
+Guard 0
+End
+
+#1208
+Name lich undead mage mortarion ice Dweller~
+Short Mortarion, the Ice Dweller~
+Long 
+The undead form of Mortarion, the Ice Dweller, rests here for all eternity.
+~
+Descr
+~
+AMax 1
+NHeight 69
+ActBits 3
+Affect_By 128
+Money 160
+Level 160
+MobType 9
+Guard 0
+End
+
+#1209
+Name prince imrik undead lord dragons mummy~
+Short the Lord of Dragons~
+Long 
+The decayed corpse of Prince Imrik, Lord of the Dragons, has been placed here.
+~
+Descr
+~
+AMax 1
+NHeight 86
+ActBits 3
+ActBits3 16384
+Affect_By 16777352
+Alignment 1000
+Money 200
+Level 200
+MobType 5
+Guard 0
+Spec spec_warrior
+BFlurries 1
+End
+
+#1210
+Name Ul Ul'Theran red knight undead~
+Short Ul'Theran, the Red Knight~
+Long 
+The preserved corpse of Ul'Theran, the Red Knight, has been placed here to rest.
+~
+Descr
+~
+AMax 1
+NHeight 76
+ActBits 3
+ActBits4 4096
+Affect_By 136
+Money 130
+Level 130
+Guard 0
+Spec spec_warrior
+End
+
+#1211
+Name ekrim horsen von vampire endead vampiric essence~
+Short Ekrim Von Horsen~
+Long 
+The vampiric essence of Ekrim Von Horsen floats in the air here.
+~
+Descr
+~
+AMax 1
+NHeight 77
+ActBits 3
+Affect_By 128
+Money 130
+Level 130
+MobType 21
+Guard 0
+Spec spec_warrior
+End
+
+#1212
+Name ghost eldran sage bynthar~
+Short ghost of eldran~
+Long 
+The ghost of Eldran, Sage of Bythar, hovers in mid-air here.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits 3
+ActBits3 524288
+Affect_By 648
+Money 300
+Level 300
+MobType 21
+Guard 0
+Spec spec_warrior
+BFlurries 1
+End
+
+#1213
+Name thayla air mistress undead corpse~
+Short Thayla, Mistress of the Air~
+Long 
+The disembodied form of Thayla, Mistress of the Air, circles the room here.
+~
+Descr
+~
+AMax 1
+NHeight 59
+ActBits 129
+Affect_By 128
+Money 101
+Level 101
+Sex 2
+MobType 21
+Guard 0
+End
+
+#1214
+Name lord blackrave black raven undead form~
+Short the form of Lord Blackraven~
+Long 
+The hulking form of Lord Blackraven stands here, displeased with the afterlife.
+~
+Descr
+~
+AMax 1
+NHeight 88
+ActBits 3
+ActBits3 524288
+Affect_By 648
+Money 250
+Level 250
+MobType 9
+Guard 0
+Spec spec_warrior
+BCasts frost lance~
+BCast_P 10
+End
+
+#1215
+Name bandit man dark cloaked~
+Short the evil bandit~
+Long 
+A dark cloaked man is standing in the shadows here in the forest.
+~
+Descr
+~
+AMax 4
+NHeight 76
+ActBits -2147483639
+ActBits4 4096
+Affect_By 98826
+Alignment -100
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+Spec spec_thief
+End
+
+#1216
+Name grisbane leader bandit bandits~
+Short Grisbane~
+Long 
+Grisbane, the Bandit Leader, is standing here, planning his next raid.
+~
+Descr
+~
+AMax 1
+NHeight 72
+ActBits 67108865
+ActBits4 4096
+Affect_By 33554984
+Alignment -100
+Money 130
+Level 130
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#1250
+Name dragon thief shadowed dark quest2~
+Short a dragon-egg thief~
+Long 
+A shadowed thief holding a large egg stands in the shadows here.
+~
+Descr
+~
+AMax 5
+NHeight 80
+ActBits 33
+ActBits4 4096
+Affect_By 50430594
+Money 50
+Level 50
+Sex 1
+MobType 5
+Guard 0
+Spec spec_thief
+RaceHate 16384
+End
+
+#1252
+Name dragon mother quest1~
+Short a mother dragoon~
+Long 
+A massive dragon is resting here, crying loudly.
+~
+Descr
+~
+AMax 5
+NHeight 800
+ActBits 3
+Affect_By 524288
+Money 100
+Level 100
+Sex 2
+MobType 5
+Guard 0
+End
+
+#1300
+Name guy~
+Short a teaching guy~
+Long 
+A teaching guy is here
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 100
+Level 100
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#1201
+Name hat wizard wizard's~
+Short trash~
+Descr
+A flimsy wizard's hat lies here on the ground.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 10 0 10 10 40 40 0 10
+Weight 0
+Cost 50
+End
+
+#1202
+Name cloak great greatcloak~
+Short trash~
+Descr
+A grey hooded greatcloak lies here in a pile.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 0 0 0 40 40 0 0
+Weight 2
+Cost 500
+End
+
+#1203
+Name statue mage man~
+Short [1m[33ma statue of a mage[0m~
+Descr
+[1m[33mA radiant statue of a man in runed robes holding a mighty staff stands here.[0m
+[0;36m~
+Type 8
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr statue~
+This statue stands over ten feet high and has been placed in the middle
+
+
+of a large fountain set into the floor here.  The man depicted by the statue
+
+
+was obviously a great mage of the realm, but no inscription have been left
+
+
+to identify him.  His robes are covered with strange and most obviously
+
+
+magic runes and his staff seems to have been an object of great power.  His
+
+
+face shows great age and looking into his eyes you can almost see his deep
+
+
+inner wisdom and knowledge.  A long beard tumbles down the front of his
+
+
+chest and his hair is very thin.  
+
+
+~
+End
+
+#1204
+Name tomb~
+Short the tomb~
+Descr
+[1m[30mA plain looking stone tomb is here upon the floor, protecting it's contents.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 5 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1205
+Name fountain~
+Short [34ma beautiful fountain[0m~
+Descr
+A beautiful fountain has been set into the floor here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1206
+Name key diamond~
+Short [1m[37ma diamond key[0m~
+Descr
+[1m[37mA glittering diamond key has been left here.[0m
+[0;36m~
+Type 18
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#1207
+Name coffin~
+Short [1m[30man adamantium coffin[0m~
+Descr
+[1m[30mAn adamantium coffin inlaid with [0m[34msapphires [1m[30mand [0m[32memeralds [1m[30mrests here.[0m
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 5 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1208
+Name fire~
+Short [31mthe fire[0m~
+Descr
+[33mA large [31mcampfire [33mburns [1m[31mbrightly[0m [33mhere.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1209
+Name meat food~
+Short [1m[30ma slab of charred venison[0m~
+Descr
+[1m[30mA slab of charred meat is spitted over the fire here, roasting slowly.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 48 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1210
+Name tent large~
+Short a large tent~
+Descr
+A large tent has been erected here in the clearing.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1316 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1211
+Name tent flap~
+Short a tent flap~
+Descr
+A tent flap is here, leading out into the clearing.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 1313 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1212
+Name lantern~
+Short a small lantern~
+Descr
+A small lantern is here, shedding it's bright light into the room.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1000 -1 3 0 0 0 0 0 0 0
+Weight 2
+Cost 500
+End
+
+#1213
+Name table~
+Short [33ma large table[0m~
+Descr
+[33mA large table stands here, it's surface covered with maps and notes.[0m
+[0;36m~
+Type 13
+Wear 16384
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1215
+Name bones~
+Short [1mA skeleton clad in dirty rags and cloth[0m~
+Descr
+[1mA skeleton clad in dirty rags and cloth lies here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1216
+Name bones~
+Short [1mA pile of bleached white bones[1m~
+Descr
+[1mA pile of bleached white bones lies here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1217
+Name corpse~
+Short [33mA decaying corpse, shrouded in a burial cloth[0m~
+Descr
+[33mA decaying corpse, shouded in burial cloth lies here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1218
+Name bones~
+Short [1m[30mA lone [37mskull [30msitting on a mound of dust[0m~
+Descr
+[1m[30mA lone [37mskull [30msitting on a mound of dust is here.[0m
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1219
+Name bones~
+Short [1m[33mA yellowed burial cloth[0m~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1220
+Name ring ice +2 MAGICDAM +20 HP finger~
+Short [1m[36mthe ring of ice[0m~
+Descr
+A deep blue ring has been left here on the ground.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 5 10 10 40 40 10 1
+Weight 1
+Cost 5000
+Affect 26 2 1 0 0
+Affect 13 20 1 0 0
+End
+
+#1221
+Name gauntlets dragon -3 AC +3 MAGICDAM +10 HP hands~
+Short [1m[30mthe gauntlets of the [0m[32mdragon[0m~
+Descr
+An odd pair of gauntlets have been left upon the ground here.
+[0;36m~
+Type 9
+Extra 536870976
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 7 10 10 40 40 10 1
+Weight 1
+Cost 1000
+Affect 26 3 1 0 0
+Affect 17 -3 1 0 0
+Affect 13 10 1 0 0
+End
+
+#1222
+Name helm red ul ul theran +1 APB head~
+Short [31mthe red helm of Ul'Theran[0m~
+Descr
+[31mA dull red helm is lying on the ground here.[0m
+[0;36m~
+Type 9
+Extra 536870977
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 8 0 10 10 40 40 10 1
+Weight 3
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#1223
+Name shield flame flaming Ekrim Ekrim's +12 HP~
+Short [31mEkrim's [1mflaming[0m [31mshield[0m~
+Descr
+A flaming shield burns brightly on the ground here.
+[0;36m~
+Type 9
+Extra 536870977
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 6 6 10 10 40 40 10 1
+Weight 4
+Cost 1000
+Affect 13 12 1 0 0
+End
+
+#1224
+Name glasses glass true sight eyepatch eyes +2 MAGICDAM~
+Short [1mthe glasses of true sight[0m~
+Descr
+A pair of plain looking glasses have been left here.
+[0;36m~
+Type 9
+Extra 1
+Wear 33554433
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 10 10 40 40 10 1
+Weight 1
+Cost 500
+Affect 26 2 1 0 0
+ExtraDescr glasses~
+The brilliant looking glasses are made of the finest platinum with bright
+
+
+blue crystal eye-pieces.  They look extremely magical.  
+
+
+~
+End
+
+#1225
+Name shell ancient magic -2 AC -10 SAVE +5 MAGICDAM floating aura~
+Short [34mthe shell of ancient magic[0m~
+Descr
+A floating magical bubble hovers gently here in the air.
+[0;36m~
+Type 9
+Extra 536870978
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 2 2 2 10 40 40 10 1
+Weight 0
+Cost 1000
+Affect 26 5 1 0 0
+Affect 19 -1 1 0 0
+Affect 20 -10 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#1226
+Name sword black midnight two handed +2 HIT +2 APB~
+Short [1m[30ma midnight black two-handed sword[0m~
+Descr
+A huge black sword has been left upon the ground here.
+[0;36m~
+Type 5
+Extra 538968130
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 5 4 0
+Weight 5
+Cost 3000
+Affect 18 2 1 0 0
+Affect 19 2 1 0 0
+End
+
+#1227
+Name wicked looking stiletto +5 BS +3 HIT DAGGER~
+Short [1m[30ma wicked-looking stiletto[0m~
+Descr
+A thin stiletto with a long blade lies on the ground here.
+[0;36m~
+Type 5
+Extra 131073
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 70 0 11 0 0 0 3 4 0
+Weight 2
+Cost 500
+Affect 18 3 1 0 0
+Affect 25 2 1 0 0
+End
+
+#1228
+Name cloak jet black full length ABOUT +5 BS~
+Short [1m[30ma full length jet-black cloak[0m~
+Descr
+A bundle of black cloth has been left in a pile here.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 4 4 0 10 10 50 50 10 1
+Weight 2
+Cost 1000
+Affect 25 2 1 0 0
+Affect 23 20 1 0 0
+Affect 24 20 1 0 0
+End
+
+#1229
+Name boots boot pair speed feet~
+Short [33ma pair of boots of swift travel[0m~
+Descr
+A pair of comfortable looking boots have been left on the ground here.
+[0;36m~
+Type 9
+Extra 2
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 10 10 40 40 10 1
+Weight 1
+Cost 4000
+Affect 14 15 1 0 0
+End
+
+#1230
+Name breastplate plate might +1 DAM body~
+Short [34m[1mthe breastplate of might[0m~
+Descr
+A heavy looking metal breastplate lies upon the ground here.
+[0;36m~
+Type 9
+Extra 536870977
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 10 0 0 10 10 40 40 10 1
+Weight 5
+Cost 20000
+Affect 19 1 1 0 0
+Affect 13 15 1 0 0
+End
+
+#1250
+Name bloody bolt lightning strom~
+Short trash~
+Descr
+A bolt of lightning is on the ground here.
+[0;36m~
+Type 5
+Extra 131074
+Wear 16385
+Timer 60
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 7 0 0 0 4 4 0
+Weight 0
+Cost 1000
+End
+
+#1251
+Name dragon egg~
+Short trash~
+Descr
+A large egg has been left out of it's nest here.
+[0;36m~
+Type 8
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 60
+Cost 10000
+End
+
+#1252
+Name underwear yugi dirty~
+Short trash~
+Descr
+A pair of skid marked underwear is been left here, not by accident.
+[0;36m~
+Type 9
+Extra 2
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#1253
+Name ildrid smelly gym socks~
+Short trash~
+Descr
+A stinky pair of socks is here on the ground.
+[0;36m~
+Type 13
+Extra 1
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1253
+End
+
+#1255
+Name kall doll little~
+Short trash~
+Descr
+A little doll has been left here.
+[0;36m~
+Type 8
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#1256
+Name doll whitie~
+Short trash~
+Descr
+A ragged looking doll has been left here.
+[0;36m~
+Type 8
+Extra 3
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#1257
+Name book hunting secrets riptide~
+Short trash~
+Descr
+A thick ass book is here on the ground.
+[0;36m~
+Type 8
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#1258
+Name none~
+Short trash~
+Descr
+A dull ring.
+[0;36m~
+Type 9
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1259
+Name none~
+Short trash~
+Descr
+(no description)~
+Type 13
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#1266
+Name beans cool some man~
+Short trash~
+Descr
+Ahahahahaahahahahah!
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 50000
+End
+
+#1290
+Name eldran's purple Cloak of Power~
+Short [1m[35m a purple cloak of power~
+Descr
+Eldran's Purple Cloak of Power rest in the dust before you.
+[0;36m~
+Type 9
+Extra 536870915
+Maxinroom 5
+Wear 8388609
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 6 2 3 10 15 9 9 15 10
+Weight 3
+Cost 3300
+Affect 17 -4 1 0 0
+Affect 13 10 1 0 0
+Affect 27 3 1 0 0
+Affect 26 3 1 0 0
+Limtd 5
+End
+
+#1300
+Name no name~
+Short trash~
+Descr
+(no description)~
+Type 18
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#1201
+Name Begining of Green Forest~
+Descr
+Here is a great dark and green forest, filled with all kinds of creatures
+all known to man, you can tell this forest has not been explored very much
+for the such peacefulness and how clean it is, their are no paths to show
+any recent people entering this forest.  
+~
+Sector 3
+Door 0 0 0 1202 0 0
+~
+~
+Door 1 0 0 1205 0 0
+~
+~
+Door 3 0 0 1203 0 0
+~
+~
+Door 4 0 0 94326 0 0
+~
+~
+End
+
+#1202
+Name Green Forest~
+Descr
+This is a path leading north, and in the far distance you can see a very
+large mountain.  Up ahead you notice a cave entrance, it is very dark and
+very damp.  Kind of a cold feeling as you get close to it.  
+~
+Sector 3
+Door 0 0 0 1207 0 0
+~
+~
+Door 1 0 0 1206 0 0
+~
+~
+Door 2 0 0 1201 0 0
+~
+~
+Door 3 0 0 1204 0 0
+~
+~
+End
+
+#1203
+Name West Side of Green Forest~
+Descr
+This is the west side of the forest, this side is a little more wet then
+the center or the east side, mybe because of all the rain close to the
+ocean.  You notice all kinds of furry little animals that look friendly but,
+are they in fact kind creatures?  
+~
+Sector 3
+Door 0 0 0 1204 0 0
+~
+~
+Door 1 0 0 1201 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+End
+
+#1204
+Name West Side of Green Forest~
+Descr
+Here you enter and their are trees and lots of animals around, vines and
+such hanging from the trees snakes lizards and all kinds of animals you can
+imagine.  To the east is the great mountain cave who knows what lurks in
+their.  
+~
+Sector 3
+Door 1 0 0 1202 0 0
+~
+~
+Door 2 0 0 1203 0 0
+~
+~
+End
+
+#1205
+Name East Side of Green Forest~
+Descr
+Here on the east side of the forest dwells more of the dark creatures
+very evil, matter of fact you can feel the presenc of evil very well.  On
+this side very few small animals mostly large ones that are very deadly.  
+~
+Sector 3
+Door 0 0 0 1206 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 1201 0 0
+~
+~
+End
+
+#1206
+Name East Side of a Green Forest~
+Descr
+This section of the forest is dark and very well evil as the deadly
+darkies themselves, you feel as if the trees are watching you, or at least
+something is.  The bark on the trees here is torn off some of the trees, you
+wonder who or what would do such a thing.  
+~
+Sector 3
+Door 2 0 0 1205 0 0
+~
+~
+Door 3 0 0 1202 0 0
+~
+~
+End
+
+#1207
+Name Entrance to the Caves~
+Descr
+You stand within the entrace of a large cave complex.  The mouth of the
+cave lies to the south, leading to a dark forested area.  To the north there
+is only darkness.  The cave walls have been formed from what appears to have
+once been an underground river long ago.  Although now there is no trace of
+water here upon the ground.  
+~
+Flags 7
+Sector 0
+Door 0 0 0 1208 0 0
+~
+~
+Door 2 0 0 1202 0 0
+~
+~
+End
+
+#1208
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 4
+Sector 0
+Reset M 1201 5 75
+Door 1 0 0 1209 0 0
+~
+~
+Door 2 0 0 1207 0 0
+~
+~
+End
+
+#1209
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 1211 0 0
+~
+~
+Door 3 0 0 1208 0 0
+~
+~
+End
+
+#1210
+Name Small Path Outside Gnarnoc~
+Descr
+You eneter this dark and damp forest walking through a well worn down
+path that leads around the gates of gnarnoc.  
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#1211
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 2 0 0 1209 0 0
+~
+~
+Door 3 0 0 1212 0 0
+~
+~
+End
+
+#1212
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1213 0 0
+~
+~
+Door 1 0 0 1211 0 0
+~
+~
+End
+
+#1213
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1214 0 0
+~
+~
+Door 2 0 0 1212 0 0
+~
+~
+End
+
+#1214
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Reset M 1201 5 75
+Door 0 0 0 1215 0 0
+~
+~
+Door 3 0 0 1213 0 0
+~
+~
+End
+
+#1215
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 2 0 0 1214 0 0
+~
+~
+Door 3 0 0 1216 0 0
+~
+~
+End
+
+#1216
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1217 0 0
+~
+~
+Door 1 0 0 1215 0 0
+~
+~
+End
+
+#1217
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1203 5 75
+Door 2 0 0 1216 0 0
+~
+~
+Door 5 0 0 1218 0 0
+~
+~
+End
+
+#1218
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1219 0 0
+~
+~
+Door 4 0 0 1217 0 0
+~
+~
+End
+
+#1219
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1218 0 0
+~
+~
+Door 2 0 0 1220 0 0
+~
+~
+End
+
+#1220
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 0 0 0 1219 0 0
+~
+~
+Door 3 0 0 1221 0 0
+~
+~
+End
+
+#1221
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 0 0 0 1222 0 0
+~
+~
+Door 1 0 0 1220 0 0
+~
+~
+End
+
+#1222
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Door 2 0 0 1221 0 0
+~
+~
+Door 3 0 0 1223 0 0
+~
+~
+End
+
+#1223
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 0 0 0 1250 0 0
+~
+~
+Door 1 0 0 1222 0 0
+~
+~
+Door 2 0 0 1224 0 0
+~
+~
+End
+
+#1224
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1223 0 0
+~
+~
+Door 3 0 0 1225 0 0
+~
+~
+End
+
+#1225
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1203 5 75
+Door 1 0 0 1224 0 0
+~
+~
+Door 5 0 0 1226 0 0
+~
+~
+End
+
+#1226
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1227 0 0
+~
+~
+Door 4 0 0 1225 0 0
+~
+~
+End
+
+#1227
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1203 5 75
+Door 2 0 0 1226 0 0
+~
+~
+Door 5 0 0 1228 0 0
+~
+~
+End
+
+#1228
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1229 0 0
+~
+~
+Door 4 0 0 1227 0 0
+~
+~
+End
+
+#1229
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Reset M 1201 5 75
+Door 1 0 0 1228 0 0
+~
+~
+Door 4 0 0 1230 0 0
+~
+~
+End
+
+#1230
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1231 0 0
+~
+~
+Door 5 0 0 1229 0 0
+~
+~
+End
+
+#1231
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1230 0 0
+~
+~
+Door 2 0 0 1232 0 0
+~
+~
+End
+
+#1232
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1231 0 0
+~
+~
+Door 3 0 0 1233 0 0
+~
+~
+End
+
+#1233
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1234 0 0
+~
+~
+Door 1 0 0 1232 0 0
+~
+~
+End
+
+#1234
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1235 0 0
+~
+~
+Door 2 0 0 1233 0 0
+~
+~
+End
+
+#1235
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 2 0 0 1234 0 0
+~
+~
+Door 3 0 0 1236 0 0
+~
+~
+End
+
+#1236
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 7
+Sector 0
+Door 1 0 0 1235 0 0
+~
+~
+Door 4 0 0 1237 0 0
+~
+~
+End
+
+#1237
+Name A Dark Clearing in the Forest~
+Descr
+You have entered a large clearing deep with a black forest.  The trees
+surrounding this are are all dead or dying save for a few sturdy locust
+trees and other low growing bushes and shrubs.  The forest leads off in all
+directions and a large shaft leads downward into a massive cave complex.  
+~
+Flags 1
+Door 0 0 0 1238 0 0
+~
+~
+Door 1 0 0 1239 0 0
+~
+~
+Door 2 0 0 1240 0 0
+~
+~
+Door 5 0 0 1236 0 0
+~
+~
+End
+
+#1238
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1246 0 0
+~
+~
+Door 2 0 0 1237 0 0
+~
+~
+End
+
+#1239
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 1 0 0 1241 0 0
+~
+~
+Door 2 0 0 1242 0 0
+~
+~
+Door 3 0 0 1237 0 0
+~
+~
+End
+
+#1240
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1237 0 0
+~
+~
+Door 1 0 0 1242 0 0
+~
+~
+End
+
+#1241
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1243 0 0
+~
+~
+Door 1 0 0 1244 0 0
+~
+~
+Door 3 0 0 1239 0 0
+~
+~
+End
+
+#1242
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1239 0 0
+~
+~
+Door 3 0 0 1240 0 0
+~
+~
+End
+
+#1243
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 1 0 0 1245 0 0
+~
+~
+Door 2 0 0 1241 0 0
+~
+~
+End
+
+#1244
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1245 0 0
+~
+~
+Door 3 0 0 1241 0 0
+~
+~
+End
+
+#1245
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 2 0 0 1244 0 0
+~
+~
+Door 3 0 0 1243 0 0
+~
+~
+End
+
+#1246
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 2 0 0 1238 0 0
+~
+~
+Door 3 0 0 1247 0 0
+~
+~
+End
+
+#1247
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1248 0 0
+~
+~
+Door 1 0 0 1246 0 0
+~
+~
+End
+
+#1248
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Door 0 0 0 1249 0 0
+~
+~
+Door 2 0 0 1247 0 0
+~
+~
+End
+
+#1249
+Name A Black Forest~
+Descr
+The narrow path through the forest continues here and opens up into a
+large clearing to the north.  The thorny locust trees hang close to the
+trail, seemingly trying to get a chance to scratch you and draw blood. 
+Small dying shrubs line the path close to the ground and the smell of
+decaying foliage burns your nose.  
+~
+Flags 1
+Door 0 0 0 1310 0 0
+~
+~
+Door 2 0 0 1248 0 0
+~
+~
+End
+
+#1250
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1251 0 0
+~
+~
+Door 2 0 0 1223 0 0
+~
+~
+End
+
+#1251
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Reset M 1201 5 75
+Door 1 0 0 1252 0 0
+~
+~
+Door 2 0 0 1250 0 0
+~
+~
+End
+
+#1252
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1253 0 0
+~
+~
+Door 3 0 0 1251 0 0
+~
+~
+End
+
+#1253
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1254 0 0
+~
+~
+Door 3 0 0 1252 0 0
+~
+~
+End
+
+#1254
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1202 5 75
+Door 1 0 0 1255 0 0
+~
+~
+Door 2 0 0 1253 0 0
+~
+~
+End
+
+#1255
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1203 5 75
+Door 3 0 0 1254 0 0
+~
+~
+Door 5 0 0 1256 0 0
+~
+~
+End
+
+#1256
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1257 0 0
+~
+~
+Door 4 0 0 1255 0 0
+~
+~
+End
+
+#1257
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Reset M 1201 5 75
+Door 0 0 0 1258 0 0
+~
+~
+Door 2 0 0 1256 0 0
+~
+~
+End
+
+#1258
+Name Deep Within the Evil Cavern~
+Descr
+Streching deep into the darkness this massive cave complex leads on. 
+Even with a light source movement is slow and awkward as the cave walls seem
+to absorb all the light around them.  You have too feel your way around to
+find which way the tunnels lead and movement is slow and hazerdous.  
+~
+Flags 5
+Sector 0
+Reset M 1201 5 75
+Reset M 1201 5 75
+Door 2 0 0 1257 0 0
+~
+~
+Door 3 0 0 1259 0 0
+~
+~
+End
+
+#1259
+Name Deep Within the Evil Cavern~
+Descr
+You stand before a large stone door deep within the cave complex.  It
+stands nearly fifteen feet high and spans almost ten feet wide.  There is no
+keyhole and it appears to have been built to never be opened.  It's surface
+is cool to the touch, much cooler then the air around it, which seems quite
+strange.  
+~
+Flags 5
+Sector 0
+Door 0 7 0 1260 56 56
+~
+Stonedoor~
+Door 1 0 0 1258 0 0
+~
+~
+End
+
+#1260
+Name Inside a Marbled Arch~
+Descr
+You stand inside a massive blue marble archway.  Great care was taken
+when it was made, as even the smallest details have not been avoided.  Tiny
+intricate carvings cover it's surface.  There are pictures of great battles
+and fabled artifacts, scenes of lush forests and harsh deserts.  Each
+chiseled out by the most skilled hands in the realm.  To the north a great
+blue hallway spans outward and to the south stands a large stone door.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1261 0 0
+~
+~
+Door 2 7 0 1259 56 56
+~
+Stonedoor~
+End
+
+#1261
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1262 0 0
+~
+~
+Door 2 0 0 1260 0 0
+~
+~
+End
+
+#1262
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1263 0 0
+~
+~
+Door 2 0 0 1261 0 0
+~
+~
+End
+
+#1263
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1264 0 0
+~
+~
+Door 2 0 0 1262 0 0
+~
+~
+End
+
+#1264
+Name Inside an Underground Crypt~
+Descr
+You have entered a large chamber deep withing the crypt.  To the north
+and the south a long corridor runs through this area, and to the east and
+west span another set of smaller hallways, this time crafted of deep red
+marble instead of the earlier blue.  In the center of this room stands a
+large statue of what appears to be a great warrior.  He is clad in a set of
+full platemail and holds a sword high above his head.  A plumed helm rests
+upon his brow and he holds a shield close too his side.  There is an
+inscription at his feet.  
+~
+Flags 5
+Sector 0
+ExtraDescr inscription~
+Lord Ekrin Von Horsen  III
+
+
+   Defeater of the Great Evil Hordes and Holy Warrior of Hahn
+
+
+ 
+
+
+   "Might is in the minds of those strong enough to use it wisely"
+
+
+ 
+
+
+~
+ExtraDescr statue~
+The statue is made of a fine white marble and appears to be very ancient.
+
+
+The warrior is was modeled after seems to be quite mighty indeed.  He holds
+
+
+aloft a large sword, covered with magical runes.  And at his side is a
+
+
+beautiful shield.  His armor appears to have been of dwarven craftsmanship
+
+
+and looks to have been very protective.  On his head rests a great plumed
+
+
+helm, covered with glyphs and symbols.  A look of grim determination and
+
+
+triumph is deeply etched into his features.  At his feet, upon the base of
+
+
+the statue is an inscription.  
+
+
+~
+Door 0 0 0 1283 0 0
+~
+~
+Door 1 0 0 1274 0 0
+~
+~
+Door 2 0 0 1263 0 0
+~
+~
+Door 3 0 0 1265 0 0
+~
+~
+End
+
+#1265
+Name The Hall of Heroes~
+Descr
+Here spanning to both the east and the west is a small corridor of the
+deepest red marble.  Along the walls are hung tapestries showing scenes of
+warriors doing battle against evil forces and hordes.  Mighty warriors
+crushing hosts of foul creatures under thier feet and dragons flying high in
+the air.  Deep black viens run though the marble, giving this hallway the
+distinct feeling of bloodiness that it's current residents must have endured
+during thier glorious lives.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1264 0 0
+~
+~
+Door 3 0 0 1266 0 0
+~
+~
+End
+
+#1266
+Name The Hall of Heroes~
+Descr
+You stand in a narrow hallway running to the east and west.  The walls
+are made of a deep red marble with black viens running through it.  To the
+north and south are large doors marking the entrances to personal tombs of
+once great warriors of the realm.  The doors are covered with strange runes
+and have scenes of battles carved into them.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 1272 30 30
+~
+Topaz Door~
+Door 1 0 0 1265 0 0
+~
+~
+Door 2 3 0 1273 30 30
+~
+Jade Door~
+Door 3 0 0 1267 0 0
+~
+~
+End
+
+#1267
+Name The Hall of Heroes~
+Descr
+Here spanning to both the east and the west is a small corridor of the
+deepest red marble.  Along the walls are hung tapestries showing scenes of
+warriors doing battle against evil forces and hordes.  Mighty warriors
+crushing hosts of foul creatures under thier feet and dragons flying high in
+the air.  Deep black viens run though the marble, giving this hallway the
+distinct feeling of bloodiness that it's current residents must have endured
+during thier glorious lives.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1266 0 0
+~
+~
+Door 3 0 0 1268 0 0
+~
+~
+End
+
+#1268
+Name The Hall of Heroes~
+Descr
+You stand in a narrow hallway running to the east and west.  The walls
+are made of a deep red marble with black viens running through it.  To the
+north and south are large doors marking the entrances to personal tombs of
+once great warriors of the realm.  The doors are covered with strange runes
+and have scenes of battles carved into them.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 1270 30 30
+~
+Emerald Door~
+Door 1 0 0 1267 0 0
+~
+~
+Door 2 3 0 1271 30 30
+~
+Ruby Door~
+Door 3 0 0 1269 0 0
+~
+~
+End
+
+#1269
+Name The Hall of Heroes~
+Descr
+You stand here in a small alcove at the end of the hallway.  In the walls
+surface are carved scores of names of great heros who died in battle and
+were unable to be laid to rest here for one reason or another.  Most of the
+names are unfamiliar to you, but now and then you see one that perhaps you
+heard in a story as a child.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1268 0 0
+~
+~
+End
+
+#1270
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1217 -3 100
+Reset M 1209 1 100
+Reset O 1221 8 1
+Door 2 3 0 1268 30 30
+~
+Emerald Door~
+End
+
+#1271
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1218 -3 100
+Reset M 1204 2 100
+Door 0 3 0 1268 30 30
+~
+Ruby Door~
+End
+
+#1272
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1215 -3 100
+Reset M 1205 4 100
+Door 2 3 0 1266 30 30
+~
+Topaz Door~
+End
+
+#1273
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1216 -3 100
+Reset M 1205 4 100
+Door 0 3 0 1266 30 30
+~
+Jade Door~
+End
+
+#1274
+Name The Hall of Heroes~
+Descr
+Here spanning to both the east and the west is a small corridor of the
+deepest red marble.  Along the walls are hung tapestries showing scenes of
+warriors doing battle against evil forces and hordes.  Mighty warriors
+crushing hosts of foul creatures under thier feet and dragons flying high in
+the air.  Deep black viens run though the marble, giving this hallway the
+distinct feeling of bloodiness that it's current residents must have endured
+during thier glorious lives.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1275 0 0
+~
+~
+Door 3 0 0 1264 0 0
+~
+~
+End
+
+#1275
+Name The Hall of Heroes~
+Descr
+You stand in a narrow hallway running to the east and west.  The walls
+are made of a deep red marble with black viens running through it.  To the
+north and south are large doors marking the entrances to personal tombs of
+once great warriors of the realm.  The doors are covered with strange runes
+and have scenes of battles carved into them.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 1282 30 30
+~
+Onyx Door~
+Door 1 0 0 1276 0 0
+~
+~
+Door 2 3 0 1281 30 30
+~
+Amethyst Door~
+Door 3 0 0 1274 0 0
+~
+~
+End
+
+#1276
+Name The Hall of Heroes~
+Descr
+Here spanning to both the east and the west is a small corridor of the
+deepest red marble.  Along the walls are hung tapestries showing scenes of
+warriors doing battle against evil forces and hordes.  Mighty warriors
+crushing hosts of foul creatures under thier feet and dragons flying high in
+the air.  Deep black viens run though the marble, giving this hallway the
+distinct feeling of bloodiness that it's current residents must have endured
+during thier glorious lives.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1277 0 0
+~
+~
+Door 3 0 0 1275 0 0
+~
+~
+End
+
+#1277
+Name The Hall of Heroes~
+Descr
+You stand in a narrow hallway running to the east and west.  The walls
+are made of a deep red marble with black viens running through it.  To the
+north and south are large doors marking the entrances to personal tombs of
+once great warriors of the realm.  The doors are covered with strange runes
+and have scenes of battles carved into them.  
+~
+Flags 5
+Sector 0
+Door 0 3 0 1279 30 30
+~
+Sapphire Door~
+Door 1 0 0 1278 0 0
+~
+~
+Door 2 3 0 1280 30 30
+~
+Garnet Door~
+Door 3 0 0 1276 0 0
+~
+~
+End
+
+#1278
+Name The Hall of Heroes~
+Descr
+You stand here in a small alcove at the end of the hallway.  In the walls
+surface are carved scores of names of great heros who died in battle and
+were unable to be laid to rest here for one reason or another.  Most of the
+names are unfamiliar to you, but now and then you see one that perhaps you
+heard in a story as a child.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1277 0 0
+~
+~
+End
+
+#1279
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1216 -3 100
+Reset M 1205 4 100
+Door 2 3 0 1277 30 30
+~
+Sapphire Door~
+End
+
+#1280
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1215 -3 100
+Reset M 1210 1 100
+Reset O 1222 5 1
+Door 0 3 0 1277 30 30
+~
+Garnet Door~
+End
+
+#1281
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1217 -3 100
+Reset M 1206 2 100
+Door 0 3 0 1275 30 30
+~
+Amethyst Door~
+End
+
+#1282
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1218 -3 100
+Reset M 1211 1 100
+Reset O 1223 1 1
+Reset O 1224 -1 5
+Door 2 3 0 1275 30 30
+~
+Onyx Door~
+End
+
+#1283
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1284 0 0
+~
+~
+Door 2 0 0 1264 0 0
+~
+~
+End
+
+#1284
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1285 0 0
+~
+~
+Door 2 0 0 1283 0 0
+~
+~
+End
+
+#1285
+Name The Main Chamber of an Underground Crypt~
+Descr
+Here is the center of the underground crypt complex, where the greatest
+heros of the lands have been laid to rest for all eternity.  This chamber is
+larger than any here so far with a high vaulted ceiling that reaches up into
+the darkness above.  The walls are covered with a sheet of hammered gold
+inlaid with silver and platinum runes and carvings.  Light reflects off the
+walls splendidly, giving the room an almost holy glow.  In the center of the
+room is a large fountain and in the middle of the fountain is a huge statue
+of a man in robes holding a magical looking staff in his hands.  
+~
+Flags 3145733
+Sector 0
+Reset O 1205 -5 100
+Reset O 1203 -5 100
+Door 0 0 0 1304 0 0
+~
+~
+Door 1 0 0 1295 0 0
+~
+~
+Door 2 0 0 1284 0 0
+~
+~
+Door 3 0 0 1286 0 0
+~
+~
+End
+
+#1286
+Name The Hall of Ancient Magic~
+Descr
+The long east by west hallway continues here, leading off in both
+directions.  The walls here are made of a polished green marble streaked
+with deep black viens.  Upon the walls are carved scenes depicting great
+magic battle and rare magical artifacts never before seen in this
+generation.  Pictures of great mages in thier labs creating objects of power
+and mysterious potions and philters.  It's all here, a history of everything
+that is magical.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1285 0 0
+~
+~
+Door 3 0 0 1287 0 0
+~
+~
+End
+
+#1287
+Name The Hall of Ancient Magic~
+Descr
+You stand in a long hallway running to the east and west.  The walls have
+been made of a rare bright green marble scored with viens of the darkest
+black tint.  The floor is covered with a fine layer of dust and swirls about
+the room with your movement.  To the north and south are solid metal doors
+with various runes and glyphs carved upon thier surface.  
+.
+~
+Flags 5
+Sector 0
+Door 0 3 0 1294 30 30
+~
+Silver Door~
+Door 1 0 0 1286 0 0
+~
+~
+Door 2 3 0 1293 30 30
+~
+Steel Door~
+Door 3 0 0 1288 0 0
+~
+~
+End
+
+#1288
+Name The Hall of Ancient Magic~
+Descr
+The long east by west hallway continues here, leading off in both
+directions.  The walls here are made of a polished green marble streaked
+with deep black viens.  Upon the walls are carved scenes depicting great
+magic battle and rare magical artifacts never before seen in this
+generation.  Pictures of great mages in thier labs creating objects of power
+and mysterious potions and philters.  It's all here, a history of everything
+that is magical.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1287 0 0
+~
+~
+Door 3 0 0 1289 0 0
+~
+~
+End
+
+#1289
+Name The Hall of Ancient Magic~
+Descr
+You stand in a long hallway running to the east and west.  The walls have
+been made of a rare bright green marble scored with viens of the darkest
+black tint.  The floor is covered with a fine layer of dust and swirls about
+the room with your movement.  To the north and south are solid metal doors
+with various runes and glyphs carved upon thier surface.  
+.
+~
+Flags 5
+Sector 0
+Door 0 3 0 1291 30 30
+~
+Brass Door~
+Door 1 0 0 1288 0 0
+~
+~
+Door 2 3 0 1292 30 30
+~
+Platinum Door~
+Door 3 0 0 1290 0 0
+~
+~
+End
+
+#1290
+Name The Hall of Ancient Magic~
+Descr
+Here is a small alcove off of the main hallway.  It's walls are smooth
+and made of a bright green marble with thin black viens running through it. 
+Upon the walls here are inscribed the names of countless great wizards that
+once held power in these realms.  Many of the names you recall hearing
+before, either in the incantations of certain spells to the names of those
+who created some of the most powerful magic items in the realms.  All are
+here, thier names etched in stone, to last a lifetime.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1289 0 0
+~
+~
+End
+
+#1291
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1218 -3 100
+Reset M 1213 1 100
+Reset O 1225 15 1
+Door 2 3 0 1289 30 30
+~
+Brass Door~
+End
+
+#1292
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1217 -3 100
+Reset M 1207 2 100
+Door 0 3 0 1289 30 30
+~
+Platinum Door~
+End
+
+#1293
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1215 -3 100
+Reset M 1212 1 100
+Reset O 1290 4 5
+Door 0 3 0 1287 30 30
+~
+Steel Door~
+End
+
+#1294
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1216 -3 100
+Reset M 1204 2 100
+Door 2 3 0 1287 30 30
+~
+Silver Door~
+End
+
+#1295
+Name The Hall of Ancient Magic~
+Descr
+The long east by west hallway continues here, leading off in both
+directions.  The walls here are made of a polished green marble streaked
+with deep black viens.  Upon the walls are carved scenes depicting great
+magic battle and rare magical artifacts never before seen in this
+generation.  Pictures of great mages in thier labs creating objects of power
+and mysterious potions and philters.  It's all here, a history of everything
+that is magical.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1296 0 0
+~
+~
+Door 3 0 0 1285 0 0
+~
+~
+End
+
+#1296
+Name The Hall of Ancient Magic~
+Descr
+You stand in a long hallway running to the east and west.  The walls have
+been made of a rare bright green marble scored with viens of the darkest
+black tint.  The floor is covered with a fine layer of dust and swirls about
+the room with your movement.  To the north and south are solid metal doors
+with various runes and glyphs carved upon thier surface.  
+.
+~
+Flags 5
+Sector 0
+Door 0 3 0 1303 30 30
+~
+Gold Door~
+Door 1 0 0 1297 0 0
+~
+~
+Door 2 3 0 1302 30 30
+~
+Bronze Door~
+Door 3 0 0 1295 0 0
+~
+~
+End
+
+#1297
+Name The Hall of Ancient Magic~
+Descr
+The long east by west hallway continues here, leading off in both
+directions.  The walls here are made of a polished green marble streaked
+with deep black viens.  Upon the walls are carved scenes depicting great
+magic battle and rare magical artifacts never before seen in this
+generation.  Pictures of great mages in thier labs creating objects of power
+and mysterious potions and philters.  It's all here, a history of everything
+that is magical.  
+~
+Flags 5
+Sector 0
+Door 1 0 0 1298 0 0
+~
+~
+Door 3 0 0 1296 0 0
+~
+~
+End
+
+#1298
+Name The Hall of Ancient Magic~
+Descr
+You stand in a long hallway running to the east and west.  The walls have
+been made of a rare bright green marble scored with viens of the darkest
+black tint.  The floor is covered with a fine layer of dust and swirls about
+the room with your movement.  To the north and south are solid metal doors
+with various runes and glyphs carved upon thier surface.  
+.
+~
+Flags 5
+Sector 0
+Door 0 3 0 1301 30 30
+~
+Copper Door~
+Door 1 0 0 1299 0 0
+~
+~
+Door 2 3 0 1300 30 30
+~
+Iron Door~
+Door 3 0 0 1297 0 0
+~
+~
+End
+
+#1299
+Name The Hall of Ancient Magic~
+Descr
+Here is a small alcove off of the main hallway.  It's walls are smooth
+and made of a bright green marble with thin black viens running through it. 
+Upon the walls here are inscribed the names of countless great wizards that
+once held power in these realms.  Many of the names you recall hearing
+before, either in the incantations of certain spells to the names of those
+who created some of the most powerful magic items in the realms.  All are
+here, thier names etched in stone, to last a lifetime.  
+~
+Flags 5
+Sector 0
+Door 3 0 0 1298 0 0
+~
+~
+End
+
+#1300
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1216 -3 100
+Reset M 1208 1 100
+Reset O 1220 -1 1
+Door 0 3 0 1298 30 30
+~
+Iron Door~
+End
+
+#1301
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1218 -3 100
+Reset M 1206 2 100
+Door 2 3 0 1298 30 30
+~
+Copper Door~
+End
+
+#1302
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1215 -3 100
+Reset M 1205 4 100
+Door 0 3 0 1296 30 30
+~
+Bronze Door~
+End
+
+#1303
+Name Inside a Crypt~
+Descr
+You stand inside a personal crypt.  The walls are plain and have no
+features and all that is inside of the room is a stone burial tomb.  The
+room is fairly small and there isnt much room to move around in.  The walls
+are made of plain while marble and have been polished to a once mirror
+finish.  A thin layer of dust covers the floor.  
+~
+Flags 5
+Sector 0
+Reset O 1204 -5 100
+Reset O 1217 -3 100
+Reset M 1207 2 100
+Door 2 3 0 1296 30 30
+~
+Gold Door~
+End
+
+#1304
+Name Down a Long Marble Hallway~
+Descr
+Spanning here, to the north and to the south, is a long blue marble
+hallway.  The walls are glass smooth and have tiny white viens running
+through them.  Beautiful designs have been carved into the face of the
+marble, depicting scenes from long ago.  A thin layer of dust has settled
+upon the floor and is stirred into swirling clouds by your passage.  
+~
+Flags 5
+Sector 0
+Door 0 0 0 1305 0 0
+~
+~
+Door 2 0 0 1285 0 0
+~
+~
+End
+
+#1305
+Name Before a Massive Mithril Door~
+Descr
+To the north here stands a massive solid mithril door.  Upon it's surface
+is carved countless runes and writings in a language long since forgotten to
+mankind.  The walls here are hung with beautiful tapestries of the finest
+craftsmanship.  Upon thier surfaces are scenes of a tall man in a suit of
+golden armor fighting hordes of evil creatures He wields a huge golden axe
+covered with precious gemstones and delicate chasings of silver.  The walls
+are made of a beautiful purple marble unlike anything you have ever seen
+before.  To the south a long hallway leads back away from the door.  
+~
+Flags 5
+Sector 0
+Door 0 27 1206 1306 80 80
+~
+Mithril Door~
+Door 2 0 0 1304 0 0
+~
+~
+End
+
+#1306
+Name The Tomb of Lord Blackraven~
+Descr
+You stand within a large room housing a single coffin.  All along the
+walls here are carved scenes of great battles and fabulous monsters and
+beasts.  The northern wall is a mural of a magnificent castle atop a
+mountain peak.  In the air above the castle fly scores of dragons, obviously
+the castles main defense.  Although in this generation none have ever seen a
+tamed dragon.  The walls are of a deep blue marble with bright yellow viens
+running through it, none like you have ever seen before.  A large mithril
+door stands to the south.  
+~
+Flags 5
+Sector 0
+Reset O 1207 -5 100
+Reset O 1219 -3 100
+Reset M 1214 1 100
+Reset O 1226 -1 1
+Reset O 1230 4 1
+Door 2 7 0 1305 80 80
+~
+Mithril Door~
+End
+
+#1310
+Name A Clearing Deep Within a Black Forest~
+Descr
+The black forest opens up here into a large clearing.  Thick bushes and
+the nasty locust trees back off of the path to give way to a low growing
+shrub species which covers the ground here.  To the north, in the distance,
+you see a small campfire glowing brightly and shedding it's light into the
+dark forest.  
+~
+Flags 1
+Door 0 0 0 1313 0 0
+~
+~
+Door 1 0 0 1312 0 0
+~
+~
+Door 2 0 0 1249 0 0
+~
+~
+Door 3 0 0 1311 0 0
+~
+~
+End
+
+#1311
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Flags 1
+Reset M 1215 1 100
+Reset O 1227 21 2
+Door 0 0 0 1314 0 0
+~
+~
+Door 1 0 0 1310 0 0
+~
+~
+End
+
+#1312
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Reset M 1215 1 100
+Reset O 1228 -1 4
+Reset O 1227 21 2
+Door 0 0 0 1315 0 0
+~
+~
+Door 3 0 0 1310 0 0
+~
+~
+End
+
+#1313
+Name The Bandit's Lair~
+Descr
+The forest opens up here into a small, man-made clearing.  Trash and
+other signs of human presence lie scattered about the area here.  A small
+fire burns brightly in the middle of the clearing with a large slab of meat
+slowly roasting over it.  A large tent has been erected in the northern most
+corner of the clearing.  To the south a large clearing opens itself up in
+the forest and on all other sides stretch the dark trees of this area.  
+~
+Reset O 1210 -5 100
+Reset O 1208 -5 100
+Reset O 1209 -5 100
+Door 1 0 0 1315 0 0
+~
+~
+Door 2 0 0 1310 0 0
+~
+~
+Door 3 0 0 1314 0 0
+~
+~
+End
+
+#1314
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Reset M 1215 1 100
+Reset O 1228 11 6
+Reset O 1227 21 2
+Door 1 0 0 1313 0 0
+~
+~
+Door 2 0 0 1311 0 0
+~
+~
+End
+
+#1315
+Name A Black Forest~
+Descr
+You are deep within the black forest.  Dying trees and plants surround
+you and the smell of decay and rot hangs thick in the air here.  Thorny
+locust trees line the path and make it dangerous to leave it, less you be
+mangled and torn by thier thick black spikes that jut from thier branches
+and trunks.  
+~
+Reset M 1215 1 100
+Reset O 1227 21 2
+Door 2 0 0 1312 0 0
+~
+~
+Door 3 0 0 1313 0 0
+~
+~
+End
+
+#1316
+Name Inside a Large tent~
+Descr
+You stand inside a large canvas tent.  Boxes and barrels and other
+assorted items litter the ground here and add to the confined feeling you
+get inside here.  To the north you see a light and a large table outlined by
+the light.  
+~
+Reset O 1211 -5 100
+Door 0 0 0 1317 0 0
+~
+~
+End
+
+#1317
+Name Inside a Large Tent~
+Descr
+The tent opens up here to reveal a planning room of some kind.  There is
+a large table in the center of the room with quite a few different maps
+spread acrossed it.  You notice maps of the areas surrounding Xylar and
+Masque and other areas that are not so familiar.  A small lantern has been
+fixed to the main tent post, illuminating the room.  
+~
+Reset O 1212 -5 100
+Reset O 1213 -5 100
+Reset M 1216 1 100
+Reset O 1229 7 4
+Door 2 0 0 1316 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

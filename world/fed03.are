@@ -1,0 +1,5515 @@
+#AREADATA 
+Name The Old Stone Road~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA gentle breeze suddenly blows across your face.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 9351 9799
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#9454
+Name farmer~
+Short an old farmer~
+Long 
+An old farmer is here eating an apple.
+~
+Descr
+~
+AMax 1
+NHeight 68
+ActBits 2
+Affect_By 520
+Money 50
+Level 50
+Sex 1
+MobType 0
+Guard 0
+End
+
+#9456
+Name cerial~
+Short cerial~
+Long 
+Cerial is here to protect all who call the forest home.
+~
+Descr
+~
+AMax 1
+NHeight 60
+ActBits -2147483390
+Affect_By 648
+Money 250
+Level 250
+Sex 2
+MobType 1
+Guard 0
+Spec spec_warrior
+ASklTaught 0 94
+ASklTaught 1 147
+ASklTaught 2 156
+ASklTaught 3 158
+ASklTaught 4 174
+End
+
+#9457
+Name dark-elf~
+Short a dark-elf~
+Long 
+A dark-elf has made his home in this forest.
+~
+Descr
+~
+AMax 3
+NHeight 50
+ActBits 16
+Affect_By 520
+Money 75
+Level 75
+Sex 2
+MobType 1
+Guard 0
+End
+
+#9458
+Name spirit souls~
+Short a spirit of lost souls~
+Long 
+A spirit of lost souls is here ready to take yours.
+~
+Descr
+~
+AMax 1
+NHeight 77
+ActBits 67108864
+Affect_By 650
+Money 180
+Level 180
+MobType 21
+Guard 0
+End
+
+#9351
+Name badger~
+Short a badger~
+Long 
+A badger is here lurking about the forest.
+~
+Descr
+~
+AMax 3
+NHeight 8
+ActBits 67108864
+Affect_By 512
+Money 25
+Level 25
+Sex 1
+MobType 18
+Guard 0
+End
+
+#9352
+Name rabbit~
+Short a rabbit~
+Long 
+A long-haired rabbit is here hopping about the forest.
+~
+Descr
+~
+AMax 3
+NHeight 10
+Money 20
+Level 20
+MobType 18
+Guard 0
+End
+
+#9353
+Name rattlesnake~
+Short a rattlesnake~
+Long 
+A rattlesnake is here slithering through the dry plains.
+~
+Descr
+~
+AMax 5
+NHeight 12
+ActBits 8
+Affect_By 512
+Money 15
+Level 15
+Sex 1
+MobType 18
+Guard 0
+End
+
+#9357
+Name alicia~
+Short alicia~
+Long 
+Alicia, the wandering banker, is here to protect your earnings.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 131088
+ActBits3 524288
+ActBits4 4096
+Affect_By 648
+Money 200
+Level 200
+Sex 2
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#9398
+Name sign wooden~
+Short a small wooden sign~
+Descr
+There is a small wooden sign stuck in the middle of the road.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+------------------------------------
++                      ^           +
++                      |           +
++                      |           +
++                   Marneth        +
++                                  +
++ <--Castle Alteric                +
++                                  +
++              Forest of Shadows   +
++              The Taerian Desert  +
++                      |           +
++                      |           +
++                      V           +
++-----------------------------------
+~
+End
+
+#9450
+Name tree~
+Short apple tree~
+Descr
+An apple tree grows within the field of wheat.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#9454
+Name wagon~
+Short war wagon~
+Descr
+A [31mburning [36mwar-wagon is here filling the sky with a dull smoke.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#9455
+Name sign~
+Short a destroyed sign~
+Descr
+A destroyed sign has been piled in heap along side the road.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Be warned, you are about to enter the wastlands. 
+
+ 
+
+Only the strongest of men have lived to tell about what 
+
+dangers lie within.
+
+ 
+
+~
+End
+
+#9456
+Name anklet ancient stones +3 KICK +1 APB~
+Short an [1m[37ma[30mn[37mk[30ml[37me[30mt [0mof [34mancient [1m[37ms[30mt[37mo[30mn[37me[30ms~
+Descr
+An anklet of ancient stones has been thoughtlessly discarded.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 30 30 0 0
+Weight 1
+Cost 4302
+Affect 13 -5 1 0 0
+Affect 22 3 1 0 0
+Affect 19 1 1 0 0
+End
+
+#9458
+Name magic cloak tattered souls large MAGICDAM about~
+Short a [35mC[1m[30ml[0m[35mo[1m[30ma[0m[35mk [0m[1mof [30mt[0m[35ma[1m[30mt[0m[35mt[1m[30me[0m[35mr[1m[30me[0m[35md [0m[1msouls~
+Descr
+A large cloak is here radiating with power.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 5 0 2 0 0 30 30 0 0
+Weight 2
+Cost 4000
+Affect 20 -3 0 0 0
+Affect 14 10 0 0 0
+Affect 17 -4 0 0 0
+Affect 18 2 0 0 0
+Affect 26 3 1 0 0
+End
+
+#9599
+Name temple key~
+Short ancient stone~
+Descr
+A large [1m[30mblack[0m [36mrock looks very out of place in the wastelands.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#9651
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#9352
+Name circle stones~
+Short ancient stones~
+Descr
+An ancient circle of stones has been laid here centuries ago.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#9384
+Name Bend in an Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 1 0 0 9371 0 0
+~
+~
+Door 2 0 0 9385 0 0
+~
+~
+End
+
+#9385
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9384 0 0
+~
+~
+Door 1 0 0 9467 0 0
+~
+~
+Door 2 0 0 9387 0 0
+~
+~
+End
+
+#9386
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Reset M 9351 1 100
+Door 0 0 0 9367 0 0
+~
+~
+End
+
+#9387
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9385 0 0
+~
+~
+Door 2 0 0 9390 0 0
+~
+~
+End
+
+#9388
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 3 0 0 9389 0 0
+~
+~
+End
+
+#9389
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9388 0 0
+~
+~
+Door 3 0 0 9383 0 0
+~
+~
+End
+
+#9390
+Name Bend in an Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9387 0 0
+~
+~
+Door 3 0 0 9391 0 0
+~
+~
+End
+
+#9391
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 1 0 0 9390 0 0
+~
+~
+Door 3 0 0 9392 0 0
+~
+~
+End
+
+#9392
+Name Bend in an Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 1 0 0 9391 0 0
+~
+~
+Door 2 0 0 9393 0 0
+~
+~
+End
+
+#9393
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9392 0 0
+~
+~
+Door 2 0 0 9394 0 0
+~
+~
+End
+
+#9394
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9393 0 0
+~
+~
+Door 2 0 0 9395 0 0
+~
+~
+End
+
+#9395
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9394 0 0
+~
+~
+Door 2 0 0 9396 0 0
+~
+~
+End
+
+#9396
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9395 0 0
+~
+~
+Door 2 0 0 9397 0 0
+~
+~
+End
+
+#9397
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9396 0 0
+~
+~
+Door 2 0 0 9398 0 0
+~
+~
+End
+
+#9398
+Name A Small Intersection~
+Descr
+A small junction connects the main road with a few paths. Perhaps it
+would be best to stay on the main road...never know what could be down one
+of those dark paths. 
+~
+Flags 2
+Reset O 9398 -5 100
+Door 0 0 0 9397 0 0
+~
+~
+Door 2 0 0 9464 0 0
+~
+~
+Door 3 0 0 9399 0 0
+~
+~
+End
+
+#9399
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 1 0 0 9398 0 0
+~
+~
+Door 3 0 0 9428 0 0
+~
+~
+End
+
+#9400
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 1 0 0 9402 0 0
+~
+~
+Door 2 0 0 9408 0 0
+~
+~
+End
+
+#9401
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9414 0 0
+~
+~
+End
+
+#9402
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 1 0 0 9403 0 0
+~
+~
+Door 2 0 0 9418 0 0
+~
+~
+Door 3 0 0 9400 0 0
+~
+~
+End
+
+#9403
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 1 0 0 9404 0 0
+~
+~
+Door 2 0 0 9420 0 0
+~
+~
+Door 3 0 0 9402 0 0
+~
+~
+End
+
+#9404
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 0 0 0 9405 0 0
+~
+~
+Door 2 0 0 9423 0 0
+~
+~
+Door 3 0 0 9403 0 0
+~
+~
+End
+
+#9405
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 0 0 0 9406 0 0
+~
+~
+Door 1 0 0 9422 0 0
+~
+~
+Door 2 0 0 9404 0 0
+~
+~
+End
+
+#9406
+Name Path Through a Light Forest~
+Descr
+A lightly wooded trail, it gets noticeably darker the further you travel.
+All of the sudden you start to hear strange sounds coming from beyond the
+trees. 
+~
+Door 0 0 0 9421 0 0
+~
+~
+Door 1 0 0 9407 0 0
+~
+~
+Door 2 0 0 9405 0 0
+~
+~
+End
+
+#9407
+Name Beginning of the River~
+Descr
+It appears that an underground river has surfaced right here!
+~
+Flags 2
+Door 1 0 0 4043 0 0
+~
+~
+Door 2 0 0 9422 0 0
+~
+~
+Door 3 0 0 9406 0 0
+~
+~
+End
+
+#9408
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9400 0 0
+~
+~
+End
+
+#9409
+Name ~
+Descr
+~
+Door 0 0 0 9402 0 0
+~
+~
+End
+
+#9410
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Reset M 9457 1 100
+Door 1 0 0 9411 0 0
+~
+~
+End
+
+#9411
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9412 0 0
+~
+~
+Door 3 0 0 9410 0 0
+~
+~
+End
+
+#9412
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9413 0 0
+~
+~
+Door 2 0 0 9411 0 0
+~
+~
+End
+
+#9413
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Reset M 9457 1 100
+Door 2 0 0 9412 0 0
+~
+~
+End
+
+#9414
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9417 0 0
+~
+~
+Door 1 0 0 9415 0 0
+~
+~
+Door 2 0 0 9401 0 0
+~
+~
+End
+
+#9415
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9416 0 0
+~
+~
+Door 3 0 0 9414 0 0
+~
+~
+End
+
+#9416
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 2 0 0 9415 0 0
+~
+~
+Door 3 0 0 9417 0 0
+~
+~
+End
+
+#9417
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 1 0 0 9416 0 0
+~
+~
+Door 2 0 0 9414 0 0
+~
+~
+End
+
+#9418
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9402 0 0
+~
+~
+Door 1 0 0 9420 0 0
+~
+~
+Door 2 0 0 9419 0 0
+~
+~
+End
+
+#9419
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Reset M 9457 1 100
+Door 0 0 0 9418 0 0
+~
+~
+End
+
+#9420
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9403 0 0
+~
+~
+Door 3 0 0 9418 0 0
+~
+~
+End
+
+#9421
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Door 2 0 0 9406 0 0
+~
+~
+End
+
+#9422
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9407 0 0
+~
+~
+Door 3 0 0 9405 0 0
+~
+~
+End
+
+#9423
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9404 0 0
+~
+~
+Door 1 0 0 9424 0 0
+~
+~
+End
+
+#9424
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 1 0 0 9425 0 0
+~
+~
+Door 3 0 0 9423 0 0
+~
+~
+End
+
+#9425
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9426 0 0
+~
+~
+Door 2 0 0 9427 0 0
+~
+~
+Door 3 0 0 9424 0 0
+~
+~
+End
+
+#9426
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 2 0 0 9425 0 0
+~
+~
+End
+
+#9427
+Name Light Forest~
+Descr
+A lightly wooded forest seems to be overly dark. Everywhere you look its
+black. Black trees, black animals, even black leaves on the trees. Perhaps
+it was some sort of joke when they named this the Light Forest. 
+~
+Sector 3
+Door 0 0 0 9425 0 0
+~
+~
+End
+
+#9428
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 1 0 0 9399 0 0
+~
+~
+Door 3 0 0 9429 0 0
+~
+~
+End
+
+#9429
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 1 0 0 9428 0 0
+~
+~
+Door 2 0 0 9430 0 0
+~
+~
+End
+
+#9430
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 0 0 0 9429 0 0
+~
+~
+Door 2 0 0 9431 0 0
+~
+~
+End
+
+#9431
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 0 0 0 9430 0 0
+~
+~
+Door 2 0 0 9432 0 0
+~
+~
+End
+
+#9432
+Name A Thin Trail~
+Descr
+A narrow trail in off the main road, it seems to be entering a very old
+forest. It looks very dark and creepy, perhaps it would be better if you
+stayed on the main road. 
+~
+Door 0 0 0 9431 0 0
+~
+~
+Door 1 0 0 9433 0 0
+~
+~
+Door 3 0 0 9434 0 0
+~
+~
+End
+
+#9433
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 3 0 0 9432 0 0
+~
+~
+End
+
+#9434
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Door 1 0 0 9432 0 0
+~
+~
+Door 2 0 0 9439 0 0
+~
+~
+Door 3 0 0 9438 0 0
+~
+~
+End
+
+#9435
+Name A Dirt Path~
+Descr
+A small dirt path leads out of the Ancient forest to lands unknown.
+Perhaps you should return to the safety of the forest. 
+~
+Door 2 0 0 9461 0 0
+~
+~
+Door 3 0 0 9436 0 0
+~
+~
+End
+
+#9436
+Name A Dirt Path~
+Descr
+A small dirt path leads out of the Ancient forest to lands unknown.
+Perhaps you should return to the safety of the forest. 
+~
+Door 1 0 0 9435 0 0
+~
+~
+Door 3 0 0 9437 0 0
+~
+~
+End
+
+#9437
+Name Before a Narrow Hole~
+Descr
+At the end of the dirt path, you find a small hole in the ground. The
+hole can't be more than a few feet wide and you wonder whether or not you
+could get out once you climbed in. 
+~
+Flags 2
+Door 1 0 0 9436 0 0
+~
+~
+Door 5 0 0 7900 0 0
+~
+~
+End
+
+#9438
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9434 0 0
+~
+~
+Door 2 0 0 9440 0 0
+~
+~
+End
+
+#9439
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9434 0 0
+~
+~
+Door 3 0 0 9440 0 0
+~
+~
+End
+
+#9440
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9438 0 0
+~
+~
+Door 1 0 0 9439 0 0
+~
+~
+Door 2 0 0 9441 0 0
+~
+~
+End
+
+#9441
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9440 0 0
+~
+~
+Door 2 0 0 9442 0 0
+~
+~
+End
+
+#9442
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Reset M 9357 1 100
+Door 0 0 0 9441 0 0
+~
+~
+Door 3 0 0 9443 0 0
+~
+~
+End
+
+#9443
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9442 0 0
+~
+~
+Door 2 0 0 9444 0 0
+~
+~
+Door 3 0 0 9445 0 0
+~
+~
+End
+
+#9444
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9443 0 0
+~
+~
+Door 3 0 0 9449 0 0
+~
+~
+End
+
+#9445
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9443 0 0
+~
+~
+Door 2 0 0 9449 0 0
+~
+~
+Door 3 0 0 9446 0 0
+~
+~
+End
+
+#9446
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Reset M 9352 1 100
+Door 1 0 0 9445 0 0
+~
+~
+Door 2 0 0 9448 0 0
+~
+~
+Door 3 0 0 9447 0 0
+~
+~
+End
+
+#9447
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9446 0 0
+~
+~
+Door 3 0 0 9451 0 0
+~
+~
+End
+
+#9448
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9446 0 0
+~
+~
+Door 1 0 0 9449 0 0
+~
+~
+End
+
+#9449
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9445 0 0
+~
+~
+Door 1 0 0 9444 0 0
+~
+~
+Door 2 0 0 9450 0 0
+~
+~
+Door 3 0 0 9448 0 0
+~
+~
+End
+
+#9450
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9449 0 0
+~
+~
+End
+
+#9451
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9447 0 0
+~
+~
+Door 2 0 0 9452 0 0
+~
+~
+Door 3 0 0 9458 0 0
+~
+~
+End
+
+#9452
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9451 0 0
+~
+~
+Door 2 0 0 9453 0 0
+~
+~
+Door 3 0 0 9457 0 0
+~
+~
+End
+
+#9453
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Reset M 9352 1 100
+Door 0 0 0 9452 0 0
+~
+~
+Door 2 0 0 9454 0 0
+~
+~
+Door 3 0 0 9456 0 0
+~
+~
+End
+
+#9454
+Name Ancient Circle~
+Descr
+You feel a sense of magic in the room as you enter the circle. Huge
+stones were somehow transported here by an ancient civilization in order to
+appeal to the spirits. 
+~
+Flags 3145728
+Sector 3
+Reset M 9456 1 100
+Reset O 12505 -1 5
+Reset O 9456 -1 5
+Reset O 9352 -5 100
+Door 0 0 0 9453 0 0
+~
+~
+Door 3 0 0 9455 0 0
+~
+~
+End
+
+#9455
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9456 0 0
+~
+~
+Door 1 0 0 9454 0 0
+~
+~
+End
+
+#9456
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9457 0 0
+~
+~
+Door 1 0 0 9453 0 0
+~
+~
+Door 2 0 0 9455 0 0
+~
+~
+Door 3 0 0 9463 0 0
+~
+~
+End
+
+#9457
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9458 0 0
+~
+~
+Door 1 0 0 9452 0 0
+~
+~
+Door 2 0 0 9456 0 0
+~
+~
+End
+
+#9458
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9459 0 0
+~
+~
+Door 1 0 0 9451 0 0
+~
+~
+Door 2 0 0 9457 0 0
+~
+~
+Door 3 0 0 9460 0 0
+~
+~
+End
+
+#9459
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Reset M 9351 1 100
+Door 2 0 0 9458 0 0
+~
+~
+Door 3 0 0 9461 0 0
+~
+~
+End
+
+#9460
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9461 0 0
+~
+~
+Door 1 0 0 9458 0 0
+~
+~
+End
+
+#9461
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 0 0 0 9435 0 0
+~
+~
+Door 1 0 0 9459 0 0
+~
+~
+Door 2 0 0 9460 0 0
+~
+~
+End
+
+#9463
+Name Ancient Forest~
+Descr
+You find yourself walking through a very old forest. All of the trees
+here must be hundreds of years old judging by how big they are. 
+~
+Sector 3
+Door 1 0 0 9456 0 0
+~
+~
+End
+
+#9464
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9398 0 0
+~
+~
+Door 2 0 0 9465 0 0
+~
+~
+End
+
+#9465
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9464 0 0
+~
+~
+Door 2 0 0 9466 0 0
+~
+~
+End
+
+#9466
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9465 0 0
+~
+~
+Door 1 0 0 9468 0 0
+~
+~
+Door 2 0 0 9469 0 0
+~
+~
+End
+
+#9467
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Reset M 9458 1 100
+Reset O 9458 -1 5
+Door 0 0 0 9371 0 0
+~
+~
+Door 2 0 0 9654 0 0
+~
+~
+Door 3 0 0 9385 0 0
+~
+~
+End
+
+#9468
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 2 0 0 9470 0 0
+~
+~
+Door 3 0 0 9466 0 0
+~
+~
+End
+
+#9469
+Name Beside a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9466 0 0
+~
+~
+Door 1 0 0 9470 0 0
+~
+~
+End
+
+#9470
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9468 0 0
+~
+~
+Door 2 0 0 9471 0 0
+~
+~
+Door 3 0 0 9469 0 0
+~
+~
+End
+
+#9471
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9470 0 0
+~
+~
+Door 1 0 0 9475 0 0
+~
+~
+Door 2 0 0 9472 0 0
+~
+~
+End
+
+#9472
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9471 0 0
+~
+~
+Door 1 0 0 9476 0 0
+~
+~
+Door 2 0 0 9477 0 0
+~
+~
+Door 3 0 0 9473 0 0
+~
+~
+End
+
+#9473
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 1 0 0 9472 0 0
+~
+~
+Door 2 0 0 9478 0 0
+~
+~
+Door 3 0 0 9474 0 0
+~
+~
+End
+
+#9474
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 1 0 0 9473 0 0
+~
+~
+Door 2 0 0 9479 0 0
+~
+~
+Door 3 0 0 9644 0 0
+~
+~
+End
+
+#9475
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 2 0 0 9476 0 0
+~
+~
+Door 3 0 0 9471 0 0
+~
+~
+End
+
+#9476
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9475 0 0
+~
+~
+Door 3 0 0 9472 0 0
+~
+~
+End
+
+#9477
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9472 0 0
+~
+~
+Door 3 0 0 9478 0 0
+~
+~
+End
+
+#9478
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9473 0 0
+~
+~
+Door 1 0 0 9477 0 0
+~
+~
+Door 3 0 0 9479 0 0
+~
+~
+End
+
+#9479
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9474 0 0
+~
+~
+Door 1 0 0 9478 0 0
+~
+~
+Door 2 0 0 9480 0 0
+~
+~
+Door 3 0 0 9643 0 0
+~
+~
+End
+
+#9480
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9479 0 0
+~
+~
+Door 1 0 0 9642 0 0
+~
+~
+Door 2 0 0 9481 0 0
+~
+~
+Door 3 0 0 9641 0 0
+~
+~
+End
+
+#9481
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9480 0 0
+~
+~
+Door 1 0 0 9637 0 0
+~
+~
+Door 2 0 0 9482 0 0
+~
+~
+Door 3 0 0 9638 0 0
+~
+~
+End
+
+#9482
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9481 0 0
+~
+~
+Door 1 0 0 9636 0 0
+~
+~
+Door 2 0 0 9483 0 0
+~
+~
+Door 3 0 0 9639 0 0
+~
+~
+End
+
+#9483
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9482 0 0
+~
+~
+Door 1 0 0 9635 0 0
+~
+~
+Door 2 0 0 9484 0 0
+~
+~
+Door 3 0 0 9640 0 0
+~
+~
+End
+
+#9484
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9483 0 0
+~
+~
+Door 1 0 0 9485 0 0
+~
+~
+End
+
+#9485
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9635 0 0
+~
+~
+Door 2 0 0 9486 0 0
+~
+~
+Door 3 0 0 9484 0 0
+~
+~
+End
+
+#9486
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9485 0 0
+~
+~
+Door 1 0 0 9496 0 0
+~
+~
+Door 2 0 0 9487 0 0
+~
+~
+Door 3 0 0 9495 0 0
+~
+~
+End
+
+#9487
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9486 0 0
+~
+~
+Door 1 0 0 9500 0 0
+~
+~
+Door 2 0 0 9488 0 0
+~
+~
+Door 3 0 0 9497 0 0
+~
+~
+End
+
+#9488
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9487 0 0
+~
+~
+Door 2 0 0 9489 0 0
+~
+~
+Door 3 0 0 9498 0 0
+~
+~
+End
+
+#9489
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9488 0 0
+~
+~
+Door 1 0 0 9490 0 0
+~
+~
+Door 3 0 0 9499 0 0
+~
+~
+End
+
+#9490
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 2 0 0 9491 0 0
+~
+~
+Door 3 0 0 9489 0 0
+~
+~
+End
+
+#9491
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9490 0 0
+~
+~
+Door 2 0 0 9492 0 0
+~
+~
+End
+
+#9492
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9491 0 0
+~
+~
+Door 3 0 0 9493 0 0
+~
+~
+End
+
+#9493
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 1 0 0 9492 0 0
+~
+~
+Door 2 0 0 9494 0 0
+~
+~
+End
+
+#9494
+Name A Stone Road~
+Descr
+A gravel road has been laid to aid in your journey. Huge open fields can
+be seen on both the east and west sides of the road. 
+~
+Door 0 0 0 9493 0 0
+~
+~
+Door 1 0 0 9519 0 0
+~
+~
+End
+
+#9495
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 1 0 0 9486 0 0
+~
+~
+Door 2 0 0 9497 0 0
+~
+~
+Door 3 0 0 9501 0 0
+~
+~
+End
+
+#9496
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 2 0 0 9500 0 0
+~
+~
+Door 3 0 0 9486 0 0
+~
+~
+End
+
+#9497
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9495 0 0
+~
+~
+Door 1 0 0 9487 0 0
+~
+~
+Door 2 0 0 9498 0 0
+~
+~
+Door 3 0 0 9513 0 0
+~
+~
+End
+
+#9498
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9497 0 0
+~
+~
+Door 1 0 0 9488 0 0
+~
+~
+Door 2 0 0 9499 0 0
+~
+~
+End
+
+#9499
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9498 0 0
+~
+~
+Door 1 0 0 9489 0 0
+~
+~
+End
+
+#9500
+Name Beside A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9496 0 0
+~
+~
+Door 3 0 0 9487 0 0
+~
+~
+End
+
+#9501
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 1 0 0 9495 0 0
+~
+~
+Door 2 0 0 9513 0 0
+~
+~
+Door 3 0 0 9502 0 0
+~
+~
+End
+
+#9502
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 1 0 0 9501 0 0
+~
+~
+Door 2 0 0 9512 0 0
+~
+~
+Door 3 0 0 9503 0 0
+~
+~
+End
+
+#9503
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9508 0 0
+~
+~
+Door 1 0 0 9502 0 0
+~
+~
+Door 2 0 0 9511 0 0
+~
+~
+Door 3 0 0 9504 0 0
+~
+~
+End
+
+#9504
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9507 0 0
+~
+~
+Door 1 0 0 9503 0 0
+~
+~
+Door 2 0 0 9510 0 0
+~
+~
+Door 3 0 0 9505 0 0
+~
+~
+End
+
+#9505
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9506 0 0
+~
+~
+Door 1 0 0 9504 0 0
+~
+~
+Door 2 0 0 9509 0 0
+~
+~
+End
+
+#9506
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Reset O 9450 -5 100
+Door 1 0 0 9507 0 0
+~
+~
+Door 2 0 0 9505 0 0
+~
+~
+End
+
+#9507
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 3 0 9634 30 30
+~
+front door~
+Door 1 0 0 9508 0 0
+~
+~
+Door 2 0 0 9504 0 0
+~
+~
+Door 3 0 0 9506 0 0
+~
+~
+End
+
+#9508
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 2 0 0 9503 0 0
+~
+~
+Door 3 0 0 9507 0 0
+~
+~
+End
+
+#9509
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9505 0 0
+~
+~
+Door 1 0 0 9510 0 0
+~
+~
+End
+
+#9510
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9504 0 0
+~
+~
+Door 1 0 0 9511 0 0
+~
+~
+Door 2 0 0 9514 0 0
+~
+~
+Door 3 0 0 9509 0 0
+~
+~
+End
+
+#9511
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9503 0 0
+~
+~
+Door 1 0 0 9512 0 0
+~
+~
+Door 3 0 0 9510 0 0
+~
+~
+End
+
+#9512
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9502 0 0
+~
+~
+Door 1 0 0 9513 0 0
+~
+~
+Door 3 0 0 9511 0 0
+~
+~
+End
+
+#9513
+Name A Field of Wheat~
+Descr
+Along side the old stone road you notice this small wheat field. Tall
+stalks of wheat grow abundantly throughout the field and you can notice a
+few furry creatures playfully galloping through the gentle field. 
+~
+Sector 2
+Door 0 0 0 9501 0 0
+~
+~
+Door 1 0 0 9497 0 0
+~
+~
+Door 3 0 0 9512 0 0
+~
+~
+End
+
+#9514
+Name A Path South of the Field~
+Descr
+~
+Door 0 0 0 9510 0 0
+~
+~
+Door 2 0 0 9515 0 0
+~
+~
+End
+
+#9515
+Name A Path South of the Field~
+Descr
+~
+Door 0 0 0 9514 0 0
+~
+~
+Door 3 0 0 9516 0 0
+~
+~
+End
+
+#9516
+Name A Dark Road~
+Descr
+~
+Door 1 0 0 9515 0 0
+~
+~
+Door 3 0 0 9517 0 0
+~
+~
+End
+
+#9517
+Name A Dark Road~
+Descr
+~
+Door 1 0 0 9516 0 0
+~
+~
+Door 3 0 0 9518 0 0
+~
+~
+End
+
+#9518
+Name A Dark Road~
+Descr
+~
+Door 0 0 0 9645 0 0
+~
+~
+Door 1 0 0 9517 0 0
+~
+~
+Door 2 0 0 3733 0 0
+~
+~
+End
+
+#9519
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 2 0 0 9520 0 0
+~
+~
+Door 3 0 0 9494 0 0
+~
+~
+End
+
+#9520
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9519 0 0
+~
+~
+Door 2 0 0 9521 0 0
+~
+~
+End
+
+#9521
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9520 0 0
+~
+~
+Door 3 0 0 9522 0 0
+~
+~
+End
+
+#9522
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 1 0 0 9521 0 0
+~
+~
+Door 2 0 0 9523 0 0
+~
+~
+End
+
+#9523
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9522 0 0
+~
+~
+Door 2 0 0 9524 0 0
+~
+~
+End
+
+#9524
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9523 0 0
+~
+~
+Door 2 0 0 9525 0 0
+~
+~
+End
+
+#9525
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9524 0 0
+~
+~
+Door 3 0 0 9526 0 0
+~
+~
+End
+
+#9526
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 1 0 0 9525 0 0
+~
+~
+Door 3 0 0 9527 0 0
+~
+~
+End
+
+#9527
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 1 0 0 9526 0 0
+~
+~
+Door 2 0 0 9528 0 0
+~
+~
+End
+
+#9528
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9527 0 0
+~
+~
+Door 2 0 0 9529 0 0
+~
+~
+End
+
+#9529
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9528 0 0
+~
+~
+Door 2 0 0 9530 0 0
+~
+~
+End
+
+#9530
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9529 0 0
+~
+~
+Door 1 0 0 9531 0 0
+~
+~
+Door 2 0 0 9548 0 0
+~
+~
+Door 3 0 0 9628 0 0
+~
+~
+End
+
+#9531
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9545 0 0
+~
+~
+Door 1 0 0 9532 0 0
+~
+~
+Door 2 0 0 9549 0 0
+~
+~
+Door 3 0 0 9530 0 0
+~
+~
+End
+
+#9532
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9543 0 0
+~
+~
+Door 1 0 0 9534 0 0
+~
+~
+Door 3 0 0 9531 0 0
+~
+~
+End
+
+#9533
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9538 0 0
+~
+~
+Door 1 0 0 9535 0 0
+~
+~
+Door 2 0 0 9540 0 0
+~
+~
+Door 3 0 0 9534 0 0
+~
+~
+End
+
+#9534
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9541 0 0
+~
+~
+Door 1 0 0 9533 0 0
+~
+~
+Door 3 0 0 9532 0 0
+~
+~
+End
+
+#9535
+Name A Dry Path~
+Descr
+~
+Door 0 0 0 9536 0 0
+~
+~
+Door 3 0 0 9533 0 0
+~
+~
+End
+
+#9536
+Name A Dry Path~
+Descr
+~
+Door 0 0 0 9537 0 0
+~
+~
+Door 2 0 0 9535 0 0
+~
+~
+End
+
+#9537
+Name A Dry Path~
+Descr
+~
+Door 2 0 0 9536 0 0
+~
+~
+End
+
+#9538
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9539 0 0
+~
+~
+Door 2 0 0 9533 0 0
+~
+~
+Door 3 0 0 9541 0 0
+~
+~
+End
+
+#9539
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 2 0 0 9538 0 0
+~
+~
+Door 3 0 0 9542 0 0
+~
+~
+End
+
+#9540
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Reset M 9353 1 100
+Door 0 0 0 9533 0 0
+~
+~
+End
+
+#9541
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9542 0 0
+~
+~
+Door 1 0 0 9538 0 0
+~
+~
+Door 2 0 0 9534 0 0
+~
+~
+Door 3 0 0 9543 0 0
+~
+~
+End
+
+#9542
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 1 0 0 9539 0 0
+~
+~
+Door 2 0 0 9541 0 0
+~
+~
+Door 3 0 0 9544 0 0
+~
+~
+End
+
+#9543
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9544 0 0
+~
+~
+Door 1 0 0 9541 0 0
+~
+~
+Door 2 0 0 9532 0 0
+~
+~
+Door 3 0 0 9545 0 0
+~
+~
+End
+
+#9544
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Reset M 9353 1 100
+Door 1 0 0 9542 0 0
+~
+~
+Door 2 0 0 9543 0 0
+~
+~
+Door 3 0 0 9546 0 0
+~
+~
+End
+
+#9545
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9546 0 0
+~
+~
+Door 1 0 0 9543 0 0
+~
+~
+Door 2 0 0 9531 0 0
+~
+~
+End
+
+#9546
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Reset M 9353 1 100
+Door 1 0 0 9544 0 0
+~
+~
+Door 2 0 0 9545 0 0
+~
+~
+End
+
+#9547
+Name ~
+Descr
+~
+End
+
+#9548
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9530 0 0
+~
+~
+Door 1 0 0 9549 0 0
+~
+~
+Door 2 0 0 9550 0 0
+~
+~
+Door 3 0 0 9626 0 0
+~
+~
+End
+
+#9549
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9531 0 0
+~
+~
+Door 2 0 0 9553 0 0
+~
+~
+Door 3 0 0 9548 0 0
+~
+~
+End
+
+#9550
+Name Crumbling Stone Road~
+Descr
+The once gravel road has turned into rubble. As you walk you seem to
+notice some changes in your surroundings. Perhaps it would be safer if you
+turned back. 
+~
+Door 0 0 0 9548 0 0
+~
+~
+Door 1 0 0 9553 0 0
+~
+~
+Door 3 0 0 9551 0 0
+~
+~
+End
+
+#9551
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9626 0 0
+~
+~
+Door 1 0 0 9550 0 0
+~
+~
+Door 2 0 0 9552 0 0
+~
+~
+End
+
+#9552
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9551 0 0
+~
+~
+Door 3 0 0 9554 0 0
+~
+~
+End
+
+#9553
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9549 0 0
+~
+~
+Door 3 0 0 9550 0 0
+~
+~
+End
+
+#9554
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 1 0 0 9552 0 0
+~
+~
+Door 2 0 0 9555 0 0
+~
+~
+End
+
+#9555
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9554 0 0
+~
+~
+Door 2 0 0 9556 0 0
+~
+~
+End
+
+#9556
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9555 0 0
+~
+~
+Door 2 0 0 9557 0 0
+~
+~
+End
+
+#9557
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9556 0 0
+~
+~
+Door 1 0 0 9558 0 0
+~
+~
+End
+
+#9558
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 2 0 0 9559 0 0
+~
+~
+Door 3 0 0 9557 0 0
+~
+~
+End
+
+#9559
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9558 0 0
+~
+~
+Door 2 0 0 9560 0 0
+~
+~
+End
+
+#9560
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9559 0 0
+~
+~
+Door 2 0 0 9561 0 0
+~
+~
+End
+
+#9561
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9560 0 0
+~
+~
+Door 1 0 0 9562 0 0
+~
+~
+End
+
+#9562
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 2 0 0 9563 0 0
+~
+~
+Door 3 0 0 9561 0 0
+~
+~
+End
+
+#9563
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9562 0 0
+~
+~
+Door 2 0 0 9564 0 0
+~
+~
+End
+
+#9564
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9563 0 0
+~
+~
+Door 3 0 0 9565 0 0
+~
+~
+End
+
+#9565
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 1 0 0 9564 0 0
+~
+~
+Door 2 0 0 9566 0 0
+~
+~
+End
+
+#9566
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Door 0 0 0 9565 0 0
+~
+~
+Door 2 0 0 9567 0 0
+~
+~
+End
+
+#9567
+Name A Dust Covered Road~
+Descr
+Not much of a road anymore, this once stone covered road is now nothing
+but dust. Blown in from the wastelands your surroundings have become
+considerably desolate. 
+~
+Reset O 9455 -5 100
+Door 0 0 0 9566 0 0
+~
+~
+Door 2 0 0 9568 0 0
+~
+~
+End
+
+#9568
+Name Beginning of the Badlands~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9567 0 0
+~
+~
+Door 2 0 0 9569 0 0
+~
+~
+End
+
+#9569
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9568 0 0
+~
+~
+Door 1 0 0 9571 0 0
+~
+~
+Door 2 0 0 9575 0 0
+~
+~
+Door 3 0 0 9570 0 0
+~
+~
+End
+
+#9570
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9569 0 0
+~
+~
+Door 2 0 0 9574 0 0
+~
+~
+Door 3 0 0 9572 0 0
+~
+~
+End
+
+#9571
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 2 0 0 9576 0 0
+~
+~
+Door 3 0 0 9569 0 0
+~
+~
+End
+
+#9572
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9570 0 0
+~
+~
+Door 2 0 0 9573 0 0
+~
+~
+End
+
+#9573
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9572 0 0
+~
+~
+Door 1 0 0 9574 0 0
+~
+~
+End
+
+#9574
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9570 0 0
+~
+~
+Door 1 0 0 9575 0 0
+~
+~
+Door 3 0 0 9573 0 0
+~
+~
+End
+
+#9575
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9569 0 0
+~
+~
+Door 1 0 0 9576 0 0
+~
+~
+Door 3 0 0 9574 0 0
+~
+~
+End
+
+#9576
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9571 0 0
+~
+~
+Door 1 0 0 9577 0 0
+~
+~
+Door 3 0 0 9575 0 0
+~
+~
+End
+
+#9577
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9578 0 0
+~
+~
+Door 3 0 0 9576 0 0
+~
+~
+End
+
+#9578
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9579 0 0
+~
+~
+Door 1 0 0 9582 0 0
+~
+~
+Door 3 0 0 9577 0 0
+~
+~
+End
+
+#9579
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9580 0 0
+~
+~
+Door 1 0 0 9583 0 0
+~
+~
+Door 2 0 0 9578 0 0
+~
+~
+End
+
+#9580
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Reset O 9599 -5 100
+Door 0 0 0 9581 0 0
+~
+~
+Door 1 0 0 9584 0 0
+~
+~
+Door 2 0 0 9579 0 0
+~
+~
+End
+
+#9581
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9585 0 0
+~
+~
+Door 2 0 0 9580 0 0
+~
+~
+End
+
+#9582
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9583 0 0
+~
+~
+Door 1 0 0 9586 0 0
+~
+~
+Door 3 0 0 9578 0 0
+~
+~
+End
+
+#9583
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9584 0 0
+~
+~
+Door 2 0 0 9582 0 0
+~
+~
+Door 3 0 0 9579 0 0
+~
+~
+End
+
+#9584
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9585 0 0
+~
+~
+Door 2 0 0 9583 0 0
+~
+~
+Door 3 0 0 9580 0 0
+~
+~
+End
+
+#9585
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 2 0 0 9584 0 0
+~
+~
+Door 3 0 0 9581 0 0
+~
+~
+End
+
+#9586
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9598 0 0
+~
+~
+Door 2 0 0 9587 0 0
+~
+~
+Door 3 0 0 9582 0 0
+~
+~
+End
+
+#9587
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9586 0 0
+~
+~
+Door 1 0 0 9597 0 0
+~
+~
+Door 2 0 0 9588 0 0
+~
+~
+End
+
+#9588
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9587 0 0
+~
+~
+Door 1 0 0 9596 0 0
+~
+~
+Door 2 0 0 9589 0 0
+~
+~
+End
+
+#9589
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Reset M 9353 1 100
+Door 0 0 0 9588 0 0
+~
+~
+Door 1 0 0 9595 0 0
+~
+~
+Door 2 0 0 9590 0 0
+~
+~
+End
+
+#9590
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Reset O 9454 -5 100
+Door 0 0 0 9589 0 0
+~
+~
+Door 1 0 0 9594 0 0
+~
+~
+Door 2 0 0 9591 0 0
+~
+~
+Door 3 0 0 9592 0 0
+~
+~
+End
+
+#9591
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9590 0 0
+~
+~
+Door 3 0 0 9593 0 0
+~
+~
+End
+
+#9592
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9590 0 0
+~
+~
+Door 2 0 0 9593 0 0
+~
+~
+End
+
+#9593
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Reset M 9353 1 100
+Door 0 0 0 9592 0 0
+~
+~
+Door 1 0 0 9591 0 0
+~
+~
+End
+
+#9594
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9595 0 0
+~
+~
+Door 1 0 0 9600 0 0
+~
+~
+Door 3 0 0 9590 0 0
+~
+~
+End
+
+#9595
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9596 0 0
+~
+~
+Door 2 0 0 9594 0 0
+~
+~
+Door 3 0 0 9589 0 0
+~
+~
+End
+
+#9596
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9597 0 0
+~
+~
+Door 2 0 0 9595 0 0
+~
+~
+Door 3 0 0 9588 0 0
+~
+~
+End
+
+#9597
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9598 0 0
+~
+~
+Door 2 0 0 9596 0 0
+~
+~
+Door 3 0 0 9587 0 0
+~
+~
+End
+
+#9598
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9599 0 0
+~
+~
+Door 2 0 0 9597 0 0
+~
+~
+Door 3 0 0 9586 0 0
+~
+~
+End
+
+#9599
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9648 0 0
+~
+~
+Door 1 0 0 9649 0 0
+~
+~
+Door 2 0 0 9598 0 0
+~
+~
+Door 5 259 0 9651 30 30
+~
+stone~
+End
+
+#9600
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 2 0 0 9601 0 0
+~
+~
+Door 3 0 0 9594 0 0
+~
+~
+End
+
+#9601
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9600 0 0
+~
+~
+Door 1 0 0 9602 0 0
+~
+~
+End
+
+#9602
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 2 0 0 9603 0 0
+~
+~
+Door 3 0 0 9601 0 0
+~
+~
+End
+
+#9603
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9602 0 0
+~
+~
+Door 2 0 0 9604 0 0
+~
+~
+End
+
+#9604
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9603 0 0
+~
+~
+Door 2 0 0 9605 0 0
+~
+~
+End
+
+#9605
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9604 0 0
+~
+~
+Door 2 0 0 9606 0 0
+~
+~
+End
+
+#9606
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9605 0 0
+~
+~
+Door 2 0 0 9607 0 0
+~
+~
+End
+
+#9607
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9606 0 0
+~
+~
+Door 2 0 0 9620 0 0
+~
+~
+Door 3 0 0 9608 0 0
+~
+~
+End
+
+#9608
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9607 0 0
+~
+~
+Door 2 0 0 9609 0 0
+~
+~
+End
+
+#9609
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9608 0 0
+~
+~
+Door 1 0 0 9620 0 0
+~
+~
+Door 2 0 0 9610 0 0
+~
+~
+End
+
+#9610
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9609 0 0
+~
+~
+Door 1 0 0 9616 0 0
+~
+~
+Door 2 0 0 9611 0 0
+~
+~
+Door 3 0 0 9615 0 0
+~
+~
+End
+
+#9611
+Name Beginning of the Badlands~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9610 0 0
+~
+~
+Door 1 0 0 9612 0 0
+~
+~
+Door 2 0 0 9613 0 0
+~
+~
+End
+
+#9612
+Name Beginning of The Badlands~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9616 0 0
+~
+~
+Door 2 0 0 9614 0 0
+~
+~
+Door 3 0 0 9611 0 0
+~
+~
+End
+
+#9613
+Name Before the Taerian Desert~
+Descr
+Venturing through the wastelands has placed you before the great Taerian
+desert. Rolling sand dunes and unbareable heat are all that await you if you
+dare to travel past this point. 
+~
+Door 0 0 0 9611 0 0
+~
+~
+Door 1 0 0 9614 0 0
+~
+~
+Door 2 0 0 28910 0 0
+~
+~
+End
+
+#9614
+Name Before the Taerian Desert~
+Descr
+Venturing through the wastelands has placed you before the great Taerian
+desert. Rolling sand dunes and unbareable heat are all that await you if you
+dare to travel past this point. 
+~
+Door 0 0 0 9612 0 0
+~
+~
+Door 2 0 0 28909 0 0
+~
+~
+Door 3 0 0 9613 0 0
+~
+~
+End
+
+#9615
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9610 0 0
+~
+~
+End
+
+#9616
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9620 0 0
+~
+~
+Door 1 0 0 9618 0 0
+~
+~
+Door 2 0 0 9612 0 0
+~
+~
+Door 3 0 0 9610 0 0
+~
+~
+End
+
+#9617
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 3 0 0 9618 0 0
+~
+~
+End
+
+#9618
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9617 0 0
+~
+~
+Door 3 0 0 9616 0 0
+~
+~
+End
+
+#9619
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+End
+
+#9620
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9607 0 0
+~
+~
+Door 1 0 0 9621 0 0
+~
+~
+Door 2 0 0 9616 0 0
+~
+~
+Door 3 0 0 9609 0 0
+~
+~
+End
+
+#9621
+Name A Forgotten Path~
+Descr
+~
+Door 0 0 0 9622 0 0
+~
+~
+Door 3 0 0 9620 0 0
+~
+~
+End
+
+#9622
+Name A Forgotten Path~
+Descr
+~
+Door 1 0 0 9623 0 0
+~
+~
+Door 2 0 0 9621 0 0
+~
+~
+End
+
+#9623
+Name A Forgotten Path~
+Descr
+~
+Door 0 0 0 9624 0 0
+~
+~
+Door 3 0 0 9622 0 0
+~
+~
+End
+
+#9624
+Name A Forgotten Path~
+Descr
+~
+Door 1 0 0 9625 0 0
+~
+~
+Door 2 0 0 9623 0 0
+~
+~
+End
+
+#9625
+Name A Dead End~
+Descr
+~
+Door 3 0 0 9624 0 0
+~
+~
+End
+
+#9626
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9628 0 0
+~
+~
+Door 1 0 0 9548 0 0
+~
+~
+Door 2 0 0 9551 0 0
+~
+~
+Door 3 0 0 9627 0 0
+~
+~
+End
+
+#9627
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9629 0 0
+~
+~
+Door 1 0 0 9626 0 0
+~
+~
+Door 3 0 0 9632 0 0
+~
+~
+End
+
+#9628
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 1 0 0 9530 0 0
+~
+~
+Door 2 0 0 9626 0 0
+~
+~
+Door 3 0 0 9629 0 0
+~
+~
+End
+
+#9629
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 1 0 0 9628 0 0
+~
+~
+Door 2 0 0 9627 0 0
+~
+~
+Door 3 0 0 9630 0 0
+~
+~
+End
+
+#9630
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9631 0 0
+~
+~
+Door 1 0 0 9629 0 0
+~
+~
+Door 2 0 0 9632 0 0
+~
+~
+End
+
+#9631
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 2 0 0 9630 0 0
+~
+~
+Door 3 0 0 9633 0 0
+~
+~
+End
+
+#9632
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 0 0 0 9630 0 0
+~
+~
+Door 1 0 0 9627 0 0
+~
+~
+End
+
+#9633
+Name Some Dry Plains~
+Descr
+The only thing abundant in this field is brown, dry grass. You notice a
+few tumbleweeds rolling by as the gentle breeze pushes them along. Perhaps
+this area isn't so bad after all. 
+~
+Sector 2
+Door 1 0 0 9631 0 0
+~
+~
+End
+
+#9634
+Name Inside A Farm House~
+Descr
+Not much of a house be the old man in front of you is as happy as they
+come. Perhaps he can help you on your journey. 
+~
+Flags 4
+Sector 0
+Reset M 9454 1 100
+Door 2 3 0 9507 30 30
+~
+front door~
+End
+
+#9635
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9636 0 0
+~
+~
+Door 2 0 0 9485 0 0
+~
+~
+Door 3 0 0 9483 0 0
+~
+~
+End
+
+#9636
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9637 0 0
+~
+~
+Door 2 0 0 9635 0 0
+~
+~
+Door 3 0 0 9482 0 0
+~
+~
+End
+
+#9637
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9642 0 0
+~
+~
+Door 2 0 0 9636 0 0
+~
+~
+Door 3 0 0 9481 0 0
+~
+~
+End
+
+#9638
+Name Near A Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9641 0 0
+~
+~
+Door 1 0 0 9481 0 0
+~
+~
+Door 2 0 0 9639 0 0
+~
+~
+End
+
+#9639
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9638 0 0
+~
+~
+Door 1 0 0 9482 0 0
+~
+~
+Door 2 0 0 9640 0 0
+~
+~
+End
+
+#9640
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9639 0 0
+~
+~
+Door 1 0 0 9483 0 0
+~
+~
+End
+
+#9641
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 0 0 0 9643 0 0
+~
+~
+Door 1 0 0 9480 0 0
+~
+~
+Door 2 0 0 9638 0 0
+~
+~
+End
+
+#9642
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 2 0 0 9637 0 0
+~
+~
+Door 3 0 0 9480 0 0
+~
+~
+End
+
+#9643
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 2
+Door 1 0 0 9479 0 0
+~
+~
+Door 2 0 0 9641 0 0
+~
+~
+End
+
+#9644
+Name Near a Stone Road~
+Descr
+Just off the main road you seem to find yourself wishing you had not
+strayed from the path. Perhaps it would be best if you found your way back. 
+~
+Sector 3
+Door 1 0 0 9474 0 0
+~
+~
+End
+
+#9645
+Name A Dark Path~
+Descr
+~
+Door 0 0 0 9646 0 0
+~
+~
+Door 2 0 0 9518 0 0
+~
+~
+End
+
+#9646
+Name A Dark Path~
+Descr
+~
+Door 2 0 0 9645 0 0
+~
+~
+Door 3 0 0 9647 0 0
+~
+~
+End
+
+#9647
+Name A Dark Path~
+Descr
+~
+Door 1 0 0 9646 0 0
+~
+~
+End
+
+#9648
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 1 0 0 9650 0 0
+~
+~
+Door 2 0 0 9599 0 0
+~
+~
+End
+
+#9649
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 0 0 0 9650 0 0
+~
+~
+Door 3 0 0 9599 0 0
+~
+~
+End
+
+#9650
+Name A Forsaken Wasteland~
+Descr
+As you walk through the dust filled wasteland you can't help but see the
+scattered remains of various animals. The further you venture into it the
+more you question your reasons for travelling through this area. 
+~
+Sector 2
+Door 2 0 0 9649 0 0
+~
+~
+Door 3 0 0 9648 0 0
+~
+~
+End
+
+#9651
+Name A Dark Corridor~
+Descr
+A dark and cramped corridor looks as if it was built very recently.
+Perhaps you should find out what or where it leads to. 
+~
+Flags 5
+Door 4 3 0 9599 30 30
+~
+stone~
+Door 5 0 0 9652 0 0
+~
+~
+End
+
+#9652
+Name A Dark Corridor~
+Descr
+A dark and cramped corridor looks as if it was built very recently.
+Perhaps you should find out what or where it leads to. 
+~
+Flags 5
+Door 0 0 0 9653 0 0
+~
+~
+Door 4 0 0 9651 0 0
+~
+~
+End
+
+#9653
+Name A Dark Corridor~
+Descr
+A dark and cramped corridor looks as if it was built very recently.
+Perhaps you should find out what or where it leads to. 
+~
+Flags 5
+Door 0 0 0 13100 0 0
+~
+~
+Door 2 0 0 9652 0 0
+~
+~
+End
+
+#9654
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9467 0 0
+~
+~
+Door 1 0 0 9655 0 0
+~
+~
+Door 2 0 0 9657 0 0
+~
+~
+End
+
+#9655
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 2 0 0 9656 0 0
+~
+~
+Door 3 0 0 9654 0 0
+~
+~
+End
+
+#9656
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9655 0 0
+~
+~
+Door 1 0 0 9658 0 0
+~
+~
+End
+
+#9657
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9654 0 0
+~
+~
+End
+
+#9658
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 2 0 0 9659 0 0
+~
+~
+Door 3 0 0 9656 0 0
+~
+~
+End
+
+#9659
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9658 0 0
+~
+~
+Door 4 259 0 10206 30 30
+~
+void~
+End
+
+#9660
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9663 0 0
+~
+~
+Door 1 0 0 9665 0 0
+~
+~
+Door 2 0 0 9661 0 0
+~
+~
+End
+
+#9661
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9660 0 0
+~
+~
+Door 2 0 0 9662 0 0
+~
+~
+End
+
+#9662
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9661 0 0
+~
+~
+End
+
+#9663
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9664 0 0
+~
+~
+Door 2 0 0 9660 0 0
+~
+~
+End
+
+#9664
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9666 0 0
+~
+~
+Door 2 0 0 9665 0 0
+~
+~
+Door 3 0 0 9663 0 0
+~
+~
+End
+
+#9665
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Door 0 0 0 9664 0 0
+~
+~
+Door 3 0 0 9660 0 0
+~
+~
+End
+
+#9666
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 3 0 0 9664 0 0
+~
+~
+End
+
+#9351
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 94456 0 0
+~
+~
+Door 2 0 0 9352 0 0
+~
+~
+End
+
+#9352
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9351 0 0
+~
+~
+Door 2 0 0 9354 0 0
+~
+~
+Door 3 0 0 9353 0 0
+~
+~
+End
+
+#9353
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 1 0 0 9352 0 0
+~
+~
+Door 2 0 0 9356 0 0
+~
+~
+End
+
+#9354
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Sector 3
+Door 0 0 0 9352 0 0
+~
+~
+Door 1 0 0 9355 0 0
+~
+~
+End
+
+#9355
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Sector 3
+Reset M 9352 1 100
+Door 3 0 0 9354 0 0
+~
+~
+End
+
+#9356
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9353 0 0
+~
+~
+Door 2 0 0 9357 0 0
+~
+~
+End
+
+#9357
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9356 0 0
+~
+~
+Door 1 0 0 9358 0 0
+~
+~
+Door 3 0 0 9359 0 0
+~
+~
+End
+
+#9358
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 2 0 0 9368 0 0
+~
+~
+Door 3 0 0 9357 0 0
+~
+~
+End
+
+#9359
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 1 0 0 9357 0 0
+~
+~
+Door 3 0 0 9360 0 0
+~
+~
+End
+
+#9360
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 0 0 0 9361 0 0
+~
+~
+Door 1 0 0 9359 0 0
+~
+~
+Door 2 0 0 9362 0 0
+~
+~
+End
+
+#9361
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Reset M 9351 1 100
+Door 2 0 0 9360 0 0
+~
+~
+End
+
+#9362
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 0 0 0 9360 0 0
+~
+~
+Door 2 0 0 9364 0 0
+~
+~
+Door 3 0 0 9363 0 0
+~
+~
+End
+
+#9363
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Reset M 9351 1 100
+Door 1 0 0 9362 0 0
+~
+~
+Door 2 0 0 9365 0 0
+~
+~
+End
+
+#9364
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 0 0 0 9362 0 0
+~
+~
+Door 2 0 0 9366 0 0
+~
+~
+Door 3 0 0 9365 0 0
+~
+~
+End
+
+#9365
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 0 0 0 9363 0 0
+~
+~
+Door 1 0 0 9364 0 0
+~
+~
+Door 3 0 0 9367 0 0
+~
+~
+End
+
+#9366
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 0 0 0 9364 0 0
+~
+~
+End
+
+#9367
+Name Dense Forest~
+Descr
+Huge trees block most of the sunlight you had been enjoying on the road.
+You can hear a few sounds off in the distance that sound like nothing you've
+ever heard before. Perhaps you should find your way back to there. 
+~
+Sector 3
+Door 1 0 0 9365 0 0
+~
+~
+Door 2 0 0 9386 0 0
+~
+~
+End
+
+#9368
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9358 0 0
+~
+~
+Door 2 0 0 9369 0 0
+~
+~
+End
+
+#9369
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9368 0 0
+~
+~
+Door 1 0 0 9370 0 0
+~
+~
+End
+
+#9370
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 1 0 0 9372 0 0
+~
+~
+Door 2 0 0 9371 0 0
+~
+~
+Door 3 0 0 9369 0 0
+~
+~
+End
+
+#9371
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 9370 0 0
+~
+~
+Door 1 0 0 9373 0 0
+~
+~
+Door 2 0 0 9467 0 0
+~
+~
+Door 3 0 0 9384 0 0
+~
+~
+End
+
+#9372
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9374 0 0
+~
+~
+Door 2 0 0 9373 0 0
+~
+~
+Door 3 0 0 9370 0 0
+~
+~
+End
+
+#9373
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9372 0 0
+~
+~
+Door 1 0 0 9383 0 0
+~
+~
+Door 3 0 0 9371 0 0
+~
+~
+End
+
+#9374
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9375 0 0
+~
+~
+Door 1 0 0 9377 0 0
+~
+~
+Door 2 0 0 9372 0 0
+~
+~
+End
+
+#9375
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9382 0 0
+~
+~
+Door 2 0 0 9374 0 0
+~
+~
+End
+
+#9376
+Name ~
+Descr
+~
+End
+
+#9377
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9378 0 0
+~
+~
+Door 3 0 0 9374 0 0
+~
+~
+End
+
+#9378
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9379 0 0
+~
+~
+Door 3 0 0 9377 0 0
+~
+~
+End
+
+#9379
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 0 0 0 9380 0 0
+~
+~
+Door 2 0 0 9378 0 0
+~
+~
+End
+
+#9380
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 2 0 0 9379 0 0
+~
+~
+Door 3 0 0 9381 0 0
+~
+~
+End
+
+#9381
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9380 0 0
+~
+~
+Door 3 0 0 9382 0 0
+~
+~
+End
+
+#9382
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9381 0 0
+~
+~
+Door 2 0 0 9375 0 0
+~
+~
+End
+
+#9383
+Name Forest of Pines~
+Descr
+A gentle grove of pine trees grows off the eastern side of the road.
+Judging by the taps sticking out of some of the trees you can see that
+people still use this area to collect sap for their families. 
+~
+Sector 3
+Door 1 0 0 9389 0 0
+~
+~
+Door 3 0 0 9373 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

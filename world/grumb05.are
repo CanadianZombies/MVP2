@@ -1,0 +1,7032 @@
+#AREADATA 
+Name The Hunting Grounds Of Good~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe quiet of the forest is shattered by a large squawk!
+~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Grumble Porthos~
+VNUMs 12100 12399
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#12100
+Name small fox beast~
+Short a small fox~
+Long 
+A small fox scampers about, looking for food.
+~
+Descr
+~
+AMax 5
+NHeight 7
+Money 60
+Level 60
+MobType 6
+Guard 0
+End
+
+#12101
+Name large fox beast~
+Short a large fox~
+Long 
+A large fox wanders here, hunting for prey.
+~
+Descr
+~
+AMax 3
+NHeight 12
+Money 80
+Level 80
+MobType 6
+Guard 0
+End
+
+#12102
+Name large crow~
+Short a large crow~
+Long 
+A large crow is here, resting on a branch.
+~
+Descr
+~
+AMax 3
+NHeight 5
+Money 80
+Level 80
+MobType 13
+Guard 0
+End
+
+#12103
+Name elven hunter~
+Short an elven hunter~
+Long 
+An green-cloaked elf is here, hunting for dinner.
+~
+Descr
+~
+AMax 2
+NHeight 50
+ActBits 1073741824
+Affect_By 512
+Money 101
+Level 101
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+BKicks 1
+BFlurries 1
+End
+
+#12104
+Name vicious wolf~
+Short a vicious wolf~
+Long 
+A large, vicious wolf watches your every move.
+~
+Descr
+~
+AMax 4
+NHeight 20
+ActBits 8
+Affect_By 512
+Money 70
+Level 70
+MobType 6
+Guard 0
+End
+
+#12105
+Name young wolf~
+Short a young wolf~
+Long 
+A young wolf is here, gnawing on a piece of wood.
+~
+Descr
+~
+AMax 5
+NHeight 4
+Money 60
+Level 60
+MobType 6
+Guard 0
+End
+
+#12106
+Name small bear~
+Short a small bear~
+Long 
+A small bear is here, searching for his mother.
+~
+Descr
+~
+AMax 4
+NHeight 30
+Money 70
+Level 70
+Sex 1
+MobType 6
+Guard 0
+End
+
+#12107
+Name large bear~
+Short a large bear~
+Long 
+A large bear is here, searching for her cubs.
+~
+Descr
+~
+AMax 3
+NHeight 80
+Money 80
+Level 80
+Sex 2
+MobType 6
+Guard 0
+End
+
+#12108
+Name heavily armored knight elf~
+Short an armored knight~
+Long 
+A heavily-armored elf is here, searching for dark-elves.
+~
+Descr
+~
+AMax 2
+NHeight 70
+Affect_By 680
+Money 101
+Level 101
+Sex 1
+MobType 1
+Guard 0
+RaceHate 128
+End
+
+#12109
+Name small elven child~
+Short an elven child~
+Long 
+A small elven child wanders around the forest.
+~
+Descr
+~
+AMax 4
+NHeight 40
+Money 60
+Level 60
+MobType 1
+Guard 0
+End
+
+#12110
+Name roc hatchling~
+Short a roc hatchling~
+Long 
+A roc hatchling is here, screeching loudly for its mother!
+~
+Descr
+~
+AMax 3
+NHeight 6
+ActBits 2
+Money 60
+Level 60
+MobType 13
+Guard 0
+End
+
+#12111
+Name enormous roc~
+Short an enormous roc~
+Long 
+An enormous roc is very disturbed by your presence!
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 10
+Affect_By 640
+Money 101
+Level 101
+Sex 2
+MobType 13
+Guard 0
+End
+
+#12112
+Name small kender~
+Short a small kender~
+Long 
+A small kender is here, searching for duergar.
+~
+Descr
+~
+AMax 1
+NHeight 50
+Affect_By 552
+Money 100
+Level 100
+Sex 1
+Guard 0
+RaceHate 32768
+End
+
+#12113
+Name clagen~
+Short clagen~
+Long 
+Clagen is here, keeping watch for evil creatures.
+~
+Descr
+~
+AMax 1
+NHeight 276
+ActBits 2
+Affect_By 554
+Money 135
+Level 135
+Sex 1
+MobType 4
+Guard 0
+RaceHate 134217728
+End
+
+#12240
+Name ticket taker~
+Short a ticket taker~
+Long 
+A ticket taker is sneering at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 520
+Money 400
+Level 400
+MobType 0
+Guard 0
+End
+
+#12250
+Name statue giant~
+Short a giant statue~
+Long 
+A giant statue is here protecting those of pure heart.
+~
+Descr
+~
+Attackmsg chop~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 8712
+Alignment 1000
+Money 180
+Level 180
+Sex 1
+MobType 15
+Guard 0
+Spec spec_warrior
+RaceHate 134217728
+BCasts vulnerability~
+BCasts beam~
+BCast_P 10
+BKicks 1
+BFlurries 1
+End
+
+#0
+
+
+
+#OBJDATA
+#12103
+Name dark green cloak BS~
+Short [0m[37ma [1m[30mdark [0m[32mgreen [0m[37mcloak[0m~
+Descr
+A dark green cloak sits on the ground, abandoned.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 3 1 1 0 0 40 40 0 0
+Weight 1
+Cost 500
+Affect 25 3 1 0 0
+Affect 24 5 1 0 0
+Affect 23 5 1 0 0
+Affect 14 10 1 0 0
+End
+
+#12108
+Name suit silver armor APB~
+Short [0ma suit of [1m[37ms[0m[37mi[1ml[0m[37mv[1me[0m[37mr[0m armor~
+Descr
+A large suit of silver armor sits here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 5 1 0 0 0 45 45 0 0
+Weight 6
+Cost 6000
+Affect 19 1 1 0 0
+Affect 14 10 1 0 0
+Affect 13 10 1 0 0
+End
+
+#12111
+Name gem roc egg large EARTH FIRE AIR DEATH~
+Short [1m[37ma [33mRoc[1m[37m egg[0m~
+Descr
+A rather large egg sits here.
+[0;36m~
+Type 21
+Extra 1025
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 23 75 75 45 0 0 0 0 0 0
+Weight 1
+Cost 1833
+Affect 27 2 1 0 0
+Affect 26 2 1 0 0
+End
+
+#12113
+Name dark iron club APB~
+Short [1m[30ma dark iron club[0m~
+Descr
+A large club made of blackened iron lies here.
+[0;36m~
+Type 5
+Extra 537395202
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 8 0 0 0 2 10 0
+Weight 4
+Cost 2633
+Affect 19 1 1 0 0
+End
+
+#12114
+Name dark iron greaves~
+Short [1m[30msome dark iron greaves[0m~
+Descr
+A pair of greaves formed from iron rest here.
+[0;36m~
+Type 9
+Extra 2
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 50 50 0 0
+Weight 4
+Cost 1000
+Affect 17 -2 1 0 0
+Affect 18 2 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#12100
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12101 0 0
+~
+~
+Door 2 0 0 12139 0 0
+~
+~
+End
+
+#12101
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12102 0 0
+~
+~
+Door 2 0 0 12138 0 0
+~
+~
+Door 3 0 0 12100 0 0
+~
+~
+End
+
+#12102
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12103 0 0
+~
+~
+Door 2 0 0 12137 0 0
+~
+~
+Door 3 0 0 12101 0 0
+~
+~
+End
+
+#12103
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12104 0 0
+~
+~
+Door 2 0 0 12136 0 0
+~
+~
+Door 3 0 0 12102 0 0
+~
+~
+End
+
+#12104
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12105 0 0
+~
+~
+Door 2 0 0 12135 0 0
+~
+~
+Door 3 0 0 12103 0 0
+~
+~
+End
+
+#12105
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12106 0 0
+~
+~
+Door 2 0 0 12134 0 0
+~
+~
+Door 3 0 0 12104 0 0
+~
+~
+End
+
+#12106
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12107 0 0
+~
+~
+Door 2 0 0 12133 0 0
+~
+~
+Door 3 0 0 12105 0 0
+~
+~
+End
+
+#12107
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12108 0 0
+~
+~
+Door 2 0 0 12132 0 0
+~
+~
+Door 3 0 0 12106 0 0
+~
+~
+End
+
+#12108
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12109 0 0
+~
+~
+Door 2 0 0 12131 0 0
+~
+~
+Door 3 0 0 12107 0 0
+~
+~
+End
+
+#12109
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12110 0 0
+~
+~
+Door 2 0 0 12130 0 0
+~
+~
+Door 3 0 0 12108 0 0
+~
+~
+End
+
+#12110
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12111 0 0
+~
+~
+Door 2 0 0 12129 0 0
+~
+~
+Door 3 0 0 12109 0 0
+~
+~
+End
+
+#12111
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12112 0 0
+~
+~
+Door 2 0 0 12128 0 0
+~
+~
+Door 3 0 0 12110 0 0
+~
+~
+End
+
+#12112
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12113 0 0
+~
+~
+Door 2 0 0 12127 0 0
+~
+~
+Door 3 0 0 12111 0 0
+~
+~
+End
+
+#12113
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12114 0 0
+~
+~
+Door 2 0 0 12126 0 0
+~
+~
+Door 3 0 0 12112 0 0
+~
+~
+End
+
+#12114
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12115 0 0
+~
+~
+Door 2 0 0 12125 0 0
+~
+~
+Door 3 0 0 12113 0 0
+~
+~
+End
+
+#12115
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12116 0 0
+~
+~
+Door 2 0 0 12124 0 0
+~
+~
+Door 3 0 0 12114 0 0
+~
+~
+End
+
+#12116
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12117 0 0
+~
+~
+Door 2 0 0 12123 0 0
+~
+~
+Door 3 0 0 12115 0 0
+~
+~
+End
+
+#12117
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12118 0 0
+~
+~
+Door 2 0 0 12122 0 0
+~
+~
+Door 3 0 0 12116 0 0
+~
+~
+End
+
+#12118
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 1 0 0 12119 0 0
+~
+~
+Door 2 0 0 12121 0 0
+~
+~
+Door 3 0 0 12117 0 0
+~
+~
+End
+
+#12119
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 2 0 0 12120 0 0
+~
+~
+Door 3 0 0 12118 0 0
+~
+~
+End
+
+#12120
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12119 0 0
+~
+~
+Door 2 0 0 12159 0 0
+~
+~
+Door 3 0 0 12121 0 0
+~
+~
+End
+
+#12121
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12118 0 0
+~
+~
+Door 1 0 0 12120 0 0
+~
+~
+Door 2 0 0 12158 0 0
+~
+~
+Door 3 0 0 12122 0 0
+~
+~
+End
+
+#12122
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12117 0 0
+~
+~
+Door 1 0 0 12121 0 0
+~
+~
+Door 2 0 0 12157 0 0
+~
+~
+Door 3 0 0 12123 0 0
+~
+~
+End
+
+#12123
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12116 0 0
+~
+~
+Door 1 0 0 12122 0 0
+~
+~
+Door 2 0 0 12156 0 0
+~
+~
+Door 3 0 0 12124 0 0
+~
+~
+End
+
+#12124
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12115 0 0
+~
+~
+Door 1 0 0 12123 0 0
+~
+~
+Door 2 0 0 12155 0 0
+~
+~
+Door 3 0 0 12125 0 0
+~
+~
+End
+
+#12125
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12114 0 0
+~
+~
+Door 1 0 0 12124 0 0
+~
+~
+Door 2 0 0 12154 0 0
+~
+~
+Door 3 0 0 12126 0 0
+~
+~
+End
+
+#12126
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12113 0 0
+~
+~
+Door 1 0 0 12125 0 0
+~
+~
+Door 2 0 0 12153 0 0
+~
+~
+Door 3 0 0 12127 0 0
+~
+~
+End
+
+#12127
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12112 0 0
+~
+~
+Door 1 0 0 12126 0 0
+~
+~
+Door 2 0 0 12152 0 0
+~
+~
+Door 3 0 0 12128 0 0
+~
+~
+End
+
+#12128
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12111 0 0
+~
+~
+Door 1 0 0 12127 0 0
+~
+~
+Door 2 0 0 12151 0 0
+~
+~
+Door 3 0 0 12129 0 0
+~
+~
+End
+
+#12129
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12110 0 0
+~
+~
+Door 1 0 0 12128 0 0
+~
+~
+Door 2 0 0 12150 0 0
+~
+~
+Door 3 0 0 12130 0 0
+~
+~
+End
+
+#12130
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12109 0 0
+~
+~
+Door 1 0 0 12129 0 0
+~
+~
+Door 2 0 0 12149 0 0
+~
+~
+Door 3 0 0 12131 0 0
+~
+~
+End
+
+#12131
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12108 0 0
+~
+~
+Door 1 0 0 12130 0 0
+~
+~
+Door 2 0 0 12148 0 0
+~
+~
+Door 3 0 0 12132 0 0
+~
+~
+End
+
+#12132
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12107 0 0
+~
+~
+Door 1 0 0 12131 0 0
+~
+~
+Door 2 0 0 12147 0 0
+~
+~
+Door 3 0 0 12133 0 0
+~
+~
+End
+
+#12133
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12106 0 0
+~
+~
+Door 1 0 0 12132 0 0
+~
+~
+Door 2 0 0 12146 0 0
+~
+~
+Door 3 0 0 12134 0 0
+~
+~
+End
+
+#12134
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12105 0 0
+~
+~
+Door 1 0 0 12133 0 0
+~
+~
+Door 2 0 0 12145 0 0
+~
+~
+Door 3 0 0 12135 0 0
+~
+~
+End
+
+#12135
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12104 0 0
+~
+~
+Door 1 0 0 12134 0 0
+~
+~
+Door 2 0 0 12144 0 0
+~
+~
+Door 3 0 0 12136 0 0
+~
+~
+End
+
+#12136
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12103 0 0
+~
+~
+Door 1 0 0 12135 0 0
+~
+~
+Door 2 0 0 12143 0 0
+~
+~
+Door 3 0 0 12137 0 0
+~
+~
+End
+
+#12137
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12102 0 0
+~
+~
+Door 1 0 0 12136 0 0
+~
+~
+Door 2 0 0 12142 0 0
+~
+~
+Door 3 0 0 12138 0 0
+~
+~
+End
+
+#12138
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12101 0 0
+~
+~
+Door 1 0 0 12137 0 0
+~
+~
+Door 2 0 0 12141 0 0
+~
+~
+Door 3 0 0 12139 0 0
+~
+~
+End
+
+#12139
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12100 0 0
+~
+~
+Door 1 0 0 12138 0 0
+~
+~
+Door 2 0 0 12140 0 0
+~
+~
+End
+
+#12140
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12139 0 0
+~
+~
+Door 1 0 0 12141 0 0
+~
+~
+Door 2 0 0 12179 0 0
+~
+~
+End
+
+#12141
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12138 0 0
+~
+~
+Door 1 0 0 12142 0 0
+~
+~
+Door 2 0 0 12178 0 0
+~
+~
+Door 3 0 0 12140 0 0
+~
+~
+End
+
+#12142
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12137 0 0
+~
+~
+Door 1 0 0 12143 0 0
+~
+~
+Door 2 0 0 12177 0 0
+~
+~
+Door 3 0 0 12141 0 0
+~
+~
+End
+
+#12143
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12136 0 0
+~
+~
+Door 1 0 0 12144 0 0
+~
+~
+Door 2 0 0 12176 0 0
+~
+~
+Door 3 0 0 12142 0 0
+~
+~
+End
+
+#12144
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12135 0 0
+~
+~
+Door 1 0 0 12145 0 0
+~
+~
+Door 2 0 0 12175 0 0
+~
+~
+Door 3 0 0 12143 0 0
+~
+~
+End
+
+#12145
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12134 0 0
+~
+~
+Door 1 0 0 12146 0 0
+~
+~
+Door 2 0 0 12174 0 0
+~
+~
+Door 3 0 0 12144 0 0
+~
+~
+End
+
+#12146
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12133 0 0
+~
+~
+Door 1 0 0 12147 0 0
+~
+~
+Door 2 0 0 12173 0 0
+~
+~
+Door 3 0 0 12145 0 0
+~
+~
+End
+
+#12147
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12132 0 0
+~
+~
+Door 1 0 0 12148 0 0
+~
+~
+Door 2 0 0 12172 0 0
+~
+~
+Door 3 0 0 12146 0 0
+~
+~
+End
+
+#12148
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12106 4 100
+Door 0 0 0 12131 0 0
+~
+~
+Door 1 0 0 12149 0 0
+~
+~
+Door 2 0 0 12171 0 0
+~
+~
+Door 3 0 0 12147 0 0
+~
+~
+End
+
+#12149
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12130 0 0
+~
+~
+Door 1 0 0 12150 0 0
+~
+~
+Door 2 0 0 12170 0 0
+~
+~
+Door 3 0 0 12148 0 0
+~
+~
+End
+
+#12150
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12129 0 0
+~
+~
+Door 1 0 0 12151 0 0
+~
+~
+Door 2 0 0 12169 0 0
+~
+~
+Door 3 0 0 12149 0 0
+~
+~
+End
+
+#12151
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12109 4 100
+Door 0 0 0 12128 0 0
+~
+~
+Door 1 0 0 12152 0 0
+~
+~
+Door 2 0 0 12168 0 0
+~
+~
+Door 3 0 0 12150 0 0
+~
+~
+End
+
+#12152
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12127 0 0
+~
+~
+Door 1 0 0 12153 0 0
+~
+~
+Door 2 0 0 12167 0 0
+~
+~
+Door 3 0 0 12151 0 0
+~
+~
+End
+
+#12153
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12126 0 0
+~
+~
+Door 1 0 0 12154 0 0
+~
+~
+Door 2 0 0 12166 0 0
+~
+~
+Door 3 0 0 12152 0 0
+~
+~
+End
+
+#12154
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12125 0 0
+~
+~
+Door 1 0 0 12155 0 0
+~
+~
+Door 2 0 0 12165 0 0
+~
+~
+Door 3 0 0 12153 0 0
+~
+~
+End
+
+#12155
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12124 0 0
+~
+~
+Door 1 0 0 12156 0 0
+~
+~
+Door 2 0 0 12164 0 0
+~
+~
+Door 3 0 0 12154 0 0
+~
+~
+End
+
+#12156
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12123 0 0
+~
+~
+Door 1 0 0 12157 0 0
+~
+~
+Door 2 0 0 12163 0 0
+~
+~
+Door 3 0 0 12155 0 0
+~
+~
+End
+
+#12157
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12122 0 0
+~
+~
+Door 1 0 0 12158 0 0
+~
+~
+Door 2 0 0 12162 0 0
+~
+~
+Door 3 0 0 12156 0 0
+~
+~
+End
+
+#12158
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12121 0 0
+~
+~
+Door 1 0 0 12159 0 0
+~
+~
+Door 2 0 0 12161 0 0
+~
+~
+Door 3 0 0 12157 0 0
+~
+~
+End
+
+#12159
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12120 0 0
+~
+~
+Door 2 0 0 12160 0 0
+~
+~
+Door 3 0 0 12158 0 0
+~
+~
+End
+
+#12160
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12159 0 0
+~
+~
+Door 2 0 0 12199 0 0
+~
+~
+Door 3 0 0 12161 0 0
+~
+~
+End
+
+#12161
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12158 0 0
+~
+~
+Door 1 0 0 12160 0 0
+~
+~
+Door 2 0 0 12198 0 0
+~
+~
+Door 3 0 0 12162 0 0
+~
+~
+End
+
+#12162
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12157 0 0
+~
+~
+Door 1 0 0 12161 0 0
+~
+~
+Door 2 0 0 12197 0 0
+~
+~
+Door 3 0 0 12163 0 0
+~
+~
+End
+
+#12163
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12156 0 0
+~
+~
+Door 1 0 0 12162 0 0
+~
+~
+Door 2 0 0 12196 0 0
+~
+~
+Door 3 0 0 12164 0 0
+~
+~
+End
+
+#12164
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12155 0 0
+~
+~
+Door 1 0 0 12163 0 0
+~
+~
+Door 2 0 0 12195 0 0
+~
+~
+Door 3 0 0 12165 0 0
+~
+~
+End
+
+#12165
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12154 0 0
+~
+~
+Door 1 0 0 12164 0 0
+~
+~
+Door 2 0 0 12194 0 0
+~
+~
+Door 3 0 0 12166 0 0
+~
+~
+End
+
+#12166
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12153 0 0
+~
+~
+Door 1 0 0 12165 0 0
+~
+~
+Door 2 0 0 12193 0 0
+~
+~
+Door 3 0 0 12167 0 0
+~
+~
+End
+
+#12167
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12152 0 0
+~
+~
+Door 1 0 0 12166 0 0
+~
+~
+Door 2 0 0 12192 0 0
+~
+~
+Door 3 0 0 12168 0 0
+~
+~
+End
+
+#12168
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12151 0 0
+~
+~
+Door 1 0 0 12167 0 0
+~
+~
+Door 2 0 0 12191 0 0
+~
+~
+Door 3 0 0 12169 0 0
+~
+~
+End
+
+#12169
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12108 2 100
+Reset O 12108 -1 5
+Reset M 12107 3 100
+Door 0 0 0 12150 0 0
+~
+~
+Door 1 0 0 12168 0 0
+~
+~
+Door 2 0 0 12190 0 0
+~
+~
+Door 3 0 0 12170 0 0
+~
+~
+End
+
+#12170
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12149 0 0
+~
+~
+Door 1 0 0 12169 0 0
+~
+~
+Door 2 0 0 12189 0 0
+~
+~
+Door 3 0 0 12171 0 0
+~
+~
+End
+
+#12171
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12148 0 0
+~
+~
+Door 1 0 0 12170 0 0
+~
+~
+Door 2 0 0 12188 0 0
+~
+~
+Door 3 0 0 12172 0 0
+~
+~
+End
+
+#12172
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12147 0 0
+~
+~
+Door 1 0 0 12171 0 0
+~
+~
+Door 2 0 0 12187 0 0
+~
+~
+Door 3 0 0 12173 0 0
+~
+~
+End
+
+#12173
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12101 3 100
+Door 0 0 0 12146 0 0
+~
+~
+Door 1 0 0 12172 0 0
+~
+~
+Door 2 0 0 12186 0 0
+~
+~
+Door 3 0 0 12174 0 0
+~
+~
+End
+
+#12174
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12145 0 0
+~
+~
+Door 1 0 0 12173 0 0
+~
+~
+Door 2 0 0 12185 0 0
+~
+~
+Door 3 0 0 12175 0 0
+~
+~
+End
+
+#12175
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12144 0 0
+~
+~
+Door 1 0 0 12174 0 0
+~
+~
+Door 2 0 0 12184 0 0
+~
+~
+Door 3 0 0 12176 0 0
+~
+~
+End
+
+#12176
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12143 0 0
+~
+~
+Door 1 0 0 12175 0 0
+~
+~
+Door 2 0 0 12183 0 0
+~
+~
+Door 3 0 0 12177 0 0
+~
+~
+End
+
+#12177
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12142 0 0
+~
+~
+Door 1 0 0 12176 0 0
+~
+~
+Door 2 0 0 12182 0 0
+~
+~
+Door 3 0 0 12178 0 0
+~
+~
+End
+
+#12178
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12141 0 0
+~
+~
+Door 1 0 0 12177 0 0
+~
+~
+Door 2 0 0 12181 0 0
+~
+~
+Door 3 0 0 12179 0 0
+~
+~
+End
+
+#12179
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12140 0 0
+~
+~
+Door 1 0 0 12178 0 0
+~
+~
+Door 2 0 0 12180 0 0
+~
+~
+End
+
+#12180
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12179 0 0
+~
+~
+Door 1 0 0 12181 0 0
+~
+~
+Door 2 0 0 12219 0 0
+~
+~
+End
+
+#12181
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12178 0 0
+~
+~
+Door 1 0 0 12182 0 0
+~
+~
+Door 2 0 0 12218 0 0
+~
+~
+Door 3 0 0 12180 0 0
+~
+~
+End
+
+#12182
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12177 0 0
+~
+~
+Door 1 0 0 12183 0 0
+~
+~
+Door 2 0 0 12217 0 0
+~
+~
+Door 3 0 0 12181 0 0
+~
+~
+End
+
+#12183
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12100 5 100
+Door 0 0 0 12176 0 0
+~
+~
+Door 1 0 0 12184 0 0
+~
+~
+Door 2 0 0 12216 0 0
+~
+~
+Door 3 0 0 12182 0 0
+~
+~
+End
+
+#12184
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12175 0 0
+~
+~
+Door 1 0 0 12185 0 0
+~
+~
+Door 2 0 0 12215 0 0
+~
+~
+Door 3 0 0 12183 0 0
+~
+~
+End
+
+#12185
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12174 0 0
+~
+~
+Door 1 0 0 12186 0 0
+~
+~
+Door 2 0 0 12214 0 0
+~
+~
+Door 3 0 0 12184 0 0
+~
+~
+End
+
+#12186
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12173 0 0
+~
+~
+Door 1 0 0 12187 0 0
+~
+~
+Door 2 0 0 12213 0 0
+~
+~
+Door 3 0 0 12185 0 0
+~
+~
+End
+
+#12187
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12172 0 0
+~
+~
+Door 1 0 0 12188 0 0
+~
+~
+Door 2 0 0 12212 0 0
+~
+~
+Door 3 0 0 12186 0 0
+~
+~
+End
+
+#12188
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12100 5 100
+Door 0 0 0 12171 0 0
+~
+~
+Door 1 0 0 12189 0 0
+~
+~
+Door 2 0 0 12211 0 0
+~
+~
+Door 3 0 0 12187 0 0
+~
+~
+End
+
+#12189
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12170 0 0
+~
+~
+Door 1 0 0 12190 0 0
+~
+~
+Door 2 0 0 12210 0 0
+~
+~
+Door 3 0 0 12188 0 0
+~
+~
+End
+
+#12190
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12169 0 0
+~
+~
+Door 1 0 0 12191 0 0
+~
+~
+Door 2 0 0 12209 0 0
+~
+~
+Door 3 0 0 12189 0 0
+~
+~
+End
+
+#12191
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12168 0 0
+~
+~
+Door 1 0 0 12192 0 0
+~
+~
+Door 2 0 0 12208 0 0
+~
+~
+Door 3 0 0 12190 0 0
+~
+~
+End
+
+#12192
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12167 0 0
+~
+~
+Door 1 0 0 12193 0 0
+~
+~
+Door 2 0 0 12207 0 0
+~
+~
+Door 3 0 0 12191 0 0
+~
+~
+End
+
+#12193
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12166 0 0
+~
+~
+Door 1 0 0 12194 0 0
+~
+~
+Door 2 0 0 12206 0 0
+~
+~
+Door 3 0 0 12192 0 0
+~
+~
+End
+
+#12194
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12165 0 0
+~
+~
+Door 1 0 0 12195 0 0
+~
+~
+Door 2 0 0 12205 0 0
+~
+~
+Door 3 0 0 12193 0 0
+~
+~
+End
+
+#12195
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12164 0 0
+~
+~
+Door 1 0 0 12196 0 0
+~
+~
+Door 2 0 0 12204 0 0
+~
+~
+Door 3 0 0 12194 0 0
+~
+~
+End
+
+#12196
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12163 0 0
+~
+~
+Door 1 0 0 12197 0 0
+~
+~
+Door 2 0 0 12203 0 0
+~
+~
+Door 3 0 0 12195 0 0
+~
+~
+End
+
+#12197
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12162 0 0
+~
+~
+Door 1 0 0 12198 0 0
+~
+~
+Door 2 0 0 12202 0 0
+~
+~
+Door 3 0 0 12196 0 0
+~
+~
+End
+
+#12198
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12161 0 0
+~
+~
+Door 1 0 0 12199 0 0
+~
+~
+Door 2 0 0 12201 0 0
+~
+~
+Door 3 0 0 12197 0 0
+~
+~
+End
+
+#12199
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12160 0 0
+~
+~
+Door 2 0 0 12200 0 0
+~
+~
+Door 3 0 0 12198 0 0
+~
+~
+End
+
+#12200
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12199 0 0
+~
+~
+Door 2 0 0 12239 0 0
+~
+~
+Door 3 0 0 12201 0 0
+~
+~
+End
+
+#12201
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12198 0 0
+~
+~
+Door 1 0 0 12200 0 0
+~
+~
+Door 2 0 0 12238 0 0
+~
+~
+Door 3 0 0 12202 0 0
+~
+~
+End
+
+#12202
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12197 0 0
+~
+~
+Door 1 0 0 12201 0 0
+~
+~
+Door 2 0 0 12237 0 0
+~
+~
+Door 3 0 0 12203 0 0
+~
+~
+End
+
+#12203
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12196 0 0
+~
+~
+Door 1 0 0 12202 0 0
+~
+~
+Door 2 0 0 12236 0 0
+~
+~
+Door 3 0 0 12204 0 0
+~
+~
+End
+
+#12204
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12104 4 100
+Door 0 0 0 12195 0 0
+~
+~
+Door 1 0 0 12203 0 0
+~
+~
+Door 2 0 0 12235 0 0
+~
+~
+Door 3 0 0 12205 0 0
+~
+~
+End
+
+#12205
+Name Inside a Large Nest~
+Descr
+You are now inside a strange nest, which is enormous. The nest seems to
+be made out of large sticks, leaves and branches of all sorts. Nearby, you
+can here screeching and squawking, but cannot identify the source. 
+~
+Sector 3
+Reset M 12111 1 100
+Reset O 12111 21 10
+Door 0 0 0 12194 0 0
+~
+~
+Door 1 0 0 12204 0 0
+~
+~
+Door 2 0 0 12234 0 0
+~
+~
+Door 3 0 0 12206 0 0
+~
+~
+End
+
+#12206
+Name Inside a Large Nest~
+Descr
+You are now inside a strange nest, which is enormous. The nest seems to
+be made out of large sticks, leaves and branches of all sorts. Nearby, you
+can here screeching and squawking, but cannot identify the source. 
+~
+Sector 3
+Reset M 12110 3 100
+Door 0 0 0 12193 0 0
+~
+~
+Door 1 0 0 12205 0 0
+~
+~
+Door 2 0 0 12233 0 0
+~
+~
+Door 3 0 0 12207 0 0
+~
+~
+End
+
+#12207
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12192 0 0
+~
+~
+Door 1 0 0 12206 0 0
+~
+~
+Door 2 0 0 12232 0 0
+~
+~
+Door 3 0 0 12208 0 0
+~
+~
+End
+
+#12208
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12191 0 0
+~
+~
+Door 1 0 0 12207 0 0
+~
+~
+Door 2 0 0 12231 0 0
+~
+~
+Door 3 0 0 12209 0 0
+~
+~
+End
+
+#12209
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12104 4 100
+Door 0 0 0 12190 0 0
+~
+~
+Door 1 0 0 12208 0 0
+~
+~
+Door 2 0 0 12230 0 0
+~
+~
+Door 3 0 0 12210 0 0
+~
+~
+End
+
+#12210
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12189 0 0
+~
+~
+Door 1 0 0 12209 0 0
+~
+~
+Door 2 0 0 12229 0 0
+~
+~
+Door 3 0 0 12211 0 0
+~
+~
+End
+
+#12211
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12188 0 0
+~
+~
+Door 1 0 0 12210 0 0
+~
+~
+Door 2 0 0 12228 0 0
+~
+~
+Door 3 0 0 12212 0 0
+~
+~
+End
+
+#12212
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12187 0 0
+~
+~
+Door 1 0 0 12211 0 0
+~
+~
+Door 2 0 0 12227 0 0
+~
+~
+Door 3 0 0 12213 0 0
+~
+~
+End
+
+#12213
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12107 3 100
+Door 0 0 0 12186 0 0
+~
+~
+Door 1 0 0 12212 0 0
+~
+~
+Door 2 0 0 12226 0 0
+~
+~
+Door 3 0 0 12214 0 0
+~
+~
+End
+
+#12214
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12185 0 0
+~
+~
+Door 1 0 0 12213 0 0
+~
+~
+Door 2 0 0 12225 0 0
+~
+~
+Door 3 0 0 12215 0 0
+~
+~
+End
+
+#12215
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12184 0 0
+~
+~
+Door 1 0 0 12214 0 0
+~
+~
+Door 2 0 0 12224 0 0
+~
+~
+Door 3 0 0 12216 0 0
+~
+~
+End
+
+#12216
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12183 0 0
+~
+~
+Door 1 0 0 12215 0 0
+~
+~
+Door 2 0 0 12223 0 0
+~
+~
+Door 3 0 0 12217 0 0
+~
+~
+End
+
+#12217
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12182 0 0
+~
+~
+Door 1 0 0 12216 0 0
+~
+~
+Door 2 0 0 12222 0 0
+~
+~
+Door 3 0 0 12218 0 0
+~
+~
+End
+
+#12218
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12181 0 0
+~
+~
+Door 1 0 0 12217 0 0
+~
+~
+Door 2 0 0 12221 0 0
+~
+~
+Door 3 0 0 12219 0 0
+~
+~
+End
+
+#12219
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12180 0 0
+~
+~
+Door 1 0 0 12218 0 0
+~
+~
+Door 2 0 0 12220 0 0
+~
+~
+End
+
+#12220
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12219 0 0
+~
+~
+Door 1 0 0 12221 0 0
+~
+~
+Door 2 0 0 12259 0 0
+~
+~
+End
+
+#12221
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12218 0 0
+~
+~
+Door 1 0 0 12222 0 0
+~
+~
+Door 2 0 0 12258 0 0
+~
+~
+Door 3 0 0 12220 0 0
+~
+~
+End
+
+#12222
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12217 0 0
+~
+~
+Door 1 0 0 12223 0 0
+~
+~
+Door 2 0 0 12257 0 0
+~
+~
+Door 3 0 0 12221 0 0
+~
+~
+End
+
+#12223
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12216 0 0
+~
+~
+Door 1 0 0 12224 0 0
+~
+~
+Door 2 0 0 12256 0 0
+~
+~
+Door 3 0 0 12222 0 0
+~
+~
+End
+
+#12224
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12215 0 0
+~
+~
+Door 1 0 0 12225 0 0
+~
+~
+Door 2 0 0 12255 0 0
+~
+~
+Door 3 0 0 12223 0 0
+~
+~
+End
+
+#12225
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12214 0 0
+~
+~
+Door 1 0 0 12226 0 0
+~
+~
+Door 2 0 0 12254 0 0
+~
+~
+Door 3 0 0 12224 0 0
+~
+~
+End
+
+#12226
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12102 3 100
+Door 0 0 0 12213 0 0
+~
+~
+Door 1 0 0 12227 0 0
+~
+~
+Door 2 0 0 12253 0 0
+~
+~
+Door 3 0 0 12225 0 0
+~
+~
+End
+
+#12227
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12212 0 0
+~
+~
+Door 1 0 0 12228 0 0
+~
+~
+Door 2 0 0 12252 0 0
+~
+~
+Door 3 0 0 12226 0 0
+~
+~
+End
+
+#12228
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12211 0 0
+~
+~
+Door 1 0 0 12229 0 0
+~
+~
+Door 2 0 0 12251 0 0
+~
+~
+Door 3 0 0 12227 0 0
+~
+~
+End
+
+#12229
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12210 0 0
+~
+~
+Door 1 0 0 12230 0 0
+~
+~
+Door 2 0 0 12250 0 0
+~
+~
+Door 3 0 0 12228 0 0
+~
+~
+End
+
+#12230
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12209 0 0
+~
+~
+Door 1 0 0 12231 0 0
+~
+~
+Door 2 0 0 12249 0 0
+~
+~
+Door 3 0 0 12229 0 0
+~
+~
+End
+
+#12231
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12100 5 100
+Door 0 0 0 12208 0 0
+~
+~
+Door 1 0 0 12232 0 0
+~
+~
+Door 2 0 0 12248 0 0
+~
+~
+Door 3 0 0 12230 0 0
+~
+~
+End
+
+#12232
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12109 4 100
+Door 0 0 0 12207 0 0
+~
+~
+Door 1 0 0 12233 0 0
+~
+~
+Door 2 0 0 12247 0 0
+~
+~
+Door 3 0 0 12231 0 0
+~
+~
+End
+
+#12233
+Name Inside a Large Nest~
+Descr
+You are now inside a strange nest, which is enormous. The nest seems to
+be made out of large sticks, leaves and branches of all sorts. Nearby, you
+can here screeching and squawking, but cannot identify the source. 
+~
+Sector 3
+Reset M 12110 3 100
+Door 0 0 0 12206 0 0
+~
+~
+Door 1 0 0 12234 0 0
+~
+~
+Door 2 0 0 12246 0 0
+~
+~
+Door 3 0 0 12232 0 0
+~
+~
+End
+
+#12234
+Name Inside a Large Nest~
+Descr
+You are now inside a strange nest, which is enormous. The nest seems to
+be made out of large sticks, leaves and branches of all sorts. Nearby, you
+can here screeching and squawking, but cannot identify the source. 
+~
+Sector 3
+Reset M 12110 3 100
+Door 0 0 0 12205 0 0
+~
+~
+Door 1 0 0 12235 0 0
+~
+~
+Door 2 0 0 12245 0 0
+~
+~
+Door 3 0 0 12233 0 0
+~
+~
+End
+
+#12235
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12100 5 100
+Door 0 0 0 12204 0 0
+~
+~
+Door 1 0 0 12236 0 0
+~
+~
+Door 2 0 0 12244 0 0
+~
+~
+Door 3 0 0 12234 0 0
+~
+~
+End
+
+#12236
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12203 0 0
+~
+~
+Door 1 0 0 12237 0 0
+~
+~
+Door 2 0 0 12243 0 0
+~
+~
+Door 3 0 0 12235 0 0
+~
+~
+End
+
+#12237
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12202 0 0
+~
+~
+Door 1 0 0 12238 0 0
+~
+~
+Door 2 0 0 12242 0 0
+~
+~
+Door 3 0 0 12236 0 0
+~
+~
+End
+
+#12238
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12201 0 0
+~
+~
+Door 1 0 0 12239 0 0
+~
+~
+Door 3 0 0 12237 0 0
+~
+~
+End
+
+#12239
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12200 0 0
+~
+~
+Door 3 0 0 12238 0 0
+~
+~
+End
+
+#12240
+Name A Dock~
+Descr
+You are standing on the dock to the river ferry. The ticket taker is
+staring at you with a look of disgust.
+ 
+The ticket taker mumbles something about landlubbers.
+~
+Reset M 12240 1 100
+Door 1 258 0 4939 30 30
+~
+~
+Door 3 0 0 12241 0 0
+~
+~
+End
+
+#12241
+Name A Wharf~
+Descr
+You are standing in front of a large wharf. There is a ticket booth which
+seems to sell tickets for a ferry. You suddenly smell something rotten and
+you wonder what else is in the water.
+~
+Flags 2097154
+Reset M 3699 1 100
+Reset O 3699 100 100
+Door 1 0 0 12240 0 0
+~
+~
+Door 3 0 0 12242 0 0
+~
+~
+End
+
+#12242
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12237 0 0
+~
+~
+Door 1 0 0 12241 0 0
+~
+~
+Door 2 0 0 12277 0 0
+~
+~
+Door 3 0 0 12243 0 0
+~
+~
+End
+
+#12243
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12236 0 0
+~
+~
+Door 1 0 0 12242 0 0
+~
+~
+Door 2 0 0 12276 0 0
+~
+~
+Door 3 0 0 12244 0 0
+~
+~
+End
+
+#12244
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12235 0 0
+~
+~
+Door 1 0 0 12243 0 0
+~
+~
+Door 2 0 0 12275 0 0
+~
+~
+Door 3 0 0 12245 0 0
+~
+~
+End
+
+#12245
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12234 0 0
+~
+~
+Door 1 0 0 12244 0 0
+~
+~
+Door 2 0 0 12274 0 0
+~
+~
+Door 3 0 0 12246 0 0
+~
+~
+End
+
+#12246
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12233 0 0
+~
+~
+Door 1 0 0 12245 0 0
+~
+~
+Door 2 0 0 12273 0 0
+~
+~
+Door 3 0 0 12247 0 0
+~
+~
+End
+
+#12247
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12102 3 100
+Door 0 0 0 12232 0 0
+~
+~
+Door 1 0 0 12246 0 0
+~
+~
+Door 2 0 0 12272 0 0
+~
+~
+Door 3 0 0 12248 0 0
+~
+~
+End
+
+#12248
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12231 0 0
+~
+~
+Door 1 0 0 12247 0 0
+~
+~
+Door 2 0 0 12271 0 0
+~
+~
+Door 3 0 0 12249 0 0
+~
+~
+End
+
+#12249
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12113 1 100
+Reset O 12113 -1 5
+Reset O 12114 -1 15
+Door 0 0 0 12230 0 0
+~
+~
+Door 1 0 0 12248 0 0
+~
+~
+Door 2 0 0 12270 0 0
+~
+~
+Door 3 0 0 12250 0 0
+~
+~
+End
+
+#12250
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12250 1 100
+Door 0 0 0 12229 0 0
+~
+~
+Door 1 0 0 12249 0 0
+~
+~
+Door 2 0 0 12269 0 0
+~
+~
+Door 3 0 0 12251 0 0
+~
+~
+End
+
+#12251
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12228 0 0
+~
+~
+Door 1 0 0 12250 0 0
+~
+~
+Door 2 0 0 12268 0 0
+~
+~
+Door 3 0 0 12252 0 0
+~
+~
+End
+
+#12252
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12106 4 100
+Door 0 0 0 12227 0 0
+~
+~
+Door 1 0 0 12251 0 0
+~
+~
+Door 2 0 0 12267 0 0
+~
+~
+Door 3 0 0 12253 0 0
+~
+~
+End
+
+#12253
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12100 5 100
+Door 0 0 0 12226 0 0
+~
+~
+Door 1 0 0 12252 0 0
+~
+~
+Door 2 0 0 12266 0 0
+~
+~
+Door 3 0 0 12254 0 0
+~
+~
+End
+
+#12254
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12103 2 100
+Reset O 12103 4 15
+Door 0 0 0 12225 0 0
+~
+~
+Door 1 0 0 12253 0 0
+~
+~
+Door 2 0 0 12265 0 0
+~
+~
+Door 3 0 0 12255 0 0
+~
+~
+End
+
+#12255
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12224 0 0
+~
+~
+Door 1 0 0 12254 0 0
+~
+~
+Door 2 0 0 12264 0 0
+~
+~
+Door 3 0 0 12256 0 0
+~
+~
+End
+
+#12256
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12223 0 0
+~
+~
+Door 1 0 0 12255 0 0
+~
+~
+Door 2 0 0 12263 0 0
+~
+~
+Door 3 0 0 12257 0 0
+~
+~
+End
+
+#12257
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12222 0 0
+~
+~
+Door 1 0 0 12256 0 0
+~
+~
+Door 2 0 0 12262 0 0
+~
+~
+Door 3 0 0 12258 0 0
+~
+~
+End
+
+#12258
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12221 0 0
+~
+~
+Door 1 0 0 12257 0 0
+~
+~
+Door 2 0 0 12261 0 0
+~
+~
+Door 3 0 0 12259 0 0
+~
+~
+End
+
+#12259
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12220 0 0
+~
+~
+Door 1 0 0 12258 0 0
+~
+~
+Door 2 0 0 12260 0 0
+~
+~
+End
+
+#12260
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12259 0 0
+~
+~
+Door 1 0 0 12261 0 0
+~
+~
+Door 2 0 0 12299 0 0
+~
+~
+End
+
+#12261
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12258 0 0
+~
+~
+Door 1 0 0 12262 0 0
+~
+~
+Door 2 0 0 12298 0 0
+~
+~
+Door 3 0 0 12260 0 0
+~
+~
+End
+
+#12262
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12257 0 0
+~
+~
+Door 1 0 0 12263 0 0
+~
+~
+Door 2 0 0 12297 0 0
+~
+~
+Door 3 0 0 12261 0 0
+~
+~
+End
+
+#12263
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12256 0 0
+~
+~
+Door 1 0 0 12264 0 0
+~
+~
+Door 2 0 0 12296 0 0
+~
+~
+Door 3 0 0 12262 0 0
+~
+~
+End
+
+#12264
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12112 1 100
+Door 0 0 0 12255 0 0
+~
+~
+Door 1 0 0 12265 0 0
+~
+~
+Door 2 0 0 12295 0 0
+~
+~
+Door 3 0 0 12263 0 0
+~
+~
+End
+
+#12265
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12254 0 0
+~
+~
+Door 1 0 0 12266 0 0
+~
+~
+Door 2 0 0 12294 0 0
+~
+~
+Door 3 0 0 12264 0 0
+~
+~
+End
+
+#12266
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12253 0 0
+~
+~
+Door 1 0 0 12267 0 0
+~
+~
+Door 2 0 0 12293 0 0
+~
+~
+Door 3 0 0 12265 0 0
+~
+~
+End
+
+#12267
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12252 0 0
+~
+~
+Door 1 0 0 12268 0 0
+~
+~
+Door 2 0 0 12292 0 0
+~
+~
+Door 3 0 0 12266 0 0
+~
+~
+End
+
+#12268
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12251 0 0
+~
+~
+Door 1 0 0 12269 0 0
+~
+~
+Door 2 0 0 12291 0 0
+~
+~
+Door 3 0 0 12267 0 0
+~
+~
+End
+
+#12269
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12250 0 0
+~
+~
+Door 1 0 0 12270 0 0
+~
+~
+Door 2 0 0 12290 0 0
+~
+~
+Door 3 0 0 12268 0 0
+~
+~
+End
+
+#12270
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12249 0 0
+~
+~
+Door 1 0 0 12271 0 0
+~
+~
+Door 2 0 0 12289 0 0
+~
+~
+Door 3 0 0 12269 0 0
+~
+~
+End
+
+#12271
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12248 0 0
+~
+~
+Door 1 0 0 12272 0 0
+~
+~
+Door 2 0 0 12288 0 0
+~
+~
+Door 3 0 0 12270 0 0
+~
+~
+End
+
+#12272
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12107 3 100
+Door 0 0 0 12247 0 0
+~
+~
+Door 1 0 0 12273 0 0
+~
+~
+Door 2 0 0 12287 0 0
+~
+~
+Door 3 0 0 12271 0 0
+~
+~
+End
+
+#12273
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12246 0 0
+~
+~
+Door 1 0 0 12274 0 0
+~
+~
+Door 2 0 0 12286 0 0
+~
+~
+Door 3 0 0 12272 0 0
+~
+~
+End
+
+#12274
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12101 3 100
+Door 0 0 0 12245 0 0
+~
+~
+Door 1 0 0 12275 0 0
+~
+~
+Door 2 0 0 12285 0 0
+~
+~
+Door 3 0 0 12273 0 0
+~
+~
+End
+
+#12275
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12103 2 100
+Reset O 12103 4 15
+Door 0 0 0 12244 0 0
+~
+~
+Door 1 0 0 12276 0 0
+~
+~
+Door 2 0 0 12284 0 0
+~
+~
+Door 3 0 0 12274 0 0
+~
+~
+End
+
+#12276
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12243 0 0
+~
+~
+Door 1 0 0 12277 0 0
+~
+~
+Door 2 0 0 12283 0 0
+~
+~
+Door 3 0 0 12275 0 0
+~
+~
+End
+
+#12277
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12242 0 0
+~
+~
+Door 1 0 0 12278 0 0
+~
+~
+Door 2 0 0 12282 0 0
+~
+~
+Door 3 0 0 12276 0 0
+~
+~
+End
+
+#12278
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 1 0 0 12279 0 0
+~
+~
+Door 2 0 0 12281 0 0
+~
+~
+Door 3 0 0 12277 0 0
+~
+~
+End
+
+#12279
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 2 0 0 12280 0 0
+~
+~
+Door 3 0 0 12278 0 0
+~
+~
+End
+
+#12280
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12279 0 0
+~
+~
+Door 2 0 0 12319 0 0
+~
+~
+Door 3 0 0 12281 0 0
+~
+~
+End
+
+#12281
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12278 0 0
+~
+~
+Door 1 0 0 12280 0 0
+~
+~
+Door 2 0 0 12318 0 0
+~
+~
+Door 3 0 0 12282 0 0
+~
+~
+End
+
+#12282
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12277 0 0
+~
+~
+Door 1 0 0 12281 0 0
+~
+~
+Door 2 0 0 12317 0 0
+~
+~
+Door 3 0 0 12283 0 0
+~
+~
+End
+
+#12283
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12276 0 0
+~
+~
+Door 1 0 0 12282 0 0
+~
+~
+Door 2 0 0 12316 0 0
+~
+~
+Door 3 0 0 12284 0 0
+~
+~
+End
+
+#12284
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12275 0 0
+~
+~
+Door 1 0 0 12283 0 0
+~
+~
+Door 2 0 0 12315 0 0
+~
+~
+Door 3 0 0 12285 0 0
+~
+~
+End
+
+#12285
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12274 0 0
+~
+~
+Door 1 0 0 12284 0 0
+~
+~
+Door 2 0 0 12314 0 0
+~
+~
+Door 3 0 0 12286 0 0
+~
+~
+End
+
+#12286
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12273 0 0
+~
+~
+Door 1 0 0 12285 0 0
+~
+~
+Door 2 0 0 12313 0 0
+~
+~
+Door 3 0 0 12287 0 0
+~
+~
+End
+
+#12287
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12272 0 0
+~
+~
+Door 1 0 0 12286 0 0
+~
+~
+Door 2 0 0 12312 0 0
+~
+~
+Door 3 0 0 12288 0 0
+~
+~
+End
+
+#12288
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12271 0 0
+~
+~
+Door 1 0 0 12287 0 0
+~
+~
+Door 2 0 0 12311 0 0
+~
+~
+Door 3 0 0 12289 0 0
+~
+~
+End
+
+#12289
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12270 0 0
+~
+~
+Door 1 0 0 12288 0 0
+~
+~
+Door 2 0 0 12310 0 0
+~
+~
+Door 3 0 0 12290 0 0
+~
+~
+End
+
+#12290
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12269 0 0
+~
+~
+Door 1 0 0 12289 0 0
+~
+~
+Door 2 0 0 12309 0 0
+~
+~
+Door 3 0 0 12291 0 0
+~
+~
+End
+
+#12291
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12104 4 100
+Door 0 0 0 12268 0 0
+~
+~
+Door 1 0 0 12290 0 0
+~
+~
+Door 2 0 0 12308 0 0
+~
+~
+Door 3 0 0 12292 0 0
+~
+~
+End
+
+#12292
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12267 0 0
+~
+~
+Door 1 0 0 12291 0 0
+~
+~
+Door 2 0 0 12307 0 0
+~
+~
+Door 3 0 0 12293 0 0
+~
+~
+End
+
+#12293
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12266 0 0
+~
+~
+Door 1 0 0 12292 0 0
+~
+~
+Door 2 0 0 12306 0 0
+~
+~
+Door 3 0 0 12294 0 0
+~
+~
+End
+
+#12294
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12265 0 0
+~
+~
+Door 1 0 0 12293 0 0
+~
+~
+Door 2 0 0 12305 0 0
+~
+~
+Door 3 0 0 12295 0 0
+~
+~
+End
+
+#12295
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12264 0 0
+~
+~
+Door 1 0 0 12294 0 0
+~
+~
+Door 2 0 0 12304 0 0
+~
+~
+Door 3 0 0 12296 0 0
+~
+~
+End
+
+#12296
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12263 0 0
+~
+~
+Door 1 0 0 12295 0 0
+~
+~
+Door 2 0 0 12303 0 0
+~
+~
+Door 3 0 0 12297 0 0
+~
+~
+End
+
+#12297
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12262 0 0
+~
+~
+Door 1 0 0 12296 0 0
+~
+~
+Door 2 0 0 12302 0 0
+~
+~
+Door 3 0 0 12298 0 0
+~
+~
+End
+
+#12298
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12261 0 0
+~
+~
+Door 1 0 0 12297 0 0
+~
+~
+Door 2 0 0 12301 0 0
+~
+~
+Door 3 0 0 12299 0 0
+~
+~
+End
+
+#12299
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12260 0 0
+~
+~
+Door 1 0 0 12298 0 0
+~
+~
+Door 2 0 0 12300 0 0
+~
+~
+End
+
+#12300
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12299 0 0
+~
+~
+Door 1 0 0 12301 0 0
+~
+~
+Door 2 0 0 12339 0 0
+~
+~
+End
+
+#12301
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12298 0 0
+~
+~
+Door 1 0 0 12302 0 0
+~
+~
+Door 2 0 0 12338 0 0
+~
+~
+Door 3 0 0 12300 0 0
+~
+~
+End
+
+#12302
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12297 0 0
+~
+~
+Door 1 0 0 12303 0 0
+~
+~
+Door 2 0 0 12337 0 0
+~
+~
+Door 3 0 0 12301 0 0
+~
+~
+End
+
+#12303
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12296 0 0
+~
+~
+Door 1 0 0 12304 0 0
+~
+~
+Door 2 0 0 12336 0 0
+~
+~
+Door 3 0 0 12302 0 0
+~
+~
+End
+
+#12304
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12295 0 0
+~
+~
+Door 1 0 0 12305 0 0
+~
+~
+Door 2 0 0 12335 0 0
+~
+~
+Door 3 0 0 12303 0 0
+~
+~
+End
+
+#12305
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12109 4 100
+Door 0 0 0 12294 0 0
+~
+~
+Door 1 0 0 12306 0 0
+~
+~
+Door 2 0 0 12334 0 0
+~
+~
+Door 3 0 0 12304 0 0
+~
+~
+End
+
+#12306
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12106 4 100
+Door 0 0 0 12293 0 0
+~
+~
+Door 1 0 0 12307 0 0
+~
+~
+Door 2 0 0 12333 0 0
+~
+~
+Door 3 0 0 12305 0 0
+~
+~
+End
+
+#12307
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12292 0 0
+~
+~
+Door 1 0 0 12308 0 0
+~
+~
+Door 2 0 0 12332 0 0
+~
+~
+Door 3 0 0 12306 0 0
+~
+~
+End
+
+#12308
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12291 0 0
+~
+~
+Door 1 0 0 12309 0 0
+~
+~
+Door 2 0 0 12331 0 0
+~
+~
+Door 3 0 0 12307 0 0
+~
+~
+End
+
+#12309
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12290 0 0
+~
+~
+Door 1 0 0 12310 0 0
+~
+~
+Door 2 0 0 12330 0 0
+~
+~
+Door 3 0 0 12308 0 0
+~
+~
+End
+
+#12310
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12109 4 100
+Door 0 0 0 12289 0 0
+~
+~
+Door 1 0 0 12311 0 0
+~
+~
+Door 2 0 0 12329 0 0
+~
+~
+Door 3 0 0 12309 0 0
+~
+~
+End
+
+#12311
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12288 0 0
+~
+~
+Door 1 0 0 12312 0 0
+~
+~
+Door 2 0 0 12328 0 0
+~
+~
+Door 3 0 0 12310 0 0
+~
+~
+End
+
+#12312
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12106 4 100
+Door 0 0 0 12287 0 0
+~
+~
+Door 1 0 0 12313 0 0
+~
+~
+Door 2 0 0 12327 0 0
+~
+~
+Door 3 0 0 12311 0 0
+~
+~
+End
+
+#12313
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12286 0 0
+~
+~
+Door 1 0 0 12314 0 0
+~
+~
+Door 2 0 0 12326 0 0
+~
+~
+Door 3 0 0 12312 0 0
+~
+~
+End
+
+#12314
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12285 0 0
+~
+~
+Door 1 0 0 12315 0 0
+~
+~
+Door 2 0 0 12325 0 0
+~
+~
+Door 3 0 0 12313 0 0
+~
+~
+End
+
+#12315
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12284 0 0
+~
+~
+Door 1 0 0 12316 0 0
+~
+~
+Door 2 0 0 12324 0 0
+~
+~
+Door 3 0 0 12314 0 0
+~
+~
+End
+
+#12316
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12283 0 0
+~
+~
+Door 1 0 0 12317 0 0
+~
+~
+Door 2 0 0 12323 0 0
+~
+~
+Door 3 0 0 12315 0 0
+~
+~
+End
+
+#12317
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12282 0 0
+~
+~
+Door 1 0 0 12318 0 0
+~
+~
+Door 2 0 0 12322 0 0
+~
+~
+Door 3 0 0 12316 0 0
+~
+~
+End
+
+#12318
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12281 0 0
+~
+~
+Door 1 0 0 12319 0 0
+~
+~
+Door 2 0 0 12321 0 0
+~
+~
+Door 3 0 0 12317 0 0
+~
+~
+End
+
+#12319
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12280 0 0
+~
+~
+Door 2 0 0 12320 0 0
+~
+~
+Door 3 0 0 12318 0 0
+~
+~
+End
+
+#12320
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12319 0 0
+~
+~
+Door 2 0 0 12359 0 0
+~
+~
+Door 3 0 0 12321 0 0
+~
+~
+End
+
+#12321
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12318 0 0
+~
+~
+Door 1 0 0 12320 0 0
+~
+~
+Door 2 0 0 12358 0 0
+~
+~
+Door 3 0 0 12322 0 0
+~
+~
+End
+
+#12322
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12317 0 0
+~
+~
+Door 1 0 0 12321 0 0
+~
+~
+Door 2 0 0 12357 0 0
+~
+~
+Door 3 0 0 12323 0 0
+~
+~
+End
+
+#12323
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12316 0 0
+~
+~
+Door 1 0 0 12322 0 0
+~
+~
+Door 2 0 0 12356 0 0
+~
+~
+Door 3 0 0 12324 0 0
+~
+~
+End
+
+#12324
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12104 4 100
+Door 0 0 0 12315 0 0
+~
+~
+Door 1 0 0 12323 0 0
+~
+~
+Door 2 0 0 12355 0 0
+~
+~
+Door 3 0 0 12325 0 0
+~
+~
+End
+
+#12325
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12314 0 0
+~
+~
+Door 1 0 0 12324 0 0
+~
+~
+Door 2 0 0 12354 0 0
+~
+~
+Door 3 0 0 12326 0 0
+~
+~
+End
+
+#12326
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12313 0 0
+~
+~
+Door 1 0 0 12325 0 0
+~
+~
+Door 2 0 0 12353 0 0
+~
+~
+Door 3 0 0 12327 0 0
+~
+~
+End
+
+#12327
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12312 0 0
+~
+~
+Door 1 0 0 12326 0 0
+~
+~
+Door 2 0 0 12352 0 0
+~
+~
+Door 3 0 0 12328 0 0
+~
+~
+End
+
+#12328
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12311 0 0
+~
+~
+Door 1 0 0 12327 0 0
+~
+~
+Door 2 0 0 12351 0 0
+~
+~
+Door 3 0 0 12329 0 0
+~
+~
+End
+
+#12329
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12310 0 0
+~
+~
+Door 1 0 0 12328 0 0
+~
+~
+Door 2 0 0 12350 0 0
+~
+~
+Door 3 0 0 12330 0 0
+~
+~
+End
+
+#12330
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12309 0 0
+~
+~
+Door 1 0 0 12329 0 0
+~
+~
+Door 2 0 0 12349 0 0
+~
+~
+Door 3 0 0 12331 0 0
+~
+~
+End
+
+#12331
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12108 2 100
+Reset O 12108 -1 5
+Reset M 12101 3 100
+Door 0 0 0 12308 0 0
+~
+~
+Door 1 0 0 12330 0 0
+~
+~
+Door 2 0 0 12348 0 0
+~
+~
+Door 3 0 0 12332 0 0
+~
+~
+End
+
+#12332
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12307 0 0
+~
+~
+Door 1 0 0 12331 0 0
+~
+~
+Door 2 0 0 12347 0 0
+~
+~
+Door 3 0 0 12333 0 0
+~
+~
+End
+
+#12333
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12102 3 100
+Door 0 0 0 12306 0 0
+~
+~
+Door 1 0 0 12332 0 0
+~
+~
+Door 2 0 0 12346 0 0
+~
+~
+Door 3 0 0 12334 0 0
+~
+~
+End
+
+#12334
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12305 0 0
+~
+~
+Door 1 0 0 12333 0 0
+~
+~
+Door 2 0 0 12345 0 0
+~
+~
+Door 3 0 0 12335 0 0
+~
+~
+End
+
+#12335
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12304 0 0
+~
+~
+Door 1 0 0 12334 0 0
+~
+~
+Door 2 0 0 12344 0 0
+~
+~
+Door 3 0 0 12336 0 0
+~
+~
+End
+
+#12336
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12303 0 0
+~
+~
+Door 1 0 0 12335 0 0
+~
+~
+Door 2 0 0 12343 0 0
+~
+~
+Door 3 0 0 12337 0 0
+~
+~
+End
+
+#12337
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12302 0 0
+~
+~
+Door 1 0 0 12336 0 0
+~
+~
+Door 2 0 0 12342 0 0
+~
+~
+Door 3 0 0 12338 0 0
+~
+~
+End
+
+#12338
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12301 0 0
+~
+~
+Door 1 0 0 12337 0 0
+~
+~
+Door 2 0 0 12341 0 0
+~
+~
+Door 3 0 0 12339 0 0
+~
+~
+End
+
+#12339
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12300 0 0
+~
+~
+Door 1 0 0 12338 0 0
+~
+~
+Door 2 0 0 12340 0 0
+~
+~
+End
+
+#12340
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12339 0 0
+~
+~
+Door 1 0 0 12341 0 0
+~
+~
+Door 2 0 0 12379 0 0
+~
+~
+End
+
+#12341
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 6
+Door 0 0 0 12338 0 0
+~
+~
+Door 1 0 0 12342 0 0
+~
+~
+Door 2 0 0 12378 0 0
+~
+~
+Door 3 0 0 12340 0 0
+~
+~
+End
+
+#12342
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12337 0 0
+~
+~
+Door 1 0 0 12343 0 0
+~
+~
+Door 2 0 0 12377 0 0
+~
+~
+Door 3 0 0 12341 0 0
+~
+~
+End
+
+#12343
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12336 0 0
+~
+~
+Door 1 0 0 12344 0 0
+~
+~
+Door 2 0 0 12376 0 0
+~
+~
+Door 3 0 0 12342 0 0
+~
+~
+End
+
+#12344
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12335 0 0
+~
+~
+Door 1 0 0 12345 0 0
+~
+~
+Door 2 0 0 12375 0 0
+~
+~
+Door 3 0 0 12343 0 0
+~
+~
+End
+
+#12345
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12334 0 0
+~
+~
+Door 1 0 0 12346 0 0
+~
+~
+Door 2 0 0 12374 0 0
+~
+~
+Door 3 0 0 12344 0 0
+~
+~
+End
+
+#12346
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12333 0 0
+~
+~
+Door 1 0 0 12347 0 0
+~
+~
+Door 2 0 0 12373 0 0
+~
+~
+Door 3 0 0 12345 0 0
+~
+~
+End
+
+#12347
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12332 0 0
+~
+~
+Door 1 0 0 12348 0 0
+~
+~
+Door 2 0 0 12372 0 0
+~
+~
+Door 3 0 0 12346 0 0
+~
+~
+End
+
+#12348
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12331 0 0
+~
+~
+Door 1 0 0 12349 0 0
+~
+~
+Door 2 0 0 12371 0 0
+~
+~
+Door 3 0 0 12347 0 0
+~
+~
+End
+
+#12349
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12330 0 0
+~
+~
+Door 1 0 0 12350 0 0
+~
+~
+Door 2 0 0 12370 0 0
+~
+~
+Door 3 0 0 12348 0 0
+~
+~
+End
+
+#12350
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12329 0 0
+~
+~
+Door 1 0 0 12351 0 0
+~
+~
+Door 2 0 0 12369 0 0
+~
+~
+Door 3 0 0 12349 0 0
+~
+~
+End
+
+#12351
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12328 0 0
+~
+~
+Door 1 0 0 12352 0 0
+~
+~
+Door 2 0 0 12368 0 0
+~
+~
+Door 3 0 0 12350 0 0
+~
+~
+End
+
+#12352
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12327 0 0
+~
+~
+Door 1 0 0 12353 0 0
+~
+~
+Door 2 0 0 12367 0 0
+~
+~
+Door 3 0 0 12351 0 0
+~
+~
+End
+
+#12353
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12326 0 0
+~
+~
+Door 1 0 0 12354 0 0
+~
+~
+Door 2 0 0 12366 0 0
+~
+~
+Door 3 0 0 12352 0 0
+~
+~
+End
+
+#12354
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Reset M 12105 5 100
+Door 0 0 0 12325 0 0
+~
+~
+Door 1 0 0 12355 0 0
+~
+~
+Door 2 0 0 12365 0 0
+~
+~
+Door 3 0 0 12353 0 0
+~
+~
+End
+
+#12355
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12324 0 0
+~
+~
+Door 1 0 0 12356 0 0
+~
+~
+Door 2 0 0 12364 0 0
+~
+~
+Door 3 0 0 12354 0 0
+~
+~
+End
+
+#12356
+Name The Hunting Grounds Of Good~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 3
+Door 0 0 0 12323 0 0
+~
+~
+Door 1 0 0 12357 0 0
+~
+~
+Door 2 0 0 12363 0 0
+~
+~
+Door 3 0 0 12355 0 0
+~
+~
+End
+
+#12357
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12322 0 0
+~
+~
+Door 1 0 0 12358 0 0
+~
+~
+Door 2 0 0 12362 0 0
+~
+~
+Door 3 0 0 12356 0 0
+~
+~
+End
+
+#12358
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12321 0 0
+~
+~
+Door 1 0 0 12359 0 0
+~
+~
+Door 2 0 0 12361 0 0
+~
+~
+Door 3 0 0 12357 0 0
+~
+~
+End
+
+#12359
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12320 0 0
+~
+~
+Door 2 0 0 12360 0 0
+~
+~
+Door 3 0 0 12358 0 0
+~
+~
+End
+
+#12360
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12359 0 0
+~
+~
+Door 2 0 0 12399 0 0
+~
+~
+Door 3 0 0 12361 0 0
+~
+~
+End
+
+#12361
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 7
+Door 0 0 0 12358 0 0
+~
+~
+Door 1 0 0 12360 0 0
+~
+~
+Door 2 0 0 12398 0 0
+~
+~
+Door 3 0 0 12362 0 0
+~
+~
+End
+
+#12362
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12357 0 0
+~
+~
+Door 1 0 0 12361 0 0
+~
+~
+Door 2 0 0 12397 0 0
+~
+~
+Door 3 0 0 12363 0 0
+~
+~
+End
+
+#12363
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12356 0 0
+~
+~
+Door 1 0 0 12362 0 0
+~
+~
+Door 2 0 0 12396 0 0
+~
+~
+Door 3 0 0 12364 0 0
+~
+~
+End
+
+#12364
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12355 0 0
+~
+~
+Door 1 0 0 12363 0 0
+~
+~
+Door 2 0 0 12395 0 0
+~
+~
+Door 3 0 0 12365 0 0
+~
+~
+End
+
+#12365
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12354 0 0
+~
+~
+Door 1 0 0 12364 0 0
+~
+~
+Door 2 0 0 12394 0 0
+~
+~
+Door 3 0 0 12366 0 0
+~
+~
+End
+
+#12366
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12353 0 0
+~
+~
+Door 1 0 0 12365 0 0
+~
+~
+Door 2 0 0 12393 0 0
+~
+~
+Door 3 0 0 12367 0 0
+~
+~
+End
+
+#12367
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12352 0 0
+~
+~
+Door 1 0 0 12366 0 0
+~
+~
+Door 2 0 0 12392 0 0
+~
+~
+Door 3 0 0 12368 0 0
+~
+~
+End
+
+#12368
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12351 0 0
+~
+~
+Door 1 0 0 12367 0 0
+~
+~
+Door 2 0 0 12391 0 0
+~
+~
+Door 3 0 0 12369 0 0
+~
+~
+End
+
+#12369
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12350 0 0
+~
+~
+Door 1 0 0 12368 0 0
+~
+~
+Door 2 0 0 12390 0 0
+~
+~
+Door 3 0 0 12370 0 0
+~
+~
+End
+
+#12370
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12349 0 0
+~
+~
+Door 1 0 0 12369 0 0
+~
+~
+Door 2 0 0 12389 0 0
+~
+~
+Door 3 0 0 12371 0 0
+~
+~
+End
+
+#12371
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12348 0 0
+~
+~
+Door 1 0 0 12370 0 0
+~
+~
+Door 2 0 0 12388 0 0
+~
+~
+Door 3 0 0 12372 0 0
+~
+~
+End
+
+#12372
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12347 0 0
+~
+~
+Door 1 0 0 12371 0 0
+~
+~
+Door 2 0 0 12387 0 0
+~
+~
+Door 3 0 0 12373 0 0
+~
+~
+End
+
+#12373
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12346 0 0
+~
+~
+Door 1 0 0 12372 0 0
+~
+~
+Door 2 0 0 12386 0 0
+~
+~
+Door 3 0 0 12374 0 0
+~
+~
+End
+
+#12374
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12345 0 0
+~
+~
+Door 1 0 0 12373 0 0
+~
+~
+Door 2 0 0 12385 0 0
+~
+~
+Door 3 0 0 12375 0 0
+~
+~
+End
+
+#12375
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12344 0 0
+~
+~
+Door 1 0 0 12374 0 0
+~
+~
+Door 2 0 0 12384 0 0
+~
+~
+Door 3 0 0 12376 0 0
+~
+~
+End
+
+#12376
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12343 0 0
+~
+~
+Door 1 0 0 12375 0 0
+~
+~
+Door 2 0 0 12383 0 0
+~
+~
+Door 3 0 0 12377 0 0
+~
+~
+End
+
+#12377
+Name Just Offshore Of An Island~
+Descr
+You are in a primordial forest. You hear what sounds like the scream of a
+giant bird. You catch a glimpse of something jumping from tree to tree. The
+hair on the back of your neck stands up as you realize the forest has grown
+utterly quiet. Are you the hunter or the hunted?  
+~
+Sector 6
+Door 0 0 0 12342 0 0
+~
+~
+Door 1 0 0 12376 0 0
+~
+~
+Door 2 0 0 12382 0 0
+~
+~
+Door 3 0 0 12378 0 0
+~
+~
+End
+
+#12378
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12341 0 0
+~
+~
+Door 1 0 0 12377 0 0
+~
+~
+Door 2 0 0 12381 0 0
+~
+~
+Door 3 0 0 12379 0 0
+~
+~
+End
+
+#12379
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12340 0 0
+~
+~
+Door 1 0 0 12378 0 0
+~
+~
+Door 2 0 0 12380 0 0
+~
+~
+End
+
+#12380
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12379 0 0
+~
+~
+Door 1 0 0 12381 0 0
+~
+~
+End
+
+#12381
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12378 0 0
+~
+~
+Door 1 0 0 12382 0 0
+~
+~
+Door 3 0 0 12380 0 0
+~
+~
+End
+
+#12382
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12377 0 0
+~
+~
+Door 1 0 0 12383 0 0
+~
+~
+Door 3 0 0 12381 0 0
+~
+~
+End
+
+#12383
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12376 0 0
+~
+~
+Door 1 0 0 12384 0 0
+~
+~
+Door 3 0 0 12382 0 0
+~
+~
+End
+
+#12384
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12375 0 0
+~
+~
+Door 1 0 0 12385 0 0
+~
+~
+Door 3 0 0 12383 0 0
+~
+~
+End
+
+#12385
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12374 0 0
+~
+~
+Door 1 0 0 12386 0 0
+~
+~
+Door 3 0 0 12384 0 0
+~
+~
+End
+
+#12386
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12373 0 0
+~
+~
+Door 1 0 0 12387 0 0
+~
+~
+Door 3 0 0 12385 0 0
+~
+~
+End
+
+#12387
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12372 0 0
+~
+~
+Door 1 0 0 12388 0 0
+~
+~
+Door 3 0 0 12386 0 0
+~
+~
+End
+
+#12388
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12371 0 0
+~
+~
+Door 1 0 0 12389 0 0
+~
+~
+Door 3 0 0 12387 0 0
+~
+~
+End
+
+#12389
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12370 0 0
+~
+~
+Door 1 0 0 12390 0 0
+~
+~
+Door 3 0 0 12388 0 0
+~
+~
+End
+
+#12390
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12369 0 0
+~
+~
+Door 1 0 0 12391 0 0
+~
+~
+Door 3 0 0 12389 0 0
+~
+~
+End
+
+#12391
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12368 0 0
+~
+~
+Door 1 0 0 12392 0 0
+~
+~
+Door 3 0 0 12390 0 0
+~
+~
+End
+
+#12392
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12367 0 0
+~
+~
+Door 1 0 0 12393 0 0
+~
+~
+Door 3 0 0 12391 0 0
+~
+~
+End
+
+#12393
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12366 0 0
+~
+~
+Door 1 0 0 12394 0 0
+~
+~
+Door 3 0 0 12392 0 0
+~
+~
+End
+
+#12394
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12365 0 0
+~
+~
+Door 1 0 0 12395 0 0
+~
+~
+Door 3 0 0 12393 0 0
+~
+~
+End
+
+#12395
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12364 0 0
+~
+~
+Door 1 0 0 12396 0 0
+~
+~
+Door 3 0 0 12394 0 0
+~
+~
+End
+
+#12396
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12363 0 0
+~
+~
+Door 1 0 0 12397 0 0
+~
+~
+Door 3 0 0 12395 0 0
+~
+~
+End
+
+#12397
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12362 0 0
+~
+~
+Door 1 0 0 12398 0 0
+~
+~
+Door 3 0 0 12396 0 0
+~
+~
+End
+
+#12398
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12361 0 0
+~
+~
+Door 1 0 0 12399 0 0
+~
+~
+Door 3 0 0 12397 0 0
+~
+~
+End
+
+#12399
+Name Just Offshore Of An Island~
+Descr
+You see a beautiful island nearby. You suddenly hear a scream and a very
+large winged creature lands somewhere inside the island. All you now hear is
+the crash of the waves on the island. 
+~
+Sector 7
+Door 0 0 0 12360 0 0
+~
+~
+Door 3 0 0 12398 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

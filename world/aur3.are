@@ -1,0 +1,3588 @@
+#AREADATA 
+Name A Dense Jungle~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Auroch~
+VNUMs 34001 34300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#34001
+Name snake white-striped~
+Short a white-striped snake~
+Long 
+A white-striped snake, slithers along here.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 50
+Level 50
+MobType 8
+Hp 12010
+Guard 0
+End
+
+#34002
+Name cub bear~
+Short a bear cub~
+Long 
+A small bear cub is here, seperated from here mother.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 1
+Money 30
+Level 30
+Sex 1
+MobType 6
+Hp 12010
+Guard 0
+End
+
+#34003
+Name couger~
+Short a cougar~
+Long 
+A couger stands here, waiting to pounce his dinner.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 35
+Level 35
+MobType 6
+Hp 12010
+Guard 0
+End
+
+#34004
+Name jungle ape~
+Short a jungle ape~
+Long 
+A jungle ape sits here, picking bannanas off of trees.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 55
+Level 55
+Sex 2
+MobType 6
+Hp 12010
+Guard 0
+End
+
+#34005
+Name lion jungle~
+Short a jungle lion~
+Long 
+A jungle lion is here, hunting for food.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 65
+Level 65
+Sex 1
+MobType 6
+Hp 12010
+Guard 0
+End
+
+#34006
+Name baboon jungle~
+Short a jungle baboon~
+Long 
+A jungle baboon sits here, eating a bannana.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 65
+Level 65
+Sex 1
+MobType 6
+Hp 12010
+Guard 0
+End
+
+#34007
+Name rattle snake~
+Short a rattle snake~
+Long 
+A rattle snake is here, looking to posion his next victim.
+~
+Descr
+~
+AMax 5
+NHeight 60
+ActBits 9
+Money 4
+Level 4
+MobType 8
+Hp 12010
+Guard 0
+End
+
+#34008
+Name small golem~
+Short a small golem~
+Long 
+A small golem sits here, sharpening his claws.
+~
+Descr
+~
+AMax 2
+NHeight 66
+ActBits 1
+Affect_By 512
+Money 60
+Level 60
+MobType 0
+Hp 12010
+Guard 0
+ArmorClass 75
+End
+
+#34009
+Name large golem~
+Short a large golem~
+Long 
+A large golem is here, protecting his tunnels.
+~
+Descr
+~
+AMax 3
+NHeight 85
+ActBits 1
+Affect_By 552
+Money 80
+Level 80
+MobType 0
+Hp 12010
+Guard 0
+End
+
+#34010
+Name large vampire~
+Short a large vampire~
+Long 
+A large vampire is here, looking for some blood to dine on.
+~
+Descr
+~
+AMax 3
+NHeight 99
+ActBits 1
+Affect_By 40
+Money 80
+Level 80
+MobType 0
+Hp 12010
+Guard 0
+End
+
+#34011
+Name golem master~
+Short a golem master~
+Long 
+A golem master is here, beating some sense into his race.
+~
+Descr
+~
+AMax 3
+NHeight 100
+ActBits 1
+Affect_By 532488
+Money 80
+Level 80
+MobType 0
+Hp 12010
+Guard 0
+Spec spec_thief
+ArmorClass 10
+End
+
+#34012
+Name high golem overlord~
+Short the high golem overlord~
+Long 
+The high golem overlord stands here, glaring at your face.
+~
+Descr
+~
+AMax 1
+NHeight 110
+ActBits 7
+Affect_By 1049258
+Money 250
+Level 250
+Sex 1
+MobType 0
+Hp 12010
+Guard 0
+ArmorClass 10
+End
+
+#34013
+Name hannoah tribes woman~
+Short a tribeswoman~
+Long 
+A tribeswoman is standing here, preparing for her daily work.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 536870913
+ActBits3 65536
+Affect_By 512
+Money 75
+Level 75
+MobType 0
+Hp 12010
+Guard 0
+End
+
+#34014
+Name hannoah tribesman tribe man~
+Short a tribesman~
+Long 
+A tribesman stands here, ready for a fight.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 536870913
+ActBits3 65536
+Affect_By 512
+Money 75
+Level 75
+MobType 0
+Hp 12010
+Guard 0
+End
+
+#34015
+Name prac Shaman SHpere~
+Short a Shaman~
+Long 
+A Stocky looking Shaman is sitting indian style here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 524416
+Money 150
+Level 150
+MobType 0
+Hp 12010
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#34001
+Name jungle ape fur~
+Short [34mA large [0m[37mj[1m[30mungle-ap[0m[37me [34mfur[0m[37m~
+Descr
+A large fur sits here, thrown on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 3 10 10 40 40 10 1
+Weight 5
+Cost 500
+Affect 1 1 1 0 0
+End
+
+#34002
+Name massive tower shield blue~
+Short [1m[31mA massive [34mblue [31mtower shield[0m~
+Descr
+A rather large shield lays here, shimmering with a blue color.
+[0;36m~
+Type 9
+Extra 2
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 6 2 4 10 10 40 40 10 1
+Weight 7
+Cost 1000
+Affect 18 1 1 0 0
+End
+
+#34003
+Name belt might~
+Short [1m[30mB[0m[37me[1m[37mlt of [30mM[0m[37mi[1m[37mght~
+Descr
+A glamorous belt lies here, glowing with the power of might.
+[0;36m~
+Type 9
+Extra 536875009
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 9 0 0 0 0 50 50 0 2
+Weight 7
+Cost 2000
+Affect 17 -1 1 0 0
+End
+
+#34004
+Name mask hannoah green~
+Short [1m[30mM[0m[32ma[1m[32ms[37mk of the [30mH[0m[32ma[1m[32mnnoah~
+Descr
+A mask, with a green color, lays on the ground here.
+[0;36m~
+Type 9
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 40 40 10 1
+Weight 2
+Cost 756
+Affect 14 10 1 0 0
+Affect 13 4 1 0 0
+End
+
+#34005
+Name redwood spear red wood~
+Short [1m[30mA [0m[31mred-[1m[31mwood [1m[30mspear~
+Descr
+A spear, made out of the finest redwood, lays here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 11 0 0 0 4 3 0
+Weight 0
+Cost 50
+End
+
+#34007
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#34001
+Name A Damp Path~
+Descr
+You are travelling down a damp path.  As you proceed here, it becomes so
+wet its almost like a marsh that is about to swallow you underwater.  Back
+to the north you can make out some drylands and the path continues to the
+south.  
+~
+Flags 2
+Sector 15
+Door 0 0 0 34156 0 0
+~
+~
+Door 2 0 0 34002 0 0
+~
+~
+End
+
+#34002
+Name A Damp Path~
+Descr
+The path here begins to get worse, and your pants seem to now cling with
+wetness.  Once in awhile you seem to manage to get a glimpse of what appears
+to be a snake, zipping past your feet in this marshy area.  The path is to
+the north and south of here.  
+~
+Sector 15
+Reset M 34001 3 100
+Door 0 0 0 34001 0 0
+~
+~
+Door 2 0 0 34003 0 0
+~
+~
+End
+
+#34003
+Name A Damp Path~
+Descr
+You have come to a bend in the path.  The water here seems to get no
+better, and it appears even the water is now turning green with the plant
+growth living on top of the water.  You can go back the way you came to the
+north, or continue on to the east.  
+~
+Sector 15
+Reset M 34003 5 100
+Reset M 34002 2 100
+Door 0 0 0 34002 0 0
+~
+~
+Door 1 0 0 34004 0 0
+~
+~
+End
+
+#34004
+Name A Damp Path~
+Descr
+You are travelling down a damp path.  You see frogs and toads leaping
+around your feet, and you are obviously invading there homelands.  The path
+leads in the southern and western directions.  
+~
+Sector 15
+Reset M 34001 3 100
+Door 2 0 0 34005 0 0
+~
+~
+Door 3 0 0 34003 0 0
+~
+~
+End
+
+#34005
+Name A Damp Path~
+Descr
+You are on a damp path.  Trees just seem to burst out in all directions
+here, making travel impossible.  However, someone has seem to cut a path
+through this dense swamp.  
+~
+Sector 15
+Reset M 34003 5 100
+Door 0 0 0 34004 0 0
+~
+~
+Door 1 0 0 34006 0 0
+~
+~
+End
+
+#34006
+Name A Damp Path~
+Descr
+The trees here just seem to grow over your head, making your sight above
+seem impossible.  The swamplands here are getting much worse.  You see the
+path leading to the east and the west.  
+~
+Sector 15
+Reset M 34003 5 100
+Reset M 34002 2 100
+Reset M 34001 3 100
+Door 1 0 0 34007 0 0
+~
+~
+Door 3 0 0 34005 0 0
+~
+~
+End
+
+#34007
+Name A Damp Path~
+Descr
+You have come upon a bend in the path.  Here you see a massive dense
+jungle off to the south, and these wet badlands seem to become much better. 
+However you cant imagine what could be in this massive jungle.  
+~
+Sector 15
+Reset M 34003 5 100
+Door 2 0 0 34008 0 0
+~
+~
+Door 3 0 0 34006 0 0
+~
+~
+End
+
+#34008
+Name A Damp Path~
+Descr
+You are walking on a damp path.  The water seems to almost go dry here,
+even though the trees seem to increase with every step you take.  To the
+south you can make off a massive jungle and the path to the north.  
+~
+Sector 15
+Reset M 34003 5 100
+Door 0 0 0 34007 0 0
+~
+~
+Door 2 0 0 34009 0 0
+~
+~
+End
+
+#34009
+Name Nearing the End of the Path~
+Descr
+You have come to the end of the path.  It seems as though there is not as
+much wetness here, it seems to rain nonstop.  There is a massive jungle to
+the south, and you can only imagine what is inside of it, coming from the
+howls.  
+~
+Flags 2
+Sector 15
+Door 0 0 0 34008 0 0
+~
+~
+Door 2 0 0 34010 0 0
+~
+~
+End
+
+#34010
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34004 1 100
+Door 0 0 0 34009 0 0
+~
+~
+Door 1 0 0 34011 0 0
+~
+~
+Door 2 0 0 34020 0 0
+~
+~
+Door 3 0 0 34014 0 0
+~
+~
+End
+
+#34011
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 1 0 0 34012 0 0
+~
+~
+Door 2 0 0 34019 0 0
+~
+~
+Door 3 0 0 34010 0 0
+~
+~
+End
+
+#34012
+Name A Dark Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 1 0 0 34013 0 0
+~
+~
+Door 2 0 0 34018 0 0
+~
+~
+Door 3 0 0 34011 0 0
+~
+~
+End
+
+#34013
+Name A Dense Jungle, Northeast Corner~
+Descr
+You are standing in the north east corner of this massive jungle.  The
+trees some to tower over you, keeping anyone out from what lays beyond.  The
+jungle leads back off to the south and west.  
+~
+Sector 12
+Door 2 0 0 34017 0 0
+~
+~
+Door 3 0 0 34012 0 0
+~
+~
+End
+
+#34014
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 1 0 0 34010 0 0
+~
+~
+Door 2 0 0 34021 0 0
+~
+~
+Door 3 0 0 34015 0 0
+~
+~
+End
+
+#34015
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 1 0 0 34014 0 0
+~
+~
+Door 2 0 0 34022 0 0
+~
+~
+Door 3 0 0 34016 0 0
+~
+~
+End
+
+#34016
+Name A Dense Jungle, Northwest Corner~
+Descr
+You are in the northwest corner of the jungle.  Here you can tell the
+trees arent very thick, because you can manage to hear actual reality coming
+from the north.  You wonder where it could lead, since you have become so
+disoriented walking through these woods.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 1 0 0 34015 0 0
+~
+~
+Door 2 0 0 34023 0 0
+~
+~
+End
+
+#34017
+Name A Dense Jungle, Eastern End~
+Descr
+You are walking down the eastern end of the jungle.  To the east of you
+stands massive trees so large and wide, that not even the strongest of men
+could cut these trees down.  Once in a while you catch a rare jungle bird,
+zipping by your head.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34013 0 0
+~
+~
+Door 2 0 0 34030 0 0
+~
+~
+Door 3 0 0 34018 0 0
+~
+~
+End
+
+#34018
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34007 2 100
+Reset M 34006 15 100
+Reset M 34005 10 100
+Door 0 0 0 34012 0 0
+~
+~
+Door 1 0 0 34017 0 0
+~
+~
+Door 2 0 0 34029 0 0
+~
+~
+Door 3 0 0 34019 0 0
+~
+~
+End
+
+#34019
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34011 0 0
+~
+~
+Door 1 0 0 34018 0 0
+~
+~
+Door 2 0 0 34028 0 0
+~
+~
+Door 3 0 0 34020 0 0
+~
+~
+End
+
+#34020
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34010 0 0
+~
+~
+Door 1 0 0 34019 0 0
+~
+~
+Door 2 0 0 34027 0 0
+~
+~
+Door 3 0 0 34021 0 0
+~
+~
+End
+
+#34021
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34014 0 0
+~
+~
+Door 1 0 0 34020 0 0
+~
+~
+Door 2 0 0 34026 0 0
+~
+~
+Door 3 0 0 34022 0 0
+~
+~
+End
+
+#34022
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34015 0 0
+~
+~
+Door 1 0 0 34021 0 0
+~
+~
+Door 2 0 0 34025 0 0
+~
+~
+Door 3 0 0 34023 0 0
+~
+~
+End
+
+#34023
+Name A Dense Jungle, Western End~
+Descr
+You are walking down the western end of the jungle.  Below your feet you
+notice a puddle of red blood, and it almost causes you to slip and fall. 
+You wonder where this could have come from, until you see the mound of rat
+and other small animal's corpses.  It looks as though this side of the
+jungle is where the humoungous beasts feast on there breakfast.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 0 0 0 34016 0 0
+~
+~
+Door 1 0 0 34022 0 0
+~
+~
+Door 2 0 0 34024 0 0
+~
+~
+End
+
+#34024
+Name A Dense Jungle, Western End~
+Descr
+You are walking down the western end of the jungle.  Below your feet you
+notice a puddle of red blood, and it almost causes you to slip and fall. 
+You wonder where this could have come from, until you see the mound of rat
+and other small animal's corpses.  It looks as though this side of the
+jungle is where the humoungous beasts feast on there breakfast.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34023 0 0
+~
+~
+Door 1 0 0 34025 0 0
+~
+~
+Door 2 0 0 34037 0 0
+~
+~
+End
+
+#34025
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Reset M 34005 10 100
+Door 0 0 0 34022 0 0
+~
+~
+Door 1 0 0 34026 0 0
+~
+~
+Door 2 0 0 34036 0 0
+~
+~
+Door 3 0 0 34024 0 0
+~
+~
+End
+
+#34026
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34021 0 0
+~
+~
+Door 1 0 0 34027 0 0
+~
+~
+Door 2 0 0 34035 0 0
+~
+~
+Door 3 0 0 34025 0 0
+~
+~
+End
+
+#34027
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34020 0 0
+~
+~
+Door 1 0 0 34028 0 0
+~
+~
+Door 2 0 0 34034 0 0
+~
+~
+Door 3 0 0 34026 0 0
+~
+~
+End
+
+#34028
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34019 0 0
+~
+~
+Door 1 0 0 34029 0 0
+~
+~
+Door 2 0 0 34033 0 0
+~
+~
+Door 3 0 0 34027 0 0
+~
+~
+End
+
+#34029
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34018 0 0
+~
+~
+Door 1 0 0 34030 0 0
+~
+~
+Door 2 0 0 34032 0 0
+~
+~
+Door 3 0 0 34028 0 0
+~
+~
+End
+
+#34030
+Name A Dense Jungle, Eastern End~
+Descr
+You are walking down the eastern end of the jungle.  To the east of you
+stands massive trees so large and wide, that not even the strongest of men
+could cut these trees down.  Once in a while you catch a rare jungle bird,
+zipping by your head.  
+~
+Sector 12
+Reset M 34006 15 100
+Reset M 34005 10 100
+Door 0 0 0 34017 0 0
+~
+~
+Door 2 0 0 34031 0 0
+~
+~
+Door 3 0 0 34029 0 0
+~
+~
+End
+
+#34031
+Name A Dense Jungle, on Top of a Massive Hole~
+Descr
+You have come to the end of the eastern path.  Below you looks like a
+massive hole, a humgous creature must have chewed into the earth.  But when
+you peek inside you realize these underground caverns must have existed way
+before your time.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 0 0 0 34030 0 0
+~
+~
+Door 3 0 0 34032 0 0
+~
+~
+Door 5 0 0 34086 0 0
+~
+~
+End
+
+#34032
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34007 2 100
+Reset M 34005 10 100
+Door 0 0 0 34029 0 0
+~
+~
+Door 1 0 0 34031 0 0
+~
+~
+Door 2 0 0 34038 0 0
+~
+~
+Door 3 0 0 34033 0 0
+~
+~
+End
+
+#34033
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34028 0 0
+~
+~
+Door 1 0 0 34032 0 0
+~
+~
+Door 2 0 0 34039 0 0
+~
+~
+Door 3 0 0 34034 0 0
+~
+~
+End
+
+#34034
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34027 0 0
+~
+~
+Door 1 0 0 34033 0 0
+~
+~
+Door 2 0 0 34040 0 0
+~
+~
+Door 3 0 0 34035 0 0
+~
+~
+End
+
+#34035
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 0 0 0 34026 0 0
+~
+~
+Door 1 0 0 34034 0 0
+~
+~
+Door 2 0 0 34041 0 0
+~
+~
+Door 3 0 0 34036 0 0
+~
+~
+End
+
+#34036
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34006 15 100
+Reset M 34006 15 100
+Door 0 0 0 34025 0 0
+~
+~
+Door 1 0 0 34035 0 0
+~
+~
+Door 2 0 0 34042 0 0
+~
+~
+Door 3 0 0 34037 0 0
+~
+~
+End
+
+#34037
+Name A Dense Jungle, Western End~
+Descr
+You are walking down the western end of the jungle.  Below your feet you
+notice a puddle of red blood, and it almost causes you to slip and fall. 
+You wonder where this could have come from, until you see the mound of rat
+and other small animal's corpses.  It looks as though this side of the
+jungle is where the humoungous beasts feast on there breakfast.  
+~
+Sector 12
+Reset M 34006 15 100
+Door 0 0 0 34024 0 0
+~
+~
+Door 1 0 0 34036 0 0
+~
+~
+Door 2 0 0 34043 0 0
+~
+~
+End
+
+#34038
+Name A Dense Jungle, Southeast Corner~
+Descr
+You have come to the southeast corner.  Below you the earth seems to be
+quite thin, and it is not recomended you have to many adventures on these
+parts, especially with heavy equipment.  You see directions to the north and
+west of here.  
+~
+Sector 12
+Door 0 0 0 34032 0 0
+~
+~
+Door 3 0 0 34039 0 0
+~
+~
+End
+
+#34039
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 0 0 0 34033 0 0
+~
+~
+Door 1 0 0 34038 0 0
+~
+~
+Door 2 0 0 34044 0 0
+~
+~
+Door 3 0 0 34040 0 0
+~
+~
+End
+
+#34040
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34034 0 0
+~
+~
+Door 1 0 0 34039 0 0
+~
+~
+Door 3 0 0 34041 0 0
+~
+~
+End
+
+#34041
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Reset M 34005 10 100
+Door 0 0 0 34035 0 0
+~
+~
+Door 1 0 0 34040 0 0
+~
+~
+Door 3 0 0 34042 0 0
+~
+~
+End
+
+#34042
+Name A Dense Jungle~
+Descr
+You are walking in a massive jungle.  The rain seems to never stop here,
+even though most of it is absorbed by the massive jungle trees that grow
+here.  You can see all types of jungle life here, from apes to even
+jungle-lions.  You see directions all over here.  
+~
+Sector 12
+Door 0 0 0 34036 0 0
+~
+~
+Door 1 0 0 34041 0 0
+~
+~
+Door 3 0 0 34043 0 0
+~
+~
+End
+
+#34043
+Name A Dense Jungle, Southwest Corner~
+Descr
+You are standing in the southwest corner of the jungle.  There are
+massive trees blocking all paths except to the north and east, and once in a
+while you can make out a faint cry that sends shivers up your bones.  
+~
+Sector 12
+Door 0 0 0 34037 0 0
+~
+~
+Door 1 0 0 34042 0 0
+~
+~
+End
+
+#34044
+Name A Narrow Dirty Road~
+Descr
+You are walking down a narrow dirt road.  After just clearing the jungle,
+you begin to miss the lush trees that were blocking your skin from the
+unbearable sunlight.  
+~
+Flags 2
+Sector 4
+Door 0 0 0 34039 0 0
+~
+~
+Door 2 0 0 34045 0 0
+~
+~
+End
+
+#34045
+Name A Narrow Dirty Road~
+Descr
+You are walking down a narrow dirt road.  There is no more trees here
+except for the acciosonal bush on the side paths.  It seems as though you
+are walking through a desert.  
+~
+Sector 4
+Door 0 0 0 34044 0 0
+~
+~
+Door 3 0 0 34046 0 0
+~
+~
+End
+
+#34046
+Name A Narrow Dirty Road~
+Descr
+The dirt road begins to get more moist, much like the jungle, but still
+very humid.  You are glad to get out of the unbearable dry heat, but you
+still are wondering what will come next.  
+~
+Sector 4
+Door 1 0 0 34045 0 0
+~
+~
+Door 3 0 0 34047 0 0
+~
+~
+End
+
+#34047
+Name A Narrow Dirty Road~
+Descr
+You are walking down a narrow dirt road.  The road takes a turn here, and
+the obvious exits are to the east and south.  
+~
+Sector 4
+Door 1 0 0 34046 0 0
+~
+~
+Door 2 0 0 34048 0 0
+~
+~
+End
+
+#34048
+Name A Narrow Dirty Road~
+Descr
+The lands start to get high here, and all of the sudden large trees just
+seem to grow out of nowhere, reminding you of the lush forests of xylar. 
+Once in awhile you see some forest life scream by you, happy to just be
+alive.  
+~
+Sector 4
+Door 0 0 0 34047 0 0
+~
+~
+Door 2 0 0 34049 0 0
+~
+~
+End
+
+#34049
+Name A Narrow Dirty Road~
+Descr
+As you continue to walk down this road, large trees grow to the east and
+west blocking those exits.  To the south you can make out a small mountain. 
+~
+Sector 4
+Door 0 0 0 34048 0 0
+~
+~
+Door 2 0 0 34050 0 0
+~
+~
+End
+
+#34050
+Name A Narrow Dirty Road~
+Descr
+The road takes a turn, and turns into a minature mountain.  There are
+trees all about here, making these lands look beautiful.  
+~
+Sector 4
+Door 0 0 0 34049 0 0
+~
+~
+Door 4 0 0 34051 0 0
+~
+~
+End
+
+#34051
+Name A Narrow Dirty Road, Nearing the Forest of Redwood~
+Descr
+You are on top of this mountain, and far ahead to the distance you can
+make out the lush forests of redwood.  There is known to be a famous tribe
+living in these forests, and you find it interesting to examine them.  They
+are the only known native culture left in the world. 
+~
+Sector 4
+Door 2 0 0 34052 0 0
+~
+~
+Door 5 0 0 34050 0 0
+~
+~
+End
+
+#34052
+Name Forest of Redwood~
+Descr
+You have just entered the high foresets of redwood.  Here birds fly all
+about chirping, and deer pounce around.  There are few known vicious animals
+in the forest of redwood, keeping this and there tribe such a friendly
+place.  
+~
+Sector 3
+Door 0 0 0 34051 0 0
+~
+~
+Door 1 0 0 34053 0 0
+~
+~
+End
+
+#34053
+Name Forest of Redwood~
+Descr
+You are walking through the forests of redwood.  As you look below you,
+you notice some type of animal tracks.  
+~
+Sector 3
+Door 2 0 0 34054 0 0
+~
+~
+Door 3 0 0 34052 0 0
+~
+~
+End
+
+#34054
+Name Forest of Redwood, On Top of a Cliff~
+Descr
+You are standing on top of a cliff in the forests of redwood.  The trees
+seem to get more dense below you, but you see no reason why you shouldn't
+continue to explore.  
+~
+Sector 3
+Door 0 0 0 34053 0 0
+~
+~
+Door 5 0 0 34055 0 0
+~
+~
+End
+
+#34055
+Name Forest of Redwood, Approaching a Village~
+Descr
+To the south you make out a small villiage with smoke coming out of the
+primative huts.  This must be the elite group of natives everyone has been
+telling stories about for all these years, maybe you should make friends.  
+~
+Sector 3
+Door 2 0 0 34056 0 0
+~
+~
+Door 4 0 0 34054 0 0
+~
+~
+End
+
+#34056
+Name Village of Hannoah~
+Descr
+You have just walked into the villiage of hannoah.  You see villiage
+woman scurrying about with pots on there heads, packed with food or water. 
+You catch a native man walking around with his latest kill on a stick.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset M 34013 20 100
+Reset O 34004 25 10
+Door 0 0 0 34055 0 0
+~
+~
+Door 1 0 0 34057 0 0
+~
+~
+Door 3 0 0 34058 0 0
+~
+~
+End
+
+#34057
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34004 25 35
+Reset M 34013 20 100
+Reset O 34004 25 35
+Door 2 0 0 34066 0 0
+~
+~
+Door 3 0 0 34056 0 0
+~
+~
+End
+
+#34058
+Name Village of Hannoah~
+Descr
+You are travelling down a narrow path in the village.  Village folk
+scurrying about trying to apease there gods, and get there work done for
+today.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34005 -1 40
+Door 1 0 0 34056 0 0
+~
+~
+Door 3 0 0 34059 0 0
+~
+~
+End
+
+#34059
+Name Village of Hannoah~
+Descr
+You are travelling down a narrow path in the village.  It seems like
+nothing much is happening on this side of the city, there are no huts, and
+not many people trading goods here.  However you do catch people bathing and
+washing in the nearby lake.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 1 0 0 34058 0 0
+~
+~
+Door 2 0 0 34060 0 0
+~
+~
+End
+
+#34060
+Name Village of Hannoah~
+Descr
+You are travelling down a narrow path in the village.  It seems like
+nothing much is happening on this side of the city, there are no huts, and
+not many people trading goods here.  However you do catch people bathing and
+washing in the nearby lake.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34004 25 15
+Door 0 0 0 34059 0 0
+~
+~
+Door 2 0 0 34061 0 0
+~
+~
+End
+
+#34061
+Name Village of Hannoah~
+Descr
+You have come to a more active part of the village.  The path forks in
+two differnt ways here, leaving the obvious exits to the north, east, and
+south.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Door 0 0 0 34060 0 0
+~
+~
+Door 1 0 0 34062 0 0
+~
+~
+Door 2 0 0 34082 0 0
+~
+~
+End
+
+#34062
+Name Village of Hannoah~
+Descr
+You are travelling down a main path in hannoah.  You see all types of
+people scurrying about, with apparntly nothing on there minds what so ever.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 1 0 0 34063 0 0
+~
+~
+Door 2 0 0 34081 0 0
+~
+~
+Door 3 0 0 34061 0 0
+~
+~
+End
+
+#34063
+Name Village of Hannoah~
+Descr
+You are in a small cubby hole, which is prolly used for an ambush of some
+sorts.  Perhaps there is something at the end of this path you or any other
+outsider is supposed to know nothing of?  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34004 25 20
+Door 1 0 0 34064 0 0
+~
+~
+Door 2 0 0 34080 0 0
+~
+~
+Door 3 0 0 34062 0 0
+~
+~
+End
+
+#34064
+Name Village of Hannoah~
+Descr
+You are near the front of the village here.  The soil here is pefect for
+growing crops, and it looks as though thats exactly what they have done.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Door 1 0 0 34065 0 0
+~
+~
+Door 2 0 0 34079 0 0
+~
+~
+Door 3 0 0 34063 0 0
+~
+~
+End
+
+#34065
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34013 20 100
+Reset O 34004 25 15
+Reset M 34013 20 100
+Reset O 34004 25 20
+Door 0 0 0 34067 0 0
+~
+~
+Door 1 0 0 34068 0 0
+~
+~
+Door 2 0 0 34078 0 0
+~
+~
+Door 3 0 0 34064 0 0
+~
+~
+End
+
+#34066
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34013 20 100
+Reset O 34004 25 35
+Door 0 0 0 34057 0 0
+~
+~
+Door 1 0 0 34067 0 0
+~
+~
+End
+
+#34067
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34004 25 35
+Door 2 0 0 34065 0 0
+~
+~
+Door 3 0 0 34066 0 0
+~
+~
+End
+
+#34068
+Name Village of Hannoah~
+Descr
+You are travelling down an unknown part of the village.  As you walk down
+this road you get nasty looks from the village people as though you are not
+supposed to be in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 1 0 0 34069 0 0
+~
+~
+Door 3 0 0 34065 0 0
+~
+~
+End
+
+#34069
+Name Village of Hannoah~
+Descr
+You have come to a turn in this forbidden path, and as you travel down
+it, you generate an urgent feeling to find what ever treasure remains in
+these parts.  
+~
+Reset M 34013 20 100
+Door 2 0 0 34070 0 0
+~
+~
+Door 3 0 0 34068 0 0
+~
+~
+End
+
+#34070
+Name Village of Hannoah, Narrow Trail~
+Descr
+The road here gets more narrower, and you see no life except for the head
+ancients of the villiage.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 0 0 0 34069 0 0
+~
+~
+Door 2 0 0 34071 0 0
+~
+~
+End
+
+#34071
+Name Village of Hannoah, Widened Path~
+Descr
+The path widens here and extends in all four directions.  It looks as
+though they are planning some sort of ambush, but then again who would they
+want to fight?  They are known to have not fought a battle in over 20 years.
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 0 0 0 34070 0 0
+~
+~
+Door 1 0 0 34072 0 0
+~
+~
+Door 2 0 0 34074 0 0
+~
+~
+Door 3 0 0 34073 0 0
+~
+~
+End
+
+#34072
+Name Village of Hannoah~
+Descr
+You are in a small cubby hole, which is prolly used for an ambush of some
+sorts.  Perhaps there is something at the end of this path you or any other
+outsider is supposed to know nothing of?  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset O 34004 25 35
+Door 3 0 0 34071 0 0
+~
+~
+End
+
+#34073
+Name Village of Hannoah~
+Descr
+You are in a small cubby hole, which is prolly used for an ambush of some
+sorts.  Perhaps there is something at the end of this path you or any other
+outsider is supposed to know nothing of?  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 1 0 0 34071 0 0
+~
+~
+End
+
+#34074
+Name Village of Hannoah, Widened Path~
+Descr
+You have come to an end in this horrifying path.  To the south of you
+remains a large wooden door, which looks like can be broken easily, however,
+after all youve been through you decide you better be careful.  
+~
+Reset M 34013 20 100
+Door 0 0 0 34071 0 0
+~
+~
+Door 1 0 0 34075 0 0
+~
+~
+Door 2 3 0 34077 30 30
+~
+hutdoor~
+Door 3 0 0 34076 0 0
+~
+~
+End
+
+#34075
+Name Village of Hannoah~
+Descr
+You are in a small cubby hole, which is prolly used for an ambush of some
+sorts.  Perhaps there is something at the end of this path you or any other
+outsider is supposed to know nothing of?  
+~
+Door 3 0 0 34074 0 0
+~
+~
+End
+
+#34076
+Name Village of Hannoah~
+Descr
+You are in a small cubby hole, which is prolly used for an ambush of some
+sorts.  Perhaps there is something at the end of this path you or any other
+outsider is supposed to know nothing of?  
+~
+Reset M 34013 20 100
+Reset O 34004 25 5
+Door 1 0 0 34074 0 0
+~
+~
+End
+
+#34077
+Name Inside a Hut~
+Descr
+You are inside the head ancients hut.  He is much like your old mayor,
+except he is more native.  However you can see he is quite intelligent by
+the differnt writings and paintings on the wall.  
+~
+Flags 4
+Sector 0
+Reset M 34015 1 100
+Reset O 34004 25 5
+Door 0 3 0 34074 30 30
+~
+hutdoor~
+End
+
+#34078
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Reset M 34013 20 100
+Door 0 0 0 34065 0 0
+~
+~
+Door 3 0 0 34079 0 0
+~
+~
+End
+
+#34079
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34013 20 100
+Door 0 0 0 34064 0 0
+~
+~
+Door 1 0 0 34078 0 0
+~
+~
+Door 2 0 0 34085 0 0
+~
+~
+Door 3 0 0 34080 0 0
+~
+~
+End
+
+#34080
+Name Village of Hannoah~
+Descr
+You have come up to a junction in the village of hannoah.  To the east
+and west you can see they are obviously dead ends.  There are also exits to
+the north and south.  
+~
+Reset M 34013 20 100
+Reset O 34004 25 35
+Door 0 0 0 34063 0 0
+~
+~
+Door 1 0 0 34079 0 0
+~
+~
+Door 2 0 0 34084 0 0
+~
+~
+Door 3 0 0 34081 0 0
+~
+~
+End
+
+#34081
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34013 20 100
+Reset O 34004 25 10
+Door 0 0 0 34062 0 0
+~
+~
+Door 1 0 0 34080 0 0
+~
+~
+Door 2 0 0 34083 0 0
+~
+~
+Door 3 0 0 34082 0 0
+~
+~
+End
+
+#34082
+Name Village of Hannoah~
+Descr
+You are in the back of the vilage.  There are many huts here, and you see
+women out side of them cleaning up and coloring clothes.  Some of the men
+have just come back from a long day of hunting.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 0 0 0 34061 0 0
+~
+~
+Door 1 0 0 34081 0 0
+~
+~
+End
+
+#34083
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 0 0 0 34081 0 0
+~
+~
+Door 1 0 0 34084 0 0
+~
+~
+End
+
+#34084
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Reset M 34013 20 100
+Door 0 0 0 34080 0 0
+~
+~
+Door 1 0 0 34085 0 0
+~
+~
+Door 3 0 0 34083 0 0
+~
+~
+End
+
+#34085
+Name Village of Hannoah~
+Descr
+The village of hannoah contains many wonderous people, items, and
+wildlife.  They charish there homes, belongings, and family.  One wrong move
+could get you killed in these parts.  
+~
+Reset M 34014 20 100
+Reset O 34005 21 40
+Door 0 0 0 34079 0 0
+~
+~
+Door 3 0 0 34084 0 0
+~
+~
+End
+
+#34086
+Name Just Beneath The Earth~
+Descr
+You have just cleared the jungle, and entered a medium sized hole.  To
+the east you cant make out much, due to the intense darkness coming in that
+direction.  Up above you is a bright light beaming off the jungle trees.  
+~
+Flags 6
+Door 1 0 0 34087 0 0
+~
+~
+Door 4 0 0 34031 0 0
+~
+~
+End
+
+#34087
+Name A Large Cavern~
+Descr
+You are traveling through a dark, damp, cavern.  You can catch silent
+bats flying about here from the corner of your eye, sending chills up your
+spine.  To the south the cavern continues, and you can make out a small
+light to the west.  
+~
+Flags 4
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34009 25 100
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 2 0 0 34088 0 0
+~
+~
+Door 3 0 0 34086 0 0
+~
+~
+End
+
+#34088
+Name A Large Cavern~
+Descr
+The cavern continues to bend and turn here, and you can sense that
+enormous and powerful beasts await you up ahead.  The ceiling seems to be
+shrinking down on top of you, and you hope it doesn't get much worse.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34087 0 0
+~
+~
+Door 1 0 0 34089 0 0
+~
+~
+End
+
+#34089
+Name A Large Cavern~
+Descr
+The cavern seems to turn into one large wide open room.  The ceiling
+raises almost ten feet higher then before, giving you a sigh of relief.  You
+seem to have just walked into an underground battlefield, even though there
+is no fighting going on.  Maybe they have been waiting for you?  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 1 0 0 34090 0 0
+~
+~
+Door 2 0 0 34098 0 0
+~
+~
+Door 3 0 0 34088 0 0
+~
+~
+End
+
+#34090
+Name A Large Cavern~
+Descr
+The wide open battle field continues here, offering escape routes to the
+east, south, and west.  You see blood stains marked upon the walls, and the
+stench of these underground passages is sickening.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34009 25 100
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 1 0 0 34091 0 0
+~
+~
+Door 2 0 0 34097 0 0
+~
+~
+Door 3 0 0 34089 0 0
+~
+~
+End
+
+#34091
+Name A Large Cavern~
+Descr
+The stench of the cavern seems to grow worse the deeper you explore.  You
+had no idea how terrible these ancient ruins were, maybe you should have
+paid attention to the horrow stories that the elders spoke of.  There are
+directions to the east, south, and west.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 1 0 0 34092 0 0
+~
+~
+Door 2 0 0 34096 0 0
+~
+~
+Door 3 0 0 34090 0 0
+~
+~
+End
+
+#34092
+Name A Large Cavern~
+Descr
+As you reach the north east corner of the cavern, it gets freezing cold. 
+You feel that the ground beneath your feet is not ground at all, but the
+ceiling of another room below here.  There are exits in the east, south and
+west here.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 1 0 0 34093 0 0
+~
+~
+Door 2 0 0 34095 0 0
+~
+~
+Door 3 0 0 34091 0 0
+~
+~
+End
+
+#34093
+Name North-east Corner of the Cavern~
+Descr
+You have reached the north east corner of this awful cavern.  You are
+almost positive now that there is a floor beneath your feet, due to the
+weakness of the ground and the unfamiliar shreaks coming from below.  The
+only directions are to the south and west.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 2 0 0 34094 0 0
+~
+~
+Door 3 0 0 34092 0 0
+~
+~
+End
+
+#34094
+Name A Large Cavern~
+Descr
+You have reached the end of this awful cavern.  It is quite cold on the
+eastern wall, and water drips off of the ceiling.  Exits lead to the north,
+south, and west.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34093 0 0
+~
+~
+Door 2 0 0 34103 0 0
+~
+~
+Door 3 0 0 34095 0 0
+~
+~
+End
+
+#34095
+Name A Large Cavern~
+Descr
+You continue walking through the cavern.  Here you notice on the wall
+above you, a sign saying something you have never heard of, and it is also
+in a foregin language.  There are exits in all four cardinal directions.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34092 0 0
+~
+~
+Door 1 0 0 34094 0 0
+~
+~
+Door 2 0 0 34102 0 0
+~
+~
+Door 3 0 0 34096 0 0
+~
+~
+End
+
+#34096
+Name A Large Cavern~
+Descr
+You continue following the strange tracks, even though it seems like it
+ends here.  How could this be?  What use is one block worth of tracks?  It
+seems to get quite cold here, and you wish you had brought some heavier
+clothes with you.  There are exits in all four cardinal directions.  
+~
+Flags 4
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34008 50 100
+Door 0 0 0 34091 0 0
+~
+~
+Door 1 0 0 34095 0 0
+~
+~
+Door 2 0 0 34101 0 0
+~
+~
+Door 3 0 0 34097 0 0
+~
+~
+End
+
+#34097
+Name A Large Cavern~
+Descr
+You are walking through a wide open cavern.  As you look beneath your
+feet, you realize that there is what appears to be rail road tracks. 
+However, these tracks look like they are over 100 years old, and no one in
+this world has began to use anything like this yet.  Where could they be
+from?  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34090 0 0
+~
+~
+Door 1 0 0 34096 0 0
+~
+~
+Door 2 0 0 34100 0 0
+~
+~
+Door 3 0 0 34098 0 0
+~
+~
+End
+
+#34098
+Name A Large Cavern~
+Descr
+You are walking through a wide open cavern.  There is a thick wall to the
+west of you, covering the length of the cavern all the way to the ceiling. 
+Little pebbles snap beneath your feet as you walk, sometimes making you
+jump.  Exits are to the north, east and south of here.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34008 50 100
+Door 0 0 0 34089 0 0
+~
+~
+Door 1 0 0 34097 0 0
+~
+~
+Door 2 0 0 34099 0 0
+~
+~
+End
+
+#34099
+Name A Large Cavern~
+Descr
+In this one small square, there is actually grass growing.  To the south
+you begin to realize why this area is so furtile.  To the south is a holy
+church, which could be the reason why these parts of the caverns are so
+pure.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34098 0 0
+~
+~
+Door 1 0 0 34100 0 0
+~
+~
+Door 2 0 0 34104 0 0
+~
+~
+End
+
+#34100
+Name A Large Cavern~
+Descr
+The dirt seems to get less damp here, turning into a crumbling mess
+beneath your feet.  The cavern somehow becomes more life supportable in this
+area, as you manage to see a few green weeds growing in some of the soil.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34097 0 0
+~
+~
+Door 1 0 0 34101 0 0
+~
+~
+Door 3 0 0 34099 0 0
+~
+~
+End
+
+#34101
+Name A Large Cavern~
+Descr
+As you walk down this cavern, you can make out the edge of it a little
+off to the west.  There are strange artifacts laying around here, like some
+other culture once settled in this area.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34096 0 0
+~
+~
+Door 1 0 0 34102 0 0
+~
+~
+Door 3 0 0 34100 0 0
+~
+~
+End
+
+#34102
+Name A Large Cavern~
+Descr
+You are walking along the southern wall of the cavern.  Rocks seem to
+fall from nowhere sometimes, but since you are such a well trained warrior
+you manage to dodge them.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34095 0 0
+~
+~
+Door 1 0 0 34103 0 0
+~
+~
+Door 3 0 0 34101 0 0
+~
+~
+End
+
+#34103
+Name A Large Cavern, Above a Track~
+Descr
+You have reached the far corner of the cavern, and here, to your surprise
+you see a massive hole right in the middle of the room, and darkness below. 
+However, it looks like the hole is more of a passage then a dead end.  You
+can go back to the north or west.  
+~
+Flags 4
+Reset M 34009 25 100
+Door 0 0 0 34094 0 0
+~
+~
+Door 3 0 0 34102 0 0
+~
+~
+Door 5 0 0 34105 0 0
+~
+~
+End
+
+#34104
+Name An Abondoned Church~
+Descr
+You have walked into a once beautiful place.  This does not look like it
+was always meant to be a church, in the corner of your eye you see the word
+restroom written on the wall, however it looks like the settlers of your
+time turned it into a very holy place.  
+~
+Flags 3148822
+Door 0 0 0 34099 0 0
+~
+~
+End
+
+#34105
+Name Following an Un-Known Track~
+Descr
+On the sign above you, you notice the word subway posted big.  You have
+no idea what it means, and you have never heard of this word once in your
+long and adventerous life.  The tracks continue to the east.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34008 50 100
+Door 1 0 0 34106 0 0
+~
+~
+Door 4 0 0 34103 0 0
+~
+~
+End
+
+#34106
+Name A Turn in the Track~
+Descr
+The strange track turns here, leading to only darkness.  You hope it
+doesnt go on much longer, since you earn for the bright sunlight to shine in
+your face.  You can go back to the west or continue to the south.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 2 0 0 34107 0 0
+~
+~
+Door 3 0 0 34105 0 0
+~
+~
+End
+
+#34107
+Name Following an Un-Known Track~
+Descr
+As you continue to follow the track, bats seem to fly out of nowhere and
+slam into your body.  It does not bother you much, since it is hardly
+notice.  But in mysterious places like this, they can sometimes startle you.
+~
+Flags 4
+ExtraDescr clue~
+Clue #10 Oh give me a home
+
+
+~
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34106 0 0
+~
+~
+Door 2 0 0 34108 0 0
+~
+~
+End
+
+#34108
+Name A Bend in the Track~
+Descr
+The track bends here again, offering directions only to the north and to
+the east.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34107 0 0
+~
+~
+Door 1 0 0 34109 0 0
+~
+~
+End
+
+#34109
+Name A Strange Bridge Made of Track~
+Descr
+You now embark over a bridge in the tracks, and below your feet you see
+which seems to be a never ending pit.  As your gravel kicks down, you strain
+to here it hit, but you hear no such noise.  It is recomended you take this
+bridge one step at a time.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34008 50 100
+Door 1 0 0 34110 0 0
+~
+~
+Door 3 0 0 34108 0 0
+~
+~
+End
+
+#34110
+Name A Strange Bridge Made of Track~
+Descr
+You still continue over the bridge, but in this room you see a sign that
+says "south and sixty-one express trip only".  You wish you could make out
+this puzzle, perhaps you need to ask an elder on such a matter like this.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 1 0 0 34111 0 0
+~
+~
+Door 3 0 0 34109 0 0
+~
+~
+End
+
+#34111
+Name Following an Un-Known Track~
+Descr
+You are relieved to finally step off the track, but now the track takes
+two differnt turns.  You know wish you were back on the bridge, as you are
+baffled by the choice.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 1 0 0 34112 0 0
+~
+~
+Door 2 0 0 34127 0 0
+~
+~
+Door 3 0 0 34110 0 0
+~
+~
+End
+
+#34112
+Name Following an Un-Known Track~
+Descr
+You are travelling down a track, and it appears not to have been used for
+many years.  You notice it is really beat up, and worn down like it has also
+been used for travellers of your time also.  Could this be the only ruins
+left of your true ancients?  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Door 0 0 0 34121 0 0
+~
+~
+Door 1 0 0 34113 0 0
+~
+~
+Door 2 0 0 34128 0 0
+~
+~
+Door 3 0 0 34111 0 0
+~
+~
+End
+
+#34113
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34010 12 100
+Reset M 34008 50 100
+Door 0 0 0 34120 0 0
+~
+~
+Door 1 0 0 34114 0 0
+~
+~
+Door 2 0 0 34129 0 0
+~
+~
+Door 3 0 0 34112 0 0
+~
+~
+End
+
+#34114
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34008 50 100
+Reset M 34008 50 100
+Door 0 0 0 34119 0 0
+~
+~
+Door 1 0 0 34115 0 0
+~
+~
+Door 2 0 0 34130 0 0
+~
+~
+Door 3 0 0 34113 0 0
+~
+~
+End
+
+#34115
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34118 0 0
+~
+~
+Door 1 0 0 34116 0 0
+~
+~
+Door 2 0 0 34131 0 0
+~
+~
+Door 3 0 0 34114 0 0
+~
+~
+End
+
+#34116
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34117 0 0
+~
+~
+Door 2 0 0 34132 0 0
+~
+~
+Door 3 0 0 34115 0 0
+~
+~
+End
+
+#34117
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34126 0 0
+~
+~
+Door 2 0 0 34116 0 0
+~
+~
+Door 3 0 0 34118 0 0
+~
+~
+End
+
+#34118
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34125 0 0
+~
+~
+Door 1 0 0 34117 0 0
+~
+~
+Door 2 0 0 34115 0 0
+~
+~
+Door 3 0 0 34119 0 0
+~
+~
+End
+
+#34119
+Name Scoutable Hole in the Track~
+Descr
+You have come into another hole, leading even deeper underground.  It
+appears that you have gone deep enough to go to the center of this great
+world, but apparantly not.  There are exits in all directions including
+down.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34124 0 0
+~
+~
+Door 1 0 0 34118 0 0
+~
+~
+Door 2 0 0 34114 0 0
+~
+~
+Door 3 0 0 34120 0 0
+~
+~
+Door 5 0 0 34133 0 0
+~
+~
+End
+
+#34120
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 0 0 0 34123 0 0
+~
+~
+Door 1 0 0 34119 0 0
+~
+~
+Door 2 0 0 34113 0 0
+~
+~
+Door 3 0 0 34121 0 0
+~
+~
+End
+
+#34121
+Name Following an Un-Known Track~
+Descr
+You are travelling down a track, and it appears not to have been used for
+many years.  You notice it is really beat up, and worn down like it has also
+been used for travellers of your time also.  Could this be the only ruins
+left of your true ancients?  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 75
+Door 0 0 0 34122 0 0
+~
+~
+Door 1 0 0 34120 0 0
+~
+~
+Door 2 0 0 34112 0 0
+~
+~
+End
+
+#34122
+Name Following an Un-Known Track~
+Descr
+You are travelling down a track, and it appears not to have been used for
+many years.  You notice it is really beat up, and worn down like it has also
+been used for travellers of your time also.  Could this be the only ruins
+left of your true ancients?  
+~
+Flags 4
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Door 1 0 0 34123 0 0
+~
+~
+Door 2 0 0 34121 0 0
+~
+~
+End
+
+#34123
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 1 0 0 34124 0 0
+~
+~
+Door 2 0 0 34120 0 0
+~
+~
+Door 3 0 0 34122 0 0
+~
+~
+End
+
+#34124
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 1 0 0 34125 0 0
+~
+~
+Door 2 0 0 34119 0 0
+~
+~
+Door 3 0 0 34123 0 0
+~
+~
+End
+
+#34125
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Door 1 0 0 34126 0 0
+~
+~
+Door 2 0 0 34118 0 0
+~
+~
+Door 3 0 0 34124 0 0
+~
+~
+End
+
+#34126
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 2 0 0 34117 0 0
+~
+~
+Door 3 0 0 34125 0 0
+~
+~
+End
+
+#34127
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34111 0 0
+~
+~
+Door 1 0 0 34128 0 0
+~
+~
+End
+
+#34128
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34112 0 0
+~
+~
+Door 1 0 0 34129 0 0
+~
+~
+Door 3 0 0 34127 0 0
+~
+~
+End
+
+#34129
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34113 0 0
+~
+~
+Door 1 0 0 34130 0 0
+~
+~
+Door 3 0 0 34128 0 0
+~
+~
+End
+
+#34130
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 0 0 0 34114 0 0
+~
+~
+Door 1 0 0 34131 0 0
+~
+~
+Door 3 0 0 34129 0 0
+~
+~
+End
+
+#34131
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 0 0 0 34115 0 0
+~
+~
+Door 1 0 0 34132 0 0
+~
+~
+Door 3 0 0 34130 0 0
+~
+~
+End
+
+#34132
+Name Following an Un-Known Track~
+Descr
+These once crowded tracks are abondoned and are now desolate, but are
+actually quite cold.  You feel that if the ceiling were actually the sky, it
+would be having a blizzard right now.  A mouse occasionally scurrys across
+your foot, appearing to be one of the lone survivors of this wreckage.  
+~
+Flags 4
+Door 0 0 0 34116 0 0
+~
+~
+Door 3 0 0 34131 0 0
+~
+~
+End
+
+#34133
+Name A Deep Earthen Tunnel~
+Descr
+You have entered a deep, dark, earthen tunnel.  The floor, ceiling, and
+walls seem to be made up of mud and only mud.  There is a bright light
+coming from above, and exits to the east and south.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Reset M 34008 50 100
+Door 1 0 0 34137 0 0
+~
+~
+Door 2 0 0 34134 0 0
+~
+~
+Door 4 0 0 34119 0 0
+~
+~
+End
+
+#34134
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Door 0 0 0 34133 0 0
+~
+~
+Door 1 0 0 34138 0 0
+~
+~
+Door 2 0 0 34135 0 0
+~
+~
+End
+
+#34135
+Name A Deep Earthen Tunnel~
+Descr
+You enjoy the cool breeze and the loss of all the crowded rooms as you
+were experiencing before.  Just a few golems travel here, however they
+looked tired like they are being used as slaves.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34134 0 0
+~
+~
+Door 1 0 0 34139 0 0
+~
+~
+Door 2 0 0 34136 0 0
+~
+~
+End
+
+#34136
+Name A Deep Earthen Tunnel~
+Descr
+You are in the corner of this deep tunnel.  The tunnels down here are
+much less crowded, with only a few dreaded golems bothering you down here. 
+There are exits to the north and east.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34135 0 0
+~
+~
+Door 1 0 0 34140 0 0
+~
+~
+End
+
+#34137
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34010 12 100
+Reset O 34002 34010 75
+Reset M 34008 50 100
+Door 1 0 0 34141 0 0
+~
+~
+Door 2 0 0 34138 0 0
+~
+~
+Door 3 0 0 34133 0 0
+~
+~
+End
+
+#34138
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34010 12 100
+Reset O 34002 34010 13
+Reset M 34008 50 100
+Door 0 0 0 34137 0 0
+~
+~
+Door 1 0 0 34142 0 0
+~
+~
+Door 2 0 0 34139 0 0
+~
+~
+Door 3 0 0 34134 0 0
+~
+~
+End
+
+#34139
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34138 0 0
+~
+~
+Door 1 0 0 34143 0 0
+~
+~
+Door 2 0 0 34140 0 0
+~
+~
+Door 3 0 0 34135 0 0
+~
+~
+End
+
+#34140
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34139 0 0
+~
+~
+Door 1 0 0 34144 0 0
+~
+~
+Door 3 0 0 34136 0 0
+~
+~
+End
+
+#34141
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34011 20 100
+Reset M 34009 25 100
+Door 1 0 0 34148 0 0
+~
+~
+Door 2 0 0 34142 0 0
+~
+~
+Door 3 0 0 34137 0 0
+~
+~
+End
+
+#34142
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Door 0 0 0 34141 0 0
+~
+~
+Door 1 0 0 34147 0 0
+~
+~
+Door 2 0 0 34143 0 0
+~
+~
+Door 3 0 0 34138 0 0
+~
+~
+End
+
+#34143
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34142 0 0
+~
+~
+Door 1 0 0 34146 0 0
+~
+~
+Door 2 0 0 34144 0 0
+~
+~
+Door 3 0 0 34139 0 0
+~
+~
+End
+
+#34144
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34143 0 0
+~
+~
+Door 1 0 0 34145 0 0
+~
+~
+Door 3 0 0 34140 0 0
+~
+~
+End
+
+#34145
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34009 25 100
+Door 0 0 0 34146 0 0
+~
+~
+Door 1 0 0 34152 0 0
+~
+~
+Door 3 0 0 34144 0 0
+~
+~
+End
+
+#34146
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34008 50 100
+Door 0 0 0 34147 0 0
+~
+~
+Door 1 0 0 34151 0 0
+~
+~
+Door 2 0 0 34145 0 0
+~
+~
+Door 3 0 0 34143 0 0
+~
+~
+End
+
+#34147
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34009 25 100
+Door 0 0 0 34148 0 0
+~
+~
+Door 1 0 0 34150 0 0
+~
+~
+Door 2 0 0 34146 0 0
+~
+~
+Door 3 0 0 34142 0 0
+~
+~
+End
+
+#34148
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Reset M 34011 20 100
+Door 1 0 0 34149 0 0
+~
+~
+Door 2 0 0 34147 0 0
+~
+~
+Door 3 0 0 34141 0 0
+~
+~
+End
+
+#34149
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Door 2 0 0 34150 0 0
+~
+~
+Door 3 0 0 34148 0 0
+~
+~
+End
+
+#34150
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Door 0 0 0 34149 0 0
+~
+~
+Door 2 0 0 34151 0 0
+~
+~
+Door 3 0 0 34147 0 0
+~
+~
+End
+
+#34151
+Name A Deep Earthen Tunnel~
+Descr
+Here you notice a strange breeze coming from the eastern wall, and this
+is the only wall that is not made of mud.  Maybe you should check this out. 
+~
+Flags 4
+Reset M 34009 25 100
+Door 0 0 0 34150 0 0
+~
+~
+Door 1 259 0 34153 30 30
+~
+slab~
+Door 2 0 0 34152 0 0
+~
+~
+Door 3 0 0 34146 0 0
+~
+~
+End
+
+#34152
+Name A Deep Earthen Tunnel~
+Descr
+You are in a earthern tunnel, deep into the ground.  It looks like an
+unknown beast formed most of this rechid place, leaving his great footsteps
+incrusted into the mud.  It seems that the only life in these tunnels are
+those of great demons and monsters.  
+~
+Flags 4
+Door 0 0 0 34151 0 0
+~
+~
+Door 3 0 0 34145 0 0
+~
+~
+End
+
+#34153
+Name In a Secret Chamber~
+Descr
+You have walked into a secret chamber.  The walls here are bright gold,
+same with the floor and the ceiling.  This is quite a shock coming fromt he
+pure mud outside.  There is a large wooden door, which is guarded by a large
+buckawn who looks pretty buff.  
+~
+Flags 4
+Reset M 34012 1 100
+Reset O 34003 12 6
+Door 3 259 0 34151 30 30
+~
+slab~
+End
+
+#34154
+Name A Stone Path Outside of Gnargnoc~
+Descr
+You are travelling on a stone path outside of gnargnoc.  You can see this
+path extends far to the east, and you also notice the city off to the west. 
+You can see this road if fairly new and has just been built.  
+~
+Door 1 0 0 34155 0 0
+~
+~
+Door 3 0 0 14031 0 0
+~
+~
+End
+
+#34155
+Name A Stone Path Outside of Gnargnoc~
+Descr
+As you continue on your venture, your tired feet feel as though they are
+just about to fall off.  However, to the west, you make out the now powerful
+hometown of the whities, gnargnoc.  The stone path continues to the east.  
+~
+Door 1 0 0 34156 0 0
+~
+~
+Door 3 0 0 34154 0 0
+~
+~
+End
+
+#34156
+Name Ending of the Stone Path~
+Descr
+You have come to the end of this stone path, and the path starts to turn
+very damp.  Far off to the west you see the powerful city of gnargnoc, and
+to the south you can make out a damp path and further on a dense jungle.  
+~
+Door 2 0 0 34001 0 0
+~
+~
+Door 3 0 0 34155 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,2006 @@
+#AREADATA 
+Name danimal's first~
+Repop The area seems alive again!~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Danimal~
+VNUMs 74301 74600
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#74301
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#74301
+Name d'animal sword~
+Short a d'animal sword~
+Descr
+A sword with the symbol of the d'animal lies here, better not take it.
+[0;36m~
+Type 5
+Extra 2097219
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 0 1 1 0
+Weight 0
+Cost 32000
+End
+
+#0
+
+
+
+#ROOMDATA
+#74301
+Name A Path Through a Field~
+Descr
+~
+Door 2 0 0 74302 0 0
+~
+~
+End
+
+#74302
+Name ~
+Descr
+~
+Door 0 0 0 74301 0 0
+~
+~
+Door 2 0 0 74303 0 0
+~
+~
+End
+
+#74303
+Name ~
+Descr
+~
+Door 0 0 0 74302 0 0
+~
+~
+Door 2 0 0 74304 0 0
+~
+~
+End
+
+#74304
+Name ~
+Descr
+~
+Door 0 0 0 74303 0 0
+~
+~
+Door 2 0 0 74305 0 0
+~
+~
+End
+
+#74305
+Name ~
+Descr
+~
+Door 0 0 0 74304 0 0
+~
+~
+Door 2 0 0 74306 0 0
+~
+~
+End
+
+#74306
+Name ~
+Descr
+~
+Door 0 0 0 74305 0 0
+~
+~
+Door 2 0 0 74307 0 0
+~
+~
+End
+
+#74307
+Name ~
+Descr
+~
+Door 0 0 0 74306 0 0
+~
+~
+Door 2 0 0 74308 0 0
+~
+~
+End
+
+#74308
+Name ~
+Descr
+~
+Door 0 0 0 74307 0 0
+~
+~
+Door 2 0 0 74309 0 0
+~
+~
+End
+
+#74309
+Name ~
+Descr
+~
+Door 0 0 0 74308 0 0
+~
+~
+Door 2 0 0 74310 0 0
+~
+~
+End
+
+#74310
+Name ~
+Descr
+~
+Door 0 0 0 74309 0 0
+~
+~
+End
+
+#74311
+Name ~
+Descr
+~
+End
+
+#74312
+Name ~
+Descr
+~
+Door 1 0 0 74313 0 0
+~
+~
+Door 2 0 0 74342 0 0
+~
+~
+Door 3 0 0 74311 0 0
+~
+~
+End
+
+#74313
+Name ~
+Descr
+~
+End
+
+#74314
+Name ~
+Descr
+~
+Door 1 0 0 74315 0 0
+~
+~
+Door 2 0 0 74344 0 0
+~
+~
+Door 3 0 0 74313 0 0
+~
+~
+End
+
+#74315
+Name ~
+Descr
+~
+End
+
+#74316
+Name ~
+Descr
+~
+Door 1 0 0 74317 0 0
+~
+~
+Door 2 0 0 74346 0 0
+~
+~
+Door 3 0 0 74315 0 0
+~
+~
+End
+
+#74317
+Name ~
+Descr
+~
+Door 1 0 0 74318 0 0
+~
+~
+Door 2 0 0 74347 0 0
+~
+~
+Door 3 0 0 74316 0 0
+~
+~
+End
+
+#74318
+Name ~
+Descr
+~
+End
+
+#74319
+Name ~
+Descr
+~
+End
+
+#74320
+Name ~
+Descr
+~
+End
+
+#74321
+Name ~
+Descr
+~
+End
+
+#74322
+Name ~
+Descr
+~
+Door 1 0 0 74323 0 0
+~
+~
+Door 2 0 0 74352 0 0
+~
+~
+Door 3 0 0 74321 0 0
+~
+~
+End
+
+#74323
+Name ~
+Descr
+~
+End
+
+#74324
+Name ~
+Descr
+~
+End
+
+#74325
+Name ~
+Descr
+~
+Door 1 0 0 74326 0 0
+~
+~
+Door 2 0 0 74355 0 0
+~
+~
+Door 3 0 0 74324 0 0
+~
+~
+End
+
+#74326
+Name ~
+Descr
+~
+End
+
+#74327
+Name ~
+Descr
+~
+End
+
+#74328
+Name ~
+Descr
+~
+End
+
+#74329
+Name ~
+Descr
+~
+End
+
+#74330
+Name ~
+Descr
+~
+End
+
+#74331
+Name ~
+Descr
+~
+End
+
+#74332
+Name ~
+Descr
+~
+End
+
+#74333
+Name ~
+Descr
+~
+End
+
+#74334
+Name ~
+Descr
+~
+Door 0 0 0 74304 0 0
+~
+~
+Door 1 0 0 74335 0 0
+~
+~
+Door 3 0 0 74333 0 0
+~
+~
+End
+
+#74335
+Name ~
+Descr
+~
+Door 0 0 0 74305 0 0
+~
+~
+Door 1 0 0 74336 0 0
+~
+~
+Door 3 0 0 74334 0 0
+~
+~
+End
+
+#74336
+Name ~
+Descr
+~
+End
+
+#74337
+Name ~
+Descr
+~
+End
+
+#74338
+Name ~
+Descr
+~
+End
+
+#74339
+Name ~
+Descr
+~
+End
+
+#74340
+Name ~
+Descr
+~
+End
+
+#74341
+Name ~
+Descr
+~
+End
+
+#74342
+Name ~
+Descr
+~
+Door 0 0 0 74312 0 0
+~
+~
+Door 1 0 0 74343 0 0
+~
+~
+Door 3 0 0 74341 0 0
+~
+~
+End
+
+#74343
+Name ~
+Descr
+~
+End
+
+#74344
+Name ~
+Descr
+~
+End
+
+#74345
+Name ~
+Descr
+~
+End
+
+#74346
+Name ~
+Descr
+~
+End
+
+#74347
+Name ~
+Descr
+~
+End
+
+#74348
+Name ~
+Descr
+~
+End
+
+#74349
+Name ~
+Descr
+~
+End
+
+#74350
+Name ~
+Descr
+~
+End
+
+#74351
+Name ~
+Descr
+~
+Door 0 0 0 74321 0 0
+~
+~
+Door 1 0 0 74352 0 0
+~
+~
+Door 3 0 0 74350 0 0
+~
+~
+End
+
+#74352
+Name ~
+Descr
+~
+End
+
+#74353
+Name ~
+Descr
+~
+End
+
+#74354
+Name ~
+Descr
+~
+End
+
+#74355
+Name ~
+Descr
+~
+End
+
+#74356
+Name ~
+Descr
+~
+End
+
+#74357
+Name ~
+Descr
+~
+Door 0 0 0 74327 0 0
+~
+~
+Door 1 0 0 74358 0 0
+~
+~
+Door 3 0 0 74356 0 0
+~
+~
+End
+
+#74358
+Name ~
+Descr
+~
+End
+
+#74359
+Name ~
+Descr
+~
+End
+
+#74360
+Name ~
+Descr
+~
+End
+
+#74361
+Name ~
+Descr
+~
+End
+
+#74362
+Name ~
+Descr
+~
+End
+
+#74363
+Name ~
+Descr
+~
+End
+
+#74364
+Name ~
+Descr
+~
+End
+
+#74365
+Name ~
+Descr
+~
+End
+
+#74366
+Name ~
+Descr
+~
+End
+
+#74367
+Name ~
+Descr
+~
+End
+
+#74368
+Name ~
+Descr
+~
+End
+
+#74369
+Name ~
+Descr
+~
+End
+
+#74370
+Name ~
+Descr
+~
+End
+
+#74371
+Name ~
+Descr
+~
+End
+
+#74372
+Name ~
+Descr
+~
+End
+
+#74373
+Name ~
+Descr
+~
+End
+
+#74374
+Name ~
+Descr
+~
+End
+
+#74375
+Name ~
+Descr
+~
+End
+
+#74376
+Name ~
+Descr
+~
+End
+
+#74377
+Name ~
+Descr
+~
+End
+
+#74378
+Name ~
+Descr
+~
+End
+
+#74379
+Name ~
+Descr
+~
+End
+
+#74380
+Name ~
+Descr
+~
+End
+
+#74381
+Name ~
+Descr
+~
+End
+
+#74382
+Name ~
+Descr
+~
+End
+
+#74383
+Name ~
+Descr
+~
+End
+
+#74384
+Name ~
+Descr
+~
+End
+
+#74385
+Name ~
+Descr
+~
+End
+
+#74386
+Name ~
+Descr
+~
+End
+
+#74387
+Name ~
+Descr
+~
+End
+
+#74388
+Name ~
+Descr
+~
+End
+
+#74389
+Name ~
+Descr
+~
+End
+
+#74390
+Name ~
+Descr
+~
+End
+
+#74391
+Name ~
+Descr
+~
+End
+
+#74392
+Name ~
+Descr
+~
+End
+
+#74393
+Name ~
+Descr
+~
+End
+
+#74394
+Name ~
+Descr
+~
+End
+
+#74395
+Name ~
+Descr
+~
+End
+
+#74396
+Name ~
+Descr
+~
+End
+
+#74397
+Name ~
+Descr
+~
+End
+
+#74398
+Name ~
+Descr
+~
+End
+
+#74399
+Name ~
+Descr
+~
+End
+
+#74400
+Name ~
+Descr
+~
+End
+
+#74401
+Name ~
+Descr
+~
+End
+
+#74402
+Name ~
+Descr
+~
+End
+
+#74403
+Name ~
+Descr
+~
+End
+
+#74404
+Name ~
+Descr
+~
+End
+
+#74405
+Name ~
+Descr
+~
+End
+
+#74406
+Name ~
+Descr
+~
+End
+
+#74407
+Name ~
+Descr
+~
+End
+
+#74408
+Name ~
+Descr
+~
+End
+
+#74409
+Name ~
+Descr
+~
+End
+
+#74410
+Name ~
+Descr
+~
+End
+
+#74411
+Name ~
+Descr
+~
+End
+
+#74412
+Name ~
+Descr
+~
+End
+
+#74413
+Name ~
+Descr
+~
+End
+
+#74414
+Name ~
+Descr
+~
+End
+
+#74415
+Name ~
+Descr
+~
+End
+
+#74416
+Name ~
+Descr
+~
+End
+
+#74417
+Name ~
+Descr
+~
+End
+
+#74418
+Name ~
+Descr
+~
+End
+
+#74419
+Name ~
+Descr
+~
+End
+
+#74420
+Name ~
+Descr
+~
+End
+
+#74421
+Name ~
+Descr
+~
+End
+
+#74422
+Name ~
+Descr
+~
+End
+
+#74423
+Name ~
+Descr
+~
+End
+
+#74424
+Name ~
+Descr
+~
+End
+
+#74425
+Name ~
+Descr
+~
+End
+
+#74426
+Name ~
+Descr
+~
+End
+
+#74427
+Name ~
+Descr
+~
+End
+
+#74428
+Name ~
+Descr
+~
+End
+
+#74429
+Name ~
+Descr
+~
+End
+
+#74430
+Name ~
+Descr
+~
+End
+
+#74431
+Name ~
+Descr
+~
+End
+
+#74432
+Name ~
+Descr
+~
+End
+
+#74433
+Name ~
+Descr
+~
+End
+
+#74434
+Name ~
+Descr
+~
+End
+
+#74435
+Name ~
+Descr
+~
+End
+
+#74436
+Name ~
+Descr
+~
+End
+
+#74437
+Name ~
+Descr
+~
+End
+
+#74438
+Name ~
+Descr
+~
+End
+
+#74439
+Name ~
+Descr
+~
+End
+
+#74440
+Name ~
+Descr
+~
+End
+
+#74441
+Name ~
+Descr
+~
+End
+
+#74442
+Name ~
+Descr
+~
+End
+
+#74443
+Name ~
+Descr
+~
+End
+
+#74444
+Name ~
+Descr
+~
+End
+
+#74445
+Name ~
+Descr
+~
+End
+
+#74446
+Name ~
+Descr
+~
+End
+
+#74447
+Name ~
+Descr
+~
+End
+
+#74448
+Name ~
+Descr
+~
+End
+
+#74449
+Name ~
+Descr
+~
+End
+
+#74450
+Name ~
+Descr
+~
+End
+
+#74451
+Name ~
+Descr
+~
+End
+
+#74452
+Name ~
+Descr
+~
+End
+
+#74453
+Name ~
+Descr
+~
+End
+
+#74454
+Name ~
+Descr
+~
+End
+
+#74455
+Name ~
+Descr
+~
+End
+
+#74456
+Name ~
+Descr
+~
+End
+
+#74457
+Name ~
+Descr
+~
+End
+
+#74458
+Name ~
+Descr
+~
+End
+
+#74459
+Name ~
+Descr
+~
+End
+
+#74460
+Name ~
+Descr
+~
+End
+
+#74462
+Name ~
+Descr
+~
+End
+
+#74463
+Name ~
+Descr
+~
+End
+
+#74464
+Name ~
+Descr
+~
+End
+
+#74465
+Name ~
+Descr
+~
+End
+
+#74466
+Name ~
+Descr
+~
+End
+
+#74467
+Name ~
+Descr
+~
+End
+
+#74468
+Name ~
+Descr
+~
+End
+
+#74469
+Name ~
+Descr
+~
+End
+
+#74470
+Name ~
+Descr
+~
+End
+
+#74471
+Name ~
+Descr
+~
+End
+
+#74472
+Name ~
+Descr
+~
+End
+
+#74473
+Name ~
+Descr
+~
+End
+
+#74474
+Name ~
+Descr
+~
+End
+
+#74475
+Name ~
+Descr
+~
+End
+
+#74476
+Name ~
+Descr
+~
+End
+
+#74477
+Name ~
+Descr
+~
+End
+
+#74478
+Name ~
+Descr
+~
+End
+
+#74479
+Name ~
+Descr
+~
+End
+
+#74480
+Name ~
+Descr
+~
+End
+
+#74481
+Name ~
+Descr
+~
+End
+
+#74482
+Name ~
+Descr
+~
+End
+
+#74483
+Name ~
+Descr
+~
+End
+
+#74484
+Name ~
+Descr
+~
+End
+
+#74485
+Name ~
+Descr
+~
+End
+
+#74486
+Name ~
+Descr
+~
+End
+
+#74487
+Name ~
+Descr
+~
+End
+
+#74488
+Name ~
+Descr
+~
+End
+
+#74489
+Name ~
+Descr
+~
+End
+
+#74490
+Name ~
+Descr
+~
+End
+
+#74491
+Name ~
+Descr
+~
+End
+
+#74492
+Name ~
+Descr
+~
+End
+
+#74493
+Name ~
+Descr
+~
+End
+
+#74494
+Name ~
+Descr
+~
+End
+
+#74495
+Name ~
+Descr
+~
+End
+
+#74496
+Name ~
+Descr
+~
+End
+
+#74497
+Name ~
+Descr
+~
+End
+
+#74498
+Name ~
+Descr
+~
+End
+
+#74499
+Name ~
+Descr
+~
+End
+
+#74500
+Name ~
+Descr
+~
+End
+
+#74501
+Name ~
+Descr
+~
+End
+
+#74502
+Name ~
+Descr
+~
+End
+
+#74503
+Name ~
+Descr
+~
+End
+
+#74504
+Name ~
+Descr
+~
+End
+
+#74505
+Name ~
+Descr
+~
+End
+
+#74506
+Name ~
+Descr
+~
+End
+
+#74507
+Name ~
+Descr
+~
+End
+
+#74508
+Name ~
+Descr
+~
+End
+
+#74509
+Name ~
+Descr
+~
+End
+
+#74510
+Name ~
+Descr
+~
+End
+
+#74511
+Name ~
+Descr
+~
+End
+
+#74512
+Name ~
+Descr
+~
+End
+
+#74513
+Name ~
+Descr
+~
+End
+
+#74514
+Name ~
+Descr
+~
+End
+
+#74515
+Name ~
+Descr
+~
+End
+
+#74516
+Name ~
+Descr
+~
+End
+
+#74517
+Name ~
+Descr
+~
+End
+
+#74518
+Name ~
+Descr
+~
+End
+
+#74519
+Name ~
+Descr
+~
+End
+
+#74520
+Name ~
+Descr
+~
+End
+
+#74521
+Name ~
+Descr
+~
+End
+
+#74522
+Name ~
+Descr
+~
+End
+
+#74523
+Name ~
+Descr
+~
+End
+
+#74524
+Name ~
+Descr
+~
+End
+
+#74525
+Name ~
+Descr
+~
+End
+
+#74526
+Name ~
+Descr
+~
+End
+
+#74527
+Name ~
+Descr
+~
+End
+
+#74528
+Name ~
+Descr
+~
+End
+
+#74529
+Name ~
+Descr
+~
+End
+
+#74530
+Name ~
+Descr
+~
+End
+
+#74531
+Name ~
+Descr
+~
+End
+
+#74532
+Name ~
+Descr
+~
+End
+
+#74533
+Name ~
+Descr
+~
+End
+
+#74534
+Name ~
+Descr
+~
+End
+
+#74535
+Name ~
+Descr
+~
+End
+
+#74536
+Name ~
+Descr
+~
+End
+
+#74537
+Name ~
+Descr
+~
+End
+
+#74538
+Name ~
+Descr
+~
+End
+
+#74539
+Name ~
+Descr
+~
+End
+
+#74540
+Name ~
+Descr
+~
+End
+
+#74541
+Name ~
+Descr
+~
+End
+
+#74542
+Name ~
+Descr
+~
+End
+
+#74543
+Name ~
+Descr
+~
+End
+
+#74544
+Name ~
+Descr
+~
+End
+
+#74545
+Name ~
+Descr
+~
+End
+
+#74546
+Name ~
+Descr
+~
+End
+
+#74547
+Name ~
+Descr
+~
+End
+
+#74548
+Name ~
+Descr
+~
+End
+
+#74549
+Name ~
+Descr
+~
+End
+
+#74550
+Name ~
+Descr
+~
+End
+
+#74551
+Name ~
+Descr
+~
+End
+
+#74552
+Name ~
+Descr
+~
+End
+
+#74553
+Name ~
+Descr
+~
+End
+
+#74554
+Name ~
+Descr
+~
+End
+
+#74555
+Name ~
+Descr
+~
+End
+
+#74556
+Name ~
+Descr
+~
+End
+
+#74557
+Name ~
+Descr
+~
+End
+
+#74558
+Name ~
+Descr
+~
+End
+
+#74559
+Name ~
+Descr
+~
+End
+
+#74560
+Name ~
+Descr
+~
+End
+
+#74561
+Name ~
+Descr
+~
+End
+
+#74562
+Name ~
+Descr
+~
+End
+
+#74563
+Name ~
+Descr
+~
+End
+
+#74564
+Name ~
+Descr
+~
+End
+
+#74565
+Name ~
+Descr
+~
+End
+
+#74566
+Name ~
+Descr
+~
+End
+
+#74567
+Name ~
+Descr
+~
+End
+
+#74568
+Name ~
+Descr
+~
+End
+
+#74569
+Name ~
+Descr
+~
+End
+
+#74570
+Name ~
+Descr
+~
+End
+
+#74571
+Name ~
+Descr
+~
+End
+
+#74572
+Name ~
+Descr
+~
+End
+
+#74573
+Name ~
+Descr
+~
+End
+
+#74574
+Name ~
+Descr
+~
+End
+
+#74575
+Name ~
+Descr
+~
+End
+
+#74576
+Name ~
+Descr
+~
+End
+
+#74577
+Name ~
+Descr
+~
+End
+
+#74578
+Name ~
+Descr
+~
+End
+
+#74579
+Name ~
+Descr
+~
+End
+
+#74580
+Name ~
+Descr
+~
+End
+
+#74581
+Name ~
+Descr
+~
+End
+
+#74582
+Name ~
+Descr
+~
+End
+
+#74583
+Name ~
+Descr
+~
+End
+
+#74584
+Name ~
+Descr
+~
+End
+
+#74585
+Name ~
+Descr
+~
+End
+
+#74586
+Name ~
+Descr
+~
+End
+
+#74587
+Name ~
+Descr
+~
+End
+
+#74588
+Name ~
+Descr
+~
+End
+
+#74589
+Name ~
+Descr
+~
+End
+
+#74590
+Name ~
+Descr
+~
+End
+
+#74591
+Name ~
+Descr
+~
+End
+
+#74592
+Name ~
+Descr
+~
+End
+
+#74593
+Name ~
+Descr
+~
+End
+
+#74594
+Name ~
+Descr
+~
+End
+
+#74595
+Name ~
+Descr
+~
+End
+
+#74596
+Name ~
+Descr
+~
+End
+
+#74597
+Name ~
+Descr
+~
+End
+
+#74598
+Name ~
+Descr
+~
+End
+
+#74599
+Name ~
+Descr
+~
+End
+
+#74600
+Name ~
+Descr
+~
+End
+
+#0
+
+
+
+#$

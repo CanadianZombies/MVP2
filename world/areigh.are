@@ -1,0 +1,3650 @@
+#AREADATA 
+Name High-Elven Abode~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe sound of songs fills the air once again.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Shelter~
+VNUMs 41001 41200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#41001
+Name ghost ancient~
+Short an ancient ghost~
+Long 
+An ancient ghost stands here guarding the square.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 2
+Affect_By 524936
+Money 50
+Level 50
+Sex 1
+MobType 21
+Guard 0
+ArmorClass -75
+End
+
+#41002
+Name soul wandering~
+Short a wandering soul~
+Long 
+A wandering soul floats about the area.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 554
+Alignment 200
+Money 30
+Level 30
+Sex 2
+MobType 21
+Guard 0
+ArmorClass -60
+End
+
+#41003
+Name captain elf guard high-elven~
+Short high-elf guard captain~
+Long 
+The captain of the high-elven guard stands here shuffling through papers.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 520
+Alignment 200
+Money 300
+Level 300
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41004
+Name guard elite high elf elven~
+Short a high-elven elite guard~
+Long 
+A strong-looking elf stands at guard.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 3
+Affect_By 520
+Alignment 100
+Money 62
+Level 62
+Sex 1
+MobType 1
+Guard 3
+Spec spec_warrior
+End
+
+#41005
+Name elf soldier~
+Short a high-elven outpost soldier~
+Long 
+A ready soldier wanders the outpost.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 520
+Alignment 50
+Money 41
+Level 41
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41006
+Name stone giant large~
+Short a stone giant~
+Long 
+A large giant stares down at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Alignment -500
+Money 127
+Level 127
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#41007
+Name nUKE ME~
+Short nUKE ME~
+Long 
+A giant vulture hovers, eyeing you keenly.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 9
+Affect_By 524288
+Alignment -50
+Money 20
+Level 20
+MobType 13
+Guard 0
+ArmorClass 50
+End
+
+#41008
+Name nUKE ME~
+Short nUKE ME~
+Long 
+An old, tired man stands here before you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+ActBits4 8192
+Affect_By 50339976
+Alignment -1000
+Money 140
+Level 140
+Sex 1
+MobType 0
+Guard 0
+End
+
+#41009
+Name high elf guard elven cityguard~
+Short a high-elven cityguard~
+Long 
+A high-elven cityguard watches you as he walks by.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits 1
+Affect_By 552
+Alignment 100
+Money 40
+Level 40
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41010
+Name elf high cleric elven~
+Short a high-elven cleric~
+Long 
+A high-elven cleric strolls about the city.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 680
+Alignment 200
+Money 45
+Level 45
+Sex 1
+MobType 1
+Guard 0
+End
+
+#41011
+Name prince elf high elven~
+Short the high-elf prince~
+Long 
+The prince of the high-elves walks around the room silently.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Alignment 500
+Money 200
+Level 200
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41012
+Name dragon blue giant gigantic~
+Short a gigantic blue dragon~
+Long 
+A huge, blue-scaled foot can be seen peeking out of the shadows.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 1107886762
+Alignment -200
+Money 150
+Level 150
+MobType 5
+Guard 0
+ArmorClass -190
+End
+
+#41013
+Name queen elf high elven~
+Short the high-elf queen~
+Long 
+The highelven queen sits silently in her chamber in grief.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits4 8192
+Affect_By 680
+Alignment 500
+Money 215
+Level 215
+Sex 2
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41014
+Name royal guard elf high elven~
+Short a royal high-elven guard~
+Long 
+A royal guard of the high-elves walks around the palace.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment 50
+Money 61
+Level 61
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41015
+Name nUKE ME~
+Short nUKE ME~
+Long 
+(no long description)~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Level 0
+Guard 0
+End
+
+#41016
+Name sentinel elf elven royal~
+Short a royal elven sentinel~
+Long 
+A royal elven guard stands here, protecting the palace from evil.
+~
+Descr
+~
+AMax 0
+NHeight 50
+ActBits 3
+Affect_By 168
+Alignment 200
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+End
+
+#41017
+Name sentinel royal elven elf~
+Short a royal elven sentinel~
+Long 
+A royal elven guard stands here, protecting the palace from evil.
+~
+Descr
+~
+AMax 2
+NHeight 50
+ActBits 3
+Affect_By 680
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 2
+End
+
+#41020
+Name huge stone guardian guard~
+Short a huge stone guardian~
+Long 
+A huge stone guardian stands at watch here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 3
+Affect_By 168
+Alignment 200
+Money 75
+Level 75
+Sex 1
+MobType 4
+Guard 2
+Spec spec_warrior
+End
+
+#41025
+Name elven armorer man elf~
+Short the elven armorer~
+Long 
+The elven armorer is here offering to sell you some of his wares.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097155
+Affect_By 8
+Alignment 200
+Money 50
+Level 50
+MobType 1
+Guard 0
+Spec spec_warrior
+Shop    9   0   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#41026
+Name elven mage shopkeeper elf~
+Short an elven shopkeeper~
+Long 
+An elven mage is here tending to his shop.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Alignment 200
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+Shop    0   0   0   0   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#41027
+Name elven elf weapon weaponsmirth ~
+Short the elven weaponsmith~
+Long 
+An elf with a gleaming sword stands here offering to sell you something.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1048579
+Affect_By 8
+Alignment 200
+Money 50
+Level 50
+Sex 1
+MobType 1
+Guard 0
+Shop    0   0   0   5   0 130 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#41047
+Name elite high elf elven fighter man~
+Short a high-elven elite fighter~
+Long 
+A strong-looking elf stands here watching you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 128
+Alignment 500
+Money 150
+Level 150
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41048
+Name elite mage elf highelven~
+Short high-elven elite mage~
+Long 
+The high-elven elite mage stands here pondering your arrival.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 259
+Affect_By 168
+Alignment 300
+Money 150
+Level 150
+Sex 1
+MobType 1
+Guard 0
+End
+
+#41140
+Name evil giant~
+Short an evil giant~
+Long 
+An evil giant hides in the corner's shadows.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 65704
+Alignment -500
+Money 50
+Level 50
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#41149
+Name advisor corrupt elf elven~
+Short a corrupt advisor~
+Long 
+A corrupt elven advisor has proclaimed himself king here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 140
+Alignment -1000
+Money 129
+Level 129
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41151
+Name cleric elven high elf~
+Short a royal cleric~
+Long 
+The royal high-elven cleric is hard at work in his lab.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 168
+Alignment 200
+Money 72
+Level 72
+Sex 1
+MobType 1
+Guard 0
+End
+
+#41155
+Name advisor high elf elven royal~
+Short a royal advisor~
+Long 
+A royal high-elven advisor stands here in the darkness.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 680
+Alignment 200
+Money 125
+Level 125
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#41157
+Name giant evil warrior~
+Short an evil giant warrior~
+Long 
+An evil giant warrior hides in the shadows here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 66216
+Alignment -1000
+Money 150
+Level 150
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#41199
+Name nUKE ME~
+Short nUKE ME~
+Long 
+a money-sucking, cheating, whore stands here looking you over lustily.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 67108865
+Affect_By 168
+Alignment -1000
+Money 1000
+Level 1000
+Sex 2
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#41013
+Name key scaly~
+Short a scaly key~
+Descr
+A key that appears to be made of scales lies here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#41101
+Name ancient bag of wisdom~
+Short An ancient bag of wisdom~
+Descr
+An ancient bag of wisdom lies here on the floor.
+[0;36m~
+Type 15
+Extra 64
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 150 1 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 4 1 1 0 0
+End
+
+#915
+Name fountain crumbling~
+Short a crumbling fountain~
+Descr
+A crumbling fountain is here, trickling into a small stream.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#916
+Name sword stone~
+Short a sword of stone~
+Descr
+A sword carved from a large stone lies here.
+[0;36m~
+Type 5
+Extra 2097154
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 3 0 0 0 3 4 0
+Weight 15
+Cost 12024
+Affect 18 -2 1 0 0
+End
+
+#917
+Name no name~
+Short a strange rock~
+Descr
+A strangely formed rock rises from the ground, providing light for the city.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#918
+Name gleaming halo~
+Short a gleaming halo~
+Descr
+A bright circle lies on the floor, gleaming in the light.
+[0;36m~
+Type 9
+Extra 545261569
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 5 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+Affect 19 1 1 0 0
+End
+
+#919
+Name skin body translucent armor~
+Short a [36mtranslucent [0mskin~
+Descr
+A strange, clear skin lies on the ground here.
+[0;36m~
+Type 9
+Extra 536872962
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 50 50 0 0
+Weight 5
+Cost 12032
+Affect 2 1 1 0 0
+Affect 17 -3 1 0 0
+End
+
+#920
+Name shield purple strange~
+Short a strange [35mpurple [0mshield~
+Descr
+A shield of royal purple lies here.
+[0;36m~
+Type 9
+Extra 1
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 1 0 0 50 50 0 0
+Weight 8
+Cost 3004
+End
+
+#921
+Name strange purple greaves~
+Short some strange [35mpurple [0mgreaves~
+Descr
+Some well-crafted greaves of royal purple lie here.
+[0;36m~
+Type 9
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 0 0 0 0 0 50 50 0 0
+Weight 7
+Cost 5003
+Affect 22 1 1 0 0
+End
+
+#922
+Name robes purple robe~
+Short a purple robe~
+Descr
+A robe of royal purple lies here in a pile.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 1
+Cost 503
+Affect 13 2 1 0 0
+End
+
+#923
+Name face expression blank~
+Short a blank expression~
+Descr
+A strange face lies on the ground here, obviously misplaced.
+[0;36m~
+Type 9
+Extra 536872960
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 2034
+Affect 20 -6 1 0 0
+End
+
+#924
+Name blue shoulder pad dragonscale~
+Short a [1m[34mblue [0mdragonscale shoulder pad~
+Descr
+[1m[34mA strange, blue shoulder pad lies here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 10 10 40 40 10 1
+Weight 2
+Cost 11023
+Affect 17 -1 1 0 0
+Affect 14 10 1 0 0
+Affect 19 1 1 0 0
+End
+
+#925
+Name mask dragon blue~
+Short a [1m[34mblue [0mdragon mask~
+Descr
+[1m[34mA blue mask lies here aging silently.
+[0;36m~
+Type 9
+Extra 536872961
+Wear 65537
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 50 50 0 0
+Weight 0
+Cost 0
+Affect 1 1 1 0 0
+End
+
+#926
+Name ring purple elven~
+Short a [35mpurple [0melven ring~
+Descr
+A elven ring of a purple color lies here.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 50 50 0 0
+Weight 1
+Cost 1203
+Affect 2 1 1 0 0
+Affect 19 1 1 0 0
+Affect 17 -1 1 0 0
+Affect 18 1 1 0 0
+End
+
+#927
+Name old anklet ancient~
+Short an ancient anklet~
+Descr
+A old-looking anklet lies in the dirt here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 0 50 50 0 0
+Weight 0
+Cost 1000
+Affect 17 -2 1 0 0
+Affect 18 1 1 0 0
+Affect 3 1 1 0 0
+End
+
+#928
+Name gold golden vambraces~
+Short a pair of [33m[1mgolden [0mvambraces~
+Descr
+A pair of well-made vambraces lie here, shining their golden color in the light.
+[0;36m~
+Type 9
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 50 50 0 0
+Weight 4
+Cost 1500
+Affect 17 -1 1 0 0
+End
+
+#929
+Name blade blue crystalline crystal~
+Short [1m[34ma Blue Crystalline Blade[0m~
+Descr
+A gleaming blue blade sparkles in the light here.
+[0;36m~
+Type 5
+Extra 541327362
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 30 12 0 3 0 0 0 3 6 0
+Weight 6
+Cost 12302
+Affect 18 2 1 0 0
+End
+
+#930
+Name earring opal~
+Short an [1mopal[0m earring~
+Descr
+A glowing white earring lies here glowing brightly.
+[0;36m~
+Type 9
+Extra 1
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 80 80 0 0
+Weight 0
+Cost 4203
+Affect 17 -1 1 0 0
+Affect 13 5 1 0 0
+Affect 14 5 1 0 0
+End
+
+#931
+Name aura white bright~
+Short a bright [1mwhite [0maura~
+Descr
+A strange white glow attactcs your attention here.
+[0;36m~
+Type 9
+Extra 545260547
+Wear 131073
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 11002
+Affect 17 -3 1 0 0
+Affect 3 1 1 0 0
+End
+
+#932
+Name blue crystal gauntlets~
+Short some [1m[34mblue [0mcrystal gauntlets~
+Descr
+A pair of sparkling gauntlets are begging for you to get them.
+[0;36m~
+Type 9
+Extra 536870912
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 3
+Cost 1904
+Affect 14 10 1 0 0
+Affect 19 1 1 0 0
+Affect 17 -1 1 0 0
+End
+
+#933
+Name fossil strange~
+Short a [33mstrange [0mfossil~
+Descr
+A strange rocky fossil lies here in a pile of dirt.
+[0;36m~
+Type 21
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 50 25 0 0 0 0 0 0
+Weight 3
+Cost 12320
+End
+
+#934
+Name runed white robe~
+Short a runed white robe~
+Descr
+A pile of strange white cloth lies here in a pile.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 3 0 1 0 0 25 25 0 0
+Weight 3
+Cost 343
+End
+
+#935
+Name scroll protect protection~
+Short a scroll of protection~
+Descr
+A scroll covered with strange writing lies here.
+[0;36m~
+Type 2
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 10423
+End
+
+#936
+Name gleaming necklace~
+Short [0m[37mA [1m[37mgleaming [0m[37mnecklace~
+Descr
+A bright necklace lies here, gleaming in the light.
+[0;36m~
+Type 9
+Extra 545259584
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 1 0 0 0 0 0 0 0
+Weight 1
+Cost 1000
+Affect 19 1 1 0 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#41001
+Name A Ruined Square~
+Descr
+Piles of rubble and trash line the area.  One might wonder exactly what
+occured here.  The once decorated fountain lies shattered, barely trickling
+water.  The strange glow coming from the north gives you an uneasy feeling.
+To the east is the top of a large staircase and to the west and south, more
+ruins.
+~
+Reset M 41001 1 100
+Reset O 915 -5 100
+Door 0 0 0 41003 30 30
+~
+door~
+Door 1 0 0 41002 30 30
+~
+door~
+Door 2 0 0 41009 30 30
+~
+door~
+Door 3 0 0 41005 30 30
+~
+door~
+End
+
+#41002
+Name Top of a Long, Spiraling Staircase~
+Descr
+This is the top of the staircase through the mountain.  The light hurts your
+eyes a bit after travelling for so long through the darkness below.  You are
+surrounded by some strange ruins. A path leads to the west into the ruins.
+~
+Reset M 41002 5 100
+Door 3 0 0 41001 30 30
+~
+door~
+Door 5 0 0 41102 0 0
+~
+~
+End
+
+#41003
+Name A Mirrored Corridor~
+Descr
+This area of the ruins seems more upkept than the rest.  For some reason
+there is almost no dust here.  The walls are lined with mirrors that almost
+seem enterable.  Obviously there is something strange about this corridor.
+The corridor continues to the north.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41004 30 30
+~
+door~
+Door 1 0 0 41003 30 30
+~
+door~
+Door 2 0 0 41001 30 30
+~
+door~
+Door 3 0 0 41003 30 30
+~
+door~
+End
+
+#41004
+Name A Mirrored Corridor~
+Descr
+This area of the ruins seems more upkept than the rest.  For some reason
+there is almost no dust here.  The walls are lined with mirrors that almost
+seem enterable.  Obviously there is something strange about this corridor.
+The corridor continues to the north and south, but from the east comes a
+strange, bright glow.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41015 30 30
+~
+door~
+Door 1 0 0 41011 30 30
+~
+door~
+Door 2 0 0 41003 30 30
+~
+door~
+End
+
+#41005
+Name Western Edge of Ruins~
+Descr
+On the edge of this towering cliff, the wind blows so powerfully that you
+find it hard to keep your balance.  The only thing that seems to be untouched
+by the decay of time is a large, marble statue that seems to watch over the
+area.  A bridge stretches out to the west out into the clouds.  The center
+of the ruins lies to the east.
+~
+Flags 2
+Door 1 0 0 41001 30 30
+~
+door~
+Door 3 0 0 41006 30 30
+~
+door~
+End
+
+#41006
+Name A Strange Stone Bridge~
+Descr
+This strange bridge seems to be just as old as the ruins to the east. It
+also appears to be swarming with vultures that don't want to leave you
+alone.  The bridge stretches out as far to the west as you can see.
+~
+Door 1 0 0 41005 30 30
+~
+door~
+Door 3 0 0 41007 30 30
+~
+door~
+End
+
+#41007
+Name A Strange Stone Bridge~
+Descr
+This strange bridge seems to be just as old as the ruins to the east. It
+also appears to be swarming with vultures that don't want to leave you
+alone.  The bridge stretches out as far to the west as you can see.
+~
+Door 1 0 0 41006 30 30
+~
+door~
+Door 3 0 0 41008 30 30
+~
+door~
+End
+
+#41008
+Name A Strange Stone Bridge~
+Descr
+This strange bridge seems to be just as old as the ruins to the east. It
+also appears to be swarming with vultures that don't want to leave you
+alone.  The bridge stretches out as far to the west as you can see.
+~
+Door 1 0 0 41007 30 30
+~
+door~
+Door 3 0 0 41075 0 0
+~
+~
+End
+
+#41009
+Name A Rocky Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 0 0 0 41001 30 30
+~
+door~
+Door 2 0 0 41010 30 30
+~
+door~
+End
+
+#41010
+Name A Small Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 0 0 0 41009 30 30
+~
+door~
+Door 1 0 0 41013 30 30
+~
+door~
+Door 2 0 0 41014 30 30
+~
+door~
+End
+
+#41011
+Name Entrance to a Glittering Cave~
+Descr
+You stand at the entrance of a brightly sparkling cave.  The mirrored 
+corridor to the east leads back to the square.  The entrance to the cave
+seems inviting, perhaps you'd want to explore what's down there?
+~
+Flags 6
+Sector 0
+Door 3 0 0 41004 30 30
+~
+door~
+Door 5 0 0 41012 0 0
+~
+~
+End
+
+#41012
+Name a Gigantic, Glittering Cave~
+Descr
+Now that you have entered this cave, you begin to wonder if you should have
+come here.  There appears to be no easy way out.  Maybe you're stuck, but
+there has to be a way.
+~
+Flags 5
+Sector 0
+Reset M 41012 1 100
+Reset O 115 1 100
+Reset O 925 25 1
+Reset O 924 23 1
+Door 4 0 0 41011 0 0
+~
+~
+End
+
+#41013
+Name Winding Path Through Some Ruins~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 1 0 0 41016 30 30
+~
+door~
+Door 3 0 0 41010 30 30
+~
+door~
+End
+
+#41014
+Name End of a Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 0 0 0 41010 30 30
+~
+door~
+End
+
+#41015
+Name Before a Giant Mirrror~
+Descr
+This mirror stands here for an unknown reason.  The mirror towers high above
+you here.  The corridor goes back to the south.
+~
+Flags 4
+Sector 0
+Door 2 0 0 41004 30 30
+~
+door~
+End
+
+#41016
+Name Further Down the Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 2 0 0 41017 30 30
+~
+door~
+Door 3 0 0 41013 30 30
+~
+door~
+End
+
+#41017
+Name Even Further Down the Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 0 0 0 41016 30 30
+~
+door~
+Door 1 0 0 41019 30 30
+~
+door~
+Door 3 0 0 41018 30 30
+~
+door~
+End
+
+#41018
+Name Ancient Ruins~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Door 1 0 0 41017 30 30
+~
+door~
+End
+
+#41019
+Name End of the Path~
+Descr
+The ruins are old and dirt-covered.  Many ghost-like figures wander the area
+and seem to be searching for something.  There is a path that leads through
+the ruins here.
+~
+Flags 2
+Door 3 0 0 41017 30 30
+~
+door~
+Door 5 0 0 41020 30 30
+~
+door~
+End
+
+#41020
+Name Gates of Airendell~
+Descr
+The great gates of Airendell stand before you.  The entrance to this
+enormous cave city lies to the south.  The guardians appear to be untouched
+by the passing of time.
+~
+Flags 6
+Sector 0
+Reset M 41020 2 100
+Reset M 41020 2 100
+Door 2 0 0 41021 30 30
+~
+door~
+Door 4 0 0 41019 30 30
+~
+door~
+End
+
+#41021
+Name Just Inside the Gates~
+Descr
+Just inside the gates of Airendell, one is struck with awe.  The size of this
+cave is unbelieveable, not to mention the size of the city inside it.  A
+large tower can be seen far to the southwest and another large building can
+be seen far to the east.
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 0 0 0 41020 30 30
+~
+door~
+Door 2 0 0 41022 0 0
+~
+~
+End
+
+#41022
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41021 0 0
+~
+~
+Door 2 0 0 41023 0 0
+~
+~
+End
+
+#41023
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the north and south.  To the east is the armorer.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41022 0 0
+~
+~
+Door 1 0 0 41025 0 0
+~
+~
+Door 2 0 0 41026 0 0
+~
+~
+End
+
+#41024
+Name a Boarded up Home~
+Descr
+~
+Flags 4
+Sector 0
+Door 1 0 0 41023 0 0
+~
+~
+End
+
+#41025
+Name Airendell's Armor Shop~
+Descr
+Airendell's armor shop is a simple place.  The walls are covered with various
+armors and tools.  The owner seems content with life here in Airendell.  To the
+west is the street and to the south you can see Airendell's Weapon Shop.
+~
+Flags 4
+Sector 0
+Reset M 41025 1 100
+Reset O 214 -1 100
+Reset O 215 -1 100
+Reset O 227 -1 100
+Door 2 0 0 41027 0 0
+~
+~
+Door 3 0 0 41023 0 0
+~
+~
+End
+
+#41026
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the north and south.  To the east is the weaponsmith.
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 0 0 0 41023 0 0
+~
+~
+Door 1 0 0 41027 0 0
+~
+~
+Door 2 0 0 41028 0 0
+~
+~
+End
+
+#41027
+Name Airendell's Weapon Shop~
+Descr
+This brightly lit rooms seems warmer than others.  The seemingly unending 
+in the stove here is probably responsible for that.  The weaponsmith has 
+collected quite a few fine weapons.  Why not check them out?
+~
+Flags 4
+Sector 0
+Reset M 41027 1 100
+Reset O 237 -1 100
+Reset O 236 -1 100
+Door 0 0 0 41025 0 0
+~
+~
+Door 3 0 0 41026 0 0
+~
+~
+End
+
+#41028
+Name Airendell's Town Square~
+Descr
+The town of Airendell spreads out in all directions from here.  The silvery
+street that runs north and south here is the main road of the town.  Another
+large street runs east and west here.  The entire cave seems to be lit by a
+strange rock which rises out of the ground in the center of the square.
+The origin of the rock is unknown, but it's bright aura and the fact that
+it's been left alone obviously means something.  Perhaps one day more might
+be known about this strange rock.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41026 0 0
+~
+~
+Door 1 0 0 41067 0 0
+~
+~
+Door 2 0 0 41029 0 0
+~
+~
+Door 3 0 0 41035 0 0
+~
+~
+End
+
+#41029
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41028 0 0
+~
+~
+Door 2 0 0 41030 0 0
+~
+~
+End
+
+#41030
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The road
+bends to the north and east here, but an alley leaves to the south.
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 0 0 0 41029 0 0
+~
+~
+Door 1 0 0 41031 0 0
+~
+~
+End
+
+#41031
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41032 0 0
+~
+~
+Door 3 0 0 41030 0 0
+~
+~
+End
+
+#41032
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you inside this huge cave.  The
+road proceeds to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41033 0 0
+~
+~
+Door 3 0 0 41031 0 0
+~
+~
+End
+
+#41033
+Name A Silvery Street~
+Descr
+This street seems to glow under the light in the cave, giving it a silvery
+appearance.  Airendell spreads out around you in this huge cave.  The road
+bends to the south and west here.
+~
+Flags 4
+Sector 0
+Door 2 0 0 41034 0 0
+~
+~
+Door 3 0 0 41032 0 0
+~
+~
+End
+
+#41034
+Name A Silvery Street~
+Descr
+The street seems to end abruptly here, just as most of the other streets
+in this town end abruptly at large cave walls. Perhaps there is a reason for
+this?  The only way to go is back north. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 41033 0 0
+~
+~
+End
+
+#41035
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41028 0 0
+~
+~
+Door 3 0 0 41036 0 0
+~
+~
+End
+
+#41036
+Name A Wide, Paved Street~
+Descr
+The street bends to the east and south here.  To the north lies the town's
+shop of potions.  To the west stands an abandoned looking house... perhaps
+there's something interesting inside?
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 0 0 0 41054 0 0
+~
+~
+Door 1 0 0 41035 0 0
+~
+~
+Door 2 0 0 41037 0 0
+~
+~
+Door 3 0 0 41052 0 0
+~
+~
+End
+
+#41037
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41036 0 0
+~
+~
+Door 2 0 0 41038 0 0
+~
+~
+End
+
+#41038
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41037 0 0
+~
+~
+Door 2 0 0 41039 0 0
+~
+~
+End
+
+#41039
+Name A Wide, Paved Street~
+Descr
+The tower of Airendell is inhabited by some of the most powerful elven
+warriors around.  Perhaps with their experience, they could show you a
+thing or two about life?  To the west is the tower entrance.  The street
+continues to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41038 0 0
+~
+~
+Door 2 0 0 41049 0 0
+~
+~
+Door 3 0 0 41040 0 0
+~
+~
+End
+
+#41040
+Name Before the Great Tower~
+Descr
+The legendary high-elven tower arises before you to the west.  The tower's 
+height reaches almost to the top of this giant cave.  This is a wonderous
+feat of ancient architecture.  The stones of the tower glow like the streets
+seem to here.  To the east is one of the main roads of the town.  The tower
+can be entered to the west.
+~
+Flags 4
+Door 1 0 0 41039 0 0
+~
+~
+Door 3 0 0 41041 0 0
+~
+~
+End
+
+#41041
+Name Inside The Tower~
+Descr
+A large, stone stairway rises in front of you up into the tower.
+Elaborately decorated lamps light this floor of the tower.  One can
+exit the tower to the east or go up the stairs.
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 1 0 0 41040 0 0
+~
+~
+Door 4 0 0 41042 0 0
+~
+~
+End
+
+#41042
+Name Hallway on the Second Level of the Tower~
+Descr
+This brightly lit hallway takes you between the sets of stairs in the tower.
+To the east lies a very quiet room, and to the south you find more stairs to
+climb.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41043 0 0
+~
+~
+Door 2 0 0 41044 0 0
+~
+~
+Door 5 0 0 41041 0 0
+~
+~
+End
+
+#41043
+Name Small Room on the Second Level of the Tower~
+Descr
+The comfortable chairs sitting about the room look inviting to your tired
+body.  This seems to be a relaxation room for those who reside in this
+tower.  To the west lies a hallway.
+~
+Flags 32772
+Door 3 0 0 41042 0 0
+~
+~
+End
+
+#41044
+Name Inside the Tower~
+Descr
+This floor of the tower just seems to be a place to rest while ascending
+or descending through the tower.  Stairs go further up the tower here, and
+to the north is more of this floor.  
+~
+Flags 4
+Sector 0
+Door 0 0 0 41042 0 0
+~
+~
+Door 4 0 0 41045 0 0
+~
+~
+End
+
+#41045
+Name Inside the Tower~
+Descr
+Nearly at the top of the tower, you can see sections of buildings through 
+the small windows in the walls.  The walls are surprisingly clean and 
+shine from the beams of light penetrating those small windows.  The 
+stairs continue up and down.
+~
+Flags 4
+Sector 0
+Door 4 0 0 41046 0 0
+~
+~
+Door 5 0 0 41044 0 0
+~
+~
+End
+
+#41046
+Name Hallway at the Top of the Tower~
+Descr
+This elegant hallway leads to two different chambers.  To the west is a
+room overlooking the city.  From the finely detailed door to the north,
+you wonder what could lie behind it.  You could also decend back down
+the tower to the city below.
+~
+Flags 2097156
+Sector 0
+Door 0 0 0 41047 0 0
+~
+~
+Door 1 0 0 41048 0 0
+~
+~
+Door 5 0 0 41045 0 0
+~
+~
+End
+
+#41047
+Name Large Room atop the Tower~
+Descr
+This large room is the abode of a powerful elven fighter.  He is one of the
+heroes of the high-elves.  His legendary blade gleams brightly.  It seems to
+be made from the same material as the strange rock that rises from the ground
+in the town square.  What strange powers might this sword have?
+~
+Flags 4
+Sector 0
+Reset M 41047 1 100
+Door 2 0 0 41046 0 0
+~
+~
+End
+
+#41048
+Name Atop the Tower~
+Descr
+Atop this large tower in the city, you can see the entire city below you.
+Not far above the tip of the tower is the roof of this enormous cave.  The
+streets that wind around the town below seem to shine from the light of 
+the strange rock formation in the town's square.  This room of the tower
+is decorated with many wands and robes on the walls.  The doorway to the 
+west takes you back out into the hallway of the tower.
+~
+Flags 4
+Sector 0
+Reset M 41048 1 100
+Reset O 930 26 1
+Reset O 934 4 45
+Door 3 0 0 41046 0 0
+~
+~
+End
+
+#41049
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41039 0 0
+~
+~
+Door 2 0 0 41050 0 0
+~
+~
+End
+
+#41050
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the north and south.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41049 0 0
+~
+~
+Door 2 0 0 41051 0 0
+~
+~
+End
+
+#41051
+Name End of a Wide, Paved Street~
+Descr
+The road abruptly ends here due to a large rock.  It seems as if work on the
+road was just suddenly stopped.  The road goes to the north from here.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41050 0 0
+~
+~
+End
+
+#41052
+Name An Abandoned Building~
+Descr
+This building appears to be out of place, but you can't picture exactly where
+you've seen it before.  There is definitly something odd about the house.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41036 0 0
+~
+~
+End
+
+#41053
+Name bar~
+Descr
+~
+Door 3 0 0 41036 0 0
+~
+~
+End
+
+#41054
+Name Airendell's Shop of Magics~
+Descr
+Airendell's shop of magics almost glows with energy.  The shelves are stocked
+full with various potions and vials.  The shopkeeper seems a bit too eager to
+sell you some of his potions.
+~
+Flags 4
+Sector 0
+Reset M 41026 1 100
+Door 2 0 0 41036 0 0
+~
+~
+End
+
+#41055
+Name alley~
+Descr
+~
+Flags 2
+Door 2 0 0 41056 0 0
+~
+~
+End
+
+#41056
+Name alley~
+Descr
+~
+Door 0 0 0 41055 0 0
+~
+~
+Door 1 0 0 41057 0 0
+~
+~
+End
+
+#41057
+Name alley~
+Descr
+~
+Door 2 0 0 41058 0 0
+~
+~
+Door 3 0 0 41056 0 0
+~
+~
+End
+
+#41058
+Name alley~
+Descr
+~
+Door 0 0 0 41057 0 0
+~
+~
+Door 1 0 0 41059 0 0
+~
+~
+Door 2 0 0 41060 0 0
+~
+~
+End
+
+#41059
+Name alley~
+Descr
+~
+Door 3 0 0 41058 0 0
+~
+~
+End
+
+#41060
+Name alley~
+Descr
+~
+Door 0 0 0 41058 0 0
+~
+~
+Door 1 0 0 41061 0 0
+~
+~
+Door 2 0 0 41062 0 0
+~
+~
+End
+
+#41061
+Name alley~
+Descr
+~
+Door 3 0 0 41060 0 0
+~
+~
+End
+
+#41062
+Name alley~
+Descr
+~
+Door 0 0 0 41060 0 0
+~
+~
+Door 2 0 0 41063 0 0
+~
+~
+Door 3 0 0 41064 0 0
+~
+~
+End
+
+#41063
+Name alley~
+Descr
+~
+Door 0 0 0 41062 0 0
+~
+~
+End
+
+#41064
+Name alley~
+Descr
+~
+Door 0 0 0 41066 0 0
+~
+~
+Door 1 0 0 41062 0 0
+~
+~
+Door 3 0 0 41065 0 0
+~
+~
+End
+
+#41065
+Name alley~
+Descr
+~
+Door 1 0 0 41064 0 0
+~
+~
+End
+
+#41066
+Name repair shop~
+Descr
+~
+Door 2 0 0 41064 0 0
+~
+~
+End
+
+#41067
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41068 0 0
+~
+~
+Door 3 0 0 41028 0 0
+~
+~
+End
+
+#41068
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41069 0 0
+~
+~
+Door 3 0 0 41067 0 0
+~
+~
+End
+
+#41069
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the east and west, however, a strange circle of trees lie
+to the north.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41070 0 0
+~
+~
+Door 1 0 0 41071 0 0
+~
+~
+Door 3 0 0 41068 0 0
+~
+~
+End
+
+#41070
+Name Circle of Trees~
+Descr
+This strange circle of trees is the largest group of trees in the cave.  All
+the trees here appear to be very old and there is a strange sense to this 
+room.  A faint humming sound can be heard.  A street lies to the south.
+~
+Flags 2097156
+Sector 0
+Reset M 41010 1 100
+Door 2 0 0 41069 0 0
+~
+~
+End
+
+#41071
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to always be alive with the sounds of the city.  The
+road continues to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41072 0 0
+~
+~
+Door 3 0 0 41069 0 0
+~
+~
+End
+
+#41072
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to be alive with the sounds of the city.  The road 
+bends to the north and west here.
+~
+Flags 4
+Sector 0
+Reset M 41009 10 100
+Door 0 0 0 41073 0 0
+~
+~
+Door 3 0 0 41071 0 0
+~
+~
+End
+
+#41073
+Name A Wide, Paved Street~
+Descr
+On this wide road through Airendell, you see many people walk by you.  The
+bustling street seems to be alive with the sounds of the city.  The road
+turns south here and leads east to Airendell's palace.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41074 0 0
+~
+~
+Door 2 0 0 41072 0 0
+~
+~
+End
+
+#41074
+Name Before the Palace of Airendell~
+Descr
+The great palace of Airendell lies to the east of here.  This palace has been
+the home of Airendell's royal family for ages.  The palace has been closed up
+to visitors since the death of the high-elven king, though.  To the west is
+a road.
+~
+Flags 6
+Sector 0
+Door 1 0 0 41111 0 0
+~
+~
+Door 3 0 0 41073 0 0
+~
+~
+End
+
+#41075
+Name A Strange Stone Bridge~
+Descr
+This strange bridge seems to be just as old as the ruins to the east. It
+also appears to be swarming with vultures that don't want to leave you
+alone.  The bridge stretches out as far to the west as you can see.
+~
+Door 1 0 0 41008 0 0
+~
+~
+Door 3 0 0 41076 0 0
+~
+~
+End
+
+#41076
+Name Entrance to Elven Outpost~
+Descr
+Rising up on the mountain's cliff face here is a high-elven outpost.  The
+outpost is in much better shape than the ruins on the other side of the
+bridge.  It's obviously still in activity and well-kept.
+~
+Flags 2
+Reset M 41004 5 100
+Reset M 41004 5 100
+Reset M 41004 5 100
+Door 1 0 0 41075 0 0
+~
+~
+Door 3 0 0 41077 0 0
+~
+~
+End
+
+#41077
+Name Inside the Outpost Gates~
+Descr
+Just inside the gates of the outpost, you feel a great deal safer than you
+were just moments before.  The strong walls seem virtually unbreakable.
+Many guards stand at watch, keeping the outpost safe from evil.
+~
+Flags 4
+Sector 0
+Reset M 41005 6 100
+Door 1 0 0 41076 0 0
+~
+~
+Door 3 0 0 41078 0 0
+~
+~
+End
+
+#41078
+Name a Brightly Lit Hallway~
+Descr
+The outpost is full of elven warriors and soldiers who are awaiting the
+commands of their captain.  The hallway is well lit and there is a happy
+air all about the outpost.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41082 0 0
+~
+~
+Door 1 0 0 41077 0 0
+~
+~
+Door 2 0 0 41079 0 0
+~
+~
+End
+
+#41079
+Name a Brightly Lit Hallway~
+Descr
+The outpost is full of elven warriors and soldiers who are awaiting the
+commands of their captain.  The hallway is well lit and there is a happy
+air all about the outpost.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41078 0 0
+~
+~
+Door 2 0 0 41080 0 0
+~
+~
+Door 3 0 0 41087 0 0
+~
+~
+End
+
+#41080
+Name a Brightly Lit Hallway~
+Descr
+The outpost is full of elven warriors and soldiers who are awaiting the
+commands of their captain.  The hallway is well lit and there is a happy
+air all about the outpost.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41079 0 0
+~
+~
+Door 3 0 0 41081 0 0
+~
+~
+End
+
+#41081
+Name a Dusty Office~
+Descr
+This is the office of the high-elven guard captain.  The office is cluttered
+with all of his things.  His looks as if he's looking for something he's
+misplaced... perhaps some battle plans?
+~
+Flags 4
+Sector 0
+Reset M 41003 1 100
+Door 1 0 0 41080 0 0
+~
+~
+End
+
+#41082
+Name Northeast Corner of Outpost~
+Descr
+The corner of the outpost gives entrance to a tower that rises up high above
+the walls of the fortification.  The stairs are damp and have a strange odor.
+~
+Flags 4
+Sector 0
+Door 2 0 0 41078 0 0
+~
+~
+Door 3 0 0 41085 0 0
+~
+~
+Door 4 0 0 41083 0 0
+~
+~
+End
+
+#41083
+Name Inside the Northeast Tower~
+Descr
+Looking through the tower's windows you can see all the forested valleys
+below and the face of this side of the mountain.  The walls are dirty
+and wet due to recent rains.
+~
+Flags 6
+Sector 0
+Door 4 0 0 41084 0 0
+~
+~
+Door 5 0 0 41082 0 0
+~
+~
+End
+
+#41084
+Name Top of the Northeast Tower~
+Descr
+Looking through the tower's windows you can see all the forested valleys
+below and the face of this side of the mountain.  The walls are dirty
+and wet due to recent rains.
+~
+Flags 4
+Sector 0
+Door 5 0 0 41083 0 0
+~
+~
+End
+
+#41085
+Name a Dusty Hallway~
+Descr
+This dusty hallway leads to the western side of the outpost and is less
+attended to than the eastern half.  The outpost is alive with activity
+and the singing of songs can be heard.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41082 0 0
+~
+~
+Door 2 0 0 41086 0 0
+~
+~
+Door 3 0 0 41088 0 0
+~
+~
+End
+
+#41086
+Name a Dusty Hallway~
+Descr
+This dusty hallway leads to the western side of the outpost and is less
+attended to than the eastern half.  The outpost is alive with activity
+and the singing of songs can be heard.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41085 0 0
+~
+~
+Door 2 0 0 41087 0 0
+~
+~
+Door 3 0 0 41089 0 0
+~
+~
+End
+
+#41087
+Name a Dusty Hallway~
+Descr
+This dusty hallway leads to the western side of the outpost and is less
+attended to than the eastern half.  The outpost is alive with activity
+and the singing of songs can be heard.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41086 0 0
+~
+~
+Door 1 0 0 41079 0 0
+~
+~
+End
+
+#41088
+Name a Dusty Hallway~
+Descr
+This dusty hallway leads to the western side of the outpost and is less
+attended to than the eastern half.  The outpost is alive with activity
+and the singing of songs can be heard.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41085 0 0
+~
+~
+Door 2 0 0 41089 0 0
+~
+~
+Door 3 0 0 41090 0 0
+~
+~
+End
+
+#41089
+Name a Dusty Hallway~
+Descr
+This dusty hallway leads to the western side of the outpost and is less
+attended to than the eastern half.  The outpost is alive with activity
+and the singing of songs can be heard.
+~
+Door 0 0 0 41088 0 0
+~
+~
+Door 1 0 0 41086 0 0
+~
+~
+End
+
+#41090
+Name Northwest Corner of Outpost~
+Descr
+The corner of the outpost gives entrance to a tower that rises up high above
+the walls of the fortification.  The stairs are damp and have a strange odor.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41088 0 0
+~
+~
+Door 4 0 0 41091 0 0
+~
+~
+End
+
+#41091
+Name Inside the Northwest Tower~
+Descr
+Looking through the tower's windows you can see all the forested valleys
+below and the face of this side of the mountain.  The walls are dirty
+and wet due to recent rains.
+~
+Flags 4
+Sector 0
+Door 4 0 0 41092 0 0
+~
+~
+Door 5 0 0 41090 0 0
+~
+~
+End
+
+#41092
+Name Top of the Northwest Tower~
+Descr
+Looking through the tower's windows you can see all the forested valleys
+below and the face of this side of the mountain.  The walls are dirty
+and wet due to recent rains.
+~
+Flags 4
+Sector 0
+Door 2 0 0 41093 0 0
+~
+~
+Door 3 0 0 41094 0 0
+~
+~
+Door 5 0 0 41091 0 0
+~
+~
+End
+
+#41093
+Name Top of the Northwest Tower~
+Descr
+Looking through the tower's windows you can see all the forested valleys
+below and the face of this side of the mountain.  The walls are dirty
+and wet due to recent rains.
+~
+Door 0 0 0 41092 0 0
+~
+~
+End
+
+#41094
+Name Large Room Atop the Northwest Tower~
+Descr
+This large room atop the tower is the quarters of a large giant who seems
+to be a friend of the high-elf guard captain.   One might get a bad feeling
+about harassing him.
+~
+Flags 4
+Sector 0
+Reset M 41006 1 100
+Reset O 916 21 7
+Door 1 0 0 41092 0 0
+~
+~
+End
+
+#41095
+Name a Small Passageway~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 6
+Sector 0
+Door 0 3 0 41090 30 30
+~
+wall~
+Door 2 0 0 41096 0 0
+~
+~
+End
+
+#41096
+Name a Small Passageway~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41095 0 0
+~
+~
+Door 2 0 0 41097 0 0
+~
+~
+End
+
+#41097
+Name End of a Small Passageway~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41096 0 0
+~
+~
+Door 5 259 0 41098 30 30
+~
+stone~
+End
+
+#41098
+Name Below the Outpost~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 4
+Sector 0
+Door 2 259 0 41099 30 30
+~
+crack~
+Door 4 259 0 41097 30 30
+~
+stone~
+End
+
+#41099
+Name Passage Below the Outpost~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41098 0 0
+~
+~
+Door 2 0 0 41100 0 0
+~
+~
+End
+
+#41100
+Name Passage Below the Outpost~
+Descr
+This hidden passageway is narrow and dark.  The passageway leads to some
+unknown place.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41099 0 0
+~
+~
+Door 5 0 0 41101 0 0
+~
+~
+End
+
+#41101
+Name Hidden Chamber~
+Descr
+This hidden chamber is well-kept and well-lit.  An old man stands here that 
+seems to be awaiting someone or something.  Maybe you should have a word with
+him.
+~
+Flags 4
+Sector 0
+Door 4 0 0 41100 0 0
+~
+~
+End
+
+#41102
+Name Upon the Great Ascending Stairs~
+Descr
+These stairs seem to go up forever.  Just thinking about climbing up further
+makes you tired.  The stairs continue up and down.
+~
+Flags 7
+Sector 0
+Door 4 0 0 41002 0 0
+~
+~
+Door 5 0 0 41103 0 0
+~
+~
+End
+
+#41103
+Name On a Large, Spiraling Staircase~
+Descr
+At not even halfway up the stairs, the cave floor below cannot even be made
+out.  The roar of the wind down the stairs is almost deafening at times. 
+The darkness is almost maddening.  It is rumored that an ancient city lies
+around here someplace.. perhaps it really does exist.  The stairs lead up
+and down here.
+~
+Flags 5
+Sector 0
+Door 4 0 0 41102 0 0
+~
+~
+Door 5 0 0 41104 0 0
+~
+~
+End
+
+#41104
+Name Bottom of a Large, Spiraling Staircase~
+Descr
+A large stone stairway rises from the ground here and spirals to unknown
+heights above you.  Small trails of water trickle down the steps from an
+unknown source above.  The cave entrance is to the north.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41105 0 0
+~
+~
+Door 4 0 0 41103 0 0
+~
+~
+End
+
+#41105
+Name Entrance of the Cave~
+Descr
+The cave is dark and deep.  A faint light shines in from the north, but the
+darkness grows greater to the south.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41106 0 0
+~
+~
+Door 2 0 0 41104 0 0
+~
+~
+End
+
+#41106
+Name On the Cliff Edge~
+Descr
+The cliff face becomes even more narrow here.  The path leading in from the
+north abruptly ends at a large cave entrance.  The darkness before you seems
+to almost beckon you towards it.
+~
+Door 0 0 0 41107 0 0
+~
+~
+Door 1 0 0 41109 0 0
+~
+~
+Door 2 0 0 41105 0 0
+~
+~
+Door 3 0 0 41110 0 0
+~
+~
+End
+
+#41107
+Name On a Path Up a Cliff~
+Descr
+The path has gotten even steeper and drops off on the sides here.  A 
+misplaced step might mean a fall to death.  A cave can be made out to the
+distance in the south.  The path is strangely quiet here.  You begin to think
+you can hear the clouds moving.  The path leads to the north and south.
+~
+Door 0 0 0 41108 0 0
+~
+~
+Door 2 0 0 41106 0 0
+~
+~
+End
+
+#41108
+Name On a Rocky Hill~
+Descr
+The terrain is a little more rough here than it was a minute ago.  To the
+south, you can see a large, solitary mountain rise up before you.  The path
+here seems well-worn and inviting.  The path extends to the south.
+~
+Door 0 0 0 9868 0 0
+~
+~
+Door 2 0 0 41107 0 0
+~
+~
+End
+
+#41109
+Name Eastern Edge of Cliff~
+Descr
+The cliff seems to drop off on the side here.  The only logical solution 
+seems to be going back the way you came.
+~
+Door 3 0 0 41106 0 0
+~
+~
+End
+
+#41110
+Name On the Cliff Edge~
+Descr
+The cliff seems to drop off on the side here.  The only logical solution 
+seems to be going back the way you came.
+~
+Door 1 0 0 41106 0 0
+~
+~
+End
+
+#41111
+Name Palace Entrance Hall~
+Descr
+This great entrance hall is decorated with brilliantly sparkling lanterns and
+many other expensive looking objects.  A deep purple carpet covers the cold,
+stone floor.  The hall leads to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41112 0 0
+~
+~
+Door 3 0 0 41074 0 0
+~
+~
+End
+
+#41112
+Name Palace Entrance Hall~
+Descr
+This great entrance hall is decorated with brilliantly sparkling lanterns and
+many other expensive looking objects.  A deep purple carpet covers the cold,
+stone floor.  The hall leads to the east and west.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41113 0 0
+~
+~
+Door 3 0 0 41111 0 0
+~
+~
+End
+
+#41113
+Name Hall Intersection~
+Descr
+Here is where the entrance, northern and southern halls of the palace
+intersect.  The entrance hall lies to the west and the other halls in their
+respective directions.
+~
+Flags 4
+Sector 0
+Reset M 41014 6 100
+Reset M 41017 2 100
+Reset M 41017 2 100
+Door 0 0 0 41114 0 0
+~
+~
+Door 2 0 0 41123 0 0
+~
+~
+Door 3 0 0 41112 0 0
+~
+~
+End
+
+#41114
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41115 0 0
+~
+~
+Door 2 0 0 41113 0 0
+~
+~
+End
+
+#41115
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41116 0 0
+~
+~
+Door 2 0 0 41114 0 0
+~
+~
+End
+
+#41116
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Reset M 41014 6 100
+Door 1 0 0 41117 0 0
+~
+~
+Door 3 0 0 41115 0 0
+~
+~
+End
+
+#41117
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41120 0 0
+~
+~
+Door 2 0 0 41118 0 0
+~
+~
+Door 3 0 0 41116 0 0
+~
+~
+End
+
+#41118
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41117 0 0
+~
+~
+Door 1 0 0 41119 0 0
+~
+~
+End
+
+#41119
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41120 0 0
+~
+~
+Door 3 0 0 41118 0 0
+~
+~
+End
+
+#41120
+Name Northern Hallway~
+Descr
+The northern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41122 0 0
+~
+~
+Door 1 0 0 41121 0 0
+~
+~
+Door 2 0 0 41119 0 0
+~
+~
+Door 3 0 0 41117 0 0
+~
+~
+End
+
+#41121
+Name A Small Room~
+Descr
+This is a small room for storage off the northern hallway.  The room is 
+tightly packed with large wooden crates and smaller boxes which are covered
+in dust.  It's obvious nobody's opened them in a while.
+~
+Flags 4
+Sector 0
+Door 3 0 0 41120 0 0
+~
+~
+End
+
+#41122
+Name A Small Room~
+Descr
+This is a small room for storage off the northern hallway.  The room is 
+tightly packed with large wooden crates and smaller boxes which are covered
+in dust.  It's obvious nobody's opened them in a while.
+~
+Flags 4
+Sector 0
+Door 2 0 0 41120 0 0
+~
+~
+Door 5 3 0 41136 30 30
+~
+trapdoor~
+End
+
+#41123
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41113 0 0
+~
+~
+Door 2 0 0 41124 0 0
+~
+~
+End
+
+#41124
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41123 0 0
+~
+~
+Door 1 0 0 41125 0 0
+~
+~
+End
+
+#41125
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41126 0 0
+~
+~
+Door 3 0 0 41124 0 0
+~
+~
+End
+
+#41126
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41127 0 0
+~
+~
+Door 2 0 0 41125 0 0
+~
+~
+End
+
+#41127
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41128 0 0
+~
+~
+Door 1 0 0 41130 0 0
+~
+~
+Door 3 0 0 41126 0 0
+~
+~
+End
+
+#41128
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41129 0 0
+~
+~
+Door 2 0 0 41127 0 0
+~
+~
+End
+
+#41129
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Reset M 41014 6 100
+Door 2 0 0 41130 0 0
+~
+~
+Door 3 0 0 41128 0 0
+~
+~
+End
+
+#41130
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41129 0 0
+~
+~
+Door 1 0 0 41131 0 0
+~
+~
+Door 3 0 0 41127 0 0
+~
+~
+End
+
+#41131
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41132 0 0
+~
+~
+Door 3 0 0 41130 0 0
+~
+~
+End
+
+#41132
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41133 0 0
+~
+~
+Door 3 0 0 41131 0 0
+~
+~
+End
+
+#41133
+Name Southern Hallway~
+Descr
+The southern hallway wraps around the northern side of the palace.  The hall
+is lit with torches since all the windows have been closed.  The decor here
+is stunning, and it is obvious it is the home of royalty.
+~
+Flags 4
+Sector 0
+Door 0 0 0 41134 0 0
+~
+~
+Door 1 0 0 41135 0 0
+~
+~
+Door 3 0 0 41132 0 0
+~
+~
+End
+
+#41134
+Name The Prince's Chamber~
+Descr
+The high-elven prince's room is a bit smaller than the queen's room.  The
+prince seems less affected by the death of his father than his mother does.
+It is rumored that his father's ghost visited him and brought him a gift.
+What sort of gift might he have for his son?
+~
+Flags 4
+Sector 0
+Reset M 41011 1 100
+Reset O 929 1 1
+Door 2 0 0 41133 0 0
+~
+~
+End
+
+#41135
+Name The Queen's Chamber~
+Descr
+This is the high-elven queen's chamber.  She doesn't seem to leave here that
+much since the death of her husband a few years ago.  She doesn't seem to
+have recovered from the shock of his death yet.  The chamber's lighting is
+not as bright as most of the other rooms in the palace.
+~
+Flags 4
+Sector 0
+Reset M 41013 1 100
+Reset O 920 3 3
+Reset O 932 1 1
+Door 3 0 0 41133 0 0
+~
+~
+End
+
+#41136
+Name The Palace Basement~
+Descr
+This dark basement has been sealed since the death of the king.  There's no
+light here.  Who knows what lurks down here...
+~
+Flags 6
+Sector 0
+Door 2 0 0 41137 0 0
+~
+~
+Door 4 3 0 41122 30 30
+~
+trapdoor~
+End
+
+#41137
+Name A Dark Basement~
+Descr
+This dark basement has been sealed since the death of the king.  There's no
+light here.  Who knows what lurks down here...
+~
+Flags 5
+Sector 0
+Door 0 0 0 41136 0 0
+~
+~
+Door 1 0 0 41138 0 0
+~
+~
+End
+
+#41138
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 4
+Sector 0
+Door 1 0 0 41139 0 0
+~
+~
+Door 2 0 0 41141 0 0
+~
+~
+Door 3 0 0 41137 0 0
+~
+~
+End
+
+#41139
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 2 0 0 41140 0 0
+~
+~
+Door 3 0 0 41138 0 0
+~
+~
+End
+
+#41140
+Name A Dead End~
+Descr
+The corridor ends abruptly for some reason here.  The sudden end make you
+feel a bit uncomfortable.  Back to the north is the corridor.
+~
+Flags 5
+Sector 0
+Reset M 41140 1 100
+Reset O 928 100 10
+Door 0 0 0 41139 0 0
+~
+~
+End
+
+#41141
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41138 0 0
+~
+~
+Door 2 0 0 41142 0 0
+~
+~
+End
+
+#41142
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41141 0 0
+~
+~
+Door 2 0 0 41144 0 0
+~
+~
+End
+
+#41143
+Name A Dark Room~
+Descr
+~
+Flags 5
+Sector 0
+End
+
+#41144
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41142 0 0
+~
+~
+Door 2 0 0 41150 0 0
+~
+~
+Door 3 0 0 41145 0 0
+~
+~
+End
+
+#41145
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 1 0 0 41144 0 0
+~
+~
+Door 3 0 0 41146 0 0
+~
+~
+End
+
+#41146
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41147 0 0
+~
+~
+Door 1 0 0 41145 0 0
+~
+~
+End
+
+#41147
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41148 0 0
+~
+~
+Door 2 0 0 41146 0 0
+~
+~
+End
+
+#41148
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 1 0 0 41149 0 0
+~
+~
+Door 2 0 0 41147 0 0
+~
+~
+End
+
+#41149
+Name A Strange Throne Room~
+Descr
+This newly-made throneroom was obviously made by its delusionary inhabitant.
+This elf thinks he can claim the entire city with the death of his previous
+employer.  The queen would probably not approve of this if she knew.
+~
+Flags 4
+Sector 0
+Reset M 41149 1 100
+Reset O 921 6 13
+Door 3 0 0 41148 0 0
+~
+~
+End
+
+#41150
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41144 0 0
+~
+~
+Door 1 0 0 41151 0 0
+~
+~
+Door 2 0 0 41152 0 0
+~
+~
+End
+
+#41151
+Name The Lab~
+Descr
+The lab is in a shambles.  Broken beakers and test tubes lie everywhere.  The
+royal cleric here has obviously gone mad from the darkness surrounding him.
+~
+Flags 5
+Sector 0
+Reset M 41151 1 100
+Reset O 922 4 25
+Door 3 0 0 41150 0 0
+~
+~
+End
+
+#41152
+Name A Dark Passageway~
+Descr
+This dark passageway wraps all around below the palace.  The entire basement 
+been closed off since the death of the king and unattended.  Nobody knows
+what now inhabits this place.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41150 0 0
+~
+~
+Door 5 3 0 41153 30 30
+~
+trapdoor~
+End
+
+#41153
+Name Deep Beneath the Palace~
+Descr
+These areas of the palace were sealed of long ago to keep the powerful evils
+from the insides of the mountain outside of the city.  The darkness here is
+overwhelming.
+~
+Flags 5
+Sector 0
+Door 2 0 0 41154 0 0
+~
+~
+Door 4 3 0 41152 30 30
+~
+trapdoor~
+End
+
+#41154
+Name Deep Beneath the Palace~
+Descr
+These areas of the palace were sealed of long ago to keep the powerful evils
+from the insides of the mountain outside of the city.  The darkness here is
+overwhelming.
+~
+Flags 5
+Sector 0
+Door 0 0 0 41153 0 0
+~
+~
+Door 1 0 0 41155 0 0
+~
+~
+Door 5 0 0 41156 0 0
+~
+~
+End
+
+#41155
+Name Deep Beneath the Palace~
+Descr
+These areas of the palace were sealed of long ago to keep the powerful evils
+from the insides of the mountain outside of the city.  The darkness here is
+overwhelming.
+~
+Flags 5
+Sector 0
+Reset M 41155 1 100
+Reset O 920 -1 14
+Door 3 0 0 41154 0 0
+~
+~
+End
+
+#41156
+Name Deep Beneath the Palace~
+Descr
+These areas of the palace were sealed of long ago to keep the powerful evils
+from the insides of the mountain outside of the city.  The darkness here is
+overwhelming.
+~
+Flags 5
+Sector 0
+Door 2 0 0 41157 0 0
+~
+~
+Door 4 0 0 41154 0 0
+~
+~
+End
+
+#41157
+Name The Depths of the Palace~
+Descr
+This is the extent of the tunnels below the palace... at least, that you can
+tell.  It's obvious why the area was sealed off.  It's too easy to hide
+down here in the darkness.
+~
+Flags 5
+Sector 0
+Reset M 41157 1 100
+Door 0 0 0 41156 0 0
+~
+~
+End
+
+#41158
+Name Cave's Northern Side~
+Descr
+A feeling of relief comes over you as you find your way out of the cave.
+The southern section of the cave glows very brightly for some reason.  The
+piles of treasures to the south look inviting.
+~
+Flags 5
+Sector 0
+Door 2 31 115 41012 80 80
+~
+boulder~
+End
+
+#0
+
+
+
+#$

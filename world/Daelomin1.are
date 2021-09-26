@@ -1,0 +1,698 @@
+#AREADATA 
+Name Chalse Castle~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Daelomin Maglor~
+VNUMs 24201 24300
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#24201
+Name dwarven guard aone~
+Short dwarven guard~
+Long 
+An enourmous dwarven guard is here, protecting Chalse.
+~
+Descr
+~
+AMax 2
+AYeller 1
+AWillhelp 0
+NHeight 40
+ActBits 402653186
+ActBits3 4096
+ActBits4 8192
+Affect_By 680
+Alignment 1000
+Money 90
+Level 90
+Sex 1
+MobType 4
+Guard 1
+RaceHate 134217728
+BCasts mana purge~
+BCasts mass invis~
+BCast_P 40
+End
+
+#24202
+Name glomund pract protector~
+Short glomund~
+Long 
+Glomund, chieftain of the dwarves, protects the castle with his life.
+~
+Descr
+~
+AMax 1
+AYeller 4
+AWillhelp 1
+NHeight 120
+ActBits 258
+Affect_By 680
+Alignment 1000
+Money 170
+Level 170
+Sex 1
+MobType 4
+Guard 0
+Spec spec_barbarian
+RaceHate 134217728
+End
+
+#24203
+Name raven darkstaf elf tch PRAC~
+Short raven Darkstar~
+Long 
+Raven Darkstar sits here in a trance, awaiting the coming of her savior.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+ActBits3 65536
+Affect_By 128
+Money 300
+Level 300
+Sex 2
+MobType 1
+Guard 0
+End
+
+#24204
+Name huge guard watcher angel PRAC~
+Short the watcher~
+Long 
+A huge, winged watcher sits on a pedestal, watching the grounds below for signs of battle.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+ActBits3 65536
+Affect_By 128
+Money 300
+Level 300
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#24201
+Name blood etched anklet~
+Short [0ma [31mblood [1m[37met[0m[31mc[1m[37mhed anklet[0m~
+Descr
+An anklet stained with blood is lying on the ground.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 10 10 0 0 10 0
+Weight 2
+Cost 0
+Affect 19 1 1 0 0
+End
+
+#24202
+Name staff blinding~
+Short the staff of blinding~
+Descr
+A transparent staff lies on the ground.
+[0;36m~
+Type 3
+Extra 268435586
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 150 2 2 3 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#24203
+Name spiked adamantium shoulderplate~
+Short [0ma spiked [31madamantium [0mshoulderplate~
+Descr
+Some spikeds are protruding from an adamantium plate.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 2 10 15 50 50 15 0
+Weight 6
+Cost 2
+Affect 17 -3 1 0 0
+End
+
+#24204
+Name mithril barbed whip~
+Short [0ma [36mmithril[37m-[1m[30mbarbed [0mwhip~
+Descr
+A whip with mithril barbs is lying at your feet.
+[0;36m~
+Type 5
+Extra 1048641
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 9 2 0
+Weight 4
+Cost 5
+End
+
+#24205
+Name diamond plated belt~
+Short [0ma [37mdiamond [0mplated belt~
+Descr
+A belt plated with enormous diamonds is lying on the ground.
+[0;36m~
+Type 9
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 0 10 0 45 45 10 0
+Weight 1
+Cost 45
+End
+
+#24206
+Name unholy flail slayer mace concussion~
+Short [0mthe [1m[31mu[30mn[0m[31mho[1m[30ml[31my [0m[37mflail [0mof the [37ms[1m[30ml[0m[37may[1m[31me[0m[37mr[0m~
+Descr
+A massive flail is glowing with a dark aura.
+[0;36m~
+Type 5
+Extra 524353
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 15 0 0 0 3 5 0
+Weight 18
+Cost 1000
+Affect 19 2 1 0 0
+Affect 2 -2 1 0 0
+End
+
+#24207
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24208
+Name trap secret~
+Short a hidden trap~
+Descr
+Who needs a description... I dont!
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 1 1 20 0 0
+Weight 0
+Cost 0
+End
+
+#24209
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24210
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24211
+Name thick whip~
+Short a thick whip~
+Descr
+A thick heavy whip lays here.
+[0;36m~
+Type 5
+Extra 1048576
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 4 0 0 0 3 3 0
+Weight 5
+Cost 20000
+End
+
+#24213
+Name fountain milk~
+Short a well carved fountain~
+Descr
+A well carved fountain is here refreshing all travellers.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 23 1000 1000 80 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#24297
+Name secretnorth~
+Short secretnorth~
+Descr
+Secretnorth
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 0 0 0 0 1 20 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#24201
+Name Gates to Chalse~
+Descr
+~
+Flags 17412
+Reset M 24201 5 100
+Reset M 24201 5 100
+Door 1 0 0 24202 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+Door 4 0 0 1014 0 0
+~
+~
+End
+
+#24202
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 1028
+Sector 0
+Door 0 0 0 24300 0 0
+~
+~
+Door 1 0 0 24203 0 0
+~
+~
+Door 2 0 0 24206 0 0
+~
+~
+Door 3 0 0 24201 0 0
+~
+~
+End
+
+#24203
+Name GP;The Centre of the Courtyard~
+Descr
+~
+Flags 2098308
+Sector 0
+Reset O 24213 -5 100
+Door 0 0 0 24299 0 0
+~
+~
+Door 1 0 0 24204 0 0
+~
+~
+Door 2 0 0 24207 0 0
+~
+~
+Door 3 0 0 24202 0 0
+~
+~
+End
+
+#24204
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 1028
+Door 0 0 0 24205 0 0
+~
+~
+Door 2 0 0 24208 0 0
+~
+~
+Door 3 0 0 24203 0 0
+~
+~
+End
+
+#24205
+Name Base of the White Tower~
+Descr
+~
+Flags 1028
+Sector 0
+Door 2 0 0 24204 0 0
+~
+~
+Door 3 0 0 24299 0 0
+~
+~
+Door 4 0 0 24212 0 0
+~
+~
+End
+
+#24206
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 1028
+Sector 0
+Door 0 0 0 24202 0 0
+~
+~
+Door 1 0 0 24207 0 0
+~
+~
+End
+
+#24207
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 1028
+Sector 0
+Door 0 0 0 24203 0 0
+~
+~
+Door 1 0 0 24208 0 0
+~
+~
+Door 3 0 0 24206 0 0
+~
+~
+End
+
+#24208
+Name Base of the Guard Tower~
+Descr
+~
+Flags 1030
+Sector 0
+Door 0 0 0 24204 0 0
+~
+~
+Door 3 0 0 24207 0 0
+~
+~
+Door 4 0 0 24209 0 0
+~
+~
+End
+
+#24209
+Name Inside the Guard Tower~
+Descr
+~
+Flags 1028
+Sector 0
+Door 4 0 0 24210 0 0
+~
+~
+Door 5 0 0 24208 0 0
+~
+~
+End
+
+#24210
+Name Inside the Guard Tower~
+Descr
+~
+Flags 1028
+Sector 0
+Door 1 0 0 24211 0 0
+~
+~
+Door 5 0 0 24209 0 0
+~
+~
+End
+
+#24211
+Name A Small Balcony~
+Descr
+~
+Flags 1028
+Sector 0
+Reset M 24204 1 100
+Door 3 0 0 24210 0 0
+~
+~
+End
+
+#24212
+Name Inside the White Tower~
+Descr
+~
+Flags 1028
+Sector 0
+Door 4 0 0 24213 0 0
+~
+~
+Door 5 0 0 24205 0 0
+~
+~
+End
+
+#24213
+Name Inside the White Tower~
+Descr
+~
+Flags 1028
+Sector 0
+Door 1 0 0 24214 0 0
+~
+~
+Door 5 0 0 24212 0 0
+~
+~
+End
+
+#24214
+Name A Large Tower Chamber~
+Descr
+~
+Flags 1028
+Sector 0
+Reset M 24203 1 100
+Door 3 0 0 24213 0 0
+~
+~
+End
+
+#24289
+Name Garden of Light~
+Descr
+~
+Flags 4
+Door 0 3 0 24159 30 30
+~
+glassdoor~
+Door 2 0 0 24290 0 0
+~
+~
+End
+
+#24290
+Name The Bottom of a Staircase~
+Descr
+~
+Flags 4
+Door 0 0 0 24289 0 0
+~
+~
+Door 4 0 0 24291 0 0
+~
+~
+End
+
+#24291
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 4
+Door 1 0 0 24292 0 0
+~
+~
+Door 5 0 0 24290 0 0
+~
+~
+End
+
+#24292
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 4
+Door 0 0 0 24293 0 0
+~
+~
+Door 3 0 0 24291 0 0
+~
+~
+End
+
+#24293
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 4
+Door 2 0 0 24292 0 0
+~
+~
+Door 3 0 0 24294 0 0
+~
+~
+End
+
+#24294
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 4
+Door 1 0 0 24293 0 0
+~
+~
+Door 4 0 0 24295 0 0
+~
+~
+End
+
+#24295
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 4
+Door 4 0 0 24296 0 0
+~
+~
+Door 5 0 0 24294 0 0
+~
+~
+End
+
+#24296
+Name A Spiraling Set of Stairs~
+Descr
+~
+Flags 1028
+Sector 0
+Door 2 0 0 24297 0 0
+~
+~
+Door 5 0 0 24295 0 0
+~
+~
+End
+
+#24297
+Name An Enourmous Hallway~
+Descr
+~
+Flags 1028
+Sector 0
+Reset O 24297 -5 100
+Door 0 0 0 24296 0 0
+~
+~
+Door 2 0 0 24298 0 0
+~
+~
+End
+
+#24298
+Name An Entrance to the Hallway~
+Descr
+~
+Flags 1028
+Sector 0
+Door 0 0 0 24297 0 0
+~
+~
+Door 2 0 0 24299 0 0
+~
+~
+End
+
+#24299
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 2098180
+Sector 0
+Door 0 0 0 24298 0 0
+~
+~
+Door 1 0 0 24205 0 0
+~
+~
+Door 2 0 0 24203 0 0
+~
+~
+Door 3 0 0 24300 0 0
+~
+~
+End
+
+#24300
+Name Inside the Castle Courtyard~
+Descr
+~
+Flags 1028
+Sector 0
+Door 1 0 0 24299 0 0
+~
+~
+Door 2 0 0 24202 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

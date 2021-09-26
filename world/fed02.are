@@ -1,0 +1,4852 @@
+#AREADATA 
+Name The Great City of Arakis~
+Repop [1;30m[1;30m[1;30mChurch bells sound as a new day of hope arrives in Arakis. 
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Fedaykin~
+VNUMs 19700 19999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#19777
+Name bg mob ~
+Short i hate stupid whities~
+Long 
+I'm an I hate Good BG Mob...you shall die!
+~
+Descr
+~
+AMax 2
+NHeight 55
+ActBits -2147483648
+ActBits3 8192
+Affect_By 40
+Level 150
+Sex 1
+MobType 18
+Guard 0
+RaceHate 67108864
+End
+
+#19778
+Name mob good hate~
+Short i hate stinkin' good creatures~
+Long 
+I hate stinkin' good creatures!
+~
+Descr
+~
+AMax 1
+NHeight 44
+ActBits3 8192
+Affect_By 520
+Level 100
+Guard 0
+Spec spec_warrior
+RaceHate 67108864
+End
+
+#19925
+Name traz guard~
+Short a bodyguard~
+Long 
+A bodyguard is here protecting the bank.
+~
+Descr
+~
+AMax 2
+NHeight 88
+ActBits -2147483646
+Affect_By 680
+Money 300
+Level 300
+MobType 0
+Hp 30
+Guard 0
+End
+
+#19926
+Name traz~
+Short traz the banker~
+Long 
+Traz the banker stands ready to take your wealth.
+~
+Descr
+~
+AMax 1
+NHeight 99
+ActBits -2147352574
+Affect_By 680
+Money 400
+Level 400
+Sex 1
+MobType 0
+Hp 30
+Guard 0
+End
+
+#19927
+Name master destiny~
+Short the master of destiny~
+Long 
+The master of destiny is sitting before you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 648
+Money 1000
+Level 1000
+MobType 0
+Hp 70
+Guard 0
+End
+
+#19956
+Name dog~
+Short a dog~
+Long 
+A stray dog has made the streets of Arakis his home.
+~
+Descr
+~
+AMax 1
+NHeight 10
+Money 10
+Level 10
+Sex 1
+MobType 18
+Guard 0
+End
+
+#19957
+Name golem guardian~
+Short a large guardian~
+Long 
+A powerful guardian is stationed here to protect his city.
+~
+Descr
+~
+AMax 4
+NHeight 80
+ActBits -2147483646
+Affect_By 520
+Money 150
+Level 150
+Sex 1
+MobType 10
+Hp 15
+Guard 0
+End
+
+#19958
+Name guardian evil~
+Short a guardian of evil~
+Long 
+A guardian of evil is stationed here guard the sacred portal.
+~
+Descr
+~
+AMax 1
+NHeight 68
+ActBits 2
+ActBits3 2
+Affect_By 520
+Money 150
+Level 150
+Sex 2
+MobType 0
+Guard 4
+Spec spec_warrior
+End
+
+#19960
+Name guardian~
+Short a guardian of arakis~
+Long 
+A guardian of Arakis is on the lookout for any signs of trouble.
+~
+Descr
+~
+AMax 4
+AYeller 1
+AWillhelp 1
+NHeight 55
+ActBits 16
+ActBits4 8192
+Affect_By 520
+Money 100
+Level 100
+Sex 1
+MobType 2
+Hp 30
+Guard 0
+Spec spec_warrior
+End
+
+#19961
+Name holy student~
+Short a holy student~
+Long 
+A young student is here attempting to learn the ways of the church.
+~
+Descr
+~
+AMax 5
+NHeight 55
+Affect_By 8
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 0
+End
+
+#19964
+Name einon PRAC~
+Short einon~
+Long 
+Einon, the once evil ruler, has been banished to this circle for eternity.
+~
+Descr
+~
+AMax 1
+NHeight 67
+ActBits 258
+Affect_By 136
+Money 300
+Level 300
+Sex 1
+MobType 0
+Hp 20
+Guard 0
+Spec spec_warrior
+BCasts balefire~
+BCast_P 3
+BKicks 1
+BFlurries 1
+End
+
+#19965
+Name citizen~
+Short a citizen~
+Long 
+A citizen of Arakis is out walking the town streets.
+~
+Descr
+~
+AMax 3
+AYeller 1
+AWillhelp 0
+NHeight 68
+ActBits 16
+ActBits4 8192
+Affect_By 8
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 19965
+Spec spec_warrior
+End
+
+#19966
+Name ugly rat~
+Short an ugly rat~
+Long 
+An ugly rat has made his home in this tunnel.
+~
+Descr
+~
+AMax 5
+NHeight 10
+ActBits 8
+Money 10
+Level 10
+MobType 7
+Guard 0
+End
+
+#19969
+Name mermaid~
+Short a mermaid~
+Long 
+A beautiful young mermaid is here swimming about her chambers.
+~
+Descr
+~
+AMax 8
+NHeight 63
+Affect_By 8
+Money 101
+Level 101
+Sex 2
+MobType 14
+Guard 0
+End
+
+#19970
+Name man~
+Short mr. Wallace~
+Long 
+Mr. Wallace is here smoking his favorite pipe.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 134217730
+Money 150
+Level 150
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+Spec spec_warrior
+End
+
+#19971
+Name aone woman~
+Short mrs. Wallace~
+Long 
+Mrs. Wallace is here relaxing in her rocking chair.
+~
+Descr
+~
+AMax 1
+NHeight 64
+ActBits 2
+Money 75
+Level 75
+Sex 2
+MobType 0
+Guard 0
+End
+
+#19974
+Name castle guard~
+Short castle guard~
+Long 
+A castle guard is here guarding the home of Poseidon.
+~
+Descr
+~
+AMax 2
+NHeight 40
+ActBits -2147483646
+ActBits3 2
+Affect_By 8
+Money 101
+Level 101
+MobType 14
+Hp 20
+Guard 0
+Spec spec_warrior
+End
+
+#19976
+Name poseidon~
+Short poseidon~
+Long 
+Poseidon, god of the underwater world, is here protecting his realm.
+~
+Descr
+~
+AMax 1
+NHeight 89
+ActBits 2
+ActBits3 16384
+Affect_By 136
+Money 250
+Level 250
+Sex 1
+MobType 14
+Hp 20
+Guard 0
+End
+
+#19977
+Name grimish~
+Short grimish~
+Long 
+Grimish is here playing with some exotic pets.
+~
+Descr
+~
+AMax 1
+NHeight 77
+ActBits 2
+Money 101
+Level 101
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+End
+
+#19978
+Name guardian monk~
+Short guardian monk~
+Long 
+A guardian monk is here protecting both his elder and his faith.
+~
+Descr
+A guardian monk will not think twice about killing you if you attempt to
+harm either his faith or his elder. You have been warned. 
+~
+AMax 2
+NHeight 60
+ActBits 2
+ActBits3 2
+Affect_By 8
+Money 100
+Level 100
+Sex 1
+MobType 0
+Hp 15
+Guard 2
+End
+
+#19979
+Name yarmor~
+Short yarmor~
+Long 
+Yarmor, the oldest monk, is hard at work on his memoirs.
+~
+Descr
+~
+AMax 1
+NHeight 50
+ActBits 258
+Affect_By 50331784
+Money 180
+Level 180
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+End
+
+#19980
+Name loyal follower~
+Short a loyal follower~
+Long 
+A loyal follower of the faith is here researching his faith.
+~
+Descr
+A student of the highest faith, he wanders the cathedral with books in
+hand. Honing his beliefs to the highest extent, hoping someday that maybe he
+will be the next great saint. 
+~
+AMax 4
+NHeight 68
+ActBits3 16384
+Money 50
+Level 50
+Sex 1
+MobType 0
+Hp 15
+Guard 0
+End
+
+#19982
+Name sha'ru~
+Short sha'ru~
+Long 
+Sha'ru has devoted his life to training young warriors.
+~
+Descr
+Sha'ru, the hero of many battles, has retired to this tower in order to
+train others in the art of combat. As he looks down on you, you realize how
+powerful a man this is and what a great fighter he must have been. 
+~
+AMax 1
+NHeight 90
+ActBits 258
+Affect_By 50331784
+Money 200
+Level 200
+Sex 1
+MobType 0
+Hp 20
+Guard 0
+End
+
+#19983
+Name janitor~
+Short a janitor~
+Long 
+A janitor is here cleaning the great streets of Arakis.
+~
+Descr
+~
+AMax 1
+NHeight 74
+ActBits 20
+Affect_By 8
+Money 150
+Level 150
+Sex 1
+MobType 12
+Hp 20
+Guard 0
+End
+
+#19985
+Name dust gremlin~
+Short dust gremlin~
+Long 
+A dust gremlin has made his home in this dirty closet.
+~
+Descr
+~
+AMax 2
+NHeight 30
+ActBits -2147483646
+ActBits3 2
+Affect_By 65546
+Money 100
+Level 100
+MobType 7
+Hp 15
+Guard 3
+Spec spec_warrior
+End
+
+#19986
+Name adrienne~
+Short adrienne~
+Long 
+Adrienne, the powerful ancient, has made her home behind the closet.
+~
+Descr
+Adrienne must be hundreds of years old and doesn't look a day over 20.
+With beautiful red hair she looks down at you and wonders why you have
+entered her home. 
+~
+AMax 1
+NHeight 70
+ActBits 258
+Affect_By 136
+Money 200
+Level 200
+Sex 2
+MobType 0
+Hp 15
+Guard 0
+End
+
+#19987
+Name jarela~
+Short jarela~
+Long 
+Jarela is here managing her rooms.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 2
+Affect_By 8
+Money 101
+Level 101
+Sex 2
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 1 1
+Shopd2 5
+Shopd3 4
+End
+
+#19988
+Name kirk~
+Short kirk~
+Long 
+Kirk, the master swordsman, is here repairing some fine weapons.
+~
+Descr
+~
+AMax 1
+NHeight 70
+ActBits 1048578
+Affect_By 520
+Money 101
+Level 101
+Sex 1
+MobType 0
+Guard 0
+End
+
+#19989
+Name umar~
+Short umar~
+Long 
+Umar the armorer is here to repair your equipment.
+~
+Descr
+~
+AMax 1
+NHeight 80
+ActBits 2097154
+Affect_By 520
+Money 101
+Level 101
+Sex 1
+MobType 4
+Guard 0
+End
+
+#19990
+Name student~
+Short a student~
+Long 
+A student of Nostradamus is here reading one of his mentor's books.
+~
+Descr
+~
+AMax 3
+NHeight 50
+Money 30
+Level 30
+MobType 0
+Guard 0
+End
+
+#19991
+Name wolverine~
+Short a wolverine~
+Long 
+A wolverine is here looking deadly.
+~
+Descr
+~
+AMax 2
+NHeight 14
+Money 20
+Level 20
+MobType 18
+Guard 0
+End
+
+#19992
+Name fromin~
+Short fromin~
+Long 
+Fromin the forest elf has made his home in this old tree.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 136
+Money 400
+Level 400
+MobType 1
+Hp 20
+Guard 0
+ASklTaught 0 12
+End
+
+#19993
+Name deer~
+Short a deer~
+Long 
+A doe is here chewing on some grass.
+~
+Descr
+~
+AMax 2
+NHeight 0
+Money 10
+Level 10
+MobType 18
+Guard 0
+End
+
+#19994
+Name squirrel~
+Short a squirrel~
+Long 
+A squirrel runs around looking for some food.
+~
+Descr
+~
+AMax 4
+NHeight 6
+Money 5
+Level 5
+MobType 18
+Guard 0
+End
+
+#19995
+Name phantom~
+Short a phantom~
+Long 
+A phantom presence is here watching your every move.
+~
+Descr
+~
+AMax 1
+NHeight 66
+ActBits 67108880
+Affect_By 66186
+Money 200
+Level 200
+Sex 2
+MobType 21
+Hp 20
+Guard 0
+BCasts acid rain~
+End
+
+#19996
+Name nostradamus PRAC~
+Short nostradamus~
+Long 
+Nostradamus, the foreseer of all, is here teaching all who wish to learn.
+~
+Descr
+~
+AMax 1
+NHeight 65
+ActBits 258
+Affect_By 136
+Money 400
+Level 400
+MobType 0
+Guard 0
+ASklTaught 0 18
+ASklTaught 1 60
+ASklTaught 2 38
+ASklTaught 3 11
+End
+
+#19998
+Name mayor arakis~
+Short the mayor of Arakis~
+Long 
+The mayor of Arakis is on the lookout for troublemakers.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 1
+NHeight 50
+ActBits 272
+ActBits3 524288
+ActBits4 12288
+Affect_By 524936
+Money 200
+Level 200
+Sex 1
+MobType 2
+Hp 25
+Guard 0
+Spec spec_warrior
+ASklTaught 0 568
+ASklTaught 1 555
+End
+
+#0
+
+
+
+#OBJDATA
+#19700
+Name doll fedaykin~
+Short a [1m[31mW[30mi[31mc[30mk[31me[30md[31ml[30my [36mC[30moo[36ml [1m[37mF[30me[37md[30ma[37my[30mk[37mi[30mn [1m[34md[30mol[34ml~
+Descr
+Some fool dropped a powerful doll here.
+[0;36m~
+Type 5
+Extra 537001986
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 9 0 0 0 5 3 0
+Weight 0
+Cost 90343
+End
+
+#19701
+Name scroll word~
+Short a [1m[34mscroll [37mof [34mfaith~
+Descr
+A odd looking scroll has been left here.
+[0;36m~
+Type 2
+Extra 536870915
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 100 18 0 0 0 0 0 0 0 0
+Weight 0
+Cost 80231
+End
+
+#19800
+Name medal honor bg~
+Short [1m[31mFedaykin's [37mMedal [34mof [33mHonor~
+Descr
+A medal that appears powerful is here.
+[0;36m~
+Type 13
+Extra 536870914
+Wear 262145
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19853
+Name portal~
+Short a hidden portal~
+Descr
+A hidden portal is here...hidden duh.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 19985 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19927
+Name girdle tier holy might~
+Short [0ma girdle of [1m[33mholy [35mmight[0m~
+Descr
+A humming girdle sits on the floor.
+[0;36m~
+Type 9
+Extra 536871938
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 1
+Weight 1
+Cost 0
+Affect 1 1 1 0 0
+End
+
+#19928
+Name unholy might girdle tier~
+Short [0ma girdle of [1m[31munholy [35mmight[0m~
+Descr
+A humming girdle is lying on the floor.
+[0;36m~
+Type 9
+Extra 536871426
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 1
+Weight 1
+Cost 0
+Affect 1 1 1 0 0
+End
+
+#19929
+Name crystal tier holy enlightenment~
+Short [0ma crystal of [1m[33mholy [35menlightenment[0m~
+Descr
+A humming crystal is lying on the floor.
+[0;36m~
+Type 21
+Extra 536871938
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 120 60 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 4 1 1 0 0
+End
+
+#19930
+Name unholy enlightenment crystal tier~
+Short [0ma crystal of [1m[31munholy [35menlightenment[0m~
+Descr
+A humming crystal is lying on the floor.
+[0;36m~
+Type 21
+Extra 536871426
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 120 60 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 4 1 1 0 0
+End
+
+#19931
+Name shard holy power tier~
+Short [0ma shard of [1m[33mholy [35mpower[0m~
+Descr
+A humming shard is lying on the floor
+[0;36m~
+Type 21
+Extra 536871938
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 0 100 50 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 3 1 1 0 0
+End
+
+#19932
+Name shard unholy power tier~
+Short a shard of [1m[31munholy [35mpower[0m~
+Descr
+A humming shard is lying on the floor
+[0;36m~
+Type 21
+Extra 536871426
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 14 0 100 50 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 3 1 1 0 0
+End
+
+#19933
+Name holy cloak nimbleness tier~
+Short [0ma cloak of [1m[33mholy [35mnimbleness[0m~
+Descr
+A humming cloak is lying here.
+[0;36m~
+Type 9
+Extra 536871938
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 2 1 1 0 0
+End
+
+#19934
+Name cloak unholy nimbleness tier~
+Short a cloak of [1m[31munholy [35mnimbleness[0m~
+Descr
+A humming cloak is lying here.
+[0;36m~
+Type 9
+Extra 536871426
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 2 1 1 0 0
+End
+
+#19935
+Name boots travelling generic~
+Short some [1m[32mboots[0m of [1m[36mtravelling[0m~
+Descr
+A pair of fine boots ar elying here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+Affect 14 50 1 0 0
+End
+
+#19959
+Name church bells~
+Short church bells~
+Descr
+Many church bells can be seen hanging from the ceiling.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19961
+Name ring of evil~
+Short (no short description)~
+Descr
+(no description)~
+Type 9
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19963
+Name portal evil~
+Short portal to evil~
+Descr
+A [0m[1mportal[0m[36m to [1m[30mevil [0m[36mis floating within the tree.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 19853 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19967
+Name large tree~
+Short large tree~
+Descr
+A large tree, with a base the size of a house, grows here.
+[0;36m~
+Type 30
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 0 19841 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19968
+Name bench~
+Short park bench~
+Descr
+A park bench has been placed here for you to relax on.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19970
+Name hingis statue~
+Short a hingis statue ~
+Descr
+A [1mT[31mi[37mc[31mk[37ml[31me[37m-[31mM[37me [31mH[37mi[31mn[37mg[31mi[37ms [0m[36mstatue stands here looking sentual.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19973
+Name a key of pure water~
+Short a [1mkey [0mof [1mpure [34mwater~
+Descr
+A [1mkey [0mmade from [1mpure [34mwater [0mis here.
+[0;36m~
+Type 18
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19975
+Name underwater sign~
+Short underwater sign~
+Descr
+A sign that looks pretty important is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Fearing for his life, Poseidon god of water and all creatures within,
+
+
+pleaded with the gods of this land for a safe location for his castle. The
+
+
+generous people of Arakis were more than willing to let him place his castle
+
+
+below their river and swore to protect it with their lives. 
+
+
+ 
+
+
+You have been warned.
+
+
+~
+End
+
+#19976
+Name robes water flowing~
+Short some [1mf[31ml[0m[1mo[31mw[0m[1mi[31mn[0m[1mg[0m robes of [1m[34mwater~
+Descr
+Some flwoing robes of water have been thoughtlessly left here.
+[0;36m~
+Type 9
+Extra 536870913
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 3 0 0 0 30 30 0 0
+Weight 2
+Cost 0
+Affect 18 2 1 0 0
+Affect 14 15 0 0 0
+End
+
+#19978
+Name statue light~
+Short statue of pure light~
+Descr
+A Statue of Pure Light is the centerpiece of these masterful gardens.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19979
+Name necklace holy faith~
+Short a [1mHoly [34mnecklace [37mof [34mfaith~
+Descr
+A powerful looking necklace has been left behind.
+[0;36m~
+Type 9
+Extra 1
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 0 0 0 0
+Weight 1
+Cost 2302
+Affect 14 20 1 0 0
+Affect 13 20 1 0 0
+End
+
+#19981
+Name holy fountain~
+Short holy fountain~
+Descr
+A holy fountain bubbles with pure holy water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19984
+Name adrienne ring~
+Short a [1m[34mforgotten [30mengagement [0mring~
+Descr
+A forgotten engagement ring has been heartlessly discarded by it's owner.
+[0;36m~
+Type 9
+Extra 1
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 0 40 0 0
+Weight 1
+Cost 2032
+Affect 20 -4 1 0 0
+Affect 14 20 1 0 0
+Affect 17 -2 1 0 0
+End
+
+#19997
+Name musical fountain~
+Short a musical fountain~
+Descr
+A musical fountain is here singing and bubbling with crystal clear water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19998
+Name white rose~
+Short [1mwhite [0m[31mrose~
+Descr
+A beautiful [0m[1mwhite [0m[31mrose [0m[36mis the centerpiece of the greenhouse.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#19999
+Name sign arakis~
+Short a large wooden sign~
+Descr
+A big sign you really need to read is here.
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+May it be know that those of us in Arakis do not like Minotars or
+
+
+Half-Giants and we will attack without warning. You have been warned, do not
+
+
+enter our streets. 
+
+
+~
+ExtraDescr sign~
+May it be know that those of us in Arakis do not like Minotars or Half-Giants and
+
+
+we will attack without warning.
+
+
+You have been warned, do not enter our streets.
+
+
+~
+End
+
+#0
+
+
+
+#ROOMDATA
+#19700
+Name Outside the Western Gates of Arakis~
+Descr
+As you come closer to the city you begin to question your reason for
+coming. The huge stone walls are a reminder that law goes in this city and
+anyone who doesn't abide by the laws of the town will be dealt with
+severely. 
+~
+Door 0 0 0 19882 0 0
+~
+~
+Door 1 0 0 19701 0 0
+~
+~
+Door 2 0 0 19887 0 0
+~
+~
+Door 3 0 0 19888 0 0
+~
+~
+End
+
+#19701
+Name Western Gate of Arakis~
+Descr
+The large metal gates of Arakis have not been closed for hundreds of
+years. At one time they were used to protect the people from anyone who
+would dare oppose them. 
+~
+Flags 2
+Door 1 0 0 19702 0 0
+~
+~
+Door 3 0 0 19700 0 0
+~
+~
+End
+
+#19702
+Name Dodge Street~
+Descr
+The streets of Arakis are alive with people. City janitors keep the
+streets so clean you could eat off of them. Perhaps this is a friendly city
+after all. 
+~
+Door 1 0 0 19703 0 0
+~
+~
+Door 2 0 0 19861 0 0
+~
+~
+Door 3 0 0 19701 0 0
+~
+~
+End
+
+#19703
+Name Dodge Street~
+Descr
+The streets of Arakis are alive with people. City janitors keep the
+streets so clean you could eat off of them. Perhaps this is a friendly city
+after all. 
+~
+Door 0 3 0 19775 30 30
+~
+tower door~
+Door 1 0 0 19704 0 0
+~
+~
+Door 3 0 0 19702 0 0
+~
+~
+End
+
+#19704
+Name Dodge Street~
+Descr
+The streets of Arakis are alive with people. City janitors keep the
+streets so clean you could eat off of them. Perhaps this is a friendly city
+after all. 
+~
+Door 1 0 0 19705 0 0
+~
+~
+Door 3 0 0 19703 0 0
+~
+~
+End
+
+#19705
+Name Dodge Street~
+Descr
+The streets of Arakis are alive with people. City janitors keep the
+streets so clean you could eat off of them. Perhaps this is a friendly city
+after all. 
+~
+Door 1 0 0 19706 0 0
+~
+~
+Door 3 0 0 19704 0 0
+~
+~
+End
+
+#19706
+Name Central Square of Arakis~
+Descr
+The huge central square of Arakis is alive with chatter from both the
+people passing by and its huge musical fountain. All the major streets of
+Arakis come together at this great square and you find yourself wondering
+which way you plan on going. 
+~
+Reset M 19965 1 100
+Reset M 19995 1 100
+Reset O 19973 -1 100
+Reset O 19997 -5 100
+Reset O 101 -5 101
+Door 0 0 0 19715 0 0
+~
+~
+Door 1 0 0 19707 0 0
+~
+~
+Door 2 0 0 19716 0 0
+~
+~
+Door 3 0 0 19705 0 0
+~
+~
+End
+
+#19707
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 1 0 0 19708 0 0
+~
+~
+Door 3 0 0 19706 0 0
+~
+~
+End
+
+#19708
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 0 0 0 19732 0 0
+~
+~
+Door 1 0 0 19709 0 0
+~
+~
+Door 2 3 0 19927 30 30
+~
+door~
+Door 3 0 0 19707 0 0
+~
+~
+End
+
+#19709
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 1 0 0 19710 0 0
+~
+~
+Door 3 0 0 19708 0 0
+~
+~
+End
+
+#19710
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 1 0 0 19711 0 0
+~
+~
+Door 3 0 0 19709 0 0
+~
+~
+End
+
+#19711
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 1 0 0 19712 0 0
+~
+~
+Door 2 0 0 19735 0 0
+~
+~
+Door 3 0 0 19710 0 0
+~
+~
+End
+
+#19712
+Name Toland Avenue~
+Descr
+Toland avenue is the quiet street of Arakis. One of the main attractions
+of Toland avenue is its spectacular greenhouse. 
+~
+Door 0 0 0 19860 0 0
+~
+~
+Door 1 0 0 19713 0 0
+~
+~
+Door 3 0 0 19711 0 0
+~
+~
+End
+
+#19713
+Name Eastern Gates of Arakis~
+Descr
+The large metal gates of Arakis have not been closed for hundreds of
+years. At one time they were used to protect the people from anyone who
+would dare oppose them. 
+~
+Flags 2
+Door 1 0 0 19714 0 0
+~
+~
+Door 3 0 0 19712 0 0
+~
+~
+End
+
+#19714
+Name Outside the Eastern Gates of Arakis~
+Descr
+As you come closer to the city you begin to question your reason for
+coming. The huge stone walls are a reminder that law goes in this city and
+anyone who doesn't abide by the laws of the town will be dealt with
+severely. 
+~
+Door 0 0 0 19864 0 0
+~
+~
+Door 1 0 0 70016 0 0
+~
+~
+Door 2 0 0 19923 0 0
+~
+~
+Door 3 0 0 19713 0 0
+~
+~
+End
+
+#19715
+Name North Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19724 0 0
+~
+~
+Door 2 0 0 19706 0 0
+~
+~
+End
+
+#19716
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19706 0 0
+~
+~
+Door 2 0 0 19718 0 0
+~
+~
+Door 3 0 0 19717 0 0
+~
+~
+End
+
+#19717
+Name The Mayor's Office~
+Descr
+This has to be the cleanest office you've ever seen. Neatly stacked
+papers with the Mayor's signature are ready to be delivered just as soon as
+the messenger gets here. 
+~
+Flags 4
+Reset M 19998 1 100
+Door 1 0 0 19716 0 0
+~
+~
+End
+
+#19718
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19716 0 0
+~
+~
+Door 1 0 0 19719 0 0
+~
+~
+Door 3 0 0 19750 0 0
+~
+~
+End
+
+#19719
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 2 0 0 19720 0 0
+~
+~
+Door 3 0 0 19718 0 0
+~
+~
+End
+
+#19720
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19719 0 0
+~
+~
+Door 2 0 0 19721 0 0
+~
+~
+End
+
+#19721
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Reset M 19965 1 100
+Door 0 0 0 19720 0 0
+~
+~
+Door 1 0 0 19739 0 0
+~
+~
+Door 2 0 0 19722 0 0
+~
+~
+End
+
+#19722
+Name South Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19721 0 0
+~
+~
+Door 1 0 0 19862 0 0
+~
+~
+Door 2 0 0 19723 0 0
+~
+~
+End
+
+#19723
+Name Southern Gates of Arakis~
+Descr
+The large metal gates of Arakis have not been closed for hundreds of
+years. At one time they were used to protect the people from anyone who
+would dare oppose them. 
+~
+Flags 2
+Door 0 0 0 19722 0 0
+~
+~
+Door 2 0 0 19851 0 0
+~
+~
+End
+
+#19724
+Name North Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19725 0 0
+~
+~
+Door 1 0 0 19819 0 0
+~
+~
+Door 2 0 0 19715 0 0
+~
+~
+End
+
+#19725
+Name Before A Bridge~
+Descr
+The great Arakis bridge stands before you. Built decades ago it still
+stands looking newer than ever. 
+~
+Door 2 0 0 19724 0 0
+~
+~
+Door 4 0 0 19726 0 0
+~
+~
+End
+
+#19726
+Name A Bridge Over the Arakis River~
+Descr
+You feel very safe on this bridge for it is made from the strongest iron
+and steel in all the land. 
+~
+Door 1 0 0 19727 0 0
+~
+~
+Door 5 0 0 19725 0 0
+~
+~
+End
+
+#19727
+Name A Bridge Over the Arakis River~
+Descr
+You feel very safe on this bridge for it is made from the strongest iron
+and steel in all the land. 
+~
+Door 0 0 0 19728 0 0
+~
+~
+Door 3 0 0 19726 0 0
+~
+~
+Door 5 259 0 19804 30 30
+~
+manhole~
+End
+
+#19728
+Name A Bridge Over the Arakis River~
+Descr
+You feel very safe on this bridge for it is made from the strongest iron
+and steel in all the land. 
+~
+Door 2 0 0 19727 0 0
+~
+~
+Door 5 0 0 19729 0 0
+~
+~
+End
+
+#19729
+Name Before a Bridge~
+Descr
+The great Arakis bridge stands before you. Built decades ago it still
+stands looking newer than ever. 
+~
+Reset M 19965 1 100
+Door 0 0 0 19730 0 0
+~
+~
+Door 3 0 0 19771 0 0
+~
+~
+Door 4 0 0 19728 0 0
+~
+~
+End
+
+#19730
+Name North Main Street~
+Descr
+Main street is where all the action is. To the north you have the
+Cathedral and the city park. To the south we have the shops of Arakis and
+the Arboretum. 
+~
+Door 0 0 0 19731 0 0
+~
+~
+Door 1 0 0 19863 0 0
+~
+~
+Door 2 0 0 19729 0 0
+~
+~
+End
+
+#19731
+Name Northern Gates of Arakis~
+Descr
+The large metal gates of Arakis have not been closed for hundreds of
+years. At one time they were used to protect the people from anyone who
+would dare oppose them. 
+~
+Flags 2
+Door 0 0 0 19803 0 0
+~
+~
+Door 2 0 0 19730 0 0
+~
+~
+End
+
+#19732
+Name A Small Greenhouse~
+Descr
+This is the most peaceful place you've ever seen. Beautiful flowers are
+spread throughout the room. Makes you want to sit down and enjoy the smell
+of fresh flowers. 
+~
+Flags 3162116
+Sector 0
+Reset O 19998 -5 100
+Door 2 0 0 19708 0 0
+~
+~
+Door 4 259 0 19733 30 30
+~
+secret~
+End
+
+#19733
+Name A Secret Room of the Greenhouse~
+Descr
+You have found a secret room of the greenhouse. Look!  There are flower
+baskets!  And bulbs!  Oh could you be any luckier?!  
+~
+Flags 4
+Door 5 3 0 19732 30 30
+~
+secret~
+End
+
+#19735
+Name Nostadamus' Tower~
+Descr
+The great tower Nostradamus has been built to house the great foreseer.
+Students travel from miles around in order to study with the great master
+himself. 
+~
+Flags 6
+Door 0 0 0 19711 0 0
+~
+~
+Door 4 0 0 19736 0 0
+~
+~
+End
+
+#19736
+Name Nostadamus' Tower~
+Descr
+The great tower Nostradamus has been built to house the great foreseer.
+Students travel from miles around in order to study with the great master
+himself. 
+~
+Flags 4
+Reset M 19990 1 100
+Door 4 0 0 19737 0 0
+~
+~
+Door 5 0 0 19735 0 0
+~
+~
+End
+
+#19737
+Name Nostadamus' Tower~
+Descr
+The great tower Nostradamus has been built to house the great foreseer.
+Students travel from miles around in order to study with the great master
+himself. 
+~
+Flags 4
+Reset M 19990 1 100
+Door 4 0 0 19738 0 0
+~
+~
+Door 5 0 0 19736 0 0
+~
+~
+End
+
+#19738
+Name Nostradamus' Tower~
+Descr
+The Great Nostradamus is here foretelling the future and all it will hold
+to his greatful students. 
+~
+Flags 4
+Reset M 19990 1 100
+Reset M 19996 1 100
+Door 5 0 0 19737 0 0
+~
+~
+End
+
+#19739
+Name The Arakis Arboretum~
+Descr
+This is the entrance to an area of beautiful gardens, large trees, wild
+animals and lush bushes to make yourself feel as if you are wandering
+through a great forest. 
+~
+Flags 2
+Door 1 0 0 19740 0 0
+~
+~
+Door 3 0 0 19721 0 0
+~
+~
+End
+
+#19740
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Door 0 0 0 19741 0 0
+~
+~
+Door 1 0 0 19743 0 0
+~
+~
+Door 2 0 0 19742 0 0
+~
+~
+Door 3 0 0 19739 0 0
+~
+~
+End
+
+#19741
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Door 1 0 0 19744 0 0
+~
+~
+Door 2 0 0 19740 0 0
+~
+~
+End
+
+#19742
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Reset M 19993 1 100
+Reset M 19994 1 100
+Door 0 0 0 19740 0 0
+~
+~
+End
+
+#19743
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Door 0 0 0 19744 0 0
+~
+~
+Door 1 0 0 19745 0 0
+~
+~
+Door 3 0 0 19740 0 0
+~
+~
+End
+
+#19744
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Reset M 19993 1 100
+Door 2 0 0 19743 0 0
+~
+~
+Door 3 0 0 19741 0 0
+~
+~
+End
+
+#19745
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Reset M 19991 1 100
+Reset M 19994 1 100
+Door 2 0 0 19746 0 0
+~
+~
+Door 3 0 0 19743 0 0
+~
+~
+Door 5 259 0 19748 30 30
+~
+tree~
+End
+
+#19746
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Door 0 0 0 19745 0 0
+~
+~
+Door 1 0 0 19747 0 0
+~
+~
+End
+
+#19747
+Name Inside The Arboretum~
+Descr
+You are deep within the beautiful gardens, large trees, wild animals and
+lush bushes. Perhaps a powerful god picked up a forest and placed it within
+the city walls for the people to enjoy. 
+~
+Reset M 19991 1 100
+Door 3 0 0 19746 0 0
+~
+~
+End
+
+#19748
+Name Inside A Tree~
+Descr
+The inside of this tree has been carved into a magnificent home. I wonder
+who could build such a thing. 
+~
+Flags 4
+Door 4 3 0 19745 30 30
+~
+tree~
+Door 5 0 0 19749 0 0
+~
+~
+End
+
+#19749
+Name A Small Home Within A Tree~
+Descr
+The inside of this tree has been carved into a magnificent home. I wonder
+who could build such a thing. 
+~
+Flags 4
+Reset M 19992 1 100
+Door 4 0 0 19748 0 0
+~
+~
+End
+
+#19750
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 1 0 0 19718 0 0
+~
+~
+Door 3 0 0 19751 0 0
+~
+~
+End
+
+#19751
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 3 0 19752 30 30
+~
+door~
+Door 1 0 0 19750 0 0
+~
+~
+Door 3 0 0 19758 0 0
+~
+~
+End
+
+#19752
+Name The Wallace's Home~
+Descr
+Along the busy street the Wallaces have made their home. A nice old
+couple, they have nothing better to do than sit and watch passerbys. 
+~
+Flags 4
+Sector 0
+Reset M 19971 1 100
+Reset M 19970 1 100
+Door 2 3 0 19751 30 30
+~
+door~
+Door 4 0 0 19753 0 0
+~
+~
+End
+
+#19753
+Name A Narrow Hallway~
+Descr
+A small hallway to say the least. There are a few nice paintings that
+line the cramped hallway. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 19754 0 0
+~
+~
+Door 5 0 0 19752 0 0
+~
+~
+End
+
+#19754
+Name A Narrow Hallway~
+Descr
+A small hallway to say the least. There are a few nice paintings that
+line the cramped hallway. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 19753 0 0
+~
+~
+Door 2 0 0 19755 0 0
+~
+~
+End
+
+#19755
+Name A Bedroom~
+Descr
+A nice queen sized bed, a few dressers, and a large walk-in closet. This
+is a pretty nice bedroom. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 19754 0 0
+~
+~
+Door 2 1 0 19756 30 30
+~
+door~
+End
+
+#19756
+Name A Closet~
+Descr
+Someone needs to clean this place. There is scattered clothes and boxes
+all over. You wonder if anyone has opened this door in years. 
+~
+Flags 4
+Sector 0
+Reset M 19985 2 100
+Reset M 19985 2 100
+Door 0 3 0 19755 30 30
+~
+door~
+Door 3 259 0 19757 30 30
+~
+panel~
+End
+
+#19757
+Name A Secret Room~
+Descr
+Once one of the most powerful women in all the land, Adrienne now makes
+her home in a hidden part of this house. As you feast your eyes on what must
+be a very old woman, you wonder how she can be so beautiful. 
+~
+Flags 4
+Sector 0
+Reset M 19986 1 100
+Reset O 19984 0 3
+Door 1 3 0 19756 30 30
+~
+panel~
+End
+
+#19758
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 1 0 0 19751 0 0
+~
+~
+Door 2 0 0 19760 0 0
+~
+~
+Door 3 0 0 19759 0 0
+~
+~
+End
+
+#19759
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 0 0 19926 0 0
+~
+~
+Door 1 0 0 19758 0 0
+~
+~
+Door 2 0 0 19761 0 0
+~
+~
+Door 3 0 0 19762 0 0
+~
+~
+End
+
+#19760
+Name Umar's Repair Shop~
+Descr
+Umar's armor shop is full of tools to repair your goods. You can see
+ancient tools that appear to have been used to repair goods some hundreds of
+years ago by Umar's ancestors. 
+~
+Flags 4
+Reset M 19989 1 100
+Door 0 0 0 19758 0 0
+~
+~
+Door 3 0 0 19761 0 0
+~
+~
+End
+
+#19761
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 0 0 19759 0 0
+~
+~
+Door 1 0 0 19760 0 0
+~
+~
+Door 2 0 0 19763 0 0
+~
+~
+End
+
+#19762
+Name Kirk's House of Weapons~
+Descr
+Kirk is here to repair your fine weapons with the utmost skill and
+craftsmanship. You feel very comfortable giving him your most valued of
+weapons. 
+~
+Flags 4
+Reset M 19988 1 100
+Door 1 0 0 19759 0 0
+~
+~
+End
+
+#19763
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 0 0 19761 0 0
+~
+~
+Door 3 0 0 19764 0 0
+~
+~
+End
+
+#19764
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 0 0 19769 0 0
+~
+~
+Door 1 0 0 19763 0 0
+~
+~
+Door 2 0 0 19768 0 0
+~
+~
+Door 3 0 0 19765 0 0
+~
+~
+End
+
+#19765
+Name Carbos Street~
+Descr
+The great shops of Arakis are all located on Carbos Street. Huge bay
+windows display the specials of the day as you feast your eyes on all the
+shops have to offer. 
+~
+Door 0 0 0 19766 0 0
+~
+~
+Door 1 0 0 19764 0 0
+~
+~
+Door 2 0 0 19767 0 0
+~
+~
+End
+
+#19766
+Name A Dead-End~
+Descr
+This is where the road ends. You can see pieces of trash that have been
+left here buy uncaring individuals being gathered by a lonesome janitor. 
+~
+Reset M 19983 1 100
+Reset O 19973 -1 100
+Door 2 0 0 19765 0 0
+~
+~
+End
+
+#19767
+Name Jarela's Inn~
+Descr
+Jarela's Inn is the finest inn in town. Clean rooms await all those who
+wish to pay to stay in the comfort of this fine establishment. 
+~
+Flags 4
+Reset M 19987 1 100
+Door 0 0 0 19765 0 0
+~
+~
+End
+
+#19768
+Name A Well-Lit Alley~
+Descr
+As you venture off the main streets of Arakis you notice how clean even
+the allies are!  Barely a spec of trash can be found as you peer around your
+surroundings. 
+~
+Reset M 19956 1 100
+Door 0 0 0 19764 0 0
+~
+~
+Door 2 0 0 19770 0 0
+~
+~
+End
+
+#19769
+Name Grimish's Pet Shop~
+Descr
+Not the biggest pet shop you've ever been in, but it houses some of the
+most exotic pets you've ever seen. 
+~
+Flags 4
+Reset M 19977 1 100
+Door 2 0 0 19764 0 0
+~
+~
+End
+
+#19770
+Name A Well-Lit Alley~
+Descr
+As you venture off the main streets of Arakis you notice how clean even
+the allies are!  Barely a spec of trash can be found as you peer around your
+surroundings. 
+~
+Door 0 0 0 19768 0 0
+~
+~
+End
+
+#19771
+Name Archway of a Mighty Cathedral~
+Descr
+The pillar of faith in the town of Arakis, the mighty cathedral was the
+first building created in Arakis. People still journey from miles around
+just to learn the sacred faith. 
+~
+Flags 2
+Door 1 0 0 19729 0 0
+~
+~
+Door 3 3 0 19772 30 30
+~
+white gates~
+End
+
+#19772
+Name Hallway of Faith~
+Descr
+Statues of great saints of the past have had there portraits hung in this
+great hallway. Perhaps someday if you are good enough your portrait may hang
+in these very halls. 
+~
+Flags 4
+Reset O 19981 -5 100
+Door 0 0 0 19773 0 0
+~
+~
+Door 1 3 0 19771 30 30
+~
+white gates~
+Door 2 0 0 19774 0 0
+~
+~
+End
+
+#19773
+Name Hallway of Faith~
+Descr
+Statues of great saints of the past have had there portraits hung in this
+great hallway. Perhaps someday if you are good enough your portrait may hang
+in these very halls. 
+~
+Flags 4
+Door 2 0 0 19772 0 0
+~
+~
+Door 3 0 0 19778 0 0
+~
+~
+End
+
+#19774
+Name Hallway of Faith~
+Descr
+Statues of great saints of the past have had there portraits hung in this
+great hallway. Perhaps someday if you are good enough your portrait may hang
+in these very halls. 
+~
+Flags 4
+Door 0 0 0 19772 0 0
+~
+~
+Door 3 0 0 19784 0 0
+~
+~
+End
+
+#19775
+Name Tower of Sha'ru~
+Descr
+The walls of the tower are a symbol of the power that Sha'ru has. Made
+entirely of stone you can be assured that this tower will stand for quite
+some time. 
+~
+Flags 4
+Door 2 3 0 19703 30 30
+~
+tower door~
+Door 4 0 0 19776 0 0
+~
+~
+End
+
+#19776
+Name Tower of Sha'ru~
+Descr
+The walls of the tower are a symbol of the power that Sha'ru has. Made
+entirely of stone you can be assured that this tower will stand for quite
+some time. 
+~
+Flags 4
+Door 4 0 0 19777 0 0
+~
+~
+Door 5 0 0 19775 0 0
+~
+~
+End
+
+#19777
+Name Tower of Sha'ru~
+Descr
+The walls of the tower are lined with the flags of all the armies Sha'ru
+has defeated. There must be thirty flags draped about the room, most of
+which are still stained with the blood of its original owner. You realize
+now just how powerful a man you are approaching for advice. 
+~
+Flags 4
+Reset M 19982 1 100
+Door 5 0 0 19776 0 0
+~
+~
+End
+
+#19778
+Name Hallway of Hope~
+Descr
+Statues of great saints of the past have had there portraits hung in this
+great hallway. Perhaps someday if you are good enough your portrait may hang
+in these very halls. 
+~
+Flags 4
+Door 1 0 0 19773 0 0
+~
+~
+Door 3 0 0 19783 0 0
+~
+~
+Door 4 0 0 19779 0 0
+~
+~
+End
+
+#19779
+Name A Stairwell~
+Descr
+Your destiny awaits you...
+~
+Flags 4
+Door 1 0 0 19780 0 0
+~
+~
+Door 5 0 0 19778 0 0
+~
+~
+End
+
+#19780
+Name A Short Hallway~
+Descr
+Continuing down this short hallway will no doubt lead you to your destiny. 
+~
+Flags 4
+Door 2 0 0 19781 0 0
+~
+~
+Door 3 0 0 19779 0 0
+~
+~
+End
+
+#19781
+Name A Short Hallway~
+Descr
+Continuing down this short hallway will no doubt lead you to your destiny. 
+~
+Flags 4
+Reset M 19978 2 100
+Reset M 19978 2 100
+Door 0 0 0 19780 0 0
+~
+~
+Door 2 3 0 19782 30 30
+~
+office door~
+End
+
+#19782
+Name A Monk's Lair~
+Descr
+This has been the office of many great monks. They have used this room to
+keep great accounts of history in the form of memoirs. You can see from the
+large number of papers on Yarmor's desk, he has been hard at work for some
+time now. Perhaps it would be best not to disturb him. 
+~
+Flags 4
+Reset M 19979 1 100
+Reset O 19979 1 1
+Door 0 3 0 19781 30 30
+~
+office door~
+End
+
+#19783
+Name Hallway of Hope~
+Descr
+Statues of great saints of the past have had there portraits hung in this
+great hallway. Perhaps someday if you are good enough your portrait may hang
+in these very halls. 
+~
+Flags 4
+Door 1 0 0 19778 0 0
+~
+~
+Door 3 0 0 19855 0 0
+~
+~
+Door 4 0 0 19850 0 0
+~
+~
+End
+
+#19784
+Name Entrance to the Gardens~
+Descr
+The glass doors before you lead to a beautiful garden. Perhaps you should
+venture out and see why they are called the most beautiful gardens in all of
+Arakis. 
+~
+Flags 4
+Door 1 0 0 19774 0 0
+~
+~
+Door 2 3 0 19785 30 30
+~
+garden doors~
+End
+
+#19785
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 0 3 0 19784 30 30
+~
+garden doors~
+Door 3 0 0 19786 0 0
+~
+~
+End
+
+#19786
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 1 0 0 19785 0 0
+~
+~
+Door 3 0 0 19787 0 0
+~
+~
+End
+
+#19787
+Name Gardens of the Cathadral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 1 0 0 19786 0 0
+~
+~
+Door 3 0 0 19788 0 0
+~
+~
+End
+
+#19788
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Reset O 19978 -5 100
+Door 0 0 0 19789 0 0
+~
+~
+Door 1 0 0 19787 0 0
+~
+~
+Door 2 0 0 19790 0 0
+~
+~
+Door 3 0 0 19792 0 0
+~
+~
+Door 5 259 0 19793 30 30
+~
+flower~
+End
+
+#19789
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 2 0 0 19788 0 0
+~
+~
+Door 3 0 0 19791 0 0
+~
+~
+End
+
+#19790
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 0 0 0 19788 0 0
+~
+~
+End
+
+#19791
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 1 0 0 19789 0 0
+~
+~
+Door 2 0 0 19792 0 0
+~
+~
+End
+
+#19792
+Name Gardens of the Cathedral~
+Descr
+These fantastic gardens are so well kept you can hardly believe that all
+the bushes are real!  With great fountains and sculptures you realize how
+much work this must have been to create. 
+~
+Door 0 0 0 19791 0 0
+~
+~
+Door 1 0 0 19788 0 0
+~
+~
+End
+
+#19793
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 1 0 0 19794 0 0
+~
+~
+Door 4 0 0 19788 0 0
+~
+~
+End
+
+#19794
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 1 0 0 19795 0 0
+~
+~
+Door 3 0 0 19793 0 0
+~
+~
+End
+
+#19795
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 1 0 0 19796 0 0
+~
+~
+Door 3 0 0 19794 0 0
+~
+~
+End
+
+#19796
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 1 0 0 19797 0 0
+~
+~
+Door 3 0 0 19795 0 0
+~
+~
+End
+
+#19797
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 0 0 0 19798 0 0
+~
+~
+Door 3 0 0 19796 0 0
+~
+~
+End
+
+#19798
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 1 0 0 19799 0 0
+~
+~
+Door 2 0 0 19797 0 0
+~
+~
+End
+
+#19799
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of
+Arakis to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 0 0 0 19800 0 0
+~
+~
+Door 3 0 0 19798 0 0
+~
+~
+End
+
+#19800
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 0 0 0 19802 0 0
+~
+~
+Door 2 0 0 19799 0 0
+~
+~
+End
+
+#19801
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 2 0 0 19802 0 0
+~
+~
+Door 4 0 0 19803 0 0
+~
+~
+End
+
+#19802
+Name A Secret Tunnel~
+Descr
+Built some hundreds of years ago this tunnel allowed the people of Arakis
+to sneak around behind anyone who might attack her powerful walls. 
+~
+Flags 4
+Door 0 0 0 19801 0 0
+~
+~
+Door 2 0 0 19800 0 0
+~
+~
+End
+
+#19803
+Name Outside The Northern Gates of Arakis~
+Descr
+As you come closer to the city you begin to question your reason for
+coming. The huge stone walls are a reminder that law goes in this city and
+anyone who doesn't abide by the laws of the town will be dealt with
+severely. 
+~
+Door 1 0 0 19881 0 0
+~
+~
+Door 2 0 0 19731 0 0
+~
+~
+End
+
+#19804
+Name Beneath The Bridge~
+Descr
+You have found yourself below the great Arakis bridge. Perhaps you should
+explore some to find out what mysteries lie below the bridge. 
+~
+Flags 5
+Door 4 3 0 19727 30 30
+~
+manhole~
+Door 5 0 0 19805 0 0
+~
+~
+End
+
+#19805
+Name In The Arakis River~
+Descr
+Some strange fish start swimming by your head, how on earth could they
+have gotten here?  
+~
+Flags 4
+Sector 8
+Door 1 0 0 19806 0 0
+~
+~
+Door 4 0 0 19804 30 30
+~
+manhole~
+End
+
+#19806
+Name In The Arakis River~
+Descr
+Some strange fish start swimming by your head, how on earth could they
+have gotten here?  
+~
+Flags 4
+Sector 8
+Door 3 0 0 19805 0 0
+~
+~
+Door 5 0 0 19807 0 0
+~
+~
+End
+
+#19807
+Name An Underwater Cavern~
+Descr
+This cavern looks like it was just put here by some unknown force.
+Perhaps you should follow the cavern to see why it was put here. 
+~
+Flags 4
+Sector 8
+Door 4 0 0 19806 0 0
+~
+~
+Door 5 0 0 19808 0 0
+~
+~
+End
+
+#19808
+Name An Underwater Cavern~
+Descr
+This cavern looks like it was just put here by some unknown force.
+Perhaps you should follow the cavern to see why it was put here. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 19809 0 0
+~
+~
+Door 4 0 0 19807 0 0
+~
+~
+End
+
+#19809
+Name An Underwater Castle~
+Descr
+You can't quite figure out why a castle would be under the Arakis river.
+But then you notice a small sign and decide it might be a good idea to read
+it. 
+~
+Flags 4
+Sector 8
+Reset M 19974 2 100
+Reset M 19974 2 100
+Reset O 19975 -5 100
+Door 0 3 0 19810 30 30
+~
+door~
+Door 2 0 0 19808 0 0
+~
+~
+End
+
+#19810
+Name A Hallway of the Gods~
+Descr
+The underwater palace of Poseidon is beautiful. Tropical fish swim in
+small schools around your head as you journey further down the large
+hallway. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 19811 0 0
+~
+~
+Door 2 0 0 19809 0 0
+~
+~
+End
+
+#19811
+Name A Hallway of the Gods~
+Descr
+The underwater palace of Poseidon is beautiful. Tropical fish swim in
+small schools around your head as you journey further down the large
+hallway. 
+~
+Flags 4
+Sector 8
+Door 0 0 0 19812 0 0
+~
+~
+Door 2 0 0 19810 0 0
+~
+~
+End
+
+#19812
+Name A Hallway of the Gods~
+Descr
+The underwater palace of Poseidon is beautiful. Tropical fish swim in
+small schools around your head as you journey further down the large
+hallway. 
+~
+Flags 4
+Sector 8
+Door 0 23 19973 19814 50 50
+~
+chamber doors~
+Door 2 0 0 19811 0 0
+~
+~
+Door 5 0 0 19813 0 0
+~
+~
+End
+
+#19813
+Name A Corridor Within The Castle~
+Descr
+The underwater palace of Poseidon is beautiful. Tropical fish swim in
+small schools around your head as you journey further down the large
+hallway. 
+~
+Flags 6
+Sector 8
+Door 0 0 0 19818 0 0
+~
+~
+Door 1 0 0 19817 0 0
+~
+~
+Door 2 0 0 19815 0 0
+~
+~
+Door 3 0 0 19816 0 0
+~
+~
+Door 4 0 0 19812 0 0
+~
+~
+End
+
+#19814
+Name Poseidon's Chambers~
+Descr
+Poseidon is here sitting on his watery thrown. The great ruler of the
+water world has taken sanctuary beneath the city of Arakis. Should you ever
+try to harm one of his underwater creatures, you will be forced to deal with
+him personally. 
+~
+Flags 2129924
+Sector 8
+Reset M 19976 1 100
+Reset O 42876 1 1
+Reset O 19976 4 1
+Door 2 3 0 19812 50 50
+~
+chamber doors~
+End
+
+#19815
+Name A Mermaid's Chambers~
+Descr
+A mermaid's chambers are alive with life as she sings her way into your
+heart. Full of beauty you find yourself wishing you could stay here and
+listen to her song forever. 
+~
+Flags 4
+Sector 8
+Reset M 19969 2 100
+Reset M 19969 2 100
+Door 0 0 0 19813 0 0
+~
+~
+End
+
+#19816
+Name A Mermaid's Chambers~
+Descr
+A mermaid's chambers are alive with life as she sings her way into your
+heart. Full of beauty you find yourself wishing you could stay here and
+listen to her song forever. 
+~
+Flags 4
+Sector 8
+Reset M 19969 2 100
+Reset M 19969 2 100
+Door 1 0 0 19813 0 0
+~
+~
+End
+
+#19817
+Name A Mermaid's Chambers~
+Descr
+A mermaid's chambers are alive with life as she sings her way into your
+heart. Full of beauty you find yourself wishing you could stay here and
+listen to her song forever. 
+~
+Flags 4
+Sector 8
+Reset M 19969 2 100
+Reset M 19969 2 100
+Door 3 0 0 19813 0 0
+~
+~
+End
+
+#19818
+Name A Mermaid's Chambers~
+Descr
+A mermaid's chambers are alive with life as she sings her way into your
+heart. Full of beauty you find yourself wishing you could stay here and
+listen to her song forever. 
+~
+Flags 4
+Sector 8
+Reset M 19969 2 100
+Reset M 19969 2 100
+Door 2 0 0 19813 0 0
+~
+~
+End
+
+#19819
+Name Entrance to Central Park~
+Descr
+The greatest single attraction of Arakis is its large park. With the most
+beautiful arrangements of flowers and bushes, it's hard not to just go for a
+walk in the park. 
+~
+Flags 2
+Door 1 0 0 19820 0 0
+~
+~
+Door 3 0 0 19724 0 0
+~
+~
+End
+
+#19820
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 0 0 0 19822 0 0
+~
+~
+Door 1 0 0 19821 0 0
+~
+~
+Door 3 0 0 19819 0 0
+~
+~
+End
+
+#19821
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Reset M 19994 1 100
+Door 1 0 0 19827 0 0
+~
+~
+Door 3 0 0 19820 0 0
+~
+~
+End
+
+#19822
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Door 0 0 0 19823 0 0
+~
+~
+Door 1 0 0 19834 0 0
+~
+~
+Door 2 0 0 19820 0 0
+~
+~
+End
+
+#19823
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Door 0 0 0 19824 0 0
+~
+~
+Door 2 0 0 19822 0 0
+~
+~
+End
+
+#19824
+Name Banks of the Arakis River~
+Descr
+The banks of the Arakis river flow freely through the great park. You
+can see some small animals playing on the banks with their parents keeping a
+close eye for the slightest sign of trouble. 
+~
+Reset M 19994 1 100
+Door 1 0 0 19826 0 0
+~
+~
+Door 2 0 0 19823 0 0
+~
+~
+Door 3 0 0 19825 0 0
+~
+~
+End
+
+#19825
+Name Banks of the Arakis River~
+Descr
+~
+Door 1 0 0 19824 0 0
+~
+~
+End
+
+#19826
+Name Banks of the Arakis River~
+Descr
+The banks of the Arakis river flow freely through the great park. You
+can see some small animals playing on the banks with their parents keeping a
+close eye for the slightest sign of trouble. 
+~
+Door 1 0 0 19830 0 0
+~
+~
+Door 2 0 0 19832 0 0
+~
+~
+Door 3 0 0 19824 0 0
+~
+~
+End
+
+#19827
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 0 0 0 19828 0 0
+~
+~
+Door 1 0 0 19829 0 0
+~
+~
+Door 3 0 0 19821 0 0
+~
+~
+End
+
+#19828
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 1 0 0 19835 0 0
+~
+~
+Door 2 0 0 19827 0 0
+~
+~
+End
+
+#19829
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Door 3 0 0 19827 0 0
+~
+~
+End
+
+#19830
+Name Banks of the Arakis River~
+Descr
+The banks of the Arakis river flow freely through the great park. You
+can see some small animals playing on the banks with their parents keeping a
+close eye for the slightest sign of trouble. 
+~
+Door 1 0 0 19839 0 0
+~
+~
+Door 2 0 0 19831 0 0
+~
+~
+Door 3 0 0 19826 0 0
+~
+~
+End
+
+#19831
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Door 0 0 0 19830 0 0
+~
+~
+Door 2 0 0 19840 0 0
+~
+~
+Door 3 0 0 19832 0 0
+~
+~
+End
+
+#19832
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Reset O 19968 -5 100
+Door 0 0 0 19826 0 0
+~
+~
+Door 1 0 0 19831 0 0
+~
+~
+End
+
+#19833
+Name ~
+Descr
+~
+End
+
+#19834
+Name Within the Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Door 3 0 0 19822 0 0
+~
+~
+End
+
+#19835
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 0 0 0 19836 0 0
+~
+~
+Door 3 0 0 19828 0 0
+~
+~
+End
+
+#19836
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 0 0 0 19837 0 0
+~
+~
+Door 1 0 0 19838 0 0
+~
+~
+Door 2 0 0 19835 0 0
+~
+~
+End
+
+#19837
+Name A Path Within the Park~
+Descr
+A well maintained path leads you around this great park. You can see
+people having picnics on the gentle slopes of the park. Birds can be heard
+singing while squirrels can be seen attempting to gather nuts for the
+winter. 
+~
+Door 0 0 0 19839 0 0
+~
+~
+Door 2 0 0 19836 0 0
+~
+~
+End
+
+#19838
+Name Opening in the Path~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Reset O 19967 -5 100
+Door 3 0 0 19836 0 0
+~
+~
+End
+
+#19839
+Name Banks of the Arakis River~
+Descr
+The banks of the Arakis river flow freely through the great park. You
+can see some small animals playing on the banks with their parents keeping a
+close eye for the slightest sign of trouble. 
+~
+Door 2 0 0 19837 0 0
+~
+~
+Door 3 0 0 19830 0 0
+~
+~
+End
+
+#19840
+Name Within The Park~
+Descr
+Within the park are grassy trails that lead you through the gentle
+surroundings. Perhaps you should find one of the park benches and rest for a
+spell. 
+~
+Flags 2
+Reset O 19968 -5 100
+Door 0 0 0 19831 0 0
+~
+~
+End
+
+#19841
+Name Inside a Tree~
+Descr
+It appears that someone carved out the inside of this old tree as a way
+perhaps hide from something or someone?  
+~
+Flags 4
+Sector 0
+Reset M 19958 1 100
+Door 4 0 0 19985 0 0
+~
+~
+Door 5 0 0 19842 0 0
+~
+~
+End
+
+#19842
+Name Inside a Tree~
+Descr
+It appears that someone carved out the inside of this old tree as a way
+perhaps hide from something or someone?  
+~
+Flags 4
+Sector 0
+Door 4 0 0 19841 0 0
+~
+~
+Door 5 0 0 19843 0 0
+~
+~
+End
+
+#19843
+Name An Earthen Tunnel~
+Descr
+Great!  You have just landed yourself in a rat infested tunnel. 
+~
+Flags 4
+Sector 0
+Reset M 19966 1 100
+Door 2 0 0 19845 0 0
+~
+~
+Door 4 0 0 19842 0 0
+~
+~
+Door 5 0 0 19844 0 0
+~
+~
+End
+
+#19844
+Name A Narrow Crawlspace~
+Descr
+Ouch!  How did you manage to squeeze yourself into this crawlspace! 
+Good luck in squeezing out. 
+~
+Flags 5
+Sector 0
+Reset M 19966 2 100
+Reset M 19966 2 100
+Door 3 0 0 19849 0 0
+~
+~
+Door 4 0 0 19843 0 0
+~
+~
+End
+
+#19845
+Name An Earthen Tunnel~
+Descr
+Dirt, bugs, rats, damp and darkwhat are you doing here anyway?
+~
+Flags 4
+Door 0 0 0 19843 0 0
+~
+~
+Door 2 0 0 19846 0 0
+~
+~
+End
+
+#19846
+Name An Earthen Tunnel~
+Descr
+Dirt, bugs, rats, damp and darkwhat are you doing here anyway?
+~
+Flags 4
+Reset M 19966 1 100
+Door 0 0 0 19845 0 0
+~
+~
+Door 2 0 0 19847 0 0
+~
+~
+End
+
+#19847
+Name An Earthen Tunnel~
+Descr
+Dirt, bugs, rats, damp and darkwhat are you doing here anyway?
+~
+Flags 4
+Door 0 0 0 19846 0 0
+~
+~
+Door 5 0 0 19848 0 0
+~
+~
+End
+
+#19848
+Name An Earthen Tunnel~
+Descr
+Dirt, bugs, rats, damp and darkwhat are you doing here anyway?
+~
+Flags 4
+Reset M 19966 1 100
+Door 4 0 0 19847 0 0
+~
+~
+End
+
+#19849
+Name A Narrow Crawlspace~
+Descr
+Ouch!  How did you manage to squeeze yourself into this crawlspace!  Good
+luck in squeezing out. 
+~
+Flags 5
+Door 1 0 0 19844 0 0
+~
+~
+Door 4 0 0 19840 0 0
+~
+~
+End
+
+#19850
+Name A Holy Tower~
+Descr
+The bells in this tower can be heard from miles around. The students are
+in charge of making sure they are rang to announce the call to worship. 
+~
+Flags 4
+Door 4 0 0 19852 0 0
+~
+~
+Door 5 0 0 19783 0 0
+~
+~
+End
+
+#19851
+Name Outside the Southern Gates of Arakis~
+Descr
+As you come closer to the city you begin to question your reason for
+coming. The huge stone walls are a reminder that law goes in this city and
+anyone who doesn't abide by the laws of the town will be dealt with
+severely. 
+~
+Door 0 0 0 19723 0 0
+~
+~
+Door 2 0 0 19905 0 0
+~
+~
+Door 3 0 0 19904 0 0
+~
+~
+End
+
+#19852
+Name A Holy Tower~
+Descr
+The bells in this tower can be heard from miles around. The students are
+in charge of making sure they are rang to announce the call to worship. 
+~
+Flags 4
+Door 4 0 0 19854 0 0
+~
+~
+Door 5 0 0 19850 0 0
+~
+~
+End
+
+#19853
+Name An Unholy Circle~
+Descr
+Many centuries ago, Einon was a powerful ruler. But he was evil and his
+people, aided by a powerful ancient sorcerer, banished Einon for eternity to
+a single room that he may never leave. Surrounded by magic, you are now
+within the unholy circle. 
+~
+Flags 4
+Reset M 19964 1 100
+Reset O 40453 1 1
+Reset O 19853 -5 100
+End
+
+#19854
+Name Atop the Holy Tower~
+Descr
+The bells in this tower can be heard from miles around. The students are
+in charge of making sure they are rang to announce the call to worship. 
+~
+Flags 4
+Reset O 19959 -5 100
+Door 5 0 0 19852 0 0
+~
+~
+End
+
+#19855
+Name Entrance to the School of Hope~
+Descr
+Some of the greatest saints have studied in these halls. Perhaps one of
+these students will be the next great saint of the times. 
+~
+Door 1 0 0 19783 0 0
+~
+~
+Door 2 3 0 19856 30 30
+~
+doors~
+End
+
+#19856
+Name A School of New Hope~
+Descr
+Some of the greatest saints have studied in these halls. Perhaps one of
+these students will be the next great saint of the times. 
+~
+Flags 4
+Door 0 3 0 19855 30 30
+~
+doors~
+Door 1 0 0 19858 0 0
+~
+~
+Door 2 0 0 19859 0 0
+~
+~
+Door 3 0 0 19857 0 0
+~
+~
+End
+
+#19857
+Name The School of Hope~
+Descr
+Some of the greatest saints have studied in these halls. Perhaps one of
+these students will be the next great saint of the times. 
+~
+Flags 4
+Reset M 19961 1 100
+Door 1 0 0 19856 0 0
+~
+~
+End
+
+#19858
+Name The School of Hope~
+Descr
+Some of the greatest saints have studied in these halls. Perhaps one of
+these students will be the next great saint of the times. 
+~
+Flags 4
+Reset M 19961 2 100
+Reset M 19961 2 100
+Door 3 0 0 19856 0 0
+~
+~
+End
+
+#19859
+Name The School of Hope~
+Descr
+Some of the greatest saints have studied in these halls. Perhaps one of
+these students will be the next great saint of the times. 
+~
+Flags 4
+Reset M 19961 2 100
+Reset M 19961 2 100
+Door 0 0 0 19856 0 0
+~
+~
+End
+
+#19860
+Name Guardians of Arakis~
+Descr
+The protectors of Arakis are prepared to give their lives to protect
+their city. Be warned that they do not take kindly to anyone who might
+attack one of Arakis' residents. 
+~
+Flags 4
+Reset M 19957 1 100
+Reset M 19960 1 100
+Door 2 0 0 19712 0 0
+~
+~
+End
+
+#19861
+Name Guardians of Arakis~
+Descr
+The protectors of Arakis are prepared to give their lives to protect
+their city. Be warned that they do not take kindly to anyone who might
+attack one of Arakis' residents. 
+~
+Flags 4
+Reset M 19957 1 100
+Reset M 19960 1 100
+Door 0 0 0 19702 0 0
+~
+~
+End
+
+#19862
+Name Guardians of Arakis~
+Descr
+The protectors of Arakis are prepared to give their lives to protect
+their city. Be warned that they do not take kindly to anyone who might
+attack one of Arakis' residents. 
+~
+Flags 4
+Reset M 19957 1 100
+Reset M 19960 1 100
+Door 3 0 0 19722 0 0
+~
+~
+End
+
+#19863
+Name Guardians of Arakis~
+Descr
+The protectors of Arakis are prepared to give their lives to protect
+their city. Be warned that they do not take kindly to anyone who might
+attack one of Arakis' residents. 
+~
+Flags 4
+Reset M 19957 1 100
+Reset M 19960 1 100
+Door 3 0 0 19730 0 0
+~
+~
+End
+
+#19864
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19865 0 0
+~
+~
+Door 2 0 0 19714 0 0
+~
+~
+End
+
+#19865
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19925 0 0
+~
+~
+Door 1 0 0 19866 0 0
+~
+~
+Door 2 0 0 19864 0 0
+~
+~
+End
+
+#19866
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19867 0 0
+~
+~
+Door 3 0 0 19865 0 0
+~
+~
+End
+
+#19867
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19868 0 0
+~
+~
+Door 2 0 0 19866 0 0
+~
+~
+End
+
+#19868
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19869 0 0
+~
+~
+Door 2 0 0 19867 0 0
+~
+~
+End
+
+#19869
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19868 0 0
+~
+~
+Door 3 0 0 19870 0 0
+~
+~
+End
+
+#19870
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19871 0 0
+~
+~
+Door 1 0 0 19869 0 0
+~
+~
+End
+
+#19871
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19870 0 0
+~
+~
+Door 3 0 0 19872 0 0
+~
+~
+End
+
+#19872
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19873 0 0
+~
+~
+Door 1 0 0 19871 0 0
+~
+~
+End
+
+#19873
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19872 0 0
+~
+~
+Door 3 0 0 19874 0 0
+~
+~
+End
+
+#19874
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19873 0 0
+~
+~
+Door 3 0 0 19875 0 0
+~
+~
+End
+
+#19875
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19874 0 0
+~
+~
+Door 3 0 0 19876 0 0
+~
+~
+End
+
+#19876
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19878 0 0
+~
+~
+Door 1 0 0 19875 0 0
+~
+~
+Door 3 0 0 19877 0 0
+~
+~
+End
+
+#19877
+Name A Forest of Trees~
+Descr
+A thin spot in the forest it appears that people used to camp here. You
+can hear the songs of familiar birds singing from the many trees that
+surround you. 
+~
+Door 1 0 0 19876 0 0
+~
+~
+End
+
+#19878
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19876 0 0
+~
+~
+Door 3 0 0 19879 0 0
+~
+~
+End
+
+#19879
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19878 0 0
+~
+~
+Door 3 0 0 19881 0 0
+~
+~
+End
+
+#19880
+Name ~
+Descr
+~
+Door 1 0 0 19879 0 0
+~
+~
+End
+
+#19881
+Name A Path Around Arakis~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19879 0 0
+~
+~
+Door 3 0 0 19803 0 0
+~
+~
+End
+
+#19882
+Name Into the Woods~
+Descr
+A small forest borders the town of Arakis. In some parts the forest is so
+thick that it becomes impassable. 
+~
+Door 0 0 0 19883 0 0
+~
+~
+Door 2 0 0 19700 0 0
+~
+~
+Door 3 0 0 19917 0 0
+~
+~
+End
+
+#19883
+Name An Opening in the Woods~
+Descr
+A thin spot in the forest it appears that people used to camp here. You
+can hear the songs of familiar birds singing from the many trees that
+surround you. 
+~
+Door 0 0 0 19884 0 0
+~
+~
+Door 2 0 0 19882 0 0
+~
+~
+Door 3 0 0 19886 0 0
+~
+~
+End
+
+#19884
+Name An Opening in the Woods~
+Descr
+A thin spot in the forest it appears that people used to camp here. You
+can hear the songs of familiar birds singing from the many trees that
+surround you. 
+~
+Door 2 0 0 19883 0 0
+~
+~
+Door 3 0 0 19885 0 0
+~
+~
+End
+
+#19885
+Name An Opening in the Woods~
+Descr
+A thin spot in the forest it appears that people used to camp here. You
+can hear the songs of familiar birds singing from the many trees that
+surround you. 
+~
+Door 1 0 0 19884 0 0
+~
+~
+Door 2 0 0 19886 0 0
+~
+~
+End
+
+#19886
+Name An Opening in the Woods~
+Descr
+A thin spot in the forest it appears that people used to camp here. You
+can hear the songs of familiar birds singing from the many trees that
+surround you. 
+~
+Door 0 0 0 19885 0 0
+~
+~
+Door 1 0 0 19883 0 0
+~
+~
+End
+
+#19887
+Name Into the Woods~
+Descr
+A small forest borders the town of Arakis. In some parts the forest is so
+thick that it becomes impassable. 
+~
+Door 0 0 0 19700 0 0
+~
+~
+End
+
+#19888
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 0 0 0 19917 0 0
+~
+~
+Door 1 0 0 19700 0 0
+~
+~
+Door 2 0 0 19889 0 0
+~
+~
+Door 5 0 0 70015 0 0
+~
+~
+End
+
+#19889
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19888 0 0
+~
+~
+Door 2 0 0 19890 0 0
+~
+~
+Door 3 0 0 19919 0 0
+~
+~
+End
+
+#19890
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19889 0 0
+~
+~
+Door 1 0 0 19891 0 0
+~
+~
+Door 3 0 0 19920 0 0
+~
+~
+End
+
+#19891
+Name Path Into the Woods~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19892 0 0
+~
+~
+Door 3 0 0 19890 0 0
+~
+~
+End
+
+#19892
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19891 0 0
+~
+~
+Door 2 0 0 19893 0 0
+~
+~
+End
+
+#19893
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19892 0 0
+~
+~
+Door 3 0 0 19894 0 0
+~
+~
+End
+
+#19894
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19893 0 0
+~
+~
+Door 2 0 0 19895 0 0
+~
+~
+End
+
+#19895
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19894 0 0
+~
+~
+Door 2 0 0 19896 0 0
+~
+~
+End
+
+#19896
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19895 0 0
+~
+~
+Door 1 0 0 19897 0 0
+~
+~
+End
+
+#19897
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19898 0 0
+~
+~
+Door 3 0 0 19896 0 0
+~
+~
+End
+
+#19898
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19899 0 0
+~
+~
+Door 3 0 0 19897 0 0
+~
+~
+End
+
+#19899
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19900 0 0
+~
+~
+Door 3 0 0 19898 0 0
+~
+~
+End
+
+#19900
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19901 0 0
+~
+~
+Door 3 0 0 19899 0 0
+~
+~
+End
+
+#19901
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 2 0 0 19902 0 0
+~
+~
+Door 3 0 0 19900 0 0
+~
+~
+End
+
+#19902
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 0 0 0 19901 0 0
+~
+~
+Door 1 0 0 19903 0 0
+~
+~
+End
+
+#19903
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19904 0 0
+~
+~
+Door 2 0 0 19910 0 0
+~
+~
+Door 3 0 0 19902 0 0
+~
+~
+End
+
+#19904
+Name Path Around the City~
+Descr
+A well carved path has been made in the lush forest and appears to lead
+around the city. Large evergreens and thorn bushes prevent you from straying
+off the path. 
+~
+Door 1 0 0 19851 0 0
+~
+~
+Door 3 0 0 19903 0 0
+~
+~
+End
+
+#19905
+Name An Old Stone Road~
+Descr
+This road appears as if it could go on forever. As you wander down the
+road you notice the forest get thinner the farther south you travel. 
+~
+Door 0 0 0 19851 0 0
+~
+~
+Door 1 0 0 19907 0 0
+~
+~
+Door 3 0 0 19906 0 0
+~
+~
+End
+
+#19906
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Sector 3
+Door 1 0 0 19905 0 0
+~
+~
+Door 2 0 0 19908 0 0
+~
+~
+Door 3 0 0 19911 0 0
+~
+~
+End
+
+#19907
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 0 0 0 19909 0 0
+~
+~
+Door 1 0 0 19913 0 0
+~
+~
+Door 3 0 0 19905 0 0
+~
+~
+End
+
+#19908
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Sector 3
+Door 0 0 0 19906 0 0
+~
+~
+End
+
+#19909
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 1 0 0 19915 0 0
+~
+~
+Door 2 0 0 19907 0 0
+~
+~
+End
+
+#19910
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 0 0 0 19903 0 0
+~
+~
+End
+
+#19911
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 0 0 0 19912 0 0
+~
+~
+Door 1 0 0 19906 0 0
+~
+~
+End
+
+#19912
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 2 0 0 19911 0 0
+~
+~
+End
+
+#19913
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 2 0 0 19914 0 0
+~
+~
+Door 3 0 0 19907 0 0
+~
+~
+End
+
+#19914
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 0 0 0 19913 0 0
+~
+~
+End
+
+#19915
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 1 0 0 19916 0 0
+~
+~
+Door 3 0 0 19909 0 0
+~
+~
+End
+
+#19916
+Name Enchanted Forest~
+Descr
+The enchanted forest is home to all creatures big and small. It is quite
+easy to get lost in the forest for it appears to have no ends. It is said
+that powerful creatures still lurk about this great wilderness. 
+~
+Door 3 0 0 19915 0 0
+~
+~
+End
+
+#19917
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Sector 3
+Door 1 0 0 19882 0 0
+~
+~
+Door 2 0 0 19888 0 0
+~
+~
+Door 3 0 0 19918 0 0
+~
+~
+End
+
+#19918
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 1 0 0 19917 0 0
+~
+~
+End
+
+#19919
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 1 0 0 19889 0 0
+~
+~
+Door 2 0 0 19920 0 0
+~
+~
+End
+
+#19920
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 0 0 0 19919 0 0
+~
+~
+Door 1 0 0 19890 0 0
+~
+~
+Door 3 0 0 19921 0 0
+~
+~
+End
+
+#19921
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 1 0 0 19920 0 0
+~
+~
+Door 2 0 0 19922 0 0
+~
+~
+End
+
+#19922
+Name Into the Woods~
+Descr
+You are on a small hill. A small forest borders the town of Arakis. In
+some parts the forest is so thick that it becomes impassable. 
+~
+Door 0 0 0 19921 0 0
+~
+~
+End
+
+#19923
+Name Outside the Eastern Wall of Arakis~
+Descr
+Huge stone walls surround the mighty city protecting its inhabitants from
+all those who may wish to harm them. 
+~
+Door 0 0 0 19714 0 0
+~
+~
+Door 2 0 0 19924 0 0
+~
+~
+End
+
+#19924
+Name Outside the Eastern Wall of Arakis~
+Descr
+Huge stone walls surround the mighty city protecting its inhabitants from
+all those who may wish to harm them. 
+~
+Door 0 0 0 19923 0 0
+~
+~
+End
+
+#19925
+Name Some Lush Forest~
+Descr
+You have found your way into some overly bushy trees that appear to be
+the home of some noisy animals. Perhaps you should find your way back to the
+path. 
+~
+Door 2 0 0 19865 0 0
+~
+~
+End
+
+#19926
+Name Traz's Bank~
+Descr
+A powerful looking banker is here to protect your life savings. His two
+bodyguards give you a great sense of assurance that your money will be well
+protected. 
+~
+Flags 6
+Sector 0
+Reset M 19926 1 100
+Reset M 19925 1 100
+Reset M 19925 1 100
+Door 2 0 0 19759 0 0
+~
+~
+End
+
+#19927
+Name Temple Of Destiny~
+Descr
+You have entered a large gallery showing the many people who have
+successfully passed on knowledge to those of lesser experience. There is a
+very unusual person sitting in a chair which has a very uncomfortable
+presence to him. You get the feeling he knows a lot about everything, and
+you are suddenly humbled in his presence. You know that this person (Is it a
+person?)  Is beyond your ability to fully understand. 
+~
+Reset M 19927 1 100
+Door 0 3 0 19708 30 30
+~
+door~
+End
+
+#19970
+Name A Small Cubical~
+Descr
+Oh this sucks...you must have really fucked up to be in here. 
+~
+Flags 3146884
+Sector 0
+End
+
+#19985
+Name Inside a Tree~
+Descr
+It appears that someone carved out the inside of this old tree as a way
+perhaps hide from something or someone?  
+~
+Flags 4
+Reset O 19963 -5 100
+Door 5 0 0 19841 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

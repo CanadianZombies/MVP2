@@ -1,0 +1,3460 @@
+#AREADATA 
+Name Argorn Lake Region~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mYou hear the sounds of waves crashing onto the shore.
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Impact Fedaykin~
+VNUMs 6100 6400
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#6265
+Name princess mary ann~
+Short princess Mary Ann~
+Long 
+The princess Mary Ann has made her home in this tree.
+~
+Descr
+~
+AMax 1
+NHeight 63
+ActBits 2
+Affect_By 648
+Money 300
+Level 300
+Sex 2
+MobType 0
+Guard 0
+End
+
+#6236
+Name evil golem~
+Short an evil golem~
+Long 
+An evil golem looks for something to kill.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 33554434
+ActBits3 65536
+Affect_By 642
+Alignment -1000
+Money 525
+Level 100
+MobType 10
+Guard 0
+GHitR 244
+GDamR 100
+Spec spec_warrior
+End
+
+#6239
+Name rat~
+Short tunnel rat~
+Long 
+A tunnel rat is here searching for some food.
+~
+Descr
+~
+AMax 4
+NHeight 5
+ActBits 24
+Affect_By 512
+Money 15
+Level 15
+Guard 0
+End
+
+#6242
+Name large zombie~
+Short a Large Zombie~
+Long 
+A large zombie rummages around the room.
+~
+Descr
+~
+AMax 4
+NHeight 0
+ActBits 2
+ActBits3 4194304
+Affect_By 552
+Money 101
+Level 101
+MobType 9
+Guard 0
+Spec spec_poison
+End
+
+#0
+
+
+
+#OBJDATA
+#6265
+Name crown golden HEALBONUS head~
+Short a [1m[33mgolden [0m[1mcrown~
+Descr
+A golden crown has been discarded here.
+[0;36m~
+Type 9
+Extra 536870914
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 15 10 0 0 15 10
+Weight 3
+Cost 0
+Affect 13 15 1 0 0
+Affect 27 4 1 0 0
+End
+
+#6236
+Name dagger golem enchanted~
+Short an [0m[31mEn[1m[31mc[37mhan[31mt[0m[31med [32mD[1m[32ma[37mgg[32me[0m[32mr [0m[37mof the [0m[34mG[1m[34mo[37mL[34me[0m[34mM[0m~
+Descr
+An enchanted dagger is thrust into the ground here.
+[0;36m~
+Type 5
+Extra 537002050
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 11 0 0 0 7 7 0
+Weight 1
+Cost 5000
+Affect 18 2 1 0 0
+Affect 19 2 1 0 0
+Affect 4 -1 1 0 0
+Affect 3 -2 1 0 0
+Affect 25 5 1 0 0
+End
+
+#6240
+Name crack~
+Short a crack~
+Descr
+A small crack is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 6242 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#6242
+Name crack~
+Short a crack~
+Descr
+A small crack is here.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 6240 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#6256
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6255 0 0
+~
+~
+Door 3 0 0 6257 0 0
+~
+~
+End
+
+#6257
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 1 0 0 6256 0 0
+~
+~
+Door 2 0 0 6258 0 0
+~
+~
+End
+
+#6258
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6257 0 0
+~
+~
+Door 2 0 0 6259 0 0
+~
+~
+End
+
+#6259
+Name A Dead End~
+Descr
+You are at a dead end.  Better turn around and go back where you came from.
+~
+Flags 4
+Reset M 6239 1 100
+Door 0 0 0 6258 0 0
+~
+~
+End
+
+#6261
+Name Inside the Tree~
+Descr
+Carved out of the biggest tree you've ever seen, this is a very nice tree
+house. I wonder who calls this place home?  
+~
+Flags 4
+Sector 0
+Reset O 4007 -5 100
+Reset O 4009 -5 100
+End
+
+#6262
+Name Inside the Treehouse~
+Descr
+Carved out of the biggest tree you've ever seen, this is a very nice tree
+house. I wonder who calls this place home?  
+~
+Flags 4
+Sector 0
+Reset O 4007 -5 100
+Door 0 0 0 6264 0 0
+~
+~
+Door 4 0 0 6263 0 0
+~
+~
+End
+
+#6263
+Name Inside the Treehouse~
+Descr
+Carved out of the biggest tree you've ever seen, this is a very nice tree
+house. I wonder who calls this place home?  
+~
+Flags 4
+Door 4 0 0 6265 0 0
+~
+~
+Door 5 0 0 6262 0 0
+~
+~
+End
+
+#6264
+Name Inside The Treehouse~
+Descr
+Carved out of the biggest tree you've ever seen, this is a very nice tree
+house. I wonder who calls this place home?  
+~
+Flags 4
+Door 2 0 0 6262 0 0
+~
+~
+End
+
+#6265
+Name Atop the Treehouse~
+Descr
+With raw beauty unseen by most mortals, Mary Ann stands before you. The
+princess has fled her kingdom to where she hopes no one will find her. Deep
+within the Argorn lake she has made her home within this tree. 
+~
+Flags 4
+Sector 0
+Reset M 6265 1 100
+Reset O 6265 -1 5
+Door 5 0 0 6263 0 0
+~
+~
+End
+
+#6100
+Name On the Shoreline of an Eerie Island~
+Descr
+You are strolling along on the sandy shoreline of this eerie island that
+sits somewhere near the middle of Argorn Lake. You wonder if this island
+could be inhabited by any animals. Maybe you should go take a stroll around
+the island and find out. There may even be some hidden secrets to this
+island that you've found. 
+~
+Sector 10
+Door 0 0 0 4284 0 0
+~
+~
+Door 1 0 0 6101 0 0
+~
+~
+Door 2 0 0 6117 0 0
+~
+~
+Door 3 0 0 4299 0 0
+~
+~
+End
+
+#6101
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4285 0 0
+~
+~
+Door 1 0 0 6102 0 0
+~
+~
+Door 2 0 0 6118 0 0
+~
+~
+Door 3 0 0 6100 0 0
+~
+~
+End
+
+#6102
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4286 0 0
+~
+~
+Door 1 0 0 6103 0 0
+~
+~
+Door 2 0 0 6119 0 0
+~
+~
+Door 3 0 0 6101 0 0
+~
+~
+End
+
+#6103
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4287 0 0
+~
+~
+Door 1 0 0 6104 0 0
+~
+~
+Door 2 0 0 6120 0 0
+~
+~
+Door 3 0 0 6102 0 0
+~
+~
+End
+
+#6104
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4288 0 0
+~
+~
+Door 1 0 0 6105 0 0
+~
+~
+Door 2 0 0 6121 0 0
+~
+~
+Door 3 0 0 6103 0 0
+~
+~
+End
+
+#6105
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4289 0 0
+~
+~
+Door 1 0 0 6106 0 0
+~
+~
+Door 2 0 0 6122 0 0
+~
+~
+Door 3 0 0 6104 0 0
+~
+~
+End
+
+#6106
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4290 0 0
+~
+~
+Door 1 0 0 4079 0 0
+~
+~
+Door 2 0 0 4077 0 0
+~
+~
+Door 3 0 0 6105 0 0
+~
+~
+End
+
+#6107
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4020 0 0
+~
+~
+Door 1 0 0 6108 0 0
+~
+~
+Door 2 0 0 6123 0 0
+~
+~
+Door 3 0 0 4019 0 0
+~
+~
+End
+
+#6108
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4291 0 0
+~
+~
+Door 1 0 0 6109 0 0
+~
+~
+Door 2 0 0 6124 0 0
+~
+~
+Door 3 0 0 6107 0 0
+~
+~
+End
+
+#6109
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Reset M 4007 1 100
+Door 0 0 0 4292 0 0
+~
+~
+Door 1 0 0 6110 0 0
+~
+~
+Door 2 0 0 6125 0 0
+~
+~
+Door 3 0 0 6108 0 0
+~
+~
+End
+
+#6110
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4293 0 0
+~
+~
+Door 1 0 0 6111 0 0
+~
+~
+Door 2 0 0 6126 0 0
+~
+~
+Door 3 0 0 6109 0 0
+~
+~
+End
+
+#6111
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Reset M 4227 1 100
+Door 0 0 0 4294 0 0
+~
+~
+Door 1 0 0 6112 0 0
+~
+~
+Door 2 0 0 6127 0 0
+~
+~
+Door 3 0 0 6110 0 0
+~
+~
+End
+
+#6112
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4295 0 0
+~
+~
+Door 1 0 0 6113 0 0
+~
+~
+Door 2 0 0 6128 0 0
+~
+~
+Door 3 0 0 6111 0 0
+~
+~
+End
+
+#6113
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Reset M 4227 1 100
+Door 0 0 0 4296 0 0
+~
+~
+Door 1 0 0 6114 0 0
+~
+~
+Door 2 0 0 6129 0 0
+~
+~
+Door 3 0 0 6112 0 0
+~
+~
+End
+
+#6114
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Reset M 4227 1 100
+Door 0 0 0 4297 0 0
+~
+~
+Door 1 0 0 6115 0 0
+~
+~
+Door 2 0 0 6130 0 0
+~
+~
+Door 3 0 0 6113 0 0
+~
+~
+End
+
+#6115
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4298 0 0
+~
+~
+Door 1 0 0 6116 0 0
+~
+~
+Door 2 0 0 6131 0 0
+~
+~
+Door 3 0 0 6114 0 0
+~
+~
+End
+
+#6116
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 4299 0 0
+~
+~
+Door 1 0 0 6117 0 0
+~
+~
+Door 2 0 0 6132 0 0
+~
+~
+Door 3 0 0 6115 0 0
+~
+~
+End
+
+#6117
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6100 0 0
+~
+~
+Door 1 0 0 6118 0 0
+~
+~
+Door 2 0 0 6133 0 0
+~
+~
+Door 3 0 0 6116 0 0
+~
+~
+End
+
+#6118
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6101 0 0
+~
+~
+Door 1 0 0 6119 0 0
+~
+~
+Door 2 0 0 6134 0 0
+~
+~
+Door 3 0 0 6117 0 0
+~
+~
+End
+
+#6119
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6102 0 0
+~
+~
+Door 1 0 0 6120 0 0
+~
+~
+Door 2 0 0 6135 0 0
+~
+~
+Door 3 0 0 6118 0 0
+~
+~
+End
+
+#6120
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6103 0 0
+~
+~
+Door 1 0 0 6121 0 0
+~
+~
+Door 2 0 0 6136 0 0
+~
+~
+Door 3 0 0 6119 0 0
+~
+~
+End
+
+#6121
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6104 0 0
+~
+~
+Door 1 0 0 6122 0 0
+~
+~
+Door 2 0 0 6137 0 0
+~
+~
+Door 3 0 0 6120 0 0
+~
+~
+End
+
+#6122
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6105 0 0
+~
+~
+Door 1 0 0 4077 0 0
+~
+~
+Door 2 0 0 6138 0 0
+~
+~
+Door 3 0 0 6121 0 0
+~
+~
+End
+
+#6123
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6107 0 0
+~
+~
+Door 1 0 0 6124 0 0
+~
+~
+Door 2 0 0 4050 0 0
+~
+~
+Door 3 0 0 4048 0 0
+~
+~
+End
+
+#6124
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6108 0 0
+~
+~
+Door 1 0 0 6125 0 0
+~
+~
+Door 2 0 0 6139 0 0
+~
+~
+Door 3 0 0 6123 0 0
+~
+~
+End
+
+#6125
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6109 0 0
+~
+~
+Door 1 0 0 6126 0 0
+~
+~
+Door 2 0 0 6140 0 0
+~
+~
+Door 3 0 0 6124 0 0
+~
+~
+End
+
+#6126
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6110 0 0
+~
+~
+Door 1 0 0 6127 0 0
+~
+~
+Door 2 0 0 6141 0 0
+~
+~
+Door 3 0 0 6125 0 0
+~
+~
+End
+
+#6127
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6111 0 0
+~
+~
+Door 1 0 0 6128 0 0
+~
+~
+Door 2 0 0 6142 0 0
+~
+~
+Door 3 0 0 6126 0 0
+~
+~
+End
+
+#6128
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6112 0 0
+~
+~
+Door 1 0 0 6129 0 0
+~
+~
+Door 2 0 0 6143 0 0
+~
+~
+Door 3 0 0 6127 0 0
+~
+~
+End
+
+#6129
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6113 0 0
+~
+~
+Door 1 0 0 6130 0 0
+~
+~
+Door 2 0 0 6144 0 0
+~
+~
+Door 3 0 0 6128 0 0
+~
+~
+End
+
+#6130
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6114 0 0
+~
+~
+Door 1 0 0 6131 0 0
+~
+~
+Door 2 0 0 6145 0 0
+~
+~
+Door 3 0 0 6129 0 0
+~
+~
+End
+
+#6131
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6115 0 0
+~
+~
+Door 1 0 0 6132 0 0
+~
+~
+Door 2 0 0 6146 0 0
+~
+~
+Door 3 0 0 6130 0 0
+~
+~
+End
+
+#6132
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6116 0 0
+~
+~
+Door 1 0 0 6133 0 0
+~
+~
+Door 2 0 0 6147 0 0
+~
+~
+Door 3 0 0 6131 0 0
+~
+~
+End
+
+#6133
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6117 0 0
+~
+~
+Door 1 0 0 6134 0 0
+~
+~
+Door 2 0 0 6148 0 0
+~
+~
+Door 3 0 0 6132 0 0
+~
+~
+End
+
+#6134
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6118 0 0
+~
+~
+Door 1 0 0 6135 0 0
+~
+~
+Door 2 0 0 6149 0 0
+~
+~
+Door 3 0 0 6133 0 0
+~
+~
+End
+
+#6135
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6119 0 0
+~
+~
+Door 1 0 0 6136 0 0
+~
+~
+Door 2 0 0 4071 0 0
+~
+~
+Door 3 0 0 6134 0 0
+~
+~
+End
+
+#6136
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6120 0 0
+~
+~
+Door 1 0 0 6137 0 0
+~
+~
+Door 2 0 0 4072 0 0
+~
+~
+Door 3 0 0 6135 0 0
+~
+~
+End
+
+#6137
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6121 0 0
+~
+~
+Door 1 0 0 6138 0 0
+~
+~
+Door 2 0 0 4073 0 0
+~
+~
+Door 3 0 0 6136 0 0
+~
+~
+End
+
+#6138
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6122 0 0
+~
+~
+Door 1 0 0 4076 0 0
+~
+~
+Door 2 0 0 4074 0 0
+~
+~
+Door 3 0 0 6137 0 0
+~
+~
+End
+
+#6139
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6124 0 0
+~
+~
+Door 1 0 0 6140 0 0
+~
+~
+Door 2 0 0 6150 0 0
+~
+~
+Door 3 0 0 4050 0 0
+~
+~
+End
+
+#6140
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6125 0 0
+~
+~
+Door 1 0 0 6141 0 0
+~
+~
+Door 2 0 0 6151 0 0
+~
+~
+Door 3 0 0 6139 0 0
+~
+~
+End
+
+#6141
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, water surrounds you in almost all
+directions. To the north there is a large lake, even farther north is a
+forested island. 
+~
+Sector 3
+Door 0 0 0 6126 0 0
+~
+~
+Door 1 0 0 6142 0 0
+~
+~
+Door 2 0 0 6152 0 0
+~
+~
+Door 3 0 0 6140 0 0
+~
+~
+End
+
+#6142
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6127 0 0
+~
+~
+Door 1 0 0 6143 0 0
+~
+~
+Door 2 0 0 6153 0 0
+~
+~
+Door 3 0 0 6141 0 0
+~
+~
+End
+
+#6143
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6128 0 0
+~
+~
+Door 1 0 0 6144 0 0
+~
+~
+Door 2 0 0 6154 0 0
+~
+~
+Door 3 0 0 6142 0 0
+~
+~
+End
+
+#6144
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6129 0 0
+~
+~
+Door 1 0 0 6145 0 0
+~
+~
+Door 2 0 0 6155 0 0
+~
+~
+Door 3 0 0 6143 0 0
+~
+~
+End
+
+#6145
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6130 0 0
+~
+~
+Door 1 0 0 6146 0 0
+~
+~
+Door 2 0 0 6156 0 0
+~
+~
+Door 3 0 0 6144 0 0
+~
+~
+End
+
+#6146
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6131 0 0
+~
+~
+Door 1 0 0 6147 0 0
+~
+~
+Door 2 0 0 4066 0 0
+~
+~
+Door 3 0 0 6145 0 0
+~
+~
+End
+
+#6147
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6132 0 0
+~
+~
+Door 1 0 0 6148 0 0
+~
+~
+Door 2 0 0 4067 0 0
+~
+~
+Door 3 0 0 6146 0 0
+~
+~
+End
+
+#6148
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6133 0 0
+~
+~
+Door 1 0 0 6149 0 0
+~
+~
+Door 2 0 0 4068 0 0
+~
+~
+Door 3 0 0 6147 0 0
+~
+~
+End
+
+#6149
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6134 0 0
+~
+~
+Door 1 0 0 4071 0 0
+~
+~
+Door 2 0 0 4069 0 0
+~
+~
+Door 3 0 0 6148 0 0
+~
+~
+End
+
+#6150
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6139 0 0
+~
+~
+Door 1 0 0 6151 0 0
+~
+~
+Door 2 0 0 4053 0 0
+~
+~
+Door 3 0 0 4051 0 0
+~
+~
+End
+
+#6151
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, water surrounds you in almost all
+directions. To the north there is a large lake, even farther north is a
+forested island. 
+~
+Sector 3
+Door 0 0 0 6140 0 0
+~
+~
+Door 1 0 0 6152 0 0
+~
+~
+Door 2 0 0 4054 0 0
+~
+~
+Door 3 0 0 6150 0 0
+~
+~
+End
+
+#6152
+Name Within Kezan Forest~
+Descr
+You are in the middle of a medium-sized forested island. The only thing
+you can see as you glance around are trees. Every now and then you hear the
+rustling of leaves. You feel as if you aren't alone. 
+~
+Sector 3
+Door 0 0 0 6141 0 0
+~
+~
+Door 1 0 0 6153 0 0
+~
+~
+Door 2 0 0 4055 0 0
+~
+~
+Door 3 0 0 6151 0 0
+~
+~
+End
+
+#6153
+Name A Tree-Lined Shore~
+Descr
+As you take a glance around, water surrounds you in almost all
+directions. To the north there is a large lake, even farther north is a
+forested island. 
+~
+Sector 3
+Door 0 0 0 6142 0 0
+~
+~
+Door 1 0 0 6154 0 0
+~
+~
+Door 2 0 0 4056 0 0
+~
+~
+Door 3 0 0 6152 0 0
+~
+~
+End
+
+#6154
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6143 0 0
+~
+~
+Door 1 0 0 6155 0 0
+~
+~
+Door 2 0 0 4057 0 0
+~
+~
+Door 3 0 0 6153 0 0
+~
+~
+End
+
+#6155
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6144 0 0
+~
+~
+Door 1 0 0 6156 0 0
+~
+~
+Door 2 0 0 6157 0 0
+~
+~
+Door 3 0 0 6154 0 0
+~
+~
+End
+
+#6156
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6145 0 0
+~
+~
+Door 1 0 0 4066 0 0
+~
+~
+Door 2 0 0 6158 0 0
+~
+~
+Door 3 0 0 6155 0 0
+~
+~
+End
+
+#6157
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6155 0 0
+~
+~
+Door 1 0 0 6158 0 0
+~
+~
+Door 2 0 0 6159 0 0
+~
+~
+Door 3 0 0 4057 0 0
+~
+~
+End
+
+#6158
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6156 0 0
+~
+~
+Door 1 0 0 4064 0 0
+~
+~
+Door 2 0 0 4062 0 0
+~
+~
+Door 3 0 0 6157 0 0
+~
+~
+End
+
+#6159
+Name The Argorn Lake~
+Descr
+You are floating peacefully across Argorn Lake. You wonder if the trees
+which you saw earlier could possibly be an island in the middle of this vast
+lake. Nahhhhh!  It couldn't be!  Or could it?  
+~
+Sector 6
+Door 0 0 0 6157 0 0
+~
+~
+Door 1 0 0 4062 0 0
+~
+~
+Door 2 0 0 4060 0 0
+~
+~
+Door 3 0 0 4058 0 0
+~
+~
+End
+
+#6160
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4016 0 0
+~
+~
+Door 1 0 0 4019 0 0
+~
+~
+Door 3 0 0 6161 0 0
+~
+~
+End
+
+#6161
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4015 0 0
+~
+~
+Door 1 0 0 6160 0 0
+~
+~
+Door 3 0 0 6162 0 0
+~
+~
+End
+
+#6162
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6163 0 0
+~
+~
+Door 1 0 0 6161 0 0
+~
+~
+End
+
+#6163
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4013 0 0
+~
+~
+Door 1 0 0 4015 0 0
+~
+~
+Door 2 0 0 6162 0 0
+~
+~
+Door 3 0 0 6164 0 0
+~
+~
+End
+
+#6164
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4012 0 0
+~
+~
+Door 1 0 0 6163 0 0
+~
+~
+Door 3 0 0 6165 0 0
+~
+~
+End
+
+#6165
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6206 0 0
+~
+~
+Door 1 0 0 6164 0 0
+~
+~
+End
+
+#6166
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 4049 0 0
+~
+~
+Door 2 0 0 6167 0 0
+~
+~
+End
+
+#6167
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6166 0 0
+~
+~
+Door 1 0 0 8969 0 0
+~
+~
+Door 2 0 0 8967 0 0
+~
+~
+Door 3 0 0 6168 0 0
+~
+~
+End
+
+#6168
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6167 0 0
+~
+~
+Door 2 0 0 6169 0 0
+~
+~
+End
+
+#6169
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6168 0 0
+~
+~
+Door 1 0 0 8967 0 0
+~
+~
+Door 2 0 0 8970 0 0
+~
+~
+End
+
+#6170
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6171 0 0
+~
+~
+Door 1 0 0 4018 0 0
+~
+~
+Door 2 0 0 4016 0 0
+~
+~
+Door 3 0 0 4014 0 0
+~
+~
+End
+
+#6171
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Reset M 4006 1 100
+Door 0 0 0 6172 0 0
+~
+~
+Door 1 0 0 4021 0 0
+~
+~
+Door 2 0 0 6170 0 0
+~
+~
+Door 3 0 0 6183 0 0
+~
+~
+End
+
+#6172
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Reset M 9 1 100
+Door 0 0 0 6173 0 0
+~
+~
+Door 1 0 0 4022 0 0
+~
+~
+Door 2 0 0 6171 0 0
+~
+~
+Door 3 0 0 6182 0 0
+~
+~
+End
+
+#6173
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6174 0 0
+~
+~
+Door 1 0 0 4023 0 0
+~
+~
+Door 2 0 0 6172 0 0
+~
+~
+Door 3 0 0 6181 0 0
+~
+~
+End
+
+#6174
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6175 0 0
+~
+~
+Door 1 0 0 4024 0 0
+~
+~
+Door 2 0 0 6173 0 0
+~
+~
+Door 3 0 0 6180 0 0
+~
+~
+End
+
+#6175
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6176 0 0
+~
+~
+Door 1 0 0 4034 0 0
+~
+~
+Door 2 0 0 6174 0 0
+~
+~
+Door 3 0 0 6179 0 0
+~
+~
+End
+
+#6176
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6177 0 0
+~
+~
+Door 1 0 0 4035 0 0
+~
+~
+Door 2 0 0 6175 0 0
+~
+~
+Door 3 0 0 4028 0 0
+~
+~
+End
+
+#6177
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6178 0 0
+~
+~
+Door 1 0 0 4036 0 0
+~
+~
+Door 2 0 0 6176 0 0
+~
+~
+Door 3 0 0 4029 0 0
+~
+~
+End
+
+#6178
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 4032 0 0
+~
+~
+Door 1 0 0 4037 0 0
+~
+~
+Door 2 0 0 6177 0 0
+~
+~
+Door 3 0 0 4030 0 0
+~
+~
+End
+
+#6179
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 4028 0 0
+~
+~
+Door 1 0 0 6175 0 0
+~
+~
+Door 2 0 0 6180 0 0
+~
+~
+Door 3 0 0 4026 0 0
+~
+~
+End
+
+#6180
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6179 0 0
+~
+~
+Door 1 0 0 6174 0 0
+~
+~
+Door 2 0 0 6181 0 0
+~
+~
+Door 3 0 0 4025 0 0
+~
+~
+End
+
+#6181
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6180 0 0
+~
+~
+Door 1 0 0 6173 0 0
+~
+~
+Door 2 0 0 6182 0 0
+~
+~
+Door 3 0 0 4011 0 0
+~
+~
+End
+
+#6182
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6181 0 0
+~
+~
+Door 1 0 0 6172 0 0
+~
+~
+Door 2 0 0 6183 0 0
+~
+~
+Door 3 0 0 6185 0 0
+~
+~
+End
+
+#6183
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6182 0 0
+~
+~
+Door 1 0 0 6171 0 0
+~
+~
+Door 2 0 0 4014 0 0
+~
+~
+Door 3 0 0 6184 0 0
+~
+~
+End
+
+#6184
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 6185 0 0
+~
+~
+Door 1 0 0 6183 0 0
+~
+~
+Door 2 0 0 4013 0 0
+~
+~
+Door 3 0 0 4010 0 0
+~
+~
+End
+
+#6185
+Name A Sandy Beach Between the River and Argorn Lake~
+Descr
+You are standing on a black sandy beach between the river to the west and
+Argorn Lake to the east. As you walk through the sand thoughts of pleasure
+slip into your mind and you think of all the good times you have had on
+beaches. You suddenly wish that you could replay those joyous times in your
+life. 
+~
+Sector 10
+Door 0 0 0 4011 0 0
+~
+~
+Door 1 0 0 6182 0 0
+~
+~
+Door 2 0 0 6184 0 0
+~
+~
+Door 3 0 0 4006 0 0
+~
+~
+End
+
+#6186
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 4038 0 0
+~
+~
+Door 2 0 0 4032 0 0
+~
+~
+Door 3 0 0 6187 0 0
+~
+~
+End
+
+#6187
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6186 0 0
+~
+~
+Door 2 0 0 4031 0 0
+~
+~
+Door 3 0 0 6188 0 0
+~
+~
+End
+
+#6188
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6187 0 0
+~
+~
+Door 2 0 0 6189 0 0
+~
+~
+End
+
+#6189
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6188 0 0
+~
+~
+Door 1 0 0 4031 0 0
+~
+~
+Door 2 0 0 6190 0 0
+~
+~
+End
+
+#6190
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6189 0 0
+~
+~
+Door 1 0 0 4030 0 0
+~
+~
+Door 2 0 0 6191 0 0
+~
+~
+End
+
+#6191
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6190 0 0
+~
+~
+Door 1 0 0 4029 0 0
+~
+~
+Door 2 0 0 4027 0 0
+~
+~
+Door 3 0 0 6192 0 0
+~
+~
+End
+
+#6192
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6191 0 0
+~
+~
+Door 2 0 0 6193 0 0
+~
+~
+End
+
+#6193
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6192 0 0
+~
+~
+Door 1 0 0 4027 0 0
+~
+~
+Door 2 0 0 6194 0 0
+~
+~
+End
+
+#6194
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6193 0 0
+~
+~
+Door 1 0 0 4026 0 0
+~
+~
+Door 2 0 0 6195 0 0
+~
+~
+End
+
+#6195
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6194 0 0
+~
+~
+Door 1 0 0 4025 0 0
+~
+~
+Door 2 0 0 4009 0 0
+~
+~
+Door 3 0 0 6196 0 0
+~
+~
+End
+
+#6196
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6195 0 0
+~
+~
+Door 2 0 0 4007 0 0
+~
+~
+Door 3 0 0 6197 0 0
+~
+~
+End
+
+#6197
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6196 0 0
+~
+~
+Door 2 0 0 6198 0 0
+~
+~
+End
+
+#6198
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6197 0 0
+~
+~
+Door 1 0 0 4007 0 0
+~
+~
+Door 2 0 0 4004 0 0
+~
+~
+Door 3 0 0 6199 0 0
+~
+~
+End
+
+#6199
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6198 0 0
+~
+~
+Door 2 0 0 4003 0 0
+~
+~
+Door 3 0 0 6200 0 0
+~
+~
+End
+
+#6200
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 1 0 0 6199 0 0
+~
+~
+Door 2 0 0 4002 0 0
+~
+~
+End
+
+#6201
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 3 0 0 70119 0 0
+~
+~
+End
+
+#6202
+Name A Cliff Near a Large Waterfall~
+Descr
+You are in the air above a large waterfall. You better hope you can fly
+or else this fall may hurt!  
+~
+Flags 139264
+Sector 9
+Move_dir 5
+Door 2 0 0 4040 0 0
+~
+~
+Door 3 0 0 6203 0 0
+~
+~
+End
+
+#6203
+Name A Rocky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 1 0 0 6202 0 0
+~
+~
+Door 2 0 0 4041 0 0
+~
+~
+Door 3 0 0 6204 0 0
+~
+~
+End
+
+#6204
+Name A Rocky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 1 0 0 6203 0 0
+~
+~
+Door 2 0 0 4042 0 0
+~
+~
+Door 3 0 0 6205 0 0
+~
+~
+End
+
+#6205
+Name A Ricky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 1 0 0 6204 0 0
+~
+~
+Door 2 0 0 4043 0 0
+~
+~
+End
+
+#6206
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4008 0 0
+~
+~
+Door 1 0 0 4012 0 0
+~
+~
+Door 2 0 0 6165 0 0
+~
+~
+Door 3 0 0 6207 0 0
+~
+~
+End
+
+#6207
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 6208 0 0
+~
+~
+Door 1 0 0 6206 0 0
+~
+~
+End
+
+#6208
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4004 0 0
+~
+~
+Door 1 0 0 4008 0 0
+~
+~
+Door 2 0 0 6207 0 0
+~
+~
+Door 3 0 0 6209 0 0
+~
+~
+End
+
+#6209
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4003 0 0
+~
+~
+Door 1 0 0 6208 0 0
+~
+~
+Door 3 0 0 6210 0 0
+~
+~
+End
+
+#6210
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4002 0 0
+~
+~
+Door 1 0 0 6209 0 0
+~
+~
+Door 3 0 0 6211 0 0
+~
+~
+End
+
+#6211
+Name A Rocky Shoreline~
+Descr
+You are on a rocky shoreline near a river nearing Argorn Lake. Travel
+over this rocky shoreline is tough, but you will eventually make it to the
+lake if you really want to go there. But that leads to the real question, do
+you REALLY want to go to Argorn Lake?  
+~
+Sector 5
+Door 0 0 0 4039 0 0
+~
+~
+Door 1 0 0 6210 0 0
+~
+~
+End
+
+#6212
+Name A Cliff Near a Large Waterfall~
+Descr
+You are in the air above a large waterfall. You better hope you can fly
+or else this fall may hurt!  
+~
+Flags 139264
+Sector 9
+Move_dir 5
+Door 0 0 0 4040 0 0
+~
+~
+Door 3 0 0 6213 0 0
+~
+~
+End
+
+#6213
+Name A Rocky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 0 0 0 4041 0 0
+~
+~
+Door 1 0 0 6212 0 0
+~
+~
+Door 3 0 0 6214 0 0
+~
+~
+End
+
+#6214
+Name A Rocky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 0 0 0 4042 0 0
+~
+~
+Door 1 0 0 6213 0 0
+~
+~
+Door 3 0 0 6215 0 0
+~
+~
+End
+
+#6215
+Name A Rocky River Bank~
+Descr
+You are on a rocky river bank before a large waterfall. You better not
+fall in or you may not live through the fall over the waterfall because the
+current is pretty strong. 
+~
+Door 0 0 0 4043 0 0
+~
+~
+Door 1 0 0 6214 0 0
+~
+~
+End
+
+#6216
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 0 0 0 6217 0 0
+~
+~
+Door 4 0 0 4231 0 0
+~
+~
+End
+
+#6217
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 1 0 0 6218 0 0
+~
+~
+Door 2 0 0 6216 0 0
+~
+~
+End
+
+#6218
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 3 0 0 6217 0 0
+~
+~
+Door 5 0 0 6219 0 0
+~
+~
+End
+
+#6219
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 2 0 0 6220 0 0
+~
+~
+Door 4 0 0 6218 0 0
+~
+~
+End
+
+#6220
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 0 0 0 6219 0 0
+~
+~
+Door 3 0 0 6221 0 0
+~
+~
+End
+
+#6221
+Name Descending a Large Staircase~
+Descr
+You are descending a large, dark staircase into an even darker tunnel
+down below. There is no telling what sort of monsters live down in the
+tunnels below this staircase, and you aren't sure if you want to find out!  
+~
+Flags 4
+Door 1 0 0 6220 0 0
+~
+~
+Door 5 0 0 6222 0 0
+~
+~
+End
+
+#6222
+Name At the Bottom of a Large Staircase~
+Descr
+You are at the bottom of a large, dark staircase and in front of an even
+darker tunnel. The tunnels seem almost too small to travel through, but you
+think to yourself that if you really wanted to, you probably could make it
+through them. 
+~
+Flags 4
+Door 2 0 0 6223 0 0
+~
+~
+Door 4 0 0 6221 0 0
+~
+~
+End
+
+#6223
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6222 0 0
+~
+~
+Door 2 0 0 6224 0 0
+~
+~
+End
+
+#6224
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6223 0 0
+~
+~
+Door 2 0 0 6225 0 0
+~
+~
+End
+
+#6225
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6224 0 0
+~
+~
+Door 2 0 0 6226 0 0
+~
+~
+End
+
+#6226
+Name A Small Intersection~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6225 0 0
+~
+~
+Door 1 0 0 6227 0 0
+~
+~
+Door 3 0 0 6228 0 0
+~
+~
+End
+
+#6227
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6229 0 0
+~
+~
+Door 3 0 0 6226 0 0
+~
+~
+End
+
+#6228
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 1 0 0 6226 0 0
+~
+~
+Door 3 0 0 6255 0 0
+~
+~
+End
+
+#6229
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 1 0 0 6230 0 0
+~
+~
+Door 2 0 0 6227 0 0
+~
+~
+End
+
+#6230
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 1 0 0 6231 0 0
+~
+~
+Door 3 0 0 6229 0 0
+~
+~
+End
+
+#6231
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 1 0 0 6232 0 0
+~
+~
+Door 3 0 0 6230 0 0
+~
+~
+End
+
+#6232
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 2 0 0 6233 0 0
+~
+~
+Door 3 0 0 6231 0 0
+~
+~
+End
+
+#6233
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6232 0 0
+~
+~
+Door 1 0 0 6234 0 0
+~
+~
+End
+
+#6234
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 2 0 0 6235 0 0
+~
+~
+Door 3 0 0 6233 0 0
+~
+~
+End
+
+#6235
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Reset M 6239 1 100
+Door 0 0 0 6234 0 0
+~
+~
+Door 1 259 0 6236 30 30
+~
+fake wall~
+Door 2 0 0 6237 0 0
+~
+~
+End
+
+#6236
+Name Behind a Fake Wall~
+Descr
+You are behind a large, fake wall to the west. As you are looking around
+the room you notice a pair of large, glowing eyes in the dark to the back of
+the room. Perhaps you should run now while you still have legs to run with! 
+~
+Flags 4
+Reset M 6236 1 100
+Reset O 6236 -1 5
+Door 3 259 0 6235 30 30
+~
+fake wall~
+End
+
+#6237
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6235 0 0
+~
+~
+Door 2 0 0 6238 0 0
+~
+~
+End
+
+#6238
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Door 0 0 0 6237 0 0
+~
+~
+Door 1 0 0 6239 0 0
+~
+~
+End
+
+#6239
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Reset M 6239 1 100
+Door 2 0 0 6240 0 0
+~
+~
+Door 3 0 0 6238 0 0
+~
+~
+End
+
+#6240
+Name A Dead End~
+Descr
+You are at a dead end. You should turn around end check the other branch.
+Maybe you will find something there. 
+~
+Flags 4
+Reset O 6240 -5 100
+Door 0 0 0 6239 0 0
+~
+~
+Door 3 259 0 6241 30 30
+~
+niche~
+End
+
+#6241
+Name A Small Niche in the Wall~
+Descr
+You are behind a small niche in the wall to the east. You begin to feel
+your strength and mana return as soon as you step into this room. Maybe you
+should rest here for a while. 
+~
+Flags 3145732
+Door 1 259 0 6240 30 30
+~
+niche~
+End
+
+#6242
+Name Behind a Small Crack~
+Descr
+You are in a small room through the crack you just entered. Something is
+emitting loud screeches from the east. Maybe you should go back through the
+crack and leave this place. 
+~
+Flags 4
+Reset O 6242 -5 100
+Door 1 0 0 6243 0 0
+~
+~
+End
+
+#6243
+Name A Cramped Tunnel~
+Descr
+You are in a very small tunnel. You are almost totally surrounded by loud
+wails. The only place that the wails don't seem to be coming from is the
+west. 
+~
+Flags 4
+Door 0 3 0 6247 30 30
+~
+door~
+Door 1 0 0 6244 0 0
+~
+~
+Door 2 3 0 6248 30 30
+~
+door~
+Door 3 0 0 6242 0 0
+~
+~
+End
+
+#6244
+Name A Cramped Tunnel~
+Descr
+You are completely surrounded by the wailing sounds. There is a large
+wall to the east. You think you will go search for the crack that you came
+through and get out of this horrid place. 
+~
+Flags 4
+Door 0 3 0 6249 30 30
+~
+door~
+Door 1 0 0 6245 0 0
+~
+~
+Door 2 3 0 6250 30 30
+~
+door~
+Door 3 0 0 6243 0 0
+~
+~
+End
+
+#6245
+Name A Cramped Tunnel~
+Descr
+You are completely surrounded by the wailing sounds. There is a large
+wall to the east. You think you will go search for the crack that you came
+through and get out of this horrid place. 
+~
+Flags 4
+Door 0 3 0 6251 30 30
+~
+door~
+Door 1 0 0 6246 0 0
+~
+~
+Door 2 3 0 6252 30 30
+~
+door~
+Door 3 0 0 6244 0 0
+~
+~
+End
+
+#6246
+Name A Cramped Tunnel~
+Descr
+You are completely surrounded by the wailing sounds. There is a large
+wall to the east. You think you will go search for the crack that you came
+through and get out of this horrid place. 
+~
+Flags 4
+Door 0 3 0 6253 30 30
+~
+door~
+Door 2 3 0 6254 30 30
+~
+door~
+Door 3 0 0 6245 0 0
+~
+~
+End
+
+#6247
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 2 3 0 6243 30 30
+~
+door~
+End
+
+#6248
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 0 3 0 6243 30 30
+~
+door~
+End
+
+#6249
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 2 3 0 6244 30 30
+~
+door~
+End
+
+#6250
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 0 3 0 6244 30 30
+~
+door~
+End
+
+#6251
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 2 2 0 6245 30 30
+~
+door~
+End
+
+#6252
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 0 2 0 6245 30 30
+~
+door~
+End
+
+#6253
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 2 0 0 6246 0 0
+~
+~
+End
+
+#6254
+Name A Large Room~
+Descr
+You are in a large room which is devoid of any object. The only thing
+other than you in this room is a large zombie. You should probably leave
+before he notices you and gets angry...TOO LATE!  
+~
+Flags 4
+Reset M 6242 1 100
+Reset O 207 -1 100
+Door 0 0 0 6246 0 0
+~
+~
+End
+
+#6255
+Name A Cramped Tunnel~
+Descr
+You are in a very small and cramped tunnel. You have to bend over or
+crawl just to make it down this tunnel. You think to yourself that there
+better be something at the end of this damn tunnel to make crawling through
+this tunnel worth it. 
+~
+Flags 4
+Reset M 6239 1 100
+Door 1 0 0 6228 0 0
+~
+~
+Door 2 0 0 6256 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,4842 @@
+#AREADATA 
+Name The Caverns of Light~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe sound of chirping birds echo through the caverns.
+~[0;37m
+SRepop 15
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Kilith~
+VNUMs 48000 48199
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#48013
+Name high elf protector~
+Short a high elf~
+Long 
+[Teacher] A high elf stand here to protect the newbie area.
+~
+Descr
+~
+AMax 1
+AYeller 1
+AWillhelp 0
+NHeight 0
+ActBits 65792
+ActBits4 8192
+Affect_By 128
+AffectTWO 4
+Alignment 2000
+Money 175
+Level 175
+MobType 1
+Guard 0
+GDamR -24
+ASklTaught 0 42
+ASklTaught 1 25
+ASklTaught 2 58
+ASklTaught 3 19
+ASklTaught 4 85
+ASklTaught 5 90
+ASklTaught 6 78
+End
+
+#48014
+Name danek armorer~
+Short danek, the armorer~
+Long 
+Danek, the armorer, is here ready to repair armor.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097154
+Money 15000
+Level 200
+MobType 1
+Guard 0
+Shop    0   9   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+End
+
+#48015
+Name baker elven~
+Short an elven baker~
+Long 
+The elven baker is cooking some fresh food.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 200
+Level 200
+Sex 1
+MobType 1
+Guard 0
+Shop    0   0   0   0   0 100 120 0 225
+Shopd2 5
+Shopd3 4
+ShopCr 37
+ShopCS The elven baker pulls a fresh loaf out of the oven.~
+ShCrh 6
+End
+
+#48018
+Name a huge guard~
+Short a HUGE guard~
+Long 
+A HUGE guard stands here protecting the newbie zone.
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+ActBits3 540672
+Affect_By 128
+Alignment 2000
+Money 200
+Level 200
+Sex 1
+MobType 1
+Guard 0
+Spec spec_warrior
+End
+
+#48019
+Name mogarth weapon smith weaponsmith~
+Short mogarth the weaponsmith~
+Long 
+Mogarth is here to assist with the repair of weapons.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1048834
+Money 15000
+Level 200
+Sex 1
+MobType 1
+Guard 0
+Shop    0   5   0   0   0 100 120 6 20
+Shopd2 5
+Shopd3 9
+ASklTaught 0 573
+ASklTaught 1 574
+ASklTaught 2 575
+ASklTaught 3 576
+ASklTaught 4 572
+End
+
+#48020
+Name a elven banker~
+Short an elven banker~
+Long 
+An elven banker is waiting to make some transactions.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131074
+Money 200
+Level 200
+Sex 1
+MobType 1
+Guard 0
+End
+
+#48021
+Name helper Mob~
+Short a helper Mob~
+Long 
+A Helper Mob is here to help you with pracs and learns!
+~
+Descr
+~
+AMax 2
+NHeight 0
+ActBits 2
+Affect_By 552
+Level 300
+Sex 1
+Guard 0
+End
+
+#48024
+Name a small rabbit~
+Short a small rabbit~
+Long 
+A small rabbit hops around the forest. Kill these mobs first!
+~
+Descr
+~
+Attackmsg nibble~
+AMax 10
+NHeight 0
+Affect_By 512
+Money 5
+Level 5
+MobType 18
+Guard 0
+End
+
+#48025
+Name bird small~
+Short a small bird~
+Long 
+A small bird flies from tree to tree. Kill these before racoons!
+~
+Descr
+~
+Attackmsg peck~
+AMax 8
+NHeight 0
+Affect_By 524328
+Money 10
+Level 7
+MobType 18
+Guard 0
+End
+
+#48026
+Name small racoon~
+Short a racoon~
+Long 
+A racoon sniffs around the ground for food.
+~
+Descr
+~
+AMax 8
+NHeight 0
+Affect_By 512
+Money 20
+Level 10
+MobType 18
+Guard 0
+End
+
+#48027
+Name doe deer~
+Short a doe~
+Long 
+A doe grazes on some grass here in the forest.
+~
+Descr
+~
+AMax 8
+NHeight 0
+Affect_By 512
+Money 25
+Level 13
+MobType 18
+Guard 0
+End
+
+#48028
+Name buck deer~
+Short a buck~
+Long 
+A buck struts around the forest showing off for the does.
+~
+Descr
+~
+AMax 8
+NHeight 0
+Affect_By 512
+Money 30
+Level 15
+MobType 18
+Guard 0
+End
+
+#48058
+Name orc soldier~
+Short a orc soldier~
+Long 
+An orc soldier wanders around the cave.
+~
+Descr
+~
+AMax 5
+Alignment -200
+Money 35
+Level 20
+Sex 1
+MobType 25
+Guard 0
+End
+
+#48078
+Name skaven thief~
+Short a skaven thief~
+Long 
+A skaven thief is trying to hide in the shadows.
+~
+Descr
+~
+AMax 4
+Alignment -200
+Money 40
+Level 20
+Sex 1
+MobType 1
+Guard 0
+End
+
+#48079
+Name warrior orc~
+Short an orc warrior~
+Long 
+An orc warrior stands here ready to ambush the homelands.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Alignment -500
+Money 40
+Level 20
+Sex 1
+MobType 25
+Guard 0
+End
+
+#48080
+Name warrior troll~
+Short a troll warrior~
+Long 
+A troll warrior stands here ready to ambush the homelands.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Alignment -500
+Money 40
+Level 20
+Sex 1
+MobType 12
+Guard 0
+End
+
+#48125
+Name niand drow mage~
+Short niand, the drow mage~
+Long 
+Niand, and old drow mage wanders the square.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Alignment -1000
+Money 200
+Level 30
+Sex 1
+MobType 1
+Guard 0
+End
+
+#48129
+Name +* A Drow *+~
+Short +* A Drow *+~
+Long 
++* A Drow *+ is here.
+~
+Descr
+~
+AMax 2
+NHeight 0
+Alignment -500
+Money 30
+Level 15
+Sex 1
+MobType 26
+Guard 0
+End
+
+#48144
+Name +* A Drow *+~
+Short +* A Drow *+~
+Long 
++* A Drow *+ is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 131072
+Alignment -300
+Money 80
+Level 10
+MobType 26
+Guard 0
+End
+
+#48147
+Name +* A Drow *+~
+Short +* A Drow *+~
+Long 
++* A Drow *+ is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 131072
+Alignment -300
+Money 150
+Level 10
+MobType 26
+Guard 0
+End
+
+#48150
+Name skaven~
+Short +* A Skaven *+~
+Long 
++* A Skaven *+ is here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Alignment -900
+Money 40
+Level 15
+Sex 1
+MobType 26
+Guard 0
+End
+
+#48181
+Name usayu the warrior trainer~
+Short usayu, the warrior trainer~
+Long 
+Usayu, the warrior trainer, is ready to lead training.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Alignment -1000
+Money 200
+Level 30
+Sex 1
+MobType 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#48000
+Name small short sword~
+Short a small short sword~
+Descr
+A short sword lies on the ground.
+[0;36m~
+Type 5
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 7 0 1 0 0 0 3 3 0
+Weight 0
+Cost 0
+End
+
+#48001
+Name boots copper~
+Short some [33mcopper[0m boots~
+Descr
+A pair of [33mcopper[0m[36m plated boots have been discarded here.
+[0;36m~
+Type 9
+Extra 64
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 0 0 10 10 4 4 10 10
+Weight 1
+Cost 0
+Affect 13 3 1 0 0
+End
+
+#48002
+Name anklet copper~
+Short a [33mcopper[0m anklet~
+Descr
+A [33mcopper[0m[36m anklet has been discarded here.
+[0;36m~
+Type 9
+Extra 64
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 10 4 4 10 10
+Weight 1
+Cost 53
+Affect 13 3 1 0 0
+End
+
+#48003
+Name leather gloves~
+Short some [33mleather[0m gloves~
+Descr
+Some gloves have been discarded here.
+[0;36m~
+Type 9
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 1 5 5 3 3 5 10
+Weight 1
+Cost 20
+End
+
+#48004
+Name silver armor breast plate~
+Short a [1m[30msilver[0m breastplate~
+Descr
+A shiny breastplate lies on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 15 15 7 7 10 10
+Weight 2
+Cost 1000
+End
+
+#48005
+Name small silver shield~
+Short a small [1m[30msilver[0m shield~
+Descr
+A small shield has been dropped here.
+[0;36m~
+Type 9
+Wear 513
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 2 2 1 20 20 7 7 10 5
+Weight 2
+Cost 450
+End
+
+#48006
+Name small silver short sword~
+Short a small [1m[30msilver[0m short sword~
+Descr
+A small sword has been stuck into the ground here.
+[0;36m~
+Type 5
+Extra 4194304
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 6 0 1 0 0 0 4 2 0
+Weight 2
+Cost 300
+End
+
+#48007
+Name sliver longsword long sword~
+Short a [1m[30msilver[0m longsword~
+Descr
+A [1m[30msilver[0m[36m longsword has been stuck into the ground here.
+[0;36m~
+Type 5
+Extra 4194304
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 8 0 1 0 0 0 2 5 0
+Weight 3
+Cost 1000
+End
+
+#48008
+Name copper arm plates~
+Short some [33mcopper[0m arm plates~
+Descr
+Some arm plates have been discarded on the ground here.
+[0;36m~
+Type 9
+Extra 64
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 10 10 6 6 10 10
+Weight 1
+Cost 145
+Affect 13 3 1 0 0
+End
+
+#48009
+Name copper legplates leg plates~
+Short some [0m[33mcopper[0m legplates~
+Descr
+Some copper legplates have been dropped here.
+[0;36m~
+Type 9
+Extra 64
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 10 10 10 10 10
+Weight 1
+Cost 0
+Affect 13 3 1 0 0
+End
+
+#48010
+Name copper belt~
+Short a [0m[33mcopper[0m belt~
+Descr
+A copper belt was left here.
+[0;36m~
+Type 9
+Extra 64
+Wear 2049
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 1 1 0 0 10 10 10 10 10 10
+Weight 1
+Cost 0
+Affect 13 3 1 0 0
+End
+
+#48011
+Name copper shoulder shoulderplate~
+Short a [0m[33mcopper[0m shoulderplate~
+Descr
+A copper shoulderplate was left here.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 1 1 10 10 10 10 10 10
+Weight 1
+Cost 100
+Affect 13 3 1 0 0
+End
+
+#48012
+Name copper necklace neck~
+Short a [0m[33mcopper[0m necklace~
+Descr
+A copper necklace was left here.
+[0;36m~
+Type 9
+Extra 64
+Wear 5
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 10 10 10 10 10 10
+Weight 1
+Cost 0
+Affect 13 3 1 0 0
+End
+
+#48013
+Name copper anklet~
+Short a [0m[33mcopper[0m anklet~
+Descr
+A copper anklet was left here.
+[0;36m~
+Type 9
+Extra 64
+Wear 524289
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 10 10 10 10 10 10
+Weight 1
+Cost 100
+Affect 13 3 1 0 0
+End
+
+#48014
+Name blue sign~
+Short a small [1m[34mblue[0m sign~
+Descr
+[0m[36ma small [1m[34mblue sign[0m[36m has [1m[31m[5mLOOK AT ME[0m[36m written on it!
+[0;36m~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+ExtraDescr sign~
+Down and then North of here is the newbie area where you can xp to level
+up and move out into the world. South and Up from here is Xylar where you
+can learn spells and skills to help youI suggest to say in here as long as
+you can before heading out into the open world!  Once you reach level 25,
+you will no longer be able to enter this area.
+ 
+Here are some help files and commands to help you:
+Help Newbie
+Help Map
+Help Masqe
+Help Changes
+Help Damage
+ 
+slist skill
+slist spell
+ 
+While starting off flurry is your only skill. Use it but watch your
+moves. Once you have earned a few levels, head back here and go up into
+Xylar where you can start to lean some skills and spells like Magic Missile.
+Any mob that has [Teacher] in front of them will teach you a skill or a
+spell.
+ 
+The use of help xylar will show you the area and also point out where
+teachers are located along with, The banker, armorsmith, weaponsmith, baker,
+and a few other things. Help xylar and help map will come in handy.
+Good Luck and enjoy the mud!
+~
+ExtraDescr blue~
+Down and then North of here is the newbie area where you can xp to level
+up and move out into the world. South and Up from here is Xylar where you
+can learn spells and skills to help youI suggest to say in here as long as
+you can before heading out into the open world!  Once you reach level 25,
+you will no longer be able to enter this area.
+ 
+Here are some help files and commands to help you:
+Help Newbie
+Help Map
+Help Masqe
+Help Changes
+Help Damage
+ 
+slist skill
+slist spell
+ 
+While starting off flurry is your only skill. Use it but watch your
+moves. Once you have earned a few levels, head back here and go up into
+Xylar where you can start to lean some skills and spells like Magic Missile.
+Any mob that has [Teacher] in front of them will teach you a skill or a
+spell.
+ 
+The use of help xylar will show you the area and also point out where
+teachers are located along with, The banker, armorsmith, weaponsmith, baker,
+and a few other things. Help xylar and help map will come in handy.
+Good Luck and enjoy the mud!
+~
+End
+
+#48016
+Name fountain marble white~
+Short a [1m[37mwhite marble[0m fountain~
+Descr
+A [1m[37mwhite marble[0m[36m fountain is here for water.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#48018
+Name blocker newbies whities~
+Short whitie level blocker for newbies~
+Descr
+Blocker for whitie newbies
+[0;36m~
+Type 13
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 0 0 1 1 40 0 0
+Weight 0
+Cost 0
+End
+
+#48019
+Name fountain great light~
+Short the great fountain of [1m[33mlight[0m~
+Descr
+A [1m[37mg[0m[34mr[1me[0m[34ma[1m[37mt [1m[33mfountain of light[0m[36m has been built in the middle of the square.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 14 45 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#48067
+Name copper helm~
+Short a [33mcopper[0m helm~
+Descr
+A [33mcopper [0m[36mhelm has been discarded on the ground.
+[0;36m~
+Type 9
+Extra 64
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 15 10 4 4 10 10
+Weight 1
+Cost 0
+Affect 13 3 1 0 0
+End
+
+#48078
+Name steel small dagger~
+Short a small [0m[36msteel[0m dagger~
+Descr
+A small steel dagger has been dropped here.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 11 0 0 0 2 2 0
+Weight 1
+Cost 45
+End
+
+#48079
+Name copper armor~
+Short some [33mcopper[0m armor~
+Descr
+Some [33mcopper[0m[36m armor has been left on the ground.
+[0;36m~
+Type 9
+Extra 64
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 15 15 5 5 10 20
+Weight 1
+Cost 150
+Affect 13 3 1 0 0
+End
+
+#48150
+Name wavy steel dagger~
+Short a wavy [0m[36msteel[0m dagger~
+Descr
+A wavy steel dagger is been left in the dust.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 11 0 0 0 2 4 0
+Weight 1
+Cost 100
+End
+
+#0
+
+
+
+#ROOMDATA
+#48000
+Name A Small Cavern~
+Descr
+From the open of this cave a fresh cool breeze can be felt. This cave was
+carved into the mountains by some supernatural forces and the walls seem
+very smooth and almost marble like. A strange warming glow comes from the
+walls and seem to be the light for this tunnel. The tunnel heads north
+deeper into the mountain from here. 
+~
+Sector 0
+Door 0 0 0 48001 0 0
+~
+~
+Door 4 0 0 48001 0 0
+~
+~
+End
+
+#48001
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Sector 0
+Door 0 0 0 48002 0 0
+~
+~
+Door 2 0 0 48000 0 0
+~
+~
+End
+
+#48002
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Sector 0
+Door 0 0 0 48003 0 0
+~
+~
+Door 2 0 0 48001 0 0
+~
+~
+End
+
+#48003
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Sector 0
+Door 0 0 0 48004 0 0
+~
+~
+Door 2 0 0 48002 0 0
+~
+~
+End
+
+#48004
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads below deeper into the mountain from here. 
+~
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 2 0 0 48003 0 0
+~
+~
+Door 5 0 0 48005 0 0
+~
+~
+End
+
+#48005
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads East deeper into the mountain from here. 
+~
+Sector 0
+Door 1 0 0 48006 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 4 0 0 48004 0 0
+~
+~
+End
+
+#48006
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads East deeper into the mountain from here. 
+~
+Sector 0
+Door 1 0 0 48007 0 0
+~
+~
+Door 3 0 0 48005 0 0
+~
+~
+End
+
+#48007
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads below deeper into the mountain from here. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 3 0 0 48006 0 0
+~
+~
+End
+
+#48008
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Sector 0
+Door 2 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+End
+
+#48009
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Sector 0
+End
+
+#48010
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Flags 12
+Sector 0
+Door 4 0 0 1014 0 0
+~
+~
+Door 5 0 0 48011 0 0
+~
+~
+End
+
+#48011
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Flags 12
+Sector 0
+Door 4 0 0 48010 0 0
+~
+~
+Door 5 0 0 48012 0 0
+~
+~
+End
+
+#48012
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 48013 0 0
+~
+~
+Door 4 0 0 48011 0 0
+~
+~
+End
+
+#48013
+Name A Small Market Place~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. To the west is the bakery
+and wonderful smells seem to come from there. To the east is the armor shop
+where the sound of a hammer can be heard. 
+~
+Flags 12
+Sector 0
+Reset M 48013 1 100
+Reset O 48000 -1 100
+Door 0 0 0 48016 0 0
+~
+~
+Door 1 0 0 48014 0 0
+~
+~
+Door 2 0 0 48012 0 0
+~
+~
+Door 3 0 0 48015 0 0
+~
+~
+End
+
+#48014
+Name A Small Armor Shop~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 48014 1 100
+Reset O 48005 5 75
+Reset O 48004 5 75
+Reset O 48003 5 100
+Door 3 0 0 48013 0 0
+~
+~
+End
+
+#48015
+Name A Small Bakery~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 48015 1 100
+Reset O 37 10 100
+Door 1 0 0 48013 0 0
+~
+~
+End
+
+#48016
+Name GN;A Small Market Square Within a Cave~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. To the west is the weapons
+shop where the sound of metal being forged comes from. To the east is the
+bank. 
+~
+Flags 3145740
+Sector 0
+Reset O 48016 -5 100
+Door 0 0 0 48017 0 0
+~
+~
+Door 1 0 0 48020 80 80
+~
+door~
+Door 2 0 0 48013 0 0
+~
+~
+Door 3 0 0 48019 0 0
+~
+~
+End
+
+#48017
+Name A Small Cavern~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here. 
+~
+Flags 12
+Sector 0
+Door 0 0 0 48018 0 0
+~
+~
+Door 2 0 0 48016 0 0
+~
+~
+End
+
+#48018
+Name ENTRANCE TO THE NEWBIE ZONE!!~
+Descr
+This is where all good adventurers start of at. Below is a small area
+where you can kill mobs for easy xp. Please remember when you are thinking
+about attacking a mob use the "CONSIDER" aka con <mobs name> command. This
+command will help you when finding out if this mob will be easy for you to
+kill of difficult for you to kill. You are allowed to be in the newbie zone
+until level 15. If any gods find you xping in the newbie zone after you have
+reached level 15 you will be transfered to Limbo and your extra levels and
+skills will be removed!!  This is your only warning of this offence. HELP
+NEWBIE for more rules. 
+~
+Flags 12
+Sector 0
+Reset O 48014 -5 100
+Reset M 48018 1 100
+Reset O 48000 -1 100
+Reset M 48018 1 100
+Reset O 48000 -1 100
+Reset O 48018 -5 100
+Door 0 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 2 0 0 48017 0 0
+~
+~
+Door 5 0 0 48021 0 0
+~
+~
+End
+
+#48019
+Name A Small Weapon Shop~
+Descr
+~
+Flags 4
+Sector 0
+Reset M 48019 1 100
+Reset O 48007 5 75
+Reset O 48006 5 90
+Door 1 0 0 48016 0 0
+~
+~
+End
+
+#48020
+Name A Small Bank~
+Descr
+Within this small bank a counter can be seen near the back. A small safe
+or what looks to be a safe sits just behind the counter. The room here looks
+to be made the same way the rest of this cavern has. To the West is the
+Market Square. 
+~
+Flags 4
+Sector 0
+Reset M 48020 1 100
+Door 3 0 0 48016 0 0
+~
+~
+End
+
+#48021
+Name In a Small Cave~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here.
+~
+Reset M 48021 1 100
+Door 0 0 0 48022 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!! That had to hurt! Watch out for them walls!
+~
+~
+Door 4 0 0 48018 0 0
+~
+~
+End
+
+#48022
+Name In a Small Cave~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here.
+~
+Door 0 0 0 48023 0 0
+~
+~
+Door 2 0 0 48021 0 0
+~
+~
+End
+
+#48023
+Name Before a Small Magical Forest~
+Descr
+This cave was carved into the mountains by some supernatural forces and
+the walls seem very smooth and almost marble like. A strange warming glow
+comes from the walls and seem to be the light for this tunnel. The tunnel
+heads north deeper into the mountain from here.
+~
+Flags 2
+Door 0 0 0 48024 0 0
+~
+~
+Door 2 0 0 48022 0 0
+~
+~
+End
+
+#48024
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food. They have made their homes here and it looks
+like a good place to get some experience for the new adventure. 
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48033 0 0
+~
+~
+Door 1 0 0 48041 0 0
+~
+~
+Door 2 0 0 48023 0 0
+~
+~
+Door 3 0 0 48025 0 0
+~
+~
+End
+
+#48025
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Reset M 48028 1 100
+Door 0 0 0 48032 0 0
+~
+~
+Door 1 0 0 48024 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48026 0 0
+~
+~
+End
+
+#48026
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 1 100
+Door 0 0 0 48031 0 0
+~
+~
+Door 1 0 0 48025 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48027 0 0
+~
+~
+End
+
+#48027
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48030 0 0
+~
+~
+Door 1 0 0 48026 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48028 0 0
+~
+~
+End
+
+#48028
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48029 0 0
+~
+~
+Door 1 0 0 48027 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48029
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48081 0 0
+~
+~
+Door 1 0 0 48030 0 0
+~
+~
+Door 2 0 0 48028 0 0
+~
+~
+Door 3 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48030
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 1 100
+Reset M 48024 1 100
+Door 0 0 0 48042 0 0
+~
+~
+Door 1 0 0 48031 0 0
+~
+~
+Door 2 0 0 48027 0 0
+~
+~
+Door 3 0 0 48029 0 0
+~
+~
+End
+
+#48031
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48043 0 0
+~
+~
+Door 1 0 0 48032 0 0
+~
+~
+Door 2 0 0 48026 0 0
+~
+~
+Door 3 0 0 48030 0 0
+~
+~
+End
+
+#48032
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48044 0 0
+~
+~
+Door 1 0 0 48033 0 0
+~
+~
+Door 2 0 0 48025 0 0
+~
+~
+Door 3 0 0 48031 0 0
+~
+~
+End
+
+#48033
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48045 0 0
+~
+~
+Door 1 0 0 48034 0 0
+~
+~
+Door 2 0 0 48024 0 0
+~
+~
+Door 3 0 0 48032 0 0
+~
+~
+End
+
+#48034
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48046 0 0
+~
+~
+Door 1 0 0 48035 0 0
+~
+~
+Door 2 0 0 48041 0 0
+~
+~
+Door 3 0 0 48033 0 0
+~
+~
+End
+
+#48035
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48047 0 0
+~
+~
+Door 1 0 0 48036 0 0
+~
+~
+Door 2 0 0 48040 0 0
+~
+~
+Door 3 0 0 48034 0 0
+~
+~
+End
+
+#48036
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48048 0 0
+~
+~
+Door 1 0 0 48037 0 0
+~
+~
+Door 2 0 0 48039 0 0
+~
+~
+Door 3 0 0 48035 0 0
+~
+~
+End
+
+#48037
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48108 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 48038 0 0
+~
+~
+Door 3 0 0 48036 0 0
+~
+~
+End
+
+#48038
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 1 100
+Door 0 0 0 48037 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48039 0 0
+~
+~
+End
+
+#48039
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48036 0 0
+~
+~
+Door 1 0 0 48038 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48040 0 0
+~
+~
+End
+
+#48040
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 1 100
+Door 0 0 0 48035 0 0
+~
+~
+Door 1 0 0 48039 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48041 0 0
+~
+~
+End
+
+#48041
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 1 100
+Door 0 0 0 48034 0 0
+~
+~
+Door 1 0 0 48040 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48024 0 0
+~
+~
+End
+
+#48042
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48083 0 0
+~
+~
+Door 1 0 0 48043 0 0
+~
+~
+Door 2 0 0 48030 0 0
+~
+~
+Door 3 0 0 48081 0 0
+~
+~
+End
+
+#48043
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48049 0 0
+~
+~
+Door 1 0 0 48044 0 0
+~
+~
+Door 2 0 0 48031 0 0
+~
+~
+Door 3 0 0 48042 0 0
+~
+~
+End
+
+#48044
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 1 100
+Door 0 0 0 48050 0 0
+~
+~
+Door 1 0 0 48045 0 0
+~
+~
+Door 2 0 0 48032 0 0
+~
+~
+Door 3 0 0 48043 0 0
+~
+~
+End
+
+#48045
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48051 0 0
+~
+~
+Door 1 0 0 48046 0 0
+~
+~
+Door 2 0 0 48033 0 0
+~
+~
+Door 3 0 0 48044 0 0
+~
+~
+End
+
+#48046
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 1 100
+Door 0 0 0 48052 0 0
+~
+~
+Door 1 0 0 48047 0 0
+~
+~
+Door 2 0 0 48034 0 0
+~
+~
+Door 3 0 0 48045 0 0
+~
+~
+End
+
+#48047
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48053 0 0
+~
+~
+Door 1 0 0 48048 0 0
+~
+~
+Door 2 0 0 48035 0 0
+~
+~
+Door 3 0 0 48046 0 0
+~
+~
+End
+
+#48048
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48104 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48108 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 48036 0 0
+~
+~
+Door 3 0 0 48047 0 0
+~
+~
+End
+
+#48049
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 1 100
+Reset M 48027 1 100
+Reset M 48024 1 100
+Door 0 0 0 48086 0 0
+~
+~
+Door 1 0 0 48050 0 0
+~
+~
+Door 2 0 0 48043 0 0
+~
+~
+Door 3 0 0 48083 0 0
+~
+~
+End
+
+#48050
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48054 0 0
+~
+~
+Door 1 0 0 48051 0 0
+~
+~
+Door 2 0 0 48044 0 0
+~
+~
+Door 3 0 0 48049 0 0
+~
+~
+End
+
+#48051
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48055 0 0
+~
+~
+Door 1 0 0 48052 0 0
+~
+~
+Door 2 0 0 48045 0 0
+~
+~
+Door 3 0 0 48050 0 0
+~
+~
+End
+
+#48052
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48056 0 0
+~
+~
+Door 1 0 0 48053 0 0
+~
+~
+Door 2 0 0 48046 0 0
+~
+~
+Door 3 0 0 48051 0 0
+~
+~
+End
+
+#48053
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 1 100
+Reset M 48027 1 100
+Door 0 0 0 48101 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48104 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 48047 0 0
+~
+~
+Door 3 0 0 48052 0 0
+~
+~
+End
+
+#48054
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48090 0 0
+~
+~
+Door 1 0 0 48055 0 0
+~
+~
+Door 2 0 0 48050 0 0
+~
+~
+Door 3 0 0 48086 0 0
+~
+~
+End
+
+#48055
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48057 0 0
+~
+~
+Door 1 0 0 48056 0 0
+~
+~
+Door 2 0 0 48051 0 0
+~
+~
+Door 3 0 0 48054 0 0
+~
+~
+End
+
+#48056
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48099 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48101 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 48052 0 0
+~
+~
+Door 3 0 0 48055 0 0
+~
+~
+End
+
+#48057
+Name A Hole in the Ground~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 1 100
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48099 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 2 0 0 48055 0 0
+~
+~
+Door 3 0 0 48090 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 5 0 0 48058 0 0
+~
+~
+End
+
+#48058
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 10
+Sector 0
+Reset M 48058 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 48067 0 0
+~
+~
+Door 1 0 0 48059 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 4 0 0 48057 0 0
+~
+~
+End
+
+#48059
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48078 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 1 0 0 48060 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48058 0 0
+~
+~
+End
+
+#48060
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 48065 0 0
+~
+~
+Door 1 0 0 48061 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48059 0 0
+~
+~
+End
+
+#48061
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48078 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48062 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48060 0 0
+~
+~
+End
+
+#48062
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48058 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 48063 0 0
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48061 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48063
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!  
+~
+Flags 8
+Sector 0
+Door 0 0 0 48072 0 0
+~
+~
+Door 1 0 0 48080 0 0
+~
+~
+Door 2 0 0 48062 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48064
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48065 0 0
+~
+~
+End
+
+#48065
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48058 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 48070 0 0
+~
+~
+Door 1 0 0 48064 0 0
+~
+~
+Door 2 0 0 48060 0 0
+~
+~
+Door 3 0 0 48066 0 0
+~
+~
+End
+
+#48066
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48065 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48067
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 48068 0 0
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 48058 0 0
+~
+~
+Door 3 0 0 48079 0 0
+~
+~
+End
+
+#48068
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48078 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 48077 0 0
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 48067 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48069
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48070 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48070
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 48075 0 0
+~
+~
+Door 1 0 0 48071 0 0
+~
+~
+Door 2 0 0 48065 0 0
+~
+~
+Door 3 0 0 48069 0 0
+~
+~
+End
+
+#48071
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48070 0 0
+~
+~
+End
+
+#48072
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 48073 0 0
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 48063 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48073
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48058 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 48072 0 0
+~
+~
+Door 3 0 0 48074 0 0
+~
+~
+End
+
+#48074
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48073 0 0
+~
+~
+Door 3 0 0 48075 0 0
+~
+~
+End
+
+#48075
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 48078 0 0
+~
+~
+Door 1 0 0 48074 0 0
+~
+~
+Door 2 0 0 48070 0 0
+~
+~
+Door 3 0 0 48076 0 0
+~
+~
+End
+
+#48076
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48075 0 0
+~
+~
+Door 3 0 0 48077 0 0
+~
+~
+End
+
+#48077
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48058 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48076 0 0
+~
+~
+Door 2 0 0 48068 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48078
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48078 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 48075 0 0
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48079
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Flags 8
+Sector 0
+Reset M 48079 1 100
+Reset O 421 -1 20
+Reset O 408 -1 20
+Reset O 409 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Reset O 415 -1 20
+Reset O 416 -1 20
+Reset O 417 -1 20
+Reset O 418 -1 20
+Reset O 419 -1 20
+Reset O 420 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 48067 0 0
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+End
+
+#48080
+Name Inside a Damp Dark Cave~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!  
+~
+Flags 8
+Sector 0
+Reset M 48080 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 0 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 1 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 2 0 0 0 30 30
+OUCH!!!! There is a wall there!
+~
+~
+Door 3 0 0 48063 0 0
+~
+~
+End
+
+#48081
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48082 0 0
+~
+~
+Door 1 0 0 48042 0 0
+~
+~
+Door 2 0 0 48029 0 0
+~
+~
+Door 3 0 0 48094 0 0
+~
+~
+End
+
+#48082
+Name A Small Magical Forest~
+Descr
+Within this deep, dark, damp cave hides an ambush of evil. Many orc
+soldiers wander the cave wiating for the order to start their attack.
+Someone should from their commanders and stop this attack before it has a
+chance to start!
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48084 0 0
+~
+~
+Door 1 0 0 48083 0 0
+~
+~
+Door 2 0 0 48081 0 0
+~
+~
+Door 3 0 0 48093 0 0
+~
+~
+End
+
+#48083
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48085 0 0
+~
+~
+Door 1 0 0 48049 0 0
+~
+~
+Door 2 0 0 48042 0 0
+~
+~
+Door 3 0 0 48082 0 0
+~
+~
+End
+
+#48084
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48024 1 100
+Door 0 0 0 48087 0 0
+~
+~
+Door 1 0 0 48085 0 0
+~
+~
+Door 2 0 0 48082 0 0
+~
+~
+Door 3 0 0 48092 0 0
+~
+~
+End
+
+#48085
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48088 0 0
+~
+~
+Door 1 0 0 48086 0 0
+~
+~
+Door 2 0 0 48083 0 0
+~
+~
+Door 3 0 0 48084 0 0
+~
+~
+End
+
+#48086
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48089 0 0
+~
+~
+Door 1 0 0 48054 0 0
+~
+~
+Door 2 0 0 48049 0 0
+~
+~
+Door 3 0 0 48085 0 0
+~
+~
+End
+
+#48087
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48088 0 0
+~
+~
+Door 2 0 0 48084 0 0
+~
+~
+Door 3 0 0 48091 0 0
+~
+~
+End
+
+#48088
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48089 0 0
+~
+~
+Door 2 0 0 48085 0 0
+~
+~
+Door 3 0 0 48087 0 0
+~
+~
+End
+
+#48089
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48090 0 0
+~
+~
+Door 2 0 0 48086 0 0
+~
+~
+Door 3 0 0 48088 0 0
+~
+~
+End
+
+#48090
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 1 100
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48057 0 0
+~
+~
+Door 2 0 0 48054 0 0
+~
+~
+Door 3 0 0 48089 0 0
+~
+~
+End
+
+#48091
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 1 100
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48087 0 0
+~
+~
+Door 2 0 0 48092 0 0
+~
+~
+Door 3 0 0 48098 0 0
+~
+~
+End
+
+#48092
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48091 0 0
+~
+~
+Door 1 0 0 48084 0 0
+~
+~
+Door 2 0 0 48093 0 0
+~
+~
+Door 3 0 0 48097 0 0
+~
+~
+End
+
+#48093
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 100 1
+Door 0 0 0 48092 0 0
+~
+~
+Door 1 0 0 48082 0 0
+~
+~
+Door 2 0 0 48094 0 0
+~
+~
+Door 3 0 0 48096 0 0
+~
+~
+End
+
+#48094
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 1 100
+Door 0 0 0 48093 0 0
+~
+~
+Door 1 0 0 48081 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48095 0 0
+~
+~
+End
+
+#48095
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 1 100
+Door 0 0 0 48096 0 0
+~
+~
+Door 1 0 0 48094 0 0
+~
+~
+Door 2 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 3 0 0 48174 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48096
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 1 100
+Reset M 48026 1 100
+Door 0 0 0 48097 0 0
+~
+~
+Door 1 0 0 48093 0 0
+~
+~
+Door 2 0 0 48095 0 0
+~
+~
+Door 3 0 0 48163 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48097
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48098 0 0
+~
+~
+Door 1 0 0 48092 0 0
+~
+~
+Door 2 0 0 48096 0 0
+~
+~
+Door 3 0 0 48162 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48098
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 100 1
+Reset M 48024 1 100
+Door 0 0 0 0 30 30
+The forest is to thick to go any farther.
+~
+~
+Door 1 0 0 48091 0 0
+~
+~
+Door 2 0 0 48097 0 0
+~
+~
+Door 3 0 0 48151 30 30
+The forest is to thick to go any farther.
+~
+~
+End
+
+#48099
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food. 
+~
+Sector 3
+Door 1 0 0 48100 0 0
+~
+~
+Door 2 0 0 48056 0 0
+~
+~
+Door 3 0 0 48057 0 0
+~
+~
+End
+
+#48100
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48102 0 0
+~
+~
+Door 2 0 0 48101 0 0
+~
+~
+Door 3 0 0 48099 0 0
+~
+~
+End
+
+#48101
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48100 0 0
+~
+~
+Door 1 0 0 48103 0 0
+~
+~
+Door 2 0 0 48053 0 0
+~
+~
+Door 3 0 0 48056 0 0
+~
+~
+End
+
+#48102
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48105 0 0
+~
+~
+Door 2 0 0 48103 0 0
+~
+~
+Door 3 0 0 48100 0 0
+~
+~
+End
+
+#48103
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48102 0 0
+~
+~
+Door 1 0 0 48106 0 0
+~
+~
+Door 2 0 0 48104 0 0
+~
+~
+Door 3 0 0 48101 0 0
+~
+~
+End
+
+#48104
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48103 0 0
+~
+~
+Door 1 0 0 48107 0 0
+~
+~
+Door 2 0 0 48048 0 0
+~
+~
+Door 3 0 0 48053 0 0
+~
+~
+End
+
+#48105
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48109 0 0
+~
+~
+Door 2 0 0 48106 0 0
+~
+~
+Door 3 0 0 48102 0 0
+~
+~
+End
+
+#48106
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48105 0 0
+~
+~
+Door 2 0 0 48107 0 0
+~
+~
+Door 3 0 0 48103 0 0
+~
+~
+End
+
+#48107
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48106 0 0
+~
+~
+Door 2 0 0 48108 0 0
+~
+~
+Door 3 0 0 48104 0 0
+~
+~
+End
+
+#48108
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48107 0 0
+~
+~
+Door 2 0 0 48037 0 0
+~
+~
+Door 3 0 0 48048 0 0
+~
+~
+End
+
+#48109
+Name A Small Dusty Road~
+Descr
+A small dusty road comes out of nowhere within the forst. Looking back to
+the west, the forest can be seen and birds can be heard chirping. The dusty
+road seems to lead to the south. 
+~
+Flags 2
+Door 2 0 0 48110 0 0
+~
+~
+Door 3 0 0 48105 0 0
+~
+~
+End
+
+#48110
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here. 
+~
+Door 0 0 0 48109 0 0
+~
+~
+Door 2 0 0 48111 0 0
+~
+~
+End
+
+#48111
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here. 
+~
+Door 0 0 0 48110 0 0
+~
+~
+Door 2 0 0 48112 0 0
+~
+~
+End
+
+#48112
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here. 
+~
+Door 0 0 0 48111 0 0
+~
+~
+Door 2 0 0 48113 0 0
+~
+~
+End
+
+#48113
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here. 
+~
+Door 0 0 0 48112 0 0
+~
+~
+Door 2 0 0 48114 0 0
+~
+~
+End
+
+#48114
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here.
+~
+Door 0 0 0 48113 0 0
+~
+~
+Door 2 0 0 48115 0 0
+~
+~
+End
+
+#48115
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+south here.
+~
+Door 0 0 0 48114 0 0
+~
+~
+Door 2 0 0 48116 0 0
+~
+~
+End
+
+#48116
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the north and
+east here.
+~
+Door 0 0 0 48115 0 0
+~
+~
+Door 1 0 0 48117 0 0
+~
+~
+End
+
+#48117
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the west and
+east here.
+~
+Door 1 0 0 48118 0 0
+~
+~
+Door 3 0 0 48116 0 0
+~
+~
+End
+
+#48118
+Name A Small Dusty Road~
+Descr
+This small dusty road has many tracks have been left in it by wagons,
+horses, and different sized foot prints. The road leads to the west and
+north here. 
+~
+Door 0 0 0 48119 0 0
+~
+~
+Door 3 0 0 48117 0 0
+~
+~
+End
+
+#48119
+Name A Small Wooden Gate~
+Descr
+This wooden gate seems to be fairly new. Not sure how someone could build
+some kind of fort below the surface of the world. There seems to be no one
+guarding this fort. The small dusty road leads to the south. 
+~
+Door 0 3 0 48120 30 30
+~
+small wooden gate~
+Door 2 0 0 48118 0 0
+~
+~
+End
+
+#48120
+Name A Small Road in an Elven Town~
+Descr
+This is a small town that seems to be a mystery just like the forest to
+the west of the town. The gate to the town is to the south and a road
+leading into the town goes east. 
+~
+Door 1 0 0 48121 0 0
+~
+~
+Door 2 3 0 48119 30 30
+~
+a small wooden gate~
+End
+
+#48121
+Name A Small Road in an Elven Town~
+Descr
+This is a small town that seems to be a mystery just like the forest to
+the west of the town. This small road, of the city, heads in an east and
+west direction. Many noises can be heard from the east. 
+~
+Door 0 0 0 48131 0 0
+~
+~
+Door 1 3 0 48180 30 30
+~
+door~
+Door 3 0 0 48120 0 0
+~
+~
+End
+
+#48124
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48127 0 0
+~
+~
+Door 1 0 0 48125 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#48125
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Reset M 48125 1 100
+Reset O 414 -1 20
+Reset O 413 -1 20
+Reset O 410 -1 20
+Reset O 24310 -1 20
+Reset O 24309 -1 20
+Door 0 0 0 48126 0 0
+~
+~
+Door 3 0 0 48124 0 0
+~
+~
+End
+
+#48126
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48137 0 0
+~
+~
+Door 2 0 0 48125 0 0
+~
+~
+Door 3 0 0 48127 0 0
+~
+~
+End
+
+#48127
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Reset M 48129 1 100
+Reset O 48009 -1 50
+Door 0 0 0 48136 0 0
+~
+~
+Door 1 0 0 48126 0 0
+~
+~
+Door 2 0 0 48124 0 0
+~
+~
+Door 3 0 0 48128 0 0
+~
+~
+End
+
+#48128
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square. 
+~
+Door 0 0 0 48135 0 0
+~
+~
+Door 1 0 0 48127 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 48129 0 0
+~
+~
+End
+
+#48129
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48134 0 0
+~
+~
+Door 1 0 0 48128 0 0
+~
+~
+Door 2 0 0 48130 0 0
+~
+~
+Door 3 0 0 48132 0 0
+~
+~
+End
+
+#48130
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square. 
+~
+Door 0 0 0 48129 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 3 0 0 48131 0 0
+~
+~
+End
+
+#48131
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48132 0 0
+~
+~
+Door 1 0 0 48130 0 0
+~
+~
+Door 2 0 0 48121 0 0
+~
+~
+End
+
+#48132
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square. A small house door is to the west. 
+~
+Door 0 0 0 48133 0 0
+~
+~
+Door 1 0 0 48129 0 0
+~
+~
+Door 2 0 0 48131 0 0
+~
+~
+Door 3 515 0 48143 30 30
+~
+a small door~
+End
+
+#48133
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48142 0 0
+~
+~
+Door 1 0 0 48134 0 0
+~
+~
+Door 2 0 0 48132 0 0
+~
+~
+End
+
+#48134
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48141 0 0
+~
+~
+Door 1 0 0 48135 0 0
+~
+~
+Door 2 0 0 48129 0 0
+~
+~
+Door 3 0 0 48133 0 0
+~
+~
+End
+
+#48135
+Name A Small Town Square~
+Descr
+The town square has much to offer. A nice fountain covers the whole
+middle part of the square with small shops setup around it. Resting by the
+fountain seems to help restore magical powers and also heal a small bit.
+This might be a good place to meditate. 
+~
+Flags 3145728
+Reset O 48019 -5 100
+Door 0 0 0 48140 0 0
+~
+~
+Door 1 0 0 48136 0 0
+~
+~
+Door 2 0 0 48128 0 0
+~
+~
+Door 3 0 0 48134 0 0
+~
+~
+End
+
+#48136
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48139 0 0
+~
+~
+Door 1 0 0 48137 0 0
+~
+~
+Door 2 0 0 48127 0 0
+~
+~
+Door 3 0 0 48135 0 0
+~
+~
+End
+
+#48137
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 0 0 0 48138 0 0
+~
+~
+Door 2 0 0 48126 0 0
+~
+~
+Door 3 0 0 48136 0 0
+~
+~
+End
+
+#48138
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square. Some sort of dark alley heads north.
+~
+Door 0 0 0 48148 0 0
+~
+~
+Door 2 0 0 48137 0 0
+~
+~
+Door 3 0 0 48139 0 0
+~
+~
+End
+
+#48139
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 1 0 0 48138 0 0
+~
+~
+Door 2 0 0 48136 0 0
+~
+~
+Door 3 0 0 48140 0 0
+~
+~
+End
+
+#48140
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Reset M 48129 1 100
+Reset O 48010 -1 50
+Door 1 0 0 48139 0 0
+~
+~
+Door 2 0 0 48135 0 0
+~
+~
+Door 3 0 0 48141 0 0
+~
+~
+End
+
+#48141
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square. A door to a house it to the north. 
+~
+Door 0 515 0 48145 30 30
+~
+wooden door~
+Door 1 0 0 48140 0 0
+~
+~
+Door 2 0 0 48134 0 0
+~
+~
+Door 3 0 0 48142 0 0
+~
+~
+End
+
+#48142
+Name A City Courtyard~
+Descr
+This seems to be a big courtyard that circles the town square. The
+courtyard is made of some very fine and smooth stone, it almost gives off a
+magical glow. There are shops where you can buy armor, weapons, food, and
+other supplies in the town square.
+~
+Door 1 0 0 48141 0 0
+~
+~
+Door 2 0 0 48133 0 0
+~
+~
+End
+
+#48143
+Name A Small House~
+Descr
+An entrance to a small home. In the entrace way a ragged carpet lies on
+the floor. Wooden beams run across the ceiling that seem to be infested with
+termites. The walls do not look much better as they are plain. The hallway
+heads to the north further into the house. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 48144 0 0
+~
+~
+Door 1 0 0 48132 0 0
+~
+~
+End
+
+#48144
+Name A Small Bedroom~
+Descr
+This is a small bedroom with only a few sheets of cloth and a little bit
+of hey lying on the floor. It looks as if these materials are a make-shift
+type of bed for who ever sleeps on them. There are a few holes in the walls
+but the house seems to still be standing. 
+~
+Flags 4
+Sector 0
+Reset M 48144 1 100
+Reset M 48144 1 100
+Reset M 48144 1 100
+Reset M 48144 1 100
+Reset M 48144 1 100
+Reset M 48144 1 100
+Door 2 0 0 48143 0 0
+~
+~
+End
+
+#48145
+Name A Small House~
+Descr
+An entrance to a decent size home. In the entrace way a nice carpet lies
+on the floor. Wooden beams run across the ceiling and there are nice
+tapestries on the walls. The hallway heads to the east further into the
+house. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 48146 0 0
+~
+~
+Door 2 515 0 48141 30 30
+~
+wooden door~
+End
+
+#48146
+Name A Small House~
+Descr
+This home seems to be a wealthy citizens home. It has a nice fireplace in
+the middle of the room, many fancy looking candle holders that might be made
+of all gold, and very nice looking furniture. There are only a few windows
+in this room, only dense forest can be seen out them.
+~
+Flags 4
+Sector 0
+Door 1 0 0 48147 0 0
+~
+~
+Door 3 0 0 48145 0 0
+~
+~
+End
+
+#48147
+Name A Bedroom in a Small House~
+Descr
+This is a very well decorated bedroom. A very fancy comfortable looking
+bed is at the far wall almost perfectly centered. There does not seem to be
+much more to this room to the west is the way out of the bedroom. 
+~
+Flags 4
+Sector 0
+Reset M 48147 1 100
+Reset M 48147 1 100
+Reset M 48147 1 100
+Reset M 48147 1 100
+Reset M 48147 1 100
+Reset M 48147 1 100
+Door 3 0 0 48146 0 0
+~
+~
+End
+
+#48148
+Name A Small Alley~
+Descr
+A dark alley leads to the north. It is filled with garbage and rats
+running around. This would be a good place for thieves or assassins to hang
+out. 
+~
+Door 0 0 0 48149 0 0
+~
+~
+Door 2 0 0 48138 0 0
+~
+~
+End
+
+#48149
+Name A Small Alley~
+Descr
+A dark alley leads to the north. It is filled with garbage and rats
+running around. This would be a good place for thieves or assassins to hang
+out.
+~
+Door 0 0 0 48150 0 0
+~
+~
+Door 2 0 0 48148 0 0
+~
+~
+End
+
+#48150
+Name A Small Alley~
+Descr
+A dark alley leads to the north. It is filled with garbage and rats
+running around. This would be a good place for thieves or assassins to hang
+out.
+~
+Reset M 48150 1 100
+Reset O 48150 -1 50
+Reset O 417 -1 20
+Reset O 416 -1 20
+Reset O 409 -1 20
+Reset O 408 -1 20
+Reset O 415 -1 20
+Reset O 411 -1 20
+Reset O 412 -1 20
+Door 2 0 0 48149 0 0
+~
+~
+End
+
+#48151
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48098 0 0
+~
+~
+Door 2 0 0 48162 0 0
+~
+~
+Door 3 0 0 48152 0 0
+~
+~
+End
+
+#48152
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48151 0 0
+~
+~
+Door 2 0 0 48161 0 0
+~
+~
+Door 3 0 0 48153 0 0
+~
+~
+End
+
+#48153
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48152 0 0
+~
+~
+Door 2 0 0 48160 0 0
+~
+~
+Door 3 0 0 48154 0 0
+~
+~
+End
+
+#48154
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48153 0 0
+~
+~
+Door 2 0 0 48159 0 0
+~
+~
+Door 3 0 0 48155 0 0
+~
+~
+End
+
+#48155
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48154 0 0
+~
+~
+Door 2 0 0 48158 0 0
+~
+~
+Door 3 0 0 48156 0 0
+~
+~
+End
+
+#48156
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 1 0 0 48155 0 0
+~
+~
+Door 2 0 0 48157 0 0
+~
+~
+End
+
+#48157
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48156 0 0
+~
+~
+Door 1 0 0 48158 0 0
+~
+~
+Door 2 0 0 48168 0 0
+~
+~
+End
+
+#48158
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48155 0 0
+~
+~
+Door 1 0 0 48159 0 0
+~
+~
+Door 2 0 0 48167 0 0
+~
+~
+Door 3 0 0 48157 0 0
+~
+~
+End
+
+#48159
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48154 0 0
+~
+~
+Door 1 0 0 48160 0 0
+~
+~
+Door 2 0 0 48166 0 0
+~
+~
+Door 3 0 0 48158 0 0
+~
+~
+End
+
+#48160
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48027 100 1
+Reset M 48026 100 1
+Door 0 0 0 48153 0 0
+~
+~
+Door 1 0 0 48161 0 0
+~
+~
+Door 2 0 0 48165 0 0
+~
+~
+Door 3 0 0 48159 0 0
+~
+~
+End
+
+#48161
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48152 0 0
+~
+~
+Door 1 0 0 48162 0 0
+~
+~
+Door 2 0 0 48164 0 0
+~
+~
+Door 3 0 0 48160 0 0
+~
+~
+End
+
+#48162
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 100 1
+Door 0 0 0 48151 0 0
+~
+~
+Door 1 0 0 48097 0 0
+~
+~
+Door 2 0 0 48163 0 0
+~
+~
+Door 3 0 0 48161 0 0
+~
+~
+End
+
+#48163
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48162 0 0
+~
+~
+Door 1 0 0 48096 0 0
+~
+~
+Door 2 0 0 48174 0 0
+~
+~
+Door 3 0 0 48164 0 0
+~
+~
+End
+
+#48164
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48161 0 0
+~
+~
+Door 1 0 0 48163 0 0
+~
+~
+Door 2 0 0 48173 0 0
+~
+~
+Door 3 0 0 48165 0 0
+~
+~
+End
+
+#48165
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48028 100 1
+Door 0 0 0 48160 0 0
+~
+~
+Door 1 0 0 48164 0 0
+~
+~
+Door 2 0 0 48172 0 0
+~
+~
+Door 3 0 0 48166 0 0
+~
+~
+End
+
+#48166
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48159 0 0
+~
+~
+Door 1 0 0 48165 0 0
+~
+~
+Door 2 0 0 48171 0 0
+~
+~
+Door 3 0 0 48167 0 0
+~
+~
+End
+
+#48167
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48158 0 0
+~
+~
+Door 1 0 0 48166 0 0
+~
+~
+Door 2 0 0 48170 0 0
+~
+~
+Door 3 0 0 48168 0 0
+~
+~
+End
+
+#48168
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48025 100 1
+Door 0 0 0 48157 0 0
+~
+~
+Door 1 0 0 48167 0 0
+~
+~
+Door 2 0 0 48169 0 0
+~
+~
+End
+
+#48169
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Reset M 48026 100 1
+Door 0 0 0 48168 0 0
+~
+~
+Door 1 0 0 48170 0 0
+~
+~
+End
+
+#48170
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48167 0 0
+~
+~
+Door 1 0 0 48171 0 0
+~
+~
+Door 3 0 0 48169 0 0
+~
+~
+End
+
+#48171
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48166 0 0
+~
+~
+Door 1 0 0 48172 0 0
+~
+~
+Door 3 0 0 48170 0 0
+~
+~
+End
+
+#48172
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48165 0 0
+~
+~
+Door 1 0 0 48173 0 0
+~
+~
+Door 3 0 0 48171 0 0
+~
+~
+End
+
+#48173
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48164 0 0
+~
+~
+Door 1 0 0 48174 0 0
+~
+~
+Door 3 0 0 48172 0 0
+~
+~
+End
+
+#48174
+Name A Small Magical Forest~
+Descr
+It seems some of the magic powers that destroyed the old world made a
+magical forest with in the bottom of this cave. Even though this forest
+seems to be below the earth somehow the sun shines through the tops of the
+trees, or at least it seems to be the sun. Many different animals wander in
+the forest looking for food.
+~
+Sector 3
+Door 0 0 0 48163 0 0
+~
+~
+Door 1 0 0 48095 0 0
+~
+~
+Door 3 0 0 48173 0 0
+~
+~
+End
+
+#48175
+Name ~
+Descr
+~
+End
+
+#48180
+Name A Small Training Area~
+Descr
+This small training area is filled with many different kinds of weapons,
+armors, and dummys. Many slash marks can be seen in the walls from what
+might have been new trainees using a sword for their first time. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 48181 0 0
+~
+~
+Door 3 3 0 48121 30 30
+~
+door~
+End
+
+#48181
+Name A Small Training Area~
+Descr
+This small training area is filled with many different kinds of weapons,
+armors, and dummys. Many slash marks can be seen in the walls from what
+might have been new trainees using a sword for their first time. 
+~
+Flags 4
+Sector 0
+Reset M 48181 1 100
+Reset O 24311 -1 20
+Reset O 24308 -1 20
+Door 3 0 0 48180 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

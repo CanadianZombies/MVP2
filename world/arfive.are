@@ -1,0 +1,1230 @@
+#AREADATA 
+Name The Southern Highway~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin Sharlanti~
+VNUMs 10101 10199
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#10101
+Name test script person~
+Short test script person~
+Long 
+Test script person is here.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 3
+Money 90
+Level 90
+Sex 1
+Guard 0
+End
+
+#10102
+Name girl young~
+Short a young girl~
+Long 
+A young girl walks around here, helping her mother with chores.
+~
+Descr
+This young girl is quite muscular and looks like a hard worker.  I bet
+her mother is glad to have her helping her with chores around the house.  
+~
+AMax 1
+AYeller 2
+AWillhelp 1
+NHeight 0
+ActBits 1
+ActBits4 8192
+Alignment 50
+Money 5
+Level 5
+Sex 2
+MobType 0
+Guard 0
+End
+
+#10103
+Name woman mother house~
+Short a woman~
+Long 
+The woman of the house is here, whistling while she works.
+~
+Descr
+This woman looks hardened and quite muscular, and you can tell by the
+smile on her face that she has had a hard but happy life.  
+~
+AMax 1
+AYeller 2
+AWillhelp 1
+NHeight 0
+ActBits 1
+ActBits4 8192
+Affect_By 512
+Money 11
+Level 11
+Sex 2
+MobType 0
+Guard 0
+End
+
+#10104
+Name strong farmer~
+Short a strong farmer~
+Long 
+A strong farmer is here, going about his business.
+~
+Descr
+His muscles, and hardened face tell of many years in the field.  However,
+from the size of his farmhouse, you can tell he has live a happy, profitable
+life as a farmer.  
+~
+AMax 1
+AYeller 2
+AWillhelp 1
+NHeight 0
+ActBits 1
+ActBits4 8192
+Affect_By 512
+Money 15
+Level 15
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#10105
+Name squirrel~
+Short a squirrel~
+Long 
+A squirrel is here, looking for nuts that have falled from trees nearby.
+~
+Descr
+~
+AMax 5
+AYeller 3
+AWillhelp 1
+NHeight 0
+ActBits 17
+ActBits4 12288
+Affect_By 512
+Money 2
+Level 2
+MobType 18
+Guard 0
+End
+
+#10106
+Name warrior cult member~
+Short a Warrior cult member~
+Long 
+A warrior cult member is standing here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 3
+ShopCr 2050
+ShopCS the cultist snaps his fingers and a token appears.~
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#10101
+Name The Southern Highway~
+Descr
+This large, southern highway, located just south of the great city of
+Xylar, is broad and well-worn.  Fields of wheat, used to supply Xylarian
+citizens with food, grow on either side of the highway.  
+~
+Door 0 0 0 1187 0 0
+~
+~
+Door 1 0 0 10130 0 0
+~
+~
+Door 2 0 0 10102 0 0
+~
+~
+Door 3 0 0 1193 0 0
+~
+~
+End
+
+#10102
+Name The Southern Highway~
+Descr
+The worn, southern highway, well used beneath your feet, provides a soft,
+comfortable means of travel through the large, open fields of wheat that can
+be seen to both the east and west of the road.  
+~
+Door 0 0 0 10101 0 0
+~
+~
+Door 1 0 0 10132 0 0
+~
+~
+Door 2 0 0 10103 0 0
+~
+~
+Door 3 0 0 10131 0 0
+~
+~
+End
+
+#10103
+Name The Southern Highway~
+Descr
+The worn, southern highway, well used beneath your feet, provides a soft,
+comfortable means of travel through the large, open fields of wheat that can
+be seen to both the east and west of the road.  
+~
+Door 0 0 0 10102 0 0
+~
+~
+Door 1 0 0 10134 0 0
+~
+~
+Door 2 0 0 10104 0 0
+~
+~
+Door 3 0 0 10133 0 0
+~
+~
+End
+
+#10104
+Name The Southern Highway~
+Descr
+The dark, fertile soil alongside the road provides an excellent
+environment for plants to prosper in.  Many large bushes, and several
+massive ferns grow along side the highway here.  
+~
+Door 0 0 0 10103 0 0
+~
+~
+Door 1 0 0 10138 0 0
+~
+~
+Door 2 0 0 10105 0 0
+~
+~
+Door 3 0 0 10135 0 0
+~
+~
+End
+
+#10105
+Name The Southern Highway~
+Descr
+The highway runs north and south here, and far to the north you can see
+the two great towers of Xylar, reaching up like rigid fingers, pointing at
+the sky.  There are fields of crops to the east and west.  
+~
+Door 0 0 0 10104 0 0
+~
+~
+Door 1 0 0 10139 0 0
+~
+~
+Door 2 0 0 10106 0 0
+~
+~
+Door 3 0 0 10136 0 0
+~
+~
+End
+
+#10106
+Name The Southern Highway~
+Descr
+The worn, southern highway, well used beneath your feet, provides a soft,
+comfortable means of travel through the large, open fields of wheat that can
+be seen to both the east and west of the road.  
+~
+Door 0 0 0 10105 0 0
+~
+~
+Door 1 0 0 10140 0 0
+~
+~
+Door 2 0 0 10107 0 0
+~
+~
+Door 3 0 0 10137 0 0
+~
+~
+End
+
+#10107
+Name The Southern Highway~
+Descr
+The large highway makes travel easy, and the crisp, clean air makes
+travel pleasant as well.  Just to the south of here, you can see the highway
+bend, curving its way through the lush fields of wheat like a snake in sand.
+~
+Door 0 0 0 10106 0 0
+~
+~
+Door 1 0 0 10141 0 0
+~
+~
+Door 2 0 0 10108 0 0
+~
+~
+End
+
+#10108
+Name A Bend in the Highway~
+Descr
+The highway bends north and west here and a pleasant breeze blows against
+your tired body.  Far to the north you can make out the two great towers of
+Xylar, reaching up into the sky like fingers pointing to the heavens.  
+~
+Door 0 0 0 10107 0 0
+~
+~
+Door 1 0 0 10142 0 0
+~
+~
+Door 3 0 0 10109 0 0
+~
+~
+End
+
+#10109
+Name The Southern Highway~
+Descr
+Here the highway becomes most snake-like as the highway bends north just
+to the east and bends south just to the west.  A slight breeze caresses your
+face as you travel along this well-worn way.  
+~
+Reset M 10105 7 100
+Door 1 0 0 10108 0 0
+~
+~
+Door 3 0 0 10110 0 0
+~
+~
+End
+
+#10110
+Name A Bend in the Highway~
+Descr
+The highway bends south and west here and the breeze seems a bit warmer
+here than it does to the north.  Xylar has now completely vanished, not even
+the towers visible from your vantage point.  
+~
+Door 0 0 0 10157 0 0
+~
+~
+Door 1 0 0 10109 0 0
+~
+~
+Door 2 0 0 10111 0 0
+~
+~
+Door 3 0 0 10158 0 0
+~
+~
+End
+
+#10111
+Name The Southern Highway~
+Descr
+The highway runs north and south here and soon bends east to the north. 
+You are surrounded by green, grassy fields and the warm air is welcome
+relief from the many battles you have fought recently.  
+~
+Door 0 0 0 10110 0 0
+~
+~
+Door 3 0 0 10160 0 0
+~
+~
+End
+
+#10112
+Name The Southern Highway~
+Descr
+You travel along an easy north-south stretch of the southern highway and
+the warm, humid air envelops your body like a blanket.  This is surely the
+most pleasent walk you have ever had in your life.  
+~
+Door 0 0 0 2363 0 0
+~
+~
+Door 2 0 0 10113 0 0
+~
+~
+End
+
+#10113
+Name The Southern Highway~
+Descr
+The birds are singing and the calm stillness of the air is very relaxing.
+You are travelling along a straight section of the southern highway and you
+feel as if life couldn't be better right now.  
+~
+Door 0 0 0 10112 0 0
+~
+~
+Door 2 0 0 10114 0 0
+~
+~
+End
+
+#10114
+Name The Southern Highway~
+Descr
+The green, grassy fields seem thicker here, as does the air, when
+compared to that up north.  Just to the south you see the highway bend west,
+snaking a path through the fields around you.  
+~
+Door 0 0 0 10113 0 0
+~
+~
+Door 2 0 0 10115 0 0
+~
+~
+End
+
+#10115
+Name A Bend in the Highway~
+Descr
+As you get to the bend here, of which it heads north and west, you notice
+you are at the border of a light forest.  Every so often you see trees now,
+and to the south they grow thicker and more often.  
+~
+Door 0 0 0 10114 0 0
+~
+~
+Door 3 0 0 10116 0 0
+~
+~
+End
+
+#10116
+Name A Bend in the Highway~
+Descr
+You arrive at a curve in the southern highway.  To the east you can see
+it eventualy twist north through the fields while the southern route heads
+straight through the forest.  
+~
+Reset M 10105 7 100
+Door 1 0 0 10115 0 0
+~
+~
+Door 2 0 0 10117 0 0
+~
+~
+End
+
+#10117
+Name The Southern Highway~
+Descr
+The forest grows a bit thicker here than to the north, almost blocking
+out the natural light.  The air also seems warmer here too, when compared to
+that of the north.  The highway itself seems to split the forest, heading
+straight north and south.  
+~
+Door 0 0 0 10116 0 0
+~
+~
+Door 2 0 0 10118 0 0
+~
+~
+End
+
+#10118
+Name The Southern Highway~
+Descr
+This straight north-south section of the southern highway makes
+travelling the forest much easier.  Trees grow tall all around you and the
+air itself seems sweltering now.  To the south you see the highway start to
+bend.  
+~
+Door 0 0 0 10117 0 0
+~
+~
+Door 2 0 0 10119 0 0
+~
+~
+End
+
+#10119
+Name A Bend in the Highway~
+Descr
+The highway bends to the north and west here, and a pleasant breeze blows
+gently against your face.  The smell of pine and ferns lingers in the air,
+and you can see healthy, green trees growing all around the road.  
+~
+Door 0 0 0 10118 0 0
+~
+~
+Door 3 0 0 10120 0 0
+~
+~
+End
+
+#10120
+Name The Southern Highway~
+Descr
+The highway runs east and west here, and large, healthy trees border it
+on either side of the road.  The air is fresh, and blowing spores from
+nearby ferns give it an odd, natural auroma.  
+~
+Door 1 0 0 10119 0 0
+~
+~
+Door 3 0 0 10121 0 0
+~
+~
+End
+
+#10121
+Name The Southern Highway~
+Descr
+This long portion of the southern highway runs east and west.  A pleasant
+breeze rustles through the leaves of the large trees that border the road. 
+Birds and other small animals can be heard rustling around in the low
+underbrush.  
+~
+Door 1 0 0 10120 0 0
+~
+~
+Door 3 0 0 10122 0 0
+~
+~
+End
+
+#10122
+Name The Southern Highway~
+Descr
+The highway runs east and west here, and large, healthy trees border it
+on either side of the road.  The air is fresh, and blowing spores from
+nearby ferns give it an odd, natural auroma.  
+~
+Door 1 0 0 10121 0 0
+~
+~
+Door 3 0 0 10123 0 0
+~
+~
+End
+
+#10123
+Name The Southern Highway~
+Descr
+This long portion of the southern highway runs east and west.  A pleasant
+breeze rustles through the leaves of the large trees that border the road. 
+Birds and other small animals can be heard rustling around in the low
+underbrush.  
+~
+Door 1 0 0 10122 0 0
+~
+~
+Door 3 0 0 10124 0 0
+~
+~
+End
+
+#10124
+Name A Bend in the Highway~
+Descr
+The highway bends to the east and south here.  The soil underfoot is soft
+and dark, and it makes for extremely easy travelling through this forested
+area.  Small flowers and dense underbrush grows on either side of the
+highway here.  
+~
+Door 1 0 0 10123 0 0
+~
+~
+Door 2 0 0 10125 0 0
+~
+~
+End
+
+#10125
+Name The Southern Highway~
+Descr
+The black, soft soil on the highway here makes for easy travelling, and
+also allows many beautiful flowers and plants to grow.  Particles of pollen
+and some leaves flutter around in the gentle breeze that blows here.  
+~
+Door 0 0 0 10124 0 0
+~
+~
+Door 2 0 0 10126 0 0
+~
+~
+End
+
+#10126
+Name A Bend in the Highway~
+Descr
+The highway bends to the north and west here, and a pleasant breeze blows
+gently against your face.  The smell of pine and ferns lingers in the air,
+and you can see healthy, green trees growing all around the road.  
+~
+Door 0 0 0 10125 0 0
+~
+~
+Door 3 0 0 10127 0 0
+~
+~
+End
+
+#10127
+Name The Southern Highway~
+Descr
+The highway runs east and west here, and large, healthy trees border it
+on either side of the road.  The air is fresh, and blowing spores from
+nearby ferns give it an odd, natural auroma.  
+~
+Door 1 0 0 10126 0 0
+~
+~
+Door 3 0 0 10128 0 0
+~
+~
+End
+
+#10128
+Name The Southern Highway~
+Descr
+The black, soft soil on the highway here makes for easy travelling, and
+also allows many beautiful flowers and plants to grow.  Particles of pollen
+and some leaves flutter around in the gentle breeze that blows here.  
+~
+Door 1 0 0 10127 0 0
+~
+~
+Door 3 0 0 10129 0 0
+~
+~
+End
+
+#10129
+Name A Bend in the Highway~
+Descr
+The highway bends to the east and south here.  The soil underfoot is soft
+and dark, and it makes for extremely easy travelling through this forested
+area.  Small flowers and dense underbrush grows on either side of the
+highway here.  
+~
+Door 1 0 0 10128 0 0
+~
+~
+Door 2 0 0 10701 0 0
+~
+~
+End
+
+#10130
+Name An Open Field of Wheat~
+Descr
+You stand in a large, expansive field of wheat.  A gentle breeze causes
+the stalks to sway back and forth, creating a beautiful rippling effect that
+seems to dance across the golden field.  
+~
+Sector 2
+Door 0 0 0 1188 0 0
+~
+~
+Door 1 0 0 4867 0 0
+~
+~
+Door 2 0 0 10132 0 0
+~
+~
+Door 3 0 0 10101 0 0
+~
+~
+End
+
+#10131
+Name An Open Field of Wheat~
+Descr
+You stand in a large, expansive field of wheat.  A gentle breeze causes
+the stalks to sway back and forth, creating a beautiful rippling effect that
+seems to dance across the golden field.  
+~
+Sector 2
+Door 0 0 0 1193 0 0
+~
+~
+Door 1 0 0 10102 0 0
+~
+~
+Door 2 0 0 10133 0 0
+~
+~
+End
+
+#10132
+Name A Path Around Xylar~
+Descr
+The trees here are moderately dense, and you can see a lightly forested
+area, much like this area, to the north.  The air is fresh and smells of
+flowers and pine, and the travel is easy upon the soft soil underfoot.
+~
+Door 0 0 0 10130 0 0
+~
+~
+Door 1 0 0 4862 0 0
+~
+~
+Door 2 0 0 10134 0 0
+~
+~
+Door 3 0 0 10102 0 0
+~
+~
+End
+
+#10133
+Name An Open Field of Wheat~
+Descr
+A warm breeze blows against you, and wheat brushes past your body,
+sending chills up your spine.  You can see the southern highway just to the
+east of here, and more fields of wheat to the north.  You can make out the
+two high towers of Xylar in the distance to the north.  
+~
+Sector 2
+Door 0 0 0 10131 0 0
+~
+~
+Door 1 0 0 10103 0 0
+~
+~
+Door 2 0 0 10135 0 0
+~
+~
+Door 3 0 0 5833 0 0
+~
+~
+End
+
+#10134
+Name An Open Field of Wheat~
+Descr
+You stand in a large, expansive field of wheat.  A gentle breeze causes
+the stalks to sway back and forth, creating a beautiful rippling effect that
+seems to dance across the golden field.
+~
+Sector 2
+Door 0 0 0 10132 0 0
+~
+~
+Door 1 0 0 4861 0 0
+~
+~
+Door 2 0 0 10138 0 0
+~
+~
+Door 3 0 0 10103 0 0
+~
+~
+End
+
+#10135
+Name An Open Field of Wheat~
+Descr
+Blades of grass brush up against your skin, and tickle you all over.  You
+feel as if many tiny bugs were crawling all over you, and the feeling is not
+unpleasant, just different.  You can see the highway to the east of here.  
+~
+Sector 2
+Door 0 0 0 10133 0 0
+~
+~
+Door 1 0 0 10104 0 0
+~
+~
+Door 2 0 0 10136 0 0
+~
+~
+Door 3 0 0 5839 0 0
+~
+~
+End
+
+#10136
+Name An Open Field of Wheat~
+Descr
+This open field of grass is golden brown, and it seems to shimmer as the
+wind gently blows each blade back and forth in unison.  The magnificent
+southern highway lies just to the east of here.  
+~
+Sector 2
+Door 0 0 0 10135 0 0
+~
+~
+Door 1 0 0 10105 0 0
+~
+~
+Door 2 0 0 10137 0 0
+~
+~
+End
+
+#10137
+Name An Open Field of Wheat~
+Descr
+Blades of grass brush up against your skin, and tickle you all over.  You
+feel as if many tiny bugs were crawling all over you, and the feeling is not
+unpleasant, just different.  You can see the highway to the east of here.  
+~
+Sector 2
+Door 0 0 0 10136 0 0
+~
+~
+Door 1 0 0 10106 0 0
+~
+~
+Door 2 0 0 0 30 30
+The wheat gets so thick to the south that you can't even go that way.
+~
+~
+End
+
+#10138
+Name An Open Field of Wheat~
+Descr
+The air is sweet and dry, and a gentle breeze creates magnificent waves
+in this large field of wheat.  You can see the southern highway just to the
+west of here, and the two magnificent towers of Xylar in the distance to the
+north.  
+~
+Sector 2
+Door 0 0 0 10134 0 0
+~
+~
+Door 2 0 0 10139 0 0
+~
+~
+Door 3 0 0 10104 0 0
+~
+~
+End
+
+#10139
+Name A Burnt Field~
+Descr
+The field here has been burnt, and the charred smell of burning
+vegetation still lingers in the dry air.  You can see the large southern
+highway open up to the west of here.  
+~
+Sector 2
+Door 0 0 0 10138 0 0
+~
+~
+Door 2 0 0 10140 0 0
+~
+~
+Door 3 0 0 10105 0 0
+~
+~
+End
+
+#10140
+Name A Fallow Field of Grass~
+Descr
+This field apparently has been left fallow this year.  The large,
+southern highway runs north and south just to the west of here, and a gentle
+breeze blows against you, sending little chills up your spine.  
+~
+Sector 2
+Door 0 0 0 10139 0 0
+~
+~
+Door 2 0 0 10141 0 0
+~
+~
+Door 3 0 0 10106 0 0
+~
+~
+End
+
+#10141
+Name An Open Field of Wheat~
+Descr
+You stand at the southern end of the wheat field, and the air around you
+swirls as it passes this natural border.  On the other side grows the grass
+that is so prevelant for this area while to the west the smooth southern
+highway continues its path north and south through the fields.  
+~
+Sector 2
+Reset M 10105 7 100
+Door 0 0 0 10140 0 0
+~
+~
+Door 1 0 0 10146 0 0
+~
+~
+Door 2 0 0 10142 0 0
+~
+~
+Door 3 0 0 10107 0 0
+~
+~
+End
+
+#10142
+Name A Green, Grassy Field~
+Descr
+The field here is green and lush.  You can see the southern highway just
+to the west of here, and a cool breeze rustles through your hair.  The field
+continues to the east, south, and north.  
+~
+Sector 2
+Door 0 0 0 10141 0 0
+~
+~
+Door 1 0 0 10145 0 0
+~
+~
+Door 2 0 0 10143 0 0
+~
+~
+Door 3 0 0 10108 0 0
+~
+~
+End
+
+#10143
+Name A Green, Grassy Field~
+Descr
+This lush, green field is covered with many different varieties of
+grasses and plants.  A large rock blocks your way to the south, and some
+dense trees block the way to the west.  
+~
+Sector 2
+Door 0 0 0 10142 0 0
+~
+~
+Door 1 0 0 10144 0 0
+~
+~
+End
+
+#10144
+Name A Green, Grassy Field~
+Descr
+This lush, green field is covered with many different varieties of
+grasses and plants.  A large rock blocks your way to the south, and some
+dense trees block the way to the east.  
+~
+Sector 2
+Door 0 0 0 10145 0 0
+~
+~
+Door 3 0 0 10143 0 0
+~
+~
+End
+
+#10145
+Name A Green, Grassy Field~
+Descr
+The field here is green and lush.  You can see the southern highway just
+to the west of here, and a cool breeze rustles through your hair.  The field
+continues to the west, south, and north.  
+~
+Sector 2
+Door 0 0 0 10146 0 0
+~
+~
+Door 2 0 0 10144 0 0
+~
+~
+Door 3 0 0 10142 0 0
+~
+~
+End
+
+#10146
+Name Outside a Farmhouse~
+Descr
+You stand in a field, just outside of a farmhouse.  You can see the
+southern highway off in the distance, far to the west of here.  The air is
+pleasant and clean, and smells slightly of hay.  
+~
+Flags 2
+Door 1 3 0 10147 30 30
+~
+door~
+Door 2 0 0 10145 0 0
+~
+~
+Door 3 0 0 10141 0 0
+~
+~
+End
+
+#10147
+Name Inside a Farmhouse~
+Descr
+This farmhouse is quite well decorated.  The front door can be seen just
+to the west side of the room, and the main foyer can be seen to the east. 
+The wonderful smell of rabbit stew lingers in the air.  
+~
+Flags 4
+Door 1 0 0 10148 0 0
+~
+~
+Door 3 3 0 10146 30 30
+~
+door~
+End
+
+#10148
+Name The Foyer~
+Descr
+You stand in the foyer of this well-furnished clanhouse.  The air smells
+of salty soup, and you can see the entrance just to the west of here.  The
+polished, wooden floor creaks as you travel over it.  
+~
+Flags 4
+Reset M 10103 1 100
+Door 1 0 0 10150 0 0
+~
+~
+Door 2 0 0 10151 0 0
+~
+~
+Door 3 0 0 10147 0 0
+~
+~
+Door 4 0 0 10149 0 0
+~
+~
+End
+
+#10149
+Name The Master Bedroom~
+Descr
+This large, master bedroom is spacious and well furnished.  A comfortable
+looking bed leans against the far side of the room, and some wooden stairs
+lead down here, back into the foyer.  
+~
+Flags 4
+Door 5 0 0 10148 0 0
+~
+~
+End
+
+#10150
+Name The Den~
+Descr
+You stand in the den of this comfortable, large farmhouse.  A large,
+stone fireplace adorns the northern wall.  You can see the main foyer to the
+west, and there is a backdoor to the east.  There is also a strange door in
+the floor, which you assume leads to the basement.  
+~
+Flags 4
+Reset M 10104 1 100
+Door 1 3 0 10152 30 30
+~
+door~
+Door 3 0 0 10148 0 0
+~
+~
+Door 5 3 0 10153 30 30
+~
+cellardoor~
+End
+
+#10151
+Name The Kitchen~
+Descr
+This kitchen is large, and you can tell that the family that lives in
+this farmhouse must be quite large.  The smell of lamb stew hangs heavy in
+the air, and makes your mouth water.  
+~
+Flags 4
+Reset M 10102 1 100
+Door 0 0 0 10148 0 0
+~
+~
+End
+
+#10152
+Name A Large Backyard~
+Descr
+This backyard is well-trimmed, and very large.  You can see a path that
+starts just to the east of here.  The large, white farmhouse rises up to the
+west of here.  The air is pleasant and fresh, and smells of freshly cut grass.  
+~
+Flags 2
+Door 1 0 0 10154 0 0
+~
+~
+Door 3 3 0 10150 30 30
+~
+door~
+End
+
+#10153
+Name The Cellar~
+Descr
+This cellar is damp and musty.  The earthen walls look like they could
+collapse at any moment, and you are anxious to return to the den, in the
+safety of the farmhouse above.  
+~
+Flags 4
+Door 4 3 0 10150 30 30
+~
+cellardoor~
+End
+
+#10154
+Name A Path through a Field~
+Descr
+This path through the field is overgrown with tall grasses, which brush
+up against your legs and tickle you.  Flying particles of hay blow gently
+into your eyes, inflaming them slightly, and making it difficult to see.  
+~
+Door 1 0 0 10155 0 0
+~
+~
+Door 3 0 0 10152 0 0
+~
+~
+End
+
+#10155
+Name A Path up to a Hill~
+Descr
+The path turns upward here, leading up to the summit of a small hill. 
+Rocks litter the ground in the overgrown grass, making for treacherous
+travelling for those on foot.  
+~
+Sector 4
+Door 1 0 0 10156 0 0
+~
+~
+Door 3 0 0 10154 0 0
+~
+~
+End
+
+#10156
+Name A Path up to a Hill~
+Descr
+The path turns upward here, leading up to the summit of a small hill. 
+Rocks litter the ground in the overgrown grass, making for treacherous
+travelling for those on foot.  
+~
+Sector 4
+Door 2 0 0 42835 0 0
+~
+~
+Door 3 0 0 10155 0 0
+~
+~
+End
+
+#10157
+Name A Lightly Forested Area~
+Descr
+This lightly forested area smells of fresh pine, and sap, which is
+carried along by the calm breeze that blows through these small pines.  You
+can see the road to the south of here.  
+~
+Door 2 0 0 10110 0 0
+~
+~
+Door 3 0 0 10159 0 0
+~
+~
+End
+
+#10158
+Name A Lightly Forested Area~
+Descr
+This lightly forested area smells of fresh pine, and sap, which is
+carried along by the calm breeze that blows through these small pines.  You
+can see the road to the east of here.  
+~
+Reset M 10105 7 100
+Door 0 0 0 10159 0 0
+~
+~
+Door 1 0 0 10110 0 0
+~
+~
+Door 2 0 0 10160 0 0
+~
+~
+End
+
+#10159
+Name A Lightly Forested Area~
+Descr
+The trees are quite tall here, although still widely spread apart, and
+the smell of pine sap lingers in the air.  Low branches brush against your
+legs, and make it moderately difficult to travel in this area.  
+~
+Sector 3
+Reset M 10105 7 100
+Door 1 0 0 10157 0 0
+~
+~
+Door 2 0 0 10158 0 0
+~
+~
+End
+
+#10160
+Name A Lightly Forested Area~
+Descr
+The trees are quite tall here, although still widely spread apart, and
+the smell of pine sap lingers in the air.  Low branches brush against your
+legs, and make it moderately difficult to travel in this area.  
+~
+Door 0 0 0 10158 0 0
+~
+~
+Door 1 0 0 10111 0 0
+~
+~
+Door 3 0 0 2399 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,2459 @@
+#AREADATA 
+Name Evil Outpost~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 30
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Azathoth~
+VNUMs 40000 40200
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#40000
+Name bigass orc guard~
+Short Bigass the Orc~
+Long 
+Bigass the Orc stands here, guarding the Outpost from the forces of good.
+~
+Descr
+A GIGANTIC orc stands before you, it is obvious how he got his name. Bigass
+has devoted his life to protecting this outpost from all that is good, and
+he does quite a good job of it. Don't mess with him.
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 8192
+Affect_By 8
+Alignment -500
+Money 50
+Level 50
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+RaceHate 67108864
+ArmorClass -150
+End
+
+#40001
+Name bigass cousin banker teller~
+Short A Bank Teller~
+Long 
+Bigass's cousin, the Bank Teller, stands here counting money.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 131075
+ActBits3 524288
+Money 80
+Level 80
+MobType 25
+Guard 0
+BCasts blindness~
+End
+
+#40002
+Name orc shopkeeper og~
+Short a shopkeeper~
+Long 
+The orcish shopkeeper for Og's weapons grins insanely at you.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 1048579
+Alignment -250
+Money 110
+Level 110
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+Shop    0   5   0   0   0 135 30 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -200
+End
+
+#40003
+Name weak orc~
+Short a weak orc~
+Long 
+A weak-looking Orc wanders here.
+~
+Descr
+~
+AMax 8
+NHeight 0
+ActBits 1
+Money 6
+Level 6
+Sex 1
+MobType 25
+Guard 0
+End
+
+#40004
+Name man heretic x~
+Short A Heretic~
+Long 
+A shady man with the letter X burnt into his head wanders here.
+~
+Descr
+A strange man stands before you dressed in a black cloak and hood.. As
+he looks at you you notice the letter X burnt into his head!
+~
+AMax 3
+NHeight 0
+ActBits 5
+Alignment -100
+Money 43
+Level 43
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#40005
+Name orc traveller~
+Short an orcish traveller~
+Long 
+An orcish traveller roams throughout the outpost.
+~
+Descr
+This orc looks as if he has travelled quite a bit in his lifetime. He is
+in peak physical condition, and appears to be an accomplished fighter.
+~
+AMax 5
+NHeight 0
+ActBits 1
+Alignment -100
+Money 15
+Level 15
+Sex 1
+MobType 25
+Guard 0
+End
+
+#40006
+Name sneaky small dark elf drow~
+Short A small drow~
+Long 
+A sneaky, small dark elf eyes your coin pouch.
+~
+Descr
+The small drow before you appears to be quite young, but not new to the
+realm of thievery. He grins evily at your coin pouch.
+~
+AMax 8
+NHeight 0
+ActBits 1
+Money 5
+Level 5
+Sex 1
+MobType 26
+Guard 0
+Spec spec_thief
+End
+
+#40007
+Name drow dark elf traveller~
+Short A drow traveller~
+Long 
+A hardened dark elf traveller roams the outpost.
+~
+Descr
+This dark elf appears to be a seasoned traveller. Draped in chain mail and
+robes he walks throughout the outpost with a grin, looking for action.
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 17
+Level 17
+Sex 1
+MobType 26
+Guard 0
+End
+
+#40008
+Name large troll adventurer~
+Short a troll adventurer~
+Long 
+A huge troll adventurer looks down at you and laughs.
+~
+Descr
+The gigantic troll before you commands an aura of respect from all those he
+encounters in the outpost. His sheer size allows him to be an excellent
+fighter, making the largest foes cower before him.
+~
+AMax 2
+NHeight 0
+ActBits 1
+Alignment -100
+Money 58
+Level 58
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#40009
+Name experienced dark elf drow thief~
+Short A drow thief~
+Long 
+An experienced-looking drow thief lurks in the shadows.
+~
+Descr
+Standing in the shadows here is a drow thief. He has seen many days from the
+streets of the outpost, and is no stranger to theft. You sense that he has
+made a pretty good living for himself preying on others.
+ 
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 11
+Level 11
+Sex 1
+MobType 26
+Guard 0
+Spec spec_thief
+End
+
+#40010
+Name orc thug~
+Short an orcish thug~
+Long 
+A large orcish thug is here, cleaning the remains of an elf off his gloves.
+~
+Descr
+A large orc towers above you. He is obviously an experienced bully and
+thug who is used to pushing peons like you around.
+~
+AMax 2
+NHeight 0
+ActBits 3
+Alignment -100
+Money 20
+Level 20
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#40013
+Name female drow adventurer~
+Short A female drow adventurer~
+Long 
+A tall and confident female drow adventurer stands here proudly.
+~
+Descr
+The female drow before you is tall and strong dressed in black armor. She
+has light blue skin and long white hair. She glares at you with red eyes
+and casts you an evil grin. She has an air of wicked beauty about her.
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment -200
+Money 47
+Level 47
+Sex 2
+MobType 26
+Guard 0
+Spec spec_warrior
+ArmorClass -50
+End
+
+#40014
+Name orc orcish gladiator~
+Short an orcish gladiator~
+Long 
+An orcish gladiator wildly attacks his opponents here.
+~
+Descr
+This large gladiator is obviously an accomplished fighter. He has seen much
+bloodshed in his lifetime, and has started to live for it.
+~
+AMax 6
+NHeight 0
+ActBits 1
+Money 7
+Level 7
+Sex 1
+MobType 25
+Guard 0
+End
+
+#40015
+Name orc veteran gladiator~
+Short a veteran orcish gladiator~
+Long 
+A strong-looking orcish gladiator smashes his opponents here.
+~
+Descr
+This orcish gladiator is larger than the rest. His sheer size makes him
+a fearsome opponent, and allows him to cut through the rest with ease.
+~
+AMax 4
+NHeight 0
+ActBits 1
+Money 15
+Level 15
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#40016
+Name barbarian gladiator~
+Short A barbarian gladiator~
+Long 
+A large barbarian gladiator berserks through his opponents!
+~
+Descr
+The gladiator before you is a human barbarian. His savage upbringings have
+made him a fierce warrior. He berserks through his opponents like an animal
+screaming and yelling as he cuts them to pieces in a frenzied bloodbath.
+~
+AMax 2
+NHeight 0
+ActBits 1
+Money 23
+Level 23
+Sex 1
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#40017
+Name troll gladiator~
+Short a troll gladiator~
+Long 
+A huge troll gladiator finishes off his opponent and glares at you.
+~
+Descr
+The large troll before you is the largest gladiator in the arena. The others
+fear to go near him. His fighting abilities have made him the best, and
+the richest.
+~
+Attackmsg scratch~
+AMax 1
+NHeight 0
+ActBits 3
+Money 39
+Level 39
+Sex 1
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#40018
+Name man evil hero~
+Short an evil hero~
+Long 
+A large evil man dressed in mysterious black armor enjoys a drink here.
+~
+Descr
+This large man has been an adventurer for years. His fighting abilities
+have made him a hero among the evil races.
+~
+AMax 2
+NHeight 0
+ActBits 1
+Affect_By 40
+Alignment -200
+Money 62
+Level 62
+Sex 1
+MobType 0
+Guard 0
+ArmorClass -125
+End
+
+#40019
+Name man evil human~
+Short an evil human~
+Long 
+An evil looking human gropes a barmaid obscenely and laughs.
+~
+Descr
+~
+AMax 6
+NHeight 0
+ActBits 1
+Alignment -200
+Money 20
+Level 20
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40020
+Name man evil ranger~
+Short An evil ranger~
+Long 
+A large evil man who appears to be a former ranger stands in the shadows.
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 1
+Alignment -200
+Money 30
+Level 30
+Sex 1
+MobType 0
+Guard 0
+End
+
+#40021
+Name a barmaid~
+Short a barmaid~
+Long 
+A busty barmaid pushes through the hordes of groping men.
+~
+Descr
+This large breasted barmaid has the unpleasant task of serving the rowdy
+patrons of the Gouged Eye. Her beautiful physical attributes make it worse
+on her.
+~
+AMax 3
+NHeight 0
+ActBits 1
+Money 10
+Level 10
+Sex 2
+MobType 0
+Guard 0
+End
+
+#40022
+Name elf male~
+Short An elven male~
+Long 
+A tall, elven male prepares to defend his home from you!
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits -2147483645
+Affect_By 8
+Money 300
+Level 6
+Sex 1
+MobType 1
+Guard 0
+RaceHate 134217728
+End
+
+#40023
+Name elven mother elf~
+Short An elven mother~
+Long 
+A tall and beautiful elven woman defends her children!
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 520
+Alignment 200
+Money 300
+Level 5
+Sex 2
+MobType 1
+Guard 0
+RaceHate 134217728
+End
+
+#40024
+Name horkon heartripper shopkeeper~
+Short Horkon Heartripper~
+Long 
+Horkon Heartripper, owner of the store, stares at you from behind the counter.
+~
+Descr
+A former brave warrior, Horkon now dresses in tattered rags to sell weapons.
+~
+AMax 1
+NHeight 0
+ActBits 1048579
+Money 80
+Level 80
+Sex 1
+MobType 26
+Guard 0
+Spec spec_warrior
+Shop    0   5   0   0   0 110 30 0 23
+Shopd2 5
+Shopd3 4
+ArmorClass -50
+End
+
+#40025
+Name mighty zug shopkeeper~
+Short The Mighty Zug~
+Long 
+The formerly Mighty Zug stands behind the counter ready to sell you provisions.
+~
+Descr
+A huge human in his days, Zug is now an old man selling provisions.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 90
+Level 90
+Sex 1
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 115 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40026
+Name krug painspear shopkeeper~
+Short Krug Painspear~
+Long 
+Krug Painspear, an ancient orc, shows you his neat magical stuff.
+~
+Descr
+Old and toothless, Krug has become a feeble excuse for an orc.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Money 75
+Level 75
+Sex 1
+MobType 25
+Guard 0
+Shop    3  21   2  10   4 132 28 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40027
+Name hubris rakarth shopkeeper~
+Short Hubris Rakarth~
+Long 
+Hubris Rakarth, a former dark-elf warrior stands behind the counter.
+~
+Descr
+Old and grey, Hubris's wrinkled blue skin shows the effects of a hard life.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 80
+Level 80
+Sex 1
+MobType 26
+Guard 0
+Spec spec_warrior
+Shop    0   9   0   0   0 120 35 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40028
+Name shopkeeper boat old man~
+Short The boat man~
+Long 
+A strange old man stands here, carving a canoe out of a tree.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 30
+Level 30
+Sex 1
+Guard 0
+End
+
+#40029
+Name og shopkeeper baker~
+Short Og's baker~
+Long 
+The shopkeeper for Og's bakery smiles strangely as you enter.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 75
+Level 75
+Sex 1
+MobType 25
+Guard 0
+Shop    0   0   0   0   0 110 40 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40030
+Name og shopkeeper armor~
+Short Og's Armor Guy~
+Long 
+The shopkeeper for Og's Armor druels all over himself.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2097155
+Money 75
+Level 75
+Sex 1
+MobType 25
+Guard 0
+Shop    0   9   0   0   0 120 35 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40031
+Name og~
+Short Og~
+Long 
+Og himself stands here, selling miscellaneous items.
+~
+Descr
+Og is a gigantic orc who has led an extremely rich life. He is dressed in
+the finest clothes and has paid for the best combat training in the world.
+He is quite a formidable opponent.
+~
+AMax 1
+NHeight 0
+ActBits 3
+Money 100
+Level 100
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+Shop    0   0   0   0   0 110 22 0 23
+Shopd2 5
+Shopd3 4
+End
+
+#40035
+Name anti bubba evil paladin huge~
+Short The anti-bubba~
+Long 
+A HUGE anti-paladin dressed in thick black armor surveys the area.
+~
+Descr
+The anti-bubba is a huge evil warrior dressed in thick black plate. He is
+much bigger than anyone you have ever seen before, (except maybe Bigass)
+and much, MUCH more evil.
+~
+AMax 1
+NHeight 0
+ActBits 1
+ActBits3 1048576
+Affect_By 520
+Alignment -500
+Money 70
+Level 70
+Sex 1
+Guard 0
+ArmorClass -150
+End
+
+#40036
+Name orc outpost guard~
+Short an outpost guard~
+Long 
+An orcish outpost guard stands here, defending the gate.
+~
+Descr
+~
+AMax 16
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment -500
+Money 60
+Level 60
+Sex 1
+MobType 25
+Guard 0
+Spec spec_warrior
+End
+
+#40038
+Name krogen gemsmith~
+Short Krogen~
+Long 
+Krogen, the gemsmith is here, selling the finest of gems.
+~
+Descr
+This is one big mofo orc.  Lucky for you, he just wants to make a buck
+(or ten) selling his gems.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 512
+Alignment -200
+Money 110
+Level 110
+Sex 1
+MobType 25
+Guard 0
+Shop    0  21   0   0   0 241 15 9 17
+Shopd2 5
+Shopd3 4
+End
+
+#0
+
+
+
+#OBJDATA
+#40000
+Name A Large Fountain~
+Short A Large Fountain~
+Descr
+A Large Fountain dominates Central Square here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#40001
+Name sharp jagged scimitar~
+Short a [37m[1msharp[0m and [30m[1mjagged[0m scimitar~
+Descr
+A [37m[1msharp[0m, [30m[1mjagged[0m scimitar has been left here.
+[0;36m~
+Type 5
+Extra 262144
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 25 0 3 0 0 0 4 5 0
+Weight 18
+Cost 0
+End
+
+#40003
+Name thin black vambraces~
+Short thin [30m[1mblack[0m vambraces~
+Descr
+Some think black vambraces lie in a pile on the ground.
+[0;36m~
+Type 9
+Extra 2576
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 50 50 0 0
+Weight 5
+Cost 3750
+Affect 17 -2 1 0 0
+End
+
+#40004
+Name thin black greaves~
+Short thin [30m[1mblack[0m greaves~
+Descr
+Some thin black greaves lie in a pile on the ground.
+[0;36m~
+Type 9
+Extra 2576
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 50 50 0 0
+Weight 5
+Cost 3750
+End
+
+#40005
+Name thick black vambraces~
+Short thick [30m[1mblack[0m vambraces~
+Descr
+Some thick black vambraces lie in a pile on the floor here.
+[0;36m~
+Type 9
+Extra 2576
+Wear 257
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 50 50 0 0
+Weight 10
+Cost 6100
+Affect 17 -2 1 0 0
+End
+
+#40006
+Name thick black greaves~
+Short thick [30m[1mblack[0m greaves~
+Descr
+Some thick black greaves lie in a pile on the floor here.
+[0;36m~
+Type 9
+Extra 16
+Wear 33
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 50 50 0 0
+Weight 6
+Cost 6100
+Affect 22 3 1 0 0
+End
+
+#40007
+Name elf skin boots elfskin~
+Short some elfskin boots~
+Descr
+Some boots made from the skin of an elf are here.
+[0;36m~
+Type 9
+Extra 2576
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 2 0 0 0 0 0 25 25 0 0
+Weight 1
+Cost 200
+End
+
+#40009
+Name black hood~
+Short a [30m[1mblack[0m hood~
+Descr
+A [30m[1mblack[0m hood lies on the ground here.
+[0;36m~
+Type 9
+Extra 528
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 50 50 0 0
+Weight 1
+Cost 250
+End
+
+#40010
+Name heretic black cloak~
+Short a Heretic's cloak~
+Descr
+A lump of black cloth lies on the ground. It is the cloak of a Heretic.
+[0;36m~
+Type 9
+Extra 2576
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 40 40 0 0
+Weight 2
+Cost 1495
+Affect 23 1 1 0 0
+End
+
+#40012
+Name adamantine gauntlets~
+Short a pair of adamantine gauntlets~
+Descr
+A pair of gauntlets made out of a strange metal lie here.
+[0;36m~
+Type 9
+Extra 528
+Wear 129
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 4 0 0 0 0 0 0
+Weight 6
+Cost 4100
+Affect 17 -3 1 0 0
+Affect 14 10 1 0 0
+Affect 18 2 1 0 0
+End
+
+#40014
+Name jeweled dagger~
+Short a small, jeweled dagger~
+Descr
+A small, jeweled dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 7 0 11 0 0 0 1 11 0
+Weight 3
+Cost 847
+End
+
+#40016
+Name red plumed helmet~
+Short a red plumed helmet~
+Descr
+A strong helmet with a red plume on top gathers dust on the ground.
+[0;36m~
+Type 9
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 2 0 0 0 30 30 0 0
+Weight 4
+Cost 375
+Affect 17 -1 1 0 0
+End
+
+#40017
+Name spiked club~
+Short a large, spiked club~
+Descr
+A wicked-looking spiked club is on the ground.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 16 0 8 0 0 0 3 6 0
+Weight 25
+Cost 1944
+Affect 18 -1 1 0 0
+Affect 19 2 1 0 0
+End
+
+#40019
+Name winged black helm~
+Short a [30m[1mblack[0m winged helm~
+Descr
+A black, winged helm lies here on the ground.
+[0;36m~
+Type 9
+Extra 2578
+Wear 17
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 4 0 0 0 25 25 0 0
+Weight 8
+Cost 1756
+Affect 17 -1 1 0 0
+End
+
+#40020
+Name black two handed sword~
+Short a [30m[1mblack[0m two-handed sword~
+Descr
+A gigantic black two-handed sword lies here.
+[0;36m~
+Type 5
+Extra 2097682
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 20 0 3 0 0 0 2 9 0
+Weight 10
+Cost 1996
+End
+
+#40021
+Name thick black chainmail~
+Short thick [30m[1mblack[0m chainmail~
+Descr
+A pile of thick black chain lies on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 40 40 0 0
+Weight 5
+Cost 1544
+End
+
+#40024
+Name steel toed boots~
+Short some [0m[36msteel[0m toed boots~
+Descr
+Some steel toed boots are on the floor, awaiting a pair of feet to protect.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 10 10 50 50 10 10
+Weight 6
+Cost 4958
+Affect 22 1 1 0 0
+End
+
+#40026
+Name small elven baby~
+Short an elven baby~
+Descr
+An elven baby lies on the ground here.
+[0;36m~
+Type 19
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 5 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+End
+
+#40027
+Name large crib~
+Short a crib~
+Descr
+A large crib full of babies sits on the floor.
+[0;36m~
+Type 15
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 250 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#40000
+Name The Center of an Evil Outpost~
+Descr
+You are now in the center of the large evil outpost. Several denizens wander
+here around the large fountain that dominates the square. The sky above you
+is black with clouds that the sun cannot penetrate.
+~
+Reset M 40035 1 100
+Reset M 40000 1 100
+Reset O 40001 21 60
+Reset O 40000 -5 100
+Reset M 40008 3 65
+Reset O 1022 21 50
+Door 0 0 0 40001 30 30
+~
+door~
+Door 1 0 0 40015 30 30
+~
+door~
+Door 2 0 0 40010 30 30
+~
+door~
+Door 3 0 0 40022 30 30
+~
+door~
+End
+
+#40001
+Name North Main Street~
+Descr
+You are standing on the northern part of the evil outpost's main street.
+Members of all evil races are here. Death and decay is strong here, and
+not even a trace of goodness is evident. To the east is a large store
+several stories tall. You wonder what is inside.
+~
+Reset M 40013 2 65
+Reset O 50253 21 11
+Reset O 40012 8 40
+Reset O 40006 6 40
+Reset M 40007 5 100
+Reset O 236 21 65
+Reset M 40003 8 100
+Door 0 0 0 40006 30 30
+~
+door~
+Door 1 3 0 40002 30 30
+~
+door~
+Door 2 0 0 40000 30 30
+~
+door~
+End
+
+#40002
+Name Og's Bakery~
+Descr
+You are in a multi-level store run by the enterprising genius, Og. The
+first level is a bakery where Og sells culinary delights loved by evils
+around the world. A flight of stairs leads up to a weapon shop.
+~
+Flags 4
+Sector 0
+Reset M 40029 1 100
+Reset O 8403 -1 100
+Reset O 5008 -1 100
+Reset O 14014 -1 100
+Reset O 14597 -1 100
+Door 3 3 0 40001 30 30
+~
+door~
+Door 4 0 0 40003 30 30
+~
+door~
+End
+
+#40003
+Name Og's Weapon Shop~
+Descr
+Og's shop wouldn't be complete without Og's Weapons. Walking into this place
+you cringe at the absolutely WICKED weapons hanging on the wall.. Some of
+these things look TOO painful. A broadly grinning Orc stands ready to sell
+you one of Og's masterpieces. Stairways here lead both up and down,
+~
+Flags 4
+Sector 0
+Reset M 40002 1 100
+Reset O 14580 -1 100
+Reset O 237 -1 100
+Door 4 0 0 40004 30 30
+~
+door~
+Door 5 0 0 40002 30 30
+~
+door~
+End
+
+#40004
+Name Og's Armor Shop~
+Descr
+This shop is where Og sells his fashionable yet practical line of protective
+gear. The armor here looks like it would not only protect you, but harm
+anyone foolish enough to try to attack you!
+~
+Flags 4
+Sector 0
+Reset M 40030 1 100
+Reset O 40004 -1 100
+Reset O 40024 -1 75
+Reset O 40006 -1 65
+Reset O 40005 -1 65
+Reset O 40003 -1 100
+Door 4 0 0 40005 30 30
+~
+door~
+Door 5 0 0 40003 30 30
+~
+door~
+End
+
+#40005
+Name The Top of Og's Store~
+Descr
+You have reached the top of Og's store, the tallest building in the Outpost.
+There are windows on each wall offering an excellent view of the area. The
+best view is to the southeast, where you can see the large arena. This floor
+of Og's shop has been designated as a provision shop where you can buy anything
+not sold at Og's other shops.
+~
+Flags 4
+Sector 0
+Reset M 40031 1 100
+Door 5 0 0 40004 30 30
+~
+door~
+End
+
+#40006
+Name North Main Street~
+Descr
+You are standing on the northern part of main street in the Evil Outpost.
+The thick darkness that shrouds the outpost is disrupted only by the very
+eerie glow of torches and magical sources that give the entire outpost an
+evil orange-red glow. Members of every evil race can be seen here, walking
+around doing their daily business. An unfortunate elf or other good race can
+be seen here being beaten to death, knifed, or attacked otherwise by the many
+evil denizens. Blood spots line the walls of buildings and the ground. You hope
+not to join them.
+~
+Reset M 40006 8 100
+Reset O 236 21 65
+Reset O 40009 5 75
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40008 30 30
+~
+door~
+Door 1 0 0 40007 30 30
+~
+door~
+Door 2 0 0 40001 30 30
+~
+door~
+Door 3 3 0 40059 30 30
+~
+door~
+End
+
+#40007
+Name The Bank~
+Descr
+You are in the outpost's bank, run by the master merchant himself, Og. A
+large orc is the banker here, and he looks quite mean. Messing with him would
+be as smart as messing with Bigass. You just don't do it.
+~
+Flags 4
+Sector 0
+Reset M 40001 1 100
+Door 3 0 0 40006 30 30
+~
+door~
+End
+
+#40008
+Name North Main Street~
+Descr
+You are travelling down the north main street of the evil outpost. Evil
+denizens wander all around socializing and comitting crimes. A scream of
+pain echoes throughout the complex. You sense that somewhere, an elf is
+not having a very good time.
+~
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40009 30 30
+~
+door~
+Door 2 0 0 40006 30 30
+~
+door~
+Door 3 0 0 40021 30 30
+~
+door~
+End
+
+#40009
+Name North Main Street~
+Descr
+You are on the northern part of the main street of the evil outpost. To the
+north is a gate that is guarded by a group of guards that looks even big
+enough to stand a chance against the mighty Bigass himself! A large and dark
+street stretches east and west here leading into what looks like an even
+seedier part of this evil town.
+~
+Reset M 40005 5 100
+Reset O 237 21 65
+Reset M 40009 3 100
+Reset O 40009 5 75
+Reset O 40014 21 35
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40035 30 30
+~
+door~
+Door 1 0 0 40036 30 30
+~
+door~
+Door 2 0 0 40008 30 30
+~
+door~
+Door 3 0 0 40034 30 30
+~
+door~
+End
+
+#40010
+Name South Main Street~
+Descr
+You are on the southern part of the main street of the Evil Outpost. In the
+distance to the southeast you can see the gigantic area where competitors from
+all over gather to beat the hell out of each other for only the thrill of
+combat. Perhaps you could join them.
+~
+Flags 2
+Door 0 0 0 40000 30 30
+~
+door~
+Door 2 0 0 40011 30 30
+~
+door~
+Door 3 0 0 40014 30 30
+~
+door~
+End
+
+#40011
+Name South Main Street~
+Descr
+You are on the southern part of the main street of the Evil Outpost. In the
+thick crowds of people here, you can see the large arena to the southeast,
+where people from all over gather to beat the hell out of each other for only
+the thrill of combat. To the east is a shop with a sign "Last Chance Armory".
+~
+Reset M 40005 5 100
+Reset O 237 21 65
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40010 30 30
+~
+door~
+Door 2 0 0 40012 30 30
+~
+door~
+End
+
+#40012
+Name South Main Street~
+Descr
+You are standing on the southern part of the main street in the Evil
+Outpost. To the east is the large gladatorial arena, where competitors
+line up to kill each other. To the west is a rough-looking tavern
+called the Gouged Eye.
+~
+Reset M 40005 5 100
+Reset O 237 21 65
+Door 0 0 0 40011 30 30
+~
+door~
+Door 1 3 0 40046 30 30
+~
+gate~
+Door 2 0 0 40013 30 30
+~
+door~
+Door 3 3 0 40062 30 30
+~
+door~
+End
+
+#40013
+Name South Main Street~
+Descr
+You are on the southern part of the main street of the Evil Outpost.
+To the south is the large southern gate. The crowds have thinned out here,
+save for an orc or two killing a passer-by elf.
+~
+Reset M 40006 8 100
+Reset O 40009 5 75
+Reset M 40006 8 100
+Reset O 40009 5 75
+Reset M 40004 3 100
+Reset O 40010 11 45
+Reset O 40009 5 75
+Door 0 0 0 40012 30 30
+~
+door~
+Door 2 0 0 40045 30 30
+~
+door~
+End
+
+#40014
+Name The Gem Shop~
+Descr
+You have entered a store that deals in a product that even Og goes not sell.
+It is gems, and a small old man behind a counter is here to sell them to you.
+Magical energy is thick in this room causing it to emit a powerful humming
+sound. Colorful gems make the whole place sparkle with radiant light.
+~
+Flags 4
+Sector 0
+Reset M 40038 1 100
+Reset O 54 5 75
+Reset O 60 5 75
+Reset O 57 5 75
+Reset O 67 5 75
+Reset O 51 5 75
+Door 1 0 0 40010 30 30
+~
+door~
+End
+
+#40015
+Name East Main Street~
+Descr
+You are on the eastern part of the main street running through the Evil
+Outpost. The eastern half of the outpost is a bit seedier than the rest due
+to the presence of many unknown activites taking place in the alleyways
+near the north wall. You'd best be cautious.
+~
+Reset M 40008 1 65
+Reset O 1026 21 50
+Door 1 0 0 40016 30 30
+~
+door~
+Door 3 0 0 40000 30 30
+~
+door~
+End
+
+#40016
+Name East Main Street~
+Descr
+You are on the seedy eastern part of the main street running through the
+Evil Outpost. Several run down houses can be seen to the south, and
+mysterious shops to the north.
+~
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40017 30 30
+~
+door~
+Door 1 0 0 40018 30 30
+~
+door~
+Door 3 0 0 40015 30 30
+~
+door~
+End
+
+#40017
+Name Krug's House of Magical Goodies~
+Descr
+You have walked into a strange and musty shop run by an ancient Orc named
+Krug. Once powerful and feared, Krug is a toothless and skinny old Orc who
+barely gets by on selling his magic goods. He gives you a strange toothless
+grin as you enter the room.
+~
+Flags 4
+Sector 0
+Reset M 40026 1 100
+Reset O 1013 -1 100
+Reset O 14033 -1 100
+Reset O 1015 -1 100
+Reset O 8404 -1 100
+Reset O 8405 -1 100
+Door 2 0 0 40016 30 30
+~
+door~
+End
+
+#40018
+Name East Main Street~
+Descr
+You are on the seedy eastern part of the main street running through the
+Evil Outpost. To the south there are more run down shakes inhabited by who
+knows what. A run-down and cheap looking weapon shop is to the north, and
+in the distance to the east is the large eastern gate.
+~
+Door 0 0 0 40019 30 30
+~
+door~
+Door 1 0 0 40020 30 30
+~
+door~
+Door 3 0 0 40016 30 30
+~
+door~
+End
+
+#40019
+Name Horkon's House of Bargain Weapons~
+Descr
+This run down building looks as if it is about to fall over. It is owned by
+a former assassin, Horkon. An old dark elf, Horkon stands behind the counter
+sighing, wishing he could sell the quality items Og does.
+~
+Flags 4
+Sector 0
+Reset M 40024 1 100
+Reset O 13013 -1 100
+Reset O 238 -1 100
+Reset O 3201 -1 100
+Reset O 236 -1 100
+Door 2 0 0 40018 30 30
+~
+door~
+End
+
+#40020
+Name East Main Street~
+Descr
+You are on the seedy eastern part of the main street running through the
+Evil Outpost. The black sky and little illumination makes vision hard here.
+Close by to the east is the mighty eastern gate of the Outpost, where
+groups of adventurers seek to make their fortune by raiding Xylar and it's
+inhabitants.
+~
+Reset M 40006 8 100
+Reset O 40009 5 75
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 0 0 0 40042 30 30
+~
+door~
+Door 1 0 0 40043 30 30
+~
+door~
+Door 3 0 0 40018 30 30
+~
+door~
+End
+
+#40021
+Name Zug's House o' Provisions~
+Descr
+You have entered the shop of the man who was once called "The Mighty Zug".
+He is an old human now, and has settled for selling bargain adventuring
+gear for a living. Zug is huge enough to command respect from Orcs and all
+evil races, and from you as well.
+~
+Flags 4
+Sector 0
+Reset M 40025 1 100
+Reset O 36 -1 100
+Reset O 32 -1 100
+Door 1 0 0 40008 30 30
+~
+door~
+End
+
+#40022
+Name West Main Street~
+Descr
+You are standing on the western part of the main street of the Evil Outpost.
+This is one of the least populated areas it seems, but it is hard to say
+what could be lurking in the many dark shadows and crevices. A run-down
+armor shop is to the north, and the large central square is to the east.
+~
+Reset M 40005 5 100
+Reset O 237 21 65
+Door 0 0 0 40023 30 30
+~
+door~
+Door 1 0 0 40000 30 30
+~
+door~
+Door 3 0 0 40024 30 30
+~
+door~
+End
+
+#40023
+Name Hubris's Protective Gear~
+Descr
+This run down armor shack is run by a Hubris Rakarth, who once fought side
+by side with Horkon Heartripper who runs the weapon shop down the road. Like
+Horkon, Hubris is now an old dark elf who is discontent with running a lousy
+store like this one.
+~
+Flags 4
+Sector 0
+Reset M 40027 1 100
+Reset O 240 -1 100
+Reset O 231 -1 100
+Reset O 230 -1 100
+Reset O 225 -1 100
+Reset O 219 -1 100
+Reset O 218 -1 100
+Reset O 211 -1 100
+Reset O 206 -1 100
+Reset O 205 -1 100
+Door 2 0 0 40022 30 30
+~
+door~
+End
+
+#40024
+Name West Main Street~
+Descr
+You are standing on the western part of the main street of the Evil Outpost.
+To the south is a small shop that sells boats, and to the west the main
+street continues. To the north is the wall of a large inn. Peering in the
+window you can see several orcs and dark elves in a large lobby.
+~
+Reset M 40006 8 100
+Reset O 236 21 65
+Reset O 40009 5 75
+Door 1 0 0 40022 30 30
+~
+door~
+Door 2 0 0 40025 30 30
+~
+door~
+Door 3 0 0 40026 30 30
+~
+door~
+End
+
+#40025
+Name The Boat Shop~
+Descr
+This small store is run by an old man who seems to do nothing but carve
+canoes and other boats out of trees all day. He looks up from his work and
+stares at you blankly. Perhaps you should buy something.
+~
+Flags 4
+Sector 0
+Reset M 40028 1 100
+Door 0 0 0 40024 30 30
+~
+door~
+End
+
+#40026
+Name West Main Street~
+Descr
+You are continuing down the western part of the main street of the Outpost.
+The streets here are nearly vacant, save for those entering through the
+west gate.
+~
+Reset M 40003 8 100
+Reset O 236 21 65
+Door 1 0 0 40024 30 30
+~
+door~
+Door 3 0 0 40027 30 30
+~
+door~
+End
+
+#40027
+Name West Main Street~
+Descr
+You have reached the end of the western part of the Outpost's main street.
+A forboding dark street leads north, and directly to the west is the western
+gate of the Outpost. Large guards with wicked weapons stand watch to assure
+that no creatures of goodness may enter.
+~
+Reset M 40005 5 100
+Reset O 237 21 65
+Door 0 0 0 40028 30 30
+~
+door~
+Door 1 0 0 40026 30 30
+~
+door~
+Door 3 0 0 40044 30 30
+~
+door~
+End
+
+#40028
+Name A Dark Street~
+Descr
+You are presently in a dark street winding it's way through the outpost.
+There is absolutely no light here. Thieves and Cutthroats call this place home
+and their victims' corpses lie strewn about. You hope not to join them.
+~
+Shd 1
+Reset M 40009 3 100
+Reset O 40014 21 35
+Door 0 0 0 40029 30 30
+~
+door~
+Door 2 0 0 40027 30 30
+~
+door~
+End
+
+#40029
+Name A Dark Street~
+Descr
+As you travel down the dark twisting road along the walls, you watch as an
+elf is caught by a gang of ruffians and brutally murdered. Two large orcs
+laugh mercilessly as they rip him in two. It would probably be wise to
+start moving on.
+On a lighter note, there is a large and somewhat comforable looking inn to
+your east. It appears to be occupied by many creatures of all sorts.
+~
+Shd 1
+Reset M 40010 2 100
+Reset M 40010 2 100
+Reset M 40006 8 100
+Reset O 236 21 65
+Reset O 40009 5 75
+Door 0 0 0 40030 30 30
+~
+door~
+Door 2 0 0 40028 30 30
+~
+door~
+End
+
+#40030
+Name A Dark Street~
+Descr
+Screams of pain and fright echo throughout the area along the walls, and
+a mysterious dark aura lurking here chills you to the bone. Dark fog
+at your feet makes it hard to see where you are stepping.
+~
+Shd 1
+Door 0 0 0 40031 30 30
+~
+door~
+Door 2 0 0 40029 30 30
+~
+door~
+End
+
+#40031
+Name A Dark Street~
+Descr
+The forboding dark street meets the northwest corner of the wall here,
+forcing you to either head south or east. The darkness is still thick here,
+making you grasp the hilt of your sword tighter.
+~
+Shd 1
+Reset M 40006 8 100
+Reset O 40009 5 75
+Reset M 40004 3 65
+Reset O 237 21 65
+Reset O 40009 5 65
+Door 1 0 0 40032 30 30
+~
+door~
+Door 2 0 0 40030 30 30
+~
+door~
+End
+
+#40032
+Name A Dark Street~
+Descr
+You are on a mysterious dark street following the northern wall of the
+outpost. The massive wooden sections of the wall must have taken a thousand
+huge trees to construct. This outpost is nearly impenetrable, and even if
+someone of a good race could manage to get in, they would have Bigass to
+contend with.
+~
+Shd 1
+Reset M 40009 3 100
+Reset O 40009 5 65
+Reset O 40014 21 35
+Door 1 0 0 40033 30 30
+~
+door~
+Door 3 0 0 40031 30 30
+~
+door~
+End
+
+#40033
+Name A Dark Street~
+Descr
+The dark street running along the wall is populated by the most vile and
+evil creatures in the outpost. Thieves, murderers, and cutthroats populate
+the area, making it the most feared place in the entire outpost. You can see
+the north wall of the inn to the south from here.
+~
+Shd 1
+Reset M 40006 8 100
+Reset O 236 21 65
+Reset O 40009 5 75
+Door 1 0 0 40034 30 30
+~
+door~
+Door 3 0 0 40032 30 30
+~
+door~
+End
+
+#40034
+Name A Dark Street~
+Descr
+You are standing on a dark street directly west of the northern main street.
+The sight of the main street makes you want to leave this dreadful place.
+Only the most vile and insidious dwell here... You have been warned!
+~
+Shd 1
+Door 1 0 0 40009 30 30
+~
+door~
+Door 3 0 0 40033 30 30
+~
+door~
+End
+
+#40035
+Name The North Gate of the Evil Outpost~
+Descr
+You are standing at the north gate of one of the most fun, exciting, and
+absolutely EVIL places in the world, the Evil Outpost. Created by Kroog the
+Orc, the outpost was intended to be a source of income for Kroog, attracting
+shops, inns, and a large gladatorial arena. Now industrious merchants like Og
+have taken up residence here.
+~
+Flags 2
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Door 0 0 0 40070 30 30
+~
+door~
+Door 2 0 0 40009 30 30
+~
+door~
+End
+
+#40036
+Name A Dark Street~
+Descr
+This dark street runs along the northern wall of the outpost. Strange
+laughter echoes throughout the area. To the south you see the northern wall
+of a two-story building with all the shutters closed tightly. You wonder
+what could be inside.
+~
+Shd 1
+Door 1 0 0 40037 30 30
+~
+door~
+Door 3 0 0 40009 30 30
+~
+door~
+End
+
+#40037
+Name A Dark Street~
+Descr
+This dark street runs along the northern wall of the outpost. Strange
+laughter echoes throughout the area. To the south you see the northern wall
+of a two-story building with all the shutters closed tightly. You wonder
+what could be inside.
+~
+Shd 1
+Reset M 40007 5 100
+Reset O 236 21 65
+Door 1 0 0 40038 30 30
+~
+door~
+Door 2 0 0 40058 30 30
+~
+door~
+Door 3 0 0 40036 30 30
+~
+door~
+End
+
+#40038
+Name A Dark Street~
+Descr
+You are continuing down the dark street running along the outpost's walls.
+To the south is a small run-down building that appears to be occupied by
+several people. The street continues east and west.
+~
+Shd 1
+Reset M 40007 5 100
+Reset O 236 21 65
+Reset M 40004 3 100
+Door 1 0 0 40039 30 30
+~
+door~
+Door 2 0 0 40056 30 30
+~
+door~
+Door 3 0 0 40037 30 30
+~
+door~
+End
+
+#40039
+Name A Dark Street~
+Descr
+You have come to the northeast corner of the outpost's walls. The dark
+street goes south or east.
+~
+Shd 1
+Door 2 0 0 40040 30 30
+~
+door~
+Door 3 0 0 40038 30 30
+~
+door~
+End
+
+#40040
+Name A Dark Street~
+Descr
+You are currently on a dark street running along the outpost's east wall.
+The damp cobblestone echoes beneath your feet.. The area here is deserted
+here it seems, but who knows what might be lurking in the shadows?
+~
+Shd 1
+Door 0 0 0 40039 30 30
+~
+door~
+Door 2 0 0 40041 30 30
+~
+door~
+End
+
+#40041
+Name A Dark Street~
+Descr
+You are continuing down the dark street running along the east wall of the
+evil outpost. In the relitavely short distance to the south, you can see
+the eastern main street.
+~
+Shd 1
+Door 0 0 0 40040 30 30
+~
+door~
+Door 2 0 0 40042 30 30
+~
+door~
+End
+
+#40042
+Name A Dark Street~
+Descr
+You are continuing down the dark street running along the east wall of the
+evil outpost, just north of the eastern main street. The street continues
+to the north into absolute darkness, making you apprehensive about
+continuing.
+~
+Shd 1
+Door 0 0 0 40041 30 30
+~
+door~
+Door 2 0 0 40020 30 30
+~
+door~
+End
+
+#40043
+Name East Gate of the Evil Outpost~
+Descr
+You are standing in the large east gate of the evil outpost. Many creatures
+here are departing for raids on the city of Xylar. Large guards in full
+armor stand at the ready, prepard to ambush any good creatures who would
+be so bold as to try and come here.
+~
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Door 3 0 0 40020 30 30
+~
+door~
+End
+
+#40044
+Name West Gate of the Evil Outpost~
+Descr
+You are standing in the large west gate of the evil outpost. You watch as
+many people enter, coming from the evil city of Masqe. The guards nod
+as they walk by on their way into the city.
+~
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Door 1 0 0 40027 30 30
+~
+door~
+Door 3 0 0 40455 0 0
+~
+~
+End
+
+#40045
+Name South Gate of the Evil Outpost~
+Descr
+The southern gate of the evil outpost is the least populated. Most of the
+activity takes place in the east and west gates where evil creatures
+enter and leave, preparing for assaults on Xylar. Nevertheless, the
+southern gate is manned by large guards just as big as the rest.
+~
+Flags 2
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Reset M 40036 16 100
+Door 0 0 0 40013 30 30
+~
+door~
+Door 2 0 0 24810 0 0
+~
+~
+End
+
+#40046
+Name Arena Gate~
+Descr
+You are at the enterance to the bustling outpost arena. A large gate
+seperates you from south main street. To the east is the battleground,
+where you can hear the screams of competitors and spectators.
+~
+Flags 2
+Shd 1
+Door 1 0 0 40047 30 30
+~
+door~
+Door 3 3 0 40012 30 30
+~
+Gate~
+End
+
+#40047
+Name Inside the Arena~
+Descr
+You are inside the bloody arena of the outpost. To the west is the gate
+where you can escape if things get too rough. Large orcs, trolls, and
+humans can be seen here, battling to the death with no mercy and
+frightening proficiency.
+~
+Reset M 40015 3 55
+Reset M 40014 5 55
+Reset O 40007 7 45
+Door 0 0 0 40054 30 30
+~
+door~
+Door 1 0 0 40055 30 30
+~
+door~
+Door 2 0 0 40048 30 30
+~
+door~
+Door 3 0 0 40046 30 30
+~
+door~
+End
+
+#40048
+Name Inside the Arena~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Reset M 40015 3 55
+Reset M 40014 5 55
+Reset O 40007 7 45
+Door 0 0 0 40047 30 30
+~
+door~
+Door 1 0 0 40049 30 30
+~
+door~
+End
+
+#40049
+Name Inside the Arena~
+Descr
+You are near the south wall of the evil outpost's arena. Here, a large
+human battles an orc. With a mighty swing of his two-handed sword, the
+human crack's the orc's shield in half. Squealing in fright, the orc turns
+to flee and find another shield. As he turns, the warrior cuts him neatly
+in two. The crowd cheers madly as the two halves of the orc fall to the
+floor in a dead heap.
+~
+Reset M 40015 3 55
+Reset O 40007 7 45
+Reset M 40014 5 55
+Door 0 0 0 40055 30 30
+~
+door~
+Door 1 0 0 40050 30 30
+~
+door~
+Door 3 0 0 40048 30 30
+~
+door~
+End
+
+#40050
+Name Inside the Arena~
+Descr
+You are in the arena of the evil outpost. This corner is strangely
+unoccupied, or so it seems.. The crowd's cheers increase in volume as the
+carnage continues in the other areas.
+~
+Door 0 0 0 40051 30 30
+~
+door~
+Door 3 0 0 40049 30 30
+~
+door~
+End
+
+#40051
+Name Inside the Arena~
+Descr
+You are in the large arena of the evil outpost. You watch in horror as two
+fighters battle to the death, a troll and a human. The troll towers above
+the human by about five feet. Eventually frozen in terror, the human drops
+his weapon, and the troll leans over and picks him up. Holding him up for
+the crowd to see, he rips him in half, throwing his upper torso into the
+spectator stands.
+~
+Door 0 0 0 40052 30 30
+~
+door~
+Door 2 0 0 40050 30 30
+~
+door~
+Door 3 0 0 40055 30 30
+~
+door~
+End
+
+#40052
+Name Inside the Arena~
+Descr
+You are in the bloody arena in the evil outpost. Two orcs can be seen here,
+fighting with large clubs. As the crowd yells on, one of them smashes in
+the leg his opponent who topples to the ground. The wounded orc screams in
+terror as the other one pounces on him, breaking his neck. The victor tears
+the head off of his lifeless victim and holds it up to the crowd.
+~
+Door 2 0 0 40051 30 30
+~
+door~
+Door 3 0 0 40053 30 30
+~
+door~
+End
+
+#40053
+Name Inside the Arena~
+Descr
+You are in the violent arena of the evil outpost. Fights to the death are
+happening everywhere, and the spectators cheer madly. You watch as two
+humans battle.... One manages to slice the other's arm off. As the wounded
+warrior screams in pain, the victor slashes his chest, exposing his inner
+organs to the audience who scream approvals.
+~
+Reset M 40016 2 65
+Reset O 40016 5 55
+Reset M 40015 3 55
+Reset O 40007 7 45
+Reset M 40014 5 55
+Door 1 0 0 40052 30 30
+~
+door~
+Door 2 0 0 40055 30 30
+~
+door~
+Door 3 0 0 40054 30 30
+~
+door~
+End
+
+#40054
+Name Inside the Arena~
+Descr
+You are in the northwest corner of the arena. During the fighting, a small
+orc is pushed and falls out of the spectator stands. As he tries to flee
+back up the wall, a large troll notices him and grins, throwing him to the
+ground. With one swift strike with his spiked club, he smashes the orc's
+skull, laughing as his brains spill out onto the ground. The spectators
+cheer wildly.
+~
+Reset M 40014 5 55
+Reset M 40017 1 65
+Reset O 40017 21 30
+Door 1 0 0 40053 30 30
+~
+door~
+Door 2 0 0 40047 30 30
+~
+door~
+End
+
+#40055
+Name Inside the Arena~
+Descr
+You are in the center of the evil outpost's arena. A bloody free-for-all
+takes place in the center with members of all races killing each other most
+violently. You take extra caution not to become a victim of the frey.
+~
+Reset M 40016 2 65
+Reset O 40016 5 55
+Reset M 40014 5 55
+Door 0 0 0 40053 30 30
+~
+door~
+Door 1 0 0 40051 30 30
+~
+door~
+Door 2 0 0 40049 30 30
+~
+door~
+Door 3 0 0 40047 30 30
+~
+door~
+End
+
+#40056
+Name Heroes for Hire~
+Descr
+You have walked into a small building occupied by several large orcs and
+drow who offer you their services... For a price. If you have the money you
+can hire yourself some muscle here. A doorway leads south.
+~
+Door 0 0 0 40038 30 30
+~
+door~
+Door 2 0 0 40057 30 30
+~
+door~
+End
+
+#40057
+Name The Slave Market~
+Descr
+This dark room is filled with the sound of crying. Several orcs are here
+selling kidnapped babies to a man in a black cloak. He is a slave driver,
+and he buys babies to sell on the black market. He glances at you, wondering
+if you have something to sell him.
+~
+Door 0 0 0 40056 30 30
+~
+door~
+End
+
+#40058
+Name The House of Pain~
+Descr
+This large whorehouse is occupied by several women of all races. A large
+breasted elven slave greets you as you enter the room. It looks like most of
+the girls here are being forced to work against their will.
+~
+Flags 4
+Sector 0
+Door 0 0 0 40037 30 30
+~
+door~
+End
+
+#40059
+Name A Small, Run Down House~
+Descr
+You have stumbled into a small and dilapidated house thought to be
+abandoned. Instead, you see that is is occupied by several elves, who
+prepare to defend their home and children from you!
+~
+Flags 4
+Sector 0
+Reset M 40023 3 100
+Reset M 40022 3 100
+Reset O 40027 -5 100
+Reset O 40026 -3 65
+Door 1 3 0 40006 30 30
+~
+door~
+End
+
+#40060
+Name Inside the Gouged Eye Tavern~
+Descr
+The Gouged eye is a rough tavern with seedy patrons. Barmaids stumble
+through crowds of orcs, trolls, and drow trying to serve drinks. Fights
+are quit common here, leaving most of the chairs, tables, and walls damaged.
+~
+Flags 4
+Sector 0
+Reset M 40021 4 100
+Reset M 40020 3 55
+Reset M 40020 3 55
+Reset M 40019 5 60
+Reset M 40019 5 60
+Reset M 40019 5 60
+Door 2 0 0 40062 30 30
+~
+door~
+Door 3 0 0 40061 30 30
+~
+door~
+End
+
+#40061
+Name Inside the Gouged Eye Tavern~
+Descr
+The Gouged eye is a rough tavern with seedy patrons. Barmaids stumble
+through crowds of orcs, trolls, and drow trying to serve drinks. Fights
+are quit common here, leaving most of the chairs, tables, and walls damaged.
+~
+Flags 4
+Sector 0
+Reset M 40021 4 100
+Reset M 40020 3 55
+Reset M 40018 2 65
+Reset O 40019 5 12
+Reset O 40020 21 26
+Reset O 40021 4 32
+Door 1 0 0 40060 30 30
+~
+door~
+Door 2 0 0 40063 30 30
+~
+door~
+End
+
+#40062
+Name Inside the Gouged Eye Tavern~
+Descr
+The Gouged eye is a rough tavern with seedy patrons. Barmaids stumble
+through crowds of orcs, trolls, and drow trying to serve drinks. Fights
+are quit common here, leaving most of the chairs, tables, and walls damaged.
+~
+Flags 4
+Sector 0
+Reset M 40018 2 65
+Reset M 40021 4 100
+Door 0 0 0 40060 30 30
+~
+door~
+Door 1 3 0 40012 30 30
+~
+door~
+Door 3 0 0 40063 30 30
+~
+door~
+End
+
+#40063
+Name Inside the Gouged Eye Tavern~
+Descr
+The Gouged eye is a rough tavern with seedy patrons. Barmaids stumble
+through crowds of orcs, trolls, and drow trying to serve drinks. Fights
+are quit common here, leaving most of the chairs, tables, and walls damaged.
+~
+Flags 4
+Sector 0
+Reset M 40019 5 65
+Reset M 40019 5 65
+Reset M 40019 5 65
+Reset M 40021 4 100
+Door 0 0 0 40061 30 30
+~
+door~
+Door 1 0 0 40062 30 30
+~
+door~
+End
+
+#40064
+Name A Small Road through the Forest~
+Descr
+You are travelling down a well-traversed, yet small road through the forest.
+The sounds of a large city can be heard over the once quiet sounds of the
+forest.. You sense that something of great evil is near.
+~
+Sector 3
+Door 0 0 0 29066 30 30
+~
+door~
+Door 1 0 0 40065 30 30
+~
+door~
+End
+
+#40065
+Name A Small Road through the Forest~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Flags 2
+Sector 3
+Door 2 0 0 40066 30 30
+~
+door~
+Door 3 0 0 40064 30 30
+~
+door~
+End
+
+#40066
+Name A Small Road through the Forest~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Sector 3
+Door 0 0 0 40065 30 30
+~
+door~
+Door 2 0 0 40067 30 30
+~
+door~
+End
+
+#40067
+Name A Small Road through the Forest~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Sector 3
+Door 0 0 0 40066 30 30
+~
+door~
+Door 1 0 0 40068 30 30
+~
+door~
+End
+
+#40068
+Name A Small Road through the Forest~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Door 1 0 0 40069 30 30
+~
+door~
+Door 3 0 0 40067 30 30
+~
+door~
+End
+
+#40069
+Name A Small Road through the Forest~
+Descr
+The small road continues, winding it's way toward an unknown source of great
+evil. You feel several eyes, watching you as you travel through the dark and
+mysterious forest.
+~
+Door 2 0 0 40070 30 30
+~
+door~
+Door 3 0 0 40068 30 30
+~
+door~
+End
+
+#40070
+Name Before a Gate~
+Descr
+You stand just north of a large, evil outpost.  Smells of death and
+excrement come from within, inviting you to enter, and take part in the evil
+festivities.  The evil outpost was built by Azathoth.  
+~
+Flags 2
+Door 0 0 0 40069 30 30
+~
+door~
+Door 2 0 0 40035 30 30
+~
+door~
+End
+
+#40071
+Name A Dead-end~
+Descr
+You stand on a small road, leading east and west.  You can see a
+blackened, evil-feeling forest to the west, and a large mountain range to
+the east.  The air is filled with a strange smell of decay.  
+~
+Door 2 0 0 29017 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

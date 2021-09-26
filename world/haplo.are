@@ -1,0 +1,1876 @@
+#AREADATA 
+Name Eastern Highway~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mA large cloud of dust blows up against you.  
+~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Orin~
+VNUMs 23401 23600
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#23401
+Name hill giant adventurer~
+Short a hill giant~
+Long 
+A hill giant adventurer wanders here, trying to find some hills.
+~
+Descr
+This large giant looks lost and sad, and he endlessly wanders the lands,
+looking for the eastern hills which once existed in centuries past.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 544
+Money 54
+Level 54
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23402
+Name giant guard~
+Short a giant guard~
+Long 
+A giant guard stands here, keeping watch over this place.
+~
+Descr
+This large, hairy hill giant looks like he is very loyal to all of his
+kind, and he looks like he will protect them with his life.  
+~
+AMax 6
+NHeight 0
+ActBits -1610612733
+ActBits3 2
+Affect_By 552
+Alignment -20
+Money 44
+Level 44
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23403
+Name king kings advisor~
+Short the king's advisor~
+Long 
+The king's advisor sits here, thinking over matters.
+~
+Descr
+This is very odd....  A hill giant that looks like he might have half a
+brain...  Better watch out, he might even know magic.  Bah, a hill giant
+with magic; what a joke!  
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+ActBits3 2
+Affect_By 552
+Money 51
+Level 51
+Sex 1
+MobType 4
+Guard 3
+End
+
+#23404
+Name hill giant king~
+Short the hill giant king~
+Long 
+The hill giant king sits here on a throne, thinking about hills.
+~
+Descr
+This old, wise hill-giant looks massive, and from the scars on him, you
+can tell he has been through a lot of intensive fighting, perhaps from his
+youth, or even some great battles in years past.  Either way you look at it,
+he looks like a fearsome opponent.  
+~
+AMax 1
+NHeight 0
+ActBits -2147483645
+Affect_By 552
+Money 114
+Level 114
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23405
+Name giant thief~
+Short a giant thief~
+Long 
+A giant thief is here, looking through the treasure-room goodies.
+~
+Descr
+This sneaky-looking giant looks as though he has stumbled into the king's
+secret treasure room and has taken the liberty to uhhh..  Examine all of the
+fine treasures.  He doesn't look to happy at your entrance.  
+~
+AMax 1
+NHeight 0
+ActBits 11
+Affect_By 66080
+Money 31
+Level 31
+Sex 1
+MobType 4
+Guard 0
+End
+
+#23406
+Name female giant hill hillgiant~
+Short a female giant~
+Long 
+A female hill giant wanders around here, looking for her husband.
+~
+Descr
+This large, hill giant female, doesn't even notice you here, or perhaps
+she just doesn't care.  Anyway, she would be too loose for you anyway...  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 512
+Money 27
+Level 27
+Sex 2
+MobType 4
+Guard 0
+End
+
+#23407
+Name giant gladiator~
+Short a giant gladiator~
+Long 
+A giant gladiator stands here, looking for fresh meat to kill.
+~
+Descr
+This large brute of a gladiator looks like he is so hysterical at your
+appearance, that he doesn't even want to bother with squishing you.  
+~
+AMax 4
+NHeight 0
+ActBits 1
+Affect_By 552
+Money 39
+Level 39
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23408
+Name huge gladiator~
+Short a huge gladiator~
+Long 
+A huge hill-giant gladiator stands here, towering above you.
+~
+Descr
+When this giant notices you are looking at him, he bursts out laughing,
+muttering something about wimps and scrawny little people.  
+~
+AMax 1
+NHeight 0
+ActBits 1
+Affect_By 552
+Money 64
+Level 64
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23409
+Name hill giant hillgiant~
+Short a hill giant~
+Long 
+A large hill giant stands here, calmly observing your intrusion here.
+~
+Descr
+This large giant looks like a powerful adversary.  He doesn't seem to be
+too concerned with your presence here at the moment, which perhaps is a good
+thing if you value your life.  
+~
+AMax 3
+NHeight 0
+ActBits 1
+Affect_By 512
+Money 43
+Level 43
+Sex 1
+MobType 4
+Guard 0
+Spec spec_warrior
+End
+
+#23410
+Name wanderer~
+Short a dusty wanderer~
+Long 
+A dusty wanderer explores the eastern highway here.
+~
+Descr
+This wanderer wears dusty robes, and looks very rough and rugged.  You
+wonder what he is doing exploring the highway all the time.  What a dull,
+typical life...  A regular moron.  
+~
+AMax 2
+NHeight 0
+ActBits 17
+Alignment 20
+Money 17
+Level 17
+Sex 1
+MobType 0
+Guard 0
+End
+
+#23411
+Name korthan ancient mage~
+Short Korthan~
+Long 
+|Teacher| Korthan, the ancient mage, stands here calmly observing you.
+~
+Descr
+~
+Attackmsg strike~
+AMax 1
+NHeight 0
+ActBits 273
+Affect_By 554
+Alignment 100
+Money 81
+Level 81
+Sex 1
+MobType 0
+Guard 0
+ArmorClass 10
+ASklTaught 0 36
+ASklTaught 1 62
+ASklTaught 2 100
+ASklTaught 3 104
+End
+
+#23412
+Name cult member~
+Short a Healer's cult prophet~
+Long 
+A Healer's cult prophet is screaming about healing techniques.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Affect_By 520
+Money 180
+Level 180
+MobType 0
+Guard 0
+Shop    0   0   0   0   0 100 100 0 24
+Shopd2 5
+Shopd3 4
+ShopCr 2100
+ShopCS A Healer's cult prophet snaps his fingers and a token falls out of the air.~
+End
+
+#23427
+Name a quest shaman~
+Short a quest shaman~
+Long 
+A quest shaman is standing here radiating power.
+~
+Descr
+You see a giant statue with mystical markings on it. You wonder how long
+this has been here, because you notice blood on the ground. You also notice
+a strange aura of evil surrounding this ominous creation. 
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 648
+Money 500
+Level 500
+MobType 15
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#23401
+Name pool water clear~
+Short a pool of water~
+Descr
+A clear pool bubbles forth pure water for all to enjoy here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23402
+Name large key iron~
+Short a large, iron key~
+Descr
+A large iron key rests here on the ground.
+[0;36m~
+Type 18
+Extra 16384
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#23403
+Name giant hill ring~
+Short a hill giant's ring~
+Descr
+The large ring of a hill giant lies here on the ground, abandoned.
+[0;36m~
+Type 9
+Wear 3
+Timer 500
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 50 50 0 0
+Weight 0
+Cost 550
+Affect 14 5 1 0 0
+Affect 13 8 1 0 0
+End
+
+#23404
+Name staff hill giant ancient~
+Short The staff of hill-giants~
+Descr
+The great staff of the hill-giants lies here on the ground.
+[0;36m~
+Type 5
+Extra 524353
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 40 0 8 0 0 0 8 3 0
+Weight 20
+Cost 84375
+Affect 18 2 1 0 0
+Affect 19 3 1 0 0
+End
+
+#23405
+Name glowing red wand~
+Short a red wand~
+Descr
+A glowing, red wand lies here on the ground.
+[0;36m~
+Type 3
+Extra 1
+Wear 16385
+Timer 500
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 20 5 5 96 0 0 0 0 0 0
+Weight 1
+Cost 7555
+End
+
+#23406
+Name giant sword~
+Short a giant sword~
+Descr
+A giant sword lies here on the ground.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 3 0 0 0 4 4 0
+Weight 7
+Cost 1098
+End
+
+#23407
+Name giant breastplate breast plate~
+Short a giant breastplate~
+Descr
+A giant breastplate lies here on the ground.
+[0;36m~
+Type 9
+Extra 1
+Wear 9
+Timer 7500
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 90 90 0 0
+Weight 25
+Cost 9855
+Affect 18 2 1 0 0
+Affect 14 -2 1 0 0
+End
+
+#23408
+Name large club~
+Short a large club~
+Descr
+A large club lies here on the ground.
+[0;36m~
+Type 5
+Extra 524288
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 8 0 0 0 6 2 0
+Weight 7
+Cost 950
+End
+
+#23409
+Name giant boots~
+Short some giant boots~
+Descr
+Some giant boots lie here on the ground.
+[0;36m~
+Type 9
+Wear 65
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 3 0 0 0 0 0 30 30 0 0
+Weight 10
+Cost 955
+Affect 17 -1 1 0 0
+Affect 14 -2 1 0 0
+End
+
+#23410
+Name dagger giant~
+Short a giant dagger~
+Descr
+A giant dagger lies here on the ground.
+[0;36m~
+Type 5
+Extra 131072
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 15 0 11 0 0 0 2 8 0
+Weight 8
+Cost 1149
+End
+
+#23411
+Name dusty robe~
+Short a dusty robe~
+Descr
+A dusty robe lies here on the ground.
+[0;36m~
+Type 9
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 1 0 0 0 0 8 8 0 0
+Weight 0
+Cost 109
+Affect 14 9 1 0 0
+End
+
+#23427
+Name token advancement~
+Short a token of [1m[34mA[32md[36mv[31ma[35mn[33mc[34me[32mm[36me[31mn[35mt[0m~
+Descr
+A token of [1m[34mA[32md[36mv[31ma[35mn[33mc[34me[32mm[36me[31mn[35mt[0m
+[0;36m~
+Type 8
+Extra 268435457
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#23460
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Door 1 0 0 23461 0 0
+~
+~
+Door 2 0 0 23459 0 0
+~
+~
+End
+
+#23461
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Door 1 0 0 23456 0 0
+~
+~
+Door 2 0 0 23458 0 0
+~
+~
+Door 3 0 0 23460 0 0
+~
+~
+End
+
+#23462
+Name A Marble Walkway~
+Descr
+This magnificent marble walkway seems to echo your footsteps throughout
+the passageways, and you feel like you could be getting near to the leader
+of this medium sized underground hillgiant hangout.  There is a beautifully
+crafted door made out of fine marble to the north.  
+~
+Flags 6
+Door 0 3 0 23463 90 90
+You see a magnificent door made of solid rock.  
+~
+marbledoor~
+Door 1 0 0 23448 0 0
+~
+~
+End
+
+#23463
+Name The Hall of Royalty~
+Descr
+You stand in a large, stone hall, home of the hillgiant leader. 
+Beautifully carved marble sculptures and other works of art descorate this
+stone room, and the air is substantially cooler here than the rest of the
+caves.  You notice a large mural with pictures of the hills that used to
+exist long ago, and you wonder what all this race has gone through over the
+many centuries it has existed.  
+~
+Flags 4
+Reset M 23404 1 100
+Reset O 23407 4 9
+Reset O 23409 7 100
+Reset O 23404 21 10
+Reset M 23403 1 100
+Reset O 201 7 100
+Reset O 23405 21 23
+Reset M 23402 6 100
+Reset O 219 4 95
+Reset O 23406 21 44
+Reset M 23402 6 100
+Reset O 23406 21 5
+Reset O 23409 7 100
+Reset O 222 4 55
+Door 2 3 0 23462 90 90
+You see a magnificent door made of solid rock.  
+~
+marbledoor~
+Door 3 259 0 23464 30 30
+~
+secretdoor~
+End
+
+#23464
+Name The King's Treasure Room~
+Descr
+You stand in a small room, where the king keeps all of his treasures. 
+You wonder why this room is so small compared to the rest of the caves.  To
+the east, somewhere, a door leads back to the throne room.  
+~
+Flags 4
+Reset M 23405 1 100
+Reset O 203 -1 55
+Reset O 74120 -1 1
+Reset O 1020 -1 95
+Reset O 237 -1 100
+Door 1 259 0 23463 30 30
+~
+secretdoor~
+End
+
+#23465
+Name Some Dry Grasslands~
+Descr
+The grasses here are brown and rigid.  A warm breeze carries some dust
+along the surface of this rugged land, and you wonder how animals can
+survive here with the little amount of rainfall this area gets.  
+~
+Sector 2
+Door 1 0 0 23466 0 0
+~
+~
+Door 2 0 0 23401 0 0
+~
+~
+End
+
+#23466
+Name Some Dry Grasslands~
+Descr
+These dry grasslands are located just north of the eastern highway.  The
+hot winds around here tear at your face, and bring tears to your eyes as
+dust blows all around here.  
+~
+Sector 2
+Door 1 0 0 23467 0 0
+~
+~
+Door 2 0 0 23402 0 0
+~
+~
+Door 3 0 0 23465 0 0
+~
+~
+End
+
+#23467
+Name Some Dry Grasslands~
+Descr
+The grasses here are brown and rigid.  A warm breeze carries some dust
+along the surface of this rugged land, and you wonder how animals can
+survive here with the little amount of rainfall this area gets.  
+~
+Sector 2
+Door 0 0 0 23470 0 0
+~
+~
+Door 1 0 0 23468 0 0
+~
+~
+Door 2 0 0 23403 0 0
+~
+~
+Door 3 0 0 23466 0 0
+~
+~
+End
+
+#23468
+Name Some Dry Grasslands~
+Descr
+The dry grasses here are hardy and tough to survive the warm, dry breeze,
+and dust constantly blowing against them.  You can see the highway to the
+south, and some dusty grasslands to the north.  
+~
+Sector 2
+Door 0 0 0 23469 0 0
+~
+~
+Door 2 0 0 23404 0 0
+~
+~
+Door 3 0 0 23467 0 0
+~
+~
+End
+
+#23469
+Name Some Dusty Grasslands~
+Descr
+These dusty grasslands are almost desert-like.  The fine sands that cover
+the base of the grasses, along with the hot wind, makes you feel far away
+from civilization, even though you can make out the towers of Xylar in the
+far distance to the west.  
+~
+Sector 2
+Door 2 0 0 23468 0 0
+~
+~
+Door 3 0 0 23470 0 0
+~
+~
+End
+
+#23470
+Name Some Dusty Grasslands~
+Descr
+The dry grasses here are strong, and crackle under your feet ats you
+travel here.  A warm breeze blows against you, pushing sand and dust into
+your eyes, making it difficult to see.  
+~
+Sector 2
+Door 1 0 0 23469 0 0
+~
+~
+Door 2 0 0 23467 0 0
+~
+~
+End
+
+#23471
+Name A Field of Dry Grass~
+Descr
+This large field of dry grasses smells of dry hay and sage, and you feel
+like you may sneeze at any moment.  A hot, strong gust of wind blows by you,
+blowing dust around your feet, making it uncomfortable to walk around here. 
+~
+Sector 2
+Door 0 0 0 23402 0 0
+~
+~
+Door 1 0 0 23472 0 0
+~
+~
+End
+
+#23472
+Name Some Dusty Grasslands~
+Descr
+These dusty grasslands have to be amazingly hardy to survive the huge
+gusts of wind and hot air that constantly blow against each dry stalk of
+grass.  You can see the road to the north of here.  
+~
+Sector 2
+Door 0 0 0 23403 0 0
+~
+~
+Door 1 0 0 0 30 30
+A large boulder blocks your way in this direction.  
+~
+~
+Door 3 0 0 23471 0 0
+~
+~
+End
+
+#23401
+Name The Great Eastern Highway~
+Descr
+You stand at the western end of the great eastern highway.  The highway,
+built long ago, was rumored to lead to the great lowlands of the world,
+although few venture there any more.  
+~
+Flags 2
+Door 0 0 0 23465 0 0
+~
+~
+Door 1 0 0 23402 0 0
+~
+~
+Door 2 0 0 0 30 30
+Large thorn bushes block your way to the south.  
+~
+~
+Door 3 0 0 50542 0 0
+~
+~
+End
+
+#23402
+Name The Great Eastern Highway~
+Descr
+The large and beautiful highway runs east and west here.  You can make
+out the tall, ominous looking towers of Xylar far to the west.  The grasses
+here are a bit dry and matted, but the trees are still green and healthy.  
+~
+Door 0 0 0 23466 0 0
+~
+~
+Door 1 0 0 23403 0 0
+~
+~
+Door 2 0 0 23471 0 0
+~
+~
+Door 3 0 0 23401 0 0
+~
+~
+End
+
+#23403
+Name The Great Eastern Highway~
+Descr
+The large and beautiful highway runs east and west here.  Grass has grown
+over the once-popular road that existed here before your time.  The highway
+bends to the south just to the east of here.  
+~
+Door 0 0 0 23467 0 0
+~
+~
+Door 1 0 0 23404 0 0
+~
+~
+Door 2 0 0 23472 0 0
+~
+~
+Door 3 0 0 23402 0 0
+~
+~
+End
+
+#23404
+Name The Great Eastern Highway~
+Descr
+The highway bends to the south and west here, and in the distance you can
+see Xylar to the west, a very long ways off.  It's two towers seem to jut
+into the sky, overshadowing the whole world.  
+~
+Door 0 0 0 23468 0 0
+~
+~
+Door 2 0 0 23405 0 0
+~
+~
+Door 3 0 0 23403 0 0
+~
+~
+End
+
+#23405
+Name The Great Eastern Highway~
+Descr
+The highway runs north and south here, and a cool, pleasant breeze blows
+softly against you.  You realize you soon will be off wandering the open,
+uncivilized roads once again.  
+~
+Reset M 23411 1 100
+Reset O 52 -1 20
+Reset O 202 -1 100
+Reset O 205 -1 100
+Reset O 51839 -1 1
+Reset O 9812 11 24
+Door 0 0 0 23404 0 0
+~
+~
+Door 2 0 0 23406 0 0
+~
+~
+Door 3 0 0 0 30 30
+A large boulder blocks your way in this direction.  
+~
+~
+End
+
+#23406
+Name The Great Eastern Highway~
+Descr
+The highway turns north and east here, and some tall grasses next to the
+highway sway in the wind.  As you look east you can see nothing but highway,
+fields, and dusty flatlands.  
+~
+Door 0 0 0 23405 0 0
+~
+~
+Door 1 0 0 23407 0 0
+~
+~
+Door 2 0 0 50522 0 0
+~
+~
+End
+
+#23407
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and tall, dry grasses blow gently in
+the breeze.  The sweet smell of wildflowers fills the air, and you feel glad
+to be adventuring on the open roads.  
+~
+Door 1 0 0 23408 0 0
+~
+~
+Door 3 0 0 23406 0 0
+~
+~
+End
+
+#23408
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and tall, dry grasses blow gently in
+the breeze.  The sweet smell of wildflowers fills the air, and you feel glad
+to be adventuring on the open roads.  
+~
+Door 1 0 0 23409 0 0
+~
+~
+Door 3 0 0 23407 0 0
+~
+~
+End
+
+#23409
+Name The Great Eastern Highway~
+Descr
+The great highway bends north and west here, and the wagon tracks you
+have been following are grown over with matted grass and fine dust. 
+Everything is extremely flat, and there is not a hill in sight.  
+~
+Reset M 23401 1 100
+Reset O 23402 21 40
+Reset O 23403 1 45
+Door 0 0 0 23410 0 0
+~
+~
+Door 3 0 0 23408 0 0
+~
+~
+End
+
+#23410
+Name The Great Eastern Highway~
+Descr
+A warm wind blows against you as you journey along this stretch of road. 
+You feel like you are far from civilization, and you are both nervous and
+excited at the concept, even though you've been adventuring your whole life.
+~
+Door 0 0 0 0 30 30
+Prickly thorned bushes block your way to the north.  
+~
+~
+Door 1 0 0 23411 0 0
+~
+~
+Door 2 0 0 23409 0 0
+~
+~
+End
+
+#23411
+Name The Great Eastern Highway~
+Descr
+This long stretch of road runs east and west, and tall grasses grow on
+either side of it.  A warm wind gusts by you, and you feel momentarily
+uneasy.  The ground underfoot makes your travels easy and fast.  
+~
+Reset M 23410 2 100
+Reset O 23411 11 100
+Reset O 237 21 10
+Reset O 202 7 20
+Door 0 0 0 23432 0 0
+~
+~
+Door 1 0 0 23412 0 0
+~
+~
+Door 2 0 0 0 30 30
+Small, prickly bushes block your way to the south.  
+~
+~
+Door 3 0 0 23410 0 0
+~
+~
+End
+
+#23412
+Name The Great Eastern Highway~
+Descr
+You stand on a long stretch of the great eastern road that runs east and
+west.  Far to the west is the city of Xylar, which you know well.  To the
+east lies open road...  
+~
+Door 0 0 0 23428 0 0
+~
+~
+Door 1 0 0 23413 0 0
+~
+~
+Door 3 0 0 23411 0 0
+~
+~
+End
+
+#23413
+Name The Great Eastern Highway~
+Descr
+This long stretch of road runs east and west, and tall grasses grow on
+either side of it.  A warm wind gusts by you, and you feel momentarily
+uneasy.  The ground underfoot makes your travels easy and fast.  
+~
+Door 0 0 0 23433 0 0
+~
+~
+Door 1 0 0 23414 0 0
+~
+~
+Door 2 0 0 23436 0 0
+~
+~
+Door 3 0 0 23412 0 0
+~
+~
+End
+
+#23414
+Name The Great Eastern Highway~
+Descr
+You stand on a long stretch of the great eastern road that runs east and
+west.  Far to the west is the city of Xylar, which you know well.  To the
+east lies open road...  
+~
+Door 0 0 0 23434 0 0
+~
+~
+Door 1 0 0 23415 0 0
+~
+~
+Door 2 0 0 23435 0 0
+~
+~
+Door 3 0 0 23413 0 0
+~
+~
+End
+
+#23415
+Name The Great Eastern Highway~
+Descr
+The road curves south and west here, and you realize you are straying far
+from civilization.  Once a well travelled road, the eastern highway has now
+fallen into disrepair.  
+~
+Reset M 23410 2 100
+Reset O 23411 11 100
+Reset O 236 21 77
+Reset O 201 7 90
+Door 0 0 0 0 30 30
+Prickly bushes block your way to the north.  
+~
+~
+Door 2 0 0 23416 0 0
+~
+~
+Door 3 0 0 23414 0 0
+~
+~
+End
+
+#23416
+Name The Great Eastern Highway~
+Descr
+The highway bends to the north and east here, and for as far as you can
+see, you see flat, dry grasslands.  Far to the east, the world seems like it
+just ends, as the land seems to just disappear.  
+~
+Door 0 0 0 23415 0 0
+~
+~
+Door 1 0 0 23417 0 0
+~
+~
+Door 3 0 0 0 30 30
+Prickly bushes block your way to the west.  
+~
+~
+End
+
+#23417
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and a warm wind gently blows against
+your face.  Grasses rustle beneath your feet, and you feel glad to be
+adventuring on the open roads.  
+~
+Door 1 0 0 23418 0 0
+~
+~
+Door 3 0 0 23416 0 0
+~
+~
+End
+
+#23418
+Name The Great Eastern Highway~
+Descr
+This long stretch of east-west highway has almost been completely
+overgrown with dry grasses.  Once a popular trade-route, ever since the
+eastern edge of the world dropped, it has been almost untravelled.  
+~
+Door 1 0 0 23419 0 0
+~
+~
+Door 3 0 0 23417 0 0
+~
+~
+End
+
+#23419
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and a warm wind gently blows against
+your face.  Grasses rustle beneath your feet, and you feel glad to be
+adventuring on the open roads.  
+~
+Door 1 0 0 23420 0 0
+~
+~
+Door 3 0 0 23418 0 0
+~
+~
+End
+
+#23420
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and a warm wind gently blows against
+your face.  Grasses rustle beneath your feet, and you feel glad to be
+adventuring on the open roads.  
+~
+Door 1 0 0 23421 0 0
+~
+~
+Door 3 0 0 23419 0 0
+~
+~
+End
+
+#23421
+Name The Great Eastern Highway~
+Descr
+This long stretch of east-west highway has almost been completely
+overgrown with dry grasses.  Once a popular trade-route, ever since the
+eastern edge of the world dropped, it has been almost untravelled.  
+~
+Door 1 0 0 23422 0 0
+~
+~
+Door 3 0 0 23420 0 0
+~
+~
+End
+
+#23422
+Name The Great Eastern Highway~
+Descr
+The highway bends north and west here.  To the east, in the distance, you
+can see the great lowlands.  Scratchy, dry grasses brush up against you,
+making your travels a bit uncomfortable.  
+~
+Door 0 0 0 23423 0 0
+~
+~
+Door 3 0 0 23421 0 0
+~
+~
+End
+
+#23423
+Name The Great Eastern Highway~
+Descr
+The highway bends east and south here.  To the east a ways, the world
+seems to just drop off.  The road here has completely been overgrown with
+dry grasses and weeds.  
+~
+Door 1 0 0 23424 0 0
+~
+~
+Door 2 0 0 23422 0 0
+~
+~
+End
+
+#23424
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, if you really want to still call it
+a highway...  The dry grasses sway in the warm breeze alongside the road,
+creating eerie waves.  
+~
+Door 1 0 0 23425 0 0
+~
+~
+Door 3 0 0 23423 0 0
+~
+~
+End
+
+#23425
+Name The Great Eastern Highway~
+Descr
+You stand on the eastern edge of the eastern highway.  Long ago it
+extended much further, to the city of Vepoli, but since the great
+earthquakes, the whole area east of here sunk, creating the near-verticle
+drop to the lowlands, just to the east of here.  
+~
+Door 1 0 0 23426 0 0
+~
+~
+Door 3 0 0 23424 0 0
+~
+~
+End
+
+#23426
+Name The Great Eastern Highway~
+Descr
+You stand on the eastern edge of the eastern highway.  Long ago it
+extended much further, to the city of Vepoli, but since the great
+earthquakes, the whole area east of here sunk, creating the near-verticle
+drop to the lowlands, just to the east of here.  
+~
+Door 1 0 0 23427 0 0
+~
+~
+Door 3 0 0 23425 0 0
+~
+~
+End
+
+#23427
+Name The Great Eastern Highway~
+Descr
+The highway runs east and west here, and tall, dry grasses blow gently in
+the breeze.  The sweet smell of wildflowers fills the air, and you feel glad
+to be adventuring on the open roads.  
+~
+Reset M 23427 1 100
+Door 1 0 0 7600 0 0
+~
+~
+Door 3 0 0 23426 0 0
+~
+~
+End
+
+#23428
+Name A Small Trail through a field of Dry Grass~
+Descr
+This trail consists of matted down grasses.  You can see the eastern
+highway to the south of here, and the trail continues north, where it stops
+abruptly at an outcropping of rocks.  
+~
+Sector 2
+Door 0 0 0 23429 0 0
+~
+~
+Door 1 0 0 23433 0 0
+~
+~
+Door 2 0 0 23412 0 0
+~
+~
+Door 3 0 0 23432 0 0
+~
+~
+End
+
+#23429
+Name A Small Trail through a field of Dry Grass~
+Descr
+This trail consists of matted down grasses.  You can see the eastern
+highway to the south of here, and the trail continues north, where it stops
+abruptly at an outcropping of rocks.  
+~
+Door 0 0 0 23430 0 0
+~
+~
+Door 2 0 0 23428 0 0
+~
+~
+Door 3 0 0 23437 0 0
+~
+~
+End
+
+#23430
+Name At a Rock Outcropping~
+Descr
+This strange rock outcropping looks out of place here amongst the fields
+of dry grasses.  A warm wind blows against you, and a cold wind blows up
+from a hole in the ground here.  
+~
+Flags 2
+Door 2 0 0 23429 0 0
+~
+~
+Door 5 0 0 23431 0 0
+~
+~
+End
+
+#23431
+Name Large, Underground Gates~
+Descr
+You stand before a huge underground gate.  The gate bears the insignia of
+the hill giants, and you wonder if this could be one of their underground
+hangouts.  The exit up leads back up to the surface, and you realize they
+now live underground because there are no hills left in this region of land
+on the surface.  
+~
+Flags 4
+Reset M 23402 6 100
+Reset M 23402 6 100
+Door 0 3 0 23440 30 30
+~
+gate~
+Door 4 0 0 23430 0 0
+~
+~
+End
+
+#23432
+Name A Field of Dry Grasses~
+Descr
+You stand in a field of grasses, just north of the eastern highway.  You
+can see a trail through the field to the east of here.  A warm wind blows
+against your face, and your lips feel dry and chapped.  Thorn bushes block
+your way to the west.  
+~
+Sector 2
+Door 0 0 0 23437 0 0
+~
+~
+Door 1 0 0 23428 0 0
+~
+~
+Door 2 0 0 23411 0 0
+~
+~
+End
+
+#23433
+Name A Field of Dry Grasses~
+Descr
+You stand in a field of grasses, just north of the eastern highway.  You
+can see a trail through the field to the west of here.  A warm wind blows
+against your face, and your lips feel dry and chapped.  
+~
+Sector 2
+Door 1 0 0 23434 0 0
+~
+~
+Door 2 0 0 23413 0 0
+~
+~
+Door 3 0 0 23428 0 0
+~
+~
+End
+
+#23434
+Name A Field of Dry Grasses~
+Descr
+This dry field of grass makes strange crunching noises as you walk here. 
+You can see the highway in plain view to the south, and large thorn bushes
+block your travels to the east.  
+~
+Sector 2
+Door 2 0 0 23414 0 0
+~
+~
+Door 3 0 0 23433 0 0
+~
+~
+End
+
+#23435
+Name A Field of Dry Grasses~
+Descr
+This field sways gently in the warm breeze that seems to stir the whole
+air around you here.  You can see the eastern highway just to the north of
+here, and you feel like you are very far away from civilization.  
+~
+Sector 2
+Door 0 0 0 23414 0 0
+~
+~
+Door 1 0 0 0 30 30
+Huge bushes with thorns on them block your way to the east.  
+~
+~
+Door 3 0 0 23436 0 0
+~
+~
+End
+
+#23436
+Name A Field of Dry Grasses~
+Descr
+This field sways gently in the warm breeze that seems to stir the whole
+air around you here.  You can see the eastern highway just to the north of
+here, and you feel like you are very far away from civilization.  
+~
+Sector 2
+Door 0 0 0 23413 0 0
+~
+~
+Door 1 0 0 23435 0 0
+~
+~
+Door 3 0 0 0 30 30
+Bushes with large thorns on them block your way to the west.  
+~
+~
+End
+
+#23437
+Name A Field of Dry Grasses~
+Descr
+You stand in a large field of grasses.  A Small trail can be seen to both
+the east and west, and thick, thorny bushes block your way to the north. 
+You can see more open field to the south.  
+~
+Sector 2
+Door 0 0 0 0 30 30
+Sharp, thorny bushes block your way to the north.  
+~
+~
+Door 1 0 0 23429 0 0
+~
+~
+Door 2 0 0 23432 0 0
+~
+~
+Door 3 0 0 23438 0 0
+~
+~
+End
+
+#23438
+Name A Path through a Field~
+Descr
+This path runs through a thorny field.  It would be foolish to journey
+north or south of here, due to the thorns.  You can see a small outcropping
+of trees to the west of here.  
+~
+Sector 4
+Door 0 0 0 0 30 30
+Thorny bushes block your way.  
+~
+~
+Door 1 0 0 23437 0 0
+~
+~
+Door 2 0 0 0 30 30
+Thorny bushes block your way to the south.  
+~
+~
+Door 3 0 0 23439 0 0
+~
+~
+End
+
+#23439
+Name A Small Patch of Trees~
+Descr
+You stand at a small patch of trees in the middle of a field.  Large
+thorn bushes surround these trees, making it impossible to go any way but
+east, the way you came from.  
+~
+Shd 1
+Sector 4
+Reset O 23401 -5 100
+Door 0 0 0 0 30 30
+Thorny bushes block your way to the north.  
+~
+~
+Door 1 0 0 23438 0 0
+~
+~
+Door 2 0 0 0 30 30
+Thorny bushes block your way to the south.  
+~
+~
+Door 3 0 0 0 30 30
+Thorny bushes block your way to the west.  
+~
+~
+End
+
+#23440
+Name Entrance to the Hill Giants' Underground Domain~
+Descr
+You stand at the entrance to the hill giants' domain.  To the south,
+there is a strange, shimmering aura around the exit, and you can't quit tell
+where it leads to...  
+~
+Flags 4
+Reset M 23402 6 100
+Door 0 0 0 23441 0 0
+~
+~
+Door 2 3 0 23431 30 30
+~
+gate~
+Door 3 0 0 23442 0 0
+~
+~
+End
+
+#23441
+Name An Underground Tunnel~
+Descr
+This underground tunnel is extremely large, and you almost feel like a
+midget here.  You can see the entrance to this place just south of here... 
+The air is stuffy here, and smells of sweat.  
+~
+Flags 4
+Reset M 23409 3 100
+Reset O 23406 21 5
+Reset M 23406 3 100
+Reset O 23408 21 24
+Reset O 23409 7 5
+Door 0 0 0 23449 0 0
+~
+~
+Door 2 0 0 23440 0 0
+~
+~
+End
+
+#23442
+Name An Underground Tunnel~
+Descr
+The air is stuffy and hot, and it smells of sweat and greasy hair.  You
+can see the entrance to this underground domain to the east of here, and the
+tunnel continues west.  
+~
+Flags 4
+Reset M 23409 3 100
+Reset O 23410 21 7
+Reset O 212 9 80
+Reset O 206 6 55
+Door 1 0 0 23440 0 0
+~
+~
+Door 3 0 0 23443 0 0
+~
+~
+End
+
+#23443
+Name An Underground Tunnel~
+Descr
+The air is stuffy and hot, and it smells of sweat and greasy hair.  You
+can see the entrance to this underground domain to the east of here, and the
+tunnel continues west.  
+~
+Flags 4
+Reset M 23406 3 100
+Door 1 0 0 23442 0 0
+~
+~
+Door 3 0 0 23444 0 0
+~
+~
+End
+
+#23444
+Name An Underground Tunnel~
+Descr
+The tunnel bends north and east here, and the large, stone walls seem to
+hold the hot, sweaty-smelling air in quite well.  What you wouldn't give for
+a few gusts of fresh air right now...  
+~
+Flags 4
+Door 0 0 0 23445 0 0
+~
+~
+Door 1 0 0 23443 0 0
+~
+~
+End
+
+#23445
+Name An Underground Tunnel~
+Descr
+You stand in an immense, underground tunnel.  Hot, sweaty air swirls
+around you, making you a bit nautious.  The smell seems to get worse to the
+north of here.  
+~
+Flags 4
+Reset M 23406 4 100
+Reset O 23409 7 12
+Door 0 0 0 23447 0 0
+~
+~
+Door 2 0 0 23444 0 0
+~
+~
+Door 3 0 0 23446 0 0
+~
+~
+End
+
+#23446
+Name An Underground Tunnel~
+Descr
+The tunnel runs east and west here, and just to the east you can see a
+junction in the tunnel.  The air seems to smell scented with some strange
+fragrance to the west of here.  
+~
+Flags 4
+Door 1 0 0 23445 0 0
+~
+~
+Door 3 0 0 23448 0 0
+~
+~
+End
+
+#23447
+Name Entrance to a Large Arena~
+Descr
+You stand in the entrance to an immense arena, where many of the giants
+gather to watch their kind compete in blood-letting activities such as fist
+fights and other types of fights.  
+~
+Flags 4
+Reset M 23402 6 100
+Door 0 0 0 23459 0 0
+~
+~
+Door 2 0 0 23445 0 0
+~
+~
+End
+
+#23448
+Name An Underground Tunnel~
+Descr
+You stand in an underground tunnel.  Just to the west you can see a
+magnificent marble walkway, polished and well-kept.  To the east you can see
+more large, giant passageway.  
+~
+Flags 4
+Door 1 0 0 23446 0 0
+~
+~
+Door 3 0 0 23462 0 0
+~
+~
+End
+
+#23449
+Name An Underground Tunnel~
+Descr
+You stand in an immense, underground tunnel.  You can see the entrance a
+ways off to the south, and the smell of sweat and hard work makes you
+slightly sick to your stomach.  
+~
+Flags 4
+Reset M 23409 3 100
+Door 0 0 0 23450 0 0
+~
+~
+Door 2 0 0 23441 0 0
+~
+~
+End
+
+#23450
+Name An Underground Tunnel~
+Descr
+The tunnel bends south and west here.  The large tunnel is at least 30
+feet high and 20 feet wide, and definately was built for the giants, by the
+giants, and kept up by the giants that dwell here.  
+~
+Flags 4
+Door 2 0 0 23449 0 0
+~
+~
+Door 3 0 0 23451 0 0
+~
+~
+End
+
+#23451
+Name Entrance to a Large Arena~
+Descr
+You stand in the entrance to an immense arena, where many of the giants
+gather to watch their kind compete in blood-letting activities such as fist
+fights and other types of fights.  
+~
+Flags 6
+Door 1 0 0 23450 0 0
+~
+~
+Door 3 0 0 23452 0 0
+~
+~
+End
+
+#23452
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Reset M 23407 4 100
+Reset O 23408 21 58
+Reset O 219 4 40
+Door 0 0 0 23454 0 0
+~
+~
+Door 1 0 0 23451 0 0
+~
+~
+Door 2 0 0 23455 0 0
+~
+~
+Door 3 0 0 23453 0 0
+~
+~
+End
+
+#23453
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Door 0 0 0 23456 0 0
+~
+~
+Door 1 0 0 23452 0 0
+~
+~
+Door 2 0 0 23457 0 0
+~
+~
+Door 3 0 0 23458 0 0
+~
+~
+End
+
+#23454
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Reset M 23407 4 100
+Reset O 23406 21 17
+Reset O 203 7 65
+Door 2 0 0 23452 0 0
+~
+~
+Door 3 0 0 23456 0 0
+~
+~
+End
+
+#23455
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Reset M 23407 4 100
+Reset O 219 4 80
+Door 0 0 0 23452 0 0
+~
+~
+Door 3 0 0 23457 0 0
+~
+~
+End
+
+#23456
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Reset M 23407 4 100
+Reset O 219 4 55
+Reset O 237 21 55
+Door 1 0 0 23454 0 0
+~
+~
+Door 2 0 0 23453 0 0
+~
+~
+Door 3 0 0 23461 0 0
+~
+~
+End
+
+#23457
+Name A Large Arenna~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Reset M 23408 1 100
+Reset O 215 9 34
+Reset O 3201 22 35
+Reset O 222 4 55
+Reset O 23409 7 8
+Reset O 23403 0 22
+Reset O 23406 21 44
+Door 0 0 0 23453 0 0
+~
+~
+Door 1 0 0 23455 0 0
+~
+~
+End
+
+#23458
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Door 0 0 0 23461 0 0
+~
+~
+Door 1 0 0 23453 0 0
+~
+~
+Door 3 0 0 23459 0 0
+~
+~
+End
+
+#23459
+Name A Large Arena~
+Descr
+You stand in this immense arena, stuffy and smelly with the horrible
+stench of sweat and decaying blood.  Small chunks of giant-flesh lie on the
+ground, and many small, strange bugs hungrily munch away on the free food.  
+~
+Flags 4
+Door 0 0 0 23460 0 0
+~
+~
+Door 1 0 0 23458 0 0
+~
+~
+Door 2 0 0 23447 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

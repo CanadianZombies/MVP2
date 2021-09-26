@@ -1,0 +1,788 @@
+#AREADATA 
+Name Sacred Forest~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mTick!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Varas~
+VNUMs 60301 60400
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#60301
+Name figure guardian floating forest~
+Short forest guardian~
+Long 
+A floating figure is here acting as a forest guardian.
+~
+Descr
+When you look at this figure you can not tell if it is male or female. 
+For that matter you really can not see much more than the robe it is
+wearing.  The robe itself is an almost-evil black, but you sense nothing
+evil from the figure.  You sense nothing at all.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+ActBits3 4096
+Alignment -1000
+Money 100
+Level 100
+MobType 9
+Guard 2
+RaceHate 402653184
+ArmorClass -150
+End
+
+#60302
+Name marion man druid~
+Short Marion the Air Druid~
+Long 
+A man in colorless robe floats here.
+~
+Descr
+Marion floats effortlesly above you with a very placid look on his face. 
+The sky here is filled with clouds that change shape as Marion desires.  His
+robe is colorless, but not transparent.  Very odd indeed.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 524840
+Alignment 200
+Money 75
+Level 75
+Sex 1
+MobType 0
+Guard 0
+RaceHate 402653184
+ArmorClass 60
+End
+
+#60303
+Name I'akalam man druid fire~
+Short I'akalam the Fire Druid~
+Long 
+A man in a flaming robe meditates here.
+~
+Descr
+I'akalam looks to be so devoted to the element of fire that his hair and
+eyes have turned red.  His robe is indeed on fire, yet the flames do not
+consume it.  His almost expressionless face almost hurts to look at as he
+gazes scronfully at you.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment 200
+Money 80
+Level 80
+Sex 1
+MobType 0
+Guard 0
+Spec spec_breath_fire
+RaceHate 402653184
+ArmorClass 60
+End
+
+#60304
+Name man Franteshn earth druid~
+Short Franteshn the Earth Druid~
+Long 
+A man in a forest-green robe is here chanting.
+~
+Descr
+Franteshn looks like a very old and wise man.  His sits on top of this
+hill like a king of all that lives on the ground.  His chants are not like
+anything you have heard, much like the rest of this place.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment 200
+Money 85
+Level 85
+Sex 1
+MobType 0
+Guard 0
+RaceHate 402653184
+ArmorClass 60
+End
+
+#60305
+Name woman nomolos druid water~
+Short Nomolos the Water Druid~
+Long 
+A woman dressed in a deep-blue robe hovers inches above the water.
+~
+Descr
+Nomolos looks to be the youngest of the four druid masters, however you
+fel that she may be the most powerful.  Her body is covered by a deep-blue
+robe that commands you to think of the ocean.  Her hands are delicate, but
+they look very cold.  
+~
+AMax 1
+NHeight 0
+ActBits 3
+Affect_By 552
+Alignment 200
+Money 90
+Level 90
+Sex 2
+MobType 0
+Guard 0
+Spec spec_breath_frost
+RaceHate 402653184
+ArmorClass 60
+End
+
+#60306
+Name guardian stone~
+Short the altar guardian~
+Long 
+A massive stone guardian stands here, looming over the altar.
+~
+Descr
+This "being" apears to be made of pure stone, but then again you can see
+right through it.  It is careful to not hit the altar as it flies, so you
+gather that it is tangible, although it looks much tougher that you.  
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+ActBits3 524288
+Affect_By 524840
+Money 175
+Level 175
+MobType 10
+Guard 0
+RaceHate 134217728
+ArmorClass -400
+End
+
+#60307
+Name druid forest~
+Short a forest druid~
+Long 
+A druid is here worshiping the forest.
+~
+Descr
+This forest druid is literally worshiping the ground you walk on, however
+you get the distinct impression he would continue to do this if you weren't
+here.  There is nothing very interesting about him, other than the fact that
+he is quite naked.  Well that is interesting, oh well back to nature!  
+~
+AMax 6
+NHeight 0
+ActBits 3
+ActBits3 4
+Alignment 155
+Money 45
+Level 45
+Sex 1
+MobType 0
+Guard 60308
+ArmorClass 80
+End
+
+#60308
+Name ledivar great druid figure~
+Short Ledivar the Great Druid~
+Long 
+A majestic figure is here, glowing with energy.
+~
+Descr
+The glowing figure before you might be nothing more than an energy field
+of somesort, it is very hard to tell from where you stand.  There are two
+druids here worshiping it though.  Whatever it is, it is very impressive.  
+~
+AMax 1
+NHeight 0
+ActBits 536870915
+Affect_By 134218280
+Money 104
+Level 104
+Sex 1
+MobType 0
+Guard 0
+Spec spec_breath_any
+RaceHate 134217728
+End
+
+#60309
+Name guardian stone~
+Short the altar guardian~
+Long 
+A massive stone guardian stands here, looming over the altar.
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 3
+ActBits3 524288
+Affect_By 590378
+Money 175
+Level 175
+MobType 10
+Guard 0
+Spec spec_warrior
+RaceHate 402653184
+ArmorClass -200
+End
+
+#0
+
+
+
+#OBJDATA
+#60301
+Name black robe sin~
+Short a robe as black as sin itself~
+Descr
+An extremly black robe darkens the whole room.
+[0;36m~
+Type 9
+Extra 2560
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1055
+End
+
+#60302
+Name altar~
+Short the altar~
+Descr
+An altar made of stone rests here in the shape of a cross.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60316 0 0 0 0 0 0 0 0
+Weight 1000
+Cost 0
+End
+
+#60303
+Name robe green forest MOVE~
+Short [32ma forest-green robe[0m~
+Descr
+[32mA robe the color of trees rests on the floor.[0m
+[0;36m~
+Type 9
+Extra 2
+Wear 1025
+Timer 80
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 10 10 0 0
+Weight 0
+Cost 1000
+Affect 14 10 1 0 0
+End
+
+#60304
+Name green stone~
+Short a green stone~
+Descr
+A simple green stone has been left here.
+[0;36m~
+Type 8
+Wear 1
+Timer 1000
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+End
+
+#60305
+Name robe blue deep~
+Short [34ma deep-blue robe[0m~
+Descr
+[34mA robe that swirls with shades of blue lies  here.[0m
+[0;36m~
+Type 9
+Extra 2
+Wear 1025
+Timer 80
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 10 10 0 0
+Weight 0
+Cost 2000
+End
+
+#60306
+Name blue stone~
+Short a blue stone~
+Descr
+A simple blue stone has been left here.
+[0;36m~
+Type 8
+Wear 1
+Timer 1000
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+End
+
+#60307
+Name robe clear colorless~
+Short a colorless robe~
+Descr
+An object the shape of a robe blocks out existence here.
+[0;36m~
+Type 9
+Extra 2
+Wear 1025
+Timer 60
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 10 10 0 0
+Weight 0
+Cost 1000
+End
+
+#60308
+Name clear stone~
+Short a clear stone~
+Descr
+A simple clear stone has been left here.
+[0;36m~
+Type 8
+Wear 1
+Timer 1400
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+End
+
+#60309
+Name flaming red robe APB~
+Short [31ma [1mflaming [0m[31mrobe[0m~
+Descr
+[1m[31mA robe lies flaming on the floor.[0m
+[0;36m~
+Type 9
+Extra 536870978
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 3 0 0 0 0 2 2 0 0
+Weight 0
+Cost 1000
+Affect 19 1 0 0 0
+End
+
+#60310
+Name red stone~
+Short a red stone~
+Descr
+A simple red stone has been left here.
+[0;36m~
+Type 8
+Extra 16384
+Wear 1
+Timer 900
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 300
+End
+
+#60311
+Name pool~
+Short the pool of blessing~
+Descr
+An enchanted pool glows with energy here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60312
+Name staff~
+Short the staff of nature~
+Descr
+A long stick in some way resebling a tree lies on the ground.
+[0;36m~
+Type 3
+Wear 16385
+Timer 5500
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 70 4 4 91 0 0 0 0 0 0
+Weight 2
+Cost 1900
+End
+
+#60313
+Name cloak great AC~
+Short the great cloak~
+Descr
+A cloak lies on the floor pulsating with power.
+[0;36m~
+Type 9
+Extra 2
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 5 0 0 0 0 40 40 0 0
+Weight 1
+Cost 49384
+Affect 17 -1 1 0 0
+End
+
+#60314
+Name altar~
+Short the altar~
+Descr
+An altar made of stone rests here in the shape of a cross.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 60307 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#60315
+Name stone nature~
+Short the stone of nature~
+Descr
+A stone made up of four colored pieces has been left here.
+[0;36m~
+Type 8
+Wear 1
+Timer 2500
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 1000
+End
+
+#0
+
+
+
+#ROOMDATA
+#60301
+Name In the Air Beside a Tree~
+Descr
+You are hovering next to a large tree.  To the west there is a large
+enough clearing to fly in and proceed up to the tree house.  Of course you
+can also simply float down to the ground to continue on elsewhere as well.  
+~
+Sector 9
+Reset O 42805 -5 100
+Door 3 0 0 60302 0 0
+~
+~
+Door 5 0 0 42819 0 0
+~
+~
+End
+
+#60302
+Name Below a Treehouse~
+Descr
+You are just below a small treehouse.  It is tough to say what purpose it
+serves, but you think it might be the Forest Rangers head quarters.  There
+are thick branches all around but it looks like you may be able to fly out
+the the east.  
+~
+Sector 3
+Reset O 42804 -5 100
+Door 0 0 0 42801 0 0
+~
+~
+Door 1 0 0 60301 0 0
+~
+~
+Door 4 0 0 42846 0 0
+~
+~
+End
+
+#60303
+Name Before a Great Treeline~
+Descr
+The forest here is almost completly different that the rest of Onkalo.
+The trees go from thin and tall to a bit shorter, and very thick.  So thick
+in fact that you really don't see how you can progress any further to the
+south.
+~
+Reset M 60301 1 100
+Reset O 60301 11 100
+Door 0 3 0 42801 30 30
+~
+brush~
+Door 2 0 0 60315 0 0
+~
+~
+End
+
+#60304
+Name Inside a Holy Forest~
+Descr
+The forest is suddenly normal again.  This place is very magical indeed. 
+The forest here is so full of trees that you begin to fell a bit tipsy from
+the high ammounts of oxygen.  To the north is a windy clearing and the
+shouth holds an altar of some sort.  
+~
+Sector 3
+Reset M 60307 6 100
+Door 0 0 0 60315 0 0
+~
+~
+Door 2 0 0 60307 0 0
+~
+~
+End
+
+#60305
+Name On the Sumit of an Enchanted Hill~
+Descr
+You suddenly find yourself not only climbing a hill, but on top.  This
+"hill" might be called a peak if it were a bit higher.  The land here has
+severl other qualities, but the most striking is the shape of the rocks, the
+seem to resemble magical characters.  
+~
+Sector 4
+Reset M 60304 1 100
+Reset O 60304 -1 75
+Reset O 60303 11 18
+Door 1 0 0 60306 0 0
+~
+~
+End
+
+#60306
+Name Inside a Holy Forest~
+Descr
+The forest here turns back towards the normal variety, except the trees
+are of a very different from either Onkalo or the other small patches of
+trees here.  The leaves are palmate in nature reminding you of a maple tree.
+To the west is a rather odd looking peak, and the altar is back to the east.
+~
+Sector 4
+Reset M 60307 6 100
+Door 1 0 0 60307 0 0
+~
+~
+Door 2 0 0 60310 0 0
+~
+~
+Door 3 0 0 60305 0 0
+~
+~
+End
+
+#60307
+Name The Center of the Holy Forest~
+Descr
+This is the center of the holy forest.  You know this because you can see
+clearly in all four directions.  There is also a large altar here pointing
+to each exit.  Interestingly enough there is a strange glow coming from the
+west, east, and south.  You start to wonder why not the north, but maybe the
+breeze from there makes up for it.  
+~
+Sector 3
+Reset O 60302 -5 100
+Door 0 0 0 60304 0 0
+~
+~
+Door 1 0 0 60308 0 0
+~
+~
+Door 2 0 0 60311 0 0
+~
+~
+Door 3 0 0 60306 0 0
+~
+~
+End
+
+#60308
+Name Inside a Holy Forest~
+Descr
+The trees are thicker here, but quite a different type.  These look much
+more like trees found in a tropical rainforest with broad fronds covering a
+large ammount of surface area.  To the east you can see a very small desert,
+and the altar is back to the west.  
+~
+Sector 3
+Reset M 60307 6 100
+Door 1 0 0 60309 0 0
+~
+~
+Door 2 259 0 60312 30 30
+~
+bush~
+Door 3 0 0 60307 0 0
+~
+~
+End
+
+#60309
+Name An Enchanted Desert~
+Descr
+The land here has so scortched that if this "desert" ever had any sand it
+all melted away a long time ago.  The temprature here is extremly hot and
+random bursts of flames shoot up from the ground.  The only exit is to the
+west back towards the altar.  
+~
+Flags 16777216
+Sector 10
+Reset M 60303 1 100
+Reset O 60309 11 1
+Reset O 60310 -1 75
+Door 3 0 0 60308 0 0
+~
+~
+End
+
+#60310
+Name Inside a Holy Forest~
+Descr
+These trees are very thick and heavy.  The closest thing you have ever
+seen are in swamps.  The air here is also quite heavy smelling of mold and
+decaying materiels of all kinds.  To the south is a small pond and the altar
+is back to the north.  
+~
+Sector 3
+Door 0 0 0 60306 0 0
+~
+~
+Door 1 0 0 60311 0 0
+~
+~
+End
+
+#60311
+Name Inside a Holy Forest~
+Descr
+These trees are very thick and heavy.  The closest thing you have ever
+seen are in swamps.  The air here is also quite heavy smelling of mold and
+decaying materiels of all kinds.  To the south is a small pond and the altar
+is back to the north.  
+~
+Sector 3
+Reset M 60307 6 100
+Door 0 0 0 60307 0 0
+~
+~
+Door 2 0 0 60313 0 0
+~
+~
+Door 3 0 0 60310 0 0
+~
+~
+End
+
+#60312
+Name A Secret Pool~
+Descr
+You have found a very quaint area hidden behind some bushes.  The air
+here is very pure, and very mild.  The temperature is very comfortable and
+you feel quite sleepy all of the sudden.  There is a glowing pool in the
+middle of the room.  It's tough to say what the magical pool will do, but
+you feel very comfortable about drinking from it.  
+~
+Flags 2097152
+Sector 3
+Reset O 60311 -5 100
+Door 0 3 0 60308 30 30
+~
+bush~
+Door 3 0 0 60311 0 0
+~
+~
+End
+
+#60313
+Name A Magical Pond~
+Descr
+You find yourself on a very small lake, ok more of a pond.  There are a
+few trees growing right out of the water here, but they are rather twisted
+and strange.  The water itself is an oddity, as it is neither clear nor does
+it have any color other than a very dark blue.  The surface of the pond
+swirls with color only as the water itself if perfectly calm.  
+~
+Sector 6
+Reset M 60305 1 100
+Reset O 60305 11 9
+Reset O 60306 -1 100
+Door 0 0 0 60311 0 0
+~
+~
+End
+
+#60314
+Name Before the Great Ledivar~
+Descr
+The air is still and calm here, and a warm aura of nature engulfs you. 
+The only exit is to the south of here.  The air is sweet, and smells of
+magical reagents, and a strange life energy seems to hang in the air.  
+~
+Sector 3
+Reset M 60307 6 100
+Reset M 60307 6 100
+Reset M 60308 1 100
+Reset O 60313 11 8
+Reset O 60312 21 50
+Door 2 0 0 60316 0 0
+~
+~
+End
+
+#60315
+Name A Very Windy Clearing~
+Descr
+Wow what a change.  You have moved from a simple (if not beautiful)
+forest in to a clearing with very eratic wind patterns.  There are several
+small clouds in various shapes, some of the shapes you recognize as ancient
+runes, the others are completly lost on you.  
+~
+Sector 3
+Reset M 60302 1 100
+Reset O 60307 11 12
+Reset O 60308 -1 75
+Door 0 0 0 60303 0 0
+~
+~
+Door 2 0 0 60304 0 0
+~
+~
+End
+
+#60316
+Name Inside the Altar of Nature~
+Descr
+The inside of the altar is very small and not very comfortable either. 
+You feel yourself starting to sweat even though if you had to describe the
+temperature you would guess it is close to freezing in here.  To the north
+you can see a bright glow and a few figures around it.  
+~
+Flags 3145732
+Sector 3
+Reset M 60306 1 100
+Door 0 0 0 60314 0 0
+~
+~
+Door 4 0 0 60307 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

@@ -1,0 +1,125 @@
+#AREADATA 
+Name darkdemon's first~
+Repop The area seems alive again!~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Darkdemon Palador~
+VNUMs 11401 11499
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#11401
+Name At The Foot Of A Small Cliff~
+Descr
+Looking around you seem to be at the base of a cliff, the air is still
+and quiet here, to the east you see an old rusty gate, its lock completely
+rusted through, looking like it hasn't been used in years. Taking a closer
+look it looks like an entrance to an old mine or something of the sort. You
+hear a loud roar and somethings death cry coming from the other side of the
+door and wonder if you should enter. 
+~
+Door 1 3 0 11402 30 30
+~
+Rusted Old Iron Gate~
+End
+
+#11402
+Name A Large Cavern~
+Descr
+A stench quickly fills your nostrils, as your eyes begin to adjust you
+notice you are in a HUGE cavern , in the distance you hear a faint sound of
+water trickling. You snap back into reality as a bat barely misses your
+face. 
+~
+Flags 4
+Door 1 0 0 11403 0 0
+~
+~
+Door 3 3 0 11401 30 30
+~
+Rusted Old Iron Gate~
+End
+
+#11403
+Name A Large Cavern~
+Descr
+A group of bats fly past you as you enter the room. The floor here is
+very muddy with a few formations poking up out of the cavern floor. The air
+here is damp and you can tell fresh air hasn't found its way down here in
+many many ages. 
+~
+Flags 4
+Door 0 0 0 11404 0 0
+~
+~
+Door 2 0 0 11405 0 0
+~
+~
+Door 3 0 0 11402 0 0
+~
+~
+End
+
+#11404
+Name A Large Cavern~
+Descr
+You try not to slip as you inch your way across the cavern floor.
+Sticking out of the mud you notice a human skull decaying here. Looking
+closer at the skull you notice that half of one side seems to be crushed.
+You ponder for a moment as you think what on earth could have crushed this
+skull. Your body begins to shiver as you think about it. 
+~
+Flags 4
+Door 2 0 0 11403 0 0
+~
+~
+End
+
+#11405
+Name A Large Cavern~
+Descr
+Drops of water are falling from the ceiling, hitting you on the head. The
+drops are warm and as you wipe them from your head and face, you notice
+somthing strange about the feel of it. Opon examining your hands you realize
+that its not water , but BLOOD.... A cry of agony is heard echoing through
+the cavern walls. 
+~
+Flags 4
+Door 0 0 0 11403 0 0
+~
+~
+Door 2 0 0 11406 0 0
+~
+~
+End
+
+#11406
+Name Small Damp Crawlspace~
+Descr
+~
+Flags 4
+Door 0 0 0 11405 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

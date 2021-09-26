@@ -1,0 +1,4810 @@
+#AREADATA 
+Name A Barren Wasteland~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Talon Xrin~
+VNUMs 27801 27999
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#27801
+Name sandman~
+Short a sandman~
+Long 
+A man made of sand slowly stumbles through the wasteland.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 32768
+Money 35
+Level 35
+MobType 10
+Guard 0
+End
+
+#27802
+Name devil~
+Short a dust devil~
+Long 
+A giant dust devil is moving quickly across the wasteland.
+~
+Descr
+~
+AMax 5
+NHeight 40
+ActBits 8
+ActBits4 4096
+Money 55
+Level 55
+Guard 0
+End
+
+#27803
+Name desert troll~
+Short a desert troll~
+Long 
+A desert troll wanders the wasteland looking for some food.
+~
+Descr
+~
+AMax 5
+NHeight 80
+ActBits 8
+Money 100
+Level 100
+MobType 12
+Guard 0
+Spec spec_warrior
+End
+
+#0
+
+
+
+#OBJDATA
+#0
+
+
+
+#ROOMDATA
+#27801
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27802 0 0
+~
+~
+Door 1 0 0 27816 0 0
+~
+~
+Door 3 0 0 27851 0 0
+~
+~
+End
+
+#27802
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27803 0 0
+~
+~
+Door 1 0 0 27815 0 0
+~
+~
+Door 2 0 0 27801 0 0
+~
+~
+Door 3 0 0 27852 0 0
+~
+~
+End
+
+#27803
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27804 0 0
+~
+~
+Door 1 0 0 27814 0 0
+~
+~
+Door 2 0 0 27802 0 0
+~
+~
+Door 3 0 0 27853 0 0
+~
+~
+End
+
+#27804
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27806 0 0
+~
+~
+Door 1 0 0 27813 0 0
+~
+~
+Door 2 0 0 27803 0 0
+~
+~
+Door 3 0 0 27854 0 0
+~
+~
+End
+
+#27805
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Door 2 0 0 27804 0 0
+~
+~
+End
+
+#27806
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27807 0 0
+~
+~
+Door 1 0 0 27812 0 0
+~
+~
+Door 2 0 0 27804 0 0
+~
+~
+Door 3 0 0 27855 0 0
+~
+~
+End
+
+#27807
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27809 0 0
+~
+~
+Door 1 0 0 27811 0 0
+~
+~
+Door 2 0 0 27806 0 0
+~
+~
+Door 3 0 0 27856 0 0
+~
+~
+End
+
+#27809
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27810 0 0
+~
+~
+Door 2 0 0 27807 0 0
+~
+~
+Door 3 0 0 27857 0 0
+~
+~
+End
+
+#27810
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27824 0 0
+~
+~
+Door 2 0 0 27811 0 0
+~
+~
+Door 3 0 0 27809 0 0
+~
+~
+End
+
+#27811
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27810 0 0
+~
+~
+Door 1 0 0 27823 0 0
+~
+~
+Door 2 0 0 27812 0 0
+~
+~
+Door 3 0 0 27807 0 0
+~
+~
+End
+
+#27812
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27811 0 0
+~
+~
+Door 1 0 0 27822 0 0
+~
+~
+Door 2 0 0 27813 0 0
+~
+~
+Door 3 0 0 27806 0 0
+~
+~
+End
+
+#27813
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27812 0 0
+~
+~
+Door 1 0 0 27820 0 0
+~
+~
+Door 2 0 0 27814 0 0
+~
+~
+Door 3 0 0 27804 0 0
+~
+~
+End
+
+#27814
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27813 0 0
+~
+~
+Door 1 0 0 27819 0 0
+~
+~
+Door 2 0 0 27815 0 0
+~
+~
+Door 3 0 0 27803 0 0
+~
+~
+End
+
+#27815
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27814 0 0
+~
+~
+Door 1 0 0 27818 0 0
+~
+~
+Door 2 0 0 27816 0 0
+~
+~
+Door 3 0 0 27802 0 0
+~
+~
+End
+
+#27816
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27815 0 0
+~
+~
+Door 1 0 0 27817 0 0
+~
+~
+Door 3 0 0 27801 0 0
+~
+~
+End
+
+#27817
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27818 0 0
+~
+~
+Door 1 0 0 27831 0 0
+~
+~
+Door 3 0 0 27816 0 0
+~
+~
+End
+
+#27818
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27819 0 0
+~
+~
+Door 1 0 0 27830 0 0
+~
+~
+Door 2 0 0 27817 0 0
+~
+~
+Door 3 0 0 27815 0 0
+~
+~
+End
+
+#27819
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27820 0 0
+~
+~
+Door 1 0 0 27829 0 0
+~
+~
+Door 2 0 0 27818 0 0
+~
+~
+Door 3 0 0 27814 0 0
+~
+~
+End
+
+#27820
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27822 0 0
+~
+~
+Door 1 0 0 27828 0 0
+~
+~
+Door 2 0 0 27819 0 0
+~
+~
+Door 3 0 0 27813 0 0
+~
+~
+End
+
+#27821
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 0 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27850 0 0
+~
+~
+Door 3 0 0 27846 0 0
+~
+~
+End
+
+#27822
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27823 0 0
+~
+~
+Door 1 0 0 27827 0 0
+~
+~
+Door 2 0 0 27820 0 0
+~
+~
+Door 3 0 0 27812 0 0
+~
+~
+End
+
+#27823
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27824 0 0
+~
+~
+Door 1 0 0 27826 0 0
+~
+~
+Door 2 0 0 27822 0 0
+~
+~
+Door 3 0 0 27811 0 0
+~
+~
+End
+
+#27824
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27825 0 0
+~
+~
+Door 2 0 0 27823 0 0
+~
+~
+Door 3 0 0 27810 0 0
+~
+~
+End
+
+#27825
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27841 0 0
+~
+~
+Door 2 0 0 27826 0 0
+~
+~
+Door 3 0 0 27824 0 0
+~
+~
+End
+
+#27826
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27825 0 0
+~
+~
+Door 1 0 0 27840 0 0
+~
+~
+Door 2 0 0 27827 0 0
+~
+~
+Door 3 0 0 27823 0 0
+~
+~
+End
+
+#27827
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27803 1 100
+Door 0 0 0 27826 0 0
+~
+~
+Door 1 0 0 27839 0 0
+~
+~
+Door 2 0 0 27828 0 0
+~
+~
+Door 3 0 0 27822 0 0
+~
+~
+End
+
+#27828
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27827 0 0
+~
+~
+Door 1 0 0 27838 0 0
+~
+~
+Door 2 0 0 27829 0 0
+~
+~
+Door 3 0 0 27820 0 0
+~
+~
+End
+
+#27829
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27828 0 0
+~
+~
+Door 1 0 0 27837 0 0
+~
+~
+Door 2 0 0 27830 0 0
+~
+~
+Door 3 0 0 27819 0 0
+~
+~
+End
+
+#27830
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27829 0 0
+~
+~
+Door 1 0 0 27836 0 0
+~
+~
+Door 2 0 0 27831 0 0
+~
+~
+Door 3 0 0 27818 0 0
+~
+~
+End
+
+#27831
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27830 0 0
+~
+~
+Door 1 0 0 27835 0 0
+~
+~
+Door 2 0 0 27832 0 0
+~
+~
+Door 3 0 0 27817 0 0
+~
+~
+End
+
+#27832
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27831 0 0
+~
+~
+Door 1 0 0 27834 0 0
+~
+~
+End
+
+#27834
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27835 0 0
+~
+~
+Door 3 0 0 27832 0 0
+~
+~
+End
+
+#27835
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27836 0 0
+~
+~
+Door 1 0 0 27848 0 0
+~
+~
+Door 2 0 0 27834 0 0
+~
+~
+Door 3 0 0 27831 0 0
+~
+~
+End
+
+#27836
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27837 0 0
+~
+~
+Door 1 0 0 27847 0 0
+~
+~
+Door 2 0 0 27835 0 0
+~
+~
+Door 3 0 0 27830 0 0
+~
+~
+End
+
+#27837
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27838 0 0
+~
+~
+Door 1 0 0 27846 0 0
+~
+~
+Door 2 0 0 27836 0 0
+~
+~
+Door 3 0 0 27829 0 0
+~
+~
+End
+
+#27838
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27839 0 0
+~
+~
+Door 1 0 0 27845 0 0
+~
+~
+Door 2 0 0 27837 0 0
+~
+~
+Door 3 0 0 27828 0 0
+~
+~
+End
+
+#27839
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27840 0 0
+~
+~
+Door 1 0 0 27844 0 0
+~
+~
+Door 2 0 0 27838 0 0
+~
+~
+Door 3 0 0 27827 0 0
+~
+~
+End
+
+#27840
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27841 0 0
+~
+~
+Door 1 0 0 27843 0 0
+~
+~
+Door 2 0 0 27839 0 0
+~
+~
+Door 3 0 0 27826 0 0
+~
+~
+End
+
+#27841
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27842 0 0
+~
+~
+Door 2 0 0 27840 0 0
+~
+~
+Door 3 0 0 27825 0 0
+~
+~
+End
+
+#27842
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27843 0 0
+~
+~
+Door 3 0 0 27841 0 0
+~
+~
+End
+
+#27843
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27842 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27844 0 0
+~
+~
+Door 3 0 0 27840 0 0
+~
+~
+End
+
+#27844
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27843 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27845 0 0
+~
+~
+Door 3 0 0 27839 0 0
+~
+~
+End
+
+#27845
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27844 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27846 0 0
+~
+~
+Door 3 0 0 27838 0 0
+~
+~
+End
+
+#27846
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27845 0 0
+~
+~
+Door 1 0 0 27821 0 0
+~
+~
+Door 2 0 0 27847 0 0
+~
+~
+Door 3 0 0 27837 0 0
+~
+~
+End
+
+#27847
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27846 0 0
+~
+~
+Door 1 0 0 27850 0 0
+~
+~
+Door 2 0 0 27848 0 0
+~
+~
+Door 3 0 0 27836 0 0
+~
+~
+End
+
+#27848
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27847 0 0
+~
+~
+Door 1 0 0 27849 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 27835 0 0
+~
+~
+End
+
+#27849
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27850 0 0
+~
+~
+Door 1 0 0 10766 0 0
+~
+~
+Door 2 0 0 0 0 0
+~
+~
+Door 3 0 0 27848 0 0
+~
+~
+End
+
+#27850
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27821 0 0
+~
+~
+Door 1 0 0 0 0 0
+~
+~
+Door 2 0 0 27849 0 0
+~
+~
+Door 3 0 0 27847 0 0
+~
+~
+End
+
+#27851
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27852 0 0
+~
+~
+Door 1 0 0 27801 0 0
+~
+~
+Door 3 0 0 27870 0 0
+~
+~
+End
+
+#27852
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27853 0 0
+~
+~
+Door 1 0 0 27802 0 0
+~
+~
+Door 2 0 0 27851 0 0
+~
+~
+Door 3 0 0 27869 0 0
+~
+~
+End
+
+#27853
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27854 0 0
+~
+~
+Door 1 0 0 27803 0 0
+~
+~
+Door 2 0 0 27852 0 0
+~
+~
+Door 3 0 0 27868 0 0
+~
+~
+End
+
+#27854
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27855 0 0
+~
+~
+Door 1 0 0 27804 0 0
+~
+~
+Door 2 0 0 27853 0 0
+~
+~
+Door 3 0 0 27867 0 0
+~
+~
+End
+
+#27855
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27856 0 0
+~
+~
+Door 1 0 0 27806 0 0
+~
+~
+Door 2 0 0 27854 0 0
+~
+~
+Door 3 0 0 27866 0 0
+~
+~
+End
+
+#27856
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27857 0 0
+~
+~
+Door 1 0 0 27807 0 0
+~
+~
+Door 2 0 0 27855 0 0
+~
+~
+Door 3 0 0 27865 0 0
+~
+~
+End
+
+#27857
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27858 0 0
+~
+~
+Door 1 0 0 27809 0 0
+~
+~
+Door 2 0 0 27856 0 0
+~
+~
+Door 3 0 0 27864 0 0
+~
+~
+End
+
+#27858
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27859 0 0
+~
+~
+Door 2 0 0 27857 0 0
+~
+~
+Door 3 0 0 27863 0 0
+~
+~
+End
+
+#27859
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27860 0 0
+~
+~
+Door 2 0 0 27858 0 0
+~
+~
+Door 3 0 0 27862 0 0
+~
+~
+End
+
+#27860
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 2 0 0 27859 0 0
+~
+~
+Door 3 0 0 27861 0 0
+~
+~
+End
+
+#27861
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27860 0 0
+~
+~
+Door 2 0 0 27862 0 0
+~
+~
+Door 3 0 0 27880 0 0
+~
+~
+End
+
+#27862
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27861 0 0
+~
+~
+Door 1 0 0 27859 0 0
+~
+~
+Door 2 0 0 27863 0 0
+~
+~
+Door 3 0 0 27879 0 0
+~
+~
+End
+
+#27863
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27862 0 0
+~
+~
+Door 1 0 0 27858 0 0
+~
+~
+Door 2 0 0 27864 0 0
+~
+~
+Door 3 0 0 27878 0 0
+~
+~
+End
+
+#27864
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27863 0 0
+~
+~
+Door 1 0 0 27857 0 0
+~
+~
+Door 2 0 0 27865 0 0
+~
+~
+Door 3 0 0 27877 0 0
+~
+~
+End
+
+#27865
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27864 0 0
+~
+~
+Door 1 0 0 27856 0 0
+~
+~
+Door 2 0 0 27866 0 0
+~
+~
+Door 3 0 0 27876 0 0
+~
+~
+End
+
+#27866
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27865 0 0
+~
+~
+Door 1 0 0 27855 0 0
+~
+~
+Door 2 0 0 27867 0 0
+~
+~
+Door 3 0 0 27875 0 0
+~
+~
+End
+
+#27867
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27866 0 0
+~
+~
+Door 1 0 0 27854 0 0
+~
+~
+Door 2 0 0 27868 0 0
+~
+~
+Door 3 0 0 27874 0 0
+~
+~
+End
+
+#27868
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27803 1 100
+Door 0 0 0 27867 0 0
+~
+~
+Door 1 0 0 27853 0 0
+~
+~
+Door 2 0 0 27869 0 0
+~
+~
+Door 3 0 0 27873 0 0
+~
+~
+End
+
+#27869
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27868 0 0
+~
+~
+Door 1 0 0 27852 0 0
+~
+~
+Door 2 0 0 27870 0 0
+~
+~
+Door 3 0 0 27872 0 0
+~
+~
+End
+
+#27870
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27869 0 0
+~
+~
+Door 1 0 0 27851 0 0
+~
+~
+Door 3 0 0 27871 0 0
+~
+~
+End
+
+#27871
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27872 0 0
+~
+~
+Door 1 0 0 27870 0 0
+~
+~
+Door 3 0 0 27890 0 0
+~
+~
+End
+
+#27872
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27873 0 0
+~
+~
+Door 1 0 0 27869 0 0
+~
+~
+Door 2 0 0 27871 0 0
+~
+~
+Door 3 0 0 27889 0 0
+~
+~
+End
+
+#27873
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27874 0 0
+~
+~
+Door 1 0 0 27868 0 0
+~
+~
+Door 2 0 0 27872 0 0
+~
+~
+Door 3 0 0 27888 0 0
+~
+~
+End
+
+#27874
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27875 0 0
+~
+~
+Door 1 0 0 27867 0 0
+~
+~
+Door 2 0 0 27873 0 0
+~
+~
+Door 3 0 0 27887 0 0
+~
+~
+End
+
+#27875
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27876 0 0
+~
+~
+Door 1 0 0 27866 0 0
+~
+~
+Door 2 0 0 27874 0 0
+~
+~
+Door 3 0 0 27886 0 0
+~
+~
+End
+
+#27876
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27877 0 0
+~
+~
+Door 1 0 0 27865 0 0
+~
+~
+Door 2 0 0 27875 0 0
+~
+~
+Door 3 0 0 27885 0 0
+~
+~
+End
+
+#27877
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27878 0 0
+~
+~
+Door 1 0 0 27864 0 0
+~
+~
+Door 2 0 0 27876 0 0
+~
+~
+Door 3 0 0 27884 0 0
+~
+~
+End
+
+#27878
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27879 0 0
+~
+~
+Door 1 0 0 27863 0 0
+~
+~
+Door 2 0 0 27877 0 0
+~
+~
+Door 3 0 0 27882 0 0
+~
+~
+End
+
+#27879
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27880 0 0
+~
+~
+Door 1 0 0 27862 0 0
+~
+~
+Door 2 0 0 27878 0 0
+~
+~
+Door 3 0 0 27881 0 0
+~
+~
+End
+
+#27880
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27861 0 0
+~
+~
+Door 2 0 0 27879 0 0
+~
+~
+End
+
+#27881
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27879 0 0
+~
+~
+Door 2 0 0 27882 0 0
+~
+~
+Door 3 0 0 27899 0 0
+~
+~
+End
+
+#27882
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27881 0 0
+~
+~
+Door 1 0 0 27878 0 0
+~
+~
+Door 2 0 0 27884 0 0
+~
+~
+Door 3 0 0 27898 0 0
+~
+~
+End
+
+#27883
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27882 0 0
+~
+~
+End
+
+#27884
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27882 0 0
+~
+~
+Door 1 0 0 27877 0 0
+~
+~
+Door 2 0 0 27885 0 0
+~
+~
+Door 3 0 0 27896 0 0
+~
+~
+End
+
+#27885
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27884 0 0
+~
+~
+Door 1 0 0 27876 0 0
+~
+~
+Door 2 0 0 27886 0 0
+~
+~
+Door 3 0 0 27897 0 0
+~
+~
+End
+
+#27886
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27885 0 0
+~
+~
+Door 1 0 0 27875 0 0
+~
+~
+Door 2 0 0 27887 0 0
+~
+~
+Door 3 0 0 27895 0 0
+~
+~
+End
+
+#27887
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27886 0 0
+~
+~
+Door 1 0 0 27874 0 0
+~
+~
+Door 2 0 0 27888 0 0
+~
+~
+Door 3 0 0 27894 0 0
+~
+~
+End
+
+#27888
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27887 0 0
+~
+~
+Door 1 0 0 27873 0 0
+~
+~
+Door 2 0 0 27889 0 0
+~
+~
+Door 3 0 0 27893 0 0
+~
+~
+End
+
+#27889
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27888 0 0
+~
+~
+Door 1 0 0 27872 0 0
+~
+~
+Door 2 0 0 27890 0 0
+~
+~
+Door 3 0 0 27892 0 0
+~
+~
+End
+
+#27890
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27889 0 0
+~
+~
+Door 1 0 0 27871 0 0
+~
+~
+Door 3 0 0 27891 0 0
+~
+~
+End
+
+#27891
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27892 0 0
+~
+~
+Door 1 0 0 27890 0 0
+~
+~
+Door 3 0 0 27910 0 0
+~
+~
+End
+
+#27892
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27803 1 100
+Reset M 18004 1 100
+Door 0 0 0 27893 0 0
+~
+~
+Door 1 0 0 27889 0 0
+~
+~
+Door 2 0 0 27891 0 0
+~
+~
+Door 3 0 0 27909 0 0
+~
+~
+End
+
+#27893
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27894 0 0
+~
+~
+Door 1 0 0 27888 0 0
+~
+~
+Door 2 0 0 27892 0 0
+~
+~
+Door 3 0 0 27908 0 0
+~
+~
+End
+
+#27894
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27895 0 0
+~
+~
+Door 1 0 0 27887 0 0
+~
+~
+Door 2 0 0 27893 0 0
+~
+~
+Door 3 0 0 27907 0 0
+~
+~
+End
+
+#27895
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27897 0 0
+~
+~
+Door 1 0 0 27886 0 0
+~
+~
+Door 2 0 0 27894 0 0
+~
+~
+Door 3 0 0 27906 0 0
+~
+~
+End
+
+#27896
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27898 0 0
+~
+~
+Door 1 0 0 27884 0 0
+~
+~
+Door 2 0 0 27897 0 0
+~
+~
+Door 3 0 0 27904 0 0
+~
+~
+End
+
+#27897
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27896 0 0
+~
+~
+Door 1 0 0 27885 0 0
+~
+~
+Door 2 0 0 27895 0 0
+~
+~
+Door 3 0 0 27905 0 0
+~
+~
+End
+
+#27898
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27899 0 0
+~
+~
+Door 1 0 0 27882 0 0
+~
+~
+Door 2 0 0 27896 0 0
+~
+~
+Door 3 0 0 27903 0 0
+~
+~
+End
+
+#27899
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27900 0 0
+~
+~
+Door 1 0 0 27881 0 0
+~
+~
+Door 2 0 0 27898 0 0
+~
+~
+Door 3 0 0 27902 0 0
+~
+~
+End
+
+#27900
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 2 0 0 27899 0 0
+~
+~
+Door 3 0 0 27901 0 0
+~
+~
+End
+
+#27901
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27900 0 0
+~
+~
+Door 2 0 0 27902 0 0
+~
+~
+Door 3 0 0 27920 0 0
+~
+~
+End
+
+#27902
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27901 0 0
+~
+~
+Door 1 0 0 27899 0 0
+~
+~
+Door 2 0 0 27903 0 0
+~
+~
+Door 3 0 0 27919 0 0
+~
+~
+End
+
+#27903
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27902 0 0
+~
+~
+Door 1 0 0 27898 0 0
+~
+~
+Door 2 0 0 27904 0 0
+~
+~
+Door 3 0 0 27918 0 0
+~
+~
+End
+
+#27904
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27903 0 0
+~
+~
+Door 1 0 0 27896 0 0
+~
+~
+Door 2 0 0 27905 0 0
+~
+~
+Door 3 0 0 27917 0 0
+~
+~
+End
+
+#27905
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27801 1 100
+Door 0 0 0 27904 0 0
+~
+~
+Door 1 0 0 27897 0 0
+~
+~
+Door 2 0 0 27906 0 0
+~
+~
+Door 3 0 0 27916 0 0
+~
+~
+End
+
+#27906
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27905 0 0
+~
+~
+Door 1 0 0 27895 0 0
+~
+~
+Door 2 0 0 27907 0 0
+~
+~
+Door 3 0 0 27915 0 0
+~
+~
+End
+
+#27907
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27906 0 0
+~
+~
+Door 1 0 0 27894 0 0
+~
+~
+Door 2 0 0 27908 0 0
+~
+~
+Door 3 0 0 27914 0 0
+~
+~
+End
+
+#27908
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27907 0 0
+~
+~
+Door 1 0 0 27893 0 0
+~
+~
+Door 2 0 0 27909 0 0
+~
+~
+Door 3 0 0 27913 0 0
+~
+~
+End
+
+#27909
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27908 0 0
+~
+~
+Door 1 0 0 27892 0 0
+~
+~
+Door 2 0 0 27910 0 0
+~
+~
+Door 3 0 0 27912 0 0
+~
+~
+End
+
+#27910
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27803 1 100
+Reset M 24462 1 45
+Door 0 0 0 27909 0 0
+~
+~
+Door 1 0 0 27891 0 0
+~
+~
+Door 3 0 0 27911 0 0
+~
+~
+End
+
+#27911
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27912 0 0
+~
+~
+Door 1 0 0 27910 0 0
+~
+~
+Door 3 0 0 27930 0 0
+~
+~
+End
+
+#27912
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27913 0 0
+~
+~
+Door 1 0 0 27909 0 0
+~
+~
+Door 2 0 0 27911 0 0
+~
+~
+Door 3 0 0 27929 0 0
+~
+~
+End
+
+#27913
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27914 0 0
+~
+~
+Door 1 0 0 27908 0 0
+~
+~
+Door 2 0 0 27912 0 0
+~
+~
+Door 3 0 0 27928 0 0
+~
+~
+End
+
+#27914
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27915 0 0
+~
+~
+Door 1 0 0 27907 0 0
+~
+~
+Door 2 0 0 27913 0 0
+~
+~
+Door 3 0 0 27927 0 0
+~
+~
+End
+
+#27915
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27916 0 0
+~
+~
+Door 1 0 0 27906 0 0
+~
+~
+Door 2 0 0 27914 0 0
+~
+~
+Door 3 0 0 27926 0 0
+~
+~
+End
+
+#27916
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27917 0 0
+~
+~
+Door 1 0 0 27905 0 0
+~
+~
+Door 2 0 0 27915 0 0
+~
+~
+Door 3 0 0 27925 0 0
+~
+~
+End
+
+#27917
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27918 0 0
+~
+~
+Door 1 0 0 27904 0 0
+~
+~
+Door 2 0 0 27916 0 0
+~
+~
+Door 3 0 0 27924 0 0
+~
+~
+End
+
+#27918
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27919 0 0
+~
+~
+Door 1 0 0 27903 0 0
+~
+~
+Door 2 0 0 27917 0 0
+~
+~
+Door 3 0 0 27923 0 0
+~
+~
+End
+
+#27919
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27803 1 100
+Door 0 0 0 27920 0 0
+~
+~
+Door 1 0 0 27902 0 0
+~
+~
+Door 2 0 0 27918 0 0
+~
+~
+Door 3 0 0 27922 0 0
+~
+~
+End
+
+#27920
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27901 0 0
+~
+~
+Door 2 0 0 27919 0 0
+~
+~
+Door 3 0 0 27921 0 0
+~
+~
+End
+
+#27921
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27920 0 0
+~
+~
+Door 2 0 0 27922 0 0
+~
+~
+Door 3 0 0 27940 0 0
+~
+~
+End
+
+#27922
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27921 0 0
+~
+~
+Door 1 0 0 27919 0 0
+~
+~
+Door 2 0 0 27923 0 0
+~
+~
+Door 3 0 0 27939 0 0
+~
+~
+End
+
+#27923
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27922 0 0
+~
+~
+Door 1 0 0 27918 0 0
+~
+~
+Door 2 0 0 27924 0 0
+~
+~
+Door 3 0 0 27938 0 0
+~
+~
+End
+
+#27924
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27923 0 0
+~
+~
+Door 1 0 0 27917 0 0
+~
+~
+Door 2 0 0 27925 0 0
+~
+~
+Door 3 0 0 27937 0 0
+~
+~
+End
+
+#27925
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27924 0 0
+~
+~
+Door 1 0 0 27916 0 0
+~
+~
+Door 2 0 0 27926 0 0
+~
+~
+Door 3 0 0 27936 0 0
+~
+~
+End
+
+#27926
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27925 0 0
+~
+~
+Door 1 0 0 27915 0 0
+~
+~
+Door 2 0 0 27927 0 0
+~
+~
+Door 3 0 0 27935 0 0
+~
+~
+End
+
+#27927
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27926 0 0
+~
+~
+Door 1 0 0 27914 0 0
+~
+~
+Door 2 0 0 27928 0 0
+~
+~
+Door 3 0 0 27934 0 0
+~
+~
+End
+
+#27928
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27927 0 0
+~
+~
+Door 1 0 0 27913 0 0
+~
+~
+Door 2 0 0 27929 0 0
+~
+~
+Door 3 0 0 27933 0 0
+~
+~
+End
+
+#27929
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27928 0 0
+~
+~
+Door 1 0 0 27912 0 0
+~
+~
+Door 2 0 0 27930 0 0
+~
+~
+Door 3 0 0 27932 0 0
+~
+~
+End
+
+#27930
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27929 0 0
+~
+~
+Door 1 0 0 27911 0 0
+~
+~
+Door 3 0 0 27931 0 0
+~
+~
+End
+
+#27931
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27932 0 0
+~
+~
+Door 1 0 0 27930 0 0
+~
+~
+Door 3 0 0 27950 0 0
+~
+~
+End
+
+#27932
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27933 0 0
+~
+~
+Door 1 0 0 27929 0 0
+~
+~
+Door 2 0 0 27931 0 0
+~
+~
+Door 3 0 0 27949 0 0
+~
+~
+End
+
+#27933
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27934 0 0
+~
+~
+Door 1 0 0 27928 0 0
+~
+~
+Door 2 0 0 27932 0 0
+~
+~
+Door 3 0 0 27948 0 0
+~
+~
+End
+
+#27934
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27935 0 0
+~
+~
+Door 1 0 0 27927 0 0
+~
+~
+Door 2 0 0 27933 0 0
+~
+~
+Door 3 0 0 27947 0 0
+~
+~
+End
+
+#27935
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27936 0 0
+~
+~
+Door 1 0 0 27926 0 0
+~
+~
+Door 2 0 0 27934 0 0
+~
+~
+Door 3 0 0 27946 0 0
+~
+~
+End
+
+#27936
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27802 1 100
+Door 0 0 0 27937 0 0
+~
+~
+Door 1 0 0 27925 0 0
+~
+~
+Door 2 0 0 27935 0 0
+~
+~
+Door 3 0 0 27945 0 0
+~
+~
+End
+
+#27937
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27938 0 0
+~
+~
+Door 1 0 0 27924 0 0
+~
+~
+Door 2 0 0 27936 0 0
+~
+~
+Door 3 0 0 27944 0 0
+~
+~
+End
+
+#27938
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27939 0 0
+~
+~
+Door 1 0 0 27923 0 0
+~
+~
+Door 2 0 0 27937 0 0
+~
+~
+Door 3 0 0 27943 0 0
+~
+~
+End
+
+#27939
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27940 0 0
+~
+~
+Door 1 0 0 27922 0 0
+~
+~
+Door 2 0 0 27938 0 0
+~
+~
+Door 3 0 0 27942 0 0
+~
+~
+End
+
+#27940
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27921 0 0
+~
+~
+Door 2 0 0 27939 0 0
+~
+~
+Door 3 0 0 27941 0 0
+~
+~
+End
+
+#27941
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27801 1 100
+Door 1 0 0 27940 0 0
+~
+~
+Door 2 0 0 27942 0 0
+~
+~
+End
+
+#27942
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27941 0 0
+~
+~
+Door 1 0 0 27939 0 0
+~
+~
+Door 2 0 0 27943 0 0
+~
+~
+Door 3 0 0 27960 0 0
+~
+~
+End
+
+#27943
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27942 0 0
+~
+~
+Door 1 0 0 27938 0 0
+~
+~
+Door 2 0 0 27944 0 0
+~
+~
+Door 3 0 0 27959 0 0
+~
+~
+End
+
+#27944
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27943 0 0
+~
+~
+Door 1 0 0 27937 0 0
+~
+~
+Door 2 0 0 27945 0 0
+~
+~
+Door 3 0 0 27958 0 0
+~
+~
+End
+
+#27945
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 18004 1 100
+Door 0 0 0 27944 0 0
+~
+~
+Door 1 0 0 27936 0 0
+~
+~
+Door 2 0 0 27946 0 0
+~
+~
+Door 3 0 0 27957 0 0
+~
+~
+End
+
+#27946
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27945 0 0
+~
+~
+Door 1 0 0 27935 0 0
+~
+~
+Door 2 0 0 27947 0 0
+~
+~
+Door 3 0 0 27956 0 0
+~
+~
+End
+
+#27947
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27946 0 0
+~
+~
+Door 1 0 0 27934 0 0
+~
+~
+Door 2 0 0 27948 0 0
+~
+~
+Door 3 0 0 27955 0 0
+~
+~
+End
+
+#27948
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 24462 1 65
+Door 0 0 0 27947 0 0
+~
+~
+Door 1 0 0 27933 0 0
+~
+~
+Door 2 0 0 27949 0 0
+~
+~
+Door 3 0 0 27954 0 0
+~
+~
+End
+
+#27949
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27948 0 0
+~
+~
+Door 1 0 0 27932 0 0
+~
+~
+Door 2 0 0 27950 0 0
+~
+~
+Door 3 0 0 27953 0 0
+~
+~
+End
+
+#27950
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27949 0 0
+~
+~
+Door 1 0 0 27931 0 0
+~
+~
+Door 3 0 0 27951 0 0
+~
+~
+End
+
+#27951
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27953 0 0
+~
+~
+Door 1 0 0 27950 0 0
+~
+~
+Door 3 0 0 27969 0 0
+~
+~
+End
+
+#27952
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+End
+
+#27953
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27954 0 0
+~
+~
+Door 1 0 0 27949 0 0
+~
+~
+Door 2 0 0 27951 0 0
+~
+~
+Door 3 0 0 27968 0 0
+~
+~
+End
+
+#27954
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27955 0 0
+~
+~
+Door 1 0 0 27948 0 0
+~
+~
+Door 2 0 0 27953 0 0
+~
+~
+Door 3 0 0 27967 0 0
+~
+~
+End
+
+#27955
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27956 0 0
+~
+~
+Door 1 0 0 27947 0 0
+~
+~
+Door 2 0 0 27954 0 0
+~
+~
+Door 3 0 0 27966 0 0
+~
+~
+End
+
+#27956
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27957 0 0
+~
+~
+Door 1 0 0 27946 0 0
+~
+~
+Door 2 0 0 27955 0 0
+~
+~
+Door 3 0 0 27965 0 0
+~
+~
+End
+
+#27957
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27958 0 0
+~
+~
+Door 1 0 0 27945 0 0
+~
+~
+Door 2 0 0 27956 0 0
+~
+~
+Door 3 0 0 27964 0 0
+~
+~
+End
+
+#27958
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27959 0 0
+~
+~
+Door 1 0 0 27944 0 0
+~
+~
+Door 2 0 0 27957 0 0
+~
+~
+Door 3 0 0 27963 0 0
+~
+~
+End
+
+#27959
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27960 0 0
+~
+~
+Door 1 0 0 27943 0 0
+~
+~
+Door 2 0 0 27958 0 0
+~
+~
+Door 3 0 0 27962 0 0
+~
+~
+End
+
+#27960
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27942 0 0
+~
+~
+Door 2 0 0 27959 0 0
+~
+~
+Door 3 0 0 27961 0 0
+~
+~
+End
+
+#27961
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27960 0 0
+~
+~
+Door 2 0 0 27962 0 0
+~
+~
+End
+
+#27962
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27961 0 0
+~
+~
+Door 1 0 0 27959 0 0
+~
+~
+Door 2 0 0 27963 0 0
+~
+~
+End
+
+#27963
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27962 0 0
+~
+~
+Door 1 0 0 27958 0 0
+~
+~
+Door 2 0 0 27964 0 0
+~
+~
+Door 3 0 0 27978 0 0
+~
+~
+End
+
+#27964
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27963 0 0
+~
+~
+Door 1 0 0 27957 0 0
+~
+~
+Door 2 0 0 27965 0 0
+~
+~
+Door 3 0 0 27977 0 0
+~
+~
+End
+
+#27965
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27964 0 0
+~
+~
+Door 1 0 0 27956 0 0
+~
+~
+Door 2 0 0 27966 0 0
+~
+~
+Door 3 0 0 27976 0 0
+~
+~
+End
+
+#27966
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27801 1 100
+Door 0 0 0 27965 0 0
+~
+~
+Door 1 0 0 27955 0 0
+~
+~
+Door 2 0 0 27967 0 0
+~
+~
+Door 3 0 0 27975 0 0
+~
+~
+End
+
+#27967
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27801 1 100
+Reset M 18004 1 100
+Door 0 0 0 27966 0 0
+~
+~
+Door 1 0 0 27954 0 0
+~
+~
+Door 2 0 0 27968 0 0
+~
+~
+Door 3 0 0 27974 0 0
+~
+~
+End
+
+#27968
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27967 0 0
+~
+~
+Door 1 0 0 27953 0 0
+~
+~
+Door 2 0 0 27969 0 0
+~
+~
+Door 3 0 0 27973 0 0
+~
+~
+End
+
+#27969
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27968 0 0
+~
+~
+Door 1 0 0 27951 0 0
+~
+~
+Door 2 0 0 27970 0 0
+~
+~
+Door 3 0 0 27972 0 0
+~
+~
+End
+
+#27970
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27969 0 0
+~
+~
+Door 3 0 0 27971 0 0
+~
+~
+End
+
+#27971
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27972 0 0
+~
+~
+Door 1 0 0 27970 0 0
+~
+~
+Door 3 0 0 27986 0 0
+~
+~
+End
+
+#27972
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27973 0 0
+~
+~
+Door 1 0 0 27969 0 0
+~
+~
+Door 2 0 0 27971 0 0
+~
+~
+Door 3 0 0 27985 0 0
+~
+~
+End
+
+#27973
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27974 0 0
+~
+~
+Door 1 0 0 27968 0 0
+~
+~
+Door 2 0 0 27972 0 0
+~
+~
+Door 3 0 0 27984 0 0
+~
+~
+End
+
+#27974
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27975 0 0
+~
+~
+Door 1 0 0 27967 0 0
+~
+~
+Door 2 0 0 27973 0 0
+~
+~
+Door 3 0 0 27983 0 0
+~
+~
+End
+
+#27975
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27976 0 0
+~
+~
+Door 1 0 0 27966 0 0
+~
+~
+Door 2 0 0 27974 0 0
+~
+~
+Door 3 0 0 27982 0 0
+~
+~
+End
+
+#27976
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27977 0 0
+~
+~
+Door 1 0 0 27965 0 0
+~
+~
+Door 2 0 0 27975 0 0
+~
+~
+Door 3 0 0 27981 0 0
+~
+~
+End
+
+#27977
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27978 0 0
+~
+~
+Door 1 0 0 27964 0 0
+~
+~
+Door 2 0 0 27976 0 0
+~
+~
+Door 3 0 0 27980 0 0
+~
+~
+End
+
+#27978
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27963 0 0
+~
+~
+Door 2 0 0 27977 0 0
+~
+~
+Door 3 0 0 27979 0 0
+~
+~
+End
+
+#27979
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27978 0 0
+~
+~
+Door 2 0 0 27980 0 0
+~
+~
+Door 3 0 0 27996 0 0
+~
+~
+End
+
+#27980
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27979 0 0
+~
+~
+Door 1 0 0 27977 0 0
+~
+~
+Door 2 0 0 27981 0 0
+~
+~
+Door 3 0 0 27995 0 0
+~
+~
+End
+
+#27981
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27980 0 0
+~
+~
+Door 1 0 0 27976 0 0
+~
+~
+Door 2 0 0 27982 0 0
+~
+~
+Door 3 0 0 27994 0 0
+~
+~
+End
+
+#27982
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27981 0 0
+~
+~
+Door 1 0 0 27975 0 0
+~
+~
+Door 2 0 0 27983 0 0
+~
+~
+Door 3 0 0 27993 0 0
+~
+~
+End
+
+#27983
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27982 0 0
+~
+~
+Door 1 0 0 27974 0 0
+~
+~
+Door 2 0 0 27984 0 0
+~
+~
+Door 3 0 0 27992 0 0
+~
+~
+End
+
+#27984
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27983 0 0
+~
+~
+Door 1 0 0 27973 0 0
+~
+~
+Door 2 0 0 27985 0 0
+~
+~
+Door 3 0 0 27991 0 0
+~
+~
+End
+
+#27985
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Reset M 27801 1 100
+Door 0 0 0 27984 0 0
+~
+~
+Door 1 0 0 27972 0 0
+~
+~
+Door 2 0 0 27986 0 0
+~
+~
+Door 3 0 0 27990 0 0
+~
+~
+End
+
+#27986
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27985 0 0
+~
+~
+Door 1 0 0 27971 0 0
+~
+~
+Door 2 0 0 27987 0 0
+~
+~
+Door 3 0 0 27989 0 0
+~
+~
+End
+
+#27987
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27986 0 0
+~
+~
+Door 3 0 0 27988 0 0
+~
+~
+End
+
+#27988
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27989 0 0
+~
+~
+Door 1 0 0 27987 0 0
+~
+~
+Door 2 0 0 12062 0 0
+~
+~
+End
+
+#27989
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27990 0 0
+~
+~
+Door 1 0 0 27986 0 0
+~
+~
+Door 2 0 0 27988 0 0
+~
+~
+End
+
+#27990
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27991 0 0
+~
+~
+Door 1 0 0 27985 0 0
+~
+~
+Door 2 0 0 27989 0 0
+~
+~
+End
+
+#27991
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27992 0 0
+~
+~
+Door 1 0 0 27984 0 0
+~
+~
+Door 2 0 0 27990 0 0
+~
+~
+Door 3 0 0 12037 0 0
+~
+~
+End
+
+#27992
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27993 0 0
+~
+~
+Door 1 0 0 27983 0 0
+~
+~
+Door 2 0 0 27991 0 0
+~
+~
+Door 3 0 0 12036 0 0
+~
+~
+End
+
+#27993
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27994 0 0
+~
+~
+Door 1 0 0 27982 0 0
+~
+~
+Door 2 0 0 27992 0 0
+~
+~
+End
+
+#27994
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27995 0 0
+~
+~
+Door 1 0 0 27981 0 0
+~
+~
+Door 2 0 0 27993 0 0
+~
+~
+Door 3 0 0 12025 0 0
+~
+~
+End
+
+#27995
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 0 0 0 27996 0 0
+~
+~
+Door 1 0 0 27980 0 0
+~
+~
+Door 2 0 0 27994 0 0
+~
+~
+Door 3 0 0 12015 0 0
+~
+~
+End
+
+#27996
+Name The Wastelands of Adfeida~
+Descr
+The wastelands of Adfeida are large and barren of life. The barren rock
+hard ground, devoid of moisture, only holds lichen and other hardened
+plants. Small insects and hard shell animals crawl under the grueling sun.
+The air simmers with vaporous waves of heat. In the distance large barren
+mountain ranges can be seen. The horizon is flat, nondescript, meeting the
+blue skyline perfectly. The naked sky hold no shade from the sun. 
+~
+Sector 10
+Door 1 0 0 27979 0 0
+~
+~
+Door 2 0 0 27995 0 0
+~
+~
+Door 3 0 0 12014 0 0
+~
+~
+End
+
+#27997
+Name An Underground Passage~
+Descr
+This large cavern looks to have been forgotten by most people. Cobwebs
+and other insect life climb along the walls of the cold, underground
+caverns. Strange noises can be heard echoing quietly through the rocky
+walls. 
+~
+Flags 4
+Door 0 0 0 27998 0 0
+~
+~
+End
+
+#27998
+Name An Underground Passage~
+Descr
+This large cavern looks to have been forgotten by most people. Cobwebs
+and other insect life climb along the walls of the cold, underground
+caverns. Strange noises can be heard echoing quietly through the rocky
+walls. 
+~
+Flags 4
+Door 2 0 0 27997 0 0
+~
+~
+Door 3 0 0 27999 0 0
+~
+~
+End
+
+#27999
+Name An Underground Passage~
+Descr
+This large cavern looks to have been forgotten by most people. Cobwebs
+and other insect life climb along the walls of the cold, underground
+caverns. Strange noises can be heard echoing quietly through the rocky
+walls. 
+~
+Flags 6
+Door 1 0 0 27998 0 0
+~
+~
+Door 3 0 0 0 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

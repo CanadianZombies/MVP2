@@ -1,0 +1,418 @@
+# Format is: BODY_LOCATION <min_damage> <max_damage>  <ignore_this> <ignore_this>
+# %s is "slash" "pound" etc.. whatever weapon the person is using.
+# $n is the attacker.  $N is the person being attacked (or mob)
+# GENERIC is for mobs... (don't want us hitting legs of fish/etc)
+#$B$5 you hit them
+#$B$7 someone watches you hit someone else
+#$B$3 when someone hits you
+
+GENERIC 1 5 1 1
+You $B$4barely$B$5 %s $B$5$N.
+$N is $B$4barely$B$7 hit by $n's %s$B$7.
+$n $B$4barely hits$B$3 you with $s %s$B$3.
+GENERIC 6 10 2 2
+You %s $B$5$N.
+$N is $B$4hit$B$7 by $n's %s$B$7.
+$n $B$4hits$B$3 you with %s$B$3.
+GENERIC 11 15 3 3
+You %s $B$5$N $B$4hard$B$5.
+$n hits $N $B$4hard$B$7 with $s %s$B$7.
+$n hits you $B$4hard$B$3 with $s %s$B$3.
+GENERIC 16 20 4 5
+You %s $B$5$N $B$4very hard$B$5.
+$n hits $N $B$4very hard $B$7with $s %s$B$7.
+$n hits you $B$4very hard$B$3 with $s %s$B$3.
+GENERIC 21 25 6 7
+You %s $B$5$N $B$4extremely hard$B$5.
+$n hits $N $B$4extremely hard$B$7 with $s %s$B$7.
+$n hits you $B$4extremely hard$B$3 with $s %s$B$3.
+GENERIC 26 30 8 9
+$N is hit with your $B$4forceful$B$5 %s$B$5.
+$n hits $N with $s $B$4forceful$B$7 %s$B$7.
+You are hit with $n's $B$4forceful$B$3 %s$B$3.
+GENERIC 31 35 10 11
+You injure $N with your $B$4full force$B$5 %s$B$5.
+$N is injured from $n's $B$4full force$B$7 %s$B$7.
+You are injured by $n's $B$4full force$B$3 %s$B$3.
+GENERIC 36 40 12 13
+You cause $N to $B$4cringe in pain$B$5 with your %s$B$5!
+$n causes $N $B$4cringe in pain$B$7 from $s %s$B$7!
+$n causes you to $B$4cringe in pain$B$3 from $s %s$B$3!
+GENERIC 41 45 14 15
+You cause $N to $B$4cry out in agony$B$5 with your %s$B$5!
+$n causes $N to $B$4cry out in agony$B$7 with $s %s$B$7!
+$n causes you to $B$4cry out in agony$B$3 with $s %s$B$3!
+GENERIC 46 50 16 17
+You $B$4mangle$B$5 $N with your %s$B$5!
+$n $B$4mangles$B$7 $N with $s %s$B$7!
+$n $B$4mangles$B$3 you with $s %s$B$3!
+GENERIC 51 60 18 19
+You $B$4MUTILATE$B$5 $N with your %s$B$5!
+$n $B$4MUTILATES$B$7 $N with $s %s$B$7!
+$n $B$4MUTILATES$B$3 you with $s %s$B$3!
+GENERIC 61 70 20 21
+You $B$4DECIMATE$B$5 $N with your %s$B$5!
+$n $B$4DECIMATES$B$7 $N with $s %s$B$7!
+$n $B$4DECIMATES$B$3 you with $s %s$B$3!
+GENERIC 71 100 22 22
+You $B$4<<<< EVISCERATE >>>>$B$5 $N with your %s$B$5!
+$n $B$4<<<< EVISCERATES >>>>$B$7 $N with $s %s$B$7!
+$n $B$4<<<< EVISCERATES >>>>$B$3 you with $s %s$B$3!
+GENERIC 101 150 23 23
+You $B$4<-<-< LiQuIfY >->->$B$5 $N with your %s$B$5!
+$n $B$4<-<-< LiQuIfies >->->$B$7 $N with $s %s$B$7!
+$n $B$4<-<-< LiQuIfies >->->$B$3 you with $s %s$B$3!
+GENERIC 151 200 24 24
+You $B$4<<- ANNIHILATE ->>$B$5 $N with your %s$B$5!
+$n $B$4<<- ANNIHILATES ->>$B$7 $N with $s %s$B$7!
+$n $B$4<<- ANNIHILATES ->>$B$3 you with $s %s$B$3!
+GENERIC 201 250 25 25
+You $B$4[[[ ERAD.I.C.ATE ]]]$B$5 $N with your %s$B$5!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$7 $N with $s %s$B$7!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$3 you with $s %s$B$3!
+GENERIC 251 300 26 26
+You $B$4[-[--[ ObLiTeRaTe ]--]-]$B$5 $N with your %s$B$5!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$7 $N with $s %s$B$7!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$3 you with $s %s$B$3!
+GENERIC 301 400 27 27
+You $B$4.  . ..V a p o r i z E.. .  .$B$5 $N with your %s$B$5!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$7 $N with $s %s$B$7!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$3 you with $s %s$B$3!!
+GENERIC 401 500 28 29
+You $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e__ _  _$B$5 $N with your %s$B$5!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$7 $N with $s %s$B$7!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$3 you with $s %s$B$3!
+GENERIC 501 32000 30 30
+You $B$4<- = S M I T E = ->$B$5 $N with your GODLY %s$B$5!!!
+$n $B$4<- = S M I T E S = ->$B$7 $N with $s GODLY %s$B$7!!!
+$n $B$4<- = S M I T E S = ->$B$3 you with $s GODLY %s$B$3!!!
+
+LEGS 1 5 1 1
+You $B$4barely$B$5 %s $B$5$N.
+$N is $B$4barely hit$B$7 by $n's %s$B$7.
+$n $B$4barely hits$B$3 you with $s %s$B$3.
+LEGS 6 10 2 2
+You %s $B$5$N.
+$N is $B$4hit$B$7 by $n's %s$B$7.
+$n $B$4hits$B$3 you with %s$B$3.
+LEGS 11 15 3 3
+You %s $B$5$N $B$4hard$B$5.
+$n hits $N $B$4hard$B$7 with $s %s$B$7.
+$n hits you $B$4hard$B$3 with $s %s$B$3.
+LEGS 16 20 4 5
+You %s $B$5$N $B$4very hard$B$5.
+$n hits $N $B$4very hard $B$7with $s %s$B$7.
+$n hits you $B$4very hard$B$3 with $s %s$B$3.
+LEGS 21 25 6 7
+You %s $B$5$N $B$4extremely hard$B$5.
+$n hits $N $B$4extremely hard$B$7 with $s %s$B$7.
+$n hits you $B$4extremely hard$B$3 with $s %s$B$3.
+LEGS 26 30 8 9
+$N is hit with your $B$4forceful$B$5 %s$B$5.
+$n hits $N with $s $B$4forceful$B$7 %s$B$7.
+You are hit with $n's $B$4forceful$B$3 %s$B$3.
+LEGS 31 35 10 11
+You injure $N with your $B$4full force$B$5 %s$B$5.
+$N is injured from $n's $B$4full force$B$7 %s$B$7.
+You are injured by $n's $B$4full force$B$3 %s$B$3.
+LEGS 36 40 12 13
+You cause $N to $B$4cringe in pain$B$5 with your %s$B$5!
+$n causes $N $B$4cringe in pain$B$7 from $s %s$B$7!
+$n causes you to $B$4cringe in pain$B$3 from $s %s$B$3!
+LEGS 41 45 14 15
+You cause $N to $B$4cry out in agony$B$5 with your %s$B$5!
+$n causes $N to $B$4cry out in agony$B$7 with $s %s$B$7!
+$n causes you to $B$4cry out in agony$B$3 with $s %s$B$3!
+LEGS 46 50 16 17
+You $B$4mangle$B$5 $N with your %s$B$5!
+$n $B$4mangles$B$7 $N with $s %s$B$7!
+$n $B$4mangles$B$3 you with $s %s$B$3!
+LEGS 51 60 18 19
+You $B$4MUTILATE$B$5 $N with your %s$B$5!
+$n $B$4MUTILATES$B$7 $N with $s %s$B$7!
+$n $B$4MUTILATES$B$3 you with $s %s$B$3!
+LEGS 61 70 20 21
+You $B$4DECIMATE$B$5 $N with your %s$B$5!
+$n $B$4DECIMATES$B$7 $N with $s %s$B$7!
+$n $B$4DECIMATES$B$3 you with $s %s$B$3!
+LEGS 71 100 22 22
+You $B$4<<<< EVISCERATE >>>>$B$5 $N with your %s$B$5!
+$n $B$4<<<< EVISCERATES >>>>$B$7 $N with $s %s$B$7!
+$n $B$4<<<< EVISCERATES >>>>$B$3 you with $s %s$B$3!
+LEGS 101 150 23 23
+You $B$4<-<-< LiQuIfY >->->$B$5 $N with your %s$B$5!
+$n $B$4<-<-< LiQuIfies >->->$B$7 $N with $s %s$B$7!
+$n $B$4<-<-< LiQuIfies >->->$B$3 you with $s %s$B$3!
+LEGS 151 200 24 24
+You $B$4<<- ANNIHILATE ->>$B$5 $N with your %s$B$5!
+$n $B$4<<- ANNIHILATES ->>$B$7 $N with $s %s$B$7!
+$n $B$4<<- ANNIHILATES ->>$B$3 you with $s %s$B$3!
+LEGS 201 250 25 25
+You $B$4[[[ ERAD.I.C.ATE ]]]$B$5 $N with your %s$B$5!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$7 $N with $s %s$B$7!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$3 you with $s %s$B$3!
+LEGS 251 300 26 26
+You $B$4[-[--[ ObLiTeRaTe ]--]-]$B$5 $N with your %s$B$5!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$7 $N with $s %s$B$7!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$3 you with $s %s$B$3!
+LEGS 301 400 27 27
+You $B$4.  . ..V a p o r i z E.. .  .$B$5 $N with your %s$B$5!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$7 $N with $s %s$B$7!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$3 you with $s %s$B$3!!
+LEGS 401 500 28 29
+You $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e__ _  _$B$5 $N with your %s$B$5!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$7 $N with $s %s$B$7!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$3 you with $s %s$B$3!
+LEGS 501 32000 30 30
+You $B$4<- = S M I T E = ->$B$5 $N with your GODLY %s$B$5!!!
+$n $B$4<- = S M I T E S = ->$B$7 $N with $s GODLY %s$B$7!!!
+$n $B$4<- = S M I T E S = ->$B$3 you with $s GODLY %s$B$3!!!
+
+ARMS 1 5 1 1
+You $B$4barely$B$5 %s $B$5$N.
+$N is $B$4barely$B$7 hit by $n's %s$B$7.
+$n $B$4barely hits$B$3 you with $s %s$B$3.
+ARMS 6 10 2 2
+You %s $B$5$N.
+$N is $B$4hit$B$7 by $n's %s$B$7.
+$n $B$4hits$B$3 you with %s$B$3.
+ARMS 11 15 3 3
+You %s $B$5$N $B$4hard$B$5.
+$n hits $N $B$4hard$B$7 with $s %s$B$7.
+$n hits you $B$4hard$B$3 with $s %s$B$3.
+ARMS 16 20 4 5
+You %s $B$5$N $B$4very hard$B$5.
+$n hits $N $B$4very hard $B$7with $s %s$B$7.
+$n hits you $B$4very hard$B$3 with $s %s$B$3.
+ARMS 21 25 6 7
+You %s $B$5$N $B$4extremely hard$B$5.
+$n hits $N $B$4extremely hard$B$7 with $s %s$B$7.
+$n hits you $B$4extremely hard$B$3 with $s %s$B$3.
+ARMS 26 30 8 9
+$N is hit with your $B$4forceful$B$5 %s$B$5.
+$n hits $N with $s $B$4forceful$B$7 %s$B$7.
+You are hit with $n's $B$4forceful$B$3 %s$B$3.
+ARMS 31 35 10 11
+You injure $N with your $B$4full force$B$5 %s$B$5.
+$N is injured from $n's $B$4full force$B$7 %s$B$7.
+You are injured by $n's $B$4full force$B$3 %s$B$3.
+ARMS 36 40 12 13
+You cause $N to $B$4cringe in pain$B$5 with your %s$B$5!
+$n causes $N $B$4cringe in pain$B$7 from $s %s$B$7!
+$n causes you to $B$4cringe in pain$B$3 from $s %s$B$3!
+ARMS 41 45 14 15
+You cause $N to $B$4cry out in agony$B$5 with your %s$B$5!
+$n causes $N to $B$4cry out in agony$B$7 with $s %s$B$7!
+$n causes you to $B$4cry out in agony$B$3 with $s %s$B$3!
+ARMS 46 50 16 17
+You $B$4mangle$B$5 $N with your %s$B$5!
+$n $B$4mangles$B$7 $N with $s %s$B$7!
+$n $B$4mangles$B$3 you with $s %s$B$3!
+ARMS 51 60 18 19
+You $B$4MUTILATE$B$5 $N with your %s$B$5!
+$n $B$4MUTILATES$B$7 $N with $s %s$B$7!
+$n $B$4MUTILATES$B$3 you with $s %s$B$3!
+ARMS 61 70 20 21
+You $B$4DECIMATE$B$5 $N with your %s$B$5!
+$n $B$4DECIMATES$B$7 $N with $s %s$B$7!
+$n $B$4DECIMATES$B$3 you with $s %s$B$3!
+ARMS 71 100 22 22
+You $B$4<<<< EVISCERATE >>>>$B$5 $N with your %s$B$5!
+$n $B$4<<<< EVISCERATES >>>>$B$7 $N with $s %s$B$7!
+$n $B$4<<<< EVISCERATES >>>>$B$3 you with $s %s$B$3!
+ARMS 101 150 23 23
+You $B$4<-<-< LiQuIfY >->->$B$5 $N with your %s$B$5!
+$n $B$4<-<-< LiQuIfies >->->$B$7 $N with $s %s$B$7!
+$n $B$4<-<-< LiQuIfies >->->$B$3 you with $s %s$B$3!
+ARMS 151 200 24 24
+You $B$4<<- ANNIHILATE ->>$B$5 $N with your %s$B$5!
+$n $B$4<<- ANNIHILATES ->>$B$7 $N with $s %s$B$7!
+$n $B$4<<- ANNIHILATES ->>$B$3 you with $s %s$B$3!
+ARMS 201 250 25 25
+You $B$4[[[ ERAD.I.C.ATE ]]]$B$5 $N with your %s$B$5!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$7 $N with $s %s$B$7!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$3 you with $s %s$B$3!
+ARMS 251 300 26 26
+You $B$4[-[--[ ObLiTeRaTe ]--]-]$B$5 $N with your %s$B$5!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$7 $N with $s %s$B$7!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$3 you with $s %s$B$3!
+ARMS 301 400 27 27
+You $B$4.  . ..V a p o r i z E.. .  .$B$5 $N with your %s$B$5!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$7 $N with $s %s$B$7!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$3 you with $s %s$B$3!!
+ARMS 401 500 28 29
+You $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e__ _  _$B$5 $N with your %s$B$5!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$7 $N with $s %s$B$7!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$3 you with $s %s$B$3!
+ARMS 501 32000 30 30
+You $B$4<- = S M I T E = ->$B$5 $N with your GODLY %s$B$5!!!
+$n $B$4<- = S M I T E S = ->$B$7 $N with $s GODLY %s$B$7!!!
+$n $B$4<- = S M I T E S = ->$B$3 you with $s GODLY %s$B$3!!!
+
+BODY 1 5 1 1
+You $B$4barely$B$5 %s $B$5$N.
+$N is $B$4barely$B$7 hit by $n's %s$B$7.
+$n $B$4barely hits$B$3 you with $s %s$B$3.
+BODY 6 10 2 2
+You %s $B$5$N.
+$N is $B$4hit$B$7 by $n's %s$B$7.
+$n $B$4hits$B$3 you with %s$B$3.
+BODY 11 15 3 3
+You %s $B$5$N $B$4hard$B$5.
+$n hits $N $B$4hard$B$7 with $s %s$B$7.
+$n hits you $B$4hard$B$3 with $s %s$B$3.
+BODY 16 20 4 5
+You %s $B$5$N $B$4very hard$B$5.
+$n hits $N $B$4very hard $B$7with $s %s$B$7.
+$n hits you $B$4very hard$B$3 with $s %s$B$3.
+BODY 21 25 6 7
+You %s $B$5$N $B$4extremely hard$B$5.
+$n hits $N $B$4extremely hard$B$7 with $s %s$B$7.
+$n hits you $B$4extremely hard$B$3 with $s %s$B$3.
+BODY 26 30 8 9
+$N is hit with your $B$4forceful$B$5 %s$B$5.
+$n hits $N with $s $B$4forceful$B$7 %s$B$7.
+You are hit with $n's $B$4forceful$B$3 %s$B$3.
+BODY 31 35 10 11
+You injure $N with your $B$4full force$B$5 %s$B$5.
+$N is injured from $n's $B$4full force$B$7 %s$B$7.
+You are injured by $n's $B$4full force$B$3 %s$B$3.
+BODY 36 40 12 13
+You cause $N to $B$4cringe in pain$B$5 with your %s$B$5!
+$n causes $N $B$4cringe in pain$B$7 from $s %s$B$7!
+$n causes you to $B$4cringe in pain$B$3 from $s %s$B$3!
+BODY 41 45 14 15
+You cause $N to $B$4cry out in agony$B$5 with your %s$B$5!
+$n causes $N to $B$4cry out in agony$B$7 with $s %s$B$7!
+$n causes you to $B$4cry out in agony$B$3 with $s %s$B$3!
+BODY 46 50 16 17
+You $B$4mangle$B$5 $N with your %s$B$5!
+$n $B$4mangles$B$7 $N with $s %s$B$7!
+$n $B$4mangles$B$3 you with $s %s$B$3!
+BODY 51 60 18 19
+You $B$4MUTILATE$B$5 $N with your %s$B$5!
+$n $B$4MUTILATES$B$7 $N with $s %s$B$7!
+$n $B$4MUTILATES$B$3 you with $s %s$B$3!
+BODY 61 70 20 21
+You $B$4DECIMATE$B$5 $N with your %s$B$5!
+$n $B$4DECIMATES$B$7 $N with $s %s$B$7!
+$n $B$4DECIMATES$B$3 you with $s %s$B$3!
+BODY 71 100 22 22
+You $B$4<<<< EVISCERATE >>>>$B$5 $N with your %s$B$5!
+$n $B$4<<<< EVISCERATES >>>>$B$7 $N with $s %s$B$7!
+$n $B$4<<<< EVISCERATES >>>>$B$3 you with $s %s$B$3!
+BODY 101 150 23 23
+You $B$4<-<-< LiQuIfY >->->$B$5 $N with your %s$B$5!
+$n $B$4<-<-< LiQuIfies >->->$B$7 $N with $s %s$B$7!
+$n $B$4<-<-< LiQuIfies >->->$B$3 you with $s %s$B$3!
+BODY 151 200 24 24
+You $B$4<<- ANNIHILATE ->>$B$5 $N with your %s$B$5!
+$n $B$4<<- ANNIHILATES ->>$B$7 $N with $s %s$B$7!
+$n $B$4<<- ANNIHILATES ->>$B$3 you with $s %s$B$3!
+BODY 201 250 25 25
+You $B$4[[[ ERAD.I.C.ATE ]]]$B$5 $N with your %s$B$5!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$7 $N with $s %s$B$7!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$3 you with $s %s$B$3!
+BODY 251 300 26 26
+You $B$4[-[--[ ObLiTeRaTe ]--]-]$B$5 $N with your %s$B$5!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$7 $N with $s %s$B$7!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$3 you with $s %s$B$3!
+BODY 301 400 27 27
+You $B$4.  . ..V a p o r i z E.. .  .$B$5 $N with your %s$B$5!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$7 $N with $s %s$B$7!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$3 you with $s %s$B$3!!
+BODY 401 500 28 29
+You $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e__ _  _$B$5 $N with your %s$B$5!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$7 $N with $s %s$B$7!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$3 you with $s %s$B$3!
+BODY 501 32000 30 30
+You $B$4<- = S M I T E = ->$B$5 $N with your GODLY %s$B$5!!!
+$n $B$4<- = S M I T E S = ->$B$7 $N with $s GODLY %s$B$7!!!
+$n $B$4<- = S M I T E S = ->$B$3 you with $s GODLY %s$B$3!!!
+
+HEAD 1 5 1 1
+You $B$4barely$B$5 %s $B$5$N.
+$N is $B$4barely$B$7 hit by $n's %s$B$7.
+$n $B$4barely hits$B$3 you with $s %s$B$3.
+HEAD 6 10 2 2
+You %s $B$5$N.
+$N is $B$4hit$B$7 by $n's %s$B$7.
+$n $B$4hits$B$3 you with %s$B$3.
+HEAD 11 15 3 3
+You %s $B$5$N $B$4hard$B$5.
+$n hits $N $B$4hard$B$7 with $s %s$B$7.
+$n hits you $B$4hard$B$3 with $s %s$B$3.
+HEAD 16 20 4 5
+You %s $B$5$N $B$4very hard$B$5.
+$n hits $N $B$4very hard $B$7with $s %s$B$7.
+$n hits you $B$4very hard$B$3 with $s %s$B$3.
+HEAD 21 25 6 7
+You %s $B$5$N $B$4extremely hard$B$5.
+$n hits $N $B$4extremely hard$B$7 with $s %s$B$7.
+$n hits you $B$4extremely hard$B$3 with $s %s$B$3.
+HEAD 26 30 8 9
+$N is hit with your $B$4forceful$B$5 %s$B$5.
+$n hits $N with $s $B$4forceful$B$7 %s$B$7.
+You are hit with $n's $B$4forceful$B$3 %s$B$3.
+HEAD 31 35 10 11
+You injure $N with your $B$4full force$B$5 %s$B$5.
+$N is injured from $n's $B$4full force$B$7 %s$B$7.
+You are injured by $n's $B$4full force$B$3 %s$B$3.
+HEAD 36 40 12 13
+You cause $N to $B$4cringe in pain$B$5 with your %s$B$5!
+$n causes $N $B$4cringe in pain$B$7 from $s %s$B$7!
+$n causes you to $B$4cringe in pain$B$3 from $s %s$B$3!
+HEAD 41 45 14 15
+You cause $N to $B$4cry out in agony$B$5 with your %s$B$5!
+$n causes $N to $B$4cry out in agony$B$7 with $s %s$B$7!
+$n causes you to $B$4cry out in agony$B$3 with $s %s$B$3!
+HEAD 46 50 16 17
+You $B$4mangle$B$5 $N with your %s$B$5!
+$n $B$4mangles$B$7 $N with $s %s$B$7!
+$n $B$4mangles$B$3 you with $s %s$B$3!
+HEAD 51 60 18 19
+You $B$4MUTILATE$B$5 $N with your %s$B$5!
+$n $B$4MUTILATES$B$7 $N with $s %s$B$7!
+$n $B$4MUTILATES$B$3 you with $s %s$B$3!
+HEAD 61 70 20 21
+You $B$4DECIMATE$B$5 $N with your %s$B$5!
+$n $B$4DECIMATES$B$7 $N with $s %s$B$7!
+$n $B$4DECIMATES$B$3 you with $s %s$B$3!
+HEAD 71 100 22 22
+You $B$4<<<< EVISCERATE >>>>$B$5 $N with your %s$B$5!
+$n $B$4<<<< EVISCERATES >>>>$B$7 $N with $s %s$B$7!
+$n $B$4<<<< EVISCERATES >>>>$B$3 you with $s %s$B$3!
+HEAD 101 150 23 23
+You $B$4<-<-< LiQuIfY >->->$B$5 $N with your %s$B$5!
+$n $B$4<-<-< LiQuIfies >->->$B$7 $N with $s %s$B$7!
+$n $B$4<-<-< LiQuIfies >->->$B$3 you with $s%s$B$3!
+HEAD 151 200 24 24
+You $B$4<<- ANNIHILATE ->>$B$5 $N with your%s$B$5!
+$n $B$4<<- ANNIHILATES ->>$B$7 $N with $s %s$B$7!
+$n $B$4<<- ANNIHILATES ->>$B$3 you with $s %s$B$3!
+HEAD 201 250 25 25
+You $B$4[[[ ERAD.I.C.ATE ]]]$B$5 $N with your %s$B$5!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$7 $N with $s %s$B$7!
+$n $B$4[[[ ERAD.I.C.ATES ]]]$B$3 you with $s %s$B$3!
+HEAD 251 300 26 26
+You $B$4[-[--[ ObLiTeRaTe ]--]-]$B$5 $N with your %s$B$5!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$7 $N with $s %s$B$7!
+$n $B$4[-[--[ ObLiTeRaTeS ]--]-]$B$3 you with $s %s$B$3!
+HEAD 301 400 27 27
+You $B$4.  . ..V a p o r i z E.. .  .$B$5 $N with your %s$B$5!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$7 $N with $s %s$B$7!!
+$n $B$4.  . ..V a p o r i z e S.. .  .$B$3 you with $s %s$B$3!!
+HEAD 401 500 28 29
+You $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e__ _  _$B$5 $N with your %s$B$5!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$7 $N with $s %s$B$7!
+$n $B$4_  _ __e.X.t.E.r.M.i.N.a.T.e.S__ _  _$B$3 you with $s %s$B$3!
+HEAD 501 32000 30 30
+You $B$4<- = S M I T E = ->$B$5 $N with your GODLY %s$B$5!!!
+$n $B$4<- = S M I T E S = ->$B$7 $N with $s GODLY %s$B$7!!!
+$n $B$4<- = S M I T E S = ->$B$3 you with $s GODLY %s$B$3!!!
+
+#This is for regualr kick
+Kickd ((j*3)+(u*5)+(o*10)+(l/4)m40)+((k*2)/3)
+#This is for second kick damage so that it does not do over 120 damage each kick and second kick
+Kickd2 (((j*3)+(u+5)+(o*10)+(l/4)/2)m20)+((k*2)/3)
+END

@@ -1,0 +1,2939 @@
+#AREADATA 
+Name akira's first~
+Repop When its quiet enough, you can hear the wind whistling through hidden passages...
+~
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Akira~
+VNUMs 91001 91250
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#91001
+Name mean mob~
+Short mean mob~
+Long 
+Mean mob, guarding the second key.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Level 0
+Guard 0
+End
+
+#91002
+Name mayan Leader~
+Short a Mayan Spiritual Guardian~
+Long 
+A Mayan Spiritual Guardian is here, watching your every movement.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Money 1
+Level 200
+Sex 1
+MobType 21
+Hp 50
+Guard 0
+End
+
+#91003
+Name mean mob~
+Short mean mob~
+Long 
+Mean mob, guarding the Fourth and last key.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Level 0
+Guard 0
+End
+
+#91004
+Name mean mob~
+Short mean mob~
+Long 
+Mean mob, guarding the third key.
+~
+Descr
+~
+AMax 1
+NHeight 0
+Level 0
+Guard 0
+End
+
+#91005
+Name mean buff mob guarding the spiritual guardian~
+Short guarding mob~
+Long 
+Buff mob guarding the spiritual guardian
+~
+Descr
+~
+AMax 3
+NHeight 0
+ActBits 2
+ActBits3 2
+Affect_By 640
+Level 70
+Hp 20
+Guard 4
+End
+
+#91006
+Name mean mob~
+Short mean mob~
+Long 
+Mean mob, guarding the first key.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 128
+Level 50
+Guard 0
+End
+
+#91199
+Name no name~
+Short (no short description)~
+Long 
+(no long description)
+~
+Descr
+~
+AMax 5
+NHeight 0
+Level 0
+Guard 0
+End
+
+#0
+
+
+
+#OBJDATA
+#91001
+Name key~
+Short key #1~
+Descr
+Key #1
+[0;36m~
+Type 18
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#91001
+Name Atop a Mayan Temple~
+Descr
+~
+Door 0 0 0 91002 0 0
+~
+~
+Door 5 0 0 91012 0 0
+~
+~
+End
+
+#91002
+Name A Mayan Temple~
+Descr
+~
+Reset M 91005 5 100
+Reset M 91005 5 100
+Reset M 91005 5 100
+Door 2 0 0 91001 0 0
+~
+~
+Door 4 0 0 91018 0 0
+~
+~
+End
+
+#91003
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91004 0 0
+~
+~
+Door 3 0 0 91005 0 0
+~
+~
+End
+
+#91004
+Name A Mayan Temple~
+Descr
+~
+Flags 4
+Door 2 0 0 91007 0 0
+~
+~
+Door 3 0 0 91003 0 0
+~
+~
+End
+
+#91005
+Name A Mayan Temple~
+Descr
+~
+Flags 4
+Door 1 0 0 91003 0 0
+~
+~
+Door 5 23 4478 91013 100 100
+~
+door~
+End
+
+#91006
+Name Highest Point of the Mayan Temple~
+Descr
+~
+Reset M 91002 1 100
+Door 5 0 0 91018 0 0
+~
+~
+End
+
+#91007
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91004 0 0
+~
+~
+Door 3 0 0 91008 0 0
+~
+~
+End
+
+#91008
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91007 0 0
+~
+~
+Door 3 0 0 91009 0 0
+~
+~
+End
+
+#91009
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91008 0 0
+~
+~
+Door 3 0 0 91010 0 0
+~
+~
+End
+
+#91010
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91011 0 0
+~
+~
+Door 1 0 0 91009 0 0
+~
+~
+End
+
+#91011
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91014 0 0
+~
+~
+Door 2 0 0 91010 0 0
+~
+~
+End
+
+#91012
+Name A Mayan Temple~
+Descr
+~
+Flags 4
+Door 3 0 0 91015 0 0
+~
+~
+Door 4 0 0 91001 0 0
+~
+~
+End
+
+#91013
+Name A Mayan Temple~
+Descr
+~
+Flags 4
+Door 0 0 0 91017 0 0
+~
+~
+Door 1 0 0 91019 0 0
+~
+~
+Door 2 0 0 91022 0 0
+~
+~
+Door 3 0 0 91020 0 0
+~
+~
+Door 4 23 4478 91005 100 100
+~
+door~
+End
+
+#91014
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91015 0 0
+~
+~
+Door 2 0 0 91011 0 0
+~
+~
+End
+
+#91015
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91012 0 0
+~
+~
+Door 3 0 0 91014 0 0
+~
+~
+End
+
+#91016
+Name A Mayan Temple~
+Descr
+~
+Reset M 91006 1 100
+Reset O 4475 -1 100
+Door 0 0 0 91025 0 0
+~
+~
+End
+
+#91017
+Name A Mayan Temple~
+Descr
+~
+Door 2 0 0 91013 0 0
+~
+~
+Door 5 0 0 91191 0 0
+~
+~
+End
+
+#91018
+Name A Mayan Temple + Big ass Trap~
+Descr
+~
+Door 4 0 0 91006 0 0
+~
+~
+Door 5 0 0 91002 0 0
+~
+~
+End
+
+#91019
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91044 0 0
+~
+~
+Door 1 0 0 91039 0 0
+~
+~
+Door 2 0 0 91023 0 0
+~
+~
+Door 3 0 0 91013 0 0
+~
+~
+End
+
+#91020
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91049 0 0
+~
+~
+Door 1 0 0 91013 0 0
+~
+~
+Door 2 0 0 91021 0 0
+~
+~
+Door 3 0 0 91034 0 0
+~
+~
+End
+
+#91021
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91020 0 0
+~
+~
+Door 1 0 0 91022 0 0
+~
+~
+End
+
+#91022
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91013 0 0
+~
+~
+Door 1 0 0 91023 0 0
+~
+~
+Door 2 0 0 91024 0 0
+~
+~
+Door 3 0 0 91021 0 0
+~
+~
+End
+
+#91023
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91019 0 0
+~
+~
+Door 3 0 0 91022 0 0
+~
+~
+End
+
+#91024
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91022 0 0
+~
+~
+Door 2 0 0 91025 0 0
+~
+~
+End
+
+#91025
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91024 0 0
+~
+~
+Door 1 0 0 91030 0 0
+~
+~
+Door 2 0 0 91016 0 0
+~
+~
+Door 3 259 0 91026 30 30
+~
+door~
+End
+
+#91026
+Name A Mayan Temple~
+Descr
+~
+Door 1 259 0 91025 30 30
+~
+door~
+Door 3 0 0 91027 0 0
+~
+~
+End
+
+#91027
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91026 0 0
+~
+~
+Door 2 7 4476 91028 100 100
+~
+door~
+End
+
+#91028
+Name A Mayan Temple~
+Descr
+~
+Door 0 3 4476 91027 100 100
+~
+door~
+Door 1 0 0 91029 0 0
+~
+~
+End
+
+#91029
+Name A Mayan Temple~
+Descr
+~
+Reset M 91004 1 100
+Reset O 4477 -1 100
+Door 3 0 0 91028 0 0
+~
+~
+End
+
+#91030
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91031 0 0
+~
+~
+Door 3 0 0 91025 0 0
+~
+~
+End
+
+#91031
+Name A Mayan Temple~
+Descr
+~
+Door 2 0 0 91032 0 0
+~
+~
+Door 3 0 0 91030 0 0
+~
+~
+End
+
+#91032
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91031 0 0
+~
+~
+Door 3 0 0 91033 0 0
+~
+~
+End
+
+#91033
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91032 0 0
+~
+~
+End
+
+#91034
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91020 0 0
+~
+~
+Door 2 0 0 91035 0 0
+~
+~
+End
+
+#91035
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91034 0 0
+~
+~
+Door 3 0 0 91036 0 0
+~
+~
+End
+
+#91036
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91035 0 0
+~
+~
+Door 3 0 0 91037 0 0
+~
+~
+End
+
+#91037
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91036 0 0
+~
+~
+Door 2 0 0 91038 0 0
+~
+~
+End
+
+#91038
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91037 0 0
+~
+~
+End
+
+#91039
+Name A Mayan Temple~
+Descr
+~
+Door 2 259 0 91040 30 30
+~
+door~
+Door 3 0 0 91019 0 0
+~
+~
+End
+
+#91040
+Name A Mayan Temple~
+Descr
+~
+Door 0 259 0 91039 30 30
+~
+door~
+Door 1 0 0 91041 0 0
+~
+~
+End
+
+#91041
+Name A Mayan Temple~
+Descr
+~
+Door 1 7 4475 91042 100 100
+~
+door~
+Door 3 0 0 91040 0 0
+~
+~
+End
+
+#91042
+Name A Mayan Temple~
+Descr
+~
+Door 2 0 0 91043 0 0
+~
+~
+Door 3 3 4475 91041 100 100
+~
+door~
+End
+
+#91043
+Name A Mayan Temple~
+Descr
+~
+Reset M 91001 1 100
+Reset O 4476 -1 100
+Door 0 0 0 91042 0 0
+~
+~
+End
+
+#91044
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91045 0 0
+~
+~
+Door 2 0 0 91019 0 0
+~
+~
+End
+
+#91045
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91046 0 0
+~
+~
+Door 2 0 0 91044 0 0
+~
+~
+End
+
+#91046
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91047 0 0
+~
+~
+Door 3 0 0 91045 0 0
+~
+~
+End
+
+#91047
+Name A Mayan Temple~
+Descr
+~
+Door 2 0 0 91046 0 0
+~
+~
+Door 3 0 0 91048 0 0
+~
+~
+End
+
+#91048
+Name A Mayan Temple~
+Descr
+~
+Door 1 0 0 91047 0 0
+~
+~
+End
+
+#91049
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91050 0 0
+~
+~
+Door 2 0 0 91020 0 0
+~
+~
+End
+
+#91050
+Name A Mayan Temple~
+Descr
+~
+Door 2 0 0 91049 0 0
+~
+~
+Door 3 259 0 91051 30 30
+~
+door~
+End
+
+#91051
+Name A Mayan Temple~
+Descr
+~
+Door 0 0 0 91052 0 0
+~
+~
+Door 1 259 0 91050 30 30
+~
+door~
+End
+
+#91052
+Name A Mayan Temple~
+Descr
+~
+Door 1 23 4477 91053 100 100
+~
+door~
+Door 2 0 0 91051 0 0
+~
+~
+End
+
+#91053
+Name A Mayan Temple~
+Descr
+~
+Reset M 91003 1 100
+Reset O 4478 -1 100
+Door 3 7 4477 91052 100 100
+~
+door~
+End
+
+#91054
+Name Entrance to the Mayan Temple~
+Descr
+~
+Door 0 0 0 91055 0 0
+~
+~
+End
+
+#91055
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Flags 4096
+Door 0 0 0 91057 0 0
+~
+~
+Door 2 0 0 91054 0 0
+~
+~
+Door 3 0 0 91056 0 0
+~
+~
+End
+
+#91056
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91114 0 0
+~
+~
+Door 1 0 0 91055 0 0
+~
+~
+Door 3 0 0 91115 0 0
+~
+~
+End
+
+#91057
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Flags 4096
+Door 0 0 0 91058 0 0
+~
+~
+Door 2 0 0 91055 0 0
+~
+~
+End
+
+#91058
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91059 0 0
+~
+~
+Door 1 0 0 91060 0 0
+~
+~
+Door 2 0 0 91057 0 0
+~
+~
+End
+
+#91059
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91058 0 0
+~
+~
+End
+
+#91060
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91109 0 0
+~
+~
+Door 2 0 0 91061 0 0
+~
+~
+Door 3 0 0 91058 0 0
+~
+~
+End
+
+#91061
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91060 0 0
+~
+~
+Door 1 0 0 91062 0 0
+~
+~
+End
+
+#91062
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91063 0 0
+~
+~
+Door 3 0 0 91061 0 0
+~
+~
+End
+
+#91063
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91062 0 0
+~
+~
+Door 1 0 0 91065 0 0
+~
+~
+Door 3 0 0 91064 0 0
+~
+~
+End
+
+#91064
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91063 0 0
+~
+~
+End
+
+#91065
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91066 0 0
+~
+~
+Door 3 0 0 91063 0 0
+~
+~
+End
+
+#91066
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91068 0 0
+~
+~
+Door 1 0 0 91067 0 0
+~
+~
+Door 2 0 0 91065 0 0
+~
+~
+End
+
+#91067
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91069 0 0
+~
+~
+Door 3 0 0 91066 0 0
+~
+~
+End
+
+#91068
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91066 0 0
+~
+~
+Door 3 0 0 91079 0 0
+~
+~
+End
+
+#91069
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91067 0 0
+~
+~
+Door 1 0 0 91070 0 0
+~
+~
+End
+
+#91070
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91071 0 0
+~
+~
+Door 3 0 0 91069 0 0
+~
+~
+End
+
+#91071
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91072 0 0
+~
+~
+Door 2 0 0 91070 0 0
+~
+~
+End
+
+#91072
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91087 0 0
+~
+~
+Door 2 0 0 91071 0 0
+~
+~
+Door 3 0 0 91074 0 0
+~
+~
+End
+
+#91073
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91088 0 0
+~
+~
+Door 3 0 0 91085 0 0
+~
+~
+End
+
+#91074
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91075 0 0
+~
+~
+Door 1 0 0 91072 0 0
+~
+~
+End
+
+#91075
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91076 0 0
+~
+~
+Door 2 0 0 91074 0 0
+~
+~
+Door 3 0 0 91077 0 0
+~
+~
+End
+
+#91076
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91075 0 0
+~
+~
+End
+
+#91077
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91075 0 0
+~
+~
+Door 3 0 0 91078 0 0
+~
+~
+End
+
+#91078
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91080 0 0
+~
+~
+Door 1 0 0 91077 0 0
+~
+~
+Door 2 0 0 91079 0 0
+~
+~
+End
+
+#91079
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91078 0 0
+~
+~
+Door 1 0 0 91068 0 0
+~
+~
+End
+
+#91080
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91081 0 0
+~
+~
+Door 2 0 0 91078 0 0
+~
+~
+End
+
+#91081
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91082 0 0
+~
+~
+Door 3 0 0 91080 0 0
+~
+~
+End
+
+#91082
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91092 0 0
+~
+~
+Door 1 0 0 91083 0 0
+~
+~
+Door 2 0 0 91081 0 0
+~
+~
+Door 3 0 0 91106 0 0
+~
+~
+End
+
+#91083
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91085 0 0
+~
+~
+Door 1 0 0 91084 0 0
+~
+~
+Door 3 0 0 91082 0 0
+~
+~
+End
+
+#91084
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91086 0 0
+~
+~
+Door 3 0 0 91083 0 0
+~
+~
+End
+
+#91085
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91073 0 0
+~
+~
+Door 2 0 0 91083 0 0
+~
+~
+End
+
+#91086
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91084 0 0
+~
+~
+Door 2 0 0 91087 0 0
+~
+~
+End
+
+#91087
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91086 0 0
+~
+~
+Door 2 0 0 91072 0 0
+~
+~
+End
+
+#91088
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91073 0 0
+~
+~
+Door 3 0 0 91089 0 0
+~
+~
+End
+
+#91089
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91091 0 0
+~
+~
+Door 1 0 0 91088 0 0
+~
+~
+Door 3 0 0 91090 0 0
+~
+~
+End
+
+#91090
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91094 0 0
+~
+~
+Door 1 0 0 91089 0 0
+~
+~
+Door 2 0 0 91092 0 0
+~
+~
+Door 3 0 0 91095 0 0
+~
+~
+End
+
+#91091
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91093 0 0
+~
+~
+Door 2 0 0 91089 0 0
+~
+~
+End
+
+#91092
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91090 0 0
+~
+~
+Door 2 0 0 91082 0 0
+~
+~
+Door 3 0 0 91105 0 0
+~
+~
+End
+
+#91093
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 3 0 0 91091 0 0
+~
+~
+End
+
+#91094
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91096 0 0
+~
+~
+Door 2 0 0 91090 0 0
+~
+~
+End
+
+#91095
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91104 0 0
+~
+~
+Door 1 0 0 91090 0 0
+~
+~
+End
+
+#91096
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91094 0 0
+~
+~
+Door 3 0 0 91097 0 0
+~
+~
+End
+
+#91097
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91098 0 0
+~
+~
+Door 1 0 0 91096 0 0
+~
+~
+Door 2 0 0 91104 0 0
+~
+~
+End
+
+#91098
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91099 0 0
+~
+~
+Door 2 0 0 91097 0 0
+~
+~
+Door 3 0 0 91155 0 0
+~
+~
+End
+
+#91099
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91100 0 0
+~
+~
+Door 3 0 0 91098 0 0
+~
+~
+End
+
+#91100
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91101 0 0
+~
+~
+Door 3 0 0 91099 0 0
+~
+~
+End
+
+#91101
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91102 0 0
+~
+~
+Door 3 0 0 91100 0 0
+~
+~
+End
+
+#91102
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91101 0 0
+~
+~
+Door 3 0 0 91103 0 0
+~
+~
+End
+
+#91103
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91102 0 0
+~
+~
+End
+
+#91104
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91097 0 0
+~
+~
+Door 2 0 0 91095 0 0
+~
+~
+Door 3 0 0 91175 0 0
+~
+~
+End
+
+#91105
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91092 0 0
+~
+~
+Door 2 0 0 91106 0 0
+~
+~
+End
+
+#91106
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91105 0 0
+~
+~
+Door 1 0 0 91082 0 0
+~
+~
+Door 3 0 0 91107 0 0
+~
+~
+End
+
+#91107
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91106 0 0
+~
+~
+Door 2 0 0 91108 0 0
+~
+~
+End
+
+#91108
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91107 0 0
+~
+~
+Door 2 0 0 91109 0 0
+~
+~
+Door 3 0 0 91110 0 0
+~
+~
+End
+
+#91109
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91108 0 0
+~
+~
+Door 2 0 0 91060 0 0
+~
+~
+End
+
+#91110
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91108 0 0
+~
+~
+Door 3 0 0 91111 0 0
+~
+~
+End
+
+#91111
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91110 0 0
+~
+~
+Door 2 0 0 91112 0 0
+~
+~
+End
+
+#91112
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91111 0 0
+~
+~
+Door 2 0 0 91113 0 0
+~
+~
+Door 3 0 0 91132 0 0
+~
+~
+End
+
+#91113
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91112 0 0
+~
+~
+Door 2 0 0 91114 0 0
+~
+~
+End
+
+#91114
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91113 0 0
+~
+~
+Door 2 0 0 91056 0 0
+~
+~
+Door 3 0 0 91118 0 0
+~
+~
+End
+
+#91115
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91056 0 0
+~
+~
+Door 3 0 0 91116 0 0
+~
+~
+End
+
+#91116
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91117 0 0
+~
+~
+Door 1 0 0 91115 0 0
+~
+~
+End
+
+#91117
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91130 0 0
+~
+~
+Door 1 0 0 91118 0 0
+~
+~
+Door 2 0 0 91116 0 0
+~
+~
+Door 3 0 0 91120 0 0
+~
+~
+End
+
+#91118
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91119 0 0
+~
+~
+Door 1 0 0 91114 0 0
+~
+~
+Door 3 0 0 91117 0 0
+~
+~
+End
+
+#91119
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91118 0 0
+~
+~
+End
+
+#91120
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91117 0 0
+~
+~
+Door 2 0 0 91123 0 0
+~
+~
+Door 3 0 0 91121 0 0
+~
+~
+End
+
+#91121
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91124 0 0
+~
+~
+Door 1 0 0 91120 0 0
+~
+~
+Door 2 0 0 91122 0 0
+~
+~
+End
+
+#91122
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91121 0 0
+~
+~
+Door 1 0 0 91123 0 0
+~
+~
+End
+
+#91123
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91120 0 0
+~
+~
+Door 3 0 0 91122 0 0
+~
+~
+End
+
+#91124
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91125 0 0
+~
+~
+Door 2 0 0 91121 0 0
+~
+~
+End
+
+#91125
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91126 0 0
+~
+~
+Door 2 0 0 91124 0 0
+~
+~
+End
+
+#91126
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91127 0 0
+~
+~
+Door 2 0 0 91125 0 0
+~
+~
+End
+
+#91127
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91145 0 0
+~
+~
+Door 2 0 0 91128 0 0
+~
+~
+Door 3 0 0 91126 0 0
+~
+~
+End
+
+#91128
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91127 0 0
+~
+~
+Door 2 0 0 91129 0 0
+~
+~
+End
+
+#91129
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91128 0 0
+~
+~
+Door 1 0 0 91130 0 0
+~
+~
+End
+
+#91130
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91131 0 0
+~
+~
+Door 2 0 0 91117 0 0
+~
+~
+Door 3 0 0 91129 0 0
+~
+~
+End
+
+#91131
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91132 0 0
+~
+~
+Door 2 0 0 91130 0 0
+~
+~
+End
+
+#91132
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91133 0 0
+~
+~
+Door 1 0 0 91112 0 0
+~
+~
+Door 3 0 0 91131 0 0
+~
+~
+End
+
+#91133
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91134 0 0
+~
+~
+Door 2 0 0 91132 0 0
+~
+~
+Door 3 0 0 91135 0 0
+~
+~
+End
+
+#91134
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91133 0 0
+~
+~
+End
+
+#91135
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91136 0 0
+~
+~
+Door 1 0 0 91133 0 0
+~
+~
+End
+
+#91136
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91137 0 0
+~
+~
+Door 2 0 0 91135 0 0
+~
+~
+End
+
+#91137
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91139 0 0
+~
+~
+Door 1 0 0 91138 0 0
+~
+~
+Door 2 0 0 91136 0 0
+~
+~
+End
+
+#91138
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 3 0 0 91137 0 0
+~
+~
+End
+
+#91139
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91146 0 0
+~
+~
+Door 2 0 0 91137 0 0
+~
+~
+Door 3 0 0 91140 0 0
+~
+~
+End
+
+#91140
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91139 0 0
+~
+~
+Door 2 0 0 91141 0 0
+~
+~
+End
+
+#91141
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91140 0 0
+~
+~
+Door 3 0 0 91142 0 0
+~
+~
+End
+
+#91142
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91143 0 0
+~
+~
+Door 1 0 0 91141 0 0
+~
+~
+Door 2 0 0 91144 0 0
+~
+~
+End
+
+#91143
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91142 0 0
+~
+~
+End
+
+#91144
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91142 0 0
+~
+~
+Door 1 0 0 91145 0 0
+~
+~
+End
+
+#91145
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91127 0 0
+~
+~
+Door 3 0 0 91144 0 0
+~
+~
+End
+
+#91146
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91148 0 0
+~
+~
+Door 1 0 0 91147 0 0
+~
+~
+Door 3 0 0 91139 0 0
+~
+~
+End
+
+#91147
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 3 0 0 91146 0 0
+~
+~
+End
+
+#91148
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91149 0 0
+~
+~
+Door 1 0 0 91174 0 0
+~
+~
+Door 2 0 0 91146 0 0
+~
+~
+Door 3 0 0 91173 0 0
+~
+~
+End
+
+#91149
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91150 0 0
+~
+~
+Door 2 0 0 91148 0 0
+~
+~
+Door 3 0 0 91165 0 0
+~
+~
+End
+
+#91150
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91151 0 0
+~
+~
+Door 2 0 0 91149 0 0
+~
+~
+End
+
+#91151
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91152 0 0
+~
+~
+Door 3 0 0 91150 0 0
+~
+~
+End
+
+#91152
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91151 0 0
+~
+~
+Door 1 0 0 91153 0 0
+~
+~
+End
+
+#91153
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91154 0 0
+~
+~
+Door 2 0 0 91157 0 0
+~
+~
+Door 3 0 0 91152 0 0
+~
+~
+End
+
+#91154
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91155 0 0
+~
+~
+Door 3 0 0 91153 0 0
+~
+~
+End
+
+#91155
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91098 0 0
+~
+~
+Door 2 0 0 91154 0 0
+~
+~
+Door 3 0 0 91156 0 0
+~
+~
+End
+
+#91156
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91155 0 0
+~
+~
+End
+
+#91157
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91153 0 0
+~
+~
+Door 2 0 0 91158 0 0
+~
+~
+End
+
+#91158
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91157 0 0
+~
+~
+Door 1 0 0 91159 0 0
+~
+~
+End
+
+#91159
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91160 0 0
+~
+~
+Door 3 0 0 91158 0 0
+~
+~
+End
+
+#91160
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91159 0 0
+~
+~
+Door 3 0 0 91161 0 0
+~
+~
+End
+
+#91161
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91160 0 0
+~
+~
+Door 3 0 0 91162 0 0
+~
+~
+End
+
+#91162
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91161 0 0
+~
+~
+Door 2 0 0 91163 0 0
+~
+~
+End
+
+#91163
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91162 0 0
+~
+~
+Door 1 0 0 91164 0 0
+~
+~
+End
+
+#91164
+Name End of Mayan Labyrinth~
+Descr
+~
+Door 3 0 0 91163 0 0
+~
+~
+Door 4 0 0 91176 0 0
+~
+~
+End
+
+#91165
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91166 0 0
+~
+~
+Door 1 0 0 91149 0 0
+~
+~
+End
+
+#91166
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91165 0 0
+~
+~
+Door 3 0 0 91167 0 0
+~
+~
+End
+
+#91167
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91166 0 0
+~
+~
+Door 2 0 0 91169 0 0
+~
+~
+Door 3 0 0 91168 0 0
+~
+~
+End
+
+#91168
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91167 0 0
+~
+~
+End
+
+#91169
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91167 0 0
+~
+~
+Door 2 0 0 91170 0 0
+~
+~
+End
+
+#91170
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91169 0 0
+~
+~
+Door 1 0 0 91173 0 0
+~
+~
+Door 3 0 0 91171 0 0
+~
+~
+End
+
+#91171
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 0 0 0 91172 0 0
+~
+~
+Door 1 0 0 91170 0 0
+~
+~
+End
+
+#91172
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 2 0 0 91171 0 0
+~
+~
+End
+
+#91173
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91148 0 0
+~
+~
+Door 3 0 0 91170 0 0
+~
+~
+End
+
+#91174
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 3 0 0 91148 0 0
+~
+~
+End
+
+#91175
+Name Inside the Mayan Labyrinth~
+Descr
+~
+Door 1 0 0 91104 0 0
+~
+~
+End
+
+#91176
+Name Begining of the Ethernal Maze~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91177 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91164 0 0
+~
+~
+End
+
+#91177
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91178 0 0
+~
+~
+Door 3 0 0 91176 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91178
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91177 0 0
+~
+~
+Door 1 0 0 91179 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91179
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91199 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91180 0 0
+~
+~
+Door 3 0 0 91178 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91180
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91179 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91181 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91181
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91180 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91182 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91182
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91183 0 0
+~
+~
+Door 1 0 0 91181 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91183
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91182 0 0
+~
+~
+Door 3 0 0 91184 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91184
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91183 0 0
+~
+~
+Door 2 0 0 91185 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91185
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91184 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91186 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91186
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91187 0 0
+~
+~
+Door 1 0 0 91185 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91187
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91186 0 0
+~
+~
+Door 3 0 0 91188 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91188
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91189 0 0
+~
+~
+Door 1 0 0 91187 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91189
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91190 0 0
+~
+~
+Door 2 0 0 91188 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91190
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91192 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91189 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91191
+Name End of the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91197 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91017 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91192
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91193 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91190 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91193
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91194 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91192 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91194
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91195 0 0
+~
+~
+Door 2 0 0 91193 0 0
+~
+~
+Door 3 0 0 91200 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91195
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91196 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91194 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91196
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91202 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91197 0 0
+~
+~
+Door 3 0 0 91195 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91197
+Name Stuck Inside the Maze of Eternity~
+Descr
+~
+Door 0 0 0 91196 0 0
+~
+~
+Door 1 0 0 91201 0 0
+~
+~
+Door 2 0 0 91203 0 0
+~
+~
+Door 3 0 0 91191 0 0
+~
+~
+Door 4 0 0 91198 0 0
+~
+~
+Door 5 0 0 91199 0 0
+~
+~
+End
+
+#91198
+Name UP~
+Descr
+~
+End
+
+#91199
+Name DOWN~
+Descr
+~
+Door 4 0 0 91191 0 0
+~
+~
+End
+
+#91200
+Name WEST~
+Descr
+~
+Door 1 0 0 91191 0 0
+~
+~
+End
+
+#91201
+Name EAST~
+Descr
+~
+End
+
+#91202
+Name NORTH~
+Descr
+~
+Door 2 0 0 91191 0 0
+~
+~
+End
+
+#91203
+Name SOUTH~
+Descr
+~
+Door 0 0 0 91191 0 0
+~
+~
+End
+
+#0
+
+
+
+#$

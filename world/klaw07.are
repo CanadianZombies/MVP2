@@ -1,0 +1,1253 @@
+#AREADATA 
+Name the Bandit Camp~
+Repop [1;30mThe area seems alive again!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Klaw~
+VNUMs 1951 2000
+NQuit 0
+Open 0
+End
+
+
+
+#MOBDATA
+#1951
+Name leader bandit~
+Short the leader bandit~
+Long 
+The leader of the bandits is here, relaxing on his off time.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 2
+Affect_By 552
+Money 400
+Level 100
+Sex 1
+MobType 0
+Hp 12
+Guard 0
+Spec spec_thief
+End
+
+#1952
+Name orc bandit~
+Short an orcish bandit~
+Long 
+An orcish bandit is here taking a break from his thievery.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 16
+Affect_By 552
+Money 300
+Level 65
+Sex 1
+MobType 25
+Hp 12
+Guard 0
+Spec spec_thief
+End
+
+#1953
+Name human thief~
+Short a human thief~
+Long 
+A human thief is here relaxing during his time off.
+~
+Descr
+~
+AMax 5
+NHeight 0
+ActBits 16
+Affect_By 552
+Money 250
+Level 60
+Sex 1
+MobType 0
+Hp 12
+Guard 0
+Spec spec_thief
+End
+
+#1954
+Name elf wild thief PRAC~
+Short a wild elf thief~
+Long 
+An elderly wild elf thief spends the rest of his days here.
+~
+Descr
+~
+AMax 1
+NHeight 0
+ActBits 258
+Affect_By 552
+Money 300
+Level 125
+Sex 1
+MobType 1
+Hp 17
+Guard 0
+Spec spec_thief
+End
+
+#0
+
+
+
+#OBJDATA
+#1951
+Name candle~
+Short a candle~
+Descr
+A dim candle, almost burnt out is here.
+[0;36m~
+Type 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 0 1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#1951
+Name In a Strange Old Elevator~
+Descr
+You are in an old abandoned elevator. It was probably used by the miners
+ages ago. You are astounded that they had elevators that long ago, but by
+closer observation, you see that it is only a simple pully system. Staying
+here much longer might be hazardous to your health, due to the fact that
+this elevator will probably fall at any time. 
+~
+Flags 8196
+Sector 0
+Move_dir 5
+Movemess
+The elevator begins to rattle and you feel a downward shift. 
+~
+Door 2 259 0 1936 30 30
+~
+elevatorshaft~
+Door 5 0 0 1952 0 0
+~
+~
+End
+
+#1952
+Name In a Strange Old Elevator~
+Descr
+You are in an old abandoned elevator. It was probably used by the miners
+ages ago. You are astounded that they had elevators that long ago, but by
+closer observation, you see that it is only a simple pully system. Staying
+here much longer might be hazardous to your health, due to the fact that
+this elevator will probably fall at any time. 
+~
+Flags 8196
+Sector 0
+Move_dir 5
+Movemess
+The elevator begins to rattle and you feel a downward shift. 
+~
+Door 4 0 0 1951 0 0
+~
+~
+Door 5 0 0 1953 0 0
+~
+~
+End
+
+#1953
+Name In a Strange Old Elevator~
+Descr
+You are in an old abandoned elevator. It was probably used by the miners
+ages ago. You are astounded that they had elevators that long ago, but by
+closer observation, you see that it is only a simple pully system. Staying
+here much longer might be hazardous to your health, due to the fact that
+this elevator will probably fall at any time. 
+~
+Flags 8196
+Sector 0
+Move_dir 5
+Movemess
+The elevator begins to rattle and you feel a downward shift. 
+~
+Door 2 259 0 1955 30 30
+~
+elevator~
+Door 4 0 0 1952 0 0
+~
+~
+Door 5 0 0 1954 0 0
+~
+~
+End
+
+#1954
+Name In a Strange Old Elevator~
+Descr
+You are in an old abandoned elevator. It was probably used by the miners
+ages ago. You are astounded that they had elevators that long ago, but by
+closer observation, you see that it is only a simple pully system. Staying
+here much longer might be hazardous to your health, due to the fact that
+this elevator will probably fall at any time. 
+~
+Flags 4
+Sector 0
+Door 2 3 0 1956 30 30
+~
+elevator~
+Door 4 0 0 1953 0 0
+~
+~
+End
+
+#1955
+Name A Dead-End~
+Descr
+This strange dead-end from the elevator is home to an elderly wild elf
+thief. He has lived here for many years, after he retired from fighting
+against the forces of evil. Very little light is provided from a little
+candle he keeps by him. 
+~
+Flags 4
+Sector 0
+Reset M 1954 1 100
+Reset O 937 1 3
+Reset O 1951 -5 100
+Door 0 259 0 1953 30 30
+~
+elevator~
+End
+
+#1956
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 0 3 0 1954 30 30
+~
+elevator~
+Door 2 0 0 1957 0 0
+~
+~
+End
+
+#1957
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1956 0 0
+~
+~
+Door 2 0 0 1958 0 0
+~
+~
+End
+
+#1958
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1957 0 0
+~
+~
+Door 5 0 0 1959 0 0
+~
+~
+End
+
+#1959
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 4 0 0 1958 0 0
+~
+~
+Door 5 0 0 1960 0 0
+~
+~
+End
+
+#1960
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1961 0 0
+~
+~
+Door 4 0 0 1959 0 0
+~
+~
+End
+
+#1961
+Name A Strange Abandoned Mining Shaft~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1962 0 0
+~
+~
+Door 2 0 0 1960 0 0
+~
+~
+End
+
+#1962
+Name The Entrance to the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1963 0 0
+~
+~
+Door 2 0 0 1961 0 0
+~
+~
+End
+
+#1963
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 100 1
+Door 0 0 0 1966 0 0
+~
+~
+Door 1 0 0 1965 0 0
+~
+~
+Door 2 0 0 1962 0 0
+~
+~
+Door 3 0 0 1964 0 0
+~
+~
+End
+
+#1964
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1967 0 0
+~
+~
+Door 1 0 0 1963 0 0
+~
+~
+End
+
+#1965
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 1 100
+Door 0 0 0 1968 0 0
+~
+~
+Door 3 0 0 1963 0 0
+~
+~
+End
+
+#1966
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1969 0 0
+~
+~
+Door 1 0 0 1968 0 0
+~
+~
+Door 2 0 0 1963 0 0
+~
+~
+Door 3 0 0 1967 0 0
+~
+~
+End
+
+#1967
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1970 0 0
+~
+~
+Door 1 0 0 1966 0 0
+~
+~
+Door 2 0 0 1964 0 0
+~
+~
+Door 3 0 0 1983 0 0
+~
+~
+End
+
+#1968
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1971 0 0
+~
+~
+Door 1 0 0 1991 0 0
+~
+~
+Door 2 0 0 1965 0 0
+~
+~
+Door 3 0 0 1966 0 0
+~
+~
+End
+
+#1969
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1972 0 0
+~
+~
+Door 1 0 0 1971 0 0
+~
+~
+Door 2 0 0 1966 0 0
+~
+~
+Door 3 0 0 1970 0 0
+~
+~
+End
+
+#1970
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 1 100
+Door 1 0 0 1969 0 0
+~
+~
+Door 2 0 0 1967 0 0
+~
+~
+End
+
+#1971
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1953 1 100
+Door 2 0 0 1968 0 0
+~
+~
+Door 3 0 0 1969 0 0
+~
+~
+End
+
+#1972
+Name The Main Hallway in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1973 0 0
+~
+~
+Door 2 0 0 1969 0 0
+~
+~
+End
+
+#1973
+Name The Main Hallway in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1974 0 0
+~
+~
+Door 2 0 0 1972 0 0
+~
+~
+End
+
+#1974
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1977 0 0
+~
+~
+Door 1 0 0 1976 0 0
+~
+~
+Door 2 0 0 1973 0 0
+~
+~
+Door 3 0 0 1975 0 0
+~
+~
+End
+
+#1975
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1953 1 100
+Door 0 0 0 1979 0 0
+~
+~
+Door 1 0 0 1974 0 0
+~
+~
+End
+
+#1976
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1978 0 0
+~
+~
+Door 3 0 0 1974 0 0
+~
+~
+End
+
+#1977
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1980 0 0
+~
+~
+Door 1 0 0 1978 0 0
+~
+~
+Door 2 0 0 1974 0 0
+~
+~
+Door 3 0 0 1979 0 0
+~
+~
+End
+
+#1978
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 1 100
+Door 0 0 0 1981 0 0
+~
+~
+Door 2 0 0 1976 0 0
+~
+~
+Door 3 0 0 1977 0 0
+~
+~
+End
+
+#1979
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1982 0 0
+~
+~
+Door 1 0 0 1977 0 0
+~
+~
+Door 2 0 0 1975 0 0
+~
+~
+End
+
+#1980
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1999 0 0
+~
+~
+Door 1 0 0 1981 0 0
+~
+~
+Door 2 0 0 1977 0 0
+~
+~
+Door 3 0 0 1982 0 0
+~
+~
+End
+
+#1981
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 1978 0 0
+~
+~
+Door 3 0 0 1980 0 0
+~
+~
+End
+
+#1982
+Name The Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1980 0 0
+~
+~
+Door 2 0 0 1979 0 0
+~
+~
+End
+
+#1983
+Name A Side Hallway~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1967 0 0
+~
+~
+Door 3 0 0 1984 0 0
+~
+~
+End
+
+#1984
+Name A Side Hallway~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1983 0 0
+~
+~
+Door 3 0 0 1985 0 0
+~
+~
+End
+
+#1985
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1986 0 0
+~
+~
+Door 1 0 0 1984 0 0
+~
+~
+Door 2 0 0 1987 0 0
+~
+~
+Door 3 0 0 1988 0 0
+~
+~
+End
+
+#1986
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 2 0 0 1985 0 0
+~
+~
+Door 3 0 0 1989 0 0
+~
+~
+End
+
+#1987
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 1 100
+Door 0 0 0 1985 0 0
+~
+~
+Door 3 0 0 1990 0 0
+~
+~
+End
+
+#1988
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1989 0 0
+~
+~
+Door 1 0 0 1985 0 0
+~
+~
+Door 2 0 0 1990 0 0
+~
+~
+End
+
+#1989
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1953 1 100
+Door 1 0 0 1986 0 0
+~
+~
+Door 2 0 0 1988 0 0
+~
+~
+End
+
+#1990
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1988 0 0
+~
+~
+Door 1 0 0 1987 0 0
+~
+~
+End
+
+#1991
+Name A Side Hallway~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1992 0 0
+~
+~
+Door 3 0 0 1968 0 0
+~
+~
+End
+
+#1992
+Name A Side Hallway~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1993 0 0
+~
+~
+Door 3 0 0 1991 0 0
+~
+~
+End
+
+#1993
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1994 0 0
+~
+~
+Door 1 0 0 1996 0 0
+~
+~
+Door 2 0 0 1995 0 0
+~
+~
+Door 3 0 0 1992 0 0
+~
+~
+End
+
+#1994
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 1 0 0 1997 0 0
+~
+~
+Door 2 0 0 1993 0 0
+~
+~
+End
+
+#1995
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1952 1 100
+Door 0 0 0 1993 0 0
+~
+~
+Door 1 0 0 1998 0 0
+~
+~
+End
+
+#1996
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1997 0 0
+~
+~
+Door 2 0 0 1998 0 0
+~
+~
+Door 3 0 0 1993 0 0
+~
+~
+End
+
+#1997
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Reset M 1953 1 100
+Door 2 0 0 1996 0 0
+~
+~
+Door 3 0 0 1994 0 0
+~
+~
+End
+
+#1998
+Name A Side Hall in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 0 0 1996 0 0
+~
+~
+Door 3 0 0 1995 0 0
+~
+~
+End
+
+#1999
+Name A Grand Hallway in the Bandit Camp~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. 
+~
+Flags 4
+Sector 0
+Door 0 3 0 2000 30 30
+~
+door~
+Door 2 0 0 1980 0 0
+~
+~
+End
+
+#2000
+Name The Master Bandit's Hideout~
+Descr
+Here is an old mined out shaft deep in the Northern Caves. Ancient
+pickaxes, rusted and rotten, can be found every once in awhile. The dwarfs
+used to mine here for diamonds, most of them just turned into pricey
+trinkets. But every once in awhile, they found magical diamonds, and they
+used them to fight back against the forces of evil. It appears that bandits
+are using these caves to hide in while they aren't out stealing. They will
+probably greet you if you come in, but you had better watch your purse. This
+rather large part of the mines is where the leader of the bandits resides. 
+~
+Flags 4
+Sector 0
+Reset M 1951 1 100
+Reset O 61 1 1
+Door 2 3 0 1999 30 30
+~
+door~
+End
+
+#0
+
+
+
+#$

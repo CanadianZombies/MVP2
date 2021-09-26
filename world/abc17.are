@@ -1,0 +1,1395 @@
+#AREADATA 
+Name The Balrog Cave~
+Repop [1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30m[1;30mGrrrr.... Goes the balrogs!~[0;37m
+SRepop 55
+SJail 0
+SOutJail 0
+SCZone 0
+Builders Entity~
+VNUMs 62000 62050
+NQuit 0
+Open 1
+End
+
+
+
+#MOBDATA
+#62000
+Name enormous flaming demon~
+Short an enormous flaming demon~
+Long 
+An enormous, flaming demon screams at you with hatred.
+~
+Descr
+This amazing display of power stands almost elven feet tall, surely
+killing anything who incurs it's wrath.  It eyes you slyly as you pass by
+it's area, ready to jump on any sign of aggression.
+~
+AMax 2
+NHeight 125
+ActBits 3
+ActBits4 8192
+Affect_By 680
+Alignment 200
+Money 90
+Level 90
+MobType 11
+Guard 1
+Spec spec_warrior
+End
+
+#62001
+Name lesser balrog~
+Short a lesser balrog~
+Long 
+A lesser balrog stands here, drooling while observing your tender flesh.
+~
+Descr
+Before you stands a putrid smelling balrog with a humanoid skeletal
+frame.  It's brownish skin seems slimey to the touch, and is decaying in
+serveral sections of it's body.
+~
+AMax 1
+NHeight 66
+ActBits 1
+ActBits3 65536
+Affect_By 512
+Alignment -300
+Money 80
+Level 80
+MobType 0
+Guard 0
+ArmorClass 75
+End
+
+#62002
+Name balrog large~
+Short a large balrog~
+Long 
+A balrog who seems larger than the rest stands here, looking for elf meat.
+~
+Descr
+This balrog is very large and built for his heavy corded muscles are
+finely-tuned in every section possible.  It's dark, grey eyes stare at you
+with a cold, frigid evilness, sending you shivering in fear.
+~
+AMax 1
+NHeight 85
+ActBits 1
+ActBits3 65536
+Affect_By 552
+Alignment 200
+Money 100
+Level 100
+MobType 0
+Guard 0
+End
+
+#62003
+Name chaos goblin~
+Short a chaos goblin~
+Long 
+An enormous goblin with thick, black skin cackles at you as you pass by.
+~
+Descr
+This enormous goblin stands approximently eight feet above the surface of
+the ground, waving his club as he looks at your head.  His thick, black skin
+looks almost tougher than iron itself..  Surely not a being to be messed
+with.
+~
+AMax 2
+NHeight 90
+ActBits 1
+ActBits3 65536
+ActBits4 4096
+Affect_By 40
+Alignment -100
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+End
+
+#62004
+Name black cloaked black-cloaked wanderer~
+Short a black-cloaked wanderer~
+Long 
+A black-cloaked wanderer hides in the shadows, trying not to be noticed.
+~
+Descr
+A mysterious-looking humanoid stands here with a cloak hung loosley over
+his head.  For some reason you have an over-powering urge to yank his hood
+back.
+~
+AMax 2
+NHeight 70
+ActBits 1
+ActBits3 65536
+Affect_By 552
+Alignment 3000
+Money 100
+Level 100
+Sex 1
+MobType 0
+Guard 0
+ArmorClass -120
+End
+
+#62005
+Name enormous flaming balrog~
+Short an enormous flaming balrog~
+Long 
+An enormous flaming balrog stands here, screaming at the powers to be.
+~
+Descr
+This enormous flaming balrog stands approximently seven or eight feet
+tall, towering high above your head.  You feel an amazing sense of
+protection as you stand beside this deity of evilness.
+~
+AMax 1
+NHeight 80
+ActBits 3
+ActBits3 65536
+Affect_By 8232
+Alignment 2000
+Money 150
+Level 150
+MobType 0
+Guard 0
+Spec spec_warrior
+End
+
+#62006
+Name wisp blue pulsating~
+Short a pulsating, blue wisp~
+Long 
+A pulsating, blue light wisps around in circles here.
+~
+Descr
+A blue, pulsating light wisps around in circles before you.  It spans
+approximently two feet in length, and seems to never stop moving.
+~
+AMax 3
+NHeight 20
+ActBits 1
+ActBits3 65536
+Affect_By 532482
+Alignment 1000
+Money 60
+Level 60
+MobType 19
+Guard 0
+ArmorClass 10
+End
+
+#62007
+Name dark guard guardian~
+Short A dark guardian~
+Long 
+A dark guardian is here, guarding against whitie invasions.
+~
+Descr
+~
+AMax 1
+NHeight 144
+ActBits 3
+ActBits3 2
+Affect_By 168
+Alignment -1000
+Money 150
+Level 150
+Sex 1
+MobType 11
+Guard 0
+Spec spec_warrior
+End
+
+#62008
+Name Lag Man~
+Short Aaaaaaaaaaaaaaaaaaaaaa~
+Long 
+The Lag Man
+~
+Descr
+~
+AMax 0
+NHeight 0
+ActBits 1
+Affect_By 8
+Alignment -1000
+Money 2000
+Level 2000
+Guard 0
+End
+
+#62023
+Name mage uuial teacher prac~
+Short Uuial~
+Long 
+[Teacher] Uuial, a wise and powerful magical deity quietly studies here.
+~
+Descr
+A very powerful mage dressed in a powerful looking attire roams around
+this quiet study, contemplating the universe.
+~
+AMax 1
+NHeight 0
+ActBits 257
+ActBits3 524288
+Affect_By 524330
+Alignment -100
+Money 110
+Level 110
+Sex 1
+MobType 0
+Guard 0
+ASklTaught 0 102
+ASklTaught 1 37
+ASklTaught 2 99
+ASklTaught 3 100
+ASklTaught 4 41
+ASklTaught 5 67
+ASklTaught 6 43
+End
+
+#0
+
+
+
+#OBJDATA
+#62651
+Name trash~
+Short a [1m[37ms[0m[37mh[1mi[0m[37mm[1mm[0m[37mi[1mn[0m[37mg shard of [1m[32ml[0m[37mi[1mm[0m[32me[1ms[0mt[1m[32mo[0m[37mn[1me~
+Descr
+A chunk of limestone rests here partially dislodged from the ground.
+[0;36m~
+Type 13
+Extra 536870913
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 9 70 70 54 0 0 0 0 0 0
+Weight 1
+Cost 2600
+End
+
+#62705
+Name bronze hammer~
+Short a [33mbronze [0mhammer~
+Descr
+A bronze hammer with the eye of Odin infused to its side rests here.
+[0;36m~
+Type 5
+Extra 524290
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 8 0 0 0 4 4 0
+Weight 18
+Cost 3000
+End
+
+#62000
+Name shoulder plate iron spiked~
+Short a spiked, [1m[30miron [0mshoulderplate~
+Descr
+A large, heavy iron spiked shoulder-plate rests here.
+[0;36m~
+Type 9
+Wear 32769
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 2 0 0 0 0 50 50 0 0
+Weight 8
+Cost 2500
+Affect 17 -2 1 0 0
+End
+
+#62001
+Name charred human flesh black armor AC~
+Short charred [1m[30mblack [0marmor of human flesh~
+Descr
+Some charred flesh lies on the ground.
+[0;36m~
+Type 9
+Wear 9
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 4 0 0 0 0 75 75 0 0
+Weight 6
+Cost 3500
+End
+
+#62002
+Name shroud fire~
+Short [31ma [1mflaming [0m[31mshroud of protection[0m~
+Descr
+sword
+[0;36m~
+Type 9
+Extra 536870912
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 9 0 0 0 0 0 0 0 0
+Weight 12
+Cost 1500
+End
+
+#62003
+Name fire~
+Short [31ma small, yet [1mraging [0m[31mring of [1mfire[0m~
+Descr
+[31mA small, yet [1mraging [0m[31mring of [1mfire [0m[31mflickers and fades here.[0m
+[0;36m~
+Type 13
+Extra 1
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62004
+Name ring mortals~
+Short the ring of mortals~
+Descr
+A powerful looking ring rolls around on the ground here.
+[0;36m~
+Type 9
+Extra 2
+Wear 3
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 2 0 0 50 50 0 0
+Weight 1
+Cost 1750
+End
+
+#62005
+Name transparent portal~
+Short a transparent portal~
+Descr
+A transparent portal lies here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 62022 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62006
+Name red portal~
+Short a [31mred [0mportal~
+Descr
+A [31mred [36mportal floats here, waiting for beings to enter it.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 62012 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62007
+Name altar unholy black~
+Short an [30m[1munholy, black [0maltar~
+Descr
+An [1m[30munholy, black [0m[36maltar sits at the north end of the shrine.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 62023 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62008
+Name portal green~
+Short a [1m[32mgreen [0mportal~
+Descr
+A [1m[32mgreen [0m[36mportal is here, blinking in and out of reality.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 62020 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62010
+Name sv swirling vortex~
+Short a swirling vortex~
+Descr
+A nearly invisible, swirling vortex is here.
+[0;36m~
+Type 12
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 8401 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62011
+Name unholy water spring~
+Short a spring of [1m[30munholy [0m[34mwater[0m~
+Descr
+A large obsidian spring of [1m[30munholy [0m[34mwater [0m[36mflows silently here.
+[0;36m~
+Type 25
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 -1 -1 -1 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62012
+Name two-handed two handed flame flametounge huge~
+Short [31ma huge, two-handed [1mflametounge[0m~
+Descr
+An enormous sword lies on the ground here, radiating pure evilness.
+[0;36m~
+Type 5
+Extra 2097152
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 50 0 3 0 0 0 7 2 0
+Weight 15
+Cost 0
+End
+
+#62013
+Name crimson scroll~
+Short a [1mcrimson [0mscroll~
+Descr
+A heavy, crimson scroll lies on the ground here.
+[0;36m~
+Type 2
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 75 38 37 -1 0 0 0 0 0 0
+Weight 1
+Cost 750
+End
+
+#62014
+Name no name~
+Short (no short description)~
+Descr
+(no description)~
+Type 13
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62015
+Name potion radiating thorn USE ME~
+Short a [1m[31mradiating [0mpotion, entangled in a [32mgreen [0mthorn~
+Descr
+A potion radiating with red energy lies on the ground.
+[0;36m~
+Type 10
+Extra 1
+Wear 1
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 60 31 45 35 0 0 0 0 0 0
+Weight 2
+Cost 1500
+End
+
+#62016
+Name pie pestilence~
+Short the pie of [1m[30mpestilence[0m~
+Descr
+An evil looking pie lies here.
+[0;36m~
+Type 19
+Extra 2
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#62017
+Name bread power~
+Short the [33mbread [0mof [1m[36mpower~
+Descr
+A powerful looking piece of bread lies here.
+[0;36m~
+Type 19
+Extra 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 1000
+End
+
+#62018
+Name the holy backscratcher~
+Short flaming bracelet~
+Descr
+(no description)~
+Type 13
+Extra 1
+Wear 1025
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62019
+Name portal~
+Short a portal~
+Descr
+A portal lies here, leading to the unknown.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 62034 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62020
+Name violet purple~
+Short something~
+Descr
+A portal lies here, unseen to mortals.
+[0;36m~
+Type 12
+Extra 65536
+Wear 0
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 4 70224 0 0 0 0 0 0 0 0
+Weight 0
+Cost 0
+End
+
+#62021
+Name hamburger holyness FUNNY~
+Short the hamburger of [1m[36mholyness~
+Descr
+A holy looking hamburger sits here, ready to be eaten.
+[0;36m~
+Type 19
+Extra 1
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 50 0 0 0 0 0 0 0 0 0
+Weight 1
+Cost 0
+End
+
+#62024
+Name book magic verses~
+Short a book of magical verses~
+Descr
+A magical looking book lies in the dirt.
+[0;36m~
+Type 13
+Extra 3
+Wear 16385
+Values2 0 0 0 0 0 0 0 0 0 0
+Weight 2
+Cost 0
+ExtraDescr book~
+The colours of the portals shall tell the tale.. for if you are smart at
+
+heart, you will prevail.
+
+
+Enter your answer within the shrine, you may just be lucky enough to find
+
+my secret study.  Beware mortals, that this is not the only secret that
+
+you may stumble upon within these walls.. If your intellect surpasses all
+
+others, you may benefit from your wisdom and efforts.
+
+
+
+The rest of the book has faded away from time:
+
+> T pe En er <portal> t  fi d th  hid en ro ms.
+
+~
+End
+
+#62025
+Name magical bracer bracers~
+Short the [1m[36mmagical [0mbracer of Uuial~
+Descr
+A bracer surrounded by a light-blue magical aura floats here.
+[0;36m~
+Type 9
+Extra 1
+Wear 4097
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 3 0 0 0 0 0 0
+Weight 0
+Cost 6000
+Affect 26 5 1 0 0
+Affect 13 10 1 0 0
+Affect 14 12 1 0 0
+End
+
+#62030
+Name tickle me torak doll strange~
+Short a [0m[1m[34mT[32mi[36mc[31mk[35ml[33me[0m [0m[1m[37mM[0m[37me[0m [1m[35mT[0m[37mo[1m[37mr[0m[35ma[1m[35mk[0m [0mdoll[0m~
+Descr
+A strange doll lies on the ground.
+[0;36m~
+Type 5
+Extra 131073
+Wear 24577
+Values2 0 0 0 0 0 0 0 0 0 0
+Values 0 0 0 11 0 0 0 1 1 0
+Weight 0
+Cost 0
+End
+
+#0
+
+
+
+#ROOMDATA
+#62000
+Name An Enormous, Evil Cavern~
+Descr
+You stand within an enormous, evil cavern that spans approximently
+five-hundred metres to both the north and eastern directions.  Many
+creatures of evil dwell within this cavern, probably locked down here for
+centuries.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62004 5 100
+Reset O 62024 22 25
+Reset O 62004 0 5
+Reset M 62001 20 75
+Reset M 62001 20 75
+Door 0 0 0 62001 0 0
+~
+~
+Door 1 0 0 62009 0 0
+~
+~
+Door 3 535 0 62021 28 28
+~
+huge iron door~
+End
+
+#62001
+Name An Enormous, Evil Cavern~
+Descr
+You stand in the eastern section of an enormous, evil cavern; trying not
+to stick out like a sore-thumb.  The cavern continues north for a couple
+hundred metres where a wall blocks any further passage.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62003 5 100
+Reset O 62000 23 5
+Reset M 62001 20 75
+Reset M 62001 20 75
+Door 0 0 0 62002 0 0
+~
+~
+Door 1 0 0 62010 0 0
+~
+~
+Door 2 0 0 62000 0 0
+~
+~
+End
+
+#62002
+Name An Enormous, Evil Cavern~
+Descr
+Various creatures of evil stare at you with curiousity, not sure if they
+should attack you with total rage, or let you dwell among them within this
+large, evil cavern.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62002 7 100
+Reset M 62001 75 75
+Door 0 0 0 62003 0 0
+~
+~
+Door 1 0 0 62011 0 0
+~
+~
+Door 2 0 0 62001 0 0
+~
+~
+End
+
+#62003
+Name An Enormous, Evil Cavern~
+Descr
+You stand at the most north-western section of this large cavern with
+your back against the wall.  The temperature within this area seems quite
+hot, considering you are deep below the freezing earth surface.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62006 10 100
+Reset M 62003 5 100
+Reset O 62000 23 5
+Door 1 0 0 62004 0 0
+~
+~
+Door 2 0 0 62002 0 0
+~
+~
+End
+
+#62004
+Name An Enormous, Evil Cavern~
+Descr
+Many screams of agony can be heard in all directions as you travel among
+this evil, dark cavern.  Blood is splattered all over the walls here; you
+hope you won't have the misfortune of adding yours to it.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Door 1 0 0 62005 0 0
+~
+~
+Door 2 0 0 62011 0 0
+~
+~
+Door 3 0 0 62003 0 0
+~
+~
+Door 5 263 0 62030 30 30
+~
+stone slab~
+End
+
+#62005
+Name An Enormous, Evil Cavern~
+Descr
+North of here, a large jagged-granite wall vectors in and east-western
+direction, blocking your passage.  Not too far east of here lies what seems
+to be the north-eastern corner within this underground cavern.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62002 100 7
+Reset M 62002 100 7
+Door 1 0 0 62012 0 0
+~
+~
+Door 2 0 0 62006 0 0
+~
+~
+Door 3 0 0 62004 0 0
+~
+~
+End
+
+#62006
+Name An Enormous, Evil Cavern~
+Descr
+As you observe the creatures that dwell among this cavern, a shiver is
+sent up your spine in total fear.  The cavern continues in all directions,
+leading into total darkness.
+~
+Flags 4
+Sector 0
+Reset M 62004 5 100
+Reset O 62004 0 5
+Reset M 62002 7 100
+Door 0 0 0 62005 0 0
+~
+~
+Door 1 0 0 62013 0 0
+~
+~
+Door 2 0 0 62007 0 0
+~
+~
+Door 3 0 0 62011 0 0
+~
+~
+End
+
+#62007
+Name An Enormous, Evil Cavern~
+Descr
+Water drips from the twenty-foot ceiling of this enormous cavern, echoing
+off the walls and breaking the eerie silence.  You seem to be almost
+directly in the center of this cavern, for each of the walls almost seem to
+be of equal distance from your current position.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62001 20 75
+Reset M 62001 20 75
+Door 0 0 0 62006 0 0
+~
+~
+Door 1 0 0 62014 0 0
+~
+~
+Door 2 0 0 62008 0 0
+~
+~
+Door 3 0 0 62010 0 0
+~
+~
+End
+
+#62008
+Name An Enormous, Evil Cavern~
+Descr
+The ground within this cavern is cold to the touch, yet the air seems to
+be warmed from an unknown source.  The cavern extends in every direction
+except south, where a jagged-granite wall blocks your passage.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62004 5 100
+Reset O 62004 0 5
+Reset M 62003 5 100
+Reset O 62000 23 5
+Reset M 62001 20 75
+Door 0 0 0 62007 0 0
+~
+~
+Door 1 0 0 62015 0 0
+~
+~
+Door 3 0 0 62009 0 0
+~
+~
+End
+
+#62009
+Name An Enormous, Evil Cavern~
+Descr
+As you trudge along this enormous cavern, you are startled by the number
+of evil creatures that dwell among it's grasp.  The dark cavern grounds
+extend both east, north and west.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Door 0 0 0 62010 0 0
+~
+~
+Door 1 0 0 62008 0 0
+~
+~
+Door 3 0 0 62000 0 0
+~
+~
+End
+
+#62010
+Name An Enormous, Evil Cavern~
+Descr
+Rats scurry along the ground of this evil cavern, attempting not to be
+stepped upon.  There is no source of illumination within this section of the
+cavern, making visibility very poor.
+~
+Flags 4
+Sector 0
+Reset M 62006 10 100
+Reset M 62002 7 100
+Reset M 62002 7 100
+Reset M 62001 20 75
+Reset M 62001 20 75
+Door 0 0 0 62011 0 0
+~
+~
+Door 1 0 0 62007 0 0
+~
+~
+Door 2 0 0 62009 0 0
+~
+~
+Door 3 0 0 62001 0 0
+~
+~
+End
+
+#62011
+Name An Enormous, Evil Cavern~
+Descr
+As you walk along this evil cavern, you hear many blood-curdling cries
+that make your soul shiver with fear.  The cavern continues in every
+direction possible, leading into total darkness.
+~
+Flags 4
+Sector 0
+Reset M 62003 5 100
+Reset O 62000 23 5
+Reset M 62002 7 100
+Reset M 62001 20 75
+Door 0 0 0 62004 0 0
+~
+~
+Door 1 0 0 62006 0 0
+~
+~
+Door 2 0 0 62010 0 0
+~
+~
+Door 3 0 0 62002 0 0
+~
+~
+End
+
+#62012
+Name An Enormous, Evil Cavern~
+Descr
+Here in in the north-eastern corner of this dark, dank cavern, burns a
+small, yet raging fire.  The cavern extends south, and west into less
+illuminated areas.
+~
+Flags 4
+Sector 0
+Reset O 62003 -5 100
+Reset M 62005 1 100
+Reset O 62001 4 20
+Reset O 62002 11 10
+Reset O 62012 21 5
+Door 2 0 0 62013 0 0
+~
+~
+Door 3 0 0 62005 0 0
+~
+~
+End
+
+#62013
+Name An Enormous, Evil Cavern~
+Descr
+Rats scurry along the ground of this evil cavern, attempting not to be
+stepped upon.  There is no source of illumination within this section of the
+cavern, making visibility very poor.
+~
+Flags 4
+Sector 0
+Reset M 62004 5 100
+Reset O 62024 22 25
+Reset O 62004 0 5
+Reset O 62013 -1 4
+Reset M 62003 5 100
+Reset O 62000 23 5
+Door 0 0 0 62012 0 0
+~
+~
+Door 2 0 0 62014 0 0
+~
+~
+Door 3 0 0 62006 0 0
+~
+~
+End
+
+#62014
+Name An Enormous, Evil Cavern~
+Descr
+Various creatures of evil stare at you with curiousity, not sure if they
+should attack you with total rage, or let you dwell among them within this
+large, evil cavern.
+~
+Flags 4
+Sector 0
+Reset M 62004 5 100
+Reset O 62024 22 25
+Reset O 62004 0 5
+Reset O 62013 -1 4
+Door 0 0 0 62013 0 0
+~
+~
+Door 2 0 0 62015 0 0
+~
+~
+Door 3 0 0 62007 0 0
+~
+~
+End
+
+#62015
+Name An Enormous, Evil Cavern~
+Descr
+You stand within the south-eastern corner of this enormous cavern, trying
+not to disrupt the creatures that dwell among it.  The cavern extends both
+north and west towards opposite corners.
+~
+Flags 4
+Sector 0
+Reset M 62003 5 100
+Reset O 62000 23 5
+Reset O 62005 -5 100
+Door 0 0 0 62014 0 0
+~
+~
+Door 3 0 0 62008 0 0
+~
+~
+End
+
+#62016
+Name A Dark, Mist-Filled Tunnel~
+Descr
+This frigid, cold tunnel spans approximently twelve feet in diametre, but
+the visibility in this area is limited due to the white rising mist that
+dominates the tunnel.  Directly east of here lies a couple huge demonic
+guards, guarding what seems to be an enormous iron door.
+~
+Flags 4
+Sector 0
+Door 1 0 0 62021 0 0
+~
+~
+Door 3 0 0 62017 0 0
+~
+~
+End
+
+#62017
+Name At the Bottom of a Large, Dark Shaft~
+Descr
+Looking straight up, you see the large, rocky shaft in which you entered
+this hellish underground realm from.  A large, circular granite tunnel
+extends east of here into darkness.
+~
+Flags 4
+Door 1 0 0 62016 0 0
+~
+~
+Door 4 0 0 62018 0 0
+~
+~
+End
+
+#62018
+Name A Dark, Rocky Shaft~
+Descr
+The cold, rocky floor of this large shaft lies about twenty feet below
+your current position.  Just then, the section of the rocky shaft that you
+have been holding on to crumbles to dust, leaving you with no other climbing
+alternative.
+~
+Flags 131076
+Sector 0
+Door 4 0 0 62019 0 0
+~
+~
+Door 5 0 0 62017 0 0
+~
+~
+End
+
+#62019
+Name A Dark, Rocky Shaft~
+Descr
+As you desend slowly into the unknown depths below, you feel the
+temperature begin to drop rapidly.  Not too far above your head, lies a
+heavy iron slab leading back up into the above world.
+~
+Flags 4
+Sector 0
+Door 4 0 0 62020 0 0
+~
+~
+Door 5 0 0 62018 0 0
+~
+~
+End
+
+#62020
+Name A Dark, Rocky Shaft~
+Descr
+You grab on to the jagged-rock faced wall, trying not to slip and fall to
+your bloody, horrible death.  Directly above your head lies a heavy, iron
+slab, most likey attempting to seal-up the evilness that dominates the area
+below.
+~
+Flags 4
+Sector 0
+Door 4 0 0 62027 0 0
+~
+~
+Door 5 0 0 62019 0 0
+~
+~
+End
+
+#62021
+Name Before an Enormous Iron Doorway~
+Descr
+You stand before an enormous iron door, guarded by a couple huge demonic
+guards.  Heat is emitted from the eastern area, warming this section of the
+tunnel significantly.
+~
+Flags 4
+Sector 0
+Reset M 62000 2 100
+Reset M 62000 2 100
+Door 1 535 0 62000 28 28
+~
+huge iron door~
+Door 3 0 0 62016 0 0
+~
+~
+End
+
+#62022
+Name Inside a Small Shrine~
+Descr
+You stand in the middle of a small, well-decorated shrine.  At the
+northern end, a large, black altar has been errected for the unholy
+preachings.  As you scan the back-area of this evil shrine, you stumble upon
+a set of portals, leading into unknown territory.
+~
+Flags 3076
+Sector 0
+Reset O 62006 -5 100
+Reset O 62008 -5 100
+Reset O 62007 -5 100
+Reset O 62019 -5 100
+End
+
+#62023
+Name Behind the Altar~
+Descr
+You stand just behind an enormous black altar which leads into the main
+section of an unholy shrine.  You feel an overwelming sense of peace here,
+almost like the demons are protecting your very soul.  As you decide to put
+your feet up and rest for awhile, a magical sensesation rushes through your
+body, regenerating your mana at an increased rate.
+~
+Flags 3148822
+Sector 0
+Reset O 62011 -5 100
+Door 2 0 0 62022 0 0
+~
+~
+Door 5 259 0 0 30 30
+~
+evilblood~
+End
+
+#62024
+Name A Rough, Rocky Trail~
+Descr
+This path is narrow and covered with loose rocks.  The threat of falling
+off of the cliff to the east is very real to you as you stumble along.  The
+path seems to bend directly to the south of here, you wonder where it could
+go.
+~
+Flags 4
+Door 1 0 0 62070 0 0
+~
+~
+Door 2 0 0 62025 0 0
+~
+~
+End
+
+#62025
+Name A Bend in the Path~
+Descr
+Here the path gets impossibly more narrow as it winds down the cliff
+face.  At least here there is a wall preventing you from falling to the
+south.  Looking upward, you see that the walls seem to join far above your
+head, but realize its an optical illusion from the great heigth of the
+walls.
+~
+Flags 4
+Door 0 0 0 62024 0 0
+~
+~
+Door 1 0 0 62026 0 0
+~
+~
+End
+
+#62026
+Name A Decending, Rocky Path~
+Descr
+Now the path is almost a tunnel, the walls almost block out all light
+from the sky and you feel a twinge of hesitancy about going on.  The path
+itself is much safer now, with walls on both sides and not as near as much
+loose rubble.
+~
+Flags 4
+Shd 1
+Door 1 0 0 62027 0 0
+~
+~
+Door 3 0 0 62025 0 0
+~
+~
+End
+
+#62027
+Name A Clearing at the End of the Path~
+Descr
+You stand in a small clearing in a valley.  At the far end of the
+clearing is a small hole leading down into the blackness of the rock below.
+The sounds coming up from the hole are very unmistakable, the sounds of
+bones grinding on teeth.  The narrow, rocky path you just left is looking
+very inviting.
+~
+Flags 4
+Door 3 0 0 62026 0 0
+~
+~
+Door 5 0 0 62020 0 0
+~
+~
+End
+
+#62028
+Name The Hidden Room~
+Descr
+Ill do it later.
+-Icabod
+~
+Flags 4
+Sector 0
+Reset M 62007 1 100
+Door 0 0 0 62069 0 0
+~
+~
+End
+
+#62030
+Name Inside a Dark, Vertical Alcove~
+Descr
+You find yourself in the middle of a cold, dank vertical alcove.  The
+walls that surround you are made of a hard and course mineral, alike none
+you have seen before.
+~
+Flags 5
+Door 4 259 0 62004 30 30
+~
+stone slab~
+Door 5 0 0 62031 0 0
+~
+~
+End
+
+#62031
+Name Inside a Dark, Vertical Alcove~
+Descr
+Your nerves begin to wear thin as you descend deeper, and deeper within
+these dark, uncharted chaotic regions.  The shaft continues downwards into
+more darkness..
+~
+Flags 5
+Door 4 0 0 62030 0 0
+~
+~
+Door 5 0 0 62032 0 0
+~
+~
+End
+
+#62032
+Name At the Bottom of a Vertical Alcove~
+Descr
+This section of the alcove seems very unstable..  Almost as if the ground
+and walls that surround you are moving as you trudge along these chaotic
+regions.  A small, untrustworthy tunnel extends eastward into darkness.
+~
+Flags 5
+Door 1 0 0 62033 0 0
+~
+~
+Door 4 0 0 62031 0 0
+~
+~
+End
+
+#62033
+Name Before Some Large Boulders~
+Descr
+You stand before some very large-sized, jagged boulders.  Your instinct
+tells you that you should head back as soon as possible, for this section of
+the alcove seems very unstable indeed.  Suddenly the rocks from above shift,
+and land nearby.  The alcove continues back west.
+~
+Flags 134217733
+Door 3 0 0 62032 0 0
+~
+~
+End
+
+#62034
+Name Inside a Small, Dusty Study~
+Descr
+You are standing in the center of a small, dusty study that seems to be
+the workplace of a powerful mage.  Many candles that magically illuminate
+the room with a blue hue seem to burn endlessly hour by hour, minute by
+minute.  In the northern section of the study lies an old oaken desk,
+displaying many old and torn magical books and inserts.
+~
+Flags 4
+Reset M 62023 1 100
+Reset O 62025 -1 5
+Reset O 62006 -5 100
+End
+
+#62069
+Name The Path to Darkness~
+Descr
+Ill do it later
+-Icabod
+~
+Flags 4
+Sector 0
+Reset O 62010 -5 100
+Door 2 0 0 62028 0 0
+~
+~
+End
+
+#62070
+Name A Rough, Rocky Trail~
+Descr
+This path is narrow and covered with loose rocks.  The threat of falling
+off of the cliff to the east is very real to you as you stumble along.  The
+path seems to bend directly to the south of here, you wonder where it could
+go.
+~
+Flags 4
+Door 3 0 0 62024 0 0
+~
+~
+Door 4 0 0 29068 0 0
+~
+~
+End
+
+#0
+
+
+
+#$
