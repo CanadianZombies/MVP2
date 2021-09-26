@@ -1,0 +1,43 @@
+#!/bin/csh -f
+# Written by Furey.
+# With additions from Tony and Alander
+# Revisions by Uriel.
+
+set port = 7777
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../world
+
+# Set limits
+nohup 
+#limit stack 2048k
+limit coredumpsize unlimited
+nice
+
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	  set logfile = ../log/$index.log
+	  if ( ! -e $logfile ) break
+	  @ index++
+    end
+
+    # Record starting time
+    date > $logfile
+
+    if ( -e ../src/MpV.patch ) then
+      mv -f ../src/MpV.patch ../src/MpV
+    endif
+    cp -f ../src/MpV ../src/MINE
+    mv -f ../src/MINE ../src/MpV
+    rm -f ../src/MINE
+    chmod 700 ../src/MpV
+    ../src/MpV $port >&! $logfile
+
+    sleep 5
+end
