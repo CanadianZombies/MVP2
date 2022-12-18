@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1G8OE4)
+
 # MVP2
 A MUD project I assisted a friend with back in the day. This code is old and unused by myself. I presume it is no longer maintained.
 
